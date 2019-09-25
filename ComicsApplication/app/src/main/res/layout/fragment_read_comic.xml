@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:clickable="true"
+    android:orientation="vertical"
+    tools:context=".reader.ReadComicFragment">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+
+        <ImageButton
+            android:id="@+id/buttonBack"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_arrow_back_black_24dp" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Title"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/buttonSetting"
+            android:layout_width="56dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_settings_black_24dp" />
+    </FrameLayout>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/vpComic"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

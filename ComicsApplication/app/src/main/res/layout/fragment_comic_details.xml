@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clickable="true"
+    android:background="@android:color/white"
+    tools:context=".details.ComicDetailsFragment">
+
+    <FrameLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+
+        <ImageButton
+            android:id="@+id/buttonBack"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_arrow_back_black_24dp"
+            />
+
+
+        <TextView
+            android:id="@+id/tvComic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAllCaps="true"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"/>
+
+    </FrameLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+
+       <LinearLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:padding="10dp">
+
+           <com.makeramen.roundedimageview.RoundedImageView
+               android:id="@+id/imageDetailsComic"
+               android:layout_width="0dp"
+               android:layout_height="wrap_content"
+               app:riv_corner_radius="8dp"
+               android:layout_weight="3"
+               android:src="@drawable/ic_launcher_background"/>
+       </LinearLayout>
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:padding="10dp"
+           android:orientation="vertical">
+
+           <TextView
+               android:id="@+id/tvCategories"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="Categories"/>
+
+           <TextView
+               android:id="@+id/tvAuthor"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="Author"/>
+
+           <TextView
+               android:id="@+id/tvStatus"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="Status"/>
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="horizontal">
+
+               <Button
+                   android:id="@+id/buttonRead"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_weight="1"
+                   android:text="Read online"/>
+
+               <Button
+                   android:id="@+id/buttonDownload"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_weight="1"
+                   android:text="Download"/>
+           </LinearLayout>
+       </LinearLayout>
+   </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.borjabravo.readmoretextview.ReadMoreTextView
+            android:id="@+id/tvDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Description:"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="Chapter list:"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rcvChapter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>
