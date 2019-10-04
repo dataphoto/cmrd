@@ -1,0 +1,57 @@
+ Nghịch lý ngữ nghĩa còn được gọi là Nghịch lý Grelling, hay Nghịch lý Nelson, hoặc Nghịch lý heterological: Nếu nó là vậy, thì nó không vậy; còn nếu nó không vậy, thì nó là vậy. Tiến sĩ Kurt Grelling (1886-1942) là một nhà toán học Đức từng có nhiều công trình chung với triết gia người Đức Leonard Nelson (1882-1927). Về cuối đời hai người tuyệt giao do nhiều bất đồng “không thay đổi” được, trong đó có bất đồng chính trị.
+ 
+ Gốc của toàn bộ các nghịch lý logic và nghịch lý ngữ nghĩa là nghịch lý Russell - gọi theo tên tác giả của nó, triết gia Anh thế kỷ hai mươi - Bertrand Russell. Nghịch lý đó thế này: “Liệu tập hợp của tất cả các tập hợp không phải là phần tử của chính chúng có phải là phần tử của chính nó?” Điều này thật gây sốc - đúng thế, nếu bạn tình cờ có bằng cấp cao về toán học. Nhưng hẵng khoan. Thật may, hai nhà logic học khác của thế kỷ hai mươi là Grelling và Nelson đã xuất hiện, với phiên bản dễ tiếp cận hơn của nghịch lý Russell. Nghịch lý ngữ nghĩa này xét khái niệm của các từ có ý nghĩa với chính bản thân chúng.
+ 
+ Thử tìm hiểu tiếp: có hai loại từ, một loại tự nó mô tả nó (từ tự tả - autological), còn loại kia không tự nó mô tả được nó (từ không tự tả - heterological). Ví dụ, các từ như “ngắn” (bản thân nó ngẳn), hoặc “dài ngoẵng” (bản thân vốn dài, nhiều âm tiết) là autological. Còn “dài” (chỉ có một âm tiết) là heterological. Vậy từ heterological phải chăng là heterological? Nếu nó không là vậy, thì nó không vậy; còn nếu nó không là vậy, thì nó là vậy. Ha! Ha!
+ 
+ Các bạn vẫn chưa cười được? Vậy thì, đây là một trường hợp khác, khái niệm triết học được chuyển dịch sang truyện cười để trở nên sáng tỏ hơn:
+ 
+ Một thị trấn nọ chỉ có một bác phó cạo duy nhất - nhân tiện nói thêm, bác ta là đàn ông - cạo mặt cho tất cả đàn ông trong thị trấn, và chỉ cạo cho những người đàn ông nào không tự cạo mặt. Vậy bác phó cạo có tự cạo mặt cho mình không?
+ 
+ Nếu bác ta có (tự cạo mặt) thì không. Nếu bác ta không (tự cạo mặt) thì có.
+ 
+ Đó là một nghịch lý Russell mà bạn có thể kể khi dự tiệc.
+ 
+ Chúng tôi không thường vào thăm nhà vệ sinh nữ, nên không biết trong đó xảy ra những gì, nhưng chúng tôi biết chắc rằng các độc giả nam giới đã quá quen thuộc với những nghịch lý nguệch ngoạc trên tường các ngăn vệ sinh nam, nhất là trong các khu đại học. Chúng là những nghịch lý logic ngữ nghĩa kiểu Russell và Grelling - Nelson, nhưng ngắn gọn hơn. Các bạn còn nhớ những nghịch lý đó không? Có nhớ bạn đã bắt gặp chúng ở đâu không?
+ 
+ “Câu này sai.” Nó đúng hay sai?
+ 
+ Hay:
+ 
+ Một người cố gắng để thất bại và đã thành công, vậy anh ta đã thất bại hay thành công?
+ 
+ Chỉ để cho vui, lần tới, nếu vào nhà vệ sinh, bạn hãy viết lên tường: “Từ ‘không tự tả’ thuộc loại từ tự tả hay từ không tự tả?” Một chuyện hay đáng để làm đấy.
+ 
+ xXx
+ 
+ DIMITRI: Hay đấy, nhưng tất cả những điều này liên quan gì đến việc trả lời những Câu Hỏi Lớn?
+ 
+ TASSO: Này, giả sử cậu đến thăm Nhà tiên tri ở Delphi và hỏi, “Tất cả những điều này có nghĩa gì?” Và ông ấy trả lời, “Cuộc đời là một chuyến du hý, mọi chuyến du hý đều vui: nên cuộc đời rất vui.” Logic luôn gợi cho cậu một cái gì đó để tán chuyện.  Nghịch lý ngữ nghĩa còn được gọi là Nghịch lý Grelling, hay Nghịch lý Nelson, hoặc Nghịch lý heterological: Nếu nó là vậy, thì nó không vậy; còn nếu nó không vậy, thì nó là vậy. Tiến sĩ Kurt Grelling (1886-1942) là một nhà toán học Đức từng có nhiều công trình chung với triết gia người Đức Leonard Nelson (1882-1927). Về cuối đời hai người tuyệt giao do nhiều bất đồng “không thay đổi” được, trong đó có bất đồng chính trị.
+ 
+ Gốc của toàn bộ các nghịch lý logic và nghịch lý ngữ nghĩa là nghịch lý Russell - gọi theo tên tác giả của nó, triết gia Anh thế kỷ hai mươi - Bertrand Russell. Nghịch lý đó thế này: “Liệu tập hợp của tất cả các tập hợp không phải là phần tử của chính chúng có phải là phần tử của chính nó?” Điều này thật gây sốc - đúng thế, nếu bạn tình cờ có bằng cấp cao về toán học. Nhưng hẵng khoan. Thật may, hai nhà logic học khác của thế kỷ hai mươi là Grelling và Nelson đã xuất hiện, với phiên bản dễ tiếp cận hơn của nghịch lý Russell. Nghịch lý ngữ nghĩa này xét khái niệm của các từ có ý nghĩa với chính bản thân chúng.
+ 
+ Thử tìm hiểu tiếp: có hai loại từ, một loại tự nó mô tả nó (từ tự tả - autological), còn loại kia không tự nó mô tả được nó (từ không tự tả - heterological). Ví dụ, các từ như “ngắn” (bản thân nó ngẳn), hoặc “dài ngoẵng” (bản thân vốn dài, nhiều âm tiết) là autological. Còn “dài” (chỉ có một âm tiết) là heterological. Vậy từ heterological phải chăng là heterological? Nếu nó không là vậy, thì nó không vậy; còn nếu nó không là vậy, thì nó là vậy. Ha! Ha!
+ 
+ Các bạn vẫn chưa cười được? Vậy thì, đây là một trường hợp khác, khái niệm triết học được chuyển dịch sang truyện cười để trở nên sáng tỏ hơn:
+ 
+ Một thị trấn nọ chỉ có một bác phó cạo duy nhất - nhân tiện nói thêm, bác ta là đàn ông - cạo mặt cho tất cả đàn ông trong thị trấn, và chỉ cạo cho những người đàn ông nào không tự cạo mặt. Vậy bác phó cạo có tự cạo mặt cho mình không?
+ 
+ Nếu bác ta có (tự cạo mặt) thì không. Nếu bác ta không (tự cạo mặt) thì có.
+ 
+ Đó là một nghịch lý Russell mà bạn có thể kể khi dự tiệc.
+ 
+ Chúng tôi không thường vào thăm nhà vệ sinh nữ, nên không biết trong đó xảy ra những gì, nhưng chúng tôi biết chắc rằng các độc giả nam giới đã quá quen thuộc với những nghịch lý nguệch ngoạc trên tường các ngăn vệ sinh nam, nhất là trong các khu đại học. Chúng là những nghịch lý logic ngữ nghĩa kiểu Russell và Grelling - Nelson, nhưng ngắn gọn hơn. Các bạn còn nhớ những nghịch lý đó không? Có nhớ bạn đã bắt gặp chúng ở đâu không?
+ 
+ “Câu này sai.” Nó đúng hay sai?
+ 
+ Hay:
+ 
+ Một người cố gắng để thất bại và đã thành công, vậy anh ta đã thất bại hay thành công?
+ 
+ Chỉ để cho vui, lần tới, nếu vào nhà vệ sinh, bạn hãy viết lên tường: “Từ ‘không tự tả’ thuộc loại từ tự tả hay từ không tự tả?” Một chuyện hay đáng để làm đấy.
+ 
+ xXx
+ 
+ DIMITRI: Hay đấy, nhưng tất cả những điều này liên quan gì đến việc trả lời những Câu Hỏi Lớn?
+ 
+ TASSO: Này, giả sử cậu đến thăm Nhà tiên tri ở Delphi và hỏi, “Tất cả những điều này có nghĩa gì?” Và ông ấy trả lời, “Cuộc đời là một chuyến du hý, mọi chuyến du hý đều vui: nên cuộc đời rất vui.” Logic luôn gợi cho cậu một cái gì đó để tán chuyện. 
