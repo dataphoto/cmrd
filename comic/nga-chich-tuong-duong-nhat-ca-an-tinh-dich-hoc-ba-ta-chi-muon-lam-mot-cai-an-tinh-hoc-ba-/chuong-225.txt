@@ -1,0 +1,139 @@
+ 225 chương một bước nhỏ cùng một bước dài
+
+	Charles - Fefferman 12 tuổi học xong vi phân và tích phân, 17 tuổi tốt nghiệp ở Maryland đại học, 20 tuổi thu hoạch được Princeton toán học học vị tiến sĩ, 22 tuổi lúc trở thành Chicago đại học chính giáo thụ.
+
+	Charles - Fefferman thu hoạch được Fields thưởng lúc năm gần 29 tuổi, đang ngồi mặt khác chín vị Fields thưởng người đoạt giải lấy được thưởng lúc, đều không có Fefferman tuổi trẻ.
+
+	Fefferman khi còn bé là số lượng học thần đồng, lúc tuổi còn trẻ là chấn kinh thế giới toán học thiên tài, bây giờ là Princeton ngành toán học chủ nhiệm, nơi này lớn BoSS.
+
+	Princeton đại học mời chào toàn thế giới thiên tài, chưởng quản những thiên tài này người quản lý bản thân cũng tu có thiên tài thực lực, nếu không không quản được một đám thiên tài.
+
+	Fefferman từ hài đồng thời đại lên liền dẫn trước người đồng lứa, một mực dẫn trước đến hắn biến thành tiểu lão đầu, loại người này có rất mạnh dã tâm cùng thống trị muốn.
+
+	Sáu mươi tuổi ra mặt lão thiên mới Fefferman, để mắt tới hai mươi tuổi ra mặt tiểu thiên tài Thẩm Kỳ.
+
+	Quần chúng vây xem là trung niên đại thúc thiên tài, cùng già hơn đám thiên tài bọn họ.
+
+	Nếu như có thể thu được Trần Tỉnh Thân toán học thưởng, lấy được thưởng người là muốn lên đài phát biểu, cũng sẽ ở sau đó học thuật hội nghị bên trong trả lời Trung Quốc các chuyên gia đặt câu hỏi.
+
+	Thẩm Kỳ coi như hôm nay là hội trao giải hiện trường, khảo sát hắn chuyên gia tổ bên trong bất luận một vị nào, dùng tiền mời cũng không mời được.
+
+	Cái này hơn mười vị đại lão tụ tập cùng một chỗ, đừng nói Trần Tỉnh Thân toán học thưởng hội trao giải, cho dù là Fields thưởng hội trao giải, cũng không phải mỗi giới đều có thể nhìn thấy thịnh cảnh.
+
+	"Tôn kính Fefferman tiên sinh, ta rất vinh hạnh gia nhập hôm nay học thuật thảo luận hội." Thẩm Kỳ đứng lên, trong phòng chậm rãi đi lại, trạng thái một chút xíu ra: "Liên quan tới Walsh phỏng đoán nghiên cứu một mực tại tiếp tục, nhưng cũng không có người nào dùng một loại nhất nhanh gọn phương thức đem nó chứng minh, thế là ta làm như vậy, ta linh cảm là cho ra hư hai lần vực bên trong một chút đếm được hữu hiệu vô lý tính suy đoán. Rất may mắn, ta thành công."
+
+	Fefferman một tay bưng cà phê, một tay đọc qua  « tạp chí toán học Mỹ », hai chân tréo nguẫy, ánh mắt sắc bén hỏi: "Ngươi phần này linh cảm, tại ngươi luận văn bên trong không có nói tới."
+
+	"Luận văn bên trong nâng lên không tính toán gì hết, các vị đang ngồi tiên sinh thông qua mới chắc chắn, đây là Princeton quy củ." Thẩm Kỳ dạo bước đến bên cửa sổ, cùi chỏ khoác lên trên bệ cửa sổ, mặt mỉm cười nhìn như thong dong, trong đại não lại vô cùng khẩn trương tổ chức vòng tiếp theo ngôn ngữ.
+
+	"Đúng vậy, đây là Princeton quy củ." Witten giáo sư vui vẻ.
+
+	"Trung Quốc nam hài, ngươi học thật là nhanh, thông minh tiểu hỏa tử." Elon Lindenstrauss giáo sư cười.
+
+	Thẩm Kỳ ngay tại nếm thử dùng Princeton phương thức, để Princeton các đại lão biết hắn, tiếp nhận hắn, nhớ kỹ hắn.
+
+	Xem ra sơ có thành tựu hiệu.
+
+	Ăn nói có ý tứ chính là Fefferman chủ nhiệm, hắn đem chén cà phê đặt lên bàn , có vẻ như có chút bất mãn: "Thông qua hư hai lần vực bên trong một chút đếm được hữu hiệu vô lý tính suy đoán, tiến tới cho ra hữu hiệu đại số tới gần, phương pháp của ngươi cũng không mới lạ, thậm chí có chút lão thổ."
+
+	Cái này. . . Thẩm Kỳ trong lòng tự nhủ, đúng vậy nha, chủ nhiệm ngài nói chuyện thật là trực tiếp.
+
+	Thẩm Kỳ trầm mặc, trong lòng nhanh chóng suy nghĩ nên như thế nào ứng đối.
+
+	Đúng lúc này, vừa mới cho Thẩm Kỳ trợ công Lindenstrauss giáo sư, lại quay giáo một kích vạch: "Khăn đức tới gần, Thue phương trình, gap chuẩn tắc, không sai, Thẩm Kỳ ngươi dùng tất cả đều là vài thập niên trước thậm chí một trăm năm trước kỹ thuật."
+
+	Cái này. . . Thẩm Kỳ ngạc nhiên nhìn về phía Lindenstrauss giáo sư, vị này Israel người là số luận chuyên gia.
+
+	Princeton hội cao cấp nghị không phải là loại phong cách này, trước một phút đồng hồ khen ngợi ta, sau một phút đồng hồ làm khó dễ ta? Trước nãi đủ rồi, lại một quyền đánh giết?
+
+	Đồng dạng tại đọc qua  « tạp chí toán học Mỹ » một vị trung lão niên người da trắng đại lão bổ sung nói đến: "Cũng không có cái mới kỹ thuật."
+
+	Phủ định tam liên!
+
+	Thẩm Kỳ nhìn về phía vị này đầu to, mảnh cổ, làn da được không chướng mắt người da trắng đại lão, người này không phải người khác, chính chính là thập niên 80 tên nổi như cồn toán học thiên tài Gerd Faltings.
+
+	Gerd Faltings thu hoạch được Fields thưởng lúc 32 tuổi, cũng coi như tuổi còn trẻ liền công thành danh toại, hắn là đại số hình học cùng số luận lĩnh vực quyền uy chuyên gia.
+
+	Charles - Fefferman, Elon Lindenstrauss, Gerd Faltings ba vị Fields thưởng người đoạt giải trong vòng một phút liên tiếp ép hỏi, phủ định Thẩm Kỳ, cái này khiến Thẩm Kỳ cảm thấy ngoài ý muốn.
+
+	Ở mấy phút đồng hồ trước đó, Thẩm Kỳ còn tưởng rằng là để cho mình tới tham gia Princeton kiệt xuất thanh niên khen ngợi đại hội đâu.
+
+	Witten giáo sư đối Thẩm Kỳ nhún nhún vai, hắn biểu thị lực bất tòng tâm, hắn đối số luận không am hiểu.
+
+	Quốc tế học thuật đấu tranh quả nhiên vô cùng phức tạp, tàn khốc, Thẩm Kỳ chậm rãi đi đến lò sưởi trong tường một bên, ngồi xuống, quan sát trong lò chi hỏa.
+
+	Một đám đại lão cứ như vậy nhìn xem Thẩm Kỳ, chỉ nghe gặp đôm đốp đầu gỗ thiêu đốt âm thanh.
+
+	"Thẩm Kỳ?" Fefferman chủ nhiệm nhắc nhở Thẩm Kỳ cái này tỉnh.
+
+	Thẩm Kỳ đứng lên, mặt hướng các vị đại lão, vẫn như cũ bảo trì ung dung mỉm cười: "Apollo lên mặt trăng hạng mục bên trong cũng không sử dụng một hạng kỹ thuật mới, tất cả đều là đã biết kỹ thuật tổng hợp vận dụng, ta cho rằng, tổng hợp cũng là một loại sáng tạo cái mới. Fefferman tiên sinh, ngươi cảm thấy thế nào?"
+
+	"Tiếp xuống ta trả lời Lindenstrauss giáo sư vấn đề, ta xác thực không có sử dụng một hạng kỹ thuật mới đi chứng minh Walsh phỏng đoán, nhưng ta định nghĩa Thue phương trình cùng trên thế giới cái khác Thue phương trình không giống, ở đây định nghĩa bên trong, nếu như đối với cái nào đó k lớn hơn hoặc bằng 0, u2k+1 là một mét vuông số, thì u1 cũng là một mét vuông số. Ta hẳn là trong lịch sử cái thứ nhất như thế định nghĩa người, đương nhiên, đây không tính là cái gì , bất kỳ cái gì một cái có sơ đẳng toán học tri thức người đều có thể hạ định nghĩa."
+
+	"Faltings giáo sư, vấn đề của ngươi cùng Lindenstrauss giáo sư, câu trả lời của ta là, làm ta đối trọng tân định nghĩa toán học giả thiết làm ra hữu hiệu tới gần, nó chính là mới, hoàn toàn mới."
+
+	. . .
+
+	Thẩm Kỳ du tẩu tại các vị đại lão ở giữa, tựa như một vị du ngâm thi nhân, cao giọng ngâm tụng hắn cho rằng mỹ diệu thơ.
+
+	Bình tĩnh, tự tin, coi như không thể trăm phần trăm xác định cũng muốn nhất định phải biểu lộ ra tự tin bộ dáng.
+
+	Thẩm Kỳ tại trong gian phòng này làm đại đa số trần thuật, cũng chưa từng xuất hiện tại hắn luận văn bên trong, bởi vì hắn cũng là vừa mới lĩnh ngộ ra đến mới linh cảm.
+
+	Người a, đều là bị buộc ra.
+
+	Coi như bị bức tử, cũng nhất định phải thể diện.
+
+	 « Diofantos phương trình Walsh phỏng đoán chứng minh » đã chính thức phát biểu, nếu như lại cho Thẩm Kỳ một cơ hội, hắn cho là mình có thể viết ra một phần càng bổng luận văn.
+
+	Cái này muốn cảm tạ ba vị Fields thưởng người đoạt giải ép hỏi.
+
+	Thẩm Kỳ tại trong vòng nửa giờ đem tư tưởng cảnh giới cùng học thuật nhận biết thăng hoa đến một cái độ cao mới.
+
+	Toán học điểm kinh nghiệm +1
+
+	+2
+
+	. . .
+
+	Toán học điểm kinh nghiệm rầm rầm xoát, Thẩm Kỳ hiện tại đã cấp 9, loại này đại quy mô thường ngày xoát toán học điểm kinh nghiệm hiện tượng, toán học đến cấp 5 sau chưa hề xuất hiện qua.
+
+	Thẩm Kỳ không làm dừng lại trần thuật nửa giờ.
+
+	Fefferman chủ nhiệm cà phê tiếp theo ba chén, hắn không cắt đứt Thẩm Kỳ, hắn cuối cùng lộ ra tiếu dung.
+
+	Lindenstrauss, Faltings hai vị cấp Thế Giới số luận đại sư gật đầu không ngừng, Thẩm Kỳ chuyên nghiệp trần thuật bắt đầu dần dần đả động bọn hắn.
+
+	Nhìn xem các vị đại lão không tái phát hỏi, phủ định, Thẩm Kỳ cuối cùng thở một hơi, kỳ thật chỉ có chính hắn trong lòng rõ ràng, tại trận này biện luận bên trong, hắn luận cứ có nhiều hơn một nửa đều là hiện biên, nếu như chiếu vào hắn viết luận văn niệm một lần, khẳng định bị các đại lão phê phán hoài nghi nhân sinh.
+
+	Cũng không phải là nói Thẩm Kỳ luận văn viết trăm ngàn chỗ hở, mà là Princeton ngành toán học các đại lão yêu cầu quá cao, thậm chí hà khắc.
+
+	Ngoại trừ sẽ viết, ngươi còn phải sẽ nói, sẽ biểu diễn, phần diễn nhất định phải đủ, biểu lộ nhất định phải phong phú hay thay đổi, tự tin bên trong mang theo như mê mỉm cười.
+
+	"Ta đối với Walsh phỏng đoán chứng minh trần thuật dừng ở đây, tạ ơn." Thẩm Kỳ liên tục biểu diễn hơn nửa giờ, miệng đắng lưỡi khô, bộ mặt cơ bắp cười căng gân.
+
+	"Rất đặc sắc, so ngươi viết luận văn càng đặc sắc." Fefferman chủ nhiệm vỗ tay lên, nói với Thẩm Kỳ đến: "Đây chính là ta mời ngươi tham gia hôm nay hội nghị mục đích, Princeton ngành toán học sinh viên chưa tốt nghiệp số luận sách giáo khoa, bởi vì ngươi một cái chứng minh cần một lần nữa chỉnh sửa một bản."
+
+	"Mà chủ trì chỉnh sửa công tác biên soạn người bên trong, có hai vị Fields thưởng người đoạt giải. Đúng vậy, JAMS phát biểu ngươi luận văn không tính toán gì hết, muốn chúng ta đám người này thông qua được mới chắc chắn. Gray đức, ai long, ý kiến của các ngươi đâu?" Fefferman chủ nhiệm ngược lại hỏi thăm hai chữ số học đại sư cái nhìn.
+
+	Faltings giáo sư nói đến: "Mới số luận tài liệu giảng dạy đại khái sẽ giảm bớt 7 đến 9 trang."
+
+	Lindenstrauss giáo sư nói đến: "Thẩm Kỳ danh tự sẽ xuất hiện tại tân giáo tài bên trong, hắn đến nay năm đã chứng minh Walsh phỏng đoán, giảm bớt 7 đến 9 trang là bởi vì Walsh định lý mới tăng."
+
+	"Đây là toán học một bước nhỏ, lại là ngươi một bước dài, ta biên soạn qua ba quyển sách giáo khoa, cung cấp Princeton cùng Hopkins sinh viên đại học sử dụng. Hài tử, muốn khiêu chiến một chút không?" Witten giáo sư nhìn xem Thẩm Kỳ, hỏi.
+
+	"Edward, ngươi quá lười biếng, mới ba quyển, ta có sáu bản."
+
+	"Edward tăng thêm Andre, vừa vặn so ta nhiều một bản."
+
+	"Thẩm Kỳ, con của ta, muốn khiêu chiến một chút không?"
+
+	Chúng đại lão nhao nhao hỏi, bọn hắn mà biện thành viết sách giáo khoa đều là toán học giới kinh điển tài liệu giảng dạy, liền ngay cả "Bờ biển Tây toán học chi đô" Berkeley, cũng đang len lén sử dụng Princeton một ít giáo sư biên soạn toán học tài liệu giảng dạy.
+
+	"Ta. . ." Thẩm Kỳ bó tay rồi, ta không phải nhằm vào các ngươi trong đó vị kia, ta muốn nói là, các vị đang ngồi đều là. . . Thật to lớn lão!
+
+	Ha ha ha.
+
+	Tiếng cười bốn đợt.
+
+	Các đại lão không còn đùa Thẩm Kỳ, kén chọn bọn hắn xem như công nhận Thẩm Kỳ tiểu thành tích, đây là toán học một bước nhỏ, lại là một vị tuổi trẻ toán học nhà nghiên cứu một bước dài. 

@@ -1,0 +1,103 @@
+ 246 chương đạo tu khóa
+
+	Nghiên cứu Banach không gian trước đó, chúng ta có cần phải hoàn toàn biết rõ ràng Banach không gian, Hilbert bên trong tích không gian, phú phạm tuyến tính không gian ba cái này ở giữa khác nhau cùng liên hệ.
+
+	Phú phạm tuyến tính không gian là khoảng cách không gian, Hilbert bên trong tích không gian tất nhiên là phú phạm tuyến tính không gian, Banach không gian là hoàn mỹ phú phạm tuyến tính không gian. Đây là ba ở giữa cơ bản quan hệ.
+
+	Làm thâm niên chuyên gia, có đại sư trình độ toán học nhà nghiên cứu, Muller cùng Thẩm Kỳ đồng dạng cần dựa vào cơ sở nhất lý luận đi chứng minh hệ thống bên trong định lý.
+
+	Bên trong tích không gian bên trong bên trong tích có thể định nghĩa phạm số, mà phạm số không nhất định nhất định phải bên trong tích đến định nghĩa. Không gian Hilbert là Banach không gian đặc thù, mà Banach không gian là hoàn mỹ khoảng cách không gian đặc thù.
+
+	Cho nên, Thẩm Kỳ căn cứ vào Muller tại năm 1982 một đầu chứng minh trọng tân định nghĩa như sau:
+
+	"Banach không gian X một cái không phải chỗ trống tập C xưng là tới gần gấp, là chỉ đối tùy ý {xn}∞n=1C cùng tùy ý yX, nếu như có thể
+
+	‖xn-y‖→d ist(y, C)=inf{‖xn-y‖: xC},
+
+	Như vậy {xn}∞n=1 liền tồn tại một cái Cauchy liệt, xưng X là tới gần gấp, lại X mỗi cái bế lồi tử tập là tới gần gấp."
+
+	"Mạch suy nghĩ dần dần rõ ràng, Thẩm Kỳ ngươi cho rằng một cái Banach không gian X là tới gần gấp hợp lý lại vẻn vẹn khi nó có drop tính chất." Muller giáo sư lần nữa kiểm tra Thẩm Kỳ thiết định điều kiện tiên quyết.
+
+	Banach không gian tổng hợp giải tích hàm, topol, không gian hình học rất nhiều chi nhánh, là một cái khó khăn lĩnh vực, không thích hợp người mới học tiếp xúc.
+
+	"Không sai." Thẩm Kỳ cùng Muller bắt đầu giao lưu phi thường thông suốt, người thông minh không nói nhảm, nhà toán học không dài dòng.
+
+	"Cần ta làm cái gì?" Muller giáo sư hỏi, cũng không có bày ra giáo sư cùng đạo sư giá đỡ, hắn xem Thẩm Kỳ vì bình đẳng học thuật hợp tác đồng bạn, giống như năm đó Hardy cùng Ramanujan, Gauss cùng Riemann, Euler cùng Lagrange, Euclid phải cùng Archimedes.
+
+	Tại học thuật bên trên bình đẳng đối đãi đồ đệ sư phó, thường thường có thể cùng đệ tử cùng nhau ghi vào sử sách. Rất thích tiêu diệt đồ đệ Pythagoras, hắn tại toán học sử thượng danh vọng đánh giá là âm điểm.
+
+	Thẩm Kỳ nói đến: "Banach không gian RNP tính chất cùng ưởng lý luận phân tích liền xin nhờ Muller giáo sư, ngươi là phương diện này chuyên gia."
+
+	"oK, vậy chúng ta còn chờ cái gì? Chia ra làm việc đi, tranh thủ sau một tháng hợp bản thảo." Muller giáo sư tự thân đi làm, cái này dù sao cũng là hắn trước hết nhất nói ra một cái định lý, hắn muốn tự tay hoàn thành cái này vượt qua ba mươi mấy cái Xuân Thu, thẩm thấu phức tạp tình cảm đầu đề.
+
+	"oK." Thẩm Kỳ thu thập xong tư liệu, chuẩn bị rời đi Muller văn phòng, đi hoàn thành nhân sinh bên trong cái thứ nhất lấy dòng họ của mình mệnh danh toán học định lý.
+
+	"Đúng rồi, ngày mai ngươi đi mang đạo tu khóa, đây là ta giáo án dành trước cùng học sinh tin tức, ngươi làm quen một chút." Muller đưa cho Thẩm Kỳ một cái lại dày lại nặng túi văn kiện.
+
+	"Xem ra Muller giáo sư một trăm hai mươi đôla cũng không dễ dàng kiếm được." Thẩm Kỳ cười cười, tiếp nhận túi văn kiện cái này liền rời đi.
+
+	Ban đêm cùng sáng ngày thứ hai, Thẩm Kỳ bắt đầu biên soạn "Muller - Thẩm định lý" hắn phụ trách chứng minh bộ phận.
+
+	Thẩm Kỳ kiên trì đem chính mình dòng họ đặt ở đằng sau, lấy thể hiện đối đạo sư tôn trọng.
+
+	Cả một buổi chiều, Thẩm Kỳ cẩn thận nghiên cứu Muller liên quan tới Hình học phi Euclid giáo án, đây là công tác của hắn một bộ phận, hắn là Muller trợ giáo một trong.
+
+	Muller tại cái này học kỳ phụ trách đại học Princeton ngành toán học sinh viên chưa tốt nghiệp một môn chương trình học, Hình học phi Euclid.
+
+	Giảng bài có hai loại hình thức, giảng bài cùng đạo tu khóa.
+
+	Giảng bài bình thường an bài tại có thể chứa đựng hơn một trăm tên học sinh phòng học lớn bên trong tiến hành, chủ giảng người là giáo sư.
+
+	Trước tổng thống nước Mỹ Woodrow - Wilson tại đại học Princeton làm hiệu trưởng lúc, mới tăng một cái "preceptorial" chương trình học, tức đạo tu khóa, khi đó là năm 1905, môn học này một mực lan tràn đến hôm nay.
+
+	Đạo tu khóa thực hành mẫu giáo bé chế, bình thường do trợ giáo phụ trách, một cái đạo tu ban có 10-1 2 tên học sinh, nhiều nhất không cao hơn 15 danh học sinh.
+
+	Tại đạo tu lớp học, trợ giáo dẫn đầu sinh viên chưa tốt nghiệp nhóm ôn tập gần nhất một tuần việc học, ngành toán học đạo tu khóa phần lớn do giải đề cùng thảo luận cấu thành.
+
+	Princeton phi thường trọng thị sinh viên chưa tốt nghiệp giáo dục, sinh viên chưa tốt nghiệp nhóm bên trên xong giảng bài còn được đạo tu khóa, mỗi một cửa hạch tâm chương trình chuyên ngành đều thiết trí đạo tu khóa.
+
+	Đại học Princeton sinh viên chưa tốt nghiệp việc học nặng nề, cửa môn công khóa cầm tới A, còn có thể cua được muội tử hoặc soái ca, lại có thể chiếu cố xã đoàn hoạt động gần người dục vận động, vậy hắn hoặc nàng nhất định là ưu tú nhất phe thiểu số tinh anh.
+
+	8 giờ tối, Thẩm Kỳ đến phòng học nhỏ, đây là hắn làm trợ giáo lần thứ nhất phụ trách đạo tu khóa.
+
+	Một đường đạo tu khóa đồng dạng tiếp tục 2 giờ tả hữu, Thẩm Kỳ có thể dẫn tới 120 đôla thù lao.
+
+	Lúc lương 60 đôla tại nước Mỹ không tính thấp, dù sao Thẩm Kỳ xử lí chính là chuyên nghiệp tố chất tương đối cao lao động trí óc.
+
+	Ngoại trừ đạo tu khóa giờ dạy học phí bên ngoài, Thẩm Kỳ cũng có cố định tiền lương, một tháng thu nhập có mấy ngàn USD, cùng phía ngoài bạch lĩnh không sai biệt lắm.
+
+	"Các tiên sinh chào buổi tối, ta là Thẩm Kỳ, đến từ Trung Quốc, các ngươi đạo tu khóa người phụ trách. Các ngươi có thể gọi ta Thẩm, hoặc là kỳ, hoặc là Thẩm Kỳ. Đến, đi theo ta niệm, y phục ẩm ướt ân Thẩm, vợ áo kỳ, Thẩm ~ kỳ ~" Thẩm Kỳ đối trong phòng học 12 vị khoa chính quy năm thứ hai học sinh nói đến, cũng tại trên bảng đen viết ra tên của hắn "Shen-Qi" .
+
+	"Sion~Ki~" mười hai vị năm thứ hai học sinh đều là nam sinh, bình quân tuổi tác 20 tuổi, so Thẩm Kỳ nhỏ hơn một chút.
+
+	"Key, ngươi thật là tuổi trẻ, ngươi là ta gặp qua trẻ tuổi nhất trợ giáo."
+
+	"Ha ha, Key, ngươi đã thu hoạch được PhD sao?"
+
+	"Key, ta đoán ngươi là chòm song ngư."
+
+	Tiểu sư đệ nhóm đối Thẩm Kỳ tuổi tác, thân phận cảm thấy rất hứng thú, còn trẻ như vậy đạo tu khóa người phụ trách chưa từng thấy nha.
+
+	"Shen" đối với người ngoại quốc tới nói so sánh khó nắm giữ tiêu chuẩn phát âm, thế là các sư đệ quản Thẩm Kỳ gọi "Qi" .
+
+	Bởi vì phát âm quen thuộc, nhớ tới nhớ tới, "Qi" liền bị các sư đệ niệm thành "Ki", cùng "Chìa khoá" cái này từ đơn phát âm nhất trí. Tại nước Mỹ tiếng Anh bên trong, key không tóc dài âm, ký âm chính là 【 ki  ] .
+
+	"Trên thực tế ta ngay tại học tiến sĩ, đến nỗi tuổi của ta, giữ bí mật. Mà ta chòm sao, đồng dạng giữ bí mật." Thẩm Kỳ cười nói, những người tuổi trẻ này triều khí phồn thịnh, tràn ngập nhiệt tình, hiếu kì mà hưng phấn, để hắn nhớ tới chính mình thanh xuân tuế nguyệt.
+
+	"Các ngươi trả lời chính xác một vấn đề, ta liền giải tỏa ta một cái bí mật." Thẩm Kỳ nói đến.
+
+	"Tới đi tới đi, Key, hai giờ sau ngươi đi ra phòng học lúc, sẽ không còn bí mật có thể nói." Một vị người da trắng học sinh tràn đầy tự tin nói đến, hắn có mãnh liệt thăm dò muốn.
+
+	"Mặc dù là Hình học phi Euclid đạo tu khóa, nhưng ta tại bắt đầu Hình học phi Euclid phụ đạo trước đó, sẽ hỏi mấy số lượng học sử vấn đề. Ta từ đầu đến cuối cho rằng hiểu rõ toán học sử, mới có thể học tốt toán học." Thẩm Kỳ nói đến, "Ta thông qua danh sách đã nhớ kỹ mười hai vị soái ca danh tự, tiếp xuống ta đem dần dần điểm danh, ta muốn quen biết trong các ngươi mỗi một vị."
+
+	"Steven - Corey, ngươi hôm qua tiến vào mấy cái bóng ba điểm?" Thẩm Kỳ khóa chặt mấy vị người da trắng nam sinh, hắn cảm thấy Steven - Corey hẳn là tại trong mấy người sinh ra.
+
+	"Thật đáng tiếc, ta đánh vị trí là trung phong." Một vị thân cao chừng một thước tám người da trắng nam sinh cử đi nhấc tay, ra hiệu chính mình là Steven - Corey, cái tên này cùng NBA ngôi sao cầu thủ Stephen Curry phát âm giống nhau như đúc, khác biệt duy nhất chính là viết phương pháp.
+
+	"Tốt a, chúng ta cường lực nội tuyến Steven, mời nói cho ta, là ai đem Châu Âu toán học từ thời Trung cổ dài dằng dặc hắc ám bên trong giải cứu ra?" Thẩm Kỳ hỏi.
+
+	"Không hề nghi ngờ, vị này chúa cứu thế là Cardin." Steven không chút nghĩ ngợi trả lời đến, sau đó lập tức hỏi thăm: "Key, mời nói cho ta, tuổi của ngươi là? Nếu như ngươi so với ta tuổi tác càng nhỏ hơn, ta đem không thể nào tiếp thu được hiện thực này!"
+
+	"Ta cùng Fibonacci đồng niên." Thẩm Kỳ tại trên bảng đen viết xuống một nhóm tin tức, Leonardo - Fibonacci, 1175-1250.
+
+	"No-way!" Steven làm ra khoa trương bộ dáng, hắn đương nhiên biết Thẩm Kỳ không có khả năng cùng Fibonacci đồng niên, hắn cũng ý thức được chính mình vấn đề thứ nhất trả lời sai, là Fibonacci cứu vớt Châu Âu toán học mà không phải Cardin. 

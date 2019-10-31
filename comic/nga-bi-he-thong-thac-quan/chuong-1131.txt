@@ -1,0 +1,145 @@
+ Chương 1130: Hàng duy đả kích 
+
+	Phương Ninh móc ra một cái thủy tinh xúc xắc, trong miệng nói lẩm bẩm.
+
+	"Bằng vào ta trước mắt điểm dừng chân làm nguyên điểm, trước mắt ngực chỗ đối phương hướng vì x trục, tay phải là y trục, đỉnh đầu phương hướng vì z trục, thiết lập ba chiều hệ tọa độ, nếu như vua ngủ cùng mộng thần truyền thừa rơi vào đệ nhất góc vuông, vậy liền cho ta phát ra một điểm, rơi vào thứ hai góc vuông liền phát ra hai điểm, theo thứ tự suy ra..."
+
+	"Thế nhưng là ngươi chỉ có thể phát ra 6 cái điểm, ba chiều hệ tọa độ lại có 8 cái góc vuông." Đại gia nghi ngờ nói.
+
+	"Ngậm miệng." Phương Ninh một bên nói, một bên đem sáu mặt xúc xắc vụng trộm sửa chữa thành tám mặt xúc xắc.
+
+	Sau đó hắn hướng không trung ném đi, xúc xắc "Nhanh như chớp" một bên chuyển động, một bên bay mất...
+
+	Hắn nhìn đến đây, lập tức mắt trừng chó ngốc.
+
+	"Đây, đây là có ý tứ gì? Chẳng lẽ nói là đại phú hào ngươi chú định lấy không được hai thần truyền thừa?" Đại gia cũng rất kinh ngạc nói.
+
+	"Bớt nói nhảm, ta hiểu được, ta là tại vũ trụ, ngay cả cái trọng lực đều không có, cái này xúc xắc khẳng định là bay thẳng đi." Phương Ninh buồn bực nói.
+
+	"Vậy dễ làm, ta cho ngươi thực hiện một chút lực hút." Đại gia đề nghị.
+
+	"Vậy liền không được, " Phương Ninh hậm hực nói, " nếu là Thiên Vận, nếu có ngươi quấy nhiễu, cái kia còn có thể đi?"
+
+	"Vậy phải làm sao bây giờ? Hiện tại nhị giới va chạm mạnh, đã ba bốn tháng, ngươi nhìn chung quanh một chút, còn có có thể đặt chân tinh cầu a?" Đại gia ủ rũ đạo.
+
+	"Được rồi, để cho ta ngẫm lại, ném xúc xắc phương thức không được, đây là giải thích lấy lực vạn vật hấp dẫn quy luật làm cơ sở ngẫu nhiên phương thức thất bại. Ta phải lại tìm một cái phù hợp trước mắt thời không ngẫu nhiên phương thức." Phương Ninh nhíu mày nói.
+
+	"Ngươi hảo hảo tìm, bang ta không được ngươi."
+
+	"Có, ta viết cái chương trình đến làm ngẫu nhiên số." Phương Ninh linh cơ khẽ động đạo.
+
+	"Ngươi kia chương trình cũng không phải ngoại lực a?" Đại gia không tin nói.
+
+	"Thôi đi, ta là cái vũ trụ này thổ dân, do ta viết chương trình, đó là đương nhiên chính là thổ dân chương trình, khẳng định là nội lực."
+
+	"..."
+
+	Cũng không lâu lắm, Phương Ninh xuất ra một cái laptop, bắt đầu viết một cái ngẫu nhiên phần mềm nhỏ.
+
+	Đương nhiên thân là thâm niên lập trình viên hắn, rất rõ ràng, chương trình bên trong ngẫu nhiên số, là ngụy ngẫu nhiên số, nếu như hai lần ngẫu nhiên khoảng cách thời gian hơi ngắn, vậy liền sẽ xuất hiện đồng dạng ngẫu nhiên số.
+
+	Bất quá hắn có thể khoảng cách thời gian dài một chút, tóm lại chính là muốn để thời không bản nguyên hoàn toàn khống chế cái này ngẫu nhiên liền tốt.
+
+	Rất nhanh hắn lại viết ra một cái tám mặt xúc xắc chương trình.
+
+	"Như trên thuật, bắt đầu đi."
+
+	Phương Ninh bắt đầu nhấn vào trên máy vi tính xúc xắc.
+
+	Lần này, quả nhiên xuất hiện hiệu quả.
+
+	1 điểm.
+
+	"Xem ra là đệ nhất góc vuông, trước thuấn di cái một năm ánh sáng khoảng cách nhìn xem." Phương Ninh tùy ý quyết định nói.
+
+	"Ta luôn cảm thấy ngươi cái này quá đáng tin cậy, cái này đệ nhất góc vuông cũng là vô biên vô tận, ngươi chính là chơi đùa lung tung a." Đại gia khinh bỉ nói.
+
+	"Nói mò gì đại lão lời nói thật, " Phương Ninh ngượng ngùng nói, "Xem ra ta cái này ngẫu nhiên chương trình vẫn là đến lại chính xác một điểm."
+
+	Lần này, hắn tiến vào hệ thống không gian, bắt đầu cẩn thận lợi dụng ngẫu nhiên đếm bào chế chính mình muốn đi phương hướng cùng khoảng cách.
+
+	Ngụy Code như sau:
+
+	Trước ném mạnh một cái 8 mặt xúc xắc, quyết định ở vào thứ mấy góc vuông, tiến hành không gian chia cắt, giảm bớt tính toán lượng.
+
+	Sau đó tại chỉ định góc vuông bên trong, lại ném mạnh một cái phương hướng vectơ ngẫu nhiên vectơ, quyết định đi phương hướng cùng khoảng cách.
+
+	Sau đó đi đến địa điểm chỉ định, lập lại lần nữa ở trên hai bước.
+
+	Như vậy càng không ngừng thay đổi xuống dưới, thẳng đến phương hướng vectơ là 0 tuần hoàn bỏ dở, liền có thể tìm tới địa điểm chỉ định.
+
+	"Thật phức tạp, không nghĩ tới ta đều là Thần cấp hệ thống, đại phú hào ngươi vẫn là không thoát khỏi được Code chó sinh hoạt a, " đại gia mười phần cảm thán nói, "Chẳng lẽ đây chính là từ nơi sâu xa, tự có định số.
+
+	"
+
+	"Ngươi không biết rõ nha, tiên hiền nói qua, Thượng Đế chính là lập trình viên, thời không cùng vũ trụ đều là không liên tục, là từng cái lượng tử chỗ cấu tạo mà thành, vô luận là năng lượng vẫn là vật chất đều là như vậy." Phương Ninh cuối cùng viết xong chương trình, sau đó ra hệ thống không gian.
+
+	... ...
+
+	Ngày thứ 2 buổi chiều, 24 giờ Thiên Vận hiệu quả khó khăn lắm quá khứ.
+
+	Phương Ninh không biết rõ thuấn di nhiều ít năm ánh sáng, cuối cùng đứng tại một chỗ to lớn vô cùng gò núi trước đó, toàn bộ gò núi bị một đoàn màu hồng phấn mây mù bao phủ.
+
+	Ngọn núi này khâu, dài tới mấy trăm ngàn dặm, cứ như vậy vắt ngang tại vũ trụ tinh không ở giữa, nói nó là núi, còn không bằng nói là một cái kì lạ đại hào thiên thạch.
+
+	"Cái này một vạn công đức không có phí công hoa a, thật đúng là đi, đại gia ngươi nhìn, cái này gò núi, nếu như đem toàn cảnh thu nhỏ về sau, lại hiển lộ bày ra ra, không phải liền là một cái nằm xuống ngủ cự nhân a? Nguyên lai vua ngủ cùng mộng thần là một cái thần minh." Phương Ninh sợ hãi than nói.
+
+	"Vậy cũng không nhất định, ta hai cũng là cùng một chỗ, ngươi có thể nói là một vật sao?" Đại gia phản bác.
+
+	"Khẳng định không phải a, ngươi là đồ vật, ta không phải thứ gì." Phương Ninh nói năng hùng hồn đầy lý lẽ đạo.
+
+	"Ân, rất tốt, dù sao đều không phải là đồ chơi hay." Đại gia thừa nhận nói.
+
+	"Ít nói nhảm, bắt đầu làm việc, đem gia hỏa này kêu lên." Phương Ninh phân phó nói.
+
+	"Ngươi ngốc a, kêu hắn cũng không nghe thấy a, vẫn là nắm căn bổng tử đâm một chút, vừa vặn trước kia có cái quyền trượng, thật lâu vô dụng."
+
+	"Nói cũng đúng, " Phương Ninh liền từ hệ thống cất giữ trong vùng, xuất ra cực kỳ lâu trước kia buông xuống một cây quyền trượng, nhớ kỹ vẫn là tứ phía xà quái lưu lại.
+
+	Bây giờ nhìn nhìn, đều là con tôm nhỏ cấp bậc.
+
+	Khảm nạm lấy kim cương to lớn quyền trượng, tại núi này đồi cự nhân trước mặt, vẫn là lộ ra không có ý nghĩa.
+
+	Phương Ninh bay đi lên, tìm tới đối phương mí mắt bộ vị, bắt đầu hướng phía dưới đâm tới.
+
+	Treo giữa không trung, chọc lấy mấy lần, đối phương nháy đều không có nháy một chút.
+
+	"Xem ra là chết rồi, tất nhiên dạng này, chúng ta đem nó chia cắt chia cắt, tìm xem tài liệu, đây chính là Thần Thi a." Phương Ninh thở dài nói.
+
+	Đúng lúc này bao phủ màu hồng phấn mây mù sơn khâu cự nhân, đột nhiên trở mình.
+
+	"Là ai, quấy rầy bản thần yên giấc?" Ngữ khí mười phần táo bạo, xem ra cái này rời giường khí thật không nhỏ.
+
+	"Mẹ nó, ở trước mặt ta còn muốn trang bức,  " Phương Ninh tức giận nói, "Ta đều quên, hắn trước kia mắng qua chúng ta, đại gia, cho hắn điểm lợi hại nếm thử."
+
+	"Cái này đơn giản, tất nhiên nó vờ ngủ, ta đem nó số liệu hóa một chút, ngươi nghĩ bóp thành cái dạng gì liền bóp thành cái dạng gì."
+
+	Hệ thống nhắc nhở: (hệ thống lĩnh vực bắt đầu triển khai. )
+
+	"Lợi hại, ngươi lại khai phát ra chiêu thức mới." Phương Ninh tán thưởng đạo.
+
+	"Đây đều là đại phú hào dạy tốt." Đại gia khiêm tốn nói.
+
+	Một tầng vô hình gợn sóng, lập tức hướng kia to lớn sơn khâu cự nhân phủ tới.
+
+	Lúc này, người khổng lồ kia tựa hồ cảm giác được không ổn, muốn thu nhỏ thân thể chạy trốn.
+
+	Đáng tiếc đã chậm, lĩnh vực triển khai chỉ là trong nháy mắt sự tình.
+
+	Cái kia to lớn sơn khâu cự nhân, đã biến thành một bức họa, họa bên trong nhan sắc lộng lẫy, khí thế bàng bạc, đem toàn bộ cự nhân ngủ nằm đồ miêu tả đến sinh động như thật.
+
+	"Có thể a đại gia, ngươi cái này đều học xong hàng duy đả kích." Phương Ninh kinh hỉ nói.
+
+	"Bình thường, ai bảo gia hỏa này tư thế bày tốt, không vẽ xuống tới đều có lỗi với nó."
+
+	"Nói có lý, " Phương Ninh gật gật đầu, sau đó mang theo bức họa này tiến vào hệ thống không gian.
+
+	Mặc dù đại gia mới vừa rồi là đang trang bức, nhưng Phương Ninh biết, đây thật ra là bởi vì sơn khâu cự nhân đã không có gì lực lượng, nhìn như cái đầu rất lớn, bất quá là thể xác thôi.
+
+	Bằng không, thần minh tự có lĩnh vực, nhất định có thể chống cự hệ thống lĩnh vực.
+
+	"Đây mới gọi là rơi xuống đất Phượng Hoàng không bằng gà, sinh hoạt thật tàn khốc a." Phương Ninh vừa nói, vừa đi về phía hệ thống quán trọ.
+
+	Nơi đó còn có một cái thần, tin tưởng song phương hẳn là nhận biết, vừa vặn để làm môi giới.
+
+	Dù sao ăn ngủ, ngủ rồi ăn, ăn ngủ không phân gia nha. 

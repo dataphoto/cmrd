@@ -1,0 +1,117 @@
+ 396 chương Thần Hưng toán học thưởng
+
+	Năm nay Trung Quốc nhà toán học đại hội ở kinh tổ chức, Thẩm Kỳ, Âu Diệp đáp ứng lời mời tham dự.
+
+	Hội nghị đem tiếp tục bốn ngày, trước ba ngày tồn tại từ cả nước, toàn thế giới người Hoa nhà toán học làm học thuật báo cáo, ngày cuối cùng ban phát Thần Hưng toán học thưởng.
+
+	Thẩm Kỳ không có nói tên Thần Hưng toán học thưởng, hắn làm trọng yếu khách quý phát biểu một trận báo cáo, đề là  « Trung Quốc toán học tương lai phát triển xu thế triển vọng ».
+
+	Bao quát Âu Diệp ở bên trong, cái khác nhà toán học trong báo cáo cho đều là cụ thể lớp số học đề hoặc thành quả nghiên cứu.
+
+	Chỉ có Thẩm Kỳ một người không báo cụ thể đầu đề, hắn chủ yếu nói chuyện đàm đối với Trung Quốc toán học tương lai mười đến hai mươi năm phát triển xu thế triển vọng.
+
+	Thẩm Kỳ tại triển vọng bên trong vạch, Trung Quốc toán học muốn làm đại tố mạnh, không thể rời đi quốc gia ủng hộ, trọng yếu nhất chính là các trường trung học, nghiên cứu cơ cấu cần đem cơ sở toán học nghiên cứu đặt ở chiến lược tính điểm cao bên trên.
+
+	Thẩm Kỳ dự đoán, tương lai mười đến hai mươi năm, quốc tế toán học giới đem phát sinh biến hóa long trời lở đất, đại số hình học chờ bây giờ sốt dẻo nhất toán học nghiên cứu lĩnh vực hoặc đem quy về bình dân hóa thậm chí bình thường hóa, chúng ta ứng đem tinh lực chủ yếu đầu nhập trong môn học giao nhau hóa, thậm chí vượt ngành học giao nhau hóa mới trong lĩnh vực.
+
+	Chiến lược nghiên cứu, xu thế dự đoán tại đại đa số người xem ra là so sánh hư đồ chơi, những người chơi cổ phiếu hiện tại cơ bản không tin đầu tư chuyên gia hành tình dự đoán, tin chuyên gia không bằng nhắm mắt lại mù mờ.
+
+	Thẩm Kỳ cũng không trông cậy vào ở đây mỗi một vị nhà toán học đều có thể chăm chú nghe xong hắn xu thế triển vọng báo cáo, hắn phát hiện có người đánh lên ngáp.
+
+	Nhưng đại đa số quý khách vẫn là đồng ý Thẩm Kỳ quan điểm, Fields thưởng người đoạt giải không hội chiến hơi lắc lư nói loạn lời nói, chí ít sẽ không lắc lư người Hoa toán học đồng hành.
+
+	Thẩm Kỳ tại năm nay trên đại hội quen biết mấy vị đồng hành, cũng đem bọn hắn chiêu mộ được Thẩm Kỳ Toán học trung tâm nghiên cứu.
+
+	Ba vị đồng hành phân biệt đến từ Chiết Đại, Phục Đán, Nam Khai, trước đó thông qua thủy mộc ngành toán học Thạch chủ nhiệm đáp cầu dắt mối, ba người đã cùng Thẩm Kỳ điện thoại bàn bạc lên, lần này vào kinh thành tương đương với phỏng vấn.
+
+	Thẩm Kỳ Toán học trung tâm nghiên cứu toán học đội ngũ không ngừng phát triển lớn mạnh, trước mắt đã có sáu chữ số học nghiên cứu viên, bao dung đại số hình học, toán học vật lý, hệ thống động lực, giải tích hàm chờ trọng yếu nghiên cứu lĩnh vực.
+
+	Sau đó ba ngày do tương quan nhà toán học báo cáo cụ thể nghiên cứu đầu đề, Âu Diệp đi đến sân khấu, phát biểu  « Yesmanovic phỏng đoán chứng minh » báo cáo.
+
+	Bản này luận văn là Âu Diệp tốt nghiệp tiến sĩ luận văn, nàng tại nước Mỹ lúc đã công khai phát biểu tại toán học tập san bên trên.
+
+	Leo lên sân khấu chân nhân tú, đây là Âu Diệp lần thứ nhất.
+
+	Âu Diệp vẫn còn có chút khẩn trương, nàng mở miệng liền hỏi toàn trường quý khách: "Ta không quá sẽ nói chuyện, có thể hay không chỉ nói trọng điểm?"
+
+	"Có thể."
+
+	"Mỹ nữ không muốn nói chuyện, tự động phát ra PPT cũng không thành vấn đề."
+
+	Dưới đài quý khách vỗ tay, cổ vũ Âu Diệp lớn mật phát huy.
+
+	Sau đó Âu Diệp phát ra PPT, lấy nàng phương thức tiến hành báo cáo: "Cái này, Lucas danh sách."
+
+	"Cái này, Lucas số chẵn, đồng giá."
+
+	"Đứng yên số tự nhiên k, không z3 số tự nhiên giải."
+
+	"S bên trong tùy ý (x, y, z), thỏa mãn đại số số nguyên vòng."
+
+	"z=2, thay vào tư thế."
+
+	"Này phương trình chỉ có số nguyên giải, 2, 2, 2."
+
+	"Yesmanovic phỏng đoán, là chính xác đầu đề."
+
+	"Ta hồi báo xong tất, tạ ơn."
+
+	Âu Diệp thật chỉ nói trọng điểm, nàng vài phút kể xong  « Yesmanovic phỏng đoán chứng minh », cúi đầu gửi tới lời cảm ơn, đi.
+
+	"Ha ha, vị này Yến đại mỹ nữ quá có cá tính a?"
+
+	"Lời ít mà ý nhiều."
+
+	"Nàng là Thẩm Kỳ bạn gái."
+
+	"Kim thưởng đứng đầu người ứng cử."
+
+	Dưới đài quý khách nghị luận ầm ĩ, Thẩm Kỳ đặc biệt có thể giảng, mới mở miệng liền không dừng được, bạn gái của hắn vừa vặn tương phản, tích chữ như vàng. Hai người này có chút ý tứ, bình thường là thế nào sinh hoạt?
+
+	Đại hội tiến hành đến ngày cuối cùng, quả nhiên không ngoài sở liệu, Âu Diệp bằng vào toàn cầu thủ chứng Yesmanovic phỏng đoán thành tựu, thu được năm nay Thần Hưng toán học tiền thưởng thưởng.
+
+	Kim thưởng ban phát huy hiệu một viên, tiền thưởng 25000 đôla.
+
+	Âu Diệp lần nữa leo lên sân khấu, phát biểu lấy được thưởng cảm nghĩ: "Cầm cái này thưởng, thật vui vẻ."
+
+	Thật là vui vẻ, Âu Diệp nói xong câu này sau liền vui vẻ nói không ra lời, sững sờ xử tại nguyên chỗ.
+
+	Dưới đài Thẩm Kỳ khẩn trương, xong, Âu tiến sĩ đây là quên từ.
+
+	Giảng toán học thuật ngữ đi, Âu Diệp biểu hiện coi như 6, đối mặt dưới đài ô ương ô ương một đống người phát biểu cảm nghĩ, nàng kẹt lại.
+
+	"Tốt!" Trên khán đài một người dẫn đầu vỗ tay gọi tốt, hắn là Thẩm Kỳ thủ hạ nghiên cứu viên Tiêu Tuấn Long.
+
+	Tiêu Tuấn Long đứng lên tiếp tục vỗ tay, hắn đối Thần Hưng toán học thưởng sử thượng thủ vị nữ tính kim thưởng người đoạt giải gây nên lấy sùng cao nhất kính ý.
+
+	Thẩm Kỳ Toán học trung tâm nghiên cứu cái khác nghiên cứu viên nhao nhao đứng dậy vỗ tay, bọn hắn phát ra từ nội tâm tán thành Âu Diệp vị này nữ tính nhà toán học lấy được trác tuyệt thành tựu.
+
+	Đứng lên tối cao lĩnh thưởng đài nữ tính nhà toán học phi thường thưa thớt, toàn trường quý khách đứng dậy vỗ tay, vật hiếm thì quý.
+
+	Thẩm Kỳ cảm thấy tràng diện này đặc biệt cảm động, hắn cũng đứng dậy, hướng Âu Diệp gây nên lấy nhất chân thành chúc mừng.
+
+	Một cái hảo hán ba cái giúp, một cái toán học nữ tinh anh một đám người giúp.
+
+	Tại toàn trường quý khách lớn tiếng khen hay cùng cổ vũ dưới, Âu Diệp khôi phục thái độ bình thường, nàng nhớ tới lời kịch: "Cảm tạ cha mẹ của ta, đạo sư của ta, còn có bạn trai của ta, Thẩm Kỳ."
+
+	Âu Diệp càng giảng càng thuận: "Ta là nghiên cứu số luận, ta phi thường tán đồng Thẩm Kỳ toán học tư tưởng, lý luận độ cao quyết định ứng dụng chiều sâu, ngành học giao nhau hóa quyết định tương lai phát triển, tạ ơn, ta cảm nghĩ hoàn tất."
+
+	Dưới đài tiếng vỗ tay lôi minh, "Cầm cái này thưởng thật vui vẻ" cái này rất Âu Diệp, phía sau cảm nghĩ rất Thẩm Kỳ.
+
+	"Âu Diệp lời kịch, ngươi dạy nàng a?" Thẩm Kỳ bên người một vị toán học chuyên gia lão Khâu hỏi.
+
+	Thẩm Kỳ lắc đầu: "Không có không, nàng tự học, thật, năng lực học tập của nàng siêu cường."
+
+	Fields thưởng người đoạt giải lão Khâu là Thần Hưng toán học thưởng bình chọn uỷ ban chủ tịch, hắn tán đồng Âu Diệp tại số luận đạt thành tựu cao.
+
+	"Các ngươi cặp vợ chồng lợi hại, khắp thế giới xoát thưởng." Lão Khâu nói đến, lại hỏi: "Trong nhà ai quản tiền?"
+
+	"Ai toán học thành tích tốt, ai quản tiền." Thẩm Kỳ nở nụ cười.
+
+	"Giới này Thần Hưng toán học thưởng, ta không có đề cử ngươi vì người ứng cử, là bởi vì ta cho rằng ban giám khảo trong tiểu tổ trừ ta ra, những người khác khó mà đối ngươi làm ra đánh giá. Chúng ta không làm độc đoán, cho nên giới này không có ngươi phần." Lão Khâu cùng Thẩm Kỳ giải thích một chút, vì sao không có đề cử Thẩm Kỳ trúng tuyển bình thưởng danh sách.
+
+	Thẩm Kỳ chỉ chỉ trên đài: "Cái này thưởng cho nàng là được rồi, không cần cho ta."
+
+	"Trong các ngươi cái kia Mã Siêu Phàm, là ta từ nước Mỹ Brown đại học gọi tới thủy mộc, làm một năm, bị ngươi đào đi." Lão Khâu tại Thủy Mộc đại học treo danh hiệu, hắn cũng chỉ chỉ trên đài: "Đồng giá trao đổi, ta cũng phải từ trong các ngươi đào mấy người."
+
+	Đây là kinh động thủy mộc toán học trận doanh lớn BoSS, Thẩm Kỳ thản nhiên đối mặt: "Khâu giáo sư ngươi có chỗ không biết, Âu Diệp nàng không phải chúng ta trung tâm người, nàng biên chế tại Yến đại viện toán học." 

@@ -1,0 +1,77 @@
+ 473 chương ta nghĩ lẳng lặng
+
+	Thẩm Kỳ Toán học trung tâm nghiên cứu.
+
+	Thẩm Kỳ nghiên cứu xong Witten lưu lại N-S phương trình bản thảo về sau, đối Chu Vũ An cùng Tiêu Tuấn Long nói đến: "Witten thiết kế phép tính dàn khung là oK, lão gia tử cho chúng ta hạng mục này làm ra không ít cống hiến, ta đồng ý theo này dàn khung khai triển đến tiếp sau thay đổi nhỏ suy luận tính toán công việc.
+
+	"Trung tâm nhiều như vậy hạng mục, ta yên tâm nhất chính là N-S phương trình hạng mục, coi như chúng ta không tại Yến đại, hạng mục này y nguyên theo kế hoạch thúc đẩy, lấy được không sai tiến triển. Hai vị huynh đệ, vất vả các ngươi." Thẩm Kỳ đối Chu Vũ An cùng Tiêu Tuấn Long hai người này là rất yên tâm, tăng thêm Witten chiến lược tính ủng hộ, giải quyết N-S phương trình ở trong tầm tay.
+
+	Cho nên soái tài, tướng tài đặc biệt trọng yếu, Witten không hề nghi ngờ là một vị kinh nghiệm phong phú đại soái, Chu Vũ An, Tiêu Tuấn Long cũng dần dần trưởng thành là đại tướng cấp học thuật cốt cán.
+
+	Có đại soái, đại tướng, Thẩm Kỳ vị này trung tâm thổ hoàng đế liền bớt lo không ít, hắn có thể có nhiều hơn tư nhân thời gian bồi bồi người nhà, làm một chút yêu làm sự tình.
+
+	Trước mắt mà nói, có đại soái, đại tướng đoàn đội thực lực chỉ có N-S phương trình hạng mục tổ, cái khác hạng mục vẫn là đến Thẩm Kỳ nỗ lực đại lượng tinh lực chủ trảo.
+
+	"Vậy ta cùng lão Tiêu tiếp lấy hướng xuống làm?" Chu Vũ An hỏi.
+
+	"Chờ một chút." Thẩm Kỳ lần nữa thẩm duyệt Witten bản thảo, phát hiện một chút đáng giá thương thảo địa phương: "Nơi này có một cái vấn đề nhỏ, tại loại này phép tính dàn khung thiết lập dưới, tăng lượng phép tính tương dung tính yếu kém, tính toán độ chính xác không cao."
+
+	Chu Vũ An gật gật đầu: "Đúng vậy, Witten trước khi đi cũng là nói như vậy, theo Renault đếm được tăng lớn, loại này phép tính hoàn toàn mất đi tính ổn định cùng hữu hiệu tính. Nhưng hắn chưa tìm tới biện pháp giải quyết, nói về nước Mỹ tham gia xong nhi tử hôn lễ, lại cẩn thận suy nghĩ một chút."
+
+	Tiêu Tuấn Long như có điều suy nghĩ: "Cho nên phương trình vi phân riêng phần vô hạn lưu phép tính, cũng tồn tại không ổn định tính? ."
+
+	"Đầu tiên, chúng ta bốn người người đạt thành nhất trí ý kiến, khóa chặt chiến lược đại phương hướng, cái phương hướng này tính không thể dao động, nhất định phải kiên định chấp hành xuống dưới. Chi tiết vấn đề tồn tại một chút xíu, cái này rất bình thường, chúng ta tiếp tục hoàn thiện." Thẩm Kỳ đi đến bảng trắng trước, cầm lấy bút mực nước.
+
+	"Witten nhà thiếu gia kết hôn lần đầu thời điểm, Witten về New York châu quê quán nghỉ ngơi nửa năm, lần này uy ít hai cưới, lão Uy đoán chừng lại phải nghỉ ngơi nửa năm, hắn là khách tọa giáo sư, có quyền lợi về nước Mỹ nghỉ ngơi. Như vậy đi, để ta giải quyết lão Uy lưu lại vấn đề, tăng lượng phép tính ban sơ là ta nói lên, có thể hay không xử lý như vậy." Thẩm Kỳ tại bảng trắng bên trên vẽ lên mấy cái đồ án, hình vòng xoáy đồ án đại biểu tốc độ lưu tuyến đồ cùng áp lực đường mức đồ.
+
+	"Làm Renault số lấy giá trị rất lớn lúc, hẳn là có một cái chính thì tính chỗ ngoặt, tìm tới nó, điểm ấy phi thường mấu chốt. Kể từ đó, chúng ta liền có thể chứng minh phương trình vi phân riêng phần vô hạn lưu phép tính tính ổn định, lại đi cầu giải N-S phương trình, sẽ thuận lợi không ít."
+
+	Thẩm Kỳ cùng Chu Vũ An, Tiêu Tuấn Long liên tục thảo luận mấy giờ, tất cả mọi người cảm thấy oK.
+
+	"Trải qua mấy tháng mấy vòng nghiên cứu và thảo luận, thăm dò tính tiến công, hiện tại cuối cùng đáng tin cậy, N-S phương trình thật muốn bị chúng ta giải quyết. . . Tương đương kích thích a!" Tiêu Tuấn Long theo thói quen xoa tay, khi hắn nhìn thấy mỹ nữ hoặc là tại học thuật bên trên lấy được đột phá, đều sẽ bản năng làm như thế cái động tác.
+
+	Chân chính nghiên cứu khoa học người làm việc không sợ khổ không sợ mệt mỏi, liền sợ tìm không thấy phương hướng.
+
+	Không biết lĩnh vực hoặc là không giải quyết được vấn đề, khó liền khó tại phương hướng tính tìm kiếm bên trên.
+
+	Khoa học chính là không ngừng nếm thử, không ngừng tìm kiếm chính xác phương hướng.
+
+	Đương nhiên, khi lấy được câu trả lời chính xác trước đó, không ai dám nói mình dưới chân con đường này chính là sáng suốt nhất phương hướng tính con đường.
+
+	Thẩm Kỳ cũng không dám cam đoan N-S phương trình hạng mục theo loại này mạch suy nghĩ Logic thúc đẩy, liền nhất định có thể giải quyết vấn đề.
+
+	"Động đậy trước đi, có lẽ chúng ta loại này phương án không phải giải quyết N-S phương trình đơn giản nhất phương án, nhưng là con đường nào cũng dẫn đến Rome, bất kể như thế nào, chúng ta có thể đến nơi trước tiên Rome, chính là lịch sử tính thắng lợi." Thẩm Kỳ nói đến.
+
+	Chu Vũ An nhìn chằm chằm bảng trắng bên trên phương án, nói câu: "Nhưng có người, vừa ra đời ngay tại Rome thành."
+
+	Tiêu Tuấn Long: "Kia là bật hack!"
+
+	Chu Vũ An chuyển cái ghế, ghế ngồi tử bên trên tiếp tục nghiên cứu bảng trắng bên trên phương án: "Thẩm lão bản khả năng chính là loại kia sinh ra ở Rome thành người, hắn luôn có thể dẫn trước người khác một bước chạm đến thắng lợi rạng đông, từ Riemann phỏng đoán đến Hodge phỏng đoán, từ số luận đến đại số hình học, trên quốc tế đỉnh tiêm toán học đoàn đội rất cường thế cùng Thẩm lão bản cương chính mặt, cuối cùng chiến thắng đều là Thẩm lão bản. Bất quá N-S phương trình, chúng ta có vẻ như không có cái gì mạnh mẽ đối thủ cạnh tranh."
+
+	"Lão Chu, ngươi là có ý nghĩ gì?" Thẩm Kỳ hỏi.
+
+	"Đối với Thẩm lão bản vừa rồi nói lên chỗ ngoặt nguyên tắc, ta giống như có chút mới linh cảm, ta nghĩ lẳng lặng, để cho ta lẳng lặng." Chu Vũ An nhắm mắt trầm tư.
+
+	"Ôi ta đi, lão Chu đây là tiến vào tu chân trạng thái, ngươi nếu có thể tìm tới cái này chỗ ngoặt, chứng minh chỗ ngoặt nguyên tắc, vậy nhưng lập công lớn." Tiêu Tuấn Long tại Chu Vũ An trước mặt lắc lư bàn tay, Chu Vũ An bảo trì tốc độ đồng nhất hô hấp, không có rõ ràng phản ứng.
+
+	"Đi thôi, lão Tiêu, để lão Chu lẳng lặng, hắn hiện tại ở vào tu luyện mấu chốt kỳ, một khi quá rồi đạo này quan khẩu, Chu chân nhân liền công lực tiến nhanh, phong thần đều có thể." Thẩm Kỳ dắt lấy Tiêu Tuấn Long rời phòng làm việc.
+
+	Ra đại môn, Thẩm Kỳ cảm thấy không thích hợp: "Ôi ta đi, đây là ta chủ nhiệm văn phòng, ta đi như thế nào?"
+
+	Đi liền đi đi, Thẩm Kỳ đem chủ nhiệm văn phòng tạm thời lưu cho Chu Vũ An một người một mình suy nghĩ.
+
+	Đều là nghiên cứu toán học người, Thẩm Kỳ rất lý giải một khi ra trạng thái, tìm tới linh cảm, người kia liền theo ma, không điên cuồng không ra gì, không giải quyết vấn đề không bỏ qua, đây là thành thần giai đoạn sơ cấp.
+
+	Vượt qua giai đoạn sơ cấp, tâm tính sẽ phát sinh biến hóa, tiến vào thiên nhân hợp nhất cảnh giới cao hơn, thu phóng tự nhiên, tâm ma tán đi, đây là thần chí cao giai đoạn.
+
+	Chu Vũ An hiện tại ở vào giai đoạn sơ cấp, Thẩm Kỳ cũng trải qua loại này giai đoạn, giai đoạn này học giả đối với cụ thể vấn đề phi thường chấp nhất, bọn hắn cực độ khát vọng tăng thực lực lên, giải quyết một cái ghi vào sử sách vấn đề trọng đại.
+
+	Thẩm Kỳ đi vào lầu ba, buổi chiều có cái phỏng vấn, từ nơi khác tới một vị vật lý tiến sĩ, là Sa Đông Đông sư đệ, so Sa Đông Đông nhỏ hơn một lớp.
+
+	Phỏng vấn địa điểm an bài tại lầu ba quán cà phê, bầu không khí tương đối buông lỏng.
+
+	"Khuất tiến sĩ, ngươi sơ yếu lý lịch phi thường bổng, lượng tử vật lý chuyên nghiệp, Springer ưu tú tiến sĩ luận văn, từng tại Châu Âu hạt nhân trung tâm nghiên cứu thực tập qua, lại nói ngươi tự mình thao tác qua LHC?" Thẩm Kỳ cảm thấy rất hứng thú hỏi, LHC chính là Châu Âu cỡ lớn Máy gia tốc hạt lớn, ở vào Thụy Sĩ cùng nước Pháp chỗ giao giới.
+
+	"Ta gặp qua máy kia, rất rung động, nhưng bọn hắn không cho phép ta đụng, chỉ cho phép nhìn." Khuất tiến sĩ lộ vẻ tiếc nuối, hắn nói đến: "Lúc ấy ta đang học bác, đi theo đạo sư cùng viện khoa học vật lý sở nghiên cứu đoàn đội cùng đi Thụy Sĩ, lúc đầu nói xong cho chúng ta sử dụng LHC, kết quả chúng ta vừa Thụy Sĩ ngày đầu tiên, không quá mấy giờ, Italy bắc bộ phát sinh chấn, lại qua mấy ngày, nước Pháp đông bắc bộ phát sinh bãi công, Đức quốc nam bộ một phát trạm phát điện phát sinh trọng đại an toàn sự cố. Sau đó Châu Âu lão thì không cho chúng ta đụng LHC, thật sự là làm giận."
+
+	Thẩm Kỳ kinh ngạc nói: "Các ngươi đi Châu Âu, là làm hạng mục vẫn là làm gì, làm sao cảm giác các ngươi là đi làm phá hư?" 

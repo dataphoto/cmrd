@@ -1,0 +1,127 @@
+ 280 chương thiên tài đại não, ma quỷ Logic
+
+	Thẩm Kỳ tại trên bảng đen viết ra quan điểm của hắn:
+
+	Res(g(s)-2k)=Τ(s)ζ(s)(2a)^- s. . .
+
+	"Làm k lớn hơn hoặc bằng 1 lúc, s=0 là g(s) một cấp cực điểm, ta tại cái này tư thế tích phân bên trong biến hóa τ tương đương -2k- s. . ." Thẩm Kỳ cao giọng trần thuật, gõ gõ trên bảng đen một cái tư thế: "Thì đạt được cái này tư thế, như vậy tổng số kính biến hóa có thể hóa thành song sinh xứng đôi pháp bên trong tổng số, căn cứ vào cái này thiết lập, ta cầu được ζ(s) cái thứ nhất biểu đạt thức là thành lập. Nói cách khác, ta cũng không có sử dụng Hardy hệ thống bên trong bất luận cái gì lý luận, Hardy hệ thống là kinh điển hệ thống, nhưng thế kỷ 21 cần mới, tân tiến hơn hệ thống, tạ ơn."
+
+	Thẩm Kỳ phen này khẳng khái phân trần có lý có cứ, thắng được đang ngồi đại đa số chuyên gia tán đồng.
+
+	"Euclid đến hình học cùng Lobachevsky hình học ở giữa tồn tại mâu thuẫn, nhưng hai cái thể hệ đều tại bị sử dụng, không có tuyệt đối đúng và sai." Kabrovsky nói đến, tại vấn đề thứ nhất bên trên hắn ủng hộ Thẩm Kỳ.
+
+	"Chúng ta học qua Newton kinh điển cơ học hệ thống, cũng học qua lượng tử cơ học hệ thống, Newton không có sai, Einstein cùng Schrodinger đồng dạng chính xác." Rodriguez bổ sung nói rõ.
+
+	"Thẩm là vị ưu tú học giả, nhưng là không ai có thể cùng Einstein, Schrodinger, Lobachevsky đánh đồng với nhau." Maynard lộ vẻ có chút kích động.
+
+	"Đừng kích động như vậy, Maynard giáo sư, ta cảm thấy Kabrovsky giáo sư cùng Rodriguez giáo sư nói có đạo lý, Thẩm song sinh xứng đôi pháp cùng Hardy hệ thống cũng không trái ngược, ban ngày cùng đêm tối sẽ không cùng lúc tồn tại, nhưng chúng nó cũng có ý nghĩa." Trung lập phái Canada nhà toán học Carrick dần dần khuynh hướng Thẩm Kỳ, hắn cho rằng Thẩm Kỳ đối với vấn đề thứ nhất giải đáp rất hợp lý, Logic bên trên không có lỗ thủng, Thẩm Kỳ mới lý luận là thành lập.
+
+	"Kabrovsky giáo sư, Rodriguez giáo sư, Carrick giáo sư, liên quan tới vấn đề thứ nhất, chúng ta tại Thuỵ Điển đã thảo luận hai tháng, ta còn là ủng hộ Maynard giáo sư quan điểm, chỉ có Hardy hệ thống là giải quyết Riemann phỏng đoán duy nhất chính xác đường tắt." Australia nhà toán học Wilson đứng dậy, hắn thái độ tươi sáng đứng tại Maynard một bên.
+
+	"Hardy cùng Ramanujan không thể chứng minh Riemann phỏng đoán, thiếu khuyết chính là thời gian, mà chúng ta thời gian dư dả, chúng ta hẳn là dọc theo Hardy cùng Ramanujan chính xác con đường đi xuống." Tóc quyển quyển Ấn Độ nhà toán học Sabasin, hắn quả nhiên là cùng Maynard cùng một bọn, Maynard ủng hộ nước Anh đại sư Hardy, Sabasin cũng không quên chuyển ra Hardy tốt nhất cộng sự, người Ấn Độ kiêu ngạo Ramanujan.
+
+	Thẩm Kỳ thờ ơ lạnh nhạt ba vị liên bang Anh quốc gia nhà toán học, bình thường, cái này rất bình thường, cho dù ta nói lại có đạo lý, cũng hầu như sẽ có người nhảy ra chỉ trích ta.
+
+	Lúc này, đến từ Nhật Bản Tokyo đại học nhà toán học Nakamura Kenji đứng lên, hắn đi đến đen tấm trước, cầm lấy phấn viết viết:
+
+	p1, 1-p1
+
+	p2, 1-p2
+
+	p3, 1-p3
+
+	. . .
+
+	pn, 1-pn
+
+	. . .
+
+	ζ(s)=e^A+B s∏∞n=1(1- s ╱ pn)(1- s ╱ 1-pn)e^(s ╱ pn+ s ╱ 1-pn)
+
+	Viết xong về sau, Nakamura Kenji nói đến: "Ta rất thâm nhập nghiên cứu Thẩm song sinh xứng đôi pháp, ta dùng dựng thẳng hình tổ hợp pháp, suy luận ra cùng Thẩm cái thứ nhất biểu đạt thức giống nhau như đúc kết luận. Chúng ta hẳn là tôn trọng sự thật, tôn trọng toán học quy luật, Thẩm lý luận là đúng, đây là không hề nghi ngờ mà cơ sở nhất toán học pháp tắc."
+
+	Thẩm Kỳ thật bất ngờ, nha a, bên trong thôn cái này Nhật Bản người thế mà ủng hộ ta, hắn dùng đại số cơ bản định lý nghiệm chứng ta song sinh xứng đôi pháp cùng cái thứ nhất biểu đạt thức, rất có ý tưởng, diệu!
+
+	Nhân gian tự có công đạo tại, chân chính có lương tri cùng chức nghiệp tố dưỡng nhà toán học, bọn hắn chú ý chính là toán học bản thân, cái khác hết thảy nhân tố không tại giám khảo phạm vi bên trong.
+
+	Nakamura Kenji từ đại số cơ bản định lý xuất phát, nghiệm chứng Thẩm Kỳ mới lý luận tại Logic bên trên thành lập.
+
+	"Ta còn là kiên trì quan điểm của ta, ta cũng phục tùng giám khảo đoàn quy định, cuối cùng quyết tài khâu, chúng ta bỏ phiếu đi." Maynard đặc biệt cố chấp, cùng đại đa số người Anh đồng dạng.
+
+	Thế cục trước mắt là, ủng hộ phái 4: Người chống lại 3: Trung lập phái 4.
+
+	Thẩm Kỳ trong lòng tự nhủ các ngươi bỏ phiếu khâu, tán thành ta liên quan tới Riemann phỏng đoán chứng minh, phiếu tán thành cần 50% ở trên vẫn là 80% ở trên?
+
+	Không phải là một phiếu bác bỏ chế đi!
+
+	Bỏ phiếu thiết lập nhất định phải hỏi rõ ràng a, nếu không Maynard quyết tâm đem ta nhằm vào đến chết, cái kia còn làm cái cọng lông đâu.
+
+	"6 phiếu, trong chúng ta 11 người phát ra 6 phiếu ở trên phiếu tán thành, bao hàm 6 phiếu, như vậy IMU cùng  « Acta Mathematica Sinica » đem tán thành ngươi luận văn." Giám khảo đoàn đoàn trưởng Kabrovsky cùng Thẩm Kỳ giải thích một chút bỏ phiếu quy tắc.
+
+	"Rất công bằng, không phải sao." Thẩm Kỳ hoàn toàn yên tâm, hỏi: "Cho nên chúng ta không cần lại xoắn xuýt Hardy thể hệ a?"
+
+	"Tiến vào kế tiếp vấn đề, vấn đề này là ta một mực quan tâm vấn đề." Lần này đến phiên Kabrovsky đặt câu hỏi, hắn hỏi Thẩm Kỳ, giải thích như thế nào song sinh xứng đôi pháp thiết lập dưới, p nhất định là nhất giai linh điểm?
+
+	Vấn đề này hỏi thật hay, chuyên nghiệp không mất tiêu chuẩn, cấp cao rất cao cấp.
+
+	Kabrovsky đặt câu hỏi khách quan công chính, từ toán học bản thân xuất phát, Thẩm Kỳ cho rằng có cần phải cùng giám khảo đoàn giải thích rõ ràng.
+
+	Thẩm Kỳ tinh thần phấn chấn một phen giải đáp, trả lời xong vấn đề thứ hai đã là mười hai giờ trưa.
+
+	Buổi sáng ròng rã bốn giờ, Thẩm Kỳ hết thảy trả lời hai vấn đề.
+
+	Giám khảo chuyên gia đều là rất chuyên nghiệp, bọn hắn chú ý bất luận cái gì một chỗ còn nghi vấn chi tiết, tuyệt không phải 45 phút đồng hồ có thể giải quyết.
+
+	 « căn cứ vào 'Song sinh xứng đôi pháp' Riemann phỏng đoán chứng minh » nếu muốn thông qua giám khảo, mang ý nghĩa sáu vị ở trên chuyên gia tại mỗi một chỗ chi tiết đều không tồn tại chất vấn, nói cách khác, Thẩm Kỳ muốn cầm tới sáu cái ở trên max điểm.
+
+	Đến trưa đi qua, hai cái vấn đề mới bị Thẩm Kỳ hoàn mỹ giải đáp.
+
+	Khêu đèn đánh đêm, làm đến rạng sáng, giám khảo đoàn vào hôm nay hết thảy hỏi 8 cái vấn đề, đem Thẩm Kỳ mệt mỏi thành chó.
+
+	Cũng may kết quả coi như làm người vừa lòng, Thẩm Kỳ trực giác nói cho hắn biết, ủng hộ phái nhân số đã đạt khoảng sáu người.
+
+	Trời đã sáng, tiếp tục giám khảo, cái thứ hai giám khảo ngày, Thẩm Kỳ giải đáp 5 cái vấn đề.
+
+	Liên thẩm ba ngày, Thẩm Kỳ khiêng tới, tuổi tác đã cao Kabrovsky đoàn trưởng lại mệt ngã.
+
+	Ngày thứ tư, Kabrovsky đoàn trưởng mang bệnh vào cương vị, hắn hỏi lần này giám khảo một vấn đề cuối cùng: "Nếu như Riemann phỏng đoán thành lập, như vậy Thẩm, ngươi giải thích như thế nào logζ(σ+ IT) 【 【(log∣t∣)^2-2σ+ε, trong đó ∣t∣2, ε&gt;0, 1 ╱ 2σ1."
+
+	Theo Thẩm Kỳ quan sát, thế cục trước mắt là ủng hộ phái 6: Người chống lại 3: Trung lập phái 2.
+
+	Trả lời tốt một vấn đề cuối cùng, vậy liền đại cục đã định!
+
+	Vấn đề này thuộc về từ luận văn chính văn luận thuật bên trong diễn sinh ra tới vấn đề mới, Thẩm Kỳ cầm phấn viết tại trên bảng đen viết, viết xong một tổ tư thế, hắn gõ bảng đen, ngữ điệu sục sôi: "Ta đã chứng minh tại tròn ∣ s- s0∣3 ╱ 2-σ bên trên có logζ 【 【σ^-1log∣t∣, ∣t∣2, rất rõ ràng, nơi này 【 【 hằng số cùng σ không quan hệ! Không quan hệ!"
+
+	Thẩm Kỳ bạo phát, lôi đình vạn quân!
+
+	Maynard giật nảy mình, vô ý đem cà phê hất tới quần tây bên trên.
+
+	Ngoại trừ Maynard, Wilson, Sabasin ba vị liên bang Anh nhà toán học ngồi trên ghế, còn lại 8 chữ số học gia đều đứng lên, thần tình kích động.
+
+	"Thẩm, ngươi thế mà trong thời gian ngắn như vậy, lâm thời nghĩ ra loại này chứng minh phương pháp!"
+
+	"Hoàn mỹ chứng minh, Riemann phỏng đoán là chính xác đầu đề!"
+
+	"Chúng ta bỏ phiếu đi, đúng vậy, không có gì có thể hỏi, Thẩm là một thiên tài, để chúng ta là thiên tài bỏ phiếu!"
+
+	Thùng thùng!
+
+	Thẩm Kỳ đánh bảng đen: "Mời mọi người ngồi xuống trước, ta vẫn chưa nói xong."
+
+	Tình thế một mảnh tốt đẹp, giám khảo đoàn bên trong tám chữ số học gia bị Thẩm Kỳ triệt để chinh phục.
+
+	Hiện tại đã có 8 tấm phiếu tán thành!
+
+	Thẩm Kỳ cơ hồ đã thành thần, còn lại chỉ là vấn đề thời gian mà thôi.
+
+	Thưởng thức, lớn tiếng khen hay, uể oải, bất đắc dĩ, không phục cũng phải phục, trong phòng họp nhiều loại cảm xúc hỗn tạp cùng một chỗ.
+
+	Tại mọi người chú mục phía dưới, Thẩm Kỳ đột phát linh cảm viết xuống một cái mới tư thế, hắn cuồng gõ bảng đen hưng phấn không thôi: "Như Riemann phỏng đoán thành lập, còn có một loại tình huống là, làm 1 ╱ 2+(loglog∣t∣)^-1σ1 lúc, có logζ(s) 【 【(loglog∣t∣)(log∣t∣)^2-2σ, trong đó 【 【 hằng số là tuyệt đối hằng số! Tuyệt đối hằng số! Hoàn mỹ, nó hoàn mỹ!"
+
+	Xoát!
+
+	Ấn Độ nhà toán học Sabasin kìm lòng không được nhảy dựng lên, ánh mắt hắn trừng lão đại, một đầu tóc quăn đều cho thẳng băng: "Đúng, hắn là đúng, thiên tài sức tưởng tượng, như ma quỷ suy luận Logic. . ."
+
+	Nhìn xem Sabasin trúng tà giống như bộ dáng, Maynard giận không chỗ phát tiết, bọn Ấn Độ quá không đáng tin cậy, cái này mẹ hắn liền bị Thẩm Kỳ cho xúi giục rồi?
+
+	Maynard nhìn về phía bảng đen, thân là đỉnh cấp số luận chuyên gia hắn không thể không thừa nhận, Thẩm Kỳ gia hỏa này hoàn toàn chính xác có được một viên thiên tài đại não, cùng như ma quỷ Logic. . . 

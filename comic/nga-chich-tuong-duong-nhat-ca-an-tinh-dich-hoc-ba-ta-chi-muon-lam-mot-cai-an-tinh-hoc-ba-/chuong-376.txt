@@ -1,0 +1,95 @@
+ 376 chương hội sư
+
+	Quá rồi hai ngày Thẩm Kỳ đi làm lúc gặp được Mary, hiểu rõ đến Schultz tìm Mary phục hôn ý nguyện phi thường cường liệt.
+
+	Mary ý chí kiên quyết biểu thị, nàng coi như chết đói, coi như từ toán học cao ốc nhảy đi xuống, cũng sẽ không theo Schultz phục hôn.
+
+	"Vậy liền lại tìm cái tốt hơn nam nhân." Thẩm Kỳ khuyên vài câu, sau đó bắt đầu làm việc.
+
+	Thẩm Kỳ rất quan tâm năm nay Trung Quốc olympic toán học thi đua tin tức, CMo quốc quyết vừa mới kết thúc, chỉ có một vị tuyển thủ cầm tới max điểm.
+
+	Cuối cùng một đạo tuyển làm bài là Thẩm Kỳ ra, thành công chứng minh 3n cái mặt phẳng tuyển thủ cũng chỉ có một vị, chính là vị kia max điểm tuyển thủ.
+
+	"Ai, một giới không bằng một giới a, sau khi về nước xin các ngươi ăn tiệc." Thẩm Kỳ cùng Trung Hoa hội toán học Đàm hội phó phát Wechat, nhận thua cuộc.
+
+	Đầu tháng bảy, Lỗ Quốc Trân, Ngô chủ nhiệm đi Mỹ, cùng Thẩm Kỳ thuận lợi hội sư.
+
+	Ba người mật đàm mấy ngày, thương thảo đại sự.
+
+	Thẩm Kỳ trong văn phòng.
+
+	Thẩm Kỳ tại trên bảng đen viết ra một chút toán học tư thế, nói đến: "Ta hiểu thông tục bản Hodge phỏng đoán là, thiết X là một cái xạ hình đại số lưu hình, p là một cái số tự nhiên. Tái thiết H^2p(X, Q)a LG? H^2p(X, Q) là đại số bên trên bế liên không gian con, đó là X bên trong dư duy số vì p đại số tử đám cơ bản loại sở sinh sinh ra Q vectơ không gian. Đã chứng minh H^2p(X, Q)a LG=H^p, p(X)∩H^2p(X, Q), tức đã chứng minh Hodge phỏng đoán."
+
+	"Căn cứ vào một đoạn này miêu tả, đi chứng minh miêu tả kết luận, là phi thường khó khăn sự tình. Chúng ta ở trong nước cũng rất chú ý quốc tế toán học giới động thái, Schultz đoàn đội ngay tại xử lí như thế một hạng độ khó cực cao công việc, đồng thời chúng ta có lý do tin tưởng, Schultz đoàn đội đã lấy được tiến triển to lớn." Lỗ Quốc Trân đi Mỹ trước đó làm đủ bài tập.
+
+	"Schultz đoàn đội phải làm không sai, không chừng ngày nào bọn hắn liền sẽ ném ra ngoài toàn bộ thành quả nghiên cứu." Thẩm Kỳ cảm giác Schultz trong tay có hoa quả khô, nếu không Schultz không dám như thế xâu, đơn thương độc mã xâm nhập Princeton, cường thế yêu cầu vợ trước cùng hắn phục hôn.
+
+	"Thẩm giáo sư, ngươi hào phóng án bao hàm ba cái tiểu phương án, tức chúng ta ba phân biệt phụ trách đại số hình học bản khối, số học phân tích bản khối, tô-pô bản khối. Hiện tại ba cái tiểu phương án tất cả ở chỗ này, cho nên ngươi hào phóng án cụ thể cấu tứ là?" Ngô chủ nhiệm hỏi.
+
+	"Ta hào phóng án là, lấy đại số hình học làm khung xương, tô-pô vì cơ bắp, nội tạng, số học phân tích vì huyết dịch, dịch thể, sáng tạo một cái mới hệ thống, mà Hodge phỏng đoán là hệ thống bên trong một bộ phận. Cái này có chút phức tạp, ta nói một chút hạch tâm Logic đi." Thẩm Kỳ lau đi trên bảng đen nội dung, song song vẽ lên ba cái khung vuông.
+
+	Mỗi cái khung vuông phía trên viết hai cái kiểu chữ tiếng Anh, Ag đại biểu đại số hình học, TP đại biểu tô-pô, AN đại biểu số học phân tích.
+
+	Thẩm Kỳ đầu tiên hướng Ag khung vuông bên trong lấp đi vào cho:
+
+	Σσv=m*n
+
+	η0: η1: . . . ηn=ψ0(ε): ψ1(ε): . . . ψn(ε)
+
+	f(z1z2, z2z0, z0z1)=z0^rz1^ sz2^tg(z0, z1, z2)
+
+	. . .
+
+	Lỗ Quốc Trân, Ngô chủ nhiệm chủ công lĩnh vực mặc dù không phải đại số hình học, nhưng hai vị lăn lộn cả một đời toán học giới lão tiền bối học qua đại số hình học, bọn hắn nhận ra Ag khung vuông bên trong tuyệt đại đa số kinh điển tư thế cùng với hàm nghĩa.
+
+	"Bézout định lý, Kessler đối ứng nguyên tắc, Cremona biến hóa. . . A, Thẩm Kỳ, Ag bộ phận cái cuối cùng tư thế là cái gì?" Lỗ Quốc Trân hỏi.
+
+	Cái cuối cùng tư thế là ζ' d+1=ζd+1+ad+2ζd+2+. . . andn, Thẩm Kỳ nói đến: "Ag bộ phận phía trước những cái kia kinh điển đại số hình học lý luận ứng dụng mở rộng, do ta hai vị tiến sĩ nghiên cứu sinh hoàn thành, a, hai người bọn họ hiện tại đã tốt nghiệp tiến sĩ, một cái đi Thủy Mộc đại học, một cái khác lưu tại Princeton.
+
+	"Cái cuối cùng tư thế do ta bản nhân suy luận hoàn thành, tức d duy không thể ước đại số lưu hình tính đặc thù đặc thù, ta tạm thời xưng là 'S loại đặc thù', xem như một cái nhỏ sáng tạo cái mới đi.'S loại đặc thù' cụ thể suy luận quá trình ta liền không tỉ mỉ nói, hai vị biết cái kết luận này liền oK." Thẩm Kỳ giới thiệu ý nghĩ của hắn.
+
+	"Cho nên Ag bộ phận hạch tâm là kinh điển kết hợp sáng tạo cái mới, dựng hệ thống khung xương." Lỗ Quốc Trân, Ngô chủ nhiệm đại khái hiểu được Thẩm Kỳ tự mình chủ trảo Ag bộ phận hạch tâm Logic.
+
+	"Đúng vậy, ta cùng ta hai vị tiến sĩ sinh làm coi như không tệ." Thẩm Kỳ tiếp theo tại cái thứ hai khung vuông bên trong lấp đi vào cho, cái thứ hai khung vuông là TP, tô-pô bản khối.
+
+	Ngô chủ nhiệm mang tới tô-pô bản khối tư liệu, Thẩm Kỳ đã toàn văn thẩm duyệt, hắn tại TP khung vuông bên trong viết tám cái biểu đạt thức: "Mười phần cảm tạ Ngô chủ nhiệm đoàn đội gần đã qua một năm cố gắng, các ngươi làm rất tốt, hình học hóa phỏng đoán tám cái tiêu chuẩn mô hình diễn sinh suy luận công việc viên mãn hoàn thành. Đây là cơ bắp cùng nội tạng, cung cấp hệ thống cần thiết động lực cùng năng lượng."
+
+	"Chủ yếu là Thẩm giáo sư gợi mở đối với chúng ta trợ giúp rất lớn." Ngô chủ nhiệm khiêm tốn nói đến.
+
+	"Gợi mở là vuông hướng tính, mà công tác cụ thể cần đại lượng nhân lực đến thúc đẩy hoàn thành, chúng ta có thể tại trong vòng một năm bắt đầu Hodge phỏng đoán hạng mục hợp bản thảo công việc, chúng ta cái này hai mươi người đại đoàn trong đội mỗi một vị thành viên đều bỏ ra cố gắng. Phải biết Schultz đoàn đội làm ba năm, đại học Bonn ngành toán học cơ hồ vận dụng toàn bộ lực lượng trợ giúp hắn. Hạng mục này chỉ dựa vào hai ba khẩu súng là không giải quyết được, chí ít trong vòng một năm không giải quyết được." Thẩm Kỳ đối Ngô chủ nhiệm cùng Lỗ Quốc Trân đoàn đội biểu đạt cảm tạ, hắn tại cái thứ ba khung vuông bên trong lấp đi vào cho.
+
+	Cái thứ ba khung vuông là AN, Lỗ Quốc Trân phụ trách số học phân tích bản khối một mực xuôi gió xuôi nước, gần đã qua một năm trên cơ bản không có để Thẩm Kỳ bận tâm cái gì.
+
+	Lỗ Quốc Trân đoàn đội nghiên cứu tư liệu đã giao cho Thẩm Kỳ, tiền đề thiết lập, suy luận quá trình, kết luận cuối cùng nhất mười phần rõ ràng.
+
+	Thẩm Kỳ đề luyện ra hạch tâm bộ phận lấp nhập AN khung vuông: "Lỗ chủ nhiệm thành quả nghiên cứu có thể quy nạp vì một câu, tức mặt phẳng đường cong bình thường kỳ điểm cùng không gian bên trong cào tuyến bình thường kỳ điểm kiểu mới số học phân tích xử lý. AN là huyết dịch, cho chúng ta hệ thống liên tục không ngừng chuyển vận dưỡng khí."
+
+	Thẩm Kỳ tiếp tục tại trên bảng đen viết ra hai cái + hào, một cái = hào, một cái dấu hỏi, Ag+TP+AN=?
+
+	"Hai vị, cái này hệ thống nên như thế nào mệnh danh? Dựa theo lệ quốc tế, chúng ta tạm thời đưa nó mệnh danh là SLw hệ thống? Hoặc là wLS, LSw?" Thẩm Kỳ hỏi.
+
+	S vì Thẩm, L vì lỗ, w vì ngô.
+
+	Trung mỹ ba chỗ nghiên cứu cơ cấu chung 20 người tham gia Hodge phỏng đoán hạng mục, ba vị học thuật người dẫn đầu là Thẩm Kỳ, Lỗ Quốc Trân, Ngô chủ nhiệm.
+
+	Mới lý luận hệ thống mệnh danh đương nhiên không thể là SLwYTP. . . Đem hai mươi người dòng họ toàn để lên, chưa từng người làm như vậy qua.
+
+	Lệ quốc tế là đem đối hạng mục cống hiến lớn nhất người dòng họ gia nhập mệnh danh bên trong, những người này thường thường là học thuật người dẫn đầu.
+
+	Cho nên người người đều muốn làm học thuật người dẫn đầu, đến một lần học thuật địa vị cùng địa vị xã hội cao, thứ hai có cơ hội ghi tên sử sách.
+
+	Lỗ Quốc Trân, Ngô chủ nhiệm trăm miệng một lời: "S đương nhiên phải đặt ở phía trước nhất."
+
+	Thẩm Kỳ chắp tay cười cười: "Đã nhường."
+
+	Xong việc Lỗ Quốc Trân cùng Ngô chủ nhiệm thương lượng một hồi, ai học đại học thời gian sớm, ai dòng họ đặt ở vị thứ hai, hợp lý.
+
+	Hai người trao đổi tin tức đi sau hiện, Lỗ Quốc Trân so Ngô chủ nhiệm sớm một giới học đại học, thế là mới lý luận hệ thống tạm thời mệnh danh là "Thẩm - lỗ - ngô hệ thống", tên gọi tắt SLw hệ thống.
+
+	Thẩm Kỳ xóa đi trên bảng đen dấu chấm hỏi, làm Ag+TP+AN= SLw.
+
+	Cùng HC SLw.
+
+	HC tức Hodge phỏng đoán (Hodge-Conjecture) viết tắt.
+
+	Thẩm Kỳ nói đến: "Tiếp xuống, chúng ta cần phải làm là, chải vuốt ra SLw nội dung cặn kẽ, sau đó chứng minh HC thuộc về SLw." 

@@ -1,0 +1,119 @@
+ Chương 70: Cảm nhận bị hình học chi phối sợ hãi a
+
+	Thẩm Kỳ một thân một mình lưu tại trong phòng, chuyển cái ghế ngồi xuống, mặt hướng bảng đen.
+
+	Tôn giáo sư lưu lại đầu đề là, căn cứ vào trên bảng đen trái đồ, bổ sung hoàn thiện phải đồ.
+
+	Từ toán học Logic đi lên nói cái này không khó lý giải, căn cứ vào giả thiết suy luận ra làm chứng minh, hoặc căn cứ vào đã biết điều kiện cầu giải ra câu trả lời chính xác.
+
+	Trái đồ là cái gì đồ chơi, một cái vòng tròn bên trong tiếp một cái hình lục giác.
+
+	Đây là có thể đụng chạm đến hình học, tức Euclid đến hình học, chí ít nhìn qua là như thế này.
+
+	Euclid hình học có một vấn đề, nó cùng mọi người xúc giác luôn luôn nhất trí, cùng mọi người thị giác lại không phải luôn luôn nhất trí.
+
+	Đương nhiên, vấn đề này đối 99% ở trên Nhân loại tới nói không tính là cái vấn đề, phổ thông bách tính mới mặc kệ hai ngươi đầu song song thẳng tắp vô tuyến kéo dài xuống dưới sẽ như thế nào, ta an vị cái đường sắt cao tốc về nhà ăn tết mà thôi, đường sắt cao tốc toa xe hạ hai đầu đường ray tại Hình học phi Euclid định nghĩa hạ phải chăng tương giao làm đéo gì có cùng ta dính tí quan hệ nào?
+
+	Cùng xúc giác hình học tương đối chính là thị giác hình học, cái trước có thể hiểu thành Euclid hình học, cái sau tại hai trăm năm trước lại được xưng là tân hình học, Lobachevsky cùng Riemann đối tân hình học làm ra cống hiến lớn nhất, bây giờ nói tới Hình học phi Euclid đã bao hàm Lobachevsky hình học, Riemann hình học.
+
+	Lấy Riemann hình học làm thí dụ, hạch tâm của nó quan điểm là, cùng một trên mặt phẳng bất luận cái gì hai đầu thẳng tắp nhất định tương giao.
+
+	Cái này hiển nhiên là cùng Euclid hình học tướng mâu thuẫn, tại Riemann hình học tiêu chuẩn bên trong , bất kỳ cái gì hai đầu đường ray kéo dài vô hạn xuống dưới liền một ngày nào đó sẽ tương giao.
+
+	Không thể phủ định Euclid hình học kinh điển ý nghĩa, tại trong vũ trụ bao la , bất kỳ cái gì nắm giữ cơ bản đại số, cơ bản Euclid hình học cùng cơ bản tốc độ thấp vật lý học định luật văn minh, đều đáng giá Địa cầu văn minh cùng giao lưu câu thông, bù đắp nhau, dắt tay chung tiến, cùng có lợi cùng có lợi. Chỉ cần những cái kia văn minh hứa hẹn từ bỏ hai hướng bạc dân dụng kỹ thuật nghiên cứu, mọi người liền có thể làm bằng hữu, chung xây vũ trụ mỹ hảo gia viên.
+
+	Thị giác từ vũ trụ mênh mông cắt về hệ ngân hà - Hunter's arm - thái dương hệ - Địa cầu - Trung Quốc thủ đô - Yến Kinh đại học một gian phòng tối bên trong.
+
+	Thẩm Kỳ lâm vào trầm tư nguyên nhân là, trên bảng đen đồ hình đề mục là căn cứ vào cái gì tiêu chuẩn, Euclid hình học tiêu chuẩn vẫn là Hình học phi Euclid tiêu chuẩn?
+
+	Tiện tay trên mặt đất nhặt lên một tấm giấy trắng, ở trên bàn cầm lấy một cây bút chì, Thẩm Kỳ tại trên tờ giấy trắng họa bản nháp đồ, hắn phục chế trên bảng đen hình tròn bên trong tiếp hình lục giác.
+
+	Thẩm Kỳ kéo dài hình lục giác hai đầu bên cạnh AB, DE, khiến cho chúng nó tương giao tại P điểm.
+
+	Tiếp tục kéo dài BC, EF, khiến cho chúng nó tương giao tại Q điểm.
+
+	Kéo dài CD, AF khiến cho chúng nó tương giao tại R điểm.
+
+	Thẩm Kỳ kết nối P, Q, R ba điểm, hắn tự lẩm bẩm: "P, Q, R ba điểm tại cùng một thẳng tắp bên trên, cái này. . . Đây là Pascal định lý?"
+
+	(chú 【 1  ]  Pascal định lý: Như một hình lục giác bên trong tiếp tại một tròn, thì mỗi hai đầu đối ứng bên cạnh tương giao mà đến 3 điểm tại cùng một thẳng tắp bên trên. )
+
+	"Cho nên đây là Hình học chiếu?"
+
+	Thẩm Kỳ đạt được manh mối, lại lần nữa lâm vào trầm tư.
+
+	Hình học chiếu cùng Euclid hình học cũng không mâu thuẫn, nó xem như Euclid hình học trọng yếu bổ sung.
+
+	"Trái đồ nhìn qua chính là Pascal định lý kinh điển đồ hình biểu đạt, như vậy phải đồ. . ." Thẩm Kỳ nhìn về phía bảng đen, phải đồ là ba đầu thẳng tắp tương giao tại L điểm.
+
+	Bọn chúng, cái này ba đầu thẳng tắp vì sao muốn giao cho L điểm?
+
+	Đây rốt cuộc là hình nón đường cong mặt cắt triệt để không có, vẫn là xạ hình cùng đoạn cảnh biến thái vặn vẹo?
+
+	Euclid đến si tâm giữ gìn ngàn năm đường thẳng song song vĩnh viễn không tương giao, đức đâm cách phía sau cắm đao cái này giao điểm ở vào vô tận nơi xa đến tột cùng vì cái nào?
+
+	Làm sao Lobachevsky ném ra ngoài song khúc hình học, Riemann đại sư nhàn nhạt mỉm cười nói cái này mẹ hắn đều là rắm chó, thật sự là làm sao chịu nổi.
+
+	Một khối nho nhỏ bảng đen phía sau, ẩn giấu đi nhiều ít ân oán tình cừu?
+
+	Trong hồng trần ai tới đón cũ mới hình học kịch liệt va chạm?
+
+	Bị hình học chi phối sợ hãi, ngươi có thể cảm nhận được sao?
+
+	Răng rắc xoạt xoạt!
+
+	Thẩm Kỳ xé nát trong tay giấy trắng, giả, đều là giả!
+
+	Cái này đề không có giải, lời lẽ sai trái!
+
+	Thẩm Kỳ vò đầu bứt tai,
+
+	Đứng ngồi không yên, hắn đi đến trước cửa sổ, kéo màn cửa sổ ra.
+
+	Rõ ràng sáng sớm ra túc xá thời điểm vẫn là dương quang phổ chiếu, giờ phút này trên bầu trời lại là trời u ám.
+
+	Hình học chiếu bắn đại gia ngươi, thái dương đều bị ngươi bắn tắt máy, cho nên hôm nay là thứ hai?
+
+	"Quản hắn chủ nhật vẫn là thứ hai, dù sao chúng ta không có nghỉ ngơi. Đói, thật đói, ta một làm bài liền sẽ đói, không làm được đề đói hơn." Thẩm Kỳ đói ục ục gọi, một giờ trước hắn vừa ăn xong bữa sáng, hiện tại lại đói bụng.
+
+	"Hẳn là ta kích hoạt lên cái gì khó lường ăn hàng thuộc tính?"
+
+	Thẩm Kỳ tại trong phòng nhỏ lục tung tìm ăn, nhưng mà kết quả làm hắn thất vọng, nơi này duy nhất có thể ăn đồ vật ngoại trừ giấy trắng chính là thư tịch, tất cả đều là tinh thần lương thực.
+
+	"Tính toán không ăn, nhịn một chút."
+
+	Ngắn ngủi táo bạo về sau, Thẩm Kỳ cưỡng ép làm chính mình tỉnh táo lại, hắn lần nữa nhìn chằm chằm bảng đen, nếu như là tại Hình học chiếu tiêu chuẩn dưới, phải đồ có rất nhiều loại bù đắp phương pháp, câu trả lời chính xác không chỉ một.
+
+	"Nhưng béo lão Tôn đơn độc đem ta gọi tới phòng tối, không có khả năng ra như thế rõ ràng đề mục cho ta làm a? Cái này mẹ nó Chu Vũ An đều sẽ làm a, hắn hẳn là sẽ a?"
+
+	Không biết tại sao, Thẩm Kỳ lực chú ý không cách nào tập trung, hắn đông muốn tây tưởng suy nghĩ lung tung, thật muốn ăn khối gấu nhỏ bánh bích quy a.
+
+	Cứ như vậy suy nghĩ lung tung, cho tới trưa đi qua.
+
+	Mười hai giờ trưa nhiều thời điểm, két một tiếng, căn phòng nhỏ cửa mở, Tôn Nhị Hùng tay trái mang theo bình thuỷ, tay phải một bình dấm, hắn hừ phát đông bắc nhị nhân chuyển điệu hát dân gian, khoan thai vào nhà.
+
+	Đem bình thuỷ cùng dấm hướng trên mặt bàn một đặt, Tôn Nhị Hùng giả giọng điệu gào to: "Vị này nhỏ khách quan, ngài điểm rau hẹ tôm bóc vỏ nhân bánh sủi cảo đến lặc."
+
+	"Vừa rồi rất đói, bị đói bị đói, đói bụng đến cực hạn lại đã no đầy đủ." Thẩm Kỳ lắc đầu, nói đến: "Tôn giáo sư chính ngài ăn sủi cảo đi, đề mục này không có làm ra, ta tâm tình không tốt, ăn không vô."
+
+	"Hắc hắc hắc, Thẩm Kỳ ngươi có thể tuyệt đối đừng dạng này tàn phá chính mình thân thể trẻ trung. Người là sắt, cơm là thép, không ăn một bữa đói đến hoảng."
+
+	Tôn Nhị Hùng để lộ bình thuỷ đóng, mang sang sủi cảo, nóng hôi hổi mùi thơm nức mũi: "Vừa ra nồi sủi cảo, ngươi tốt xấu ăn mấy cái đi, đề mục lúc nào không thể làm, không phải cùng cái bụng không qua được?"
+
+	"Không ăn không ăn không ăn." Thẩm Kỳ lắc đầu giống như trống lúc lắc, ánh mắt từ đầu đến cuối không có rời đi bảng đen: "Tôn giáo sư, ngài tốt xấu cho ta điểm nhắc nhở đi, để cho ta tại này loại hình học tiêu chuẩn hạ cho ra đáp án?"
+
+	"Tùy ý, đều có thể." Tôn Nhị Hùng từ trong túi móc ra mấy tép tỏi tươi, trước đập cái tỏi, lại tự mình ăn sủi cảo: "Thoải mái, thật sự sảng khoái, Thẩm Kỳ ngươi ăn trước sủi cảo đi, làm bài loại chuyện này không cần nóng vội."
+
+	"Ngài vẫn là cái phật hệ giáo sư?" Thẩm Kỳ cầm lấy Tôn Nhị Hùng mang tới đũa, kẹp cái sủi cảo cửa vào, nguyên lành nhấm nuốt mấy lần.
+
+	"Ngươi ăn sủi cảo thế nào không chấm dấm đâu Thẩm Kỳ? Không chấm dấm lại không ăn tỏi, ngươi không uổng công cái này một nồi sủi cảo?" Tôn Nhị Hùng rất đau lòng a, Thẩm Kỳ lãng phí một cái tốt sủi cảo.
+
+	"Ai nha Tôn giáo sư, đừng kéo đông kéo tây, ta có thể hay không đàm điểm chuyện đứng đắn? Ngươi gọi ta đến không phải muốn cùng ta đàm toán học sao, ta lại phát hiện sủi cảo trở thành nhân vật chính của hôm nay, uy uy Tôn giáo sư, lệch ra lâu. Ngươi nhất định phải cho ta cái tiêu chuẩn, nếu không cái này đề ta làm không được."
+
+	"Thẩm Kỳ, ngươi có rất nhiều ưu điểm, nhưng không thể phủ nhận, ngươi cũng tồn tại không đủ, chí ít tại toán học bên trên là như vậy. Ngươi dự trữ toán học tri thức lý luận quá nhiều quá tạp, nếu như không có đủ cực mạnh trước sau như một với bản thân mình chải vuốt năng lực, quá mức cố chấp ngược lại dễ dàng thụ nội thương."
+
+	"Ai nha Tôn giáo sư, những đạo lý lớn này ta hiểu, chúng ta trước tiên đem tiểu đạo lý giải quyết, thâm nhập hơn nữa nghiên cứu thảo luận toán học chứng đạo đại đạo lý, được không?"
+
+	"Ha ha, ăn sủi cảo a Thẩm Kỳ, điểm đến là dừng." Tôn Nhị Hùng cười cười.
+
+	"Ăn, ta ăn!" Thẩm Kỳ vứt bỏ đũa, tay trái tay phải một cái rau hẹ sủi cảo, trực tiếp tay bắt sủi cảo. 

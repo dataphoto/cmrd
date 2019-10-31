@@ -1,0 +1,195 @@
+ 680 chương thì ra là thế!
+
+	 
+
+	Trên màn hình lớn cho thấy  « mạnh BSD phỏng đoán chứng minh » hạch tâm bộ phận:
+
+	analyticrank2, gau SSconjectureinquadratic... h(D)&gt;1 ╱ 55(ln∣D∣)∏(1-2 p ╱ p+1)... L(e, s)∏p(1-ap ╱ p^ s+p ╱ p^2 s)^-1→L(e, s)=c(s-1)^r+High-order ITem s!
+
+	Tô Văn tiếp viện sĩ nói: "Có một chỗ, ta giải thích không thông, analyticrank2 dưới điều kiện, hình bầu dục đường cong bên trên có lý điểm phân bố không nhất định tuân theo sự chứng minh của ngươi phương án. Ngươi lượn quanh một vòng, nhìn qua loè loẹt, nhưng giống như lại về tới ban sơ vấn đề, tức tọa độ là số hữu tỷ điểm chưa đầy đủ cục bộ chỉnh thể nguyên tắc. Cho nên âu giáo sư, ta cho rằng ngươi phần này phương án, tại một ít chi tiết đáng giá cân nhắc."
+
+	Tô viện sĩ lời vừa nói ra, Thủy Mộc toán học đoàn đội thành viên khác nhao nhao gật đầu, bọn hắn ánh mắt lấp lánh nhìn chằm chằm Âu Diệp, tin tưởng cùng chất vấn cùng múa, khẳng định hay không định cùng bay.
+
+	Tiểu Hoàng trong lòng run lên, cảm thấy khẩn trương, tô viện sĩ nói lên vấn đề này đã xảo trá chấm dứt khóa. ,
+
+	Đúng a, Âu lão sư ngươi giải thích như thế nào hình bầu dục đường cong bên trên có lý điểm phân bố tuyệt đối tuân thủ ngươi thiết định phương án?
+
+	Tiểu Hoàng đương nhiên nghiên cứu qua  « mạnh BSD phỏng đoán chứng minh », nhưng là nghiên cứu qua không có nghĩa là nhất định có thể nghiên cứu triệt để.
+
+	Giải thích  « mạnh BSD phỏng đoán chứng minh » phần công tác này, cần cực cao toán học trình độ.
+
+	Triệu Thiên, Tiểu Vân, Tằng Hàn ba người tuy là  « mạnh BSD phỏng đoán chứng minh » tác giả, nhưng mà ba vị này học sinh cũng vô pháp hoàn toàn giải thích rõ ràng bản này luận văn mỗi một chỗ chi tiết. Nằm cẩu nha, nằm hô đại lão 666 là được rồi.
+
+	Trận này Yến đại, Thủy Mộc ở giữa toán học hội nghiện cứu và thảo luận, tựa hồ diễn biến thành Âu Diệp khóa đề tổ tốt nghiệp bảo vệ hội.
+
+	Tham gia qua tốt nghiệp bảo vệ sẽ đồng học đều biết, bảo vệ biết bình thẩm lão sư đầu tiên giả thiết ngươi có thể thông qua bảo vệ, thu hoạch được học vị chứng cùng chứng nhận tốt nghiệp.
+
+	Căn cứ vào loại này giả thiết, căn cứ ngươi sáng tác luận văn tốt nghiệp, giám khảo lão sư xách mấy cái vấn đề mấu chốt, để ngươi tiến hành trả lời cùng trần thuật.
+
+	Dưới tình huống bình thường, chỉ cần học sinh thành thành thật thật làm thí nghiệm, cần cù chăm chỉ viết luận văn, tại bảo vệ sẽ lên giữ cửa ải khóa vấn đề trần thuật rõ ràng, liền có thể thuận lợi tốt nghiệp.
+
+	Tô viện sĩ cũng giống như là một vị thiện lương lại nghiêm khắc đạo sư, hắn đầu tiên giả thiết  « mạnh BSD phỏng đoán chứng minh » thành lập, sau đó dẫn đầu đoàn đội của hắn đi giải thích. Đang giải thích quá trình bên trong, tô viện sĩ đoàn đội có chút nghi hoặc.
+
+	Chân chính tốt nghiệp bảo vệ sẽ lên, giám khảo lão sư đối với học sinh luận văn cũng sẽ có nghi hoặc. Nghi hoặc điểm chủ yếu là: Ngươi luận văn số liệu có phải hay không làm bộ? Có phải hay không đạo văn? Có phải hay không mời người viết thay?
+
+	Mà tô viện sĩ đoàn đội nghi hoặc, Âu Diệp lý giải là, bọn hắn có thể là xem không hiểu a?
+
+	Toán học sử thượng không thiếu đã thành tên đại lão xem không hiểu người khác luận văn án lệ.
+
+	Na-uy toán học thiên tài Abel viết luận văn, cùng thời đại Gauss xem không hiểu, Cauchy cũng khó có thể lý giải.
+
+	Gauss, Cauchy tại lúc ấy đã là khai sơn lập phái tông sư cấp đại lão, bọn hắn xác thực không thể xem hiểu Abel luận văn.
+
+	Hơn một trăm năm sau, Abel luận văn bị toán học giới chỗ chứng minh thành lập, nhóm giao hoán, Abel hình học trở thành toán học sử thượng kinh điển, bị ghi vào sách giáo khoa, cung cấp các học sinh học tập.
+
+	Thế kỷ 19 Gauss, Cauchy không thể xem hiểu Abel luận văn, cũng không thể chỉ trách hai vị đại lão. Chính Abel cũng muốn thua một định trách nhiệm.
+
+	Lúc ấy tuổi trẻ Abel mười phần nghèo khó, nghèo đến ngay cả cơm đều ăn không nổi, cả ngày đói bụng.
+
+	Abel viết luận văn nguyên văn có hơn một vạn chữ, nhưng bởi vì nghèo khó, hắn đem hắn hơn một vạn chữ bản thảo áp súc vì 6 trang, sau đó cầm đi in ấn vì mấy phần, phân biệt gửi đưa cho Gauss, Cauchy chờ quyền uy nhà số học.
+
+	Gauss, Cauchy không thể xem hiểu Abel áp súc bản 6 trang luận văn, các đại lão nhất trí cho rằng Abel tại nói nhảm.
+
+	Có người nói Abel trực tiếp đem hắn hơn một vạn chữ bản thảo gửi cho Gauss, Cauchy chẳng phải xong việc sao?
+
+	Nhưng Abel cũng không làm như thế, nguyên nhân cụ thể không rõ.
+
+	Hoặc là là bởi vì ngay lúc đó văn kiện chuyển phát nhanh phí theo số trang thu phí, mà chuyển phát nhanh phí quý hơn.
+
+	Nghèo khó làm cho người tự bế.
+
+	Nghèo rớt mùng tơi Abel tại năm gần hơn hai mươi tuổi lúc liền chết, khi chết tiều tụy vừa thương xót lạnh.
+
+	Bởi vậy có thể thấy được toán học giới quy củ, đại lão nói ngươi viết luận văn thành lập, vậy liền thành lập.
+
+	Đại lão nói ngươi viết luận văn rắm chó không kêu, vậy ngươi liền một lần nữa viết một phần đi.
+
+	Cùng đại lão đối nghịch, là không có kết cục tốt.
+
+	Hôm nay toán học giới, đồng dạng là cái quy củ này.
+
+	Cũng may Âu Diệp không thiếu tiền, bản thảo của nàng 42 trang, cuối cùng mở rộng vì 405 trang luận văn. Nàng giao nổi in ấn phí, trang bìa phí cùng chuyển phát nhanh phí.
+
+	Năm đó Abel đối mặt đại lão chất vấn lúc, lộ vẻ so sánh tự ti.
+
+	Một mặt là nghèo, một phương diện khác có lẽ cùng Abel là chòm bạch dương có quan hệ.
+
+	Giàu có chòm Xử Nữ Âu Diệp đứng lên, nàng đi đến báo cáo sảnh trước tấm bảng đen: "Ta để giải thích một chút, tô viện sĩ nghi hoặc."
+
+	Đám người nhìn về phía bảng đen.
+
+	Âu Diệp cầm lấy phấn viết tô tô vẽ vẽ.
+
+	Nàng đầu tiên vẽ lên một cái tiêu chuẩn góc vuông hình tam giác, ba đầu bên cạnh dài là 3, 4,5.
+
+	Rất rõ ràng, đây là Pythagoras hình tam giác.
+
+	Cái này kinh điển hình tam giác ẩn chứa một cái định lý: Tại cạnh xéo d=5 tình huống dưới, không tồn tại bên cạnh dài vì số nguyên mà diện tích là 5 góc vuông hình tam giác.
+
+	"Đây là... Học sinh trung học bao nhiêu phương pháp?" Tiểu Hoàng ám đạo, giải thích ngàn hi nan đề cấp bậc BSD phỏng đoán, hẳn là muốn từ trung học toán học thiết nhập?
+
+	Thủy Mộc đoàn đội cũng cảm giác nghi hoặc, bọn hắn yên lặng không nói, bảo trì chú ý.
+
+	Ngay sau đó, Âu Diệp lại vẽ lên một cái góc vuông hình tam giác , vừa dài theo thứ tự là 3 ╱ 2, 20 ╱ 3, 41 ╱ 6.
+
+	Cái này hình tam giác đồng dạng ẩn chứa một cái định lý: Tồn tại một cái bên cạnh dài vì số hữu tỷ mà diện tích là 5 góc vuông hình tam giác.
+
+	Số hữu tỷ là một cái số nguyên a cùng một cái chính số nguyên b so, đây là trung học toán học trường học nội dung.
+
+	Họa hai cái học sinh trung học đều hiểu góc vuông hình tam giác, liền có thể giải đáp tô viện sĩ đoàn đội nghi hoặc?
+
+	Không, cũng không thể.
+
+	Âu Diệp đầu bút lông nhất chuyển, tại hai cái góc vuông hình tam giác trên cơ sở tiến hành kéo dài, nàng viết ra một cái đại số chứng minh thức.
+
+	Xoát!
+
+	Tô viện sĩ đột nhiên đứng dậy, thân thể của hắn run nhè nhẹ, cặp mắt của hắn tinh quang lấp lóe.
+
+	Càng đơn giản, càng phức tạp!
+
+	Càng phức tạp, càng đơn giản!
+
+	BSD phỏng đoán bản thân bị chôn sâu ở cực kỳ cao thâm toán học lĩnh vực, nhưng là, chúng ta có thể từ một chút cơ sở nhất toán học nguyên tắc xuất phát, đi giải thích BSD phỏng đoán.
+
+	Vô cùng vô tận hình bầu dục đường cong có lý chút vấn đề cẩn thận thăm dò, vậy mà phù hợp cổ Hy Lạp kinh điển bao nhiêu thiết lập!
+
+	Hai cái góc vuông hình tam giác, một cái đại số chứng minh thức.
+
+	Là đủ!
+
+	Tô viện sĩ lão phu trò chuyện phát thiếu niên cuồng vọt tới Âu Diệp trước mặt, hắn cầm thật chặt Âu Diệp tay, kích động nói: "Đã sớm sáng tỏ, tịch có thể chết. Ta đã hiểu, ta hiểu được, cám ơn ngươi, Âu Diệp!"
+
+	"Tô lão gia tử, ta hẳn là cám ơn ngươi." Âu Diệp chân thành nói đến.
+
+	"Ha ha ha ha!" Tô viện sĩ ngửa đầu cười to, lập tức đối với hắn đoàn đội nói: "Chúng tiểu nhân, tiếp tục làm việc! Hai tuần lễ bên trong, chúng ta phải hoàn thành  « mạnh BSD phỏng đoán chứng minh » giải thích công việc!"
+
+	Chúng tiểu nhân hai mặt nhìn nhau, cao thủ ở giữa so chiêu, quả nhiên rất thâm ảo a.
+
+	Mặc kệ chúng tiểu nhân biết hay không, dù sao tô viện sĩ là đã hiểu.
+
+	Tại tô viện sĩ chỉ đạo dưới, Thủy Mộc toán học đoàn đội khua chiêng gõ trống thúc đẩy  « mạnh BSD phỏng đoán chứng minh » giải thích công việc.
+
+	Nguyên bản chưa thấy qua vài lần tô viện sĩ cùng Âu Diệp, cũng đã trở thành bạn vong niên.
+
+	Thẩm Kỳ cả nước lưu động diễn thuyết đi tới hắn quê quán Nam Cảng thị.
+
+	Nam Cảng thị là Hoa Nam khu vực trung tâm văn hóa, trung tâm chính trị, trung tâm thương nghiệp, học thuật trung tâm.
+
+	Cái này thành thị có được gần trăm chỗ trường trung học, trường trung học số lượng cả nước năm vị trí đầu.
+
+	Nhưng là Nam Cảng thị song nhất lưu đại học, kỳ thật cứ như vậy hai chỗ.
+
+	Thẩm Kỳ tại Nam Cảng thị diễn thuyết, chủ yếu an bài tại hai nhà song nhất lưu đại học.
+
+	Bên trong lớn, Thẩm Kỳ tại nhà này song nhất lưu đại học ngay cả mở ba trận diễn thuyết sẽ, một trận mặt hướng học sinh, một trận mặt hướng giáo viên công chức, trận thứ ba là đảng viên cán bộ chuyên hạng học tập hội.
+
+	Các trường trung học nghĩ hết tất cả biện pháp đi tranh thủ song nhất lưu tư cách, song nhất lưu chỗ tốt rất nhiều, bọn hắn tài nguyên nhiều hơn, kinh phí nhiều hơn, chính sách ưu đãi nhiều hơn.
+
+	Phóng nhãn toàn thế giới, rất khó nhìn thấy Fields thưởng, vâng thưởng được chủ đi đại học hạng hai làm diễn thuyết, càng khó gặp hơn đến Fields thưởng, vâng thưởng được chủ trên danh nghĩa đại học hạng hai danh dự giáo sư, khách tọa giáo sư.
+
+	Bên trong đại tá dài thành mời Thẩm Kỳ vì cái này trường học khách tọa giáo sư, Thẩm Kỳ uyển cự.
+
+	Bên trong đại tá dài rất tiếc nuối, nếu như Thẩm Kỳ có thể trở thành trường học của bọn họ khách tọa giáo sư, kia là cực lớn thể diện a.
+
+	Gần nhất năm năm thi đại học trúng tuyển tuyến, Yến đại vì cả nước tối cao, bình quân trúng tuyển tuyến vượt qua Thủy Mộc đại học 1 5 điểm.
+
+	Một ít tỉnh, 750 thi đại học max điểm, các thí sinh thi đến 700 phân đều lên không được Yến đại.
+
+	Đặc biệt là khoa học tự nhiên loại chuyên nghiệp, nhất là toán học, vật lý chuyên nghiệp, nếu như không thể cái chăn chiêu thành công, các thí sinh muốn thông qua thi đại học bị Yến đại số viện, vật viện trúng tuyển, kia đến so Yến đại thấp nhất trúng tuyển tuyến cao 30 phân trở lên.
+
+	Ngẫm lại cũng là rất biến thái, bị Yến đại số viện, vật viện trúng tuyển thí sinh, trên cơ bản đều là các tỉnh thi đại học khoa học tự nhiên Trạng Nguyên.
+
+	Yến đại thi đại học trúng tuyển tuyến từng năm tăng lên, thi đua cử đi Yến đại tư cách cũng càng ngày càng khắc nghiệt, liền ngay cả du học sinh đến Yến đại học tập, cũng tu trải qua cực kỳ biến thái trùng điệp khảo nghiệm.
+
+	Trước kia là thủ đô song hùng tranh bá, hiện nay, Yến đại đã trở thành Trung Quốc thứ một trường trung học.
+
+	Yến đại chiêu học sinh đều là một đám biến thái, mạnh biến thái.
+
+	 nguyên nhân một mặt là bởi vì Yến đại thực lực tổng hợp đang không ngừng tăng lên, bao quát nghiên cứu khoa học, trường học chờ hạch tâm lĩnh vực, xác thực làm được Trung Quốc thứ nhất, thế giới hàng đầu.
+
+	Một phương diện khác có lẽ cùng cá nhân có quan hệ, tỉ như nói tại Yến đại nhậm chức Thẩm Kỳ lực ảnh hưởng, lực hiệu triệu. Chí ít bên trong đại tá dài thì cho là như vậy.
+
+	Hiệu trưởng tiên sinh nóng bỏng nói: "Thẩm viện sĩ, rất cảm tạ ngươi tại Nam Cảng trạm thứ nhất diễn thuyết, đặt ở trong chúng ta lớn. Ta mười phần hi vọng, ngươi có thể đảm nhiệm bên trong lớn chung thân danh dự giáo sư, hoặc là có mời kỳ khách tọa giáo sư cũng có thể a. Cấp bậc cao nhất giảng tịch, chúng ta đều cho ngươi thiết lập tốt, tạm mô phỏng vì 'Dật Tiên giảng Tịch giáo sư', Thẩm viện sĩ cảm thấy thế nào?"
+
+	Thẩm Kỳ cười cười hỏi: "Mời ta mấy năm?"
+
+	Hiệu trưởng cảm giác hi vọng thành công, hắn nói: "Ta hi vọng là, một vạn năm."
+
+	"Ha ha!" Thẩm Kỳ cười không ngậm mồm vào được, hắn uyển chuyển nói: "Ta xác thực muốn vì quê quán làm cống hiến, nhưng làm cống hiến phương thức có thật nhiều loại."
+
+	"Dạng này a, vậy được đi, ta tôn trọng Thẩm viện sĩ ý tứ." Hiệu trưởng tiên sinh chỉ có thể cho rằng, bên trong lớn phong cách còn chưa đủ cao, không cách nào hấp dẫn Thẩm viện sĩ sủng hạnh.
+
+	Bên trong cực kỳ trung ương trực quản phó bộ cấp xây dựng chế độ, Thẩm Kỳ đích thật là muốn vì quê quán làm cống hiến, hắn vì bên trong đại tố cống hiến, đã là phục vụ tại trung ương, cũng là phục vụ với địa phương, dù sao bên trong đại tá chỉ ở vào Nam Cảng thị.
+
+	"Làm một sinh trưởng ở địa phương Nam Cảng người, ta đã từng mộng tưởng chính là thi đậu bên trong lớn, nhưng thế sự khó liệu, ta cuối cùng đi Yến đại." Thẩm Kỳ quay đầu chuyện cũ không khỏi cảm khái. Tại bọn hắn Nam Cảng trong mắt người, Nam Cảng phía bắc địa phương đều là phương bắc, mà sinh trưởng ở địa phương Nam Cảng người sẽ đi phương bắc du lịch, lại rất ít định cư tại phương bắc.
+
+	Nam Cảng người ăn Hồ Kiến người, vậy cũng là lời đồn.
+
+	Ăn người xúc phạm hình pháp, Nam Cảng người phổ biến hiểu pháp luật, bọn hắn tuyệt không dám ăn hết người khác.
+
+	Nhưng đại đa số Nam Cảng nhân sinh tại này chết bởi này, lại là tình hình thực tế.
+
+	Thẩm Kỳ tại phương bắc định cư nhiều năm, gây dựng gia đình của mình.
+
+	Mà nhà khoa học là lưu động, Thẩm Kỳ quay về quê cũ, hắn quyết định vì quê quán làm cống hiến: "Ta thứ một chuyên nghiệp là toán học, ta quan tâm nhất chính là toán học, ta đồng dạng quan tâm bên trong lớn toán học. Bên trong lớn toán học đã kiến thiết trở thành thế giới nhất lưu ngành học, ta muốn vì bên trong toàn cục học lại tận một điểm sức mọn." 

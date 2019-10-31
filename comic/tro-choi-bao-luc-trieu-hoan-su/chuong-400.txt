@@ -1,0 +1,195 @@
+ Tên họ: Lý Đại Hổ ( Ma Vực chi chủ )
+
+Danh xưng: Người mở đường
+
+Chủng tộc: Nhân loại
+
+Đẳng cấp: 29
+
+Chức nghiệp: Ma hồn triệu hoán sư
+
+Chức nghiệp đẳng cấp: Trung cấp triệu hoán sư
+
+Phó chức nghiệp: Linh tượng sư
+
+Nguyên lực phẩm chất: SSS
+
+Nguyên lực tổng số: 96200
+
+Thiên phú: Ma Hồn Chi Thể ( huyền thiết cao giai )
+
+( Ma Hồn Chi Thể: Không biết đẳng cấp, đặc biệt có thể phát triển thiên phú, trước mặt đẳng cấp: Huyền thiết cao giai. Hiệu quả 1: Toàn bộ thuộc tính thêm 400%. Hiệu quả 2: Bị toàn bộ tổn thương giảm bớt 50%. Hiệu quả 3: Vô pháp mặc bất kỳ nghề nghiệp nào trang bị, vô pháp học tập bất kỳ nghề nghiệp nào kỹ năng. Hiệu quả 4: Pháp Tương Chi Thân. )
+
+Thông dụng kỹ năng: Ma Hồn Chi Nhãn (LV4 ), cuồng bạo (LV4 ), toàn kình (LV5 )
+
+Chức nghiệp kỹ năng: Ma hồn triệu hoán (LV3 ), nguyên lực bạo phát (LV4 ), linh đoán thuật (LV1 ), ma hồn cường hóa, ma hồn dung hợp (LV1 )
+
+Kỹ năng đặc thù: Hồn khế (LV3 ), ma hồn không gian (LV2 ), Ma Hồn Biến (LV3 )
+
+( Ma Hồn Chi Nhãn: Động Sát Thuật biến dị tiến giai, trước mặt đẳng cấp LV4. )
+
+( có thể tra nhìn siêu phàm bên dưới sinh vật hoặc người chơi thuộc tính; tỷ lệ nhất định kiểm tra đến mục tiêu kỹ năng tin tức; mặc kệ ngũ cấp hoặc ngũ cấp trở xuống ẩn thân, mai phục chờ ẩn tàng loại kỹ năng hiệu quả; đối với toàn bộ tinh thần cường độ thấp hơn tự thân mục tiêu có nhất định uy hiếp hiệu quả; Ma Huyễn chi nhãn. )
+
+( cuồng bạo (LV4 ): Gia tăng 20% bản thân lực lượng cùng thể chất thuộc tính, trước trong vòng ba mươi giây không có tiêu hao, ba mươi giây sau đó, mỗi giây tiêu hao nguyên lực 20 điểm. )
+
+( toàn kình (LV4 ): Đặc biệt kỹ xảo phát lực, tăng cường lực lượng bạo phát hiệu quả, trước mặt có thể tăng bức hạn mức tối đa: 250% )
+
+( ma hồn triệu hoán (LV3 ): Tiêu hao 2 giờ nguyên lực triệu hoán một cái ma hồn trứng, trước mặt có thể triệu hoán ma hồn trứng hạn mức tối đa: 2000/ 2000 )
+
+( nguyên lực bạo phát (LV4 ): Bạo phát nguyên lực tiến hành công kích hoặc là phòng ngự, tiêu hao nguyên lực càng nhiều, cường độ công kích hoặc là phòng ngự cường độ càng cao. Nhất hao phí thấp nguyên lực: . )
+
+( hồn khế (LV3 ): Kỹ năng đặc thù, trước mặt đẳng cấp LV3. Ma hồn triệu hoán sư mỗi đề thăng nhị cấp, có thể gia tăng một tên hồn khế sinh vật danh ngạch, mỗi thành công khế ước một tên hồn khế sinh vật, có thể cường hóa ma hồn triệu hoán sư trước mặt thể chất 20%. Trước mặt hồn khế sinh vật hạn mức tối đa: 14/∞ )
+
+( ma hồn không gian (LV2 ): Ma hồn triệu hoán sư đặc hữu không gian độc lập, dùng để thu hoặc thả ra ma hồn triệu hoán thú. Trừ lần đầu tiên thu cùng triệu hoán tiêu hao một chút nguyên lực ra, sau đó sẽ không còn tiêu hao nguyên lực. Ma hồn triệu hoán thú thân nơi ma hồn không gian thì đem nằm ở tuyệt đối bất động trạng thái, nơi có thương thế tốc độ khôi phục thêm 100%. )
+
+( ma hồn cường hóa: Kỹ năng bị động, không có thể thăng cấp. Mỗi lần ma hồn triệu hoán sư tiến giai thì, toàn bộ đạt đến tiến giai nhu cầu ma hồn triệu hoán thú tự động thuận theo tiến giai, không có tiêu hao. )
+
+( ma hồn dung hợp (LV1 ): Đem mười con bậc thấp bậc ma hồn triệu hoán thú tiến hành dung hợp, nếu thành công, đem dung hợp ra một cái cấp bậc cao hơn ma hồn triệu hoán thú, như thất bại, toàn bộ dung hợp sử dụng ma hồn triệu hoán thú toàn bộ tử vong. Trước mặt tỷ lệ thành công: 30%. Trước mặt dung hợp đẳng cấp cực hạn: Lĩnh chủ. )
+
+( Ma Hồn Biến (LV3 ): Tối đa cùng 3 vị hồn khế sinh vật triệu hồi tiến hành hợp / thể, hợp / thể sau đó, ma hồn triệu hoán sư sẽ được nên 3 vị hồn khế sinh vật bản thân nguyên lực tổng số 50% gia trì, đồng thời có thể khiến dùng hồn khế sinh vật triệu hồi toàn bộ kỹ năng. Nên kỹ năng không có tiêu hao, thời gian kéo dài cùng cách nhau thời gian, coi ma hồn triệu hoán sư nhục thân cường độ cùng cường độ sức mạnh tình thần quyết định. )
+
+——
+
+Tỉ mỉ tra xét một loại mình bây giờ bảng thuộc tính sau đó, Lý Đại Hổ chính mình cũng tốn không ít thời gian mới tỉnh táo lại, đem bảng thuộc tính đóng lại.
+
+Một chữ, mạnh mẽ!
+
+Hai chữ, thật mẹ nó mạnh mẽ!
+
+"Hơn một tháng gần như không ngủ không nghỉ bế quan, rốt cuộc xem như hết khổ rồi!" Nhớ tới mình đây hơn một tháng trải qua, Lý Đại Hổ không nhịn được cảm thán lên tiếng.
+
+Từ khi Long Gia Trại sự tình sau khi kết thúc, hắn liền một người du tẩu cùng Long Thần Giới mỗi các địa phương, mỗi ngày làm chuyện chính là tìm kiếm quái vật, sau đó đánh chết cũng khế ước, cuối cùng đem thống lĩnh cấp ma hồn triệu hoán thú tiến hành dung hợp.
+
+Coi như là có lúc nghỉ ngơi, đều là đang tu luyện « Ma Phệ » cùng « Vạn Nguyên Quyết », không ngừng rèn luyện đề thăng nguyên lực của mình, thể chất cùng tinh thần lực!
+
+Công phu không phụ người có lòng, siêu cường độ 'Bế quan tu luyện ". Để cho thực lực của hắn đã nhận được to lớn tăng lên.
+
+Đẳng cấp phương diện, tại liên tục không ngừng nguyên hạch cung ứng, và « Ma Phệ » dưới sự giúp đỡ, liền biểu tam cấp, đạt tới level 29, nguyên lực tổng số càng là tiếp cận 10 vạn số lượng, cực kỳ khủng bố.
+
+Hắn bây giờ, con muốn lĩnh ngộ đến 'Lĩnh vực ' lực lượng, liền có thể bất cứ lúc nào đột phá, thành tựu siêu phàm.
+
+Bất quá bàn về thực lực chân chính, Lý Đại Hổ hiện tại đã hoàn toàn không thua gì giống như siêu phàm tồn tại, bởi vì, hắn nguyên lực, thể chất và tinh thần lực ba cái cứng rắn ba chiều thuộc tính, đều cơ hồ đạt tới siêu phàm tiêu chuẩn.
+
+Nguyên lực không cần phải nói, gần 10 vạn khủng bố tổng số, cho dù so ra kém những cái kia lợi hại siêu phàm, nhưng nhận định cùng phổ thông siêu phàm cũng không kém bao nhiêu.
+
+Chớ nói chi là hắn nguyên lực trải qua một lần lại một lần rèn luyện thuế biến, chất lượng so sánh tuyệt đại đa số người may mắn còn sống sót cũng cao hơn hơn nhiều, một chút nguyên lực có thể phát huy ra được uy lực, thậm chí có thể so với khác người may mắn còn sống sót năm sáu điểm thậm chí nhiều hơn nguyên lực uy lực!
+
+Mà thể chất cùng phương diện tinh thần, tại « Vạn Nguyên Quyết » cái này thần bí cường đại phương pháp tu luyện tôi luyện dưới, tiến bộ của hắn càng là tiến triển cực nhanh.
+
+Hiện tại, Lý Đại Hổ cho dù không dùng tới cái khác bất kỳ thủ đoạn nào, nhục thân chi lực liền đã đạt đến tứ long chi lực, khoảng cách chân chính siêu phàm cũng bất quá nhất long chi lực chênh lệch.
+
+Nếu như kích động huyền thiết cao cấp 'Ma Hồn Chi Thể ". Thể chất của hắn sẽ tăng vọt bốn lần, 2 mét chiều cao sẽ tăng vọt đến kinh khủng 4m khoảng cách, cho dù không đạt được trên lý thuyết hoàn mỹ 16 long chi lực, cũng đang thập long chi lực trở lên.
+
+Mà giống như siêu phàm, nhục thân chi lực chỉ là ngũ long chi lực mà thôi!
+
+Nếu như sẽ ở cơ sở này trên thi triển cực hạn 'Pháp Tương Chi Thân ' mà nói, kia chiều cao của hắn sẽ đạt tới kinh khủng 12m, dựa theo mỗi gia tăng 1m thực lực gia tăng gấp đôi tính toán, thân thể của hắn chi lực, sẽ ngắn ngủi đạt đến khiến người trố mắt nghẹn họng 80 long chi lực, thậm chí càng cao!
+
+Thực lực như vậy, thậm chí có thể đánh chết giống như siêu phàm tồn tại!
+
+Về phần tinh thần lực, kia càng không cần phải nói, đang ngưng tụ rồi tinh thần lực khí xoay chuyển sau đó, hắn tinh thần lực liền đã đạt đến siêu phàm tiêu chuẩn, trải qua đây hơn một tháng rèn luyện, đã nguyên lai trên căn bản tăng lên chừng năm thành.
+
+Tại mạnh mẽ như vậy tinh thần lực chống đỡ dưới, Lý Đại Hổ từ Huyễn Lão chỗ đó lấy được « Huyễn Tâm », tiến hành tu hành tốc độ quả thực cùng giống như bay, hiện tại mấy có lẽ đã tu luyện đến tầng thứ nhất 'Huyền ảo ' đỉnh phong, không có chạm tới lĩnh vực chi lực tồn tại, chỉ cần lọt vào hắn huyễn cảnh bên trong, cơ hồ liền là tương đương đem mệnh đưa đến trước mặt hắn, không còn sức đánh trả chút nào.
+
+Cứng rắn ba chiều thuộc tính tăng lên trên diện rộng, Lý Đại Hổ hiện tại ngoại trừ còn chưa liên quan đến lĩnh vực chi lực ra, thực lực tổng hợp đã hoàn toàn tương đương với giống như siêu phàm tồn tại!
+
+Bất quá, ngoại trừ cá nhân thực lực mức độ lớn đề thăng ra, Lý Đại Hổ đây hơn một tháng 'Bế quan tu luyện ". Thu hoạch lớn nhất, còn muốn làm thuộc tại ma hồn triệu hoán thú phương diện!
+
+Liên tục hơn một Dư không ngủ không nghỉ săn giết, trong tay hắn ma hồn triệu hoán thú đã giống như hắn, tất cả đều lên tới level 29, thậm chí nếu không phải là bởi vì hắn 'Kéo chân sau ' mà nói, một ít nguyên bản chính là level 29 ma hồn triệu hoán thú, thậm chí đều có thể đột phá rồi.
+
+Hiện ở trong tay của hắn, thông qua thống lĩnh cấp ma hồn triệu hoán thú dung hợp mà đến sát lục ma hồn số lượng là nhiều nhất, chừng một ngàn năm trăm con.
+
+Còn lại 500 con, tất đều là do lĩnh chủ cấp quái vật trực tiếp khế ước mà đến, trên bầu trời bay, trên mặt đất chạy, bơi trong nước, Hải Lục Không ( biển, đất liền, không trung ) đều có!
+
+Bất kể là trực tiếp khế ước mà đến, vẫn là dung hợp mà đến, chỉ cần lên tới level 29, thực lực liền sẽ bạo tăng một đoạn, đạt đến nửa bước siêu phàm trình độ!
+
+Nói cách khác, Lý Đại Hổ hiện ở trong tay, có 2,000 con thực lực đạt tới nửa bước siêu phàm triệu hoán thú!
+
+Thực lực như vậy, cho dù là Lý Đại Hổ mình, đều bị sợ hết hồn, khi đó, hắn đã cảm giác mình trên địa cầu vô địch rồi.
+
+Bất quá, đã rất lâu không có động tĩnh Ma Hồn Chi Vương chính là cho hắn tạt một chậu nước lạnh, nói thẳng thực lực của hắn còn chưa đủ, cơ sở còn chưa đủ vững chắc, cần phải tiến hành tiến một bước ma luyện!
+
+Dựa theo Ma Hồn Chi Vương nói với hắn tin tức biểu thị, siêu phàm tồn tại bình thường chia làm bồn tầng thứ, sơ cấp, trung cấp, cao cấp cùng viên mãn!
+
+Dựa theo cụ thể đẳng cấp phân chia mà nói, mỗi tam cấp làm một cấp bậc, 30 đến 3 cấp 3 là sơ cấp, 3 cấp 4 đến 36 cấp là trung cấp, 3 cấp 7 đến 39 cấp là cao cấp.
+
+39 cấp đến đột phá siêu phàm cực hạn cái giai đoạn này, vì viên mãn!
+
+Lý Đại Hổ thực lực bây giờ, ngoại trừ lĩnh vực chi lực kém một chút ra, đủ để cùng sơ cấp siêu phàm đối kháng, toàn lực bùng nổ mà nói, thậm chí có thể miễn cưỡng đạt đến trung cấp siêu phàm thấp nhất tiêu chuẩn.
+
+Tại đại đa số trong chủng tộc, hắn như vậy, tuyệt đối đã có thể được xem thiên chi kiêu tử rồi, nhưng mà Ma Hồn Chi Vương trong mắt, lại chỉ là bình thường mà thôi.
+
+Dựa theo Ma Hồn Chi Vương thuyết pháp, những cái kia chân chính cổ lão chủng tộc cường đại thiên kiêu yêu nghiệt, rất nhiều đều cần tại nhị giai thời điểm đạt đến chịu nổi so với bình thường trung cấp siêu phàm chiến lực, mới tính hợp cách.
+
+Còn chân chính xưng là yêu nghiệt tuyệt thế, càng là nhất thiết phải đang đột phá siêu phàm lúc trước, một đối một chém giết một loại trung cấp thậm chí cao cấp siêu phàm, loại này tồn tại, một khi chính thức đột phá đến siêu phàm, liền cơ hồ là siêu phàm bên trong sự tồn tại vô địch!
+
+Chính gọi là 'Cơ sở quyết định hạn mức tối đa ". Đối với trong vũ trụ vô số bộ tộc có trí tuệ lại nói, cấp hai thời điểm chính là trụ cột thời cơ tốt nhất.
+
+Phàm là ngày sau muốn trở thành chân chính tồn tại vô thượng, thì nhất định phải tại nhị giai thời điểm gầy dựng đủ thật dầy cơ sở, nếu không đường phía sau sẽ càng ngày càng khó đi!
+
+Ma Hồn Chi Vương thực lực cụ thể đạt đến tới trình độ nào, Lý Đại Hổ không rõ ràng, bất quá, khẳng định rất mạnh là được.
+
+Bởi vì, nàng đối với Lý Đại Hổ yêu cầu cơ bản, chính là đang đột phá siêu phàm lúc trước, ít nhất phải đạt đến một loại trung cấp siêu phàm chiến lực mới được, hơn nữa, còn phải là tại dưới trạng thái bình thường!
+
+Cái gì là bình thường trạng thái? Rất đơn giản, không dùng tới Ma Hồn Chi Thể, cũng không thi triển Pháp Tương Chi Thân!
+
+Cái yêu cầu này, nghĩ kĩ lại, thậm chí so với kia nhiều chút cổ lão chủng tộc cường đại đối với 'Yêu nghiệt tuyệt thế ' yêu cầu còn muốn biến thái một ít, dù sao, những cái kia yêu nghiệt tuyệt thế nhóm, mỗi một cái không phải tập muôn vạn sủng ái cùng kiêm, thiên tài địa bảo, vũ khí trang bị, tu luyện công pháp. . . Các loại các dạng đồ vật, dư thủ dư cầu!
+
+Mà Lý Đại Hổ, ngoại trừ « Ma Phệ » cùng « Vạn Nguyên Quyết » có chút đáng xem ra, cái khác có thể nói là mất tất cả!
+
+Thật muốn nói hắn có ưu thế gì, nhận định chính là ma hồn triệu hoán sư nghề nghiệp này, và Ma Hồn Chi Vương cái này không biết cấp bậc cường đại 'Lão sư ' .
+
+"Trước tiên nghỉ ngơi thật khỏe một chút, sau đó, nghênh đón Ma Hồn Chi Vương an bài cho mình tiếp theo cái 'Nhiệm vụ' !" Lý Đại Hổ đem bảng thuộc tính đóng lại, trở lại trong phòng của mình, ngã đầu liền ngủ.
+
+Hơn một tháng gần như không ngủ không nghỉ săn thú tu luyện, cho dù là hắn như bây giờ thể chất, trong lòng cũng cảm thấy một ít mệt mỏi, như vậy mệt mỏi, chỉ dựa vào hấp thu nguyên lực năng lượng là rất khó làm dịu, cho nên, hắn cần một lần đúng nghĩa giấc ngủ!
+
+Khi Lý Đại Hổ mở mắt lần nữa thời điểm, đã qua ròng rã chừng ba mươi giờ.
+
+"Hô đây một cảm giác, thoải mái!"
+
+Duỗi lưng một cái, Lý Đại Hổ cảm giác toàn thân thoải mái, thân thể và tinh thần mệt mỏi quét một cái sạch, cả người tinh khí thần đều đạt đến tới được đỉnh phong.
+
+"Đại Hổ ca, ngươi rốt cuộc tỉnh."
+
+Khi hắn thanh lý một chút vệ sinh cá nhân, đi tới lĩnh chủ phủ phòng khách thời điểm, Vương Nguyệt Nguyệt và người khác đã sớm ở nơi này chờ đợi một thời gian ngắn rồi.
+
+Vừa nhìn thấy Lý Đại Hổ, Vương Nguyệt Nguyệt liền phi thường thuần thục nhảy đến trong ngực của hắn, giống như một con mèo nhỏ phổ thông, đầu không ngừng hướng bộ ngực của hắn sờ, giống như là muốn đem cả người đều chen vào trong thân thể của hắn.
+
+Hơn một tháng phân biệt, để cho nàng đối với Lý Đại Hổ càng ỷ lại.
+
+"Chủ nhân."
+
+Bên kia, Lam Nguyệt, Bạch Vũ, Dao Vận, Dao Linh Nhi một đám hồn khế sinh vật, đồng thời mở miệng, một đám mỗi người có đặc sắc mỹ nhân tề tụ, làm cả đại sảnh đều sáng rỡ rất nhiều.
+
+Lần này, ngoại trừ Triển Lăng Hiên mấy cái đã bị chuyển đổi thành chủ phó khế ước nam nhân ra, toàn bộ trải qua hồn khế nữ nhân, đều tới, tổng cộng mười bốn, thực lực mạnh nhất dĩ nhiên là Dao Vận cái này đã từng Dao Trì thánh chủ, khoảng cách siêu phàm kém một bước.
+
+Thực lực tương đối hơi yếu, chính là Dạ Điệp Dạ Oanh và Vương Nguyệt Nguyệt mấy người các nàng, cho tới bây giờ cũng chỉ là cấp độ SS chức nghiệp giả mà thôi.
+
+"Lần này đem ngươi nhóm đều kêu đến, là mang bọn ngươi đến một chỗ đi, đến nơi đó, các ngươi sẽ đạt được một lần đặc biệt cơ duyên tạo hóa, bất quá cụ thể làm sao, ta tạm thời cũng không biết, bất quá khẳng định có thể để cho thực lực của các ngươi đạt được tăng lên cực lớn."
+
+Một hồi hàn huyên qua đi, Lý Đại Hổ mở miệng nói.
+
+Nghe vậy, mọi người sắc mặt rối rít vui mừng, đặc biệt là Vương Nguyệt Nguyệt cùng Dạ Điệp Dạ Oanh mấy cái thực lực yếu hơn, hưng phấn nhất.
+
+"Bất quá, bởi vì ta thực lực bây giờ còn có chút không quá đủ, cho nên cần để một ít phương thức đặc thù, mới có thể mang bọn ngươi đi qua, cái phương thức này. . ."
+
+Lý Đại Hổ tiếp tục mở miệng, nhưng cuối cùng chính là có chút dừng lại.
+
+Ma Hồn Chi Vương nói cho hắn biết phương pháp, quả thực có chút quá mức hương diễm, cho dù hắn tự nhận da mặt không tệ, cũng có chút khó có thể mở miệng.
+
+Cho nên, hắn suy nghĩ một chút sau đó, dứt khoát để mình và mọi người giữa liên hệ, trực tiếp đem chính mình nhớ biểu đạt ý tứ đều truyền tới chúng bộ não người bên trong, tránh khỏi trên đầu môi lúng túng.
+
+Tại minh bạch rồi hắn gọi là 'Phương pháp' sau đó, cho dù là đã sớm cùng hắn từng có không biết bao nhiêu lần tiếp xúc da thịt Lam Nguyệt mấy người các nàng, đều có chút gương mặt nóng lên.
+
+Dao Vận mấy cái còn chưa từng có liên quan trải qua mỹ nhân, càng là mắc cở cúi đầu xuống, không dám nhìn tới những người khác.
+
+Ngược lại một bên Vương Nguyệt Nguyệt cùng Lưu Thanh Lan hai cái tiểu nha đầu, tại bản năng thẹn thùng qua đi, liền trợn mắt nhìn một đôi nước yêu kiều mắt to nhìn chằm chằm Lý Đại Hổ, bên trong là không che giấu chút nào vẻ chờ mong.
+
+Bất quá rất đáng tiếc, Lý Đại Hổ câu nói tiếp theo, chính là để cho mộng đẹp của các nàng bể nát.
+
+"Nguyệt Nguyệt cùng Tiểu Lan, các ngươi niên kỷ còn nhỏ, cho nên, ta sẽ dùng một cái khác phương pháp dẫn ngươi đến chỗ đó đi."
+
+"A "
+
+Hai cái tiểu nha đầu nhất thời giống như đấu bại gà trống, ủ rũ đi đi xuống, có chút u oán nhìn đến Lý Đại Hổ.
+
+Đối với lần này, Lý Đại Hổ làm như không thấy, bởi vì đây là trong lòng của hắn làm người điểm mấu chốt. 

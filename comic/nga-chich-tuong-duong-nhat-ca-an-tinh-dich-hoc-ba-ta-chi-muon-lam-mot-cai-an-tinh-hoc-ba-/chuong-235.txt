@@ -1,0 +1,127 @@
+ 235 chương luận bàn
+
+	Tại đã phát biểu luận văn bên trong, Thẩm Kỳ sử dụng PLAN-A, hoàn thành Walsh phỏng đoán chứng minh.
+
+	Giả thiết (X, Y) là vuông trình (t+1)X^4-tY^2=1 một cái giải, thỏa mãn Y&gt;1, (x, y) vì đối ứng nương theo giải, N= √x^2+y^2t, thì đối với cái nào đó thỏa mãn t0∣t cùng t0^2t số tự nhiên t0, có P(x, y)=t0^2.
+
+	Đây là chứng minh Walsh phỏng đoán hạch tâm trình tự, định nghĩa r0 vì thỏa mãn (e^ 2.37ε2 ╱ 8)^1-r0∣fq∣(e^ 2.37ε2 ╱ 8)^-r0 số tự nhiên, Thẩm Kỳ tại luận văn bên trong sử dụng PLAN-A.
+
+	Tại PLAN-A bên trong, Thẩm Kỳ lệnh r0=1, ±B1qA1p cùng 2∣fq∣(e^ 2.37ε2 ╱ 8)&lt;1.
+
+	Hắn đạt được=K(±B1q-pA1)0, từ đó cuối cùng chứng minh phương trình (t+1)X^4-tY^2=1 không tồn tại hai tổ số tự nhiên giải (Xi, Yi)(i=1, 2), Y2&gt;Y1&gt;1 thỏa mãn ∣± √-1(xi-yi √-t) ╱ (xi+yi √-t)-X^1 ╱ 4∣&lt;1 ╱ 8.
+
+	Cho nên, Walsh tiên sinh tại 37 năm trước nói lên suy đoán là chính xác.
+
+	Cái suy đoán này bị một vị 21 tuổi Trung Quốc du học sinh chứng minh.
+
+	Thẩm Kỳ bởi vậy thu được một chút vinh dự cùng giải thưởng, tại Trung Quốc toán học giới cùng nước Mỹ toán học giới bộc lộ tài năng.
+
+	Mà Ngô lão vừa mới viết xuống một đống toán học ký hiệu, đại biểu PLAN-B, tức Walsh phỏng đoán hạch tâm chứng minh trình tự một loại khác đường tắt.
+
+	Nguyên lai Ngô lão nhìn qua ta đăng tại  « tạp chí toán học Mỹ » bên trên luận văn. Thẩm Kỳ trong lòng sáng tỏ.
+
+	Trên thực tế Thẩm Kỳ cũng là trước đó không lâu mới lĩnh ngộ được PLAN-B, cái này muốn cảm tạ Princeton toán học đại lão tập đoàn ép hỏi.
+
+	Nhưng này lúc căn cứ vào PLAN-A luận văn, Thẩm Kỳ đã công khai phát biểu.
+
+	PLAN-B với hắn mà nói là một loại bổ sung mà không phải cương nhu, cho nên Thẩm Kỳ không có lập tức thay đổi nhỏ PLAN-B thao tác cụ thể phương án, trong lòng lưu lại cái tưởng niệm.
+
+	Lại sau đó, Thẩm Kỳ được cho biết thu hoạch được Trần Tỉnh Thân toán học thưởng, tại cái này đặc thù thời kì, hắn càng thêm không thể sửa đổi đã văn bản rõ ràng phát biểu PLAN-A.
+
+	Vài ngày trước, Thẩm Kỳ đem toán học đẳng cấp thăng làm cấp 10, hắn trong đầu giả lập tràng cảnh bên trong triệt để lĩnh ngộ PLAN-B.
+
+	Cho nên, Ngô lão là muốn cùng ta luận bàn một chút PLAN-B, nhưng hắn không muốn giảng quá rõ, hết thảy đều không nói bên trong. . . Thẩm Kỳ đi đến bảng trắng trước, cầm lấy bút mực nước viết đến:
+
+	N2N1^7 ╱ 6t^2
+
+	Viết xong, Thẩm Kỳ khiêm tốn thỉnh giáo: "Mời Ngô lão chỉ điểm."
+
+	"Ngươi rất trẻ trung, nhưng thiết thực, ta thích thiết thực người trẻ tuổi." Ngô lão cười cười, tiện tay lau đi Thẩm Kỳ, cũng cho N2 tới cái lập phương.
+
+	Thế là Thẩm Kỳ đáp án N2N1^7 ╱ 6t^2 thay đổi vì "N2^3 trống không N1^7 ╱ 6t^2" .
+
+	"Ngô lão quả nhiên cao hơn một bậc." Thẩm Kỳ chắp tay làm chịu phục hình, lập tức lại nói: "Nhưng tiểu sinh còn có một đầu sinh lộ."
+
+	Thẩm Kỳ tại trống không chỗ lấp nhập, lại tại N2^3 trước đó bổ sung một cái N1, tiếp theo lau đi N1^7 ╱ 6t^2, thay vào đó là 54B^2t^ 1.5
+
+	Thế là mới nhất đáp án biến thành:
+
+	N1N2^354B^2t^ 1.5
+
+	"Người trẻ tuổi đầu óc sống, mạch suy nghĩ rộng, hậu sinh khả uý." Ngô lão cười tủm tỉm nói đến, sau đó viết xuống một nhóm phi thường phức tạp tư thế:
+
+	2t2^2 ╱ √t+1N1^4(N2 ╱ N1)^4=. . . 8 ╱ (e^ 0.99ε1)^2(3N2 ╱ N1)
+
+	"Ha ha ha!" Thẩm Kỳ ngửa mặt lên trời cười to, dựng thẳng lên ngón cái: "Phục, tiểu sinh phục, Ngô lão quả nhiên thái sơn bắc đấu, trong lúc nói cười tường mái chèo hôi phi yên diệt."
+
+	"Nhưng có đối sách?" Ngô lão hỏi, chờ mong Thẩm Kỳ trả lời.
+
+	"Còn có một sách, đập nồi dìm thuyền." Thẩm Kỳ không khỏi tán thưởng viện sĩ quả nhiên là viện sĩ, trình độ xác thực cao.
+
+	Sau đó Thẩm Kỳ chấp bút viết xuống một nhóm phức tạp hơn tư thế:
+
+	∣(4B √-t+4A)(u+v √-t)^4-(4B √-t-4A)(u-v √-t)^4∣. . . =8N1^8t2^2, t2&lt; √t
+
+	Trong phòng họp những người khác, có làm trầm tư hình, cũng có một mặt mờ mịt hình.
+
+	"Ha ha ha!" Ngô viện sĩ cởi mở cười to, nói đến: "Trăm sông đổ về một biển."
+
+	"Ha ha ha!" Thẩm Kỳ cười phi thường vui vẻ, hiểu hắn người chỉ có Ngô viện sĩ: "Trăm sông đổ về một biển."
+
+	Một già một trẻ hai chữ số học người làm việc tương hỗ thưởng thức, tựa hồ thành bạn vong niên.
+
+	Cả phòng người ngươi nhìn ta, ta nhìn ngươi, không dám nói lời nào, không biết nên nói cái gì, chỉ cảm thấy đây cũng là một phen cấp cao luận đạo, rất có giá trị nghiên cứu.
+
+	"Chà xát đi, kỳ thật cũng không có tác dụng gì." Ngô lão bỗng nhiên lắc đầu, nói với Thẩm Kỳ đến.
+
+	"Xác thực không có tác dụng gì, hồi hương đậu hồi chữ, viết ra một loại đầy đủ." Thẩm Kỳ lau đi bảng trắng bên trên toàn bộ chữ viết, tư tưởng cảnh giới tăng thêm một bước.
+
+	"Cái này. . ." Những người khác không phản bác được, hai ngươi đến cùng đang làm gì? Viết xoa, chà xát viết, viết xong toàn bộ lau sạch sẽ, chơi đoán chữ đâu?
+
+	"Tôn giáo sư, xin hỏi Thẩm Kỳ cùng Ngô viện sĩ ở giữa, đến tột cùng xảy ra chuyện gì?" Chu Vũ An tò mò nồng đậm nhỏ giọng hỏi.
+
+	"Thiên cơ bất khả lộ." Tôn Nhị Hùng thần bí hề hề nói đến.
+
+	"Như vậy, hôm nay báo cáo của ta sẽ kết thúc, cảm tạ các vị chuyên gia tham dự, phía dưới, cho mời Ngô viện sĩ cho chúng ta giảng vài câu đi." Thẩm Kỳ cảm thấy không sai biệt lắm có thể thu tràng , dựa theo lệ cũ, muốn mời lãnh đạo làm tổng kết phát biểu.
+
+	"Ba câu nói, nghiên cứu toán học không muốn chơi hư, tâm bình khí hòa nhịn ở tịch mịch, học không có tận cùng nói cẩn thận làm cẩn thận, tan họp." Ngô lão sau khi nói xong chắp tay rời đi, đi tới cửa quay đầu nói đến: "Thẩm Kỳ, ngươi cùng ta ra một chút."
+
+	Thẩm Kỳ gật gật đầu, chắp tay rời đi.
+
+	Lưu lại một phòng toàn người nghị luận ầm ĩ.
+
+	"Thẩm Kỳ đây là muốn đạt được Ngô viện sĩ đơn độc chỉ điểm." Chu Vũ An không thấy quá hiểu Thẩm Kỳ cụ thể lắp cái gì bức, hắn có thể hiểu được chính là, Thẩm Kỳ hẳn là trang cái bức, kinh hãi tất cả mọi người.
+
+	"Thẩm Kỳ tuổi trẻ tài cao a."
+
+	"Tiểu tử này không sai, có liệu, không Trương Dương, thu phóng tự nhiên."
+
+	"Trầm ổn như vậy có độ người trẻ tuổi, đầu năm nay hiếm thấy."
+
+	"Có thể đi Princeton ngành toán học thâm tạo người, quả nhiên có thiên phú."
+
+	Đám người đối Thẩm Kỳ tán thưởng có thừa, Trung Quốc toán học giới một ngôi sao mới từ từ bay lên.
+
+	Cảng lớn một góc nào đó, Ngô viện sĩ cùng Thẩm Kỳ hai người đơn độc giao lưu.
+
+	"Ta xem qua ngươi phát biểu tại  « tạp chí toán học Mỹ » bên trên luận văn, thiết a, b vì số tự nhiên, thì Walsh viết cái kia Diofantos phương trình nhiều nhất chỉ có hai tổ số tự nhiên giải. Thẩm Kỳ sự chứng minh của ngươi phương pháp là hoàn mỹ nhất, ta vừa rồi chỉ là ý tưởng đột phát, lão phu trò chuyện phát thiếu niên cuồng đi." Ngô viện sĩ nói đến.
+
+	"Cảm tạ Ngô lão chỉ điểm."
+
+	"Chỉ điểm không tính là, tìm ngươi nghiệm chứng cái ý nghĩ mà thôi."
+
+	Nói tóm lại chính là, Ngô viện sĩ từ Thẩm Kỳ PLAN-A bên trong tìm được một chút linh cảm, thế là chơi đùa ra PLAN-B, cùng Thẩm Kỳ chơi cái trò chơi.
+
+	Ngô viện sĩ lão phu trò chuyện phát thiếu niên cuồng PLAN-B, vừa vặn cũng là Thẩm Kỳ trước đó không lâu lĩnh ngộ ra tới PLAN-B.
+
+	Tư tưởng của hai người cứ như vậy vừa đụng chạm, đạt thành một loại nào đó chung nhận thức, kỳ thật PLAN-B cũng không ra thế nào địa, vẫn là PLAN-A càng diệu.
+
+	Một già một trẻ dạo chơi nhân gian, người ở bên ngoài xem ra là một trận cấp cao tú, tại Thẩm Kỳ cùng Ngô viện sĩ xem ra, chính là cái trò chơi nhỏ thôi.
+
+	Chơi toán học chơi đến nhất định cấp độ, tri kỷ càng ngày càng ít, cảm giác cô độc càng ngày càng mạnh. Thẩm Kỳ cảm khái đến: "Kỳ thật ta cùng Ngô lão bạn tri kỷ đã lâu, hôm nay may mắn cùng Ngô lão ở trước mặt luận bàn, được ích lợi không nhỏ."
+
+	"Sau này tính toán gì, trở về sao?" Ngô viện sĩ hỏi.
+
+	Thẩm Kỳ gật gật đầu: "Đương nhiên, cầm tới Princeton toán học học vị tiến sĩ về sau, ta sẽ về nước, ta căn tại Trung Quốc."
+
+	. . . 

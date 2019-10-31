@@ -1,0 +1,139 @@
+ 575 chương tính quân toán thuật
+
+	Buổi sáng hôm nay 1 1 điểm nửa có trận NBA trận bóng, tây quyết trận thứ bảy tiêu điểm chiến, dũng sĩ vs Lakers.
+
+	Thẩm Kỳ tiến vào NBA mạng số liệu, download cùng dũng sĩ, Lakers tương quan toàn bộ số liệu, cũng cân nhắc đến nhà cái thao bàn khả năng cùng với hắn ngoài ý muốn nhân tố. Hắn rất nhanh liền chỉnh lý ra một bản cơ sở số liệu, đưa vào "Một hai ba" .
+
+	Thẩm Kỳ hạ đạt thôi diễn chỉ lệnh là: Tính ra dũng sĩ vs Lakers điểm số.
+
+	Đoán bóng đá điểm số, rất nhiều người bình thường cũng có thể đoán đúng.
+
+	Đoán bóng rổ điểm số, kỹ thuật độ khó hiện lên cấp số nhân tăng trưởng.
+
+	"Một hai ba" lập tức chấp hành tính toán chỉ lệnh: "Lần này thôi diễn tính toán đem tiếp tục 31 phút đồng hồ. . . 1%. . . Thôi diễn bên trong. . . 2%. . ."
+
+	Thanh tiến độ lấy tốc độ mà mắt thường cũng có thể thấy được đẩy về phía trước tiến.
+
+	"Một hai ba" sử dụng Brute force pháp, đây là Thẩm Kỳ thiết định rất nhiều phép tính một trong.
+
+	"Một hai ba" đầu tiên liệt kê ra dũng sĩ vs Lakers toàn bộ điểm số kết quả, từ "1-0" đến "1728 so 1725" .
+
+	"1-0" bóng rổ tranh tài chỉ có một loại tình huống, tức một phương phạt bên trong một cầu, một phương khác toàn trường tranh tài một phần không được.
+
+	"1728 so 1725" điểm số đại biểu một loại cực đoan khác, song phương đội viên phát bóng về sau lập tức ném ba phần cũng toàn bộ trúng đích.
+
+	Hai loại có thể tồn tại trên lý thuyết nhưng lại chưa bao giờ tại chính thức trong trận đấu xuất hiện cực đoan điểm số, phát động xác suất cơ hồ cùng hơi.
+
+	"Một hai ba" tuân theo Brute force pháp nguyên tắc, đem cực đoan sự kiện liệt kê ra, cũng tính toán phát động xác suất.
+
+	Cuối cùng thôi diễn kết quả là, "1-0", "1728 so 1725" phát động xác suất nhỏ hơn một phần ngàn vạn.
+
+	Phát động xác suất cao nhất điểm số là: 98 so 99, dũng sĩ sân nhà tiếc bại Lakers.
+
+	Đảo mắt đến1 1 điểm nửa, dũng sĩ vs Lakers tranh tài bắt đầu, Thẩm Kỳ tại trên mạng nhìn trực tiếp.
+
+	Tây quyết trận thứ bảy, ai thắng ai thua đều rất bình thường.
+
+	Thẩm Kỳ chú ý chính là điểm số.
+
+	Hiệp thứ nhất, dũng sĩ đem Lakers đánh cho hoa rơi nước chảy, 3 3 - 18.
+
+	Tiết thứ hai, Lakers đuổi trở về một chút phân số.
+
+	Hơn nửa hiệp điểm số là dũng sĩ 68: 60 Lakers.
+
+	Hai chi đội ngũ hơn nửa hiệp hết thảy được 12 8 điểm, mà "Một hai ba" dự đoán tối cao xác suất phân số "98 so 99" toàn trường tổng điểm là 197.
+
+	"Nửa tràng sau hai chi đội ngũ hết thảy đến 69 phân?" Thẩm Kỳ bình thường cũng nhìn NBA, dũng sĩ loại này đội ngũ một tiết tranh tài chặt xuống ba bốn mươi phân là trạng thái bình thường.
+
+	Tiến vào tiết thứ ba tranh tài, Lakers tiếp tục đuổi phân, cái này một tiết tranh tài dũng sĩ toàn đội ném rổ tỉ lệ chính xác chỉ có đáng thương 17%, đội Warriors đơn tiết được điểm chỉ là không thể tưởng tượng nổi 12 phân.
+
+	Lakers mang theo 3 phần ưu thế tiến vào hiệp 4, cuối cùng Lakers sân khách 99 so 98 chiến thắng dũng sĩ, ngẩng đầu rất gần tổng quyết tái.
+
+	"Quả nhiên là cái này điểm số a, rất chuẩn." Thẩm Kỳ nhẹ nhàng gõ gõ màn ảnh máy vi tính, đối "Một hai ba" ưu dị biểu hiện cho khẳng định.
+
+	Ngay cả bóng rổ điểm số đều có thể đại khái thẳng thắn thôi diễn ra, thuận đầu này chi nhánh đi xuống, Thẩm Kỳ chen chân cá độ giới tuyệt đối có thể trở thành một đời đổ vương.
+
+	Nhưng Thẩm Kỳ tại hắn người hướng dẫn luận án tiến sĩ Muller giáo sư trước mặt đã thề, đời này tuyệt không liên quan cược.
+
+	Thẩm Kỳ như muốn trở thành đổ vương, hắn đã sớm thành vương.
+
+	Hắn không cần dựa vào máy tính mô hình, chỉ dựa vào não người cũng có nắm chắc ở trên chiếu bạc hoặc cá độ trên mạng đại sát tứ phương.
+
+	Sinh hoạt cũng không đem Thẩm Kỳ bức đến vi phạm lời thề, lợi dụng tri thức kỹ xảo đánh bạc kiếm tiền hoàn cảnh.
+
+	Thẩm Kỳ thiết kế "Một hai ba" mục tiêu cuối cùng, cũng tuyệt không phải vì cá độ bóng đá.
+
+	Mục tiêu cuối cùng đương nhiên là vì khoa học phục vụ.
+
+	Đông đông đông.
+
+	Lúc này có người gõ Thẩm Kỳ cửa ban công.
+
+	Thẩm Kỳ: "Mời đến."
+
+	Tiến đến một cô nương, nàng là Thôi Tiểu Nghệ, trung tâm nhân lực tài nguyên cán sự.
+
+	Thôi Tiểu Nghệ là trung tâm lão công nhân, trung tâm vừa thành lập thời điểm, Thôi Tiểu Nghệ liền đến.
+
+	Thôi Tiểu Nghệ tới thời điểm hai mươi tuổi ra mặt, mỹ thiếu nữ thanh xuân vô địch.
+
+	Trong nháy mắt sáu, bảy năm trôi qua, mỹ thiếu nữ biến thành đẹp đại tỷ.
+
+	Thôi Tiểu Nghệ một bộ thẹn thùng dáng vẻ đi đến Thẩm Kỳ trước bàn làm việc, nàng chắp tay sau lưng nói câu: "Thật xin lỗi, Thẩm chủ nhiệm."
+
+	Thẩm Kỳ nghi ngờ: "Tiểu Nghệ, ngươi thế nào liền có lỗi với ta rồi?"
+
+	Thôi Tiểu Nghệ đem một cái phong thư đưa tới Thẩm Kỳ trước mặt, ngượng ngùng cúi đầu xuống.
+
+	Thẩm Kỳ ngẩn người, không có nhận phong thư.
+
+	Thôi Tiểu Nghệ càng thêm không có ý tứ, nàng yên lặng đem thư phong đặt ở Thẩm Kỳ trên mặt bàn, phong thư bên trên viết ba chữ: Thư từ chức.
+
+	Bất luận cái gì một nhà đơn vị, nhân viên ra ra vào vào đều thuộc về tình huống bình thường.
+
+	Thôi Tiểu Nghệ đưa ra từ chức xin, Thẩm Kỳ không có khả năng không cho người ta đi.
+
+	Thẩm Kỳ chỉ là buồn bực: "Tiểu Nghệ, làm rất tốt, ngươi vì cái gì đột nhiên muốn từ chức? Có thể nói cho ta ngươi ý tưởng chân thật sao?"
+
+	"A, đương nhiên." Thôi Tiểu Nghệ điểm điểm đạo, nàng là trung tâm nhân lực tài nguyên cán sự, trung tâm những năm gần đây cũng rời chức một chút nhân viên, rời chức nhân viên đầu tiên muốn cùng Thôi Tiểu Nghệ gặp mặt nói chuyện, cáo tri rời chức nguyên nhân, sau đó lại cùng Thẩm Kỳ gặp mặt nói chuyện.
+
+	Thôi Tiểu Nghệ tại hôm qua cùng chính nàng đã nói , dựa theo quá trình, nàng hôm nay tìm đến trung tâm chủ nhiệm gặp mặt nói chuyện, hi vọng Thẩm chủ nhiệm có thể mau chóng phê chuẩn nàng rời chức xin.
+
+	Thôi Tiểu Nghệ ấp a ấp úng nói đến: "Bạn trai của ta. . . Hắn tại chúng ta quê quán công việc, ta đều nhanh 30 tuổi, Thẩm chủ nhiệm ngươi hiểu."
+
+	Thẩm Kỳ hỏi: "Ngươi cái nào bạn trai?"
+
+	Thôi Tiểu Nghệ dậm chân: "Ta. . . Ta có thể có mấy cái bạn trai a? Chính thức xác định quan hệ liền hắn một cái nha!"
+
+	"A, đồng hương ở giữa dị địa luyến, đã hiểu. Tiểu Nghệ, ngươi bạn trai làm việc gì?"
+
+	"Nghề du lịch, hắn tại chúng ta quê quán vùng ngoại thành kinh doanh một nhà resort."
+
+	"Có thể a, đại lão bản."
+
+	"Cũng không có rồi, hắn cùng người kết phường làm, hắn chỉ chiếm một bộ phận rất nhỏ cổ phần."
+
+	Thôi Tiểu Nghệ bạn trai, có lẽ đã lên cao đến vị hôn phu độ cao, hắn tại gia tộc làm du lịch resort sinh ý. Thẩm Kỳ cũng không cách nào, Thẩm Kỳ không có khả năng an bài Thôi Tiểu Nghệ bạn trai đến thủ đô công việc, để giải Thôi Tiểu Nghệ nỗi khổ tương tư.
+
+	"Tiểu Nghệ, ngươi là chúng ta trung tâm nguyên lão, cho chúng ta trung tâm phát triển lớn mạnh làm rất nhiều không thể xóa nhòa cống hiến. Ngươi đưa ra từ chức xin, ta cảm thấy đặc biệt đặc biệt tiếc hận, nhưng ta y nguyên tôn trọng lựa chọn của ngươi, ngươi có quyền lợi lựa chọn ngươi nghĩ tới bất luận cái gì sinh hoạt." Thẩm Kỳ thật lòng nói đến, không có bất kỳ cái gì một vị lãnh đạo nguyện ý nhìn thấy ưu tú nhân viên rời đi đoàn đội.
+
+	"Tạ ơn, tạ ơn Thẩm chủ nhiệm lý giải!" Thôi Tiểu Nghệ trong mắt chứa nhiệt lệ, nàng cũng không nỡ trung tâm, không nỡ Thẩm chủ nhiệm vị này tốt lãnh đạo a.
+
+	Thẩm Kỳ cũng động dung, hắn rút ra một tờ giấy đưa cho Thôi Tiểu Nghệ.
+
+	Người ta tiểu Nghệ về nhà kết hôn sinh con, đây là chuyện thiên kinh địa nghĩa, là được luật pháp bảo vệ, Thẩm Kỳ ngoại trừ tiếc hận chỉ còn chúc phúc: "Tiểu Nghệ, ta chân thành mong ước các ngươi mỹ mãn hạnh phúc, ngươi trước khi đi, ta có một phần lễ vật cho ngươi."
+
+	"Cái này nhiều không có ý tứ a Thẩm chủ nhiệm, ta nhận lấy thì ngại."
+
+	"Không không không, đây là ta cái này trung tâm chủ nhiệm phải làm, tiểu Nghệ, xin hỏi ngươi cái gì chòm sao?"
+
+	"Cáp? Ta cung Nhân Mã."
+
+	"Ngươi bạn trai đâu?"
+
+	"Hắn là chòm sao Thiên xứng."
+
+	"Tiểu Nghệ ngươi thuộc cái gì? A, đúng, ngươi thuộc Long, ngươi tài liệu cá nhân bên trên có viết. Như vậy ngươi bạn trai thuộc cái gì?"
+
+	"Hắn thuộc trâu. . . Thẩm chủ nhiệm, cái gì cái tình huống nha? Ngươi là tặng quà vẫn là đoán mệnh a?" 

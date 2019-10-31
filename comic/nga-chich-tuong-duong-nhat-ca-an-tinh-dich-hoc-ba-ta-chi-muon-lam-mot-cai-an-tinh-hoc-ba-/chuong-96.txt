@@ -1,0 +1,105 @@
+ Chương 96: Số luận + hình học = cường lực CP
+
+	"Vừa rồi ta nói đến Langlands cương lĩnh là số luận + đại số hình học một loại mới cương lĩnh, ta số luận phi thường nát, nhưng ta cộng tác là số luận chuyên gia, xin cho phép ta khách mời một thanh người chủ trì." Vân Uy nhìn về phía cách đó không xa đứng đấy chính quy người chủ trì.
+
+	Người chủ trì cười lui ra phía sau mấy bước, làm xin cứ tự nhiên thủ thế.
+
+	Vân Uy: "Phía dưới long trọng giới thiệu ta tại Yến đại ngành toán học lúc bạn học cùng lớp, khoa học đột phá thưởng, Ramanujan thưởng người đoạt giải, Viện Công nghệ Massachusetts ngành toán học giáo sư Cung Trường Vĩ tiên sinh lên đài diễn thuyết!"
+
+	Tiếng vỗ tay vang lên lần nữa, một vị đeo kính gầy teo nam tử lên đài, hắn cùng Vân Uy nhiệt tình ôm, sau đó Vân Uy xuống đài.
+
+	"Đại thần đại thần, đều là đại thần, đến phiên Vĩ thần tú." Thẩm Kỳ ăn no thỏa mãn, hôm nay trận này diễn thuyết không uổng công.
+
+	Cung Trường Vĩ là Vân Uy tại Yến đại ngành toán học lúc bạn học cùng lớp, hắn so Vân Uy lớn hơn một tuổi, so Vân Uy gầy một điểm, tóc không có Vân Uy như vậy rậm rạp.
+
+	"Ta xuất thân tại nông thôn, khi còn bé trong nhà không có tiền nhàn rỗi bồi dưỡng ta hứng thú gì yêu thích, thế là ta liền tự mình chắc chắn chữ chơi, giết thời gian, tính lấy tính lấy cầm mấy cái thưởng, sau đó may mắn đi vào Yến đại ngành toán học đọc sách." Cung Trường Vĩ lời dạo đầu tại nhàn nhạt trong hồi ức, hiển lộ ra một loại toán thuật thần đồng khí tức: "Ta đối con số đặc biệt mẫn cảm, có thể là trời sinh đi, khi còn bé tính nhẩm nhanh tính toàn thôn thứ một."
+
+	Dưới đài cười.
+
+	"Nhưng tính toán nhanh tính toán chuẩn vô dụng a, Vân Uy xưa nay đều không tính quá ta, nhưng mà thành tích của hắn vĩnh viễn so với ta tốt. Vân Uy cầm qua IMO max điểm huy chương vàng, ta so với hắn thiếu một phân, cái này một phần chính là ta cùng hắn ở giữa chênh lệch." Cung Trường Vĩ cười mắt nhìn dưới đài, Vân Uy chỗ ngồi.
+
+	Vân Uy cùng Cung Trường Vĩ đối cười một chút, chứa, Cung Trường Vĩ ngươi tiếp tục giả vờ.
+
+	Tú, Vĩ thần mời tiếp tục tú. Thẩm Kỳ biết Cung Trường Vĩ cũng là IMO huy chương vàng tuyển thủ, chỉ bất quá không có cầm tới max điểm mà thôi.
+
+	Vân Uy cùng Cung Trường Vĩ một lần kia Trung Quốc olympic toán học đội thật tương đương cường hãn, đánh quốc gia khác chỉ có thể quỳ khóc. Mạnh đến mức nào nữa nha, kia giới Trung Quốc olympic toán học đội chỉ cần phái ra năm vị tuyển thủ liền có thể cầm tới IMO đoàn đội quán quân, mà đủ quân số nhân số là sáu người.
+
+	Năm ngoái Thẩm Kỳ tham gia IMO lúc, Trung Quốc đội nếu là thiếu một người, vậy chỉ có thể cầm tới đoàn đội huy chương đồng.
+
+	Nhìn chung quốc tế toán học giới, gần 30 năm qua F, W, A, Ramanujan thưởng người đoạt giải, phần lớn có IMO dự thi kinh lịch cũng lấy được thành tích tốt.
+
+	Trung Quốc phái viên tham gia IMO nhưng thật ra là tương đối trễ, 85 năm mới bắt đầu dự thi.
+
+	Lảo đảo mười năm, thập kỷ 90 trung hậu kỳ bắt đầu, Trung Quốc olympic toán học đội cường thế bộc phát, trở thành IMO trên sàn thi đấu thường thắng tướng quân.
+
+	Lấy Vân Uy, Cung Trường Vĩ làm đại biểu 80 năm sau nhẹ nhà toán học, chính là tại Trung Quốc olympic toán học đội cường thế lúc bộc phát kỳ hiện ra tới.
+
+	Thập kỷ 90 trung hậu kỳ đến 2000 năm trước sau, Vân Uy, Cung Trường Vĩ đều là mười mấy tuổi thiếu niên, hiện tại hắn hai ba mươi mấy tuổi, xung kích Fields thưởng cũng chính là năm đến mười năm bên trong sự tình, quá rồi 40 tuổi liền tự động đánh mất thu hoạch được Fields thưởng tư cách.
+
+	"Tất nhiên ta sẽ chỉ chắc chắn chữ, được, vậy ta liền nghiên cứu số luận đi, ta rất sớm đã xác định nghiên cứu phương hướng, khi đó là đại nhất vẫn là đại nhị tới, Tôn Nhị Hùng lão sư đề nghị ta chủ công số luận phương hướng." Cung Trường Vĩ mặt hướng dưới đài bái, nói đến: "Cảm tạ Yến đại ngành toán học lão sư đối ta chỉ đạo, ta cả đời được ích lợi không nhỏ."
+
+	Ngọa tào, béo lão Tôn có thể a, Vân thần, Vĩ thần hắn đều dạy qua? Hẳn là Tôn Nhị Hùng là Yến đại ngành toán học ẩn tàng BOSS? Thẩm Kỳ nhìn quanh đại lễ đường một tuần, vẫn là không có phát hiện Tôn Nhị Hùng. Bất quá ngẫm lại cũng thế, Vân thần, Vĩ thần tại Yến đại ngành toán học sách học khoa lúc là cùng một giới đồng học, Tôn Nhị Hùng tất nhiên dạy qua Vân thần, vậy khẳng định cũng dạy qua Vĩ thần.
+
+	Vân Uy từ Yến đại khoa chính quy sau khi tốt nghiệp, đi thế giới bên trên toán học chuyên nghiệp nhất xâu Princeton ngành toán học đào tạo sâu, cầm tới toán học học vị tiến sĩ. Cùng Vân Uy cùng đi nước Mỹ Cung Trường Vĩ lựa chọn Colombia đại học, ở nơi đó thu hoạch được toán học học vị tiến sĩ. Vân Uy, Cung Trường Vĩ thế hệ này 80 năm sau nhẹ nhà toán học, được vinh dự Trung Quốc hoàng kim một đời.
+
+	Cung Trường Vĩ 30 tuổi lúc liền bắt đầu mang tiến sĩ sinh, hiện tại là Viện Công nghệ Massachusetts ngành toán học giáo sư. Cung Trường Vĩ tại nước Mỹ mang tiến sĩ sinh, có chút số tuổi so với hắn còn lớn hơn.
+
+	"Từ khi xác nhận số luận phương hướng về sau, ta nguyên lai tưởng rằng đời này cũng không thể lại cùng Vân Uy phát sinh gặp nhau, nghiên cứu của ta điểm vào càng khuynh hướng toán thuật, mà Vân Uy điểm vào càng khuynh hướng hình học." Cung Trường Vĩ tiếp tục diễn thuyết.
+
+	"Vân Uy mới vừa nói, Langlands cương lĩnh là số luận + đại số hình học cương lĩnh tính nghiên cứu, có vượt thời đại ý nghĩa. Từ Yến đại khoa chính quy tốt nghiệp mười năm về sau, ta cùng Vân Uy lần nữa cùng đi tới, hai ta là cộng tác, chúng ta hết sức ăn ý, chúng ta khát vọng lấy được đột phá. Trung Quốc nhà toán học xưa nay không từng trầm mặc qua, mà thời đại này là chúng ta thời đại hoàng kim, người Trung Quốc hò hét sẽ vang triệt thế giới!" Cung Trường Vĩ dõng dạc nói đến.
+
+	80 sau tuổi trẻ nhà toán học cùng thế hệ trước không giống, bọn hắn càng tự tin, càng khát vọng hiện ra tài hoa của mình, tại toàn thế giới trước mặt.
+
+	"Nói rất hay!" Thẩm Kỳ hô một tiếng, dẫn đầu vỗ tay.
+
+	"Vân giáo sư, cung giáo sư thật tuyệt!"
+
+	"Fields thưởng là các ngươi!"
+
+	Dưới đài tiếng vỗ tay liên miên bất tuyệt, diễn thuyết kết thúc.
+
+	Cung Trường Vĩ cùng Vân Uy trước sau thu được Ramanujan thưởng, mấy năm gần đây hai người bọn họ liên thủ hướng Langlands cương lĩnh phát khởi thế công, trước đó không lâu hai người bọn họ liên hợp viết bài luận văn, liên quan tới Langlands cương lĩnh một chút phân tích, cộng đồng thu được khoa học đột phá thưởng bên trong toán học thưởng, chia đều 300 vạn USD tiền thưởng.
+
+	Từ olympic toán học đội tuyển quốc gia đến Yến đại ngành toán học, lại đến cùng nhau nghiên cứu Langlands cương lĩnh, tuổi trẻ tài cao Cung Trường Vĩ cùng Vân Uy là một đôi hoàng kim cộng sự, hai người bọn họ một cái tinh thông số luận, một cái khác am hiểu đại số hình học.
+
+	"Vân thần cùng Vĩ thần đôi này CP thật sự là hợp nhau lại càng tăng thêm sức mạnh, đại số hình học + số luận, hai người bọn họ tổ hợp nghiên cứu Langlands cương lĩnh không có gì thích hợp bằng." Thẩm Kỳ cảm khái đến.
+
+	Nói đến số luận, nói tới trời sinh đối con số mẫn cảm, Thẩm Kỳ chợt nhớ tới một người, Âu Diệp, máy tính toán.
+
+	Âu Diệp mạnh chính là toán thuật, đặc điểm của nàng cùng Vĩ thần có chút cùng loại.
+
+	Thẩm Kỳ nhớ kỹ Tôn Nhị Hùng giáo sư dẫn bọn hắn giới này trại mùa thu bài bình luận giá qua Âu Diệp, béo lão Tôn nói sau này thích hợp nhất Âu Diệp phương hướng là số luận.
+
+	Xem ra béo lão Tôn không phải nói bậy, Âu Diệp có mô bản, nàng mô bản chính là Vĩ thần.
+
+	Mặc dù đại đa số thời điểm toán học là nam nhân số lượng trò chơi, nhưng trong lịch sử cũng không thiếu kiệt xuất nữ tính nhà toán học, tỉ như Juliet - Robinson, nàng chính là số lượng luận chuyên gia, nguyên nhân giải quyết Hilbert 23 hỏi bên trong thứ 10 vấn đề mà nghe tiếng toán học giới.
+
+	"Âu thần, đang làm gì?" Thẩm Kỳ cùng Âu Diệp phát đầu Wechat.
+
+	Mãi cho đến sau một giờ, Âu thần mới hồi âm: "Vừa tỉnh ngủ."
+
+	Thẩm Kỳ: "Thần mẹ nó vừa tỉnh ngủ, mau ăn cơm tối mới tỉnh ngủ?"
+
+	Âu Diệp: "Ừm."
+
+	Thẩm Kỳ: "Âu Diệp ngươi biết không, ta hôm nay tại hiện trường nghe Vân thần cùng Vĩ thần diễn thuyết, ta cảm thấy ngươi mô bản chính là Vĩ thần."
+
+	Âu Diệp: "Nha."
+
+	Thẩm Kỳ: "Ngươi biết Vĩ thần là ai chăng?"
+
+	Âu Diệp: "Cung Trường Vĩ."
+
+	Thẩm Kỳ: "Vậy ngươi a a a, a cái quỷ a. Số luận là rất có tiền đồ, cũng rất khó làm, ngay cả Vân thần cũng không dám đụng số luận, nhưng ngươi có thể thử một chút."
+
+	Âu Diệp: "Đã bắt đầu nếm thử."
+
+	Thẩm Kỳ: "Rất tốt! Tháng 9 Yến đại khai giảng về sau, cụ thể nghiệp vụ hai ta nói chuyện."
+
+	Âu Diệp: "Nha."
+
+	Thẩm Kỳ: "Đừng a a a, ta ghét nhất chính là a a a!"
+
+	Âu Diệp: ". . ."
+
+	Thẩm Kỳ: ". . ." 

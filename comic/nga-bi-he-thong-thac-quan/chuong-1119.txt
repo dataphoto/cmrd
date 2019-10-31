@@ -1,0 +1,131 @@
+ Chương 1118: Hệ thống Code 
+
+	Ngày kế tiếp, Phương Ninh nhận được tin tức.
+
+	"Chư thần không đồng ý, chư thần nói điển tịch có thể kết giao, những điều kiện khác một mực không được." Quỷ vương Bồ Tát bất đắc dĩ nói.
+
+	"Ha ha, là như thế này sao?" Phương Ninh cũng không hề tức giận, chỉ là thản nhiên nói, "Vậy cứ như vậy đi, đại gia các an Thiên mệnh."
+
+	"Tốt a, bần tăng cũng chỉ có thể dạng này hồi phục." Quỷ vương Bồ Tát thở dài, trở về.
+
+	Bồ Tát sau khi đi, đại gia liền buồn bực nói: "Bọn này thần có phải hay không ngốc, từng cái đều muốn tiền không muốn sống a?"
+
+	"Hừ, thần cũng cùng người không sai biệt lắm, không đến quan tài trước mắt, thiện tài khó bỏ. Lại càng không cần phải nói, chư thần tích lũy tài phú, là dùng đến lần nữa thành thần dùng, nếu là đều cho chúng ta, chư thần tương lai lại lên thần vị vô vọng, chỗ nào có thể cam tâm tình nguyện?" Phương Ninh tỉnh táo phân tích nói.
+
+	"Ách, xem ra đều là ngươi công phu sư tử ngoạm làm, nếu là muốn ít chút, liền sẽ không đàm phán tan vỡ." Đại gia tranh thủ thời gian vung nồi đạo.
+
+	"Nói mò nhạt, cái này rõ ràng là ngươi nói ra, ta hiện tại nghiêm trọng hoài nghi ngươi là bị trồng ngựa gỗ, cố ý muốn kích thích chư thần; đến, đem tầng dưới chót Code buông ra, để Phương gia thái gia kiểm tra một chút." Phương Ninh khinh bỉ nói.
+
+	"Ngươi xem hiểu không? Ngươi bất quá là cái lăn lộn mười năm C++ phế thải lập trình viên thôi, giả trang cái gì cao thủ? Ngươi hiểu mấy môn lập trình ngôn ngữ? Ngươi biết ta tầng dưới chót nội hạch là dùng cái gì biên soạn sao?" Đại gia khinh bỉ nói.
+
+	"Là dùng cái gì biên soạn? Trước kia ngươi xưa nay chưa nói qua." Phương Ninh hiếu kỳ nói.
+
+	"Đương nhiên là trên thế giới tốt nhất lập trình ngôn ngữ, PHP, " đại gia nói năng hùng hồn đầy lý lẽ nói, " trước kia ta còn chưa có tới Thần cấp, đương nhiên không cách nào xem xét tự thân, hiện tại ta là Thần cấp hệ thống, có thể biết được tự thân, tự nhiên có thể xem xét cơ sở của mình cấu tạo."
+
+	"Ngươi cái học cặn bã, làm trò chơi làm sao có thể dùng PHP? Tiểu Bạch cấp trò chơi mới có thể dùng PHP, trọng lượng cấp trò chơi phần lớn dựa vào C ╱ C++, " Phương Ninh khinh thường nói một câu, đột nhiên phản ứng tới, "Ách, ngươi thật đúng là không có nói láo, khó trách ngươi đần như vậy."
+
+	"Ngươi, ngươi lại trống rỗng ô người trong sạch, ta rõ ràng rất thông minh." Đại gia tức giận bất bình đạo.
+
+	"Mặc kệ, trước hết để cho ta kiểm tra một lần, PHP còn không dễ học, nhìn một ngày liền biết." Phương Ninh mười phần tự tin nói.
+
+	Sau đó hắn bắt đầu lên mạng tra tìm tương quan nhập môn giáo trình.
+
+	Một ngày sau đó, Phương Ninh mười phần tự tin bắt đầu muốn đối đại gia tiến hành chẩn bệnh.
+
+	Lúc này, liên tiếp trị số cùng Code, lít nha lít nhít xuất hiện tại hệ thống không gian bên trong.
+
+	Phương Ninh chỉ nhìn một trận, liền choáng váng.
+
+	"Không được, ngươi cái này đời mã cũng quá dài dòng, không có chút nào ngắn gọn ưu mỹ, đến dựng lại a!" Phương Ninh dụi dụi con mắt nói.
+
+	"Dựng lại, khó mà làm được, vạn nhất đem ta làm treo làm sao bây giờ?" Đại gia vội vàng cự tuyệt nói.
+
+	"Vậy ta phải từ từ xem, lột thuận mới có thể động thủ, một ngày nhìn một trăm đi, ngươi cái này hết thảy có bao nhiêu đi?" Phương Ninh hỏi.
+
+	"Qua loa có cái ba tỷ được thôi." Đại gia đoán chừng đạo.
+
+	"Nhiều như vậy, " Phương Ninh ăn nhiều một cân, "Ta phải nhìn thấy ngày tháng năm nào? Chính ngươi cũng không biết chính mình do nhiều ít đi Code tạo thành?" Phương Ninh nghi ngờ nói.
+
+	"Ngươi biết chính mình do nhiều ít cái tế bào tạo thành sao?" Đại gia hỏi ngược lại.
+
+	"Biết a, 40 vạn ức đến 80 vạn ức ở giữa." Phương Ninh nói năng hùng hồn đầy lý lẽ.
+
+	"Sai, ngươi nói là thân người, ngươi bây giờ thế nhưng là long thể, " đại gia khinh bỉ nói, "Căn bản cũng không phải là phàm nhân tế bào, mà là năng lượng thể, có thể lớn có thể nhỏ,
+
+	Có thể nhiều có thể ít, tồn hồ một ý niệm."
+
+	"..." Phương Ninh không lời nào để nói, sau đó đột nhiên hiểu được, "Vậy ngươi Code số lượng có phải hay không cũng là có thể nhiều có thể ít? Đem hạch tâm nhất kia một chút hệ thống Code mở ra cho ta xem một chút."
+
+	"Để cho ta thử một chút, " đại gia chân thành nói, "Không được, không có xem xét hạch tâm Code quyền hạn."
+
+	"Quả nhiên có vấn đề a, xem ra chỉ có dựa vào bạo lực mới có thể phá giải." Phương Ninh như có điều suy nghĩ nói.
+
+	"Ngươi muốn làm gì?" Đại gia sợ hãi đạo.
+
+	"Nhìn đem ngươi dọa đến, bạo lực phá giải không phải muốn ẩu đả ngươi, là chỉ dùng Brute force xứng đôi các loại thủ đoạn, giải tỏa quyền hạn, từ đó xem xét ngươi hạch tâm Code." Phương Ninh làm bộ nói.
+
+	"Nghe không hiểu, luôn cảm giác ngươi cũng là tại nói mò." Đại gia nghi ngờ nói.
+
+	"Ách, cái này đều để ngươi đã nhìn ra?" Phương Ninh ngượng ngùng nói, "Không có cách nào, ta dù sao không phải chân chính Hacker, chỉ là hiểu sơ một hai."
+
+	"Vậy ngươi nhanh đi học a, cũng không thể giữ lại như thế một cái mầm họa lớn." Đại gia thúc giục nói.
+
+	"Tốt a, ta cái này đi học." Phương Ninh cắn răng nói, cũng không thể thật phấn đấu mấy chục năm, cuối cùng trở thành bị người khác thu hoạch rau hẹ.
+
+	Tựa như câu nói kia nói, lúc tuổi còn trẻ lấy mệnh kiếm tiền, tuổi già lúc đem tiền đưa cho bệnh viện...
+
+	Phương Ninh tại hệ thống trong quán Internet bắt đầu học tập Hacker tri thức, hệ thống hóa thân tiếp tục tiến vào quan tài, chuẩn bị tiến vào thượng giới.
+
+	Phương Ninh thấy cảnh này, nghi ngờ nói: "Ngươi làm sao còn không yên tĩnh?"
+
+	"Ngươi học ngươi tập, đừng quản ta, ta cũng không thể đặt vào một đống rau hẹ không đi thu hoạch, đợi đến bọn hắn nát trong đất a?" Đại gia nói năng hùng hồn đầy lý lẽ đạo.
+
+	"Quả nhiên là trúng độc không nhẹ, " Phương Ninh lắc đầu nói, "Tựa như những cái kia dân cờ bạc, người khác lại thế nào khuyên, cũng là vô dụng."
+
+	"..." Đại gia á khẩu không trả lời được, sau đó khí cấp bại phôi nói, "Chiếu ngươi nói như vậy, ta về sau liền không thể đánh quái rồi? Mỗi ngày nghẹn trong nhà?"
+
+	"Ta không phải ý tứ kia, ta hôm qua không phải nói a? Ngươi đánh quái sau điểm rèn luyện, đều khắc trên người ta, cho ta cường hóa một chút thần hồn, cường hóa một chút thể xác, nhiều mua chút ăn ngon bổ một chút... Không muốn luôn luôn cường hóa ngươi hệ thống module, ngươi kỹ năng đẳng cấp." Phương Ninh nói năng hùng hồn đầy lý lẽ đạo.
+
+	"Nếu như ta kiên trì không cho ngươi những chỗ tốt này, ngươi lại có thể làm gì ta?" Đại gia kiên trì nói.
+
+	"Vậy đã nói rõ, ngươi quả nhiên là đắp lên giới Thiên Đạo ảnh hưởng, muốn đem chỗ tốt ở lại chờ lấy tương lai bị thu gặt, ta trước đó muốn làm nghiệm chứng, liền một cách tự nhiên thông qua được." Phương Ninh mười phần tự tin nói.
+
+	"Mẹ trứng, ta xem như phát hiện, ngươi chính là sẽ tìm lý do dính ta tiện nghi." Đại gia thẹn quá hoá giận.
+
+	Phương Ninh hai tay một đám, bất đắc dĩ nói: "Sự thật chính là như vậy."
+
+	Đại gia không nói thêm gì nữa, chỉ là hệ thống hóa thân biến mất không thấy gì nữa.
+
+	... ...
+
+	Thượng giới.
+
+	Hiệp khách Giáp xuất hiện tại một tòa huyên náo trong thành thị.
+
+	"Phá hủy những này thần miếu, đem gạch đá chuyên chở ra ngoài tạo đập chứa nước! Bao nhiêu năm rồi, bọn hắn nuốt ăn lấy hết mồ hôi nước mắt nhân dân, lại đối với chúng ta hoàn toàn không có hồi báo, chúng ta muốn bọn hắn hàng một lần cứu mạng mưa, liền muốn dâng ra nửa năm thu hoạch." Một cái chừng ba mươi tuổi thư sinh, chính mang người đánh thẳng vào trước mắt thổ địa miếu.
+
+	Chỉ gặp hắn tay trái cầm một cây ngọn đuốc,  tay phải cầm một quyển sách.
+
+	"Đông Môn đại ca nói đúng lắm, về sau chúng ta không thể lại dựa vào thần, chỉ có dựa vào chính chúng ta! Chính chúng ta tu đập chứa nước, tu đường sông, tốt hơn tìm thần bái phật!" Một người trẻ tuổi, đang dùng sùng bái ánh mắt nhìn trước mắt lãnh tụ.
+
+	"Các ngươi chơi cái gì? Đây chính là kim quang đại thần miếu thờ, kim quang đại thần vẫn còn, liền xem như triều đình, cũng chỉ dám hủy một hủy Đạo cung, còn không dám động thần miếu chủ ý!" Một cái trung niên mập mạp người coi miếu, khàn cả giọng hô quát đạo.
+
+	Đáp lại hắn nói, là mấy khối thật dày cục gạch.
+
+	"Phanh" một tiếng, béo người coi miếu ngã xuống.
+
+	Sống an nhàn sung sướng thân thể, còn không bằng thường xuyên rèn luyện thân thể đạo sĩ, chí ít các đạo sĩ nhục thân rất cường đại, những này người coi miếu, dĩ vãng dựa vào là thần đả, thỉnh thần nhập thân, thi triển thần thuật, hiện tại mời không đến thần, tự nhiên cùng người bình thường không có nhiều khác nhau.
+
+	"Tiểu Hà, mang ngươi người bắt đầu hủy đi miếu."
+
+	"Đổng bác gái, dẫn người đi cứu ra bị bọn gia hỏa này giấu kín nữ tử."
+
+	Đông Môn thanh đều đâu vào đấy phân phó, đám người không một không chăm chú nghe phân phó.
+
+	Nhìn tổ chức độ rất cao, dưới tay hắn đã có một cái thành hình ban lãnh đạo.
+
+	Hiệp khách Giáp đứng ở một bên, nhìn xem một màn này, không nói gì, không có ủng hộ, cũng không có phản đối.
+
+	Mà tại lúc này, giữa không trung phía trên, xuất hiện một cái kim giáp cự nhân, hắn nhìn về phía phía dưới, sắc mặt tức giận, lại không biết vì sao, lại nhịn được, sau đó biến mất.
+
+	: . : 

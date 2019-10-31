@@ -1,0 +1,245 @@
+Theo f-20 thủ bay, f-20 bay thử công tác, đang khẩn trương triển khai.
+
+	Bốn chiếc máy bay nguyên hình, gần như mỗi ngày đều sẽ bay lên trời, kiểm trắc các loại tính năng số liệu có hay không đạt tới yêu cầu.
+
+	Cùng lúc đó, vì tái diễn phát huy f-5 chói lọi, lần nữa thực hiện các nơi nở hoa tiêu thụ nghiệp tích, nhanh chóng đầu nhập đại lượng sản xuất. Northrop công ty chọn lựa một hệ liệt phi thường các biện pháp, đặc biệt gây dựng sản xuất phát triển trung tâm (pdc). Tập trung nhân viên tiến hành thiết kế, sản xuất cùng phân phối trang bị f-20. Đồng thời, bọn họ lại dùng khá nhiều "Cứng rắn" công cụ, lấy lợi cho đi vào đại lượng sản xuất.
+
+	Bởi vì f-20 vốn chính là căn cứ f-5 phát triển tới được, cho nên, bay thử khí động bố cục các phương diện, cũng không phải là trọng điểm, trải qua động gió thí nghiệm, lúc này f-20 cũng không có khí động cùng bay khống phương diện thiếu sót, vì vậy, sau này gắn thêm hệ thống điều khiển hỏa lực nghiệm chứng cơ, mới là trọng điểm.
+
+	an/apg-67 radar, từ công ty General nghiên cứu, ở thời sau, cho đến năm 1983 mới gắn máy bay thử, nhưng là tới từ Iraq đơn đặt hàng hết sức kích thích bọn họ, ngay từ lúc f-20 bắt đầu thủ bay thời điểm, loại này radar đã trang đến c-54 kỹ thuật nghiệm chứng trên máy, mà ở chiếc thứ tư máy bay nguyên hình bên trên, đã đem xứng trọng dụng duyên khối cầm đi, đổi lại loại này radar, nhận được 1553b số liệu tổng tuyến bên trên.
+
+	Mặc dù nói ra khỏi miệng thời điểm, cần mở ra giao diện vũ khí, kỳ thực vô cùng đơn giản, bởi vì lúc này toàn bộ quân Mỹ máy bay, đều theo chiếu thông dụng 1553b số liệu tổng tuyến tới nghiên chế.
+
+	Ở thế kỷ 20 thập kỷ 60 trước kia, máy bay không vận hệ thống điện tử không có tiêu chuẩn thông dụng số liệu lối đi, các thiết bị điện tử đan nguyên giữa liên tiếp thường thường cần đại lượng cáp điện. Ở lúc mới bắt đầu, vẫn không được vấn đề gì, nhưng là sau đó, theo không vận hệ thống điện tử không ngừng phức tạp hóa, loại này thông tin phương thức sử dụng cáp điện gặp nhau chiếm dụng không gian rất lớn cùng sức nặng, hơn nữa đối đường truyền định nghĩa cùng khảo nghiệm cũng so với vì phức tạp, chi phí khá cao. Hơn nữa không cách nào đạt tới thông dụng.
+
+	Vì giải quyết vấn đề  này, nước Mỹ khai phát ra tiêu chuẩn tín hiệu nhiều đường truyền thâu hệ thống, cũng với năm 1973 công bố mil-std-1553 tiêu chuẩn. Năm 1973 1553b nhiều đường truyền thâu số liệu tổng tuyến trở thành tương lai quân cơ đem áp dụng kỹ thuật, nó là một loại tập trung thức lúc chuỗi hành tổng tuyến, cỗ có phân bố xử lý, tập trung khống chế cùng thời gian thực hưởng ứng đặc điểm.
+
+	Như vậy cũng tốt so điện thoại, điện thoại tuyến cáp điện bên trong có rất nhiều căn dây dẫn, mỗi lần nói chuyện, cũng sẽ theo bất đồng người dùng giữa sử dụng bất đồng điện thoại tuyến, đưa đến thông tin tuyến đường khổng lồ, nhưng là, áp dụng giống nhau tcp/ip hiệp nghị sau, chỉ dùng một cây dây mạng, liền có thể cùng toàn thế giới liên hệ.
+
+	Cho nên, cấp Iraq mở ra giao diện vũ khí, chỉ cần mở ra trong đó vũ khí thao túng nội bộ mã nguồn liền có thể, so sánh đem c801 đạn đạo treo lên ở Mirage F1 bên trên, đem Matra 530 đạn đạo treo ở f-20 bên trên độ khó thì nhỏ hơn nhiều, nhân vì chúng nó đều có giống nhau tổng tuyến tiêu chuẩn.
+
+	Mà c801, cần phải sửa đổi khống chế của nó phần mềm, lượng công việc này, liền không thể so sánh nổi.
+
+	Lương lão lãnh đạo chuyên gia đội ngũ, vẫn luôn ở Iraq Basra căn cứ không quân, cùng Joseph suất lĩnh tiểu tổ cùng nhau, đánh hạ đem c801 treo lên ở Mirage F1 phía trên kỹ thuật cửa ải khó.
+
+	Mà Đồ Cơ Đạt suất lĩnh đội ngũ, cũng bị đặc biệt cho phép, cùng cái khác người cùng nhau, ngày đêm vây ở một chiếc Mirage F1 trước mặt.
+
+	Tiên tiến buồng lái thiết bị, hùng mạnh radar cùng hệ thống điều khiển hỏa lực, người máy kết hợp giao diện hữu hảo, cũng làm cho những người này mở rộng tầm mắt, nhất là phát hiện, ở bảo dưỡng động cơ lúc, bốn cái hậu cần mặt đất nhân viên có thể ở trong vòng một canh giờ, mượn đặc biệt công cụ, đem động cơ khiêng xuống tới, càng làm cho bọn họ mở rộng tầm mắt.
+
+	Ở trong nước, nếu như ếch ngồi đáy giếng, không nhìn thấy, nguyên lai nước ngoài quân cơ, đã phát triển đến loại trình độ này.
+
+	Mà từ phi công miệng bên trong hiểu được đến, bọn họ đang cùng người Iran quân cơ lúc tác chiến, tận lực không lâm vào cận chiến, mà là ở ngoài tầm mắt, dùng radar điều khiển tầm trung Matra 530 đạn đạo tới giải quyết chiến đấu, càng làm cho bọn họ tai mắt mới mẻ.
+
+	Đây hết thảy, để bọn hắn cảm giác, trong tay mình cái đó lấy làm tự hào J-7, thật ra là có rất lớn cải tiến không gian, nhất là Qusay các hạ trong miệng nói ra sáng ý: Lần nữa thiết kế trước thân phi cơ, dọn ra không gian tới, cài đặt radar, để cho J-7 đạt được tầm trung năng lực tác chiến!
+
+	Như vậy cải tiến sau, nhất định sẽ ở quốc tế trên thị trường đạt được hoan nghênh.
+
+	Đồng thời, bọn họ cũng càng mong đợi, Iraq từ nước Mỹ nhập khẩu Northrop công ty f-20, sẽ là cái dạng gì?
+
+	Không biết tại sao, Iraq Qusay các hạ, đối với bọn họ tổ này người phi thường hữu hảo, đổi lại cái khác bất kỳ quốc gia nào đoàn đại biểu, tuyệt đối sẽ không để cho nhích lại gần mình quốc gia tân tiến nhất chiến đấu cơ.
+
+	Nhưng là, Qusay các hạ chính miệng hứa hẹn, f-20 đến về sau, có thể để cho bọn họ đi thăm!
+
+	Những thứ này, cũng làm cho dẫn đội Đồ Cơ Đạt, đối Qusay thật lòng cảm tạ.
+
+	Kỳ thực mấy năm trước đi châu Âu, Đồ Cơ Đạt liền đã cảm nhận được nước ngoài chiến cơ tiên tiến điều khiển hỏa lực mang tới tác chiến dạng thức thay đổi, nhưng là, đến Iraq, hắn mới thật cảm nhận được một quốc gia tiên tiến nhà không quân nên là dạng gì.
+
+	Lợi dụng trung trình đạn tiến hành ngoài tầm mắt không chiến, nhất định là sau này một chủ yếu dạng thức!
+
+	Nhưng là, cho tới bây giờ, Trung Quốc bản thân tạo tân tiến nhất, cũng chính là J-8, cũng chỉ có cự ly gần không chiến năng lực, J-8 đầu phi cơ cùng J-7 vậy, cũng là đầu phi cơ tiến khí, bọn họ đang cải tiến.
+
+	Nếu như, thành bay có thể đạt được Iraq đầu tư, khai phát bước phát triển mới hình J-7 chiến cơ, tuyệt đối là tổ quốc bầu trời một thanh lợi kiếm!
+
+	Đồ Cơ Đạt đã âm thầm hạ quyết tâm, sau khi trở về, nhất định phải tận cố gắng lớn nhất để cho thượng cấp thông qua Qusay các hạ đề nghị này, Iraq bỏ tiền, thành bay ra kỹ thuật, hai người chung nhau nghiên chế.
+
+	Sợ Iraq ném kỹ thuật? Phải biết, Iraq liền f-20 dây chuyền sản xuất cũng mua được, kỹ thuật bên trên, người ta so với mình còn tân tiến hơn nhiều lắm.
+
+	Trung Quốc đi tới Iraq đoàn đại biểu, không có một người nguyện ý buông tha cho cơ hội, bọn họ ngày đêm xen lẫn trong Basra căn cứ không quân trong, nghiêm túc học tập.
+
+	Hơn nữa, bọn họ càng ngày càng cảm giác, Iraq không quân, kỳ thực không giống ngoại giới đã nói yếu như vậy, tác phong quả cảm, kỹ thuật thành thạo, đây rõ ràng đã là một chi tinh nhuệ chi sư, cho dù là đối mặt người Iran hùng mạnh tiêm kích Tomcat, bọn họ vẫn có thể buông tay đánh một trận.
+
+	Nhớ tới ở ba năm trước đây trận kia biên giới trong xung đột, ở lục quân phấn dũng tác chiến thời điểm, không quân ở đâu? Mà ở chỗ này, bọn họ đã cảm nhận được, tương lai trong chiến tranh, không quân tuyệt đối là nhân vật chính!
+
+	"Ta cảm thấy, phi cơ chiến đấu của chúng ta nhất định phải an chứa loại này tinh vi quán tính dẫn đường, bất luận là tự chủ đi tới, hay là đối với oanh tạc, có quán tính dẫn đường trang bị, là vô cùng trọng yếu, đáng tiếc, cái này bên trong đồ vật quá tinh vi, người nơi này lại không để chúng ta mở ra nhìn." Một cái thanh âm nói.
+
+	Đồ Cơ Đạt ngẩng đầu nhìn lại, chính là lần trước ở gặp mặt lúc cái đó nói lên quan sát f-20 tiểu tử ngốc: "Tiếu đảng sinh, ngươi nói gì thế?"
+
+	"Ta nói là. . ." Hắn mới vừa muốn nói chuyện, đột nhiên, bị trên đỉnh đầu tiếng nổ thật to sảo một cái.
+
+	Cái này tiếng nổ. . . Tiếu đảng sinh đột nhiên chợt cảnh giác một cái, không phải động cơ turbin phản lực phát ra ngoài, mà là động cơ cánh quạt!
+
+	Cho đến bây giờ, Iraq không quân vẫn không có trang bị động cơ cánh quạt tiêm kích, trừ phi. . .
+
+	Tiếu đảng sinh buông xuống dụng cụ trong tay, hướng kho chứa máy bay bên ngoài chạy đi.
+
+	"Tiểu tử ngốc này." Đồ Cơ Đạt lắc đầu một cái, cái này tiểu tử ngốc, thật ra là hắn coi trọng nhất một người, ở hệ thống điện tử hàng không bên trong, có rất sâu thành tựu, một chút liền thông.
+
+	Đột nhiên, hắn phát hiện, trong kho chứa phi cơ những người khác, cũng đều rối rít hướng kho chứa máy bay bên ngoài chạy đi, phảng phất có cái gì hoạt động vậy.
+
+	"Đồ lão, Iraq không quân kiểu mới chiến cơ, f-20 đến, chúng ta đi nhìn một chút." Một người nói.
+
+	Đồ Cơ Đạt ngẩng đầu nhìn lên, là Lương lão.
+
+	f-20 đến rồi? Cái này lại là lần đầu tiên thấy kiểu Mỹ máy bay! Đồ Cơ Đạt cũng động lòng, không trách mới vừa rồi tiếu đảng sinh chạy nhanh như vậy.
+
+	Mới ra kho chứa máy bay, liền thấy đường chạy cuối, bộ kia đang hạ xuống máy bay.
+
+	Nhọn đầu phi cơ, cực lớn cánh đuôi, xem ra, giống như là lớn một vòng f-5 tiêm kích.
+
+	Quả nhiên là Iraq f-20.
+
+	Chiến cơ bánh sau mới vừa tiếp xúc được mặt đất, chậm lại dù liền buông ra, những thứ này, bọn họ đều đã thấy thói quen, Iraq tiêm kích, cất cánh cùng hoạt chạy khoảng cách cũng phi thường ngắn, bọn họ cũng từ trong nhìn thấu một ít môn đạo.
+
+	Mà lúc này, đường chạy hai bên, đã nhiều hai hàng binh lính canh gác, bọn họ đám này từ Trung Quốc tới người, chỉ có thể ở xa xa quan sát.
+
+	Bất quá, cái này cũng không ảnh hưởng nhiệt tình của mọi người, bọn họ dùng sức hoan hô, phảng phất là bản thân vậy.
+
+	Trương Phong đứng ở đường chạy cuối, không nghĩ tới, chiến cơ nhanh như vậy trở lại, đơn giản giống như giống như nằm mơ, sau này, rốt cuộc không cần lo lắng bên mình tiên tiến tiêm kích không đủ.
+
+	Tổng cộng bốn chiếc, đây là bốn chiếc Northrop công ty tốc độ thấp dự sản xuất hình, cái gọi là tốc độ thấp dự sản xuất hình, đó chính là, có thể còn sẽ có số ít thiếu sót tồn tại, cho nên, trước dự sản xuất, đợi đến phi hành đoạn thời gian, không có vấn đề sau, lại đi vào chính thức sản xuất.
+
+	Hơn nữa, lúc này General Dynamics công ty chẳng qua là đem radar bước đầu chức năng thực hiện, chủ yếu đối không chức năng trong, liền theo dõi bên quét xem phương thức cũng có thiếu sót, mà tấn công mặt đất năng lực còn tạm thời không có.
+
+	Nói cách khác, cái này bốn chiếc tiêm kích, trước mắt chỉ có có hạn đối không năng lực.
+
+	Nhưng là, hết thảy đều là tạm thời, đợi đến sau một lứa máy bay đến sau, liền có thể đem cái này bốn chiếc máy bay tiến hành thăng cấp.
+
+	Phân lượt sản xuất, cũng là quốc tế quân cơ sản xuất lệ thường.
+
+	Chiến đấu cơ hành trình không đủ, cho nên, cũng không phải là trực tiếp từ nước Mỹ bay tới, mà là chứa ở c-130 phi cơ chuyển vận trong chuyển vận tới được. Lại bởi vì lúc này Iraq còn ở vào cùng Iran trong chiến tranh, vì để tránh cho bị tổn thương, trước vô ích chuyển đến Riyadh, lại lắp ráp lên cánh máy bay, chuyển bay đến Basra quân khu.
+
+	Mà ngẫu nhiên phối kiện cùng với Iraq phái ra học tập giữ gìn nhân viên, cùng với Northrop công ty phái tới kỹ thuật hiệp trợ nhân viên, đều ở đây Riyadh đổi đón xe chiếc, một ngày sau đó đạt tới.
+
+	Trước hai chiếc máy bay hạ xuống về sau, chậm rãi trượt xuống bãi đậu máy bay, nắp buồng lái mở ra, cũng không phải là Iraq bản thân phi công, mà là hai tên người ngoại quốc.
+
+	Darnell đứng đang khoang hành khách bên trên, lấy nón an toàn xuống, muốn hướng đám người phía dưới kêu ra lời của mình: "hello, myf nhậtends!"
+
+	Còn chưa mở lời, hắn liền nghe đến, trên đỉnh đầu lần nữa truyền đến tiếng nổ thật to.
+
+	Một cỗ khí lãng tới, phá hủy hắn kia tóc màu vàng kim kiểu tóc.
+
+	"**you! mra!" Darnell tức miệng mắng to, kết quả, phía dưới máy chụp hình, chiếu đến hắn cái biểu tình này.
+
+	Nhóm thứ hai hai chiếc f-20, cũng bắt đầu hạ xuống.Theo f-20 thủ bay, f-20 bay thử công tác, đang khẩn trương triển khai.
+
+	Bốn chiếc máy bay nguyên hình, gần như mỗi ngày đều sẽ bay lên trời, kiểm trắc các loại tính năng số liệu có hay không đạt tới yêu cầu.
+
+	Cùng lúc đó, vì tái diễn phát huy f-5 chói lọi, lần nữa thực hiện các nơi nở hoa tiêu thụ nghiệp tích, nhanh chóng đầu nhập đại lượng sản xuất. Northrop công ty chọn lựa một hệ liệt phi thường các biện pháp, đặc biệt gây dựng sản xuất phát triển trung tâm (pdc). Tập trung nhân viên tiến hành thiết kế, sản xuất cùng phân phối trang bị f-20. Đồng thời, bọn họ lại dùng khá nhiều "Cứng rắn" công cụ, lấy lợi cho đi vào đại lượng sản xuất.
+
+	Bởi vì f-20 vốn chính là căn cứ f-5 phát triển tới được, cho nên, bay thử khí động bố cục các phương diện, cũng không phải là trọng điểm, trải qua động gió thí nghiệm, lúc này f-20 cũng không có khí động cùng bay khống phương diện thiếu sót, vì vậy, sau này gắn thêm hệ thống điều khiển hỏa lực nghiệm chứng cơ, mới là trọng điểm.
+
+	an/apg-67 radar, từ công ty General nghiên cứu, ở thời sau, cho đến năm 1983 mới gắn máy bay thử, nhưng là tới từ Iraq đơn đặt hàng hết sức kích thích bọn họ, ngay từ lúc f-20 bắt đầu thủ bay thời điểm, loại này radar đã trang đến c-54 kỹ thuật nghiệm chứng trên máy, mà ở chiếc thứ tư máy bay nguyên hình bên trên, đã đem xứng trọng dụng duyên khối cầm đi, đổi lại loại này radar, nhận được 1553b số liệu tổng tuyến bên trên.
+
+	Mặc dù nói ra khỏi miệng thời điểm, cần mở ra giao diện vũ khí, kỳ thực vô cùng đơn giản, bởi vì lúc này toàn bộ quân Mỹ máy bay, đều theo chiếu thông dụng 1553b số liệu tổng tuyến tới nghiên chế.
+
+	Ở thế kỷ 20 thập kỷ 60 trước kia, máy bay không vận hệ thống điện tử không có tiêu chuẩn thông dụng số liệu lối đi, các thiết bị điện tử đan nguyên giữa liên tiếp thường thường cần đại lượng cáp điện. Ở lúc mới bắt đầu, vẫn không được vấn đề gì, nhưng là sau đó, theo không vận hệ thống điện tử không ngừng phức tạp hóa, loại này thông tin phương thức sử dụng cáp điện gặp nhau chiếm dụng không gian rất lớn cùng sức nặng, hơn nữa đối đường truyền định nghĩa cùng khảo nghiệm cũng so với vì phức tạp, chi phí khá cao. Hơn nữa không cách nào đạt tới thông dụng.
+
+	Vì giải quyết vấn đề  này, nước Mỹ khai phát ra tiêu chuẩn tín hiệu nhiều đường truyền thâu hệ thống, cũng với năm 1973 công bố mil-std-1553 tiêu chuẩn. Năm 1973 1553b nhiều đường truyền thâu số liệu tổng tuyến trở thành tương lai quân cơ đem áp dụng kỹ thuật, nó là một loại tập trung thức lúc chuỗi hành tổng tuyến, cỗ có phân bố xử lý, tập trung khống chế cùng thời gian thực hưởng ứng đặc điểm.
+
+	Như vậy cũng tốt so điện thoại, điện thoại tuyến cáp điện bên trong có rất nhiều căn dây dẫn, mỗi lần nói chuyện, cũng sẽ theo bất đồng người dùng giữa sử dụng bất đồng điện thoại tuyến, đưa đến thông tin tuyến đường khổng lồ, nhưng là, áp dụng giống nhau tcp/ip hiệp nghị sau, chỉ dùng một cây dây mạng, liền có thể cùng toàn thế giới liên hệ.
+
+	Cho nên, cấp Iraq mở ra giao diện vũ khí, chỉ cần mở ra trong đó vũ khí thao túng nội bộ mã nguồn liền có thể, so sánh đem c801 đạn đạo treo lên ở Mirage F1 bên trên, đem Matra 530 đạn đạo treo ở f-20 bên trên độ khó thì nhỏ hơn nhiều, nhân vì chúng nó đều có giống nhau tổng tuyến tiêu chuẩn.
+
+	Mà c801, cần phải sửa đổi khống chế của nó phần mềm, lượng công việc này, liền không thể so sánh nổi.
+
+	Lương lão lãnh đạo chuyên gia đội ngũ, vẫn luôn ở Iraq Basra căn cứ không quân, cùng Joseph suất lĩnh tiểu tổ cùng nhau, đánh hạ đem c801 treo lên ở Mirage F1 phía trên kỹ thuật cửa ải khó.
+
+	Mà Đồ Cơ Đạt suất lĩnh đội ngũ, cũng bị đặc biệt cho phép, cùng cái khác người cùng nhau, ngày đêm vây ở một chiếc Mirage F1 trước mặt.
+
+	Tiên tiến buồng lái thiết bị, hùng mạnh radar cùng hệ thống điều khiển hỏa lực, người máy kết hợp giao diện hữu hảo, cũng làm cho những người này mở rộng tầm mắt, nhất là phát hiện, ở bảo dưỡng động cơ lúc, bốn cái hậu cần mặt đất nhân viên có thể ở trong vòng một canh giờ, mượn đặc biệt công cụ, đem động cơ khiêng xuống tới, càng làm cho bọn họ mở rộng tầm mắt.
+
+	Ở trong nước, nếu như ếch ngồi đáy giếng, không nhìn thấy, nguyên lai nước ngoài quân cơ, đã phát triển đến loại trình độ này.
+
+	Mà từ phi công miệng bên trong hiểu được đến, bọn họ đang cùng người Iran quân cơ lúc tác chiến, tận lực không lâm vào cận chiến, mà là ở ngoài tầm mắt, dùng radar điều khiển tầm trung Matra 530 đạn đạo tới giải quyết chiến đấu, càng làm cho bọn họ tai mắt mới mẻ.
+
+	Đây hết thảy, để bọn hắn cảm giác, trong tay mình cái đó lấy làm tự hào J-7, thật ra là có rất lớn cải tiến không gian, nhất là Qusay các hạ trong miệng nói ra sáng ý: Lần nữa thiết kế trước thân phi cơ, dọn ra không gian tới, cài đặt radar, để cho J-7 đạt được tầm trung năng lực tác chiến!
+
+	Như vậy cải tiến sau, nhất định sẽ ở quốc tế trên thị trường đạt được hoan nghênh.
+
+	Đồng thời, bọn họ cũng càng mong đợi, Iraq từ nước Mỹ nhập khẩu Northrop công ty f-20, sẽ là cái dạng gì?
+
+	Không biết tại sao, Iraq Qusay các hạ, đối với bọn họ tổ này người phi thường hữu hảo, đổi lại cái khác bất kỳ quốc gia nào đoàn đại biểu, tuyệt đối sẽ không để cho nhích lại gần mình quốc gia tân tiến nhất chiến đấu cơ.
+
+	Nhưng là, Qusay các hạ chính miệng hứa hẹn, f-20 đến về sau, có thể để cho bọn họ đi thăm!
+
+	Những thứ này, cũng làm cho dẫn đội Đồ Cơ Đạt, đối Qusay thật lòng cảm tạ.
+
+	Kỳ thực mấy năm trước đi châu Âu, Đồ Cơ Đạt liền đã cảm nhận được nước ngoài chiến cơ tiên tiến điều khiển hỏa lực mang tới tác chiến dạng thức thay đổi, nhưng là, đến Iraq, hắn mới thật cảm nhận được một quốc gia tiên tiến nhà không quân nên là dạng gì.
+
+	Lợi dụng trung trình đạn tiến hành ngoài tầm mắt không chiến, nhất định là sau này một chủ yếu dạng thức!
+
+	Nhưng là, cho tới bây giờ, Trung Quốc bản thân tạo tân tiến nhất, cũng chính là J-8, cũng chỉ có cự ly gần không chiến năng lực, J-8 đầu phi cơ cùng J-7 vậy, cũng là đầu phi cơ tiến khí, bọn họ đang cải tiến.
+
+	Nếu như, thành bay có thể đạt được Iraq đầu tư, khai phát bước phát triển mới hình J-7 chiến cơ, tuyệt đối là tổ quốc bầu trời một thanh lợi kiếm!
+
+	Đồ Cơ Đạt đã âm thầm hạ quyết tâm, sau khi trở về, nhất định phải tận cố gắng lớn nhất để cho thượng cấp thông qua Qusay các hạ đề nghị này, Iraq bỏ tiền, thành bay ra kỹ thuật, hai người chung nhau nghiên chế.
+
+	Sợ Iraq ném kỹ thuật? Phải biết, Iraq liền f-20 dây chuyền sản xuất cũng mua được, kỹ thuật bên trên, người ta so với mình còn tân tiến hơn nhiều lắm.
+
+	Trung Quốc đi tới Iraq đoàn đại biểu, không có một người nguyện ý buông tha cho cơ hội, bọn họ ngày đêm xen lẫn trong Basra căn cứ không quân trong, nghiêm túc học tập.
+
+	Hơn nữa, bọn họ càng ngày càng cảm giác, Iraq không quân, kỳ thực không giống ngoại giới đã nói yếu như vậy, tác phong quả cảm, kỹ thuật thành thạo, đây rõ ràng đã là một chi tinh nhuệ chi sư, cho dù là đối mặt người Iran hùng mạnh tiêm kích Tomcat, bọn họ vẫn có thể buông tay đánh một trận.
+
+	Nhớ tới ở ba năm trước đây trận kia biên giới trong xung đột, ở lục quân phấn dũng tác chiến thời điểm, không quân ở đâu? Mà ở chỗ này, bọn họ đã cảm nhận được, tương lai trong chiến tranh, không quân tuyệt đối là nhân vật chính!
+
+	"Ta cảm thấy, phi cơ chiến đấu của chúng ta nhất định phải an chứa loại này tinh vi quán tính dẫn đường, bất luận là tự chủ đi tới, hay là đối với oanh tạc, có quán tính dẫn đường trang bị, là vô cùng trọng yếu, đáng tiếc, cái này bên trong đồ vật quá tinh vi, người nơi này lại không để chúng ta mở ra nhìn." Một cái thanh âm nói.
+
+	Đồ Cơ Đạt ngẩng đầu nhìn lại, chính là lần trước ở gặp mặt lúc cái đó nói lên quan sát f-20 tiểu tử ngốc: "Tiếu đảng sinh, ngươi nói gì thế?"
+
+	"Ta nói là. . ." Hắn mới vừa muốn nói chuyện, đột nhiên, bị trên đỉnh đầu tiếng nổ thật to sảo một cái.
+
+	Cái này tiếng nổ. . . Tiếu đảng sinh đột nhiên chợt cảnh giác một cái, không phải động cơ turbin phản lực phát ra ngoài, mà là động cơ cánh quạt!
+
+	Cho đến bây giờ, Iraq không quân vẫn không có trang bị động cơ cánh quạt tiêm kích, trừ phi. . .
+
+	Tiếu đảng sinh buông xuống dụng cụ trong tay, hướng kho chứa máy bay bên ngoài chạy đi.
+
+	"Tiểu tử ngốc này." Đồ Cơ Đạt lắc đầu một cái, cái này tiểu tử ngốc, thật ra là hắn coi trọng nhất một người, ở hệ thống điện tử hàng không bên trong, có rất sâu thành tựu, một chút liền thông.
+
+	Đột nhiên, hắn phát hiện, trong kho chứa phi cơ những người khác, cũng đều rối rít hướng kho chứa máy bay bên ngoài chạy đi, phảng phất có cái gì hoạt động vậy.
+
+	"Đồ lão, Iraq không quân kiểu mới chiến cơ, f-20 đến, chúng ta đi nhìn một chút." Một người nói.
+
+	Đồ Cơ Đạt ngẩng đầu nhìn lên, là Lương lão.
+
+	f-20 đến rồi? Cái này lại là lần đầu tiên thấy kiểu Mỹ máy bay! Đồ Cơ Đạt cũng động lòng, không trách mới vừa rồi tiếu đảng sinh chạy nhanh như vậy.
+
+	Mới ra kho chứa máy bay, liền thấy đường chạy cuối, bộ kia đang hạ xuống máy bay.
+
+	Nhọn đầu phi cơ, cực lớn cánh đuôi, xem ra, giống như là lớn một vòng f-5 tiêm kích.
+
+	Quả nhiên là Iraq f-20.
+
+	Chiến cơ bánh sau mới vừa tiếp xúc được mặt đất, chậm lại dù liền buông ra, những thứ này, bọn họ đều đã thấy thói quen, Iraq tiêm kích, cất cánh cùng hoạt chạy khoảng cách cũng phi thường ngắn, bọn họ cũng từ trong nhìn thấu một ít môn đạo.
+
+	Mà lúc này, đường chạy hai bên, đã nhiều hai hàng binh lính canh gác, bọn họ đám này từ Trung Quốc tới người, chỉ có thể ở xa xa quan sát.
+
+	Bất quá, cái này cũng không ảnh hưởng nhiệt tình của mọi người, bọn họ dùng sức hoan hô, phảng phất là bản thân vậy.
+
+	Trương Phong đứng ở đường chạy cuối, không nghĩ tới, chiến cơ nhanh như vậy trở lại, đơn giản giống như giống như nằm mơ, sau này, rốt cuộc không cần lo lắng bên mình tiên tiến tiêm kích không đủ.
+
+	Tổng cộng bốn chiếc, đây là bốn chiếc Northrop công ty tốc độ thấp dự sản xuất hình, cái gọi là tốc độ thấp dự sản xuất hình, đó chính là, có thể còn sẽ có số ít thiếu sót tồn tại, cho nên, trước dự sản xuất, đợi đến phi hành đoạn thời gian, không có vấn đề sau, lại đi vào chính thức sản xuất.
+
+	Hơn nữa, lúc này General Dynamics công ty chẳng qua là đem radar bước đầu chức năng thực hiện, chủ yếu đối không chức năng trong, liền theo dõi bên quét xem phương thức cũng có thiếu sót, mà tấn công mặt đất năng lực còn tạm thời không có.
+
+	Nói cách khác, cái này bốn chiếc tiêm kích, trước mắt chỉ có có hạn đối không năng lực.
+
+	Nhưng là, hết thảy đều là tạm thời, đợi đến sau một lứa máy bay đến sau, liền có thể đem cái này bốn chiếc máy bay tiến hành thăng cấp.
+
+	Phân lượt sản xuất, cũng là quốc tế quân cơ sản xuất lệ thường.
+
+	Chiến đấu cơ hành trình không đủ, cho nên, cũng không phải là trực tiếp từ nước Mỹ bay tới, mà là chứa ở c-130 phi cơ chuyển vận trong chuyển vận tới được. Lại bởi vì lúc này Iraq còn ở vào cùng Iran trong chiến tranh, vì để tránh cho bị tổn thương, trước vô ích chuyển đến Riyadh, lại lắp ráp lên cánh máy bay, chuyển bay đến Basra quân khu.
+
+	Mà ngẫu nhiên phối kiện cùng với Iraq phái ra học tập giữ gìn nhân viên, cùng với Northrop công ty phái tới kỹ thuật hiệp trợ nhân viên, đều ở đây Riyadh đổi đón xe chiếc, một ngày sau đó đạt tới.
+
+	Trước hai chiếc máy bay hạ xuống về sau, chậm rãi trượt xuống bãi đậu máy bay, nắp buồng lái mở ra, cũng không phải là Iraq bản thân phi công, mà là hai tên người ngoại quốc.
+
+	Darnell đứng đang khoang hành khách bên trên, lấy nón an toàn xuống, muốn hướng đám người phía dưới kêu ra lời của mình: "hello, myf nhậtends!"
+
+	Còn chưa mở lời, hắn liền nghe đến, trên đỉnh đầu lần nữa truyền đến tiếng nổ thật to.
+
+	Một cỗ khí lãng tới, phá hủy hắn kia tóc màu vàng kim kiểu tóc.
+
+	"**you! mra!" Darnell tức miệng mắng to, kết quả, phía dưới máy chụp hình, chiếu đến hắn cái biểu tình này.
+
+	Nhóm thứ hai hai chiếc f-20, cũng bắt đầu hạ xuống.

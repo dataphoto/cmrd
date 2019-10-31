@@ -1,0 +1,117 @@
+ 251 chương phong phú sản phẩm bố cục, tinh canh chia nhỏ thị trường
+
+	"Ta thật sự là tìm không thấy một cái yếu * bế convex set là gần bách tập, từ đó đạt được Hors Dave topol, ta tin tưởng trên thế giới không có bất kỳ cái gì một vị nhà toán học có thể từ nơi này đường tắt chứng minh x* mỗi cái w* bế convex set là tới gần gấp Chebyshev tập." Thẩm Kỳ cũng không phải là quá uể oải, ngược lại hào hứng dạt dào: "Ngay từ đầu ta cũng không có ý thức được đây là con đường chết, bởi vì ta không có đi đến chết hẻm cuối cùng."
+
+	"Vậy ngươi nhưng có tốt phương án giải quyết?" Muller hỏi.
+
+	Thẩm Kỳ đã có đáp án: "Ta phương án giải quyết là, phán đoán suy luận (3) đơn độc thành lập mới đầu đề, ta tạm thời đưa nó mệnh danh là 'Muller - Thẩm gần bách định lý', cái này định lý còn chờ tiến một bước nghiệm chứng, nó có thể coi như 'Muller - Thẩm định lý' một cái suy luận."
+
+	"Như vậy mới 'Muller - Thẩm định lý' bao hàm (1), (2) hai đầu phán đoán suy luận, cái này đã đầy đủ, chúng ta sẽ tại trong vòng vài ngày hoàn thành chỉnh sửa công việc, cũng công khai tuyên bố 'Muller - Thẩm định lý' thành quả nghiên cứu." Thẩm Kỳ cấp ra phương án giải quyết.
+
+	"Trên thực tế. . . Chúng ta tương đương với đẩy ra một cái 'Giảm phối bản' 'Muller - Thẩm định lý' ." Muller giáo sư rất nhanh minh bạch Thẩm Kỳ phương án mới.
+
+	Thẩm Kỳ gật gật đầu: "Muller giáo sư cái thí dụ này rất thỏa đáng, đúng, giảm phối bản. Trên thực tế cái gọi là giảm phối bản là tiêu chuẩn bản, bởi vì phán đoán suy luận (3) có thể nhìn thành một cái sản phẩm mới."
+
+	"Kỳ thật chính là hai khoản chiều dài không giống nhưng bên ngoài tạo hình đại khái đồng dạng thân xe, mang theo cùng một sáo động lực chu toàn hệ thống, sau đó phân biệt bán ra, tốt a, đại chúng thường xuyên làm như vậy." Muller giáo sư quả nhiên là Đức quốc người, một câu nói trúng.
+
+	"Ha ha!" Thẩm Kỳ cười to, nói đến: "Cho nên ta mua Chevrolet."
+
+	Muller cùng Thẩm Kỳ hợp lại mà tính, cứ làm như vậy, trước đẩy ra thấp phối bản "Muller - Thẩm định lý", thỏa mãn trên thị trường nhu cầu cơ bản, vượt lên trước chiếm lĩnh cái này chia nhỏ thị trường.
+
+	Cao phối bản "Muller - Thẩm định lý" sẽ tại sau đó không lâu đẩy ra, đến lúc đó cho nó lấy cái tên mới, "Muller - Thẩm gần bách định lý" là cái lựa chọn tốt, từ đó tiến một bước phong phú chuỗi sản xuất, củng cố "Muller - Thẩm" tại cái này chia nhỏ thị trường chiếm hữu suất cùng nhãn hiệu hiệu ứng.
+
+	"Muller - Thẩm định lý" chỉnh sửa công việc rất nhanh hoàn thành.
+
+	". . . Chứng tất, chúng ta đạt được như sau định lý:
+
+	Lệnh x là Banach không gian, thì hạ tố phán đoán suy luận đồng giá là:
+
+	(1) nếu như x*∈ s(x*) tại s(x) bên trên đạt tới nó phạm số, thì x* là đơn vị cầu b(x*) w* có thể lõm điểm;
+
+	(2)x là cường quang trượt không gian."
+
+	Kiểm tra lần cuối một lần luận văn, Muller giáo sư tự thân lên truyền luận văn đến arvix bên trên dự ghi chép.
+
+	Luận văn chính thức đưa nhiệm vụ giao cho Thẩm Kỳ.
+
+	Luận văn tên là  « Banach không gian có thể lõm điểm cùng cường quang trượt không gian vấn đề », Muller cùng Thẩm Kỳ đều là đệ nhất tác giả.
+
+	Luận văn độ dài vì 24 trang, trong đó đã bao hàm "Muller - Thẩm định lý" hoàn toàn chứng minh.
+
+	Đương nhiên, "Muller - Thẩm định lý" là Muller cùng Thẩm Kỳ đơn phương tuyên bố thành lập, đến nỗi cuối cùng có thể hay không ghi vào imu toán học định lý bách khoa toàn thư, cần imu định đoạt.
+
+	Thẩm Kỳ cho rằng bản này luận văn chất lượng phi thường cao, thuộc về tứ đại tập san cấp bậc luận văn, thế là hắn ném  « Annals of Mathematics ».
+
+	Cùng lúc đó, "Muller - Thẩm gần bách định lý" chứng minh công việc cũng tại đồng bộ khai triển, công việc này chủ yếu do Thẩm Kỳ hoàn thành, bởi vì là Thẩm Kỳ nói ra.
+
+	Đảo mắt lại là một tuần lễ ba.
+
+	Buổi sáng hôm nay, Faltings theo thói quen xem arvix, phát hiện một phần tên là  « Banach không gian có thể lõm điểm cùng cường quang trượt không gian vấn đề » luận văn, luận văn tác giả là đồng nghiệp của hắn, cùng đại học Princeton ngành toán học một vị tiến sĩ nghiên cứu sinh.
+
+	"A, dạng này chứng minh. . .'Muller - Thẩm định lý', vận dụng đến tới gần gấp bế lồi tử tập, cùng Banach không gian rnp tính chất cùng ưởng lý luận. Xem ra lão Alan năm nay cuối cùng có thể phát một phần luận văn." Faltings toàn văn nhìn lượt bản này luận văn, cảm thấy không có vấn đề gì.
+
+	Gerd Faltings là Đức quốc người, hắn thành danh rất sớm, năm 1983 chứng minh chấn động một thời Model phỏng đoán, khi đó Faltings mới 29 tuổi.
+
+	Năm 1986 thu hoạch được Fields thưởng lúc, Faltings cũng mới 32 tuổi, hắn phu nhân cũng là một vị nhà toán học, lão sư của hắn là thế kỷ 20 toán học giới bố già cấp nhân vật -- Grothendieck.
+
+	Danh sư đệ tử, cưới một vị nhà toán học phu nhân, Faltings đời này người chung quanh toàn cùng toán học tương quan.
+
+	Làm đương kim toán học giới đỉnh cấp đại sư, Faltings là nhất quyền uy toán học tập san  « Annals of Mathematics » chủ biên.
+
+	Buổi chiều, ngành toán học cao ốc lầu ba quán cà phê, thông lệ cà phê thời gian.
+
+	Faltings bưng chén cà phê, đi đến Muller cùng Thẩm Kỳ bàn nhỏ bên cạnh, ngồi xuống.
+
+	"a SS? @@, *helu@* ful? ." Faltings nói với Muller câu tiếng Đức, nhìn biểu tình tựa hồ đang nhạo báng.
+
+	"daf@@a EU, @@? l!" Muller không cao hứng đỗi Faltings một câu.
+
+	Thẩm Kỳ mộng bức: "Hai vị giáo sư có thể nói tiếng Anh sao?"
+
+	"Lão Alan, ngươi cuối cùng phát luận văn." Faltings nói đến.
+
+	"Ngươi so ta còn lão một tuổi, lão Greider!" Muller lặp lại một lần vừa rồi biểu lộ.
+
+	Cái này hai Đức quốc lão đầu thật đáng yêu. . . Thẩm Kỳ vụng trộm vui, nghiên cứu học vấn người làm được sáu bảy mươi tuổi lão đầu giai đoạn, có đôi khi cùng sáu bảy tuổi tiểu hài đồng dạng tinh nghịch.
+
+	"Alan, ngươi năm nay một năm tròn giống như đều không có phát qua một phần luận văn, hoặc là đi ra bất luận cái gì một bản học thuật chuyên." Faltings nói đến.
+
+	Princeton có 1200 danh giáo thụ hoặc kiêm chức giáo sư, hàng năm phát biểu hoặc xuất bản luận văn, học thuật chuyên lấy số lượng vì hơn 2300 bài (sách), người đồng đều tiếp cận hai bài (sách).
+
+	Hiện tại đã là tháng 10, Muller một phần luận văn đều không có phát biểu, một bản chuyên lấy đều không có đi ra.
+
+	Tại Princeton, luận văn hoặc học thuật chuyên lấy số lượng, chất lượng mặc dù không cùng phòng ở, chức danh móc nối, nhưng nơi này dù sao cũng là học thuật chí thượng chi địa, luận văn hoặc học thuật chuyên lấy tại đa số giáo sư trong lòng chiếm cứ địa vị trọng yếu.
+
+	"Chờ một chút, Greider, ngươi mới vừa nói ta cuối cùng phát luận văn, có nhanh như vậy sao?" Muller hỏi.
+
+	"Hẳn là dự ghi chép, Alan, chẳng lẽ không phải ngươi thượng truyền  « Banach không gian có thể lõm điểm cùng cường quang trượt không gian vấn đề » bản này luận văn đến arvix bên trên?" Faltings cũng kỳ quái, lập tức bừng tỉnh đại ngộ nhìn xem Thẩm Kỳ: "Là ngươi sao, Thẩm Kỳ?"
+
+	Thẩm Kỳ nói đến: "Dự ghi chép là Muller giáo sư thao tác, chính thức đưa luận văn là ta thao tác."
+
+	Faltings giáo sư phát tới điện mừng: "Vậy ta hẳn là chúc mừng các ngươi, Alan, Thẩm Kỳ. Trong mắt của ta, 'Muller - Thẩm định lý' chứng minh không có bất cứ vấn đề gì, ta tin tưởng tại tương lai không lâu, lấy hai ngươi dòng họ mệnh danh đầu này định lý, sẽ bị rộng khắp trích dẫn tại Bach cầm không gian tương quan đầu đề trong nghiên cứu."
+
+	"Greider, xem ra ngươi cũng không có chán ghét như vậy." Muller nói đến.
+
+	"Faltings giáo sư nói không có vấn đề, cái kia hẳn là không thành vấn đề." Thẩm Kỳ cảm thấy vấn đề không lớn, imu mời giám khảo chuyên gia không có khả năng so Faltings giáo sư càng chuyên nghiệp, nhiều lắm thì ngang hàng.
+
+	"Ném đi nhà ai tập san rồi?" Faltings hỏi.
+
+	Thẩm Kỳ cười cười: " « Annals of Mathematics »."
+
+	"Thật sao?" Faltings có chút ngoài ý muốn.
+
+	Faltings là nhà này tập san chủ biên, bản thảo hẳn là còn ở đi theo quy trình, không tới hắn cuối cùng phê chuẩn trúng tuyển chương trình.
+
+	"Kia đến theo quy củ tiến hành chính thức giám khảo, ta cần trở về lại nghiên cứu một chút bản này luận văn." Faltings nghiêm túc nói đến.
+
+	"Lão Greider, ngươi không phải mới vừa nói không có vấn đề sao?" Muller giáo sư lại không cao hứng.
+
+	"Ta nói không tính, thẩm bản thảo người nói mới tính, ta cũng không phải thẩm bản thảo người." Faltings bưng chén cà phê đi.
+
+	 « Annals of Mathematics » là Princeton ngành toán học, cùng Princeton cao đẳng sở nghiên cứu liên hợp chủ sự toán học tập san, vì tứ đại tập san đứng đầu.
+
+	Princeton cao đẳng sở nghiên cứu thành lập mới bắt đầu, nghiên cứu cao ốc ngay tại tu kiến, Einstein, von Neumann chờ đám đầu tiên nghiên cứu viên không có chỗ ngồi nghiên cứu học vấn, liền tại Princeton ngành toán học cao ốc tá túc mấy năm.
+
+	Đại học Princeton ngành toán học, hệ vật lý, cùng Princeton cao đẳng sở nghiên cứu ở giữa quan hệ chỗ không tệ, hai nhà nhân viên nghiên cứu khoa học thường xuyên đi lại, Faltings trước đó cũng tại Princeton cao đẳng sở nghiên cứu toán học bộ dạo qua mấy năm.
+
+	 « Annals of Mathematics » ban biên tập thiết lập tại đại học Princeton ngành toán học cao ốc, ngay tại Thẩm Kỳ uống cà phê tầng này trên lầu. 

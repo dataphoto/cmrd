@@ -1,0 +1,125 @@
+ Chương 41: 3 loại phương pháp
+
+	Thẩm Kỳ tiếp nhận Lưu cán sự đưa tới giấy trắng: "Cũng tốt, mới đến ta, trước làm đạo đề ép một chút."
+
+	"Cho ngươi 1 giờ thời gian, ta ra ngoài ăn một bữa cơm." Lưu cán sự đứng lên, nhìn đồng hồ đeo tay một cái, hơn năm giờ, không sai biệt lắm có thể ăn cơm tối.
+
+	"Ta cũng tốt đói." Nhấc lên ăn cơm, Thẩm Kỳ xác thực đói bụng.
+
+	"Tại trong vòng thời gian quy định làm xong đạo này đề, đồng thời đáp án chính xác, ngươi mới được cho phép ăn cơm chiều." Lưu cán sự mặt không thay đổi nói đến, lại bổ sung một câu: "Đây là olympic toán học đội tuyển quốc gia điều quy định thứ nhất."
+
+	"Lưu cán sự, ngươi dạng này đối đãi trẻ vị thành niên, tại pháp luật bên trên đúng không được cho phép!" Thẩm Kỳ mãnh liệt kháng nghị, không làm được đề mục không cho phép ăn cơm, thật là tàn nhẫn, chúng ta đây chính là chủ nghĩa xã hội pháp chế quốc gia a! Cái này kinh cũng quá kinh ngạc, ép không được.
+
+	"Thẩm Kỳ, ngươi là toán học thi đua huy chương vàng tuyển thủ, là cả nước quán quân, không phải phổ thông trẻ vị thành niên." Lưu cán sự một chút đều không mềm lòng, hắn chỉ chỉ căn này hơn hai mươi mét vuông văn phòng các ngõ ngách: "Giải đề quá trình bên trong, ngươi có thể tìm đọc trong phòng này bất luận cái gì một bản toán học văn hiến, có không ít không phải là đồ bán, Trung Quốc hội toán học thông qua đặc thù con đường làm tới. Ngươi hẳn là cảm thấy may mắn, bởi vì ngươi ngao du tại tri thức trong hải dương."
+
+	"Ta một nơi khác học sinh cấp ba đi vào các ngươi vĩ đại thủ đô, vô thân vô cố không có bằng hữu, ta có thể làm sao? Lưu cán sự ngươi nói cái gì chính là cái gì đi, ngươi là đại lão, ta chỉ có thể khuất phục." Thẩm Kỳ cũng không có cách nào, hắn là yếu thế quần thể.
+
+	Lưu cán sự cái này liền rời đi, lưu lại một đạo lãnh khốc bóng lưng.
+
+	Thẩm Kỳ kéo ghế ngồi xuống, cầm trong tay giấy trắng trải tại mặt bàn, tinh tế thẩm duyệt trên giấy đề mục.
+
+	Đầu tiên đập vào mi mắt là một cái đơn giản đồ án, một đường thẳng xuyên qua một cái hình bầu dục, giống như là một cái đè ép chữ "日".
+
+	Tại chữ "日" 12 điểm, 3 điểm, 9 điểm ba cái phương vị, phân biệt đánh dấu y(x), x2, x1.
+
+	Lại xuống mới là văn tự tự thuật:
+
+	"Căn cứ bên trên đồ, bị tích hàm số bên trong xuất hiện không biết hàm số, làm tích phân đạt tới cực lớn hoặc cực nhỏ, cụ thể hoá miêu tả là trục hướng lấy hằng số vận động mà làm vận động lực cản nhỏ nhất xoay tròn mặt cong phải có đủ hình dạng, như vậy nó toán học miêu tả là?"
+
+	Đề mặt cũng không phức tạp, đồ hình người người nhận biết, chữ Hán người người nhận ra, nhưng có thể bảo thủ dự tính, toàn Trung Quốc 99% ở trên học sinh cấp ba cũng không rõ ràng, cái này đề đến cùng là muốn lão tử làm gì?
+
+	"Ha ha, a a a a." Thẩm Kỳ cười, cùng cái kẻ ngu đồng dạng.
+
+	Hắn cười ngây ngô là bởi vì, có thể ăn cơm tối.
+
+	Cái này đề không khó, đối Thẩm Kỳ tới nói, một câu tường thuật tóm lược chính là: Dùng toán học ngôn ngữ đi miêu tả đơn giản vật lý vận động.
+
+	Cái này cần bài thi người có sâu hơn dày toán học tri thức dự trữ, mà vật lý tri thức dự trữ đến bao hàm Newton ba định luật ở bên trong cao trung môn bắt buộc bản phạm trù liền đủ.
+
+	Thẩm Kỳ nâng bút đáp, tại trương này A4 trên tờ giấy trắng viết ra hắn toán học miêu tả.
+
+	Cái này đề nói đơn giản điểm chính là, Lưu cán sự hướng trên mặt hồ tiện tay vứt ra một trái bóng da, bóng da ở trên mặt hồ nhảy vọt, cuối cùng phiêu phù ở trên mặt hồ, mời dùng toán học ngôn ngữ giải thích cái này thường gặp hiện tượng.
+
+	Thẩm Kỳ vận dụng là Euler nhất nhanh hàng tuyến lý luận, tức dùng có hạn cùng thay thế tích phân, dùng tỷ sai phân thay thế bị tích hàm số bên trong đạo số.
+
+	Cái này cũng không sâu áo lý luận ứng dụng cực kỳ rộng khắp, tác dụng của nó là đem tích phân hoàn thành từ y(x) có hạn cái tọa độ tạo thành một cái hàm số.
+
+	Thẩm Kỳ tại trên tờ giấy trắng vẽ ra một đầu đường vòng cung, phi thường ngắn gọn thủ pháp.
+
+	Cái này thao tác không khó, hết thảy tuyến thay mặt thi đến tám chín mươi phân sinh viên kỹ thuật đều có thể hoàn thành.
+
+	Thẩm Kỳ thao tác vẫn còn tiếp tục, thông qua lệnh tích phân trở nên kém bằng không, cùng sử dụng một cái thô ráp cực hạn quá trình đến biến hóa lấy được kém phân phương trình, hắn liền được cực nhỏ hóa cung nhất định thỏa mãn điều kiện.
+
+	Thẩm Kỳ giải đáp viết đầy A4 giấy trắng một mặt, giải quyết.
+
+	Nhìn xem thời gian mới trôi qua 15 phút đồng hồ, Lưu cán sự chưa trở về, Thẩm Kỳ nhàn rỗi cũng là nhàn rỗi, liền đem A4 giấy trắng trở mặt, tiếp tục viết.
+
+	Lần này Thẩm Kỳ thao tác muốn hơi phức tạp một chút, làm tích phân cực lớn hoặc cực nhỏ hóa, cũng không khẳng định nhất định phải làm tỷ sai phân.
+
+	Euler phương pháp chẳng qua là cấp độ nhập môn, Lagrange thủ đoạn thuộc về tiến giai.
+
+	Thẩm Kỳ tại trên tờ giấy trắng tô lại ra một vòng trăng non, suy luận xuất cụ có biến động điểm cuối cực nhỏ hóa đường cong nhất định phải thỏa mãn điểm cuối điều kiện, quá trình này so sánh khúc chiết.
+
+	Tốn thời gian 20 phút đồng hồ, Thẩm Kỳ cấp ra loại thứ hai toán học giải thích.
+
+	Nhìn xem còn có thời gian, Thẩm Kỳ tiện tay cầm trương mới giấy trắng, bắt đầu suy luận loại thứ ba toán học giải thích.
+
+	Sáu điểm hai mươi điểm, Thẩm Kỳ thật sự là đói không được, hắn đem bút để lên bàn, kéo ra ba lô của mình khóa kéo tìm ăn: "Lưu cán sự làm sao còn không trở về, ăn đùi gà trước."
+
+	Xé mở bịt kín đóng gói, Thẩm Kỳ ăn đùi gà, hắn vừa ăn vừa trong phòng làm việc tản bộ.
+
+	"Nơi này đúng là tri thức hải dương, thật nhiều sách a, có chút văn hiến bên ngoài căn bản không gặp được."
+
+	" «Opera-Omnia », L. Euler. . . Đây là cái quỷ gì, toàn tiếng Anh sách. . . A , chờ một chút, tác giả ta giống như nhận biết, Euler, đây là Euler sách. . . Mẹ toàn tiếng Anh xem không hiểu, đổi một bản."
+
+	"Muội chặt ngươi khát. . . Anna đến đệ khát. . . Ngọa tào, cái này bản càng xâu, tiếng Pháp sách! Tác giả là. . . Lagrange. Mẹ toàn tiếng Pháp xem không hiểu, đổi một bản."
+
+	"Choáng. . . Còn mẹ nó có nga văn bản văn hiến. . . Lưu cán sự là ngoại ngữ chuyên gia? Trong phòng này liền không có mấy quyển tiếng Trung toán học văn hiến."
+
+	Thẩm Kỳ sợ ngây người, Lưu cán sự văn phòng là toán học tri thức hải dương, nhưng hắn có thể xem hiểu sách không có mấy quyển, Lưu cán sự vật sưu tập cơ hồ tất cả đều là ngoại văn bản tham khảo văn hiến.
+
+	Thẩm Kỳ đối Euler cùng Lagrange toán học trứ tác in lại bản cảm thấy rất hứng thú, loại này trân quý toán học văn hiến ở bên ngoài tiệm sách hoặc là đào bảo bên trên căn bản mua không được, trừ phi biển đãi.
+
+	Nhưng mà lại cảm thấy hứng thú, xem không hiểu ngoại ngữ cũng không có trứng dùng.
+
+	"Ta có phải hay không cái này thăng cấp một chút tiếng Anh rồi?" Thẩm Kỳ đứng sừng sững ở một mặt sách tường trước, gặm kho đùi gà, rơi vào trầm tư.
+
+	Lúc này, Lưu cán sự trở về, hắn gặp Thẩm Kỳ không có vùi đầu làm bài mà là tại gặm đùi gà, bất mãn vô cùng: "Thẩm Kỳ! Ai cho phép ngươi ăn đùi gà? Ngày đầu tiên đến đội tuyển quốc gia đưa tin liền trái với đội quy, ngươi tổ chức tính kỷ luật quá kém!"
+
+	"Ta đói, ta tại lớn thân thể a Lưu cán sự!" Thẩm Kỳ hô to vô tội.
+
+	Lưu cán sự nói năng có khí phách: "Đói khát không phải lý do, xuẩn chết xa so với chết đói thật đáng buồn! Đùi gà ném đi, làm xong đề mục mới ước ăn cái gì!"
+
+	"Bạo Quân!" Thẩm Kỳ hô lên, hắn lưu luyến không rời đem nửa con gà chân ném trong thùng rác, nhỏ giọng thầm thì: "Bạo Quân, hắc ám Bạo Quân. . ."
+
+	"A, không đúng! Ta rõ ràng làm xong Lưu cán sự ra đề mục, dựa vào cái gì ném đi đùi gà!" Thẩm Kỳ bỗng nhiên tỉnh ngộ.
+
+	"Ngươi làm xong không nói sớm?" Lưu cán sự đi đến trước bàn làm việc, cúi đầu xem kỹ viết có đề mục giấy trắng.
+
+	"Ta đói choáng, đã mất đi lý trí, không nên cấp 5 liền đi xoát hắc ám Bạo Quân." Thẩm Kỳ ngồi xổm trên mặt đất phụng phịu, đây là cha ta mua cho ta đùi gà, tràn đầy đều là tình thương của cha, dựa vào,  đau lòng cha ta.
+
+	"Cái gì hắc ám Bạo Quân loạn thất bát tao?" Lưu cán sự nhíu nhíu mày, tiếp tục thẩm duyệt Thẩm Kỳ giải đáp: "Euler nhị giai thường vi phân phương trình, tính ngươi đáp đúng, 1 giờ bên trong cho ra đáp án này, trung quy trung củ."
+
+	"Hừ. . ." Thẩm Kỳ cúi đầu rầu rĩ không vui hừ hừ.
+
+	"Làm sao mặt trái còn có chữ?" Lưu cán sự đem giấy trắng trở mặt, trong chốc lát cảm thấy ngạc nhiên: "Lagrange nguyên hàm công thức, Thẩm Kỳ. . . Ngươi. . . Ngươi dùng hai loại phương pháp, giải đáp ta ra cái này đề. . . Tại trong vòng một giờ?"
+
+	Lưu cán sự tay trái ôm ngực, trên trán có mồ hôi thấm ra.
+
+	"Hừ. . . Bên cạnh còn có trang giấy." Thẩm Kỳ ngồi xổm trên mặt đất, cúi đầu, dùng ngón tay trên mặt đất trống rỗng viết chữ, viết là cái "Thảm" chữ.
+
+	"Ngươi. . . Thẩm Kỳ. . . Thế mà lại sử dụng Bernoulli chuỗi phân kỳ. . . Ngươi dùng ba loại phương pháp giải đáp ta ra cái này đề, tại. . . Tại trong vòng một giờ?" Lưu cán sự há mồm thở dốc, nói chuyện đều không lưu loát.
+
+	"Ai có thể so ta thảm, chỉ cho phép làm bài, không được ăn cơm." Thẩm Kỳ lải nhải nói một mình.
+
+	Đông!
+
+	Một tiếng vang trầm.
+
+	Lưu cán sự ầm vang ngã xuống đất.
+
+	"Ngọa tào?" Thẩm Kỳ đột nhiên ngẩng đầu, phát hiện Lưu cán sự nằm trên mặt đất kịch liệt co rúm.
+
+	"Lưu cán sự, ngươi thế nào? Ngươi có thể ngàn vạn không thể chết a!" Thẩm Kỳ vọt tới Lưu cán sự bên người, sợ ngây người.
+
+	Lưu cán sự tay run rẩy chỉ hướng văn phòng một góc rơi: "Nhanh. . . Nhanh đi cầm. . . Hiệu quả nhanh. . . Cứu tâm hoàn. . . Trong túi công văn. . ." 

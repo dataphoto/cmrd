@@ -1,0 +1,107 @@
+ Chương 56: Cá có cá đường tôm có tôm đường
+
+	Cái này một tuần lễ ta chuyện gì đều không có làm, ngoại trừ toán học. Cao trung toán học.
+
+	Biên soạn "Cao trung toán học giải đề kỹ xảo chỉ nam đề cương" độ khó, so ta tưởng tượng bên trong cao hơn rất nhiều.
+
+	Chỗ khó ở chỗ, ta như thế nào dùng bọn hắn có thể hiểu được ngôn ngữ đề cao bọn hắn toán học thành tích. Có lẽ đây là số học lão sư cùng phụ tài biên soạn các chuyên gia am hiểu lĩnh vực, mà không phải ta.
+
+	Ta nghiên cứu mười năm gần đây thi đại học bài thi số học, mười năm trước đó tham khảo ý nghĩa không lớn.
+
+	Cái này mười phần thi đại học bài thi số học, ta toàn bộ tại trong vòng 30 phút cầm tới max điểm, nhưng ta là kẻ thất bại, bởi vì ta vận dụng đại lượng cao trung trường học đại cương bên ngoài toán học tri thức cùng kỹ xảo.
+
+	Ta nếm thử vận dụng giải tích hàm cùng chuỗi phân kỳ phân tích cái này mười phần thi đại học bài thi, cái này hao phí ta 13.5 giờ thời gian, không ăn không uống, ở giữa liền lên qua một lần nhà vệ sinh, kém chút té xỉu ở trên bồn cầu.
+
+	Ta giả thiết thi đại học bài thi là một loại đặc thù "Hàm số", bọn chúng tuân theo một loại nào đó ta "Phán đoán" ra quy luật, ta thành lập tất cả của bọn nó thể tạo thành liên thông bế khu vực, cùng sử dụng chuỗi phân kỳ bên trong chấn động đẳng cấp đi tới gần "Thi đại học bài thi hàm số" .
+
+	Kết quả khiến ta kinh nha, cũng cực kỳ hiếu kỳ, ta đề luyện ra một loại "Thông pháp" . . . Kỳ thật nên tính là bán thành phẩm.
+
+	"Thông pháp" chỉ là một cái Logic dàn khung, ta cần dùng tập hợp, hàm số lượng giác, hình học không gian, mặt phẳng hình học giải tích, phép tính sơ bộ, dãy số chờ cơ sở nhất cao trung toán học tri thức đi đầy đặn huyết nhục của nó.
+
+	Phần này tinh điêu tế trác công việc có lẽ đem tiếp tục mấy tháng thậm chí một năm trở lên.
+
+	Cũng may chọn môn học 2-3 bên trong Euler công thức cùng mặt cong kín (Closed surface), nhóm đối xứng, cùng chọn môn học 4-1 bên trong ma trận cùng biến hóa giúp ta đại ân.
+
+	Ta tranh thủ tại năm nay bên trong hoàn thành sơ thảo.
+
+	Cho nên làm người phải khiêm tốn, không muốn thổi ngưu bức, ta không cách nào tại trong một tuần lễ làm tròn lời hứa, cỡ nào đau lĩnh ngộ.
+
+	Điều này cũng làm cho ta khắc sâu hơn cảm nhận được toán học bác đại tinh thâm, cho dù là tiểu học số học lão sư, cũng đáng được chúng ta tôn kính cả một đời.
+
+	Mà toán học bản thân, đáng giá chúng ta kính sợ cả đời.
+
+	Đúng, do ta viết luận văn  « hệ số không đổi của lệnh thứ hai phương trình tuyến tính không thuần nhất một chút giải pháp » đã đưa đến  « Mathematical Innovation News » ban biên tập.
+
+	Nguyên bản ta là muốn đi  « Acta Mathematica Sinica » dạng này quốc gia hạch tâm tập san gửi bản thảo, nhưng ở Trương lão sư theo đề nghị, ta lựa chọn  « Mathematical Innovation News » làm tân thủ thí luyện thôn.
+
+	Hôm nay liền viết đến nơi đây đi, lão mụ gọi ta ăn cơm.
+
+	Năm 20XX ngày 15 tháng 10.
+
+	. . .
+
+	Thẩm Kỳ viết xong mới nhất một phần học bá nhật ký, đi ăn cơm.
+
+	Ngày kế tiếp, Thẩm Kỳ đi vào lớp mười hai (2) ban phòng học, hắn phi thường xin lỗi nói cho các bạn học: "Ta đáp ứng các ngươi giải đề chỉ nam, trong biên chế viết quá trình bên trong gặp một chút tính kỹ thuật nan đề, ta cần một chút thời gian, mời các bạn học kiên nhẫn chờ đợi."
+
+	Cổ Tiểu Đan hỏi: "Đại lão, vậy cần bao lâu thời gian, tháng này bên trong có thể làm được sao?"
+
+	Thẩm Kỳ lắc đầu: "Không thể, sớm nhất cũng muốn đến tháng 12."
+
+	Cổ Tiểu Đan hỏng mất: "Không! Tháng 12 a, lớp mười hai bên trên đều nhanh đọc xong!"
+
+	Trần Hiểu Đình có chút thất vọng, nhưng cũng có thể lý giải: "Thẩm Kỳ hảo tâm giúp chúng ta, nhưng đây không phải hắn nhất định phải thực hiện nghĩa vụ. Cổ Tiểu Đan ngươi cho rằng viết một bản toán học chỉ nam dễ dàng như vậy? Thẩm Kỳ giống như chúng ta đều là học sinh lớp mười hai, cũng không phải chuyên môn làm cái này biên soạn chuyên gia."
+
+	Thẩm Kỳ nhìn Trần Hiểu Đình một chút, vẫn là ta ngồi cùng bàn lý giải ta, Cổ Tiểu Đan người này lòng ham muốn công danh lợi lộc quá mạnh.
+
+	"Không! Thẩm Kỳ đại lão hắn cùng chúng ta không giống! Ta không cầu toán học thi max điểm, chỉ cầu thi cái 120 ở trên là đủ rồi a!" Cổ Tiểu Đan đấm ngực dậm chân.
+
+	"Cổ Tiểu Đan ngươi gọi cái trứng, lại để một tiếng có tin ta hay không đem ngươi đánh thành thiểu năng?" Hàng sau Từ Duệ nổi giận gầm lên một tiếng, lột xắn tay áo muốn gây sự tình.
+
+	"Đánh, Từ Duệ ngươi đánh đi, dù sao ta cách thiểu năng không xa, toán học 120 đều thi không đến, ngươi đánh chết ta phải." Cổ Tiểu Đan một bộ sinh không thể luyến dáng vẻ.
+
+	Từ Duệ đằng đằng sát khí đi đến Cổ Tiểu Đan trước mặt: "Xoa,
+
+	Lão tử toán học lần trước thi 37 phân, ta nói cái gì sao, ta có oán trời trách đất sao? Chiếu ngươi nói như vậy, ta cũng là thiểu năng, ta cũng phải chết đi?"
+
+	"Từ Duệ ngươi có thể dục năng khiếu, cùng chúng ta không giống a! Mà ta, không có cái gì, thành tích bình thường, dài lại không đẹp trai, thân cao một sáu năm, đồ chơi kia lại không ngươi lớn, ta. . . Ta mẹ nó chính là cái phế vật a. . ." Cổ Tiểu Đan buồn bực nói đến.
+
+	Lớp học có chút nữ sinh hắc hắc bật cười, tỉ như Nhan Bối Bối. Mặt khác một ít nữ sinh thì lúng túng làm bộ cái gì đều không nghe thấy, tỉ như Trần Hiểu Đình.
+
+	"Không, Cổ Tiểu Đan, chí ít ngươi có tự mình hiểu lấy." Từ Duệ lập tức không khí, hắn thích nhất người khác khen hắn chim lớn, đặc biệt là tại nữ hài tử trước mặt.
+
+	Từ Duệ chẳng những khí tiêu tan, còn ra mưu đồ sách: "Cổ Tiểu Đan, đề toán cái gì ngươi đừng hỏi Thẩm Kỳ, ngươi giải pháp ngươi nghe không hiểu, liền ngay cả ta. . . Đương nhiên, ta càng thêm nghe không hiểu. Ngươi đi hỏi Trương lão sư, hắn là chúng ta số học lão sư, có trách nhiệm trợ giúp chúng ta đề cao toán học thành tích."
+
+	"Thôi đi, mỗi lần hỏi Trương lão sư, hắn liền một câu, đơn giản như vậy đề mục cũng sẽ không? Ngươi đến cùng có hay không chăm chú nghe ta giảng bài? Lăn, lăn ra ngoài, đem năm ba xoát một lần lại tới tìm ta!" Cổ Tiểu Đan giống như đúc bắt chước Trương Vạn Bang thần thái cùng ngữ khí, học học lại thương tâm không thôi, rốt cuộc nói không ra lời.
+
+	"Bộ dạng này a, ta không biết, ta chưa từng tìm bất luận cái gì lão sư hỏi qua đề mục." Từ Duệ không quan trọng nói đến.
+
+	"Dừng lại dừng lại, Từ Duệ ngươi cùng ta ra một chút." Thẩm Kỳ cho Từ Duệ nháy mắt, đem Từ Duệ thét lên phòng học bên ngoài trên hành lang.
+
+	"Làm gì?" Từ Duệ hỏi.
+
+	"Lớp mười hai, người ta đều đang đàm luận học tập, liền ngươi một bộ cà lơ phất phơ không quan trọng dáng vẻ, đừng như vậy huynh đệ, ngươi có thể hay không ổn định lại tâm thần đọc mấy Thiên thư?" Thẩm Kỳ nói đến.
+
+	"Đọc đọc đọc, đọc sách có cái chim dùng." Từ Duệ làn da biến thành đen, thân thể cũng càng phát ra cường tráng, hắn thân cao dài đến một mét tám bảy, bát bát, nhanh chạy một mét chín đi.
+
+	Thẩm Kỳ hỏi: "Vậy ngươi sau này có tính toán gì?"
+
+	"Ngươi là cha ta? Quản nhiều như vậy làm gì?"
+
+	"Tốt tốt tốt, ta mặc kệ ngươi, ngươi thích thế nào sao thế đi. Dù sao ngươi chim lớn, sau này luôn có thể hỗn xuất đầu."
+
+	"Thẩm Kỳ ngươi cảm thấy ngươi đọc cái Bắc Đại rất đáng gờm đúng không? Rất xâu đúng không?"
+
+	"Cũng không có, thuận theo tự nhiên mà thôi, tùy duyên."
+
+	Từ Duệ khinh bỉ nói: "Bắc Đại có gì đặc biệt hơn người, cay gà, ta muốn đọc Thanh Hoa."
+
+	Thẩm Kỳ cho là mình nghe lầm: "Cái nào Thanh Hoa?"
+
+	Từ Duệ: "Đừng mẹ nó giả ngu, Trung Quốc có mấy cái Thanh Hoa, Bắc Đại sát vách cái kia, ngươi đi qua, chính ở chỗ này ở mấy ngày."
+
+	"Ngọa tào, ngươi điên rồi đi? Cái kia Thanh Hoa không phải giao tiền liền có thể bên trên, trừ phi nhà ngươi bối cảnh siêu cấp cứng rắn, nếu không tiền đều không nộp ra đi. Nhà ngươi tại thủ đô có thân thích? Đại quan?" Thẩm Kỳ trong lòng tự nhủ Từ Duệ ngươi giấu rất sâu a, khó trách như thế cà lơ phất phơ.
+
+	"Thẩm Kỳ, ta phiền nhất chính là như ngươi loại này thành tích tốt liền coi trời bằng vung hỗn đản, ngươi nếu không phải huynh đệ của ta, ta sớm đánh ngươi." Từ Duệ trợn nhìn Thẩm Kỳ một chút, nói đến: "Toàn thế giới liền cho phép ngươi được cử đi?"
+
+	Thẩm Kỳ bừng tỉnh đại ngộ: "Ngươi. . . Ngươi dựa vào thể dục năng khiếu bị đặc biệt chiêu đến Thanh Hoa? Chúc mừng ngươi a Từ Duệ, sau này hai anh em ta ngay tại sát vách đọc sách, cái này mẹ nó rất truyền kỳ a, hai người chúng ta đã từng học cặn bã, thế mà lên một lượt Thanh Bắc?" 

@@ -1,0 +1,107 @@
+ 461 chương Navier-Stokes phương trình một điểm cái nhìn
+
+	Dùng một câu khái quát Navier-Stokes phương trình, tức cái này phương trình dùng để giải thích thể lưu vận động.
+
+	Từ máy bay, thuyền vận động, đến huyết dịch tại tĩnh mạch cùng động mạch bên trong lưu động phương thức, thể lưu vận động ở khắp mọi nơi.
+
+	Navier cùng Stokes hai vị nhà khoa học sau khi qua đời, mọi người đối N-S phương trình tiếp tục nghiên cứu, cũng lấy được trọng yếu tiến triển.
+
+	Trước mắt chỉ còn lại có một vấn đề, cũng là vấn đề căn bản nhất: Không có người có thể tìm được một cái cầu giải N-S phương trình công thức.
+
+	Xác thực nói, không có người có thể trên nguyên tắc chứng minh N-S phương trình phải chăng có giải.
+
+	Nhà khoa học cố chấp ở chỗ tìm tòi chân tướng, Nhân loại dùng một cái không biết phải chăng có giải phương trình, một hai trăm năm đến nay phát triển ra rất nhiều lý luận, chế tạo ra các loại công cụ, cũng ứng dụng đến các loại công trình tràng cảnh.
+
+	Các nhà khoa học trong lòng luôn cảm thấy có chút hoảng, đặc biệt là Thẩm Kỳ cùng Witten loại này cân nhắc vấn đề tương đối sâu xa nhà khoa học.
+
+	Trung tâm một gian phòng họp.
+
+	Chu Vũ An cao đàm khoát luận: "Thể lưu vận động thỏa mãn chất lượng bảo toàn, tuyến động lượng bảo toàn, lượng chuyển động của góc bảo toàn, kết quả là nhất định phải dẫn vào 6 cái kèm theo bảng vận động chinh lượng, bọn chúng là ba cái độc lập phân lượng Renault ứng lực, hai cái động thái dính tính cùng một cái độc lập phân lượng động thái áp lực."
+
+	"Nhưng là, ta cảm thấy trong này liền có vấn đề, thỏa mãn cái này ba cái bảo toàn luật đầy đồng thời, lại phủ địnhN-S phương trình, mà lại có gì loại Renault ứng lực lựa chọn liền có gì loại động thái dính tính cùng động thái áp lực, ý vị này có 6 cái tự do lượng có thể lựa chọn! Từ đó làm cho tốc độ trận là cái này 6 cái độ tự do hàm số." Chu Vũ An có ý nghĩ của hắn, hắn trần thuật ý nghĩ của hắn.
+
+	Tiêu Tuấn Long nói tiếp đi đến: "Lão Chu, vấn đề này là thuỷ động học trí mạng nội thương, N-S phương trình nguyên thủy suy luận chỉ cần tuyến động lượng bảo toàn cùng lượng chuyển động của góc bảo toàn, mà đem chất lượng bảo toàn thêm nguyên nhân căn bản là không cách nào biểu (*đồng hồ) chinh lượng chuyển động của góc bảo toàn. Ngươi cùng ta học tiến sĩ lúc khẳng định đều giải qua N-S phương trình hai cái cơ học quan điểm, thứ nhất, chất lượng bảo toàn + tuyến động lượng bảo toàn. Thứ hai, tuyến động lượng bảo toàn + lượng chuyển động của góc bảo toàn."
+
+	"Cái thứ nhất quan điểm dẫn xuất vật chất tốc độ cùng Euler tốc độ khái niệm, từ đó duy trì 3 cái phương trình tìm 3 cái tốc độ trận phân lượng cơ bản cách cục, đây là trước mắt lưu hành thuỷ động học lý luận. Nhưng mà, ta thật đáng tiếc phát hiện, căn cứ vào cái thứ nhất chủ lưu lý luận hệ thống, N-S phương trình là vô giải." Chu Vũ An lắc đầu, biểu lộ khó giải.
+
+	"Ngươi nói quá đúng, lão Chu, anh hùng sở kiến lược đồng!" Tư tưởng hỏa hoa va chạm sinh ra ổn bên trong có tiến hữu nghị, Tiêu Tuấn Long cũng rất khó giải: "Cái thứ hai quan điểm cũng có vấn đề, nó dẫn vào cơn xoáy độ vectơ, nhưng vẫn là duy trì 3 cái phương trình tìm 3 cái tốc độ trận phân lượng, cho nên cái này rất mâu thuẫn a, lúc này tốc độ đối không gian tọa độ tìm đạo không có được có thể kết giao đổi họ! Mặc dù có người dẫn vào đại số Lie hình thức, nhưng là công trình giá trị không lớn, bởi vì lý luận cơ sở khái niệm hỗn loạn."
+
+	"Cho nên, N-S phương trình là vô giải?" Chu Vũ An cùng Tiêu Tuấn Long hợp lại mà tính, suy luận ra như thế một cái kết luận.
+
+	Một mực lắng nghe Thẩm Kỳ, Witten cười cười không nói lời nào.
+
+	Vì có thể để cho Witten nghe rõ, Chu Vũ An cùng Tiêu Tuấn Long vừa rồi đối thoại là toàn tiếng Anh.
+
+	Thông qua kịch liệt mà nghiêm mật suy luận, giao lưu, luận bàn, chu, tiêu hai vị Phó tổ trưởng đồng đều cho rằng N-S phương trình khó giải.
+
+	Trên thực tế đây cũng là học thuật giới hiện trạng.
+
+	Nhân viên xây cất luôn luôn có thể nhằm vào cụ thể vấn đề dẫn vào phương trình kèm theo điều kiện, từ đó làm N-S phương trình có giải.
+
+	Nhưng mà, đoạt được kết quả đối bọn hắn đặc biệt vấn đề là chính xác, lại không có đủ phổ biến ý nghĩa.
+
+	Đây cũng là vì cái gì tuyệt đại đa số học giả cho rằng N-S phương trình không tồn tại thông hiểu,
+
+	Thông hiểu chính là có phổ biến tính quy luật chìa khóa vàng, tìm tới thanh này chìa khóa vàng, hoặc là cho ra có tin phục lực chứng cứ, triệt để chứng minh thanh này chìa khóa vàng căn bản không tồn tại, đều là có khoa học giá trị thao tác.
+
+	Chu Vũ An, Tiêu Tuấn Long liếc nhau, lắc đầu cười.
+
+	Vẫn là quá ngây thơ, một ngàn vạn đôla hạng mục cứ như vậy giao nộp, khẳng định sẽ bị đánh.
+
+	Chu Vũ An, Tiêu Tuấn Long nhìn về phía Thẩm Kỳ, Witten hai vị đại lão.
+
+	Dựa theo thường quy kịch bản thiết kế, đầy mặt đỏ bừng vai phụ đáng giá thương thảo lời kịch sau khi nói xong, tiếp xuống hẳn là do bình tĩnh trầm ổn nhân vật chính ra mặt, cho ra giải quyết dứt khoát chính xác trả lời, dẫn đầu đoàn đội đi hướng một đầu tiền đồ tươi sáng.
+
+	"Edward, ngươi nói trước đi." Thẩm Kỳ nói với Witten đến.
+
+	"Đây không phải hệ thống vấn đề, mà là phép tính vấn đề." Witten bình tĩnh trầm ổn nói đến.
+
+	Thẩm Kỳ, Chu Vũ An, Tiêu Tuấn Long: "Ừm."
+
+	Witten đi đến máy đun nước bên cạnh, tiện tay lấy một cái chén giấy, hắn đem chén giấy đặt ở xuất thủy khẩu phía dưới , ấn động ra nước chốt mở.
+
+	Cột nước lấy cố định tốc độ chảy hạ tiết, chảy vào chén giấy.
+
+	Chén giấy tiếp đầy nước lọc về sau, nước đầy thì tràn, rầm rầm.
+
+	"Đây là cái thứ nhất thí nghiệm." Witten đem đựng đầy nước chén giấy đưa cho Chu Vũ An, nói đến: "Chu, uống nó."
+
+	Ừng ực ừng ực.
+
+	Chu Vũ An uống một hơi cạn sạch trong chén nước, cái này chén nước cũng không có vị ngọt hoặc là vị mặn, chính là phổ thông thùng giả thuần nước sạch nguyên vị.
+
+	Witten cầm qua Chu Vũ An trong tay cái chén trống không, lần nữa đi vào máy đun nước trước.
+
+	Lần này Witten đem chén giấy bóp xẹp, nhưng cũng không phải toàn xẹp, mà là nửa xẹp không xẹp dáng vẻ.
+
+	Rầm rầm.
+
+	Tại Witten thao tác dưới, máy đun nước xuất thủy khẩu lấy nhỏ bé dòng nước tốc độ lưu ra cột nước, tiết nhập nửa xẹp không xẹp chén giấy bên trong.
+
+	Bởi vì Witten đối chén giấy thực hiện ngoại lực, cho nên chén giấy đang không ngừng nạp nước tình huống dưới cũng không bành trướng đến nguyên trạng.
+
+	Witten duy trì đối chén giấy ngoại lực thực hiện, duy trì chén giấy bất quy tắc chứa nước hình dạng.
+
+	"Đây là cái thứ hai thí nghiệm." Witten đi đến Tiêu Tuấn Long trước mặt, làm ra mớm nước hình, nói đến: "Tiêu, uống nó."
+
+	"Thế nhưng là. . . Chu vừa rồi chính là dùng cái này chén giấy!" Tiêu Tuấn Long mặc dù dài không tuấn, nhưng hắn là cái thích sạch sẽ giảng vệ sinh nam nhân.
+
+	"Không cần để ý những chi tiết này." Witten nói đến.
+
+	"Tốt a, Edward, ta uống." Tiêu Tuấn Long liếc mắt Chu Vũ An một chút, dùng tiếng Trung Quốc hỏi: "Lão Chu, ngươi hẳn không có bệnh viêm gan a?"
+
+	"Nhìn ngươi cái này tiền đồ, làm cái gì nghiên cứu khoa học?" Chu Vũ An cưỡng ép nhịn xuống không cười.
+
+	Tiêu Tuấn Long vừa nhắm mắt, quyết định chắc chắn, tại Witten phục thị hạ uống xong trong chén nước.
+
+	Witten nói đến: "Thông qua trước sau hai lần thí nghiệm chúng ta phát hiện, tại cùng một cái máy đun nước hệ thống dưới, cùng một cái chén giấy bởi vì kèm theo điều kiện khác biệt, lần thứ hai đựng nước lượng nhỏ tại lần thứ nhất."
+
+	Chu Vũ An, Tiêu Tuấn Long: "Ừm."
+
+	Thẩm Kỳ cười, không có ừm.
+
+	Witten người này thích dùng tiện tay có thể đến đơn giản nói cỗ, đi biểu thị, trình bày một chút khắc sâu khoa học nguyên lý: "Trước đó các ngươi nâng lên, nhân viên xây cất luôn luôn có thể nhằm vào cụ thể vấn đề dẫn vào phương trình kèm theo điều kiện, từ đó làm N-S phương trình có giải. Nhưng là, những này kèm theo điều kiện là tận lực mà vì, dù cho cầu giải ra N-S phương trình giải, cũng chỉ có thể thỏa mãn chính bọn hắn trước kia thiết định đặc biệt tình huống, cũng không có phổ biến tính."
+
+	"Cùng một chén giấy hai lần đựng nước, nguyên nhân kèm theo điều kiện khác biệt dẫn đến đựng nước lượng có rõ ràng khác biệt. Nhưng không thể phủ nhận, bọn chúng đồng đều làm ra công trình hiệu quả, bọn chúng giải quyết Chu Hòa tiêu khát nước vấn đề. Cho nên ta cho rằng, N-S phương trình căn bản vấn đề không phải hệ thống vấn đề, mà là phép tính vấn đề."
+
+	Witten đi vào máy đun nước bên cạnh, cầm trong tay chén giấy trở về hình dáng ban đầu: "Tiếp xuống ai có thể thiết kế ra cái thứ ba thí nghiệm, đồng dạng là căn cứ vào bộ này máy đun nước hệ thống, đạt được một cái phổ biến tính thông hiểu?" 

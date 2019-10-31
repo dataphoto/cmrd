@@ -1,0 +1,107 @@
+ 116 chương mạch suy nghĩ
+
+	 
+
+	Thẩm Kỳ xung phong nhận việc lên đài giải đề.
+
+	Hắn học qua giải tích, giải tích I đến giải tích III đều học qua, đến Yến đại trước đó có học qua.
+
+	Đừng nói giải tích, cao đại, giải cơ những này ngành toán học đại nhất giai đoạn cơ sở chương trình học, liền ngay cả hàm phức, phương trình vi phân riêng phần, tô-pô chờ đến tiếp sau môn chuyên ngành, Thẩm Kỳ cũng tự học xong.
+
+	Đại học không phải cao trung, ở chỗ này trời cao mặc chim bay, người tài giỏi đúng là luôn có nhiều việc phải làm, có bản lĩnh cũng có tinh lực vậy liền học thêm chút, không ai không để ngươi học.
+
+	Đem Thẩm Kỳ chờ số ít mấy cái trình độ đột xuất học sinh đặt ở giảng bài đường bên trong, cùng những bạn học khác cùng một chỗ tiếp nhận giáo dục cơ sở, các giáo sư khả năng có sắp xếp của mình, Tôn Nhị Hùng nói với Thẩm Kỳ, chí ít tại đại nhất giai đoạn, Thẩm Kỳ ngươi muốn tới giảng bài đường nghe giảng bài.
+
+	Lỗ giáo sư tại trên bảng đen viết đạo này giải tích đề có chút quá mức, hắn đây là tại làm khó sinh viên mới vào năm thứ nhất, cái này đề đã siêu việt giáo dục cơ sở phạm vi, hôm nay cái này tiết số phân khóa mới là Lỗ giáo sư lớp thứ hai.
+
+	Tại đại học đặc biệt là Yến đại, thủy mộc loại này học phủ cao nhất, chỉ dựa vào trên lớp học kia mười mấy cái trên trăm cái tiết học đúng không đủ, lớp học bên ngoài không dưới điểm khổ tâm, đừng nói làm ra cái gì kiệt xuất thành tựu, có thể không treo khoa liền nên thắp nhang cầu nguyện.
+
+	"Cái này đề dùng hợp nhất hình chiếu không dễ làm a, cho nên phải dùng phân mặt hình chiếu." Thẩm Kỳ lần nữa chải vuốt mạch suy nghĩ, tại trên bảng đen viết ra hắn giải đáp.
+
+	S phương trình vì x^2+y^2=4, cũng không phải là cùng loại z=z(x, y) liên tục hàm số, khó mà tìm ra S chỗ bên cạnh pháp vectơ.
+
+	Nếu dùng phân mặt hình chiếu, hình trụ mặt tại XoY mặt phẳng hình chiếu vì một đầu tuyến, chuẩn xác mà nói nhưng thật ra là một vòng tròn, cho nên? (z+l)dxdy=0
+
+	Sau đó, Thẩm Kỳ bắt đầu tính toán? -ydzdx giá trị
+
+	Xác định x cùng z lấy giá trị phạm vi cần vẽ sơ đồ, Thẩm Kỳ tại trên bảng đen làm cái mặt phẳng hình chiếu đồ, cuối cùng tính toán ra i=-8 Pi.
+
+	Thẩm Kỳ đem phấn viết thả lại trong máng, vỗ vỗ tay bên trên phấn viết xám, đối Lỗ giáo sư nói: "Cầu giải hoàn tất."
+
+	Lỗ giáo sư: "Thẩm Kỳ, ngươi cấp ra một đáp án, ta tạm thời không đối với ngươi đáp án làm ra phán đoán, mời ngươi nói một chút ý nghĩ của ngươi."
+
+	"Được." Thẩm Kỳ lưu tại trên giảng đài, chỗ hắn ở là giáo sư vị.
+
+	Lỗ giáo sư thì đứng tại một bên, đứng chắp tay.
+
+	Thùng thùng.
+
+	Thẩm Kỳ gõ gõ bảng đen: "y vì hình trụ mặt x bình phương thêm y bình phương tương đương 4 liên quan tới mặt phẳng Xoz đối xứng hàm số lẻ, ta chỗ này viết 'S trước' là chỉ hình trụ mặt x bình phương thêm y bình phương tương đương 4 tại y lớn hơn 0 bộ phận, cho nên y tương đương 4 giảm x bình phương lại mở phương. Ta nói như vậy, mọi người có thể hiểu được a?"
+
+	"Ừm, có đạo lý." Chu Vũ An gật gật đầu.
+
+	"Ta cũng là nghĩ như vậy." La Quý biểu thị tán đồng.
+
+	"Thẩm Kỳ loại này mạch suy nghĩ oK." Thái Thanh tại vở bên trên tô tô vẽ vẽ.
+
+	Âu Diệp nhìn xem không nói lời nào, nàng tính toán ra kết quả cùng Thẩm Kỳ giống nhau như đúc, phương pháp tính toán có chỗ khác nhau.
+
+	Mấy người này cùng Thẩm Kỳ tại cùng một kênh bên trên, Thẩm Kỳ tại trên bảng đen giải đáp đồng thời, bọn hắn cũng theo phương thức của mình cho ra đáp án.
+
+	Ngành toán học những học sinh khác chậm nửa nhịp, nhưng ở Thẩm Kỳ viết ra hắn giải đáp quá trình về sau, bọn hắn nhìn xem cũng có thể đại khái minh bạch, dù sao ngành toán học một nửa ở trên học sinh là thông qua toán học thi đua cử đi đến Yến đại, toán học nội tình so sánh vững chắc, bọn hắn năm ngoái tham gia toán học trại mùa thu lúc, đã sớm tiếp thụ qua Tôn Nhị Hùng giáo sư giáo dục, ngành toán học khoa chính quy chương trình học giáo dục.
+
+	Năm ngoái mùa thu đến năm nay mùa thu, thời gian một năm, bản thân phong phú cũng không phải là chỉ có Thẩm Kỳ một người.
+
+	Toán học trại mùa thu mỗi một vị học viên, Tôn Nhị Hùng đều cấp ra phương hướng tính đề nghị.
+
+	Thời gian một năm có thể tự học không ít tri thức, nếu quả như thật bình tĩnh lại học tập.
+
+	"Thẩm Kỳ ngươi tạm dừng một chút." Lỗ giáo sư đánh gãy Thẩm Kỳ mạch suy nghĩ phân tích, điểm cái học sinh danh tự: "Chu Vũ An, ngươi đến phân tích phân tích, Thẩm Kỳ hắn nói rất đúng sao? Không cần đứng lên, an vị tại vị đưa đã nói."
+
+	Chu Vũ An rất trả lời khẳng định: "Thẩm Kỳ hắn nói đúng vô cùng a."
+
+	"Đừng như thế không rõ ràng, chi tiết, ta cần chi tiết." Lỗ giáo sư xem kĩ lấy Chu Vũ An.
+
+	Chu Vũ An chậm rãi mà nói: "Kỳ thật Thẩm Kỳ trước mặt suy luận tính toán đều là thông thường sáo lộ, hắn vẽ cái này đồ là điểm sáng, loại thứ hai mặt cong tích phân hình nổi vẽ lên đến thật phiền toái, Thẩm Kỳ hóa phức tạp thành đơn giản, vẽ ra nào đó một mặt phẳng hình chiếu, xác định x cùng z lấy giá trị phạm vi, cuối cùng tính toán ra i tương đương -8 Pi. Cái này sóng thao tác ta cho Thẩm Kỳ 99 điểm, còn lại một phần không cho, là bởi vì ta cũng không biết Thẩm Kỳ đáp án có chính xác không, cần Lỗ giáo sư phán đoán."
+
+	Lỗ giáo sư ngược lại hỏi Thẩm Kỳ: "Thẩm Kỳ, đối với Chu Vũ An lời bình, ngươi có cái gì muốn nói?"
+
+	Thẩm Kỳ hai tay chống tại bục giảng trên mặt bàn, nhìn về phía Chu Vũ An: "Chu Vũ An, liên quan tới ngươi đối ta lời bình, cái này sóng thao tác ta cho ngươi 99 điểm, còn lại một phần không cho, là bởi vì ngươi nói nhảm quá nhiều."
+
+	"Cắt." Chu Vũ An cười làm ra một cái "Không phục ngươi đến đánh ta a" thủ thế.
+
+	Đầu đề bầu không khí thật sống động, Lỗ giáo sư tận lực kiến tạo loại này không khí, liền ngay cả toán học các giáo sư cũng thừa nhận, toán học là một môn khô khan chương trình học, nếu như dùng trầm muộn phương thức giảng giải một môn khô khan chương trình học, có mấy cái hội học sinh thực tình thích môn học này?
+
+	"Thẩm Kỳ giải đáp, cùng Chu Vũ An lời bình, đều không có vấn đề. Thẩm Kỳ cho ra đáp án là chính xác, không sai, chính là -8 Pi." Lỗ giáo sư nói đến, xong việc nói với Thẩm Kỳ: "Thẩm Kỳ ngươi có thể quy vị, xin đem ta bục giảng trả lại cho ta."
+
+	Thẩm Kỳ đi xuống bục giảng, trở lại trên chỗ ngồi.
+
+	Lỗ giáo sư quy vị, trở lại bục giảng chính giữa vị trí, thùng thùng, hắn cầm lấy bảng đen xoa gõ gõ bảng đen, đập đập vị trí là Thẩm Kỳ vẽ mặt phẳng hình chiếu đồ: "Nơi này là trọng điểm, các ngươi phải nhớ một chút."
+
+	Dưới đài ngành toán học các học sinh cầm bút cầm vở, chuẩn bị nhớ trọng điểm.
+
+	Khoa học cùng công trình tính toán hệ đại đa số học sinh thì một mặt mờ mịt, trọng điểm? Cái gì là trọng điểm? Trọng điểm ở đâu? Vì cái gì đột nhiên liền xuất hiện trọng điểm? A, ta đây là ở nơi nào, ta là ai ta muốn đi hướng nơi nào...
+
+	Không có so sánh liền không có tổn thương.
+
+	Ngành toán học học sinh chỉnh thể nội tình, so khoa học cùng công trình tính toán hệ mạnh một con đường.
+
+	Trên thực tế giải tích là khoa học cùng công trình tính toán hệ rất trọng yếu một môn chương trình học, giải tích cơ hồ chính là một môn thuần ứng dụng chương trình học, nó là một loại toán học tính toán công cụ. Có thể là vừa khai giảng đi, khoa học cùng công trình tính toán hệ học sinh còn không có tiến vào trạng thái.
+
+	Lỗ giáo sư ra đạo đề mắt, để học sinh giải đáp, để học sinh giảng mạch suy nghĩ, lại để cho những học sinh khác làm ra lời bình.
+
+	Để học sinh trường học sinh, sao còn muốn giáo sư làm gì đâu?
+
+	Giáo sư đương nhiên là vẽ rồng điểm mắt người kia, Lỗ giáo sư làm ra tổng kết: "Bên trên tiết khóa ta đã nói qua, hiện tại ta cường điệu một lần nữa loại thứ hai mặt cong tích phân tính đối xứng, nó quy luật cùng nhị trọng tích phân cùng tam trọng tích phân hàm số lẻ quy luật vừa vặn tương phản. Đều có thể nghe rõ a?"
+
+	"Nếu như không hiểu rõ lắm, các bạn học tại khóa sau muốn bao nhiêu tốn chút tâm tư chính mình suy nghĩ một chút, trong các ngươi đại đa số người đều tiếp thụ qua Yến đại toán học trại mùa thu, mùa đông trại loại hình giáo dục sớm, đừng nói cho ta các ngươi là mấy ngày nay mới bắt đầu tiếp xúc giải tích."
+
+	Không có tham gia qua Yến đại huấn luyện trại học sinh im lặng hỏi trời xanh, số người của bọn họ không nhiều, có một phần nhỏ, thông qua thi đại học bị Yến đại viện toán học trúng tuyển.
+
+	Cái này một phần nhỏ học sinh lại phân hai loại tình huống, một loại là điền bảng nguyện vọng lúc tự giác tự nguyện kê khai Yến đại toán học chuyên nghiệp, một loại khác là thi đại học thi rất cao phân số, nguyện vọng 1 điền Yến đại nhưng không có lựa chọn toán học chuyên nghiệp, bọn hắn cũng không biết chính mình vì cái gì mơ mơ hồ hồ liền đi tới Yến đại viện toán học. Hai loại tình huống, một nửa một nửa đi.
+
+	Các giáo sư có khi cũng phải làm ra lựa chọn, là chiếu cố đại đa số, vẫn là yêu mến một phần nhỏ?
+
+	Lỗ giáo sư làm phép là chiếu cố đại đa số.
+
+	Cho nên không có nghe quá hiểu những học sinh kia chỉ có thể cố gắng gấp bội gắng sức đuổi theo, nếu không sẽ tụt lại phía sau, càng đi về phía sau càng theo không kịp đại bộ đội tiến độ. 

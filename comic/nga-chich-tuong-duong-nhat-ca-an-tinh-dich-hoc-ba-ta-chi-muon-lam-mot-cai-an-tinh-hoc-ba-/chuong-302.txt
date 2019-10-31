@@ -1,0 +1,121 @@
+ 302 chương nguyên bộ
+
+	 
+
+	"Riemann phỏng đoán chứng minh liên quan đến hai cái hạch tâm biểu đạt thức, ta tại năm nay tháng 3 đã báo cáo qua, lần này báo cáo, để chúng ta đơn giản xem một chút Riemann phỏng đoán chứng minh."
+
+	Thẩm Kỳ dùng vài phút thời gian, đơn giản nhớ lại Riemann phỏng đoán chứng minh trọng yếu quá trình cùng chủ yếu kết luận.
+
+	"... Trở lên, chính là Riemann phỏng đoán nói khái quát. Như vậy hiện tại, chúng ta có thể trực tiếp sử dụng Riemann định lý."
+
+	Liên quan tới hơn nửa năm trước thành quả nghiên cứu Riemann phỏng đoán, Thẩm Kỳ giảng rất đơn giản, xoát xoát xoát nhanh chóng qua.
+
+	Người không thể sống ở quá khứ, sống ở trong trí nhớ,
+
+	Đối Thẩm Kỳ tới nói, Riemann phỏng đoán đã lật bài, càng hùng vĩ mục tiêu chờ đợi hắn đi chinh phục.
+
+	Nhưng báo cáo trong sảnh các thính giả biết, Thẩm Kỳ giảng đơn giản, cũng không đại biểu Riemann phỏng đoán đơn giản.
+
+	Không quan tâm Schultz cỡ nào thiên tài, hắn dù sao không có triệt để chứng minh Hodge phỏng đoán.
+
+	Perelman hoàn thành Poincaré phỏng đoán chứng minh, nhưng mà vị này tính cách cổ quái Russia người, cũng không tham gia năm 2006 quốc tế nhà toán học đại hội kỵ Fields thưởng trao giải nghi thức.
+
+	Cho đến trước mắt phá giải ngàn năm nan đề nhà toán học chỉ có hai người, Thẩm Kỳ đứng tại toàn thế giới nhà toán học trước mặt, biểu hiện ra nghiên cứu của hắn thành quả.
+
+	"Bằng vào Riemann phỏng đoán chứng minh kịp thời hai cái biểu đạt thức, Thẩm Kỳ hẳn là đủ cách." Cung Trường Vĩ nhỏ giọng nói đến.
+
+	"Lý nhi là cái này lý nhi, liền nhìn IMU như thế nào quyết đoán." Vân Uy gật đầu một cái nói đến.
+
+	"Thẩm Kỳ nếu như tăng giá cả thành công, RT thứ ba biểu đạt thức triệt để hoàn thành, vậy thì càng thêm bảo hiểm." Hứa Dương nói đến.
+
+	Trên đài, Thẩm Kỳ tiến vào "Riemann định lý cùng với bổ sung định lý" báo cáo khâu, đây là hắn lần này báo cáo trọng điểm nội dung.
+
+	"Hơn hai tháng trước, ta tại Italy Ramanujan thưởng báo cáo hội bên trên, báo cáo RT thứ ba biểu đạt thức dàn khung tính nội dung. 20 ngày trước đó, ta tại arVix bên trên phát biểu căn cứ vào dàn khung tính nội dung cụ thể kỹ thuật chi tiết."
+
+	"RT thứ ba biểu đạt thức cầu được, đem chứng minh Riemann định lý bổ sung định lý."
+
+	"Như vậy, ta đến cùng có hay không cầu được RT thứ ba biểu đạt thức?"
+
+	Thẩm Kỳ nhìn về phía dưới đài, từ đó không bức bách tự hỏi tự trả lời: "Đáp án là, đã triệt để chứng thực, ngay tại ta đến Brazil trước mấy ngày."
+
+	Xoát!
+
+	Xoát xoát!
+
+	Dưới đài có người đứng lên.
+
+	Ánh mắt mọi người nhìn chằm chằm Thẩm Kỳ, nhìn chằm chằm màn hình lớn.
+
+	Fegal, Brent, Ayub, Schultz chờ đứng đầu người ứng cử mười phần chú ý Thẩm Kỳ, bọn hắn nghiên cứu qua Thẩm Kỳ trước đó báo cáo, bọn hắn ngồi đợi Thẩm Kỳ thời khắc này báo cáo mới nhất.
+
+	Nếu như Thẩm Kỳ biểu diễn thành công, bốn vị Châu Âu nhà toán học bên trong một vị, hoặc đem cùng năm nay Fields thưởng vô duyên.
+
+	Bốn vị Châu Âu nhà toán học đều là người trong nghề, bọn hắn rõ ràng Riemann phỏng đoán ý nghĩa, cùng Riemann định lý bổ sung định lý sự kiện quan trọng thức toán học giá trị.
+
+	Riemann phỏng đoán + Riemann định lý + bổ sung định lý, như Thẩm Kỳ hoàn thành một con rồng nguyên bộ nghiên cứu...
+
+	Schultz có chút khẩn trương, Fegal đồng dạng khẩn trương.
+
+	Brent, Ayub hai người vẫn như cũ vững như cẩu, hai người bọn họ mang theo thưởng thức lại ánh mắt mong chờ chú ý Thẩm Kỳ.
+
+	"Đầu thứ nhất đường dẫn, thông qua đối hàm số logζ(s), chúng ta đạt được∏L(s, Χ) tại điểm s=1 phân tích lại cũng bằng không, đầu này suy luận phi thường có ý nghĩa, ở đây cảm tạ ta học thuật đồng bạn Jonas - Karl tiên sinh."
+
+	"Đầu thứ hai đường dẫn, căn cứ vào số nguyên tố cơ bản định lý, chúng ta chứng thực làm c là nương tựa tại A bình thường số, đồng thời A&gt;1 lúc, có Pi(x;q, l)=Lix ╱ φ(q)+o(xe^-clogx). Ở đây cảm tạ ta học thuật đồng bạn Mary - Schmidt nữ sĩ."
+
+	Thẩm Kỳ nhìn về phía dưới đài, hắn đoàn đội chỗ chỗ ngồi tịch.
+
+	Mary cùng Jonas lộ ra tiếu dung, có thể gia nhập phần này vĩ đại sự nghiệp, hai người cảm thấy kiêu ngạo.
+
+	Cách thật xa Schultz, hắn biểu lộ phức tạp cổ quái.
+
+	"Mary, ngươi..." Schultz ánh mắt chuyển hướng thính phòng, trong đám người tìm kiếm lão bà của mình thân ảnh.
+
+	Kỳ thật Schultz đã sớm biết, Mary tại giúp Thẩm Kỳ làm việc.
+
+	Thẩm Kỳ trước đó công bố luận văn, bốn vị tác giả bên trong có Mary danh tự.
+
+	Dù cho có tâm lý chuẩn bị, Schultz trong lòng vẫn là không thoải mái.
+
+	Dù sao tại toàn thế giới nhà toán học trước mặt, cảm tạ thê tử không phải Schultz vị này pháp luật bên trên trượng phu, mà là Thẩm Kỳ.
+
+	Trên đài Thẩm Kỳ tiếp tục cắt đổi PPT: "Điều thứ ba đường dẫn, làm T không phải L(s, Χ) linh điểm tung độ lúc, chúng ta cầu đượcζ hàm số linh điểm tính chất một cái trọng yếu phương trình, cũng đưa nó thành công sửa vì phổ thông hệ phương trình hình thức, tức trên màn hình lớn cái này hệ phương trình, x=βk, γ=γk, x^2-x-γ^2+γk^2+βk-βk^2=0, γk(1-2β)+γ(2x-1)=0. Ở đây cảm tạ bạn gái của ta Âu Diệp."
+
+	Âu Diệp lệ nóng doanh tròng, dưới đài nghị luận ầm ĩ.
+
+	"Bạn gái? Cỡ nào lãng mạn tổ hợp."
+
+	"Thẩm Kỳ bên trên một vị cảm tạ người, Mary - Schmidt, nàng trước đó tính danh là Mary - Schultz - Schmidt."
+
+	"Pite - Schultz phu nhân?"
+
+	"Hiện tại có lẽ xưng là vợ trước?"
+
+	"Pite - Schultz phu nhân, hoặc là vợ trước đang trợ giúp Thẩm Kỳ đánh hạ RH, RT, Thẩm Kỳ nên được thưởng."
+
+	Nhà toán học nhóm phát biểu quan điểm, trong đại sảnh bỗng nhiên huyên náo ngồi dậy.
+
+	"Tạ ơn, cảm ơn mọi người chú ý." Thẩm Kỳ khống một chút trận, nói tiếp đến: "Mãi cho đến nơi này nội dung, cùng ta 20 ngày trước công bố không có khác nhau quá nhiều, ta làm một chút ưu hóa, làm ba đầu đường dẫn đạt được kết luận càng thêm ngắn gọn."
+
+	"Ta biết mọi người quan tâm bốn đầu đường dẫn, hiện tại, ta đem công bố."
+
+	"Căn cứ vào phía trước mấy đầu đường dẫn đạt được suy luận, cùng ζ hàm số linh điểm tính chất hệ phương trình, chúng ta suy luận ra một cái hạch tâm biểu đạt thức, mời xem màn hình."
+
+	Trên màn hình tư thế là:
+
+	ζ(s)=∑(0nT*-a)(n+a)^-1 ╱ 2- IT+o((T*)^1 ╱ 2(1+t)^-1), 0tT
+
+	Báo cáo trong sảnh một nửa ở trên người xem đứng lên, bọn hắn là lần đầu tiên nhìn thấy cái này tư thế, nhà toán học trực giác nói cho bọn hắn, cái này tư thế không tầm thường.
+
+	"Căn cứ Thẩm thị song sinh xứng đôi pháp, chúng ta có thể biết rõ tại linh điểm lúc, cái này tư thế hoàn toàn là thông qua ξ(s) cái này cả hàm số biến hóa đạt được, đồng thời nó tại hình thức bên trên vẫn là cả hàm số."
+
+	Thẩm Kỳ triển khai hai tay, ôm toàn thế giới: "Nói cách khác, s tại lượt lịch phục mặt phẳng quá trình bên trong, trùng hợp công bằng, không nhiều không ít ở vào cái nào đó không phải hiển nhiên linh điểm vị trí bên trên, tức cùng cái này không phải hiển nhiên linh điểm trùng hợp, RT thứ ba biểu đạt thức chứng được! Riemann định lý bổ sung định lý thành lập!"
+
+	Liên quan tới RT thứ ba biểu đạt, Thẩm Kỳ dùng hơn nửa năm thời gian làm nền.
+
+	Tháng 3 phần Thẩm Kỳ ném ra ngoài RT thứ ba biểu đạt thức khái niệm, tháng 8 sơ Thẩm Kỳ tại Italy phát biểu dàn khung tính báo cáo, hai mươi ngày trước đó Thẩm Kỳ công bố ba đầu đường dẫn.
+
+	Giờ phút này, Thẩm Kỳ hoàn thành một kích cuối cùng, hắn 8 trang PPT đầu thứ tư đường dẫn cuối cùng cầu được thứ ba biểu đạt thức.
+
+	Ờ!
+
+	Dưới đài nhà toán học nhóm kích động, Thẩm Kỳ hoàn thành Riemann phỏng đoán + Riemann định lý + bổ sung định lý nguyên bộ nghiên cứu! 

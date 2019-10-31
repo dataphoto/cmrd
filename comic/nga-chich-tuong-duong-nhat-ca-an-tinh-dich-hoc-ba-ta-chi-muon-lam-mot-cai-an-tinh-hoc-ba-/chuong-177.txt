@@ -1,0 +1,127 @@
+ Chương 177: Khác biệt hệ thống
+
+	Quang học là phổ vật trọng yếu chi nhánh, toàn bộ tin tức thuật là quang học bên trong một môn ngay tại bồng bột phát triển chi nhánh, nó lợi dụng tương quan quang can thiệp đạt được vật thể toàn bộ tin tức.
+
+	Toàn bộ tin tức phim cảm quang cất đặt tại z=0 xy trên mặt phẳng, phim cảm quang đồng thời tiếp thu tham khảo quang cùng từ vật bắn tỉa ra mặt cầu sóng, trải qua hiện ảnh xử lý sau chế thành toàn bộ tin tức phiến.
+
+	Nơi đây cần làm một cái chứng minh, tại toàn bộ tin tức phiến sau ± cấp 1 diễn xạ quang phân biệt hình thành vật điểm hư tượng cùng thực giống, cũng tìm hai giống điểm vị trí.
+
+	Thẩm Kỳ cân nhắc đến mặt cầu sóng tại z=0 trong mặt phẳng phục dao động, tại bàng trục dưới điều kiện, tức tâm cầu cách xy mặt đủ xa.
+
+	Nơi này có một cái xấp xỉ quan hệ:
+
+	[(x-x0)^2+(y-y0)^2+z0^2]≈∣z0∣+(x-x0)^2+(y-y0)^2 ╱ 2z0
+
+	Dùng nguyên tham khảo chiếu sáng minh kể trên toàn bộ tin tức khoảng cách, cần đi qua một vòng toán học xử lý, lấy đạt được toàn bộ tin tức phiến sau phục dao động.
+
+	. . . =βA^2Bexp{ik ╱ 2d0[(x-x0)^2+(y-y0)^2]}+. . .
+
+	Cái này hao phí Thẩm Kỳ thời gian nhất định.
+
+	Chân tướng sắp nổi lên mặt nước, ngang bằng bên phải hạng thứ nhất là trên cơ bản xuôi theo chiếu Minh Quang phương hướng truyền bá cái gọi là "Choáng vòng quang", hạng thứ hai đại biểu một phát tán mặt cầu sóng, hạng thứ ba vì một cái khác cấp diễn xạ ánh sáng.
+
+	Mấu chốt chính là hạng thứ ba, lợi dụng u= sinθ ╱ λ cùng k=2 Pi ╱ λ, ước số exp(-i4 Piux), có thể tiến hành sửa.
+
+	Cuối cùng Thẩm Kỳ hoàn thành chứng minh, đạt được hội tụ điểm tức thực giống điểm tọa độ vì (x0-2d0 sinθ, y0, d0)
+
+	Đến trễ 10 phút vào sân, dùng 45 phút đồng hồ làm xong phần này quang học bài thi, Thẩm Kỳ kiểm tra một lần về sau nộp bài thi.
+
+	Tại một đám vật viện đại nhị sư huynh sư tỷ nhìn chăm chú, Thẩm Kỳ không làm quá nhiều dừng lại, giao quyển đi nhanh lên người.
+
+	Trên thực tế Thẩm Kỳ cũng không phải là cái thứ nhất nộp bài thi người, có vị nam sinh so với hắn sớm hơn nộp bài thi, sớm ước chừng vài phút.
+
+	Thẩm Kỳ đi ra phòng học, phát hiện cái thứ nhất nộp bài thi nam sinh đứng tại hành lang bên cửa sổ.
+
+	Nam sinh mang theo kính mắt, vóc dáng rất cao, tiếp cận một mét chín, quần đen áo đen giày da đen, hai tay cắm túi quần, lập thẳng tắp, trông về phía xa cũng không bầu trời xanh thẳm.
+
+	"Ánh mắt này, khí chất này, xem xét chính là cái học bá,
+
+	Người trong đồng đạo." Thẩm Kỳ đối nam sinh làm ra sơ bộ phán đoán.
+
+	Bỗng nhiên, nam sinh quay đầu quét Thẩm Kỳ một chút, nói đến: "Trước đó chưa thấy qua ngươi."
+
+	Thẩm Kỳ: "Ta gọi Thẩm Kỳ."
+
+	Nam sinh gật gật đầu, xem như chào hỏi, liền tiếp tục quan sát vụ mai tứ ngược bầu trời.
+
+	Thẩm Kỳ đi đến bên cửa sổ, vật viện nam sinh bên cạnh, cùng nam sinh cùng một chỗ nhìn trời, tầm nhìn phi thường thấp.
+
+	Hai người cứ như vậy đứng đấy, không nói một lời, 3 phút đi qua.
+
+	Thẩm Kỳ cuối cùng nhịn không được: "Sư huynh, ngươi thấy được cái gì?"
+
+	Nam sinh nói đến: "Mộc tinh cùng thổ tinh rất bình thường, nhưng sao Thiên Vương vận động quỹ tích lộ vẻ dị thường."
+
+	Giữa ban ngày ngươi đang nhìn tinh tinh? Thẩm Kỳ bất động thanh sắc đáp trả: "Sao Thiên Vương không phải dọc theo một cái chính xác hình ê-líp vận hành, cái này có thể giải thích vì, một cỗ u ám lực hấp dẫn lấy nó."
+
+	Nam sinh: "Bất kể như thế nào, Newton định luật tại thái dương hệ phạm vi bên trong tuyệt đối chính xác."
+
+	Thẩm Kỳ: "Ta đồng ý quan điểm của ngươi, cho nên Hải Vương tinh bị phát hiện."
+
+	Hai vị Yến đại học sinh một đoạn đối thoại, trên thực tế ôn lại thiên văn sử thượng một cái kinh điển án lệ.
+
+	Mọi người phát hiện sao Thiên Vương cũng không phải là dọc theo hình ê-líp quỹ đạo vận hành, như vậy lực hút định luật đứng trước bị lật đổ nguy hiểm.
+
+	Một vị gọi siết uy a nhà vật lý học lớn mật dự đoán, nhất định tồn tại một viên u ám mà nhìn không thấy hành tinh, cái hành tinh này đang hấp dẫn sao Thiên Vương.
+
+	Sau đó không lâu, cái hành tinh này bị Berlin đài thiên văn quan trắc đến.
+
+	Nó toàn thân lam nhạt, mỹ lệ phi thường, người Địa Cầu lấy Hải Vương Poseidon Rome danh tự "Neptune" đến mệnh danh viên này xanh thẳm hành tinh.
+
+	Hải Vương tinh chính là như thế bị phát hiện.
+
+	Thẩm Kỳ cũng không am hiểu thiên thể vật lý, nhưng hắn ở cấp ba đội thi vật lý lão sư rất am hiểu, Mục Dung khoa chính quy học chính là thiên văn học, học liên tục thạc sĩ - tiến sĩ lúc thăng cấp làm thiên thể vật lý.
+
+	"Hết thảy cùng Newton định luật tướng nhất trí, hình ê-líp mặt phẳng cũng không tại 'Bầu trời mặt phẳng' bên trên." Nam sinh lại nói.
+
+	"Đối càng xa khoảng cách, lực hút định luật cũng là chính xác." Thẩm Kỳ nói đến.
+
+	"Đúng vậy a, chúng ta không chỉ có thể lý giải Tinh Vân, mà lại từ lực hút định luật xuất phát, thậm chí còn có thể đối hằng tinh Khởi Nguyên thu hoạch được một ít linh cảm." Nam sinh nói đến.
+
+	"Sư huynh xưng hô như thế nào?" Thẩm Kỳ không tiếp nổi đi, người này tốt biết trang B, tại thiên thể vật lý cái này chi nhánh ta nói không lại hắn, nhất định phải ta vật lý tiến sĩ sư tỷ xuất mã mới được.
+
+	"Dương Định Thiên, thiên văn học chuyên nghiệp." Nam sinh làm ngắn gọn tự giới thiệu.
+
+	"Dương cao nữa là Dương giáo chủ?"
+
+	"Dương lợi vĩ dương, nhân định thắng thiên định trời."
+
+	"Định Thiên sư huynh là năm thứ hai đại học a?"
+
+	"Đại nhị."
+
+	"Xin gặp không bằng ngẫu nhiên gặp, nhanh đến giờ cơm, nếu không chúng ta đi uống hai chén? Ta tin tưởng ngươi là một cái có chuyện xưa nam nhân, mà ta, có rượu." Thẩm Kỳ suy đoán, cái này phong cách, cái này trang B thủ pháp, Dương Định Thiên tại vật viện bức vương trên bảng xếp hạng nhất định có một chỗ cắm dùi.
+
+	Dương Định Thiên: "Không cần, mời ngươi trở về đi."
+
+	Thẩm Kỳ cũng không ảo não: "Cũng tốt, vậy ta về trước viện toán học, ngày khác trở lại lĩnh giáo."
+
+	"Ngươi là viện toán học?" Dương Định Thiên không có chút rung động nào trên khuôn mặt, cuối cùng lộ ra một tia ngoài ý muốn.
+
+	"Ngành toán học đại học năm 1." Thẩm Kỳ phát hiện, hắn tại vật viện nổi tiếng cũng không như trong tưởng tượng cao như vậy, chí ít vị này Dương sư huynh không biết hắn.
+
+	"Đại nhất liền vượt chuyên nghiệp đến thi quang học?" Dương Định Thiên hỏi.
+
+	"Ta đã lấy được ngành toán học học sĩ học vị giấy chứng nhận, ngay tại bồi dưỡng vật lý học thứ hai học vị." Thẩm Kỳ nói ra tình hình thực tế.
+
+	"Xem ra ngươi cũng là có chuyện xưa nam nhân." Dương Định Thiên không khỏi nhiều đánh giá Thẩm Kỳ vài lần, "Hôm nay rượu này, ta mời."
+
+	Hai người kết bạn mà đi, hướng ra ngoài trường nhà hàng nhỏ đi đến.
+
+	"Quá khứ của ta rất bình thường, thích toán học, cũng thích vật lý, thi đua cử đi, đi vào Yến đại." Thẩm Kỳ cho Dương Định Thiên rót đầy một chén bông tuyết xông xáo thiên nhai, sau đó cho mình cũng đầy bên trên.
+
+	"IMO? Vẫn là IPhO?" Dương Định Thiên uống một hơi cạn sạch rượu trong chén, là đầu hào sảng hán tử.
+
+	"IMO, ngươi đây?" Thẩm Kỳ hỏi.
+
+	"Quá khứ của ta cũng rất bình thường, IPhO." Dương Định Thiên uống xong một chén lại rót một ly, xong việc bổ sung một câu: "Tham gia qua hai giới IPhO."
+
+	Hai lần trúng tuyển vật cạnh đội tuyển quốc gia sáu người danh sách, cái này rất treo, Thẩm Kỳ kính Dương Định Thiên một chén, ực một cái cạn rượu trong chén: "Vì cái gì lựa chọn thiên văn học?"
+
+	"Chân lý tồn tại ở vũ trụ, mà tuyệt đại đa số Nhân loại mê thất tại dầu muối tương dấm bên trong." Dương Định Thiên nhìn về phía ngoài cửa sổ, ngẩng đầu nhìn lên trời, ánh mắt thâm thúy mà kiên định.
+
+	"Sư huynh cách cục quả nhiên hùng vĩ." Thẩm Kỳ trong lòng tự nhủ ngươi thế nào không lên trời đâu, hắn cho mình châm rượu: "Ta trò chuyện điểm tiếp địa khí chủ đề đi, khoa chính quy giai đoạn vật lý, cái nào môn học khó khăn nhất?"
+
+	"Còn tốt, cũng không tính là rất khó." Dương Định Thiên nói đến, "Vật lý khó khăn không phải thuật, mà là đạo, đạo pháp tự nhiên, biến hóa bao nhiêu cũng không rời bản chất."
+
+	"Định Thiên lão ca ngươi nói thẳng đi, ngươi vật lý môn chuyên ngành bình quân phân là nhiều ít?" Đang không ngừng giao lưu luận bàn bên trong, Nhân loại lấy được tiến bộ, Thẩm Kỳ từ trên thân Dương Định Thiên phát hiện, vật viện trang B hệ thống cùng viện toán học có chỗ khác nhau. 

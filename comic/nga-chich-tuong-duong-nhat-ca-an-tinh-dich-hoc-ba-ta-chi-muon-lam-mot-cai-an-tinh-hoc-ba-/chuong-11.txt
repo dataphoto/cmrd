@@ -1,0 +1,167 @@
+ Mười một chương lấy được tiến bộ
+
+	Lớp mười một các ngành học lão sư trong đêm hoàn thành bài thi phê duyệt cùng tổng điểm thống kê, đây là một chi hiệu suất cao giáo sư đội ngũ.
+
+	Thứ năm buổi sáng, lớp mười một (2) ban phòng học, 48 vị học sinh nhân thủ một tấm phiếu điểm, đồng thời cũng là bảng xếp hạng.
+
+	Phần này bảng xếp hạng tại excel bên trong biên tập sau khi hoàn thành in ra, phía trên nhất một nhóm từ bảy cái đơn nguyên cách cấu thành: Ngữ văn, toán học, tiếng Anh, vật lý, hóa học, sinh vật, tổng điểm.
+
+	Bên trái nhất một hàng dĩ hàng tự xếp hạng lôi ra toàn lớp 48 vị học sinh thứ tự.
+
+	1, Hoàng Tử Khôn, ngữ văn 126, toán học 145, tiếng Anh 138, vật lý 97, hóa học 90, sinh vật 99, tổng điểm 695
+
+	2, Tiền Tuệ Tuệ, ngữ văn 139, toán học 122, tiếng Anh 148, vật lý 72, hóa học 81, sinh vật 80, tổng điểm 642
+
+	. . .
+
+	15, Thẩm Kỳ, ngữ văn 88, toán học 150, tiếng Anh 95, vật lý 86, hóa học 80, sinh vật 82, tổng điểm 581
+
+	Ngữ số anh max điểm đều là 150, lý hóa sinh max điểm là 100.
+
+	Thẩm Kỳ toán học lần nữa cầm tới max điểm thành tích, toàn lớp chỉ một mình hắn toán học thi max điểm.
+
+	Dựa vào toán học cống hiến, Thẩm Kỳ tổng điểm xếp hạng trực tiếp giết vào toàn lớp 20 tên bên trong, so sánh lần trước thi cuối kỳ tiến bộ 3 2 tên.
+
+	"Từ trên số liệu phân tích, ta toán học phát huy bình thường, lần này toán học khảo thí toàn lớp bình quân thành tích là 10 9.5 phân, ta đương nhiên đến so toán học bình quân tuyến cao điểm điểm số, dù sao cấp 3 toán học chỉ tiêu."
+
+	"Lý hóa sinh cũng thuộc về bình thường phát huy, toàn lớp bình quân thành tích vì 8 0.7 phân."
+
+	"Ngữ văn 88, tiếng Anh 95, đều thấp hơn bình quân tuyến, trong dự liệu."
+
+	Bảng xếp hạng bên trên có thể nhìn thấy toàn lớp tất cả đồng học tất cả khoa mục điểm số, Thẩm Kỳ yên lặng tiến hành một phen đơn giản số học phân tích, toàn lớp thứ 15 tên, về nhà có thể có cái bàn giao.
+
+	Đáng lưu ý chính là, Hoàng Tử Khôn lần nữa cầm tới tổng điểm toàn lớp thứ nhất, cũng dẫn trước tên thứ hai Tiền Tuệ Tuệ 50 phân trở lên.
+
+	"Nếu như muốn đem Hoàng Tử Khôn đánh rơi dưới ngựa, toán lý hóa sinh toàn thi max điểm cũng không dùng được, gia hỏa này liền không có yếu hạng."
+
+	Người a một khi lấy được tiến bộ, dã tâm liền sẽ cấp tốc sinh trưởng, Thẩm Kỳ liếc mắt bên trái đằng trước Hoàng Tử Khôn một chút, nếu muốn đánh bại vị này toàn năng tuyển thủ, có cần phải tại ngữ văn cùng tiếng Anh bên trên tiến hành đầu tư, đồng thời lý hóa sinh đồng đều muốn lên tới cấp 2, năm ngành học hết thảy 5200 điểm học bá điểm tích lũy đầu tư dự toán.
+
+	Hệ thống bỗng nhiên nhắc nhở: "Chúc mừng túc chủ thu hoạch được thành tựu mới: Toán học khảo thí đặt song song toàn trường đệ nhất! Ban thưởng 1000 điểm học bá điểm tích lũy."
+
+	Thẩm Kỳ toán học thi 150 max điểm, là toàn lớp thứ nhất, khẳng định cũng là cả lớp thứ nhất, cả lớp đệ nhất đẳng cùng với toàn trường thứ nhất, đặt song song thứ nói rõ chuyện, các lớp khác cấp cũng có nhân số học thi 150. Nam Cảng nhị trung dù sao cũng là coi trọng điểm trúng học, toán học cao thủ không chỉ Thẩm Kỳ một vị.
+
+	Để Thẩm Kỳ không hiểu là: "Lần trước theo đường khảo thí mà thôi, ta toán học 150 cầm tới toàn lớp thứ nhất, hệ thống ngươi ban thưởng ta 2000 điểm học bá điểm tích lũy. Lần này thi giữa kỳ là đại khảo a, ta cầm tới toàn trường đặt song song thứ nhất, vì sao ngươi mới ban thưởng ta 1000 điểm học bá điểm tích lũy? Ta rất cần học bá điểm tích lũy!"
+
+	Hệ thống: "Túc chủ lấy cao cấp người chơi thân phận đánh cấp thấp quái, tu khấu trừ một bộ phận học bá điểm tích lũy, 1000 điểm học bá điểm tích lũy ngươi có thể hiểu thành thuế sau thu nhập."
+
+	"Mẹ nó, cao cấp người chơi đánh cấp thấp quái điểm kinh nghiệm giảm dần ta có thể lý giải, nhưng ngươi thu thuế cũng quá nặng đi! Hắc điếm!" Thẩm Kỳ lấy cấp 3 toán học người chơi thân phận đối ứng phổ thông cao trung toán học khảo thí, thu hoạch học bá điểm tích lũy cần giao thuế nặng. Cấp 2 thời điểm rõ ràng không nộp thuế, điều này nói rõ cấp 3 là cái điểm tới hạn, sau này cần tại toán học lĩnh vực đánh một chút cao cấp phó bản mới có thể thu được lấy càng nhiều học bá điểm tích lũy.
+
+	Ngồi cùng bàn Trần Hiểu Đình chú ý Thẩm Kỳ rất lâu, Thẩm Kỳ cầm tới phiếu điểm sau chưa nói qua một câu, hắn khẳng định sướng đến phát rồ rồi a?
+
+	"Thẩm Kỳ thật là lợi hại, toán học lại thi max điểm! Đồng thời ngươi tổng điểm xếp hạng vượt qua ta, ước ao ghen tị nha!" Trần Hiểu Đình hâm mộ nói đến,
+
+	Nàng lần thi này toán học thi 106 phân, tổng điểm 549, toàn lớp xếp hạng 24 vị.
+
+	"What?" Thẩm Kỳ lấy lại tinh thần.
+
+	"Ta nói, ngươi! Tốt! Lệ! Hại!" Trần Hiểu Đình lên giọng.
+
+	"A a, còn tốt nha." Có thể cầm tới toàn lớp thứ 15 tên, Thẩm Kỳ vẫn là vui vẻ, dù sao nhỏ mục tiêu hoàn thành.
+
+	Trần Hiểu Đình cẩn thận từng li từng tí hỏi: "Thẩm Kỳ, có câu nói ta không biết có nên nói hay không?"
+
+	"Ngươi sẽ không muốn đối ta giảng một câu MMP a?" Thẩm Kỳ ăn một kình, lần này thi giữa kỳ ta tổng điểm xếp hạng siêu việt ngươi, Trần Hiểu Đình ngươi chẳng lẽ ghi hận trong lòng? Quả thật là học bá làm lâu sẽ phát hiện bằng hữu càng ngày càng ít, tịch mịch càng ngày càng nhiều!
+
+	Nhưng mà Trần Hiểu Đình cũng không giảng một câu MMP, nàng lại hỏi: "Đoạn thời gian gần nhất Thẩm Kỳ ngươi mỗi ngày hướng Trương lão sư văn phòng chạy. . .
+
+	"Có phải hay không Trương lão sư tại cho ngươi mở tiểu táo?" Trần Hiểu Đình toát ra càng sâu hâm mộ.
+
+	"Nguyên lai ngươi nghĩ giảng chính là câu nói này." Thẩm Kỳ cười, suy nghĩ nhiều suy nghĩ nhiều, Trần Hiểu Đình vẫn rất có tố chất.
+
+	"Cũng không thể xem như đơn giản thiên vị, ta cùng Trương lão sư ở giữa chủ yếu là nghiên cứu thảo luận, giao lưu." Thẩm Kỳ biết hắn cùng Trương Vạn Bang ở giữa thường ngày không thể gạt được trong lớp những bạn học khác, người ta lại không phải người ngu người mù, đều tại một cái phòng học đồng môn sớm chiều ở chung, ai có thể giấu giếm được ai.
+
+	"Xem ra ngươi là Trương lão sư trọng điểm bồi dưỡng đối tượng, thật tốt." Trần Hiểu Đình đối với Thẩm Kỳ nhận biết tại thay đổi một cách vô tri vô giác cải biến, có thể được đến chủ nhiệm lớp sủng hạnh, không đơn giản.
+
+	"Hiểu Đình, ngươi cũng không cần hâm mộ ta, ta liền toán học thành tích tốt một chút, cái khác mấy môn bài tập đều rất bình thường. Ta cùng Trương lão sư ở giữa giao lưu nội dung kỳ thật cùng cao trung toán học không quan hệ, đơn thuần nghiệp dư hứng thú yêu thích đi."
+
+	"Thật là thần bí dáng vẻ, rất muốn ngó ngó các ngươi giao lưu nội dung nha."
+
+	Thẩm Kỳ từ trong túi xách tiện tay rút ra một trang giấy, là hắn cùng Trương Vạn Bang ở giữa "Nội sam 10" .
+
+	"Ầy, chính là cái đồ chơi này, kỳ thật cũng không có gì thần bí."
+
+	Trần Hiểu Đình vô cùng thần thánh tiếp nhận "Nội sam 10", trên giấy viết:
+
+	"Góc ảo tam giác công thức có thể lấy hàm hyperbolic thay thế, Euclid đến bao nhiêu ở chỗ này không còn áp dụng. . . Kéo dài văn hiến  « không phải hình học châu âu luận thuật » (J. Bolyai bản),  « có song song hoàn toàn lý luận bao nhiêu mới cơ sở » (Lobachevsky bản)."
+
+	"Vô tận dạng toàn phương tức mang vô tận nhiều cái lượng biến đổi dạng toàn phương bản thân xử lý, đây là thuần túy đại số vấn đề, cao đại chỉ là nói sơ lược cũng không sâu nhập. . . Kéo dài văn hiến  « tuyến tính điểm tích lũy phương trình đồng dạng lý luận nguyên lý » (Hilbert bản)."
+
+	"Nói đến điểm tích lũy liền không thể không xách Newton cùng Leibniz, trước tiên có thể nghiên cứu Newton tại Hoàng gia viện khoa học nhậm chức lúc giáo trình:  « phổ biến toán thuật »."
+
+	. . .
+
+	Trần Hiểu Đình phát hiện trên giấy chữ nàng đều nhận biết, chính là xem không hiểu: "Làm một cái toán học cặn bã, ta thật chỉ có thể nhìn một chút mà thôi. . . Nhiều như vậy người ngoại quốc tên bên trong ta liền nhận biết một cái Newton, vẫn là thông qua vật lý khóa Newton ba định luật nhận biết."
+
+	"Ta đều nói, cái này cùng cao trung toán học không quan hệ nha."
+
+	"Thẩm Kỳ, vậy ngươi có thể hay không phụ đạo một chút ta cao trung toán học?"
+
+	"Trương lão sư giảng rất tốt, hắn là toàn thành phố ưu tú giáo sư, ngươi chăm chú nghe hắn giảng bài là được rồi." Thẩm Kỳ thành khẩn nói đến, ở trong mắt hắn Trương Vạn Bang đúng là cái ưu tú giáo sư, chính là tính tình xấu điểm.
+
+	"Ta chăm chú nghe Trương lão sư giảng lớp số học nhanh hai năm, bị hắn mắng khóc qua nhiều lần, nhưng vẫn là không có tiến bộ." Trần Hiểu Đình bất đắc dĩ thở dài, điềm đạm đáng yêu.
+
+	Thẩm Kỳ sảng khoái nói: "Được thôi, toán học bên trên có cái gì không hiểu có thể hỏi ta."
+
+	"Tạ ơn! Cái này đề làm sao phá?" Trần Hiểu Đình rèn sắt khi còn nóng, xuất ra một đạo đề toán thỉnh giáo Thẩm Kỳ.
+
+	Thẩm Kỳ tiếp nhận đề mục xem xét, vô cùng ngoài ý muốn: "Fibonacci dãy số, cái này đề đơn giản như vậy đều làm sai? Ta liền không rõ, ngươi cái này 25 là như thế nào suy luận ra?"
+
+	Trần Hiểu Đình hổ thẹn che mặt: "Ngươi làm sao cùng Trương lão sư một cái phong cách, ta là thật sẽ không làm. . ."
+
+	Thẩm Kỳ: "Không có ý tứ a Hiểu Đình, ta ngữ khí nặng một chút, đến, ta cho ngươi biết một cái sáo lộ, nắm giữ cái này sáo lộ về sau, loại này đề hình đều có thể theo sáo lộ đi, cho trương bản nháp giấy ta."
+
+	"Cho!" Trần Hiểu Đình đem bản bút ký của mình đưa cho Thẩm Kỳ.
+
+	Thẩm Kỳ lật ra Trần Hiểu Đình laptop (bút ký), tuyển tú kiểu chữ lít nha lít nhít tràn ngập trang giấy.
+
+	Đó có thể thấy được Trần Hiểu Đình tại toán học bên trên rất cố gắng học tập, Trương Vạn Bang giảng tri thức điểm nàng không có bỏ sót ghi lại ở laptop (bút ký) bên trên.
+
+	Nhưng mà toán học môn này ngành học chỉ dựa vào chăm chỉ cố gắng không đủ, thiên phú bình thường lại không treo hệ thống, cho dù Trần Hiểu Đình phi thường cố gắng, nàng toán học thành tích vẫn là không thể đi lên.
+
+	"Muốn vận dụng tốt Fibonacci dãy số, Hiểu Đình ngươi chỉ cần nhớ kỹ, làm n xu hướng vô cùng lớn lúc, sau một hạng cùng cái trước so giá trị con số nhỏ bộ phận vô hạn tới gần 0.618, cho nên ngươi chia cho 0.618 liền có thể đi theo sáo lộ đi." Thẩm Kỳ tại Trần Hiểu Đình laptop (bút ký) bên trên viết xuống một cái tư thế, giảng giải đến.
+
+	Fibonacci dãy số từ động vật sinh sôi hiện tượng tổng kết ra cố định toán học quy luật, ghi chép ở cao trung lớp số học "Đọc cùng suy nghĩ" bộ phận, lấy nhỏ bé kiểu chữ miêu tả.
+
+	Thẩm Kỳ tự học cao đại và mấy phần thời điểm chuyên môn nghiên cứu qua dãy số, hắn cảm thấy Fibonacci dãy số là cái rất thú vị lý luận, tại trong cuộc sống hiện thực có không ít thực tế ứng dụng: "Hiểu Đình ngươi xem qua Vương Gia Vệ  « tâm trạng khi yêu », Trương Nghệ Mưu  « anh hùng », Lưu Vĩ Cường  « vô gian đạo » sao?"
+
+	"Nhìn qua, đều là kinh điển mảng lớn,  « tâm trạng khi yêu » ta xem qua chín lần, siêu yêu Lương Triêu Vĩ." Thích phim văn nghệ Trần Hiểu Đình buồn bực, không phải dạy ta đề toán sáo lộ sao, chạy thế nào lệch đến phim đi lên rồi?
+
+	"Ba vị này đều là đại đạo diễn, cái này ba bộ phim điện ảnh cầm qua rất nhiều thưởng, ngươi cẩn thận quan sát một chút,  « tâm trạng khi yêu »,  « anh hùng »,  « vô gian đạo » lấy được thưởng danh sách bên trong toàn bộ bao hàm một cái giải thưởng: Tốt nhất chụp ảnh thưởng."
+
+	Trần Hiểu Đình: "So?"
+
+	Thẩm Kỳ cười nói: "So cái này muốn cảm tạ một cái gọi Đỗ Khả Phong thợ quay phim, hắn là cái người nước ngoài,  « tâm trạng khi yêu »,  « anh hùng »,  « vô gian đạo » ba bộ phim điện ảnh thợ quay phim tất cả đều là hắn."
+
+	"Đỗ Khả Phong đập  « tâm trạng khi yêu » thời điểm, tại kết cấu bên trên hắn chia cho 0.618. Đỗ Khả Phong đập  « anh hùng » thời điểm, tại kết cấu bên trên hắn chia cho 0.618. Đỗ Khả Phong đập  « vô gian đạo » thời điểm, tại kết cấu bên trên hắn chia cho 0.618."
+
+	"Chúng ta có thể nhả rãnh  « anh hùng » kịch bản, nhưng chúng ta phải thừa nhận  « anh hùng » họa phong phi thường hoàn mỹ, cho người ta một loại đẹp mà hài hòa thị giác hưởng thụ, bởi vì Đỗ Khả Phong hiểu toán học, hắn cảnh khung thiết kế, tràng diện điều hành không chỗ không thể hiện 0.618 Fibonacci dãy số hoàng kim xoắn ốc tuyến."
+
+	"Cho nên không hiểu toán học người quay không được phim lớn." Thẩm Kỳ làm ra cuối cùng tổng kết, lại hỏi: "Hiểu Đình, vừa rồi cái kia đạo dãy số đề mục, ngươi bây giờ sẽ làm sao?"
+
+	"Sẽ, ta đã hiểu!" Trần Hiểu Đình bừng tỉnh đại ngộ, nàng cảm nhận được học tập khoái hoạt: "Thẩm Kỳ ngươi so Trương lão sư giảng thú vị, sinh động, không nghĩ tới lớn thợ quay phim Đỗ Khả Phong là số lượng học đạt nhân! Tới tới tới, ta còn có đánh đề mục cần thỉnh giáo ngươi."
+
+	Thẩm Kỳ tranh thủ thời gian khoát tay: "Đừng đừng đừng, ngươi trước tiên đem hôm nay nội dung hoàn toàn tiêu hóa hấp thu rồi nói sau. Hiểu Đình a, không nên nóng lòng chớ có bối rối, băng dày ba thước không phải do chỉ một ngày lạnh, hai ta ở giữa làm ước định, một ngày hạn lượng một đề, học không có tận cùng góp gió thành bão, lượng biến dẫn đến chất biến." Ta rất bận rộn, nào có nhiều thời gian như vậy làm ngươi chuyên trách nhà số học dạy?
+
+	"Một ngày hai đề được không?" Trần Hiểu Đình ham học hỏi khát vọng phi thường bức thiết.
+
+	"Không được, một ngày một đề." Thẩm Kỳ kiên định lắc đầu.
+
+	"Đã ngươi thích xem phim, vậy ta đưa ngươi một tấm vé xem phim, một ngày hai đề được không?" Trần Hiểu Đình lén lút lấy ra điện thoại di động, muốn cho Thẩm Kỳ phát mã QR.
+
+	Thẩm Kỳ không cao hứng: "Trần Hiểu Đình, khoa học tri thức có thể dùng Kim Tiền cân nhắc sao? Toán học kỹ xảo có thể dùng vé xem phim hối đoái sao?"
+
+	"Đúng. . . Thật xin lỗi." Trần Hiểu Đình xấu hổ cúi đầu xuống, tri thức là vô giá, khoa học là thần thánh, mình quả thật nông cạn.
+
+	"Nhà ai rạp chiếu phim phiếu?" Thẩm Kỳ hỏi.
+
+	"Feiyang Movie City, 3D-MAX."
+
+	"Ta một người nhìn không có ý nghĩa, ngươi cùng ta cùng một chỗ, cũng không cần để ngươi mời ta xem phim, hai ta AA, các mua các phiếu."
+
+	"Có thể ta không có quá nhiều thời gian cùng ngươi xem phim, ngươi biết, chúng ta lớp mười một niên cấp một tuần chỉ nghỉ ngơi một ngày, ta còn phải luyện đàn. . ." Trần Hiểu Đình ấp a ấp úng nói đến.
+
+	Thẩm Kỳ đem Trần Hiểu Đình laptop (bút ký) trả lại cho nàng: "Hiểu Đình đồng học, đề cao toán học thành tích thật không thể nóng vội, từ từ sẽ đến, nếu không đốt cháy giai đoạn hoàn toàn ngược lại."
+
+	"Vậy ta nhìn xem ngày nào cùng đàn violon lão sư xin nghỉ nửa ngày. . . Ta nhiều nhất chỉ có nửa ngày thời gian."
+
+	"Lần sau không thể chiếu theo lệ này nữa a, một ngày hai đề, nói đi, còn có cái nào đạo đề toán không hiểu?" 

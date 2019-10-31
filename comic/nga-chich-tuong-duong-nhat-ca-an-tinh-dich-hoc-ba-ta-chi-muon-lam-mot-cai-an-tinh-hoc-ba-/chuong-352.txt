@@ -1,0 +1,83 @@
+ 352 chương tư tưởng
+
+	 
+
+	100 năm trước, bất luận cái gì toán học vấn đề đều có thể đối một cái cảm thấy hứng thú người bình thường giảng giải rõ ràng.
+
+	Hôm nay, có chút toán học vấn đề thậm chí khó mà cùng đại đa số chuyên trách toán học người làm việc giải thích rõ ràng.
+
+	Hodge phỏng đoán chính là một cái trong số đó, nó do nước Anh nhà toán học Hodge tước sĩ đưa ra tại năm 1950:
+
+	"Một cái không hay dị xạ hình đại số đám bên trên mỗi một cái (nhất định loại hình) điều hòa vi phân hình thức đều là đại số bế liên bên trên đồng điệu loại một cái có lý tổ hợp."
+
+	Mặc kệ là Hán ngữ, tiếng Anh vẫn là cái khác ngôn ngữ, một hơi đem Hodge phỏng đoán hoàn chỉnh niệm một lần đều là kiện cật lực sự tình.
+
+	Ai có thể lý giải câu này bên trong dù là một cái chuyên nghiệp thuật ngữ, nhất định có thể tại lớp học xưng vương xưng bá.
+
+	"Ta nghiên cứu giải tích mấy chục năm, từ học sinh làm được Yến đại viện toán học giải tích phòng giảng dạy chủ nhiệm, ta đã từng tư tưởng đếm rõ số lượng học phần tích phương pháp tại Hodge phỏng đoán bên trong tác dụng, nhưng mà một mực không cách nào áp dụng. Vì cái gì không cách nào áp dụng đâu, bởi vì chỉ hiểu giải tích là không cách nào chứng minh Hodge phỏng đoán, thậm chí liền cành giải Hodge phỏng đoán đều lộ vẻ khó khăn." Lỗ Quốc Trân rất có cảm xúc nói đến, xong việc bổ sung một câu: "Cũng may ta hiểu một điểm đại số hình học, lý giải Hodge phỏng đoán với ta mà nói là oK."
+
+	Thẩm Kỳ nói đến: "Hodge phỏng đoán nhìn qua thật là cao thâm tốt vô giải bộ dáng, truy bản tố nguyên, nó lại thế nào khó, cũng có thể thông qua vi phân và tích phân tìm tới quy luật, cơ sở nhất công cụ thường thường có thể giải quyết cao thâm nhất vấn đề, mấu chốt là sử dụng công cụ người cùng cách dùng. Số học phân tích chính là cửa cơ sở toán học công cụ, vi phân là cái kích, tích phân là lực xoắn cờ lê, đẳng cấp là cái vặn vít. Chỉ cần công cụ dùng tốt, lại chắc nịch xe cũng có thể cho phá hủy."
+
+	Lỗ Quốc Trân dùng ngón tay chấm một chút nước trà, nhìn như chẳng có mục đích ở trên bàn phác hoạ ra một cái trừu tượng đồ hình: "Nhưng chúng ta dùng vi phân và tích phân đi định nghĩa một cái đối tượng, định nghĩa đối tượng đều không nhất định là hình học."
+
+	Thẩm Kỳ lau đi trên mặt bàn vết nước đồ án, hỏi: "Lỗ chủ nhiệm, Hodge phỏng đoán biệt xưng là cái gì?"
+
+	Lỗ Quốc Trân vỗ vỗ trán: "Hodge phỏng đoán, không có đồ hình hình học."
+
+	Thẩm Kỳ cười nói: "Đúng vậy, đổi một loại mạch suy nghĩ, chúng ta có thể từ đại số đám bên trên dọc theo nghĩa rộng đường dẫn tích phân nhắc tới ra Hodge phỏng đoán, nếu như một ít dạng này tích phân là không, như vậy tại cái này đường dẫn loại bên trong tồn tại một đầu có thể sử dụng đa thức phương trình miêu tả đường dẫn."
+
+	Lỗ Quốc Trân ý thức được Thẩm Kỳ mạch suy nghĩ so sánh đáng tin cậy, hắn vỗ bộ ngực xin đi giết giặc: "Nói đi, muốn cho ta làm cái gì? Tính cả ta, ta có thể điều động Yến đại giải tích cốt cán không sai biệt lắm có bảy tám cái."
+
+	"Lại điều động ba bốn a, vừa vặn gom góp một chi đội bóng đá."
+
+	"Ta chính là cái phòng giảng dạy chủ nhiệm, ngươi làm ta là viện trưởng? Thẩm Kỳ, ngươi lần này dựng ban tử bao hàm nào đoàn đội?"
+
+	"Ta tại Princeton mang hai cái tiến sĩ sinh phụ trách đại số hình học bản khối, Thần Hưng toán học trung tâm phụ trách topol bản khối, Lỗ chủ nhiệm ngươi cùng ngươi cốt cán đội ngũ phụ trách số học phân tích bản khối."
+
+	"Ngươi tấm lưới này vung lớn a, Thẩm Kỳ tổng nhà thiết kế." Lỗ Quốc Trân nhìn ra một chút mánh khóe, hắn nói tiếp đi đến: "Thẩm Kỳ, ngươi tại đại học Princeton mang hai cái tiến sĩ sinh, trong đó một cái là Trung Quốc du học sinh a?"
+
+	Thẩm Kỳ nói đến: "Đúng, ta kia hai cái học sinh, một cái người Trung Quốc, một cái người Mỹ."
+
+	"Tại ngươi tư tưởng bên trong, trung mỹ hai nước hai chỗ đỉnh cấp đại học thêm một chỗ nghiên cứu khoa học cơ cấu, chia làm ba cái bản khối đánh hạ Hodge phỏng đoán, cuối cùng tại ngươi chỉnh hợp hạ hoàn thành thắng lợi hội sư. Tham dự cái này thế kỷ hạng mục toán học người làm việc đạt mười mấy người, trong đó quốc tịch Mỹ tiến sĩ sinh một vị, còn lại tất cả đều là người Trung Quốc... Thẩm Kỳ, xem ra ngươi chiến lược trọng tâm từng bước tại hướng trong nước chuyển di, ta tuyệt đối ủng hộ ngươi." Lỗ Quốc Trân phân tích ra Thẩm Kỳ chiến lược ý đồ.
+
+	"Quá độ giai đoạn, từng bước một tới đi." Thẩm Kỳ có kế hoạch của hắn, hắn về nước trước đó muốn cho tổ quốc hiến phần hậu lễ, Hodge phỏng đoán hạng mục này là không sai lễ vật.
+
+	Đã bị đánh hạ Riemann phỏng đoán chủ hạng mục phải chịu trách nhiệm người là Thẩm Kỳ, lúc ấy cái kia trong đoàn đội có người Trung Quốc, Đức quốc người, người Thụy Điển, Israel người, bọn hắn tại nước Mỹ học thuật lực lượng cường lực duy trì dưới hoàn thành toán học sử thượng hành động vĩ đại, triệt để đã chứng minh Riemann phỏng đoán.
+
+	Hiện tại mọi người vừa nhắc tới Riemann phỏng đoán, thường thấy nhất bình luận là: "Một vị Trung Quốc toán học thiên tài dẫn đầu một chi quốc tế liên đội, tại nước Mỹ sáng tạo ra lịch sử."
+
+	Mặc dù toán học không phân biên giới, nhưng Thẩm Kỳ tâm nguyện là dẫn đầu một chi Trung Quốc đoàn đội lần nữa sáng tạo lịch sử.
+
+	Liên quan tới mới hạng mục Hodge phỏng đoán, Thẩm Kỳ cùng hắn Princeton đoàn đội hết thảy ba người, Lỗ Quốc Trân cùng hắn Yến đại đoàn đội có bảy tám người, Ngô chủ nhiệm cùng hắn Thần Hưng toán học trung tâm đoàn đội có năm sáu người.
+
+	Đối với cơ sở toán học nghiên cứu mà nói, vì một cái đầu đề thành lập mười sáu mười bảy người chuyên hạng nghiên cứu đoàn đội, tuyệt đối là xa hoa đội hình cảnh tượng hoành tráng.
+
+	Tại cái này xa hoa đội hình bên trong, chỉ có Thẩm Kỳ học sinh Ralph một vị nước Mỹ tiến sĩ sinh, còn lại đều là Trung Quốc toán học người làm việc, đây xem như một chi Trung Quốc đoàn đội.
+
+	Hodge phỏng đoán là cái lượng công việc to lớn hạng mục, đã được duyệt trước đó có thể nghiên ắt không thể thiếu.
+
+	Lỗ Quốc Trân, Ngô chủ nhiệm hai cái đoàn nhỏ đội lập tức khai triển khua chiêng gõ trống khả thi công việc nghiên cứu, biên soạn xong có thể nghiên báo cáo sau bọn hắn sẽ hướng ngành tương quan xin đã được duyệt, cái này cần thời gian mấy tháng.
+
+	"Hodge phỏng đoán hạng mục này đã bắt đầu thao tác, mặt khác một tổ ba cái nan đề, làm thế nào đâu?" Thẩm Kỳ trở lại khách sạn, trên giấy viết xuống N-S phương trình, bài toán P so với NP, Yang-Mills phương trình, sau đó nhìn chằm chằm bọn chúng ngẩn người, vô kế khả thi.
+
+	Ngoại giới cho rằng bảy cái ngàn năm nan đề bên trong khó khăn nhất là Hodge phỏng đoán, mà Thẩm Kỳ cho rằng khó khăn nhất là bài toán P so với NP, N-S phương trình cùng Yang-Mills phương trình thứ hai.
+
+	"Vật lý học đẳng cấp vẫn là thấp điểm, bốn cái địa chấn dự đoán điểm tính đúng rồi hai cái, mặt khác hai cái đến nay không có tin tức." Thẩm Kỳ tại nội trong năm nay điên cuồng tích tụ vật lý học tri thức, đã chồng chất đến bình cảnh, muốn tại vật lý học bên trên tìm kiếm đột phá, tốt nhất có thể lại tăng một cấp.
+
+	"Vật lý cấp 12 thăng cấp 13 điều kiện một trong là tại vật lý giáo sư trên cương vị công việc chí ít một năm, đi nơi nào tìm như thế công việc đâu?"
+
+	Thẩm Kỳ hiện tại chủ chức là đại học Princeton toán học giáo sư, kiêm Yến đại khách tọa toán học giáo sư, lại kiêm Thần Hưng toán học trung tâm cao cấp toán học cố vấn.
+
+	Có thể tại toán học lĩnh vực đồng thời có được ba cái thân phận hiển hách, là bởi vì Thẩm Kỳ tại toán học bên trên lấy được cả thế gian đều chú ý thành tựu.
+
+	Thẩm Kỳ tại vật lý học bên trên cũng lấy được nhất định thành tích, hắn một phần Vật lý vật chất ngưng tụ luận văn đăng tại PRL bên trên, một cái khác bài địa chấn học mô hình luận văn đăng tại  « khoa học » bên trên.
+
+	"Ta vật lý học tiến sĩ luận văn  « luận tính chất phức tạp » đầu cho PRL có một đoạn thời gian, không biết đến cái nào giai đoạn?"
+
+	Thẩm Kỳ tiến vào PRL gửi bản thảo hệ thống, xem xét luận văn  « luận tính chất phức tạp » xét duyệt tiến độ.
+
+	PRL gửi bản thảo hệ thống biểu hiện: Đã thu nhận sử dụng.
+
+	Hệ thống xoát ra tin tức, nguyên nhân túc chủ tại IF trị giá là 7.872 vật lý tập san bên trên phát biểu luận văn một phần, ban thưởng 393600 điểm học bá tích phân.
+
+	"Hai bài PRL, một phần  « khoa học », không biết có hay không cơ hội treo cái vật lý giáo sư danh hiệu?" Thẩm Kỳ rời tửu điếm, bồi hồi tại Yến đại trong sân trường tìm cơ hội. 

@@ -1,0 +1,107 @@
+ 326 chương hợp tác
+
+	Guy phỏng đoán là: Đảm nhiệm một số chẵn có thể bày tỏ bày ra vì hai cái số nguyên tố kém.
+
+	Đã chứng minh Goldbach phỏng đoán, liền có thể rất dễ dàng chứng minh Guy phỏng đoán.
+
+	Cho nên mấu chốt vẫn là Goldbach phỏng đoán chứng minh.
+
+	Thẩm Kỳ hoàn thành công việc này, hắn nói đến: "Guy giáo sư, ta đọc qua rất nhiều lần ngươi đại tác  « số luận bên trong chưa giải quyết vấn đề », ngươi cho ta nhất định gợi ý."
+
+	"Ngươi quá khiêm nhường, Thẩm." Chính Guy đều không có ý tứ.
+
+	Sau đó song phương đoàn đội cùng đi ăn tối, Guy hi vọng hắn Victoria đoàn đội có thể cùng Thẩm Kỳ Princeton đoàn đội kết thành hữu hảo quan hệ, có cơ hội có thể liên hợp khai triển một chút đầu đề nghiên cứu.
+
+	Thẩm Kỳ đồng ý cái này nhấc lên án, song phương tại hài hòa hòa hợp bầu không khí bên trong đạt thành ý hướng hợp tác.
+
+	Lão Guy học trò khắp thiên hạ, con của hắn tiểu Guy là Victoria dạy đại học, lão Guy mang tới hai cái học sinh đều là tiến sĩ.
+
+	Thẩm Kỳ học sinh còn không có thành tài, đây là hắn tương lai một đoạn thời gian cần trọng điểm chú ý phương hướng.
+
+	Hệ thống: "Thành tựu mới! Túc chủ đã chứng minh Goldbach phỏng đoán, Polignac phỏng đoán, sinh đôi số nguyên tố phỏng đoán, Guy phỏng đoán, cơ sở ban thưởng phân biệt là 100 vạn học bá tích phân, 50 vạn học bá tích phân, 50 vạn học bá tích phân, 50 vạn học bá tích phân, nhân với toán học chủ thiên phú 2. 0, cuối cùng ban thưởng 5 triệu học bá tích phân."
+
+	"Túc chủ tại  « Annals of Mathematics » bên trên phát biểu luận văn một phần, cơ sở ban thưởng 5 vạn học bá tích phân, nhân với toán học chủ thiên phú 2. 0, nhân với cái này tập san mới nhất IF giá trị 4. 012, cuối cùng ban thưởng 401200 điểm học bá tích phân. Còn lại 3726549 2 điểm học bá tích phân, mời túc chủ xác nhận."
+
+	Thu hoạch tương đối khá, Thẩm Kỳ xuất ra một chút xíu học bá tích phân, đối vật lý, hóa học tiến hành đều nâng cấp.
+
+	Vật lý cấp 10 → cấp 11, cần 120 vạn học bá tích phân.
+
+	Hóa học cấp 6 → cấp 7, cần 15 vạn học bá tích phân.
+
+	Toán học cấp 13, vật lý cấp 11, hóa học cấp 7, Thẩm Kỳ minh tư khổ tưởng một tuần, tra duyệt đại lượng Vật lý vật chất ngưng tụ cùng tô-pô văn hiến, cuối cùng hoàn thành đối  « căn cứ vào mặt cầu ổn định cùng nhóm đồng luân thiếu hụt tô-pô nghiên cứu » một kích cuối cùng.
+
+	Bản này Vật lý vật chất ngưng tụ luận văn hao tốn Thẩm Kỳ hơn nửa năm, đây là hắn chính thức gõ khai vật lý học đại môn nhập đội.
+
+	Thẩm Kỳ cho Edward Witten phát bưu kiện:
+
+	"Edward, tại toán học phương diện, ta rõ ràng cảm giác được chính mình tiến vào bình cảnh kỳ, một chút vấn đề mấu chốt chậm chạp không chiếm được giải quyết."
+
+	"Ta phi thường khát vọng tại cao đẳng sở nghiên cứu tĩnh tâm học tập một đoạn thời gian, tìm kiếm đột phá mới."
+
+	"Ta yêu quý vật lý, liền cùng yêu quý toán học đồng dạng."
+
+	"Chính như ước định của chúng ta lúc trước, nếu như ta hoàn thành một phần đồng giá tại thạc sĩ luận văn tốt nghiệp vật lý luận văn, ta sẽ có cơ hội trở thành học sinh của ngươi, tiến vào cao đẳng sở nghiên cứu vật lý bộ, bắt đầu vật lý học tiến sĩ nghiên cứu sinh nghiên tu."
+
+	"Luận văn ta viết tốt, xin gặp phụ kiện."
+
+	"Chờ mong ngươi hồi phục."
+
+	Phát xong bưu kiện, Thẩm Kỳ ở văn phòng triệu kiến Vu Lỗi cùng Ralph: "Đây là các ngươi nghiên cứu sinh thứ hai học kỳ, bình thường tình huống là, Princeton nghiên cứu sinh tại giai đoạn này, cần xuất ra một chút ra dáng thành tích. Tay ta đầu vừa vặn có hai cái đầu đề, tư liệu ở chỗ này, các ngươi nhìn xem."
+
+	Vu Lỗi, Ralph một người một phần tư liệu, tập trung tinh thần nghiên cứu.
+
+	Cái thứ nhất đầu đề, đề là  « nhiều biến phức toàn thuần hàm số nghiên cứu », Thẩm Kỳ liệt cái dàn khung, đại ý là thuyết phục qua mở rộng đơn biến phức dẫn lý nhiều nhất hàm phức, như thế nào chứng minh một loại cùng nhiều biến phức toàn thuần hàm số lệch đạo số lấy giá trị tình huống tương quan nhiều biến phức chính quy chuẩn tắc?
+
+	"Vu Lỗi, ngươi chủ công chính là hàm số luận, cái này đầu đề cùng chuyên ngành của ngươi đối đáp, giao cho ngươi đi hoàn thành." Thẩm Kỳ bắt đầu hạ đạt nhiệm vụ.
+
+	"Được rồi, lão bản." Vu Lỗi đón lấy nhiệm vụ, mặt ngoài rất tự tin, trong lòng có chút hư.
+
+	Nước Mỹ đạo sư càng giống là lão bản, trường học cho bọn hắn nhất định đầu đề nhiệm vụ cùng tài chính ủng hộ, càng nhiều tình huống là, các lão bản chính mình đi bên ngoài tìm đầu đề cùng tài chính, tự chịu trách nhiệm lời lỗ.
+
+	"Vu Lỗi, ngươi nghiên cứu cái này đầu đề đồng thời, mau chóng cùng Victoria đại học tiểu Guy giáo sư liên hệ với, đó là cái liên hợp hạng mục, do Victoria đại học khởi xướng, mời chúng ta tham dự hợp tác." Thẩm Kỳ giao phó đầu đề bối cảnh.
+
+	Victoria đại học lão Guy ở vào nửa về hưu trạng thái, hắn toán học sự nghiệp truyền cho nhi tử tiểu Guy.
+
+	Tiểu Guy đoàn đội nghiên cứu phạm vi rộng hơn, ngoại trừ số luận, bọn hắn cũng tại hàm số luận, phương trình vi phân thường, phương trình vi phân riêng phần chờ lĩnh vực có chỗ thành tích.
+
+	Tiểu Guy cẩn tuân cha mệnh, tích cực thôi động cùng Thẩm Kỳ đoàn đội học thuật hợp tác.
+
+	Thẩm Kỳ cảm thấy cơ hội này không sai, một là có thể rèn luyện Vu Lỗi, thứ hai đối bảo trì chính mình đoàn đội quốc tế hóa định vị có trợ giúp, giảm bớt học thuật họ hàng gần sinh sôi phong hiểm.
+
+	Tìm Thẩm Kỳ tìm kiếm hợp tác đại học hoặc nghiên cứu cơ cấu không chỉ một nhà, đoàn đội không chỉ một chi.
+
+	Thẩm Kỳ từ mười cái hợp tác hạng mục bên trong tỉ mỉ chọn lựa ra hai cái, một cái giao cho Vu Lỗi theo vào, một cái khác giao cho Ralph.
+
+	Ralph đầu đề hạng mục là  « tuyến tính Lý Siêu đại số cùng với siêu quần nghiên cứu ».
+
+	Ralph chủ công chính là đại số, bao hàm lý đại số, lý nhóm, nhóm luận chờ trọng yếu nội dung.
+
+	Đồng dạng là vượt trường học hợp tác hạng mục, Ralph đem cùng Ivy League bạn trường học Yale đoàn đội cộng đồng thúc đẩy hạng mục này.
+
+	"Hai vị mời cố lên, các ngươi đại biểu là Princeton, có thể tuyệt đối đừng như xe bị tuột xích." Thẩm Kỳ nói đến, "Hai cái này đầu đề có nhất định độ khó, nhưng không cần e ngại, phía sau của các ngươi là ta, là toàn bộ Princeton."
+
+	"Thẩm giáo sư, ta nguyên lai tưởng rằng ngươi sẽ đích thân thiết kế một cái đầu đề giao cho chúng ta hoàn thành, không nghĩ tới ta cái thứ nhất đầu đề hạng mục, là cùng Yale hợp tác." Ralph nói đến.
+
+	"Xem thường Yale?" Thẩm Kỳ hỏi.
+
+	Ralph: "Không không, Yale là một chỗ không sai đại học."
+
+	Thẩm Kỳ giải thích đến: "Hai người các ngươi hiện tại trình độ, không cách nào hoàn thành ta tự mình thiết kế đầu đề, khả năng liền nhìn đều nhìn không hiểu. Cho nên, thúc đẩy ta vừa mới bố trí nhiệm vụ, là các ngươi hiện giai đoạn công việc chủ yếu."
+
+	"oK, minh bạch." Ralph lại bất lực phản bác, ngoan ngoãn dựa theo Thẩm Kỳ phân phó đi làm.
+
+	Bố trí xong toán học nhiệm vụ, Thẩm Kỳ cho mình thả vài ngày nghỉ, hắn tại Wechat bên trên cùng lão mụ liên hệ, hỏi thăm nấu canh kỹ xảo.
+
+	Thông minh nhà toán học rất nhanh học xong nấu canh kỹ năng, Thẩm Kỳ mua xương sườn, bắp ngô, cà rốt, xương sườn cắt đoạn, bỏng nước sôi như bị phỏng đi mùi tanh, cùng bắp ngô, cà rốt cùng một chỗ đặt nồi cơm điện bên trong, thêm nước, điều đến nấu canh hình thức.
+
+	Một nồi nước nấu tốt, thêm điểm muối, liền pizza, Thẩm Kỳ cùng Âu Diệp Trung Tây kết hợp, trong nhà hưởng dụng bữa tối.
+
+	"Ờ, dễ uống." Sức ăn không lớn Âu Diệp uống liền mấy bát Thẩm Kỳ nấu canh.
+
+	"Tại nước Mỹ nấu canh không khó, khó khăn là nguyên liệu nấu ăn khó tìm, nấu đến nấu đến liền như vậy mấy loại, ta đến nước Mỹ lâu như vậy, chưa thấy qua nơi nào bán móng heo, người Mỹ không ăn móng heo, giết hết heo, móng trực tiếp làm rác rưởi xử lý. Củ sen càng thêm khó làm, ta cũng chỉ có thể uống cái xương sườn canh cái gì." Thẩm Kỳ vừa mới kết thúc cùng mẹ Wechat nói chuyện phiếm, có ý tưởng lại khó mà thực hiện.
+
+	Âu Diệp tra một chút điện thoại di động: "Củ sen móng heo canh, ngực lớn. . . Ngươi, ngươi, ngươi đến cùng vẫn là ngại vứt bỏ ngực ta nhỏ!"
+
+	Sau đó Âu Diệp cũng không tiếp tục để Thẩm Kỳ nấu canh, nàng bắt đầu tự học nấu canh kỹ thuật.
+
+	Nam nữ ở chung, không thể lão làm cho nam nhân nấu canh nấu cơm, xuất thân gia đình giàu có Âu Diệp tại thân thể điều kiện cho phép tình huống dưới, đủ khả năng học lên làm việc nhà. 

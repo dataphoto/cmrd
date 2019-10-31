@@ -1,0 +1,35 @@
+ Logic quy nạp đi từ các trường hợp riêng biệt đến các lý thuyết chung, và là phương pháp được sử dụng để khẳng định các lý thuyết khoa học. Nếu quan sát đủ lượng táo rụng từ trên cây, bạn sẽ kết luận rằng táo luôn rơi xuống chứ không bay lên hoặc sang ngang. Từ đó, bạn có thể đi đến một giả thuyết tổng quát hơn, gộp cả những vật thể rơi khác, như quả lê chẳng hạn. Tiến trình khoa học diễn ra như vậy đấy.
+  
+  Trong lịch sử văn học, không có nhân vật nào nổi tiếng về năng lực “suy diễn” như thám tử Sherlock Holmes gan dạ, nhưng phương pháp của Holmes nhìn chung không hề dùng logic diễn dịch. Thực ra ông dùng logic quy nạp. Trước tiên, ông nghiên cứu kỹ tình huống, sau đó, dựa trên những kinh nghiệm trước đó của mình, dùng phép loại suy và xem xét các khả năng có thể xảy ra, rồi mới đưa ra kết luận chung, tương tự như trong mẩu chuyện sau đây:
+  
+  Holmes và Watson đi cắm trại. Nửa đêm Holmes thức giấc, huých bác sĩ Watson một cái:
+  
+  “Watson,” ông nói, “hãy nhìn lên bầu trời và nói cho tôi biết anh thấy gì?”
+  
+  “Tôi thấy hàng triệu ngôi sao, Holmes ạ,” Watson đáp.
+  
+  “Và từ đó anh rút ra kết luận gì hả Watson?”
+  
+  Bác sĩ Watson suy nghĩ một lát. “Ờ”, ông nói, “về thiên văn, tôi thấy rằng có hàng triệu thiên hà và có thể có hàng tỷ hành tinh, về chiêm tinh, tôi thấy Sao Thổ đang ở trong cung Sư tử, về thời khắc, tôi suy ra bây giờ vào khoảng ba giờ mười lăm. Về thời tiết, tôi hy vọng ngày mai chúng ta sẽ có một ngày đẹp trời, về thần học, tôi thấy Chúa là toàn năng còn chúng ta thật nhỏ bé và vô nghĩa. À, còn anh thì thấy gì, Holmes?”
+  
+  “Watson, anh ngốc quá! Có kẻ đã trộm mất cái lều của chúng ra rồi!”
+  
+  Chúng ta không biết chính xác Holmes đã đi đến kết luận của mình như thế nào, nhưng có lẽ đại khái là thế này:
+  
+  1. Tôi đã đi ngủ trong lều, nhưng bây giờ tôi có thể thấy sao trời.
+  
+  2. Trực giác của tôi đưa ra giả thuyết, dựa trên việc loại suy các kinh nghiệm tương tự tôi có trong quá khứ, rằng ai đó đã lấy trộm lều của chúng tôi.
+  
+  3. Để kiểm tra giả thuyết đó, chúng ta hãy xem xét các giả thuyết lựa chọn khác:
+  
+   + Có lẽ chiếc lều vẫn còn đấy, nhưng ai đó đang chiếu một bức tranh trời sao lên mái lều. Điều này khó có thể xảy ra, dựa trên kinh nghiệm quá khứ của tôi về hành vi của con người và kinh nghiệm bảo tôi nhất định phải có thiết bị trong lều trại, nhưng rõ ràng là không có.
+  
+  ++ Có lẽ chiếc lều bị gió thổi bay đi mất. Điều này khó có thể xảy ra, vì kinh nghiệm quá khứ của tôi đã dẫn tôi đến kết luận rằng nếu gió mạnh đến thế hẳn đã đánh thức tôi dậy, mặc dù có thể không làm Watson thức giấc.
+  
+  +++ Vân vân, vân vân và vân vân.
+  
+  ++++ Không, tôi nghĩ giả thuyết ban đầu của tôi có lẽ là đúng. Kẻ nào đó đã lấy trộm cái lều.
+  
+  Đây chính là quy nạp. Hóa ra bao lâu nay chúng ta đã dùng sai thuật ngữ khi ca ngợi kỹ năng suy luận của Holmes.
+  
+  MỘT CÚ NHẢY VỌT VỀ QUY NẠP: Ý tôi là, cái kiểu trộm gì chỉ lấy mỗi bát thức ăn cho chó thế ? 

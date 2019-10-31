@@ -1,0 +1,77 @@
+ 655 chương an bài
+
+	 
+
+	Máy tính CPU cao tốc vận chuyển, L(e, s) tại s=1 chỗ chuỗi Taylor, hắn triển khai giai đồng đẳng với đường cong elliptic e Hasse - Weil rankr(e).
+
+	Đường cong elliptic bên trên có lý điểm tại tính toán cơ chỉ huy hạ nhảy lên thần bí vũ đạo, nhìn như lộn xộn, kì thực đạp trên nhịp.
+
+	Hình như y^2=x^3+ax+b đơn giản đường cong elliptic cũng có vô cùng nhiều cái có lý điểm, mà dạng này đường cong elliptic vô tận nhiều.
+
+	Mô hình đường cong điều kiện bị Triệu Thiên chờ ba cái học sinh hạn định chết, bởi vì tại năm 1999, Katō cùng cũng đã chứng minh số hữu tỷ vực bên trên tất cả đường cong elliptic đều là mô hình đường cong.
+
+	Đây là một trận số lượng cùng ký hiệu ở giữa long trọng vũ hội, số nguyên tố p đăng tràng, bọn chúng tại số liệu trong hải dương xoay tròn nhảy vọt, đối một ít đường cong elliptic bên trên có lý điểm số lượng tiến hành tính toán, chuyển hóa làm đối lấy số nguyên tố p vì mô hình giải số lượng tiến hành tính toán.
+
+	Máy tính màn hình màu nền là màu đen, thâm thúy như là sâu trong vũ trụ. Trong bóng tối vũ giả là một đám bạch sắc tinh linh, tại ordp(L' (e, 1) ╱ Ce)=ordp(#Sha(e)) uy áp dưới, p cửa sắp khống mấy không ở bọn chúng tính mấy, hô hấp của bọn nó biến gấp rút, vũ bộ hỗn loạn gần như điên cuồng.
+
+	Nhìn trên màn ảnh không ngừng biến hóa số lượng cùng ký hiệu, Tiểu Vân có chút mê muội: "Đây chính là toán học vẻ đẹp, đây chính là toán học lực lượng, trong vũ trụ huyền bí ẩn giấu ở đây."
+
+	"Ừm." Tằng Hàn tán đồng gật gật đầu.
+
+	Thử lại phép tính tiến độ 2%.
+
+	Cho dù là cao tính năng máy tính, đối với Âu Diệp cấu trúc lý luận giả thiết cũng cần nghiệm chứng một tuần lễ.
+
+	Tại Tiểu Vân cùng Tằng Hàn xem ra, hải lượng đường cong elliptic, phương trình tạo thành toán học thế giới có không có gì sánh kịp mỹ cảm cùng lực lượng cảm giác.
+
+	Có lẽ là trán lá vỏ thần kinh không có học đệ học muội phát đạt như vậy, Triệu Thiên chỉ cảm thấy nhận có hạn đẹp cùng lực lượng, càng nhiều hơn chính là phức tạp số liệu xử lý tạo thành não khoát đau.
+
+	"Các ngươi không cảm thấy có chút kỳ quái sao, cho diệp tử tỷ trợ giúp cùng ủng hộ, thế mà không phải Thẩm giáo sư, mà là Chu Vũ An Chu lão sư." Chờ đợi số liệu xử lý thời gian, Triệu Thiên kéo lên đề lời nói với người xa lạ.
+
+	Tiểu Vân nghĩ nghĩ nói đến: "Có lẽ là Thẩm giáo sư âm thầm an bài Chu lão sư làm như thế?"
+
+	Triệu Thiên lắc đầu: "Cái này không hợp với Logic đi, Thẩm giáo sư làm gì không chính mình ra mặt? Thử nghĩ, nếu như Thẩm giáo sư cùng diệp tử tỷ liên hợp chứng minh BSD phỏng đoán, như vậy thu hoạch được Fields thưởng người là diệp tử tỷ, bởi vì Thẩm giáo sư cầm qua Fields thưởng. Fields thưởng quy tắc cùng Nobel thưởng khác biệt, Fields thưởng chỉ có thể cầm một lần."
+
+	Tằng Hàn phản bác: "Ngươi cái này Logic không đúng, ngươi cho rằng diệp tử tỷ cần Thẩm giáo sư mang nằm?"
+
+	Triệu Thiên liên tục khoát tay: "Diệp tử tỷ đương nhiên không cần Thẩm giáo sư mang nằm! Ta chính là hiếu kì nha, Thẩm giáo sư vì sao như vậy không quan tâm BSD phỏng đoán?"
+
+	Tiểu Vân nói đến: "Đại lão tâm tư ngươi đừng đoán, chờ ngươi làm đại lão, ngươi khả năng mới có thể minh bạch. Cá nhân ta cảm thấy đi, Thẩm giáo sư kỳ thật phi thường quan tâm diệp tử tỷ BSD đầu đề hạng mục, hắn sở dĩ tận lực né tránh BSD phỏng đoán, đúng không muốn cho cái bóng của hắn quá nhiều xuất hiện tại diệp tử tỷ trên thân. Vợ chồng bọn họ ở giữa sự tình, chúng ta cũng đừng đoán mò. Fields thưởng thiết lập 40 tuổi hạn mức cao nhất, trừ phi xuất hiện lần nữa Andrew - Wales quá tuổi lấy được thưởng tình huống đặc biệt, nếu không diệp tử tỷ chỉ còn hai lần cơ hội xung kích Fields thưởng, nàng trên miệng không nói cái gì, nhưng trong lòng thì đối Fields thưởng đặc biệt khát vọng."
+
+	Triệu Thiên có vẻ như ngộ ra được cái gì khó lường đồ vật: "Fields thưởng giám khảo có sự không chắc chắn, Thẩm giáo sư có thể là tại bố cục đi, hắn để Chu lão sư cũng tham gia BSD phỏng đoán hạng mục, là làm song bảo hiểm? Một khi BSD phỏng đoán bị chúng ta đã chứng minh, diệp tử tỷ, Chu lão sư dắt tay xung kích Fields thưởng, đó chính là bảo đảm một hồi hai."
+
+	Tiểu Vân không dám gật bừa: "Căn cứ Fields thưởng giám khảo lệ cũ, cùng một cái phỏng đoán nếu như bị nhiều người chứng minh, cũng chỉ có một người có thể thu được Fields thưởng. Tỉ như nói Fermat đại định lý nhưng thật ra là Andrew - Wales cùng Richard - Taylor đôi này học thuật đồng bạn cùng một chỗ chứng minh, Fields thưởng cuối cùng ban Andrew - Wales, mà Richard - Taylor muốn thu hoạch được Fields thưởng, chỉ có thể dựa vào mới hạng mục, mới thành quả nghiên cứu đi tranh thủ."
+
+	Triệu Thiên sắc mặt biến lơ lửng không cố định: "Nói như vậy, Chu lão sư không nên tham gia chúng ta BSD đầu đề a, vạn nhất hắn đem diệp tử tỷ Fields thưởng cướp đi làm thế nào?"
+
+	"Nếu như Chu lão sư là đạt được Thẩm giáo sư thụ ý tham gia diệp tử tỷ BSD phỏng đoán hạng mục, như vậy ta cảm thấy, rất có thể Chu lão sư mới là Thẩm giáo sư chân ái." Tiểu Vân bỗng nhiên hưng phấn, nàng cảm thấy mình suy đoán không nhất định không đáng tin cậy, Chu lão sư có xe có phòng có địa vị có thân phận, hắn ba mươi mấy tuổi còn không kết hôn, đây là vì cái gì đây?
+
+	"Chân ái cái quỷ, các ngươi những nữ sinh này chơi gay văn đã thấy nhiều a? Chu lão sư làm sao có thể là gay? Coi như Chu lão sư là gay, chính trực Thẩm giáo sư cũng tuyệt không có khả năng là gay, quốc gia cùng nhân dân không cho phép hắn là gay. Đến giờ cơm, Tằng Hàn ngươi trông coi, ta cùng Tiểu Vân ra ngoài ăn cơm, đánh với ngươi cái bọc về tới." Triệu Thiên lôi kéo Tiểu Vân rời đi trung tâm đi bên ngoài ăn cơm.
+
+	Thời tiết càng ngày càng nóng bức, nóng không bình thường.
+
+	Thủ đô liên tục mấy ngày nhiệt độ cao nhất độ đạt tới 40 độ C, Triệu Thiên, Tiểu Vân, Tằng Hàn ba người không có ra ngoài ăn cơm dục vọng, bọn hắn ba bữa cơm gọi thức ăn ngoài, ngoại trừ đi ngủ, ba người thời gian khác đều ngâm mình ở Thẩm Kỳ nghiên cứu khoa học trung tâm máy tính trong phòng.
+
+	Máy tính liên tục không ngừng vận chuyển, phối hợp với điều hoà không khí gió ông ông tác hưởng.
+
+	BSD phỏng đoán chứng minh phương án lên máy bay thử lại phép tính tiến vào mấu chốt tiết điểm, Chu Vũ An ngẫu nhiên đến máy tính phòng hỏi một chút tình huống, mà Thẩm Kỳ nghiên cứu khoa học trung tâm chủ nhiệm Thẩm Kỳ, cùng hạng mục này học thuật người dẫn đầu Âu Diệp chưa từng tới bao giờ máy tính phòng.
+
+	Âu Diệp không đến máy tính phòng là bởi vì nàng tại nằm viện, lòng của nàng lo lắng lấy máy tính thử lại phép tính kết quả, nàng mỗi ngày đều sẽ tại trên điện thoại di động cùng ba vị học sinh giao lưu.
+
+	Thẩm Kỳ không đến máy tính phòng, là bởi vì hắn đoạn thời gian gần nhất trúng liền tâm đều chưa từng tới. Thẩm viện sĩ biệt thự, Yến đại nhân dân bệnh viện, nhà trẻ, đây là Thẩm Kỳ gần đây ẩn hiện địa điểm.
+
+	Thủ đô ngoài trời nhiệt độ cao nhất lịch sử tính đến 41 độ C, đây là dự báo thời tiết cho ra số liệu, đài khí tượng phát ra màu đỏ nhiệt độ cao dự cảnh, nhắc nhở rộng rãi thị dân chú ý hạ nhiệt độ.
+
+	Thẩm Kỳ nghiên cứu khoa học trung tâm vật lý đoàn đội trắc định bên ngoài nhiệt độ cao nhất là 44 độ C, cái này mẹ nó thế nhưng là phương bắc a, 44 độ là khái niệm gì? Nóng thành chó, chó đều nóng đến chết rồi.
+
+	Tại loại này khác thường nóng chó chết thời gian bên trong, thức ăn ngoài tiểu ca đưa một cái tờ đơn, ít nhất phải nhiều hơn 15 khối tiền.
+
+	Triệu Thiên, Tiểu Vân, Tằng Hàn ba đầu toán học chó liên hạ lâu lấy thức ăn ngoài công phu đều bớt đi, máy tính trong phòng chất đầy các loại thực phẩm, rộng mở thực phẩm túi hàng tản mát ra phức tạp mùi, các loại bảng hiệu nhanh tan cà phê lấy mỗi giờ tiêu hao một bao tốc độ cấp tốc giảm bớt.
+
+	Ngày này buổi trưa, nắng gắt như lửa bầu trời bỗng nhiên mây đen dày đặc, hơn năm mét rộng thiểm điện không ngừng đổi mới, tùy theo mà đến là cuồn cuộn tiếng sấm.
+
+	Sấm sét vang dội, mưa to trút xuống, như địa ngục gian nan nóng bức một tuần cuối cùng kết thúc.
+
+	Hạt mưa ba ba đập nện máy tính phòng pha lê, liên tục công tác một tuần lễ máy tính cuối cùng cấp ra kết quả tính toán.
+
+	"Đây là..." Triệu Thiên, Tiểu Vân, Tằng Hàn ba người trừng lớn mắt nhìn chằm chằm màn hình, tâm tình kích động, nhưng lại nghi hoặc. 

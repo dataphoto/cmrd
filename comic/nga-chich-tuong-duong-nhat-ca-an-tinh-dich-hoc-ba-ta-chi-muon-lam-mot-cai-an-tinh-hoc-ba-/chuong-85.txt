@@ -1,0 +1,131 @@
+ Chương 85: Bồi dưỡng động thủ năng lực
+
+	Mục Dung khêu nhẹ ngón tay lay động âm thoa.
+
+	Cắm ở nền móng bên trên Y chữ hình âm thoa có tiết tấu rung động.
+
+	Ong ong ~ ong ong ong ~
+
+	Mục Dung dựng thẳng lên một chỉ dán tại bên môi làm ra im lặng thủ thế, ra hiệu Thẩm Kỳ không cần nói, sóng âm máy hiển thị ngay tại ghi chép chung quanh sóng âm biến hóa.
+
+	Thẩm Kỳ tai nghe âm thoa run run tiếng ông ông, nhìn sóng âm máy hiển thị màn hình, một tổ liên tục gợn sóng hình hình ảnh xuất hiện tại trong màn hình, có chu kỳ tính.
+
+	Rất nhanh, âm thoa thí nghiệm kết thúc.
+
+	"Thẩm Kỳ, ngươi nghe được cái gì?" Mục Dung hỏi.
+
+	Thẩm Kỳ trả lời: "Ta nghe được f(t)."
+
+	"Bất luận cái gì luật âm, cũng chính là có chu kỳ tính thanh âm đều có thể dùng sóng hài thích hợp tổ hợp biểu thị, như vậy f(t) hệ số là cái gì?" Mục Dung lại hỏi.
+
+	"Không biết." Thẩm Kỳ lắc đầu.
+
+	"Không biết?"
+
+	"Thật không biết, điều kiện không đủ."
+
+	"Kỳ thật Thẩm Kỳ ngươi mới vừa nói, ngươi nghe được không phải thanh âm, mà là f(t)."
+
+	"Ta đương nhiên biết f(t) Fourier đẳng cấp, nhưng cầu f(t) hệ số mà nói. . ." Thẩm Kỳ nhìn chằm chằm sóng âm máy hiển thị màn hình, ý đồ tìm ra điểm chỗ hữu dụng manh mối.
+
+	"Đừng nhìn màn hình, ngươi hiện giai đoạn trình độ có hạn, nhìn cũng vô dụng." Mục Dung thao tác và sóng âm máy hiển thị tương liên máy tính, máy đánh chữ, tút tút tút, máy đánh chữ bắt đầu in trang giấy.
+
+	"Sư tỷ, ngươi biết rõ ta trình độ có hạn, còn hỏi ta đáp không được vấn đề?" Thẩm Kỳ không phản bác được.
+
+	"Hỏi mới biết được nha." Mục Dung đương nhiên nói đến, cười trộm.
+
+	"Yến đại nữ tiến sĩ phong độ đâu, sư tỷ?"
+
+	"Phong độ nhẹ nhàng là hình dung nam tiến sĩ, hi vọng Thẩm Kỳ ngươi một ngày kia có thể trở thành dạng này nam thần." Mục Dung đem in ra bản vẽ trải rộng ra tại trên bàn thí nghiệm, "Thẩm Kỳ ngươi đối bản vẽ nhìn nhìn lại."
+
+	In ra hình sóng đồ bên trên có rõ ràng tọa độ khắc độ, Thẩm Kỳ giây hiểu: "a0 cái hệ này số không phải liền là dao động, cũng chính là 0. 001? Sinωt bên trong ω không phải liền là tần suất, tức 7 2000? f(t) tìm cái tích phân lại chia cho cái T liền làm xong nha."
+
+	"Cho nên Thẩm Kỳ ngươi vẫn là tại bản năng dùng toán học tư duy đối mặt vật lý vấn đề, đương nhiên, vật lý không thể rời đi toán học, nhưng ngươi minh bạch ta muốn nói cái gì sao?" Mục Dung chỉnh ngay ngắn thần, hỏi.
+
+	"Mục lão sư ngươi muốn nói là Sol trưởng gợn sóng? Vì cái gì gọi Sol trưởng gợn sóng đâu? Gợn sóng ta có thể lý giải, âm thoa run run cùng phụ cận không khí phần tử va chạm sinh ra kết tụ lại, tại những này không khí phần tử lúc trước vị trí bên trên lại tạo thành một cái khác mỏng manh không gian, cũng chính là thưa thớt."
+
+	"Cho nên chúng ta lỗ tai tiếp thu được chính là không khí phần tử kết tụ lại cùng thưa thớt, quá trình này bị dụng cụ lộ ra ngoài chính là một tổ gợn sóng đồ hình, chúng ta có thể căn cứ Fourier đẳng cấp triển khai f(t), dùng toán học vật lý mô hình định tính định lượng giải thích thanh âm bản chất cùng ảo diệu, thậm chí có thể lợi dụng nó chế tạo khác biệt tần suất sóng âm vũ khí. Nhưng ta còn là không hiểu rõ lắm, Sol trưởng tại cái này thí nghiệm bên trong đóng vai cái gì nhân vật?" Thẩm Kỳ đối đáp trôi chảy lại như cũ có nghi hoặc.
+
+	Mục Dung không trả lời mà hỏi lại: "Ngươi bình thường không thế nào nghe âm nhạc a?"
+
+	Thẩm Kỳ: "Ai nói, ta đặc biệt yêu thích âm nhạc, Đức Hoa, Học Hữu, Dịch Tấn, Kiệt Luân ca ta thường xuyên nghe."
+
+	Mục Dung im lặng cười một tiếng: "Nghe qua Drdla sao?"
+
+	Thẩm Kỳ lắc đầu: "Nghe qua Dedema."
+
+	"Ravel đâu?"
+
+	"Ta càng ưa thích Tengger."
+
+	"Sư đệ, ngươi khoảng cách phong độ nhẹ nhàng nam thần còn rất dài một đoạn đường muốn đi, sẽ chỉ đọc sách làm bài xoát thi đua quán quân không thể được nha. Ngươi nhìn cái này phòng thí nghiệm treo trên tường nhà vật lý học đều là trung lão niên đại thúc hình tượng, nhưng bọn hắn lúc tuổi còn trẻ có thể đẹp trai, từng cái đều là lại thông minh lại văn nghệ nam thần."
+
+	Mục Dung gỡ xuống mắt kiếng không gọng a khẩu khí, lau lau thấu kính lại mang trở về: "Đô trưởng quá mức trung dung bình ổn thậm chí trắng xám, Fa trưởng là mang nước mắt mỉm cười, chỉ có Sol trưởng tràn ngập sức sống, khiến người vô cùng hưng phấn.
+
+	Ngươi không cảm thấy vật lý học cùng Sol trưởng nhất tương tự sao?"
+
+	"Không cảm thấy." Thẩm Kỳ lắc đầu, hắn cũng không có cảm thấy Đô trưởng trắng xám bất lực, Fa trưởng cười bên trong mang nước mắt, A, B, C, D, E, F, Sol trưởng tại hắn nghe tới đều là một chuyện.
+
+	"Tốt a, làm ta không nói." Mục Dung thở dài, vật lý học nữ tiến sĩ thế mà còn có mấy phần văn nghệ tâm.
+
+	"Cái này thí nghiệm ngươi hiểu rõ không có? Về sau có thể muốn thao tác thực." Mục Dung hỏi, sau đó từ nền móng bên trên rút ra âm thoa.
+
+	Thẩm Kỳ tiếp nhận âm thoa, tại nền móng bên trên chơi đùa: "Cơ bản đã hiểu, đến, ta hiện tại liền thao tác thực một lần, Mục lão sư ngươi chỉ đạo ta à. . . Mục lão sư, cái đồ chơi này hướng chỗ nào cắm nha, làm sao không chen vào lọt đâu?"
+
+	"Thẩm Kỳ ngươi làm sao nơi đó đần! Thao tác thực động thủ năng lực làm sao yếu như vậy! Hướng nhỏ trong máng cắm a có thể hay không?"
+
+	"Đừng có dùng man lực, có cái chốt mở, thí nghiệm thiết bị nếu là làm hư Thẩm Kỳ ngươi bồi a ta nói cho ngươi. Ta gần nhất nghèo kiệt xác, ô tô làm bảo dưỡng tiền đều không có, đừng cho ta làm phá hư."
+
+	"Không có tiền làm bảo dưỡng cũng đừng lái xe, an toàn đệ nhất."
+
+	". . ."
+
+	Tại Mục Dung chỉ đạo dưới, Thẩm Kỳ một lần lại một lần luyện tập cái này sóng âm thí nghiệm, hắn thao tác thực năng lực xác thực khiếm khuyết, một năm qua này không đều đang làm lý luận nghiên cứu a, không chút làm qua thí nghiệm.
+
+	Âm thoa đúng chỗ, bắt đầu thí nghiệm sau thầy trò hai người không nói nữa, Nhân loại ở giữa đối thoại sẽ ảnh hưởng sóng âm ghi chép kết quả.
+
+	Thẩm Kỳ không cần đi lầu dạy học lên lớp, hắn có thể cả ngày ngâm mình ở phòng thí nghiệm.
+
+	Đội thi vật lý đội viên khác ở dưới buổi trưa đến phòng thí nghiệm, bọn hắn vừa đến, Thẩm Kỳ liền đi.
+
+	Mục Dung mặt hướng toàn thể đội viên giảng CPhO lý luận đề mục Thẩm Kỳ không thích nghe, hắn mạnh chính là lý luận, chính mình trở về xoát mô phỏng đề là được rồi.
+
+	Mục Dung dù sao muốn chiếu cố đại đa số đội viên, nàng cùng Thẩm Kỳ đơn độc ở chung lúc lại giảng càng thâm nhập vật lý lý luận, mặt hướng toàn thể đội viên lấy thông thường sáo lộ làm chủ.
+
+	Thẩm Kỳ hướng Mục Dung lĩnh giáo mục đích chủ yếu là phát triển tri thức mặt, CPhO là bổ sung khâu.
+
+	Mỗi tháng luôn có vài ngày như vậy, Thẩm Kỳ sẽ trở lại lớp mười hai (2) ban tuần sát một phen.
+
+	Cổ Tiểu Đan cùng Trần Hiểu Đình đặc biệt cảm kích Thẩm Kỳ, hai người bọn họ nghiên tập xong Thẩm Kỳ toán học tâm đắc về sau, toán học thành tích tại trong vòng mấy tháng lấy được khá lớn tiến bộ, cũng có thể bảo trì ổn định.
+
+	Cổ Tiểu Đan lời thề son sắt mà nói, tương lai hai ba tháng nhất định phải cố gắng gấp bội, thi đại học ghi danh thủ đô đại học, Yến đại, thủy mộc không trông cậy vào, nhìn có hay không hi vọng thi đậu bắc khoa học công nghệ, bắc hóa chất.
+
+	"Ta Cổ Tiểu Đan đời này ai cũng không phục, liền phục Thẩm Kỳ đại lão. Ta thi thủ đô đại học không vì cái gì khác, chỉ để lại đại lão đi theo làm tùy tùng ra sức trâu ngựa. Làm người, trọng yếu nhất chính là cảm ân." Cổ Tiểu Đan vỗ bộ ngực nói đến.
+
+	"Phản đồ, sợ hàng!" Trần Hiểu Đình đối Cổ Tiểu Đan còn canh cánh trong lòng, thân thể có chút run run.
+
+	"Trần Hiểu Đình, ngươi có thể nói ta sợ, nhưng tuyệt không thể hoài nghi ta đối Thẩm Kỳ đại lão trung tâm!" Cổ Tiểu Đan vỗ bàn đứng dậy, tức giận phi thường.
+
+	Trần Hiểu Đình cũng đứng lên, không hề nhượng bộ chút nào: "Phản đồ, sợ hàng, không có nguyên tắc!"
+
+	Trần Hiểu Đình đã dài đến 1m75, ngực là bình một chút thắng ở chân dài.
+
+	Cổ Tiểu Đan mới 1m64, khí thế bên trên hơi thua mấy phần: "Được rồi, hảo nam không cùng nữ đấu."
+
+	"Cổ Tiểu Đan ngươi câm miệng cho ta, thi đậu bắc khoa học công nghệ, bắc hóa chất rồi nói sau, trước đừng thổi ngưu bức." Thẩm Kỳ quát lớn Cổ Tiểu Đan, xong việc hỏi Trần Hiểu Đình: "Ngươi đâu, thi chỗ nào?"
+
+	"Ta. . ." Trần Hiểu Đình do do dự dự, muốn nói lại thôi, cuối cùng nói đến: "Ta còn chưa nghĩ ra."
+
+	"Hiểu Đình, ngươi không phải có năng khiếu sao, biết đánh đàn vẫn là kéo đàn? Ta nhớ được năm ngoái lúc này, ta đi nói xem phim, AA, ngươi nói không có thời gian muốn luyện đàn, sau đó chúng ta đi cửa trường học ăn thức ăn nhanh, ngươi trả hóa đơn." Thẩm Kỳ hỏi.
+
+	"Đúng a, ngươi dùng số ảo căn số thực căn, nhóm giao hoán cái gì, để người ta nhân viên cửa hàng đều nhanh bức điên rồi." Trần Hiểu Đình nhớ tới chuyện này liền không nhịn được bật cười.
+
+	Thời gian thấm thoắt, hồi tưởng chuyện cũ, Thẩm Kỳ cũng nhịn không được: "Đây không phải trọng điểm, ta liền hỏi ngươi, ngươi luyện là cái gì đàn?"
+
+	"Đàn violon."
+
+	"Vậy ngươi thi đại học có thể thêm điểm a?"
+
+	"Không thể." Trần Hiểu Đình lắc đầu, giải thích đến: "Nghệ thuật năng khiếu đã không cho thêm điểm, thi đại học thêm điểm hạng mục là cấp tỉnh ưu tú học sinh, học sinh ba tốt, ngành học thi đua quốc quyết ba hạng đầu, phương diện thể dục lấy được thành tích hẳn là cũng có thể thêm điểm, còn có chính là liệt sĩ con cái, dân tộc thiểu số. . . Ta nhớ được cứ như vậy mấy đầu thêm điểm hạng. Nói như vậy, Thẩm Kỳ nếu như ngươi tham gia thi đại học, cũng là có thể thêm điểm."
+
+	"Thẩm Kỳ đại lão còn cần đến thêm điểm? Hắn thi thử nhanh 740, lại thêm cái mười mấy hai mươi điểm, ngọa tào, 750 đều tràn ra!" Cổ Tiểu Đan nhịn không được quay đầu nói đến, tỉ mỉ nghĩ lại, cái này mẹ nó rất không công bằng a, thành tích tốt học bá ngược lại có thể thêm điểm, Thẩm Kỳ căn bản cũng không cần thêm điểm, lãng phí a không bằng cho ta. 

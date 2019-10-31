@@ -1,0 +1,111 @@
+ Chương 164: Ổn 
+
+	"Vì cái gì? Thẩm Kỳ, mời nói ra ngươi cụ thể quan điểm." Mã lão sư chất vấn đến.
+
+	Thẩm Kỳ nói năng có khí phách đáp trả: "Tại vấn đề này bên trong, mặc kệ mục tiêu hàm số hai lần mô hình tại xk điểm như thế nào cục bộ tuyến tính hóa tới gần, ta đều có thể coi là thế hàm số tăng rộng hai lần hàm số hình thức!"
+
+	Mã lão sư từ chối cho ý kiến, lại hỏi: "Ngươi giải thích một chút thế hàm số Φ(x) định nghĩa cho ra."
+
+	Mã lão sư không còn xoắn xuýt phép tính Logic vấn đề, Thẩm Kỳ hoàn toàn yên tâm, cái này hố xem như nhảy qua đi.
+
+	Cho nên khí thế rất trọng yếu, Thẩm Kỳ càng chiến càng mạnh: "Φ(x) tại X bên trên liên tục khả vi, ta tại luận văn bên trong có cái chứng minh, liền không lắm lời, cái này chứng minh kết luận tại thứ 6 trang, A(x) cùng (x) thỏa mãn thức 7 góc đối trận, như vậy Φ mỗi cái ổn định điểm thỏa mãn H(x)=0."
+
+	Mã lão sư tam liên hỏi: "Cái này cùng ▽G(x)▽F(x) là một cái tuyến tính đại số bên trong định nghĩa 0- ma trận phải chăng mâu thuẫn?"
+
+	"Không, cũng không mâu thuẫn." Thẩm Kỳ lập tức đáp lại, kiên quyết quả quyết: "Làm Gi(x)= Fi(x)=0 lúc, đối với A II(x), II(x) không có đặc biệt lấy giá trị ε1, ξ1, tại tình huống thực tế bên trong, tính toán cái này ma trận sẽ không khiến cho vấn đề gì."
+
+	Mã lão sư trầm mặc mấy giây về sau không tái phát hỏi, hắn cùng Long chủ nhiệm nói: "Long chủ nhiệm, ta bổ sung vấn đề hỏi xong."
+
+	"Được rồi." Long chủ nhiệm gật gật đầu, hỏi Hùng lão sư: "Ngươi đâu, Hùng lão sư, có bổ sung vấn đề sao?"
+
+	"Ta chỉ có một vấn đề." Hùng lão sư nhìn về phía Thẩm Kỳ, nói đến: "Thẩm Kỳ, ngươi bản này luận văn, ta là hai mươi ngày trước đó cầm tới tay, tổng thể tới nói viết không sai, phù hợp một vị ngành toán học khoa chính quy tốt nghiệp học thuật tiêu chuẩn. Đương nhiên, đây chỉ là ta cái nhìn cá nhân, cuối cùng quyết cắt cần chủ bảo vệ lão sư cho ra, cùng viện phương nhân viên nhà trường phê chuẩn."
+
+	"Ta vấn đề này chính là, Thẩm Kỳ ngươi viết bản này luận văn, giá trị triển vọng là cái gì? Đúng, không sai, ngươi tại luận văn bên trong viết, chính ngươi cũng khẩu thuật, căn cứ vào kinh điển nghĩa rộng bổ sung vấn đề, ngươi đưa ra một loại mới phép tính. Như vậy, mới phép tính giá trị thể hiện tại chỗ nào?" Hùng lão sư nói không nhanh, hắn chậm rãi nói đến.
+
+	"Cái này. . ." Thẩm Kỳ vừa mới trướng đi lên sĩ khí, lập tức ngắn ba phần.
+
+	Hùng lão sư vấn đề này hỏi diệu a.
+
+	Đúng vậy a, ta bản này toán học luận văn chân chính giá trị đến cùng là cái gì? Hoặc là nói có gì thực tế công dụng.
+
+	Kỳ thật vấn đề này bối rối Thẩm Kỳ rất lâu.
+
+	Lệch ứng dụng ngành học luận văn, tại luận văn bên trong sẽ viết rõ cái này nghiên cứu đầu đề giải quyết cái gì vấn đề thực tế,
+
+	Mang đến nào thực tế ích lợi, vì quốc gia vì nhân dân sáng tạo ra như thế nào khoa học kỹ thuật phúc lợi.
+
+	Là trị bệnh cứu người, vẫn là phát minh một loại kiểu mới tài liệu, lại hoặc là tăng lên một loại nào đó công nghệ hiệu suất sinh sản, mọi việc như thế, nhìn gặp sờ, thành quả rõ rệt, công dụng thực sự.
+
+	Mà toán học luận văn, đặc biệt là lệch cơ sở lý luận toán học luận văn, bọn chúng tại chân thực trong xã hội giá trị là cái gì, thực tế công dụng như thế nào mở rộng?
+
+	Thẩm Kỳ cũng nói không rõ lắm.
+
+	Hắn có một loại ý thức, chính là thuần lý luận toán học nghiên cứu đến cực hạn, tất nhiên uy lực vô tận, ảnh hưởng sâu xa, thậm chí cải biến Nhân loại văn minh tiến trình.
+
+	Nhưng là, không có nghiên cứu đến đăng phong tạo cực trước đó, thuần lý luận cơ sở toán học tại dân gian có cái gì giá trị cùng ý nghĩa, Thẩm Kỳ một mực tại suy nghĩ.
+
+	"Toán học chính là như vậy, tinh xảo lại không quá thực dụng." Thẩm Kỳ cũng không biết nên như thế nào cụ thể trả lời Hùng lão sư giá trị vấn đề, chỉ có thể ăn ngay nói thật.
+
+	"Nhưng mà, chúng ta vẫn như cũ trầm mê trong đó không cách nào tự kềm chế." Thẩm Kỳ bổ sung một câu, bất đắc dĩ nhưng lại tràn ngập tín niệm.
+
+	"Toán học chính là như vậy, tinh xảo lại không quá thực dụng."
+
+	Long chủ nhiệm, Mã lão sư, Hùng lão sư ba người lặp lại Thẩm Kỳ câu nói này, ba người trăm miệng một lời: "Sâu sắc."
+
+	Ba vị lão sư xử lí toán học nghiên cứu cả một đời, đều là ngành nghề bên trong chuyên gia, nghiên cứu đến bọn hắn giai đoạn này, làm người càng ngày càng tịch mịch, có thể kề đầu gối nói chuyện lâu người trong đồng đạo càng ngày càng thưa thớt.
+
+	Toán học chính là như vậy, càng cao cấp hơn càng tinh xảo hơn, càng tinh xảo hơn càng khó bị lý giải cùng thưởng thức.
+
+	"Nhưng chúng ta vẫn như cũ trầm mê trong đó không cách nào tự kềm chế." Long chủ nhiệm phi thường có cảm xúc nói đến, "Đặt câu hỏi cùng bảo vệ khâu dừng ở đây, phía dưới tiến hành tổng kết."
+
+	Chân ướt chân ráo vấn đề hỏi xong, tổng kết khâu chính là chương trình hóa đi cái đi ngang qua sân khấu.
+
+	Cuối cùng, Thẩm Kỳ cúi đầu gửi tới lời cảm ơn, rời đi hội biện luận hiện trường.
+
+	Sau đó chính là chờ đợi.
+
+	Đối với Thẩm Kỳ trận này học vị họp bảo vệ luận văn, bảo vệ tổ sắp xuất hiện một phần cho điểm ý kiến, nếu như bảo vệ tổ cũng không cho Thẩm Kỳ thông qua, vậy cũng không cần lên trên báo.
+
+	Như bảo vệ tổ đề cử Thẩm Kỳ thu hoạch được ngành toán học khoa chính quy học vị, thì đem đề cử biểu (*đồng hồ) đưa ra cho lên một cấp bộ môn, phía trên bộ môn xét duyệt phê chuẩn về sau, phát xuống Yến đại toán học khoa chính quy học vị giấy chứng nhận.
+
+	Thẩm Kỳ đương nhiên muốn một bước đúng chỗ, nhưng phía sau xét duyệt quá trình hắn không cách nào tham gia.
+
+	Thế là Thẩm Kỳ mỗi ngày hướng Tôn Nhị Hùng chạy chỗ đó: "Tôn giáo sư, ta luận văn đáp biện giám khảo biểu (*đồng hồ) đến đâu cái bộ môn rồi?"
+
+	"Ta làm sao biết? Ta lại không tiến vào bảo vệ tổ."
+
+	"Tôn giáo sư ngươi hỗ trợ hỏi thăm một chút nha."
+
+	"Còn không có ra viện toán học, ngay tại trong nội viện xét duyệt."
+
+	"A, tạ ơn."
+
+	Thẩm Kỳ trong lòng chứa sự tình, mất ăn mất ngủ, chạy bộ cũng chạy không nổi rồi. Chờ đợi là một loại dày vò.
+
+	Đại nhất học kỳ sau đi qua một nửa, ngành toán học chương trình học so với đại nhất bên trên có tăng không giảm.
+
+	Cao đại, giải tích vẫn còn tiếp tục bên trên, giải cơ rời khỏi sân khấu, xác suất luận hoá trang lên sân khấu.
+
+	Đại học tiếng Anh được mấy cái học kỳ, cùng một chút công cộng khóa.
+
+	Đại học vật lý cũng ra sân, ngành toán học học sinh phải học môn học này.
+
+	Thẩm Kỳ cũng không biết lần này luận văn đáp biện có thể hay không thuận lợi thông qua, nếu như qua không được, cái kia còn phải tiếp tục lên lớp, tham gia thi cuối kỳ, đi thông thường sáo lộ.
+
+	Tiếng Anh cấp bốn cũng phải ý tứ một chút, khoa chính quy tốt nghiệp sẽ cầm tới hai quyển giấy chứng nhận, một bản học vị giấy chứng nhận, một bản bằng tốt nghiệp.
+
+	Học vị giấy chứng nhận thông thường thu hoạch đường tắt là bốn năm đại học xây xong toàn bộ học phần, xe tốc hành đạo là Thẩm Kỳ loại này, sớm tham gia học vị luận văn đáp biện. Cầm tới bằng tốt nghiệp, tiếng Anh cấp bốn qua được.
+
+	Đảo mắt đến 4 dưới ánh trăng tuần, một tiết cao đại khóa kết thúc về sau, Tôn Nhị Hùng nói với Thẩm Kỳ: "Ngươi bây giờ đi chụp ảnh quán đập đăng ký chiếu, lam sắc bối cảnh, tiểu nhị tấc."
+
+	Vừa nghe đến câu nói này, Thẩm Kỳ kích động nhảy dựng lên: "Chờ rất lâu cuối cùng đợi đến hôm nay!"
+
+	"Đăng ký chiếu,  có." Thẩm Kỳ từ trong túi lấy ra một nhỏ túi nhựa, đưa cho Tôn Nhị Hùng: "Đây là ta nền lam hai tấc đăng ký chiếu, 6 tấm, mở trường vị giấy chứng nhận hẳn là đủ rồi."
+
+	"Tiểu tử ngươi tùy thân mang theo đăng ký chiếu đâu." Tôn Nhị Hùng tiếp nhận Thẩm Kỳ đăng ký chiếu, nói đến.
+
+	"Tôn giáo sư, ta cái này giấy chứng nhận lúc nào có thể phát hạ đến?" Thẩm Kỳ đầy cõi lòng mong đợi hỏi, cách nhỏ mục tiêu lại tới gần một bước.
+
+	"Nhanh thì ngày mồng một tháng năm trước đó, chậm thì tháng năm bên trong, dù sao học kỳ này kết thúc trước khẳng định cho ngươi, chờ xem, gấp cái gì?" Tôn Nhị Hùng quay người rời đi, đi ra mấy bước quay đầu nói đến: "Thẩm Kỳ, ngươi khoa chính quy học vị giấy chứng nhận hẳn là ổn, phát đến trên tay ngươi chỉ là vấn đề thời gian mà thôi, tiếp xuống ngươi muốn hoạch định một chút đến tiếp sau phát triển, tại toán học lĩnh vực ngươi dù sao cũng phải có cái chủ công phương hướng, độc nghiên độc bác là muốn chọn phương hướng."
+
+	. . . 

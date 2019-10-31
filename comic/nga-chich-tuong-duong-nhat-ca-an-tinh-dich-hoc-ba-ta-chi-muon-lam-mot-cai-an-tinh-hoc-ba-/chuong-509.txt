@@ -1,0 +1,107 @@
+ 509 chương dinh dưỡng theo không kịp
+
+	 
+
+	Bị Thẩm Kỳ điểm danh viện toán học nam sinh lên đài, tiểu hỏa tử đã tính trước cầm lấy phấn viết, xoát xoát xoát múa bút thành văn.
+
+	Nam sinh sử dụng trung học đại số tri thức sáng lập một hệ liệt có quy luật tính đẳng thức:
+
+	(1-x)(1+x)=1-x^2
+
+	(1-x)(1+x+x^2)=1-x^3
+
+	(1-x)(1+x+x^2+x^3)=1-x^4
+
+	Nam sinh đem dấu móc mở ra theo thứ tự triển khai, chính phụ x 1 thứ phương, 2 thứ phương, 3 lần phương triệt tiêu lẫn nhau.
+
+	Về sau là một đợt nước chảy mây trôi thao tác, nam sinh đạt được đẳng thức: 1+2x+3x^2+4x^3+... =1 ╱ (1-x)^2
+
+	 « số luận sử » bên trong ghi chép, Euler lúc ấy lấy bên trên thức bên trong x=-1, đạt được 1-2+3-4+5-6+... =1 ╱ 4
+
+	Mặc dù con số giá trị tuyệt đối không ngừng biến lớn, nhưng bởi vì sai số hơn hoặc kém tồn tại mà triệt tiêu lẫn nhau, cho nên đạt được1 ╱ 4.
+
+	Đây là điều kiện thu liễm pháp, viện toán học nam sinh chính là làm như vậy, hắn tiếp tục đem số chẵn vị tổng cộng mở rộng đến 2 lần, lại đem đẳng thức hai bên đều chia cho -3, cuối cùng suy luận ra 1+2+3+4+5+... =-1 ╱ 12.
+
+	"Tạ ơn vị bạn học này." Thẩm Kỳ hài lòng nam sinh đáp án, ngược lại mặt hướng toàn thể đồng học hỏi: "Euler dùng vô tận nhiều số tự nhiên tăng theo cấp số cộng, đạt được một cái số âm, hắn đến tột cùng nghĩ biểu đạt cái gì?"
+
+	Có đồng học nói đến: "Cái gọi là vô cùng lớn, chính là không biết là chính vẫn là phụ."
+
+	"oK, trả lời chính xác. Euler ban sơ giao phó vô cùng lớn ý nghĩa, đối ngay lúc đó toán học ý nghĩa không lớn, nhưng đối hơn 200 năm sau toán học cùng vật lý ý nghĩa trọng đại." Thẩm Kỳ tại trên bảng đen viết ra mấy cái đơn giản tư thế.
+
+	Thẩm Kỳ đem -1 ╱ 12 cái này Euler công thức thay vào Quang Tử năng lượng công thức bên trong, thế là Quang Tử năng lượng =2-(D-1) ╱ 12
+
+	Lệnh D=25
+
+	Thì 2-(25-1) ╱ 12=0
+
+	"D chính là chiều không gian, cho nên làm cho người khiếp sợ kết quả sinh ra, căn cứ vào 18 thế kỷ Euler công thức, chúng ta phát hiện, tại 25 duy không gian bên trong, Quang Tử chất lượng là 0!" Thẩm Kỳ giảng bài tư duy tính chất nhảy nhót rất mạnh, lập tức từ 18 thế kỷ xuyên qua đến thế kỷ 20.
+
+	"Như thế xâu?"
+
+	"Ta dinh dưỡng theo không kịp, ta uống chút dinh dưỡng nhanh tuyến."
+
+	Các bạn học nghe rất đã, nhưng mà không phải mỗi người đều có thể lập tức đuổi theo kịp Thẩm Kỳ trường học mạch suy nghĩ.
+
+	"Euler công thức cùng thế kỷ 20 nửa trước đoạn nói lên thuyết tương đối cũng không mâu thuẫn, cùng thế kỷ 20 nửa đoạn sau nói lên dây cung lý luận đồng dạng ăn khớp, phía dưới chúng ta tiến vào cao duy không gian bộ phận." Thẩm Kỳ giảng bài thiên mã hành không, hắn lấy một bộ tiểu thuyết dẫn xuất Euler công thức, để một vị đồng học dùng olympic toán học thi đua phương thức chứng minh Euler công thức, sau đó giao qua 25 duy không gian, thuyết tương đối hợp âm lý luận.
+
+	"Dây cung lý luận thích hợp với 25 duy trong vòng không gian, siêu huyền lý luận chỉ thích dùng cho 9 duy trong vòng không gian."
+
+	"Thay cái thuyết pháp đi, căn cứ siêu huyền lý luận quan điểm, chúng ta chỗ không gian không phải phổ thông không gian ba chiều, mà là siêu không gian."
+
+	"Tại siêu không gian bên trong, ngoại trừ phổ thông số lượng xác định tọa độ bên ngoài, vẫn tồn tại lấy Grassmann số biểu thị ngoài định mức chiều không gian."
+
+	"Tại i hình siêu huyền lý luận bên trong, nâng lên 32 duy xoay tròn tính đối xứng."
+
+	"Mà quy phạm lý thuyết trường quy định, tròn xoay tròn tính đối xứng chính là điện từ lực quy phạm tính đối xứng."
+
+	"Mặt khác, tại mở rộng điện từ lực quy phạm lý thuyết trường Yang-Mills phương trình lý luận bên trong, cao chiều không gian xoay tròn tính đối xứng chính là quy phạm tính đối xứng."
+
+	"Một khi siêu tính đối xứng tiên đoán hạt bị chúng ta phát hiện, liền sẽ mở ra nghiệm chứng siêu huyền lý luận mới con đường, cái này đem đổi mới Nhân loại đối không gian nhận biết."
+
+	"Có đồng học nâng lênLHC cùng Higgs kính con xúc xắc, ta muốn nói rõ một chút, Higgs kính con xúc xắc phát hiện, đã chứng minh điện từ lực cùng yếu lực ở giữa tính đối xứng sẽ phát sinh tự phát phá thiếu, nó là 'Thượng Đế hạt', nhưng chúng ta y nguyên cần so 'Thượng Đế' càng có sức thuyết phục chứng cứ."
+
+	...
+
+	Thẩm Kỳ càng giảng càng cao thâm, đây cũng không phải là cao đẳng đại số, mà là một môn dung hợp đại số, thuyết tương đối, cao chiều không gian vật lý tính tổng hợp chương trình học.
+
+	Các bạn học nguyên bản tại làm bút ký, giờ phút này bọn hắn cái gì cũng không làm, chính là ngồi nghe giảng bài.
+
+	Một vị tuổi trẻ giảng sư nhỏ giọng thầm thì: "Thẩm giáo sư cái này khóa giảng rất đã, chạm tới toán học cùng vật lý chung cực lý luận, nhưng mà sinh viên năm nhất có thể hoàn toàn nghe hiểu sao?"
+
+	"Sinh viên năm nhất nếu như có thể nghe hiểu, bọn hắn khoa chính quy sau khi tốt nghiệp liền có thể trực tiếp làm giáo sư." Bên cạnh một vị trợ giáo trong lòng tự nhủ, sinh viên năm nhất có thể nghe hiểu cái cọng lông a, cái này tiết khóa lượng tin tức quá lớn.
+
+	Nếu như muốn giải thích một cái chuyên nghiệp thuật ngữ, như vậy đem dính đến càng nhiều chuyên nghiệp thuật ngữ, cái này cần nghe giảng bài người có cực kỳ thâm hậu lý luận tri thức dự trữ.
+
+	Rất rõ ràng, cho dù là trong người đồng lứa siêu quần bạt tụy Yến đại khoa chính quy năm nhất học sinh, cũng rất khó dự trữ như vậy lượng lớn tri thức tin tức.
+
+	Thẩm Kỳ cũng mặc kệ các học sinh có thể hay không nghe hiểu, hắn liền theo phương thức của hắn giảng bài.
+
+	Các học sinh biểu lộ là kích thích cùng mộng bức cùng múa, si mê cùng si ngốc cùng bay.
+
+	Nghe sảng khoái, nhưng cụ thể là thoải mái tới chỗ nào, méo mó ở nơi nào, các học sinh cũng nói không rõ ràng.
+
+	Còn có 10 phút tan học, Thẩm Kỳ cưỡng ép kết thúc công việc, hắn tại thời khắc cuối cùng thi triển ra quang đồng dạng tốc độ tay, lấy vượt quá tưởng tượng tốc độ viết đầy tối sầm tấm ký hiệu.
+
+	Đầu năm nay đều là nhiều truyền thông trường học, các lão sư quen thuộc phát ra PPT giáo trình, "Gõ bảng đen" từng bước diễn biến thành một loại đại danh từ, đại biểu cho trọng điểm nội dung, trọng yếu điểm thi.
+
+	Thẩm Kỳ làm báo cáo làm diễn thuyết, cũng đều là PPT hình thức phát ra, duy chỉ có lên lớp, hắn thích truyền thống bảng đen hình thức.
+
+	Bảng đen hình thức có mấy cái chỗ tốt, một là có thể luyện chữ, thứ hai cho các bạn học nhất định suy nghĩ thời gian, lão sư viết bảng đen thời điểm, học sinh có thời gian tiêu hóa hấp thu tri thức.
+
+	Nhìn xem đầy bảng đen toán học ký hiệu, đại đa số học sinh vẫn như cũ là si mê + si ngốc trạng thái, không biết Thẩm giáo sư viết là cái gì, nói tóm lại cảm giác rất lợi hại dáng vẻ.
+
+	Vừa rồi vị kia lên đài làm chứng minh nam sinh vỗ bàn đứng dậy, hắn đặc biệt kích động: "Cái này. . . Đây là Riemann zeta hàm số!"
+
+	Thẩm Kỳ nhìn về phía nam sinh: "Nha a, ngươi rất mạnh a tiểu hỏa tử, đúng vậy, đây là Riemann zeta hàm số, cho nên?"
+
+	"Cho nên... Cho nên..." Vị này nam sinh biết thế nào mà không biết tại sao, lại vẫn là toàn giáo phòng thông minh nhất một vị học sinh.
+
+	"Cho nên chúng ta về tới cái này tiết khóa chủ đề --- toán học, lại thiên hoa loạn trụy đồ vật, cuối cùng cũng muốn dựa vào toán học để giải thích. Trên bảng đen viết nội dung, là dùng Riemann zeta hàm số để chứng minh số tự nhiên vô tận tăng theo cấp số cộng đến số âm Euler công thức, đem kết quả này thay vào Quang Tử năng lượng công thức, các ngươi sẽ phát hiện..."
+
+	"A, tan lớp, đây là ta để lại cho ngươi nhóm khóa sau làm việc, mời mọi người tại khóa sau suy nghĩ một cái cơ bản nhất toán học vấn đề, số nhiều s hàm số thực bộ so 1 lớn, sẽ suy luận ra kết quả như thế nào?" Thẩm Kỳ lấy Riemann zeta hàm số kết thúc cái này tiết cao đại khóa, cái này tiết khóa lượng tin tức xác thực rất lớn, nhưng không quan hệ, chỉ cần học sinh có thể nghe hiểu cuối cùng 5 phút đồng hồ là được rồi, cả tiết khóa tinh hoa chính là cuối cùng 5 phút đồng hồ.
+
+	Vạn nhất học sinh ngay cả cuối cùng 5 phút đồng hồ cũng nghe không hiểu vậy làm thế nào?
+
+	Vậy thì phải thỉnh giáo lão sư nha.
+
+	Sau khi tan học, các học sinh đem Thẩm Kỳ bao bọc vây quanh khiêm tốn thỉnh giáo. 

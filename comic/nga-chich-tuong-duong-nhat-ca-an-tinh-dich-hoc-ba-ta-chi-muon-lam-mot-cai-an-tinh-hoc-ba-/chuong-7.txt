@@ -1,0 +1,125 @@
+ Bảy chương ta liền nhìn xem, không nói lời nào
+
+	Làm một chủ nhiệm lớp, Trương Vạn Bang là nghi ngờ, đây là cái kia trầm mê trò chơi, bất học vô thuật học cặn bã Thẩm Kỳ sao?
+
+	Làm một số học lão sư, Trương Vạn Bang là mừng rỡ, bởi vì hắn học sinh đang cùng hắn nghiên cứu thảo luận Gloria cùng Weierstrass.
+
+	Lần này nghiên cứu thảo luận kéo dài ước chừng mười phút đồng hồ, trên cơ bản là Trương Vạn Bang đặt câu hỏi, Thẩm Kỳ trả lời.
+
+	"Chúng ta phổ biến cho rằng Gloria là ma trận luận sáng lập người, Gloria có cái suy luận là, hai cái ma trận tích số có thể vì số không, mà không cần trong đó có một cái là không, chỉ cần một trong số đó đúng không định. Thẩm Kỳ, ngươi cho rằng cái này suy luận có chính xác không?"
+
+	"Kỳ thật Gloria sai, cái này suy luận là sai lầm, hai cái ma trận đều phải đúng không định mới được. Ta chỉ biết là kết luận, Trương lão sư ngươi muốn ta cho ra chứng minh lời nói, trình độ của ta có hạn làm không được."
+
+	"Weierstrass sớm nhất đạt được bó A+λB tiêu chuẩn hình, Thẩm Kỳ ngươi như thế nào lý giải cái này bó tiêu chuẩn hình?"
+
+	"Nơi này A cùng B không nhất định là đối xứng, nhưng phục tùng A+λB giá trị tuyệt đối không giống hệt bằng không điều kiện."
+
+	"Không sai, như vậy nó định lý đảo đến từ Sylvester, từ Weierstrass tiến hành chứng minh, ta nhớ không lầm, chúng ta niên đại đó cao đại tài liệu giảng dạy liên quan tới cái này định lý đảo liền viết một câu, ngươi biết câu nói này sao?"
+
+	"Ta. . . Ta không biết a!"
+
+	"Cái này định lý đảo nói, như A+λB định thức cùng A' +λB' định thức sơ đẳng ước số nhất trí, thì có thể tìm tới một đôi tuyến tính biến hóa đồng thời đem A biến đến A', đem B biến đến B', Thẩm Kỳ ngươi như thế nào lý giải cái này định lý đảo?"
+
+	"Ta. . . Ta hiểu không được. . ."
+
+	"Cao đại đối với học sinh cấp ba tới nói xác thực quá trừu tượng, nhưng Thẩm Kỳ ngươi có thể tự học đến trình độ này, ta là mừng rỡ."
+
+	"Gloria hoặc là Weierstrass, ma trận đại số hoặc là các loại định thức, dăm ba câu khó mà cùng ngươi nói rõ." Trương Vạn Bang tiện tay rút ra một tấm A4 giấy trắng, viết xuống mấy hàng toán học ký hiệu, sau đó đem giấy trắng đưa cho Thẩm Kỳ: "Có thể làm nhiều ít làm nhiều ít, ngày mai lúc này, đến văn phòng tìm ta."
+
+	Thẩm Kỳ tiếp nhận giấy trắng, phát hiện phía trên viết năm đạo đề toán, xem ra Trương lão sư phải vào một bước khảo nghiệm chính mình.
+
+	"Tốt, Trương lão sư ngày mai gặp." Thẩm Kỳ cùng Trương Vạn Bang tạm biệt, rời đi phòng giáo sư làm việc.
+
+	Trở lại lớp mười một (2) ban phòng học, Thẩm Kỳ bắt đầu đánh hạ Trương Vạn Bang ra khảo đề.
+
+	Đề thứ nhất, chứng minh Cauchy–Schwarz bất đẳng thức: XXXXXX(một cái điện thoại di động không cách nào display toán học tư thế), cũng cho ra ngang bằng thành lập điều kiện.
+
+	Cái này đề không tính rất khó khăn,  « cao đẳng đại số » cấp độ nhập môn chứng minh đề, thi chính là bên trong tích không gian khái niệm.
+
+	Thẩm Kỳ rất nhanh hoàn thành chứng minh, tại trên tờ giấy trắng viết ra chứng minh quá trình.
+
+	Hệ thống: "Túc chủ giải đề thành công, ban thưởng 2 điểm học bá điểm tích lũy."
+
+	"Nha a, 2 điểm học bá điểm tích lũy." Thẩm Kỳ hiện tại làm cao trung đề toán đã lấy không được học bá điểm tích lũy, nhưng là làm lớn học đề toán có thể thu hoạch học bá điểm tích lũy.
+
+	Cùng lúc đó, ngữ văn lão sư đi vào phòng học, cái này tiết là ngữ văn khóa.
+
+	Thẩm Kỳ tâm vô bàng vụ phá giải Trương Vạn Bang đề toán, hắn không có chăm chú nghe ngữ văn khóa, người tinh lực dù sao cũng có hạn, khó mà nhất tâm nhị dụng.
+
+	Trương Vạn Bang ra đề thi thứ hai là cầu giải một cái phương trình bậc một tổ, cần tổng hợp vận dụng Gauss tiêu nguyên pháp cùng tăng rộng ma trận tính chất, độ khó có chỗ tăng lên.
+
+	Thẩm Kỳ đang giải đề quá trình bên trong gặp một chút chướng ngại, đối phương trình bậc một tổ áp dụng sơ đẳng biến hóa, tương đương với đối tăng rộng ma trận áp dụng làm được biến hóa.
+
+	Hệ phương trình → tăng rộng ma trận
+
+	Tăng rộng ma trận → hệ phương trình
+
+	Đem cái thứ nhất phương trình bên trong x1 hạng đánh tan
+
+	Như vậy tăng rộng ma trận hàng thứ ba phát sinh biến hóa
+
+	Đem cái thứ hai phương trình 4 gấp đôi đến cái thứ ba phương trình bên trên, đánh tan cái thứ ba phương trình bên trong x2 hạng, đạt được một cái cầu thang hình hệ phương trình
+
+	Như vậy tăng rộng ma trận cũng muốn biến đổi thành. . .
+
+	"Con mắt hoa đẹp a. . ." Thẩm Kỳ tại tuyến tính hệ phương trình cùng đối ứng tăng rộng ma trận ở giữa vừa đi vừa về hoán đổi,
+
+	Cắt đến hắn hoài nghi nhân sinh.
+
+	Thẩm Kỳ kiên trì cưỡng ép giải đề, quá trình là phi thường thống khổ, nhưng khẽ cắn môi qua đạo khảm này, thu hoạch là gấp bội khoái cảm.
+
+	Hao tốn nguyên một tiết ngữ văn khóa thời gian, thiêu chết vô số tế bào não, Thẩm Kỳ cuối cùng cầu giải ra Trương Vạn Bang ra đề thi thứ hai.
+
+	"Túc chủ giải đề thành công, ban thưởng 5 điểm học bá điểm tích lũy."
+
+	Nguyên bản ngữ văn khóa có thể cầm tới 1 điểm học bá điểm tích lũy, nhưng Thẩm Kỳ không có chăm chú nghe giảng, cho nên cái này tiết ngữ văn khóa đối học bá điểm tích lũy độ cống hiến là 0.
+
+	Kỳ thật cũng không có cái gọi là, bởi vì Thẩm Kỳ tại ngữ văn trên lớp phá giải hai đạo đề toán, thu hoạch 7 điểm học bá điểm tích lũy.
+
+	"Làm hai đạo đề toán đồng đẳng với bên trên bảy tiết ngữ văn khóa, làm 200 đạo sinh viên đề toán. . . Được rồi, trước nghỉ một lát." Nghỉ giữa khóa lúc nghỉ ngơi phân, Thẩm Kỳ từ trong túi xách lấy ra  « cao đẳng đại số », ôn lại ngành toán học các sinh viên đại học chương trình chuyên ngành.
+
+	Ngành toán học sinh viên năm nhất có ba môn bắt buộc cơ sở khóa, là  « cao đẳng đại số »,  « số học phân tích »,  « hình học giải tích ».
+
+	Trong đó tương đối mà nói đơn giản nhất là giải cơ, có thể hiểu thành cao trung mặt phẳng hình học giải tích lập thể bản.
+
+	Từ trừu tượng trình độ tới nói, khó khăn nhất là cao đại. Từ lượng tính toán đi lên nói, khó khăn nhất là mấy phần.
+
+	Đến nỗi đến tiếp sau giải tích thực, giải tích hàm, tô-pô, phương trình vi phân riêng phần, hình học vi phân, đại số bao nhiêu chờ chi nhánh, ai có năng lực ai đi nghiên cứu, ai không có bản sự ai liền rớt tín chỉ.
+
+	"A, Thẩm Kỳ, ngươi nhìn chính là sách gì?" Ngồi cùng bàn Trần Hiểu Đình chú ý tới, Thẩm Kỳ đang nhìn một bản kỳ quái sách.
+
+	"Cao đại." Thẩm Kỳ đem  « cao đẳng đại số » khép lại, đẩy lên Trần Hiểu Đình mặt bàn.
+
+	Trần Hiểu Đình trông thấy trang bìa liền trợn tròn mắt: "Cao đẳng đại số, toàn ngày chế trường trung học toán học tài liệu giảng dạy, cái này. . . Đây là sinh viên sách giáo khoa?"
+
+	"Đúng." Thẩm Kỳ gật gật đầu.
+
+	"Ta liền nhìn xem, không nói lời nào." Trần Hiểu Đình tượng trưng lật vài tờ, liền đem  « cao đẳng đại số » trả lại Thẩm Kỳ: "Chẳng lẽ ngươi max điểm bí tịch, chính là cái này bản  « cao đẳng đại số »?"
+
+	"Cũng không phải là, quyển sách này đối tăng lên cao trung toán học thành tích không có trực tiếp trợ giúp."
+
+	"Vậy ngươi nghiên cứu nó làm gì?"
+
+	"Cao đại cung cấp là một loại trừu tượng tư duy ăn khớp, nói nó hữu dụng a nó rất hữu dụng, nói nó không có gì trứng dùng a nó không đáng một đồng." Tại vô cùng to lớn toán học trước mặt, Thẩm Kỳ vẫn là cái học đồ, toán học chung cực ý nghĩa là cái gì, Thẩm Kỳ cũng nói không rõ ràng, hắn lấy chính mình lý giải phương thức tiến hành thăm dò.
+
+	"Thật thâm ảo dáng vẻ, nhưng không có quan hệ gì với ta, ta lần này toán học khảo thí mới thi 8 5 điểm, thật hối hận phân đến khoa học tự nhiên ban." Trần Hiểu Đình số Lý Hóa sinh thành tích đều rất bình thường, nàng dựa vào ngữ văn, tiếng Anh kéo điểm phân, miễn cưỡng duy trì tổng điểm xếp hạng tại bên trong không trượt cấp bậc.
+
+	Lúc này trường học quảng bá bắt đầu phát ra vận động viên khúc quân hành, nghỉ giữa khóa thao đã đến giờ.
+
+	"Đi thôi, tập thể dục đi." Thẩm Kỳ đứng dậy, chào hỏi Trần Hiểu Đình cùng một chỗ xuống lầu.
+
+	Trần Hiểu Đình che lấy bụng dưới cười cười xấu hổ: "Thân thể khó chịu, hôm nay không tập thể dục."
+
+	A, đại di mụ tới, kia xác thực không thể tập thể dục, nhảy nhảy nhót nhót dễ dàng xảy ra chuyện. Thẩm Kỳ nghe nói qua đại di mụ đủ loại truyền ngôn, hiện tại học sinh cấp ba cái gì đều hiểu: "Vậy ngươi nghỉ ngơi thật tốt, cần gì liền nói với ta."
+
+	"Kỳ thật cũng không có gì đáng ngại, ngươi nhanh đi tập thể dục đi." Trần Hiểu Đình đỏ mặt, nữ hài tử nhu cầu làm sao có ý tứ nói cho các ngươi biết nam sinh?
+
+	Vài phút bên trong, trường học lớn trên bãi tập tập kết hơn ngàn danh học sinh, bọn hắn theo lớp cấp xếp thành hàng liệt.
+
+	Nam Cảng nhị trung lịch sử lâu đời, từ ái quốc cách mạng nhân sĩ thành lập tại dân quốc thời kì, hiệu trưởng nghiêm ngặt chấp hành "Cường kiện thể phách, cân đối phát triển, hữu giáo vô loại, đối xử như nhau" cơ bản phương châm, không phân nhanh chậm ban, tăng cường học sinh thể phách cùng chính năng lượng giáo dục là hiệu trưởng đối với xã hội hứa hẹn.
+
+	Thứ chín bộ tập thể dục theo đài kết thúc về sau, Thẩm Kỳ lưu tại trên bãi tập, kế tiếp là khóa thể dục.
+
+	Đối với đại bộ phận nam sinh tới nói, lên tiết thể dục là hạnh phúc nhất thời gian, là nặng nề việc học sau khi khó được điều hoà.
+
+	Nam Cảng nhị trung hiệu trưởng thực hiện "Cường kiện thể phách, cân đối phát triển" hứa hẹn, khóa thể dục đem một mực giữ lại đến lớp mười hai bên trên, mà tại có cao trung, khóa thể dục tại lớp mười một giai đoạn liền bị phế trừ. 

@@ -1,0 +1,119 @@
+ Chương 28: Bảy cây cầu Euler biến chủng?
+
+	Ngày mùng 3 tháng 7 buổi sáng, Thanh Hoa thứ hai lầu dạy học.
+
+	Hai giáo là một tòa lão kiến trúc, tu kiến tại năm 1949 trước đó.
+
+	Trên phố nghe đồn hai giáo thường xuyên phát sinh sự kiện linh dị, tục xưng nháo quỷ.
+
+	Hai giáo ban đêm chưa từng mở ra, nhân viên nhà trường xưng là vì tiết kiệm thuỷ điện.
+
+	Thanh Hoa dạng này tối cao nghiên cứu khoa học học thuật cơ cấu tự nhiên là tôn sùng khoa học, ngưu quỷ xà thần tại cường đại khoa học lực lượng trước mặt chỉ có bị nát bấy vận mệnh, kiến quốc sau không cho phép thành tinh.
+
+	Cái này thời tiết có nhiều hơn một nửa sinh viên hoàn thành thi cuối kỳ, hai giáo trống không, nơi này là năm nay cao trung toán học thi đấu vòng tròn quốc dự cùng quốc quyết đấu trường.
+
+	Sáng hôm nay 9 điểm cả, sẽ tiến hành quốc dự.
+
+	Còn có nửa giờ bắt đầu thi đấu, đến từ 32 cái tỉnh thị chung 192 vị tuyển thủ toàn bộ tại 201 cùng 202 chờ lệnh, trong bọn họ mười chi đội ngũ chung 60 người đem cầm tới quốc quyết tư cách.
+
+	"Kỳ thật có thể tới tham gia cả nước thi đấu, ta đã rất thỏa mãn, thật." Quảng Châu đội thi toán học nhỏ tuổi nhất đội viên Tề Kiếm Hồng nói đến.
+
+	Thẩm Kỳ quát lớn đến: "Tề Kiếm Hồng ngươi biết cái gì, vào không được quốc quyết, chúng ta tương đương đến không Thanh Hoa một chuyến. Ngươi cho rằng ngươi là ngạc, Tương, Chiết, kinh, Thượng Hải cái này ngũ bá đội viên, trúng tuyển tỉnh đội liền có thể cầm tới Thanh Bắc ký kết?"
+
+	Tề Kiếm Hồng không phục: "Ta không dựa vào cử đi, ta thi đại học thi đến Thanh Bắc được hay không?"
+
+	Thẩm Kỳ hỏi: "Ngươi khác khoa mục thành tích rất tốt?"
+
+	Tề Kiếm Hồng dương dương đắc ý nói: "Đúng thế, tại chúng ta cái kia cao trung, ta tổng điểm trường kỳ cả khóa thứ nhất, thoát không nổi tên thứ hai 50 phân ở trên coi như ta thua. Toán học chỉ là sở thích của ta, ta chế bá cả khóa dựa vào là vô địch thực lực tổng hợp."
+
+	"Ngươi cái tiểu chính thái vẫn rất ngưu bức, nhưng ta mặc kệ ngươi tại các ngươi cái kia cao trung bao nhiêu ngưu bức, lần này quốc dự ngươi nhất định phải cho ta thi ra ngươi tối cao trình độ, nếu không ta biết đánh ngươi." Thẩm Kỳ dứt khoát kiên quyết nói đến.
+
+	"Ngươi, ngươi. . . Tốt dã man!" Tề Kiếm Hồng mới một mét năm mấy, tay trói gà không chặt, hắn khẳng định đánh không lại một mét bảy mấy Thẩm Kỳ.
+
+	"Kỳ thật đánh ngươi một chầu lại có thể thế nào, từ tập huấn bắt đầu, ta lặp đi lặp lại cường điệu chúng ta là một cái team, đến từ cùng một nơi, có cộng đồng mộng tưởng. Ta một người không có khả năng đánh thắng các ngươi năm cái, nhưng là, ta có một viên quán quân trái tim. Mà các ngươi, đều là cay gà." Thẩm Kỳ sau khi nói xong, mang theo hắn văn phòng phẩm sáo trang, cũng không quay đầu lại rời đi202 phòng học.
+
+	"Thẩm Kỳ, ngươi. . . Ngươi lại còn nói chúng ta là cay gà!" Tề Kiếm Hồng vừa thẹn lại giận, hắn đối còn lại bốn vị đồng đội nói: "Thẩm Kỳ nói chúng ta là cay gà, thật ghê tởm nha!"
+
+	"Hừ, Thẩm Kỳ cái này trang bức đồ chơi."
+
+	"Chúng ta không phải cay gà, chúng ta là cường giả!"
+
+	"Thẩm Kỳ, hồn đạm, ta nhất định phải chiến thắng ngươi!"
+
+	"Quốc dự ta nhất định phải so ngươi thi cao hơn!"
+
+	"+1!"
+
+	Tề Kiếm Hồng chờ năm người cùng chung mối thù, chưa từng có đoàn kết bầu không khí lần đầu xuất hiện tại trong chi đội ngũ này.
+
+	Thẩm Kỳ, Tề Kiếm Hồng chờ sáu người được an bài tại sáu gian khác biệt phòng học, 9 điểm kém 5 điểm, giám thị nhân viên bắt đầu tuyên đọc thi đua quy tắc: "Quy tắc rất đơn giản, các ngươi có 3 giờ thời gian hoàn thành quốc dự bài thi, bài thi quá trình bên trong không được hết nhìn đông tới nhìn tây, có việc xin giơ tay. Thi đua quy tắc tuyên đọc hoàn tất, phía dưới bắt đầu cấp cho bài thi cùng bản nháp giấy."
+
+	Thẩm Kỳ tại 101 phòng học khảo thí, hắn cầm tới quốc dự bài thi, trước nhanh chóng xem một lần ba đạo khảo đề, mỗi đề bảy phần, quyển mặt điểm số là 21 phân.
+
+	Từ toàn tỉnh đấu loại đến toàn tỉnh đấu bán kết, lại đến quốc dự, quyển mặt phân giá trị càng ngày càng thấp, nhưng độ khó khăn càng ngày càng cao.
+
+	Đề thứ nhất, quyển trên mặt vẽ lên cái đồ án.
+
+	Một dòng sông bên trong trôi nổi hai hòn đảo nhỏ, đảo cùng đảo ở giữa có cầu nối tương liên, đảo cùng bờ sông ở giữa có cầu nối tương liên.
+
+	Tổng cộng một sông hai đảo tám cầu.
+
+	Hỏi: Một cái đi bộ người như thế nào mới có thể không lặp lại, không bỏ sót một lần đi đến tám tòa cầu, cuối cùng trở lại điểm xuất phát.
+
+	"Ha ha, cái này đề ai ra, Euler cho phép ngươi làm như vậy sao?"
+
+	Thẩm Kỳ liếc thấy xuyên hết thảy,
+
+	Cái này đề là "Euler bảy cầu" biến chủng đề, Thanh Hoa tám cầu?
+
+	Toán học sử thượng Thần cấp đại sư Euler lúc tuổi còn trẻ tinh lực tràn đầy, hắn thích toán học, cũng thích cô nương.
+
+	Euler hai mươi mấy tuổi thời điểm yêu một vị cô nương, một xinh đẹp ôn nhu giáo sư mỹ thuật. Hắn điên cuồng theo đuổi vị này giáo sư mỹ thuật cuối cùng tu thành chính quả, hai người kết hôn, cũng sinh dục 13 đứa con cái. . . Bởi vậy có thể thấy được Euler không chỉ có học thuật đỉnh cấp, thân thể càng là bổng bổng đát.
+
+	Năm 1736 một cái tươi đẹp mùa xuân, Euler tại Königsberg một chỗ công viên chờ đợi hắn giáo sư mỹ thuật bạn gái đến.
+
+	Đến trễ là nữ nhân tiên thiên thuộc tính, đợi trái đợi phải, một giờ trôi qua, vị này dạy mỹ thuật muội tử chưa phó ước.
+
+	Euler rất nhàm chán a, liền bắt đầu nghiên cứu toán học, hắn phát hiện Königsberg trong công viên một con sông bên trong lơ lửng hai hòn đảo nhỏ, có bảy tòa cầu nối kết nối đảo nhỏ cùng bờ sông, các du khách thông qua cầu nối dạo bước đến ở trên đảo giải sầu, cũng tại hai hòn đảo nhỏ ở giữa xuyên thẳng qua.
+
+	Euler bỗng nhiên tới linh cảm, hắn đưa ra một cái tưởng tượng, có tồn tại hay không một loại đường đi, từ bất luận cái gì một chỗ xuất phát đều có thể không bỏ sót, không tái diễn thông qua bảy tòa cầu nối, cuối cùng trở lại điểm xuất phát chỗ.
+
+	Về sau Euler đem cái này tưởng tượng viết thành luận văn, gửi bản thảo đến St. Petersburg viện khoa học, luận văn tên là  « Königsberg bảy tòa cầu ». Hậu nhân cũng xưng là "Bài toán bảy cây cầu Euler" .
+
+	Lại về sau, Euler chính mình đẩy ngã cái này giả thiết, chứng minh không có khả năng cất ở đây a một con đường dẫn.
+
+	Vì đánh mặt mình, Euler phát minh một loại mới chứng minh phương pháp, hắn khai sáng toán học một cái mới chi nhánh --- hình học topol.
+
+	Đây chính là đỉnh cấp nhà số học cách cục, ta đã mất địch, ta đã không có đối thủ, ta duy nhất đối thủ là chính ta, vì đánh bại chính ta, ta khai sáng một cái mới toán học chi nhánh.
+
+	Hai ba trăm năm qua đi, Thẩm Kỳ đứng trước một cái vấn đề mới, tám cầu vấn đề.
+
+	Ban sơ bản Euler bảy cầu là không cách nào đạt được câu trả lời, đến nỗi tám cầu có tồn tại hay không một con đường như vậy kính, đến tính toán mới biết được.
+
+	Thẩm Kỳ có lợi hạ tính, trái tính phải tính, nửa giờ quá khứ, coi không ra a!
+
+	Tám cầu phải chăng cùng bảy cầu, căn bản lại không tồn tại đầu kia cái gọi là đường đi, có thể không bỏ sót, không tái diễn thông qua mỗi một cây cầu xà nhà, cuối cùng trở lại điểm xuất phát.
+
+	"Cả nước thi đấu dù sao cũng là cả nước thi đấu, topol cái đồ chơi này phi thường khó làm, ta không có cách nào tìm ra con đường tắt này, cũng vô pháp chứng minh nó không tồn tại."
+
+	Thẩm Kỳ để bút xuống thước, đại lực nén huyệt thái dương, xuất sư bất lợi, xuất sư bất lợi a.
+
+	Thời gian từng giây từng phút trôi qua, Thẩm Kỳ không cách nào hạ bút, hắn có chút ép buộc chứng, không phải đem đề thứ nhất làm được, lại đi phá giải đằng sau hai đề.
+
+	"Euler, bảy cầu, tám cầu. . . Đúng, ta vì cái gì nhất định phải dùng Euler lý luận đi phá giải căn cứ vào Euler bảy cầu biến chủng đề, đó là cái cạm bẫy, vòng lặp vô hạn!"
+
+	Thẩm Kỳ bừng tỉnh đại ngộ, ta nghĩ đến, ta nghĩ đến, Poincaré mạng lưới lý luận!
+
+	Nếu như hai cái đoạn bưng kết nối cùng lúc trước giống nhau như đúc, như vậy đây là một loại có thể cho phép topol thao tác.
+
+	Trái lại thì không bị cho phép!
+
+	Không sai a, cái này tám cầu đồ kỳ điểm tại hai đầu, cho nên căn bản không tồn tại loại này kết nối, có thể không bỏ sót, không tái diễn thông qua mỗi một cây cầu xà nhà.
+
+	Cái này đề đáp án chính là: Không! Tồn! Tại!
+
+	Thẩm Kỳ múa bút thành văn viết xuống chứng minh quá trình, hắn chỉ dùng 3 phút liền hoàn thành chứng minh, mà suy nghĩ quá trình dài đến 1 giờ.
+
+	"Hô. . . 7 phân đến tay, tiếp theo đề." Thẩm Kỳ thở dài một hơi, thiêu chết thật nhiều tế bào não, mệt mỏi quá. Nhưng chiến đấu vừa mới bắt đầu, hắn không thể thư giãn, hắn nhất định phải tại trong vòng thời gian quy định hoàn thành toàn bộ bài thi, cũng cam đoan tuyệt đối chính xác.
+
+	Dù vậy, Thẩm Kỳ cũng không biết mục tiêu của mình có thể hay không cuối cùng đạt thành. Hi vọng kia năm cái heo đồng đội, có thể cho ta tranh khẩu khí a! 

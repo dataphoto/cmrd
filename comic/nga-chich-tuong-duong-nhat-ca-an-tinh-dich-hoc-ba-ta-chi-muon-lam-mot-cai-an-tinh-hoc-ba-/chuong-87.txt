@@ -1,0 +1,44 @@
+ Chương 87: Gauss định lý tính ra
+
+	"Vị bạn học này, mời bảo trì thanh tỉnh, không muốn ở trên trường thi ngủ gà ngủ gật." Lão sư giám khảo hết sức nghiêm túc nhắc nhở Thẩm Kỳ.
+
+	"Ừm, thật có lỗi." Thẩm Kỳ xoa xoa huyệt thái dương, đoạn thời gian gần nhất đổi  « olympic toán học quán quân Thẩm Kỳ toán học kỹ xảo » bản thảo, đổi tâm hắn lực tiều tụy, không chút nghỉ ngơi tốt.
+
+	"Tranh thủ thời gian giải quyết cuối cùng một đạo tính toán đề, làm xong về nhà ngủ bù." Thẩm Kỳ giữ vững tinh thần, cẩn thận thẩm đề.
+
+	Thẩm xong cuối cùng một đạo 2 5 điểm tính toán đề, Thẩm Kỳ cuối cùng có mấy phần hứng thú: "Liền cuối cùng này một đề, giống như là chính quy vật lý lão sư ra đề."
+
+	Vật lý tính toán đề phần lớn phối hữu sơ đồ, không xứng đồ vật lý đề đồng dạng hiện ra hai loại cực đoan, một loại là đơn giản muốn đánh ngủ gật, một loại khác là khó khăn xâu tạc thiên.
+
+	Đấu vòng loại trấn trạch đề phân giá trị tối cao, 2 5 điểm, đạo này tính toán phối hữu sơ đồ.
+
+	Sơ đồ là một cái vòng tròn, từ tâm O đến chu vi hình tròn bảy giờ đồng hồ phương vị họa có một đầu hư tuyến R, đầu này hư tuyến R là tròn bán kính. Tại tâm O bên cạnh cách đó không xa có cái chấm đen nhỏ mq.
+
+	Chủ đề văn tự miêu tả là:
+
+	"Như đồ chỗ bày ra, điện tích tuyến mật độ vì λ(λ&gt;0), bán kính là R đều đều có điện vòng tròn cố định tại bóng loáng trình độ cách biệt trên mặt bàn. Chất lượng vì m, lượng điện vì q bóng loáng tiểu cầu, đứng im để lên bàn cùng vòng tròn trung tâm O điểm rất gần vị trí."
+
+	"Thiết trên vòng tròn điện tích phân bố không nhận tiểu cầu điện tích ảnh hưởng, thử phán đoán tiểu cầu về sau vận động phải chăng vì chấn động?"
+
+	"Nếu vì chấn động, thiết tiểu cầu ban đầu vị trí cùng O điểm khoảng cách r0&lt;<r, dùng thử thích hợp xấp xỉ phương pháp tính ra tiểu cầu chấn động chu kỳ t." tính cùng nghiêm ngặt toán khác nhau ở chỗ, có thể vòng qua phức tạp học diễn toán, trực tiếp thu hoạch được chính xác định kết luận so sánh tới gần thô sơ giản lược lượng quả. liền đấu loại cuối một đạo đề mà nói, vận là vẫn không phải động, thẩm kỳ nhất cho luận, phán đoán sai sót. đây bước đầu tiên. đối với vật lý đề, nếu như áp dụng pháp, lựa chọn đường tắt thường chỉ đầu. rất rõ ràng, đây điện từ mục, tại rất nhiều bên trong, tĩnh trận gauss làm căn cứ bắt bài thi. cái phụ trợ đồ, lấy thông o điểm cũng tròn mặt phẳng thẳng đứng trục vì x trục. tại viên bình trên tâm điểm, bán kính r tròn. đem này xuôi theo hướng các mở rộng l, trụ vậy hình thành. mặt, bởi trong tích, nhưng phải: ? e*d s="0" tế ra, chân tướng càng ngày ràng. mang electron (+) sở thụ lực luôn trung khôi phục bảo thủ lực, điểm. nhanh giải quyết thứ hỏi chút, cạnh huấn luyện sinh hẳn đều đoán. thứ hai yêu t, hơi phiền toái chút hình cường độ trường đến toán: e1="λ(2" pir)l ╱ 4 piε(r^2+l^2)^3 2 2ε(r^2+l^2)^3 như giá trị đúng liền ra: hai s≈e1*2 pir^2 thông cách xa chỗ er s+? mặt xứ là: fr="qEr=-λq" 4εr^2*r cân nhắc tuyến sức phục, tác của nó hạ quấn chỉnh sóng động. cho nên t="4" pir số εm λq "giải quyết." trải cmo thậm chí imo tẩy lễ, ngành thi đua sàn đã vị kinh nghiệm phong phú lão tướng. thi toán tốt, được, thức cơ bản giống nhau. nếu tướng, tự cao đại, táo bạo xốc nổi, thời khắc trì cẩn phong. kiểm tra lần thi, sau đó nộp lúc đi hơn 30 phút đồng hồ. "cái mẹ nó?" "ngọa tào?" "sớm thi?" "không ngừng viết, tràn ngập phút a?" "con hàng cần suy nghĩ? vẫn mù mấy viết?" cùng những tuyển ràng nhận ảnh hưởng, riêng phần mình lòng hô to mmp. mặc dù cpho cả nước khó, sớm thuộc về hiếm thấy. vật cũng mắt nhọn thủ: con này. . không kỳ? cái kia international mathematical olympiad quán quân?" cổng, hắt xì, bỗng nhiên cái, cột sống lại toát khí lạnh. "ai đang mắng ta?" đột quay đầu, ánh sắc bén liếc nhìn chúng thủ. "thảo!" chúng hoa cúc loạn chiến, vùi tục "uy, giao quyển xin chóng rời thi." lão sư giám khảo thúc giục kỳ, xem kỹ viết đầy, cứ, mờ, tình huống phép giờ đi, ngoài gặp mục dung. ngươi quá đi?" dung ý muốn. vẻ thong dong: "bình thường, châu á ba." "kia trí ai?" nhịn xuống để mình bật cười. chững chạc đàng hoàng nói đến: "là hiệu trưởng sư." "ha ha." cười, cảm thấy nghi hoặc: "ngươi giác ngộ, thí khả năng cầm b nàng nghe b, còn môn a. "ai, ai chưa từng tuổi trẻ qua, ngây thơ qua." nghĩ khó chịu, hắc lịch sử a, nào xóa bẩn. đương nhiên, lớp mười trước thật nhiều, tất thản đối mặt. duỗi lưng cái: "ngáp. buồn ngủ quá, ta muốn ngủ." "đi thôi, nhà nghỉ ngơi vất vả." thảo bất gì hành hết thảy. đấu chấm công việc sẽ tuần hoàn thành, an tháng tư cử hành. ngày hai, nam cảng nhị trường học đội vật lý đội. "ta đánh xong phân, có thể 140?" đội đội lâm tinh vũ đến. rồi chọn, bổ khuyết đại khái 120 130 giữa." một bạch linh diệp đâu lão?" hỏi. chừng 200 điểm tả hữu? có lẽ ít trình trừ phần, xác, biết." "trâu!" sùng bái quáng, max "xong xong, tấn cấp phân bị kéo cao." khổ cáp "bạch sợ thất bại nha." đến, "cả dự tuyến? nhả rãnh biết, dislike!" < div>
+
+
+                <div class="box-adv box-adv-4199873">                    <div class="box-subcriber col-xs-12 form-group">Hãy nhấn like ở mỗi chương để ủng hộ tinh thần các dịch giả bạn nhé!</div>
+
+                    <div class="box-subcriber col-xs-12 form-group">
+                                                                                                                                                                                                                    <a href="http://www.tangthuvien.vn/forum/showthread.php?t=155013" target="_blank">Bình chọn Converter xuất sắc quý 1 - 2019</a>
+                                                                                                </div>
+                    <div class="col-xs-12 text-right">
+                        <a href="javascript:void(0);" onclick="openLogin()" title="Thích" class="like-control like-chap-4199873 icon-control first ">
+                            <i class="fa fa-thumbs-up" aria-hidden="true"></i>
+                            <small>1</small>
+                        </a>
+
+                        <a onclick="openLogin()" href="javascript:void(0);" class="vote-action">
+                            Tặng phiếu
+                        </a>
+
+                                                <a href="javascript:void(0);" onclick="openWarningBox('4199873')" title="Báo lỗi chương" class="edit-control pull-right"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+                            </r,>

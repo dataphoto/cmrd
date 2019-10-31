@@ -1,0 +1,133 @@
+ 330 chương truyền thụ
+
+	"oK, ta nghĩ đến."
+
+	Thẩm Kỳ tại trên bảng đen viết đến:
+
+	Lệnh Xr+(T)={λ=∑m+n, i=1λiεi∣0λi-. . . }
+
+	. . .
+
+	"Đây là. . . Đại số nhóm mô hình gia cường phiên bản?" Ralph đột nhiên đứng lên, hai mắt gắt gao nhìn chằm chằm bảng đen.
+
+	"Là, nhưng không hoàn toàn là." Thẩm Kỳ tiếp tục hắn thôi diễn, cân nhắc đến điển hình trù, hắn làm một cái tuyến tính ánh xạ xử lý, đạt được có hạn duy cỗ giai hóa đại số.
+
+	"Ta cho rằng nơi này tồn tại một cái điều kiện, lấy thỏa mãn vô cùng bé nhóm biểu thị phạm trù bên trong lẫn nhau phản luật, cuối cùng cho ra siêu quần Frobenius hạch không thể ước biểu thị kết quả. Thiết mn(modp), thì St1 là ném bắn u(g)- mô hình, bởi vậy T(u) là bắn ra u(g)- mô hình. Ân, đây càng giống như là một cái dẫn lý, ta cần chứng minh cái này dẫn lý." Thẩm Kỳ quay đầu nói với Ralph đến, ánh mắt bên trong lấp lóe chưởng khống hết thảy cơ trí.
+
+	"Kia. . . Xin bắt đầu sự chứng minh của ngươi đi, Thẩm giáo sư." Ralph bị Thẩm Kỳ cường đại khí tràng chấn nhiếp.
+
+	"Chờ một lát." Thẩm Kỳ đi đến trước tủ sách, lấy ra một bản văn hiến thẩm tra.
+
+	Ralph: ". . ."
+
+	"Đại số Lie, hàm phức, nhóm luận, bọn họ điểm chính điêu khắc ở trong linh hồn của ta, nhưng ta không nhớ được toàn bộ chi tiết, cho nên có lúc ta cũng cần kiểm số tư liệu." Thẩm Kỳ nói đến, hắn đối Ralph cười cười: "Ngươi vừa rồi tại nghĩ, nguyên lai Thẩm Kỳ cũng là người bình thường, hắn cũng không phải là không gì làm không được thần. Đúng vậy, không sai, ta không phải thần, ta chẳng qua là so với người bình thường càng chuyên chú vào sự nghiệp của ta, chuyên chú mới có thể chuyên nghiệp, chuyên nghiệp chiều sâu quyết định sự nghiệp độ cao."
+
+	"Thẩm giáo sư, ngươi nói quá tốt rồi." Ralph nổi lòng tôn kính, cũng âm thầm kinh hãi, ngươi sao có thể nhìn rõ nội tâm của ta hoạt động?
+
+	Thẩm tra hoàn tất Holmes - Shigeo Nakano phương pháp bên trong mấy đầu kết luận về sau, Thẩm Kỳ đối trên bảng đen dẫn lý làm ra tương quan chứng minh.
+
+	Quá trình này kéo dài mười mấy phút, Thẩm Kỳ viết, Ralph nhìn, hai người rất chuyên chú, một cái truyền thụ tri thức, một cái khác hấp thu tri thức.
+
+	Thẩm Kỳ gõ gõ bảng đen: "Tại chứng minh quá trình bên trong, ta vận dụng đến Holmes - Shigeo Nakano phương pháp, Brauer mô hình cùng Humphries định lý, tất cả đều là hiện hữu lý luận, cũng không có nói ra bất kỳ hạng nào sáng tạo cái mới phát minh. Sáng tạo cái mới là chuyện vô cùng khó khăn, chúng ta đại đa số thời gian làm chính là tổng hợp vận dụng cùng lý luận tái tạo, theo một ý nghĩa nào đó tới nói, tổng hợp vận dụng cũng là một loại sáng tạo cái mới."
+
+	"Đúng thế." Ralph trùng điệp gật đầu, hắn lộ ra thể hồ quán đỉnh thoải mái biểu lộ: "Mấu chốt nhất là Weyl nhóm vận dụng, trong đó điểm tác dụng y nguyên định nghĩa vì wv=w(v+p)-p, cho nên chúng ta đạt được quyền không gian duy số là 1, tức Q1(λ) làm hạn định chế không thể ước g- mô hình L1(λ) bắn ra bao trùm."
+
+	"Rất tốt." Thẩm Kỳ bắt đầu xoa bảng đen.
+
+	"Chờ một chút, Thẩm giáo sư!" Ralph tranh thủ thời gian móc ra điện thoại di động, muốn chụp ảnh.
+
+	"Đừng vuốt Ralph, không cần thiết." Thẩm Kỳ tiếp tục xóa bảng đen, rất nhanh lau xong một bảng đen toán học ký hiệu: "Xem ra ngươi không thể triệt để lý giải ta nói tới tổng hợp vận dụng, nó tinh túy ở chỗ nội trí (*built-in) Logic mà không phải bên ngoài đưa hình thức, Logic là không cách nào bị quay chụp xuống tới."
+
+	"Ta. . ." Ralph cảm thấy xấu hổ.
+
+	Ralph cái này đồng học đi, cước đạp thực địa không chơi hư, nhưng ngộ tính hơi khiếm khuyết một chút.
+
+	Vu Lỗi biết ăn nói, nhìn qua có một chút như vậy táo bạo, nhưng hắn ngộ tính mạnh hơn Ralph, tư duy có phát tán tính.
+
+	Tiếp xúc lâu, Thẩm Kỳ càng ngày càng quen thuộc hai vị học sinh tính cách đặc điểm cùng học thuật ưu khuyết thế, cực độ nghiêm cẩn người có lẽ khuyết thiếu phong phú sức tưởng tượng, tư duy thiên mã hành không người thường thường không cách nào chứng minh chính mình linh quang chợt hiện nói lên phỏng đoán hoặc dự đoán.
+
+	Chẳng ai hoàn mỹ, tùy theo tài năng tới đâu mà dạy, đây là đối lão sư khảo nghiệm.
+
+	Thẩm Kỳ nói đến: "Ngươi có thể lặp lại ta suy nghĩ Logic, nhưng xin đừng nên phục chế ta chứng minh quá trình, Ralph, ta cho ngươi một chút mới nhắc nhở, từ một cái khác đầu đường tắt xuất phát, lấy trao đổi siêu đại số vì dựa vào, tổng hợp vận dụng ma trận nguyên tố, Frobenius thái bắn, baby Wilma mô hình, hoàn thành vừa rồi cái kia dẫn lý chứng minh."
+
+	"Chú ý ta chỗ đề cập toán học công cụ trình tự, nếu như ngươi dẫn theo sử dụng trước baby Wilma mô hình, đem bạch uổng phí thời gian. Ta đối với ngươi yêu cầu có lẽ có điểm cao, ta cho rằng đây là có cần thiết, bởi vì ngươi là Princeton toán học nghiên cứu sinh, ngươi khoa chính quy đồng dạng học tập tại Princeton." Thẩm Kỳ đối Ralph đưa ra tha thiết hi vọng, làm một toán học đạo sư, trọng yếu nhất chính là "Đạo", mà không phải "Rót" .
+
+	Tấn thăng toán học cấp 14 điều kiện ba, yêu cầu Thẩm Kỳ chỉ đạo một vị học sinh, cái này sinh ở Thẩm Kỳ chỉ đạo hạ lấy được tiến bộ nhảy vọt, học sinh phát biểu toán học tứ đại tập san luận văn vào cái ngày đó, chính là Thẩm Kỳ điều kiện ba nhiệm vụ hoàn tất ngày.
+
+	Thẩm Kỳ cái này xuất thủ thời điểm tự nhiên sẽ xuất thủ, nhưng nếu như sự tình gì đều giúp Ralph làm xong, vậy coi như không lên chỉ đạo , nhiệm vụ không cách nào hoàn thành.
+
+	Áp lực thật lớn. . . Ralph mồ hôi đầm đìa.
+
+	Đương kim cao tốc phát triển xã hội, ai không có điểm áp lực?
+
+	Có áp lực mới có động lực.
+
+	Ralph ỷ lại Thẩm Kỳ văn phòng không chịu rời đi, hắn đánh vỡ nồi đất hỏi đến tột cùng: "Như vậy Thẩm giáo sư, đang nghiên cứu điển hình Lý Siêu đại số có hạn duy mô hình lúc, baby Wilma khuôn đúc có đơn u(g)- đầu, nghi vấn của ta là, tại ngươi tư tưởng cùng thôi diễn trình tự bên trong, như thế nào đạt được tùy ý không thể ước u(g)- tử mô hình là cái nào đó baby Wilma mô hình cùng thái giống?"
+
+	"Cái này không khó, như vậy như vậy, như vậy như vậy. . ." Thẩm Kỳ mặt thụ tuỳ cơ hành động.
+
+	"Nguyên lai là dạng này, ta đã hiểu." Ralph tại sổ nhỏ bên trên ghi chép tin tức trọng yếu, lại hỏi: "Như vậy Thẩm giáo sư, ma trận nguyên tố vận dụng là cơ sở tính đại số công cụ, ta cảm thấy không có đơn giản như vậy, mời ngươi nói cho ta. . ."
+
+	"Cái này không khó, như vậy như vậy, như vậy như vậy. . ." Thẩm Kỳ bảo trì đầy đủ kiên nhẫn dẫn đạo Ralph.
+
+	"Như vậy Thẩm giáo sư. . ."
+
+	"Như vậy Thẩm giáo sư. . ."
+
+	"Ralph, ngươi trong vòng một ngày nhiều nhất chỉ có thể hỏi ba cái vấn đề, hôm nay giải đáp nghi vấn thời gian kết thúc, kế tiếp là giải trí thời gian, đi thôi, đi buông lỏng một chút."
+
+	Thẩm Kỳ kêu lên Vu Lỗi, thầy trò ba người tại Princeton trong sân trường chạy bộ, đây là Thẩm Kỳ truyền thụ cho học sinh buông lỏng phương thức.
+
+	"Ralph, ngươi quá kém, chạy 10 km liền mệt mỏi nằm xuống!" Vu Lỗi la to.
+
+	"Có loại cùng ta so chạy nhanh." Ralph nằm tại trên bãi cỏ thở hổn hển.
+
+	"Chạy nhanh sau này hãy nói." Thẩm Kỳ nói đến, "Hôm nay, còn lại 10 km."
+
+	"Ngươi cũng quá có thể chạy a?" Ralph hai tay nắm chắc cỏ xanh, chết sống không chịu ngồi dậy, hắn tiến vào giả chết hình thức.
+
+	"Vu Lỗi, hai ta tiếp tục 10 km." Thẩm Kỳ triệu hoán Vu Lỗi.
+
+	Vu Lỗi lập tức đổ vào trên bãi cỏ: "Kỳ thật ưu thế của ta hạng mục, đồng dạng là chạy nhanh."
+
+	"Các ngươi quá yếu." Thẩm Kỳ nghênh ngang rời đi, một người tiếp tục chạy.
+
+	"Thẩm giáo sư thể lực kinh người, tinh lực dồi dào, ngoại trừ toán học hắn còn am hiểu vật lý cùng chạy cự li dài." Ralph thực tình phục.
+
+	"Hắn tại Trung Quốc đọc sách lúc cầm qua chạy cự li dài quán quân, đúng rồi Ralph, ngươi cái kia hợp tác với Yale đầu đề tiến độ như thế nào?" Vu Lỗi ân cần hỏi thăm.
+
+	"Chẳng ra sao cả."
+
+	"Cùng ta còn giữ bí mật?"
+
+	"Chính là chẳng ra sao cả."
+
+	"Không tính nói, dù sao ta cũng không quan tâm." Vu Lỗi nhìn về phía dần dần từng bước đi đến Thẩm Kỳ, hắn cùng Ralph cùng là Thẩm Kỳ đám đầu tiên nghiên cứu sinh, hắn không muốn tại học thuật bên trên bại bởi Ralph.
+
+	Thẩm Kỳ một mực chạy đến vùng cực nam Carnegie hồ, gãy mà hướng tây hướng giáo chức công túc xá chạy tới.
+
+	Tinh lực xác thực dồi dào, thậm chí quá thừa, Thẩm Kỳ cần phóng thích quá thừa tinh lực cùng thể lực, đoạn thời gian gần nhất hắn khôi phục rèn luyện chạy bộ.
+
+	Thẩm Kỳ trở lại Princeton công nhân viên chức ký túc xá, Âu Diệp học xong nấu canh, sinh hoạt qua bình thản ấm áp.
+
+	Tại bình thản ấm áp trong sinh hoạt, Thẩm Kỳ rất quan tâm đầu cho PRL ngày đó vật lý luận văn, đây là kích tình của hắn điểm.
+
+	Thẩm Kỳ kích tình điểm chính là Âu Diệp kích tình điểm, Âu Diệp kích tình điểm đồng dạng sẽ để cho Thẩm Kỳ bảo trì độ hưng phấn.
+
+	Lão phu lão thê thường ngày cần một chút kích tình điểm tới điều hoà bôi trơn, Âu Diệp kích tình điểm là, nàng phát hiện một loại đường cong elliptic số nguyên điểm ảo diệu.
+
+	Đường cong elliptic một mực là số luận cùng tương quan lĩnh vực một cái làm cho người ta chú ý đầu đề, lúc trước Wales đã chứng minh Fermat đại định lý, trên thực tế hắn là thông qua chứng minh một loại liên quan tới đường cong elliptic kết quả, lấy quanh co hình thức đã chứng minh Fermat đại định lý.
+
+	"Lợi hại diệp của ta, ngươi ngay tại theo đuổi Wales thành công quỹ tích." Thẩm Kỳ rất vui vẻ nhìn thấy, Âu Diệp tại hoàn toàn không dựa vào hắn tình huống dưới, chính nàng chơi đùa ra mới đồ vật.
+
+	Đêm nay ăn canh thời điểm, Thẩm Kỳ vừa rồi biết được Âu Diệp tại đường cong elliptic số nguyên điểm phương diện lấy được thành quả nghiên cứu.
+
+	Âu Diệp lắc đầu: "Căn bản không tính thành quả, ta hôm qua mới nghĩ tới, chỉ là một cái tư tưởng."
+
+	Thẩm Kỳ: "Vậy liền để cái này tư tưởng biến thành chính xác đầu đề, ta sẽ không cho ngươi cung cấp quá nhiều chuyên nghiệp tính ý kiến, ta bây giờ thấy số luận liền muốn nôn, ta có thể làm chỉ là vì ngươi hô 666. Có vấn đề tìm đạo sư, Lindenstrauss giáo sư nhất định sẽ cho ngươi càng nhiều trợ giúp."
+
+	"Ừm, ngươi đâu, PRL thu nhận sử dụng ngươi vật lý luận văn sao?" Âu Diệp hỏi.
+
+	"Không tin đâu, ta cũng đang chờ tin tức."
+
+	Thẩm Kỳ đợi trái đợi phải thượng đẳng hạ đẳng, đợi vài ngày, rốt cuộc đã đợi được một tin tức tốt, PRL thu nhận sử dụng hắn luận văn  « căn cứ vào mặt cầu ổn định cùng nhóm đồng luân thiếu hụt tô-pô nghiên cứu ». 

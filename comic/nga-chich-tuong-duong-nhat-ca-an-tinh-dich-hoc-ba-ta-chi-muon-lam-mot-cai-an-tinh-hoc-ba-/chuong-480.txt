@@ -1,0 +1,101 @@
+ 480 chương lại là ta?
+
+	Đầu tiên lên đài chính là Edward Witten, hắn đài gió tiêu sái tự nhiên, dùng ngắn gọn ngôn ngữ rất tốt trình bàyN-S phương trình hạng mục dàn khung thiết kế.
+
+	Dưới đài tiếng vỗ tay như nước thủy triều, Witten vang dội đệ nhất pháo, cũng càng thêm xâu đủ các vị khách quý khẩu vị.
+
+	Tiêu Tuấn Long biểu hiện trung quy trung củ, hắn làm một trận tiêu chuẩn PPT báo cáo, không có Witten như vậy thu phóng tự nhiên, nhưng cũng không có phạm sai lầm hoàn thành nhiệm vụ.
+
+	Chu Vũ An sân khấu biểu hiện trội hơn Tiêu Tuấn Long, Thẩm Kỳ cuối cùng lên đài nhóm lửa toàn trường cao trào bầu không khí.
+
+	"Ta ba vị đồng bạn hoàn thành trước mặt công việc, bọn hắn làm phi thường bổng." Thẩm Kỳ nhìn về phía dưới đài, Witten chờ ba vị đồng bạn vị trí.
+
+	"Ta bộ phận này trong báo cáo cho, đem cho ra Navier-Stokes phương trình thông hiểu. Để chúng ta lần nữa trở lại Chu giáo sư vừa rồi nói lên bốn cái tư thế bên trên. . ."
+
+	". . . Cho nên, chúng ta đạt được một tổ không gian Hilbert vectơ hàm số, cùng không gian Euclide đại lượng vô hướng tích, cùng cái này phạm số. Đáp án ngay ở chỗ này, mời xem màn hình." Thẩm Kỳ hoán đổi đến trọng yếu nhất một tờ PPT.
+
+	Trang này PPT cấp ra N-S phương trình thông hiểu: Σ(∣∣uk(t, ? )∣∣^2L2(Ω)+ ∫∣∣graduk(η, ? )∣∣^2L2(Q)dη)Σ ∫∣∣fk(η, ? )∣∣^2L2(Q)dη
+
+	Xoát!
+
+	Quý khách nhóm toàn bộ đứng lên, thần tình kích động.
+
+	"Trải qua siêu máy tính 'Vị danh số một' đo lường tính toán, này thông hiểu có phổ biến ý nghĩa. Ở chỗ này chúng ta liệt ra 'Vị danh số một' trọng yếu số liệu danh sách, số liệu cho thấy, chúng ta thành công." Thẩm Kỳ biểu hiện ra "Vị danh số một" cho ra hạch tâm trị số phân tích số liệu, đây không phải toàn bộ số liệu, nhưng cũng đủ.
+
+	"Cảm tạ Witten giáo sư cùng Princeton đại học, Princeton cao đẳng sở nghiên cứu, bọn hắn nói lên phương trình vi phân riêng phần vô hạn lưu phép tính tại hạng mục này bên trong làm ra mấu chốt tác dụng. Ta đề nghị, đem cái này phép tính mệnh danh là Witten - Fegal - Oden phép tính, đối ba vị kiệt xuất nhà toán học gây nên lấy kính ý."
+
+	"Cảm tạ Chu Vũ An giáo sư cùng Tiêu Tuấn Long phó giáo sư hết ngày dài lại đêm thâu vất vả nỗ lực, cùng Yến đại siêu tính trung tâm, viện khoa học toán học vật lý học bộ hết sức ủng hộ."
+
+	"Cuối cùng, cảm tạ ta phu nhân, cùng nữ nhi của ta."
+
+	"Kỳ thật nữ nhi của ta cũng vì hạng mục này làm ra cống hiến, nhưng nàng niên kỷ quá nhỏ, vẫn chưa tới 3 tháng, không có đủ luận văn tác quyền, cho nên nàng danh tự chưa từng xuất hiện tại trong danh sách. Tạ ơn, tạ ơn lắng nghe, báo cáo của chúng ta hoàn tất!" Thẩm Kỳ cúi đầu gửi tới lời cảm ơn.
+
+	Toàn trường bộc phát kéo dài tiếng vỗ tay, trận này báo cáo hội kết thúc mỹ mãn.
+
+	Vào lúc ban đêm, Thẩm Kỳ đoàn đội lấy dự ghi chép hình thức thả ra  « Navier-Stokes phương trình thông hiểu nghiên cứu » hoàn chỉnh luận văn, phụ siêu chắc chắn theo.
+
+	Bọn hắn không có ý định tại tập san bên trên phát biểu luận văn, hơn 200 trang có thể ra bản chuyên trứ.
+
+	Như là  « tự nhiên »,  « khoa học », PRL chờ thu nhận sử dụng bản gốc luận văn cũng phát biểu bình luận trứ danh tập san, trước tiên chuyển tái  « Navier-Stokes phương trình thông hiểu nghiên cứu » hạch tâm kết luận, tứ đại toán học tập san một trong  « Annals of Mathematics » cũng làm ra tương tự thao tác.
+
+	Trước hết nhất thừa nhận  « Navier-Stokes phương trình thông hiểu nghiên cứu » quốc tế quyền uy cơ cấu là iCTP, tức quốc tế lý luận vật lý trung tâm nghiên cứu.
+
+	IMU còn bảo trì quan sát, nghe nói nhà này nhất quyền uy toán học cơ cấu ngay tại tổ chức chuyên gia học giả nghiệm chứng Thẩm Kỳ phương án của bọn hắn.
+
+	iCTP tán thành Thẩm Kỳ bọn hắn N-S phương trình phương án giải quyết, thừa nhận Thẩm Kỳ đoàn đội dẫn đầu phá giải cái này ngàn năm nan đề.
+
+	iCTP đề nghị chính thức mệnh danh phương trình vi phân riêng phần vô hạn lưu phép tính vì Witten - Fegal - Oden phép tính, tên gọi tắt wFo phép tính.
+
+	Cùng, liền  « Navier-Stokes phương trình thông hiểu nghiên cứu » bên trong nói lên kiểu mới chuỗi vô tận xử lý phương pháp, đề nghị chính thức mệnh danh là Thẩm Kỳ phép tính.
+
+	Fegal là Chu Vũ An người hướng dẫn luận án tiến sĩ, Fields thưởng người đoạt giải. Oden là Princeton một vị toán học giáo sư, trước mắt đã về hưu, tại nước Mỹ bắc Carolina châu an hưởng tuổi già.
+
+	Fegal, Oden hai người từ đầu tới đuôi không có tham dự qua Thẩm Kỳ đoàn đội N-S phương trình hạng mục, hai người bọn họ bởi đó trước làm ra phép tính tưởng tượng, bị mệnh danh.
+
+	Chứng minh wFo phép tính đại bộ phận công việc là do Chu Vũ An cùng Thẩm Kỳ hoàn thành, đây có lẽ là sự an bài của vận mệnh, lão sư đưa ra tưởng tượng, học sinh hoàn thành chứng minh. Fegal là Chu Vũ An toán học người hướng dẫn luận án tiến sĩ, mà Witten là Thẩm Kỳ vật lý người hướng dẫn luận án tiến sĩ.
+
+	Thẩm Kỳ lý lịch bên trong lại mới tăng một hạng trọng yếu công trạng ---- dẫn đội phá giải N-S phương trình, Chu Vũ An, Tiêu Tuấn Long cũng có thu hoạch riêng.
+
+	Không quan tâm IMU có nhận hay không, dù sao hệ thống nhận.
+
+	Hệ thống: "Thành tựu mới! Túc chủ phá giải ngàn năm nan đề Navier-Stokes phương trình, lấy túc chủ danh tự mệnh danh Thẩm Kỳ phép tính, cơ sở ban thưởng 800 vạn điểm học bá tích phân, nhân với toán học chủ thiên phú hệ số 2. 0, cuối cùng ban thưởng 16 triệu điểm học bá tích phân. Còn lại 50132488 điểm học bá tích phân, mời túc chủ xác nhận."
+
+	"Toán học tấn thăng cấp 15 điều kiện ba hoàn thành. Mời túc chủ lần nữa xác nhận."
+
+	Toán học tấn thăng cấp 15 ba cái nhất định phải điều kiện là:
+
+	1, 60 triệu điểm học bá tích phân hoặc điểm kinh nghiệm.
+
+	2, phá giải Hodge phỏng đoán, BSD phỏng đoán trong đó chí ít một cái.
+
+	3, phá giải bài toán P so với NP, N-S phương trình, Yang-Mills phương trình trong đó chí ít một cái.
+
+	Một chiêu thăng cấp có thể chọn điều kiện là: Hoàn thành toán học đại nhất thống.
+
+	Thẩm Kỳ trước sau giải quyết Hodge phỏng đoán, N-S phương trình, ba cái tất tuyển điều kiện bên trong 2, 3 đã giải quyết.
+
+	Trước mắt còn kém gần 10 triệu điểm học bá tích phân, toán học liền có thể thăng làm cấp 15.
+
+	Cấp 15, hệ thống thiết lập là "Vô địch tịch mịch" .
+
+	Vô địch là mỗi cá nhân theo đuổi mục tiêu cuối cùng, Thẩm Kỳ cũng khát vọng vô địch.
+
+	Và giải quyết ngàn năm nan đề so sánh, học bá tích phân có thể giải quyết vấn đề không tính là gì vấn đề lớn, xoát thôi, lại xoát mấy bài  « khoa học »,  « tự nhiên »,  « Physics today » chờ IF giá trị siêu cao bản gốc tính luận văn liền làm xong.
+
+	N-S phương trình có cực kỳ trọng yếu ứng dụng ý nghĩa, nó có thể dùng tại mô phỏng thời tiết, hải lưu, tinh hệ bên trong hằng tinh vận động, cánh chung quanh khí lưu, cùng phi hành khí, thuyền, cỗ xe thiết kế, huyết dịch tuần hoàn nghiên cứu, trạm phát điện thiết kế, ô nhiễm hiệu ứng phân tích các loại.
+
+	Nước chảy xiết tại trong thiên nhiên rộng lớn mỗi thời mỗi khắc đều đang phát sinh, nhưng rất khó cầu giải. Triệt để giải quyết N-S phương trình, cũng tại tính toán cơ phụ trợ dưới, nước chảy xiết vấn đề có lẽ có thể được đến chính xác đối ứng.
+
+	Nói tóm lại giải quyết N-S phương trình là một hạng tạo phúc Nhân loại công tích vĩ đại, quốc gia đối Thẩm Kỳ đoàn đội tiến hành long trọng khen ngợi.
+
+	Khen ngợi đại hội kết thúc về sau, Thẩm Kỳ tiếp nhận phóng viên phỏng vấn.
+
+	Phóng viên nói đến: "Thẩm giáo sư, quốc tế vật lý giới đã rộng khắp tán thành các ngươi đoàn đội liên quan tới N-S phương trình thành quả nghiên cứu, theo chúng ta từ Thuỵ Điển Hoàng gia viện khoa học phương diện giải được tin tức, ngươi cùng Witten giáo sư được đề cử vì sang năm Nobel vật lý người ứng cử, cái này đem là ngươi lần thứ hai hướng Nobel vật lý khởi xướng xung kích."
+
+	Thẩm Kỳ có chút ngoài ý muốn: "Tin tức chuẩn xác không, ta làm sao không biết?"
+
+	Phóng viên: "Ta đài có trường kỳ trú Thuỵ Điển phóng viên, tin tức phi thường chuẩn xác, đây là năm phút đồng hồ trước đạt được tin tức."
+
+	Thẩm Kỳ lắc đầu nói đến: "Kỳ thật đi, N-S phương trình mặc dù có vượt giới thuộc tính, nhưng ta cho rằng giải quyết vấn đề này quá trình là số lượng học qua trình, thật là thật bất ngờ, tại sao lại đề cử ta tham gia bình Nobel vật lý?"
+
+	Phóng viên: "Đề cử ngài tham gia bình Fields thưởng, ngài cũng không có tư cách a. . . A không, ý của ta là, toán học giới vinh dự cao nhất đã bị ngài xoát phát nổ." 

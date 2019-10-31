@@ -1,0 +1,127 @@
+ Chương 202: y(x)+δy(x) chính xác thao tác phương pháp
+
+	Ngày 15 tháng 8, đây là Thẩm Kỳ kế hoạch xuất ngoại ngày, đến lúc đó hắn đem từ Trung Quốc bay hướng New York, từ New York tiến về New Jersey châu Princeton thị, bắt đầu hắn hải ngoại cầu học kiếp sống.
+
+	Hiện tại là Thẩm Kỳ xuất ngoại đếm ngược giai đoạn, hắn cùng Âu Diệp như hình với bóng.
+
+	Xuất ngoại đếm ngược 15 4 ngày, Thẩm Kỳ cùng Âu Diệp xâm nhập tham khảo hình như phương trình x^2-Ay^2=B lúc nào có số nguyên giải vấn đề.
+
+	Đây là kinh điển vấn đề, đối Diofantos phương trình nghiên cứu sâu nhất cũng là có thành tựu nhất người là Fermat.
+
+	Fermat đại định lý giả thiết liền viết tại Diofantos chỗ lấy một bản văn hiến bên trên, bởi vì trên sách trống không chỗ quá ít, Fermat rất nghịch ngợm thái giám, chứng minh không có hoàn thành.
+
+	Đưa ra giả thiết, chứng minh giả thiết, tiếp tục đưa ra giả thiết , chờ đợi hậu nhân chứng minh.
+
+	Trăm ngàn năm qua, nhà toán học làm không biết mệt si mê loại con số này trò chơi.
+
+	Wales tại Princeton dạy học lúc, dùng thời gian mười năm viết một phần luận văn, tại bản này luận văn bên trong hắn đã chứng minh Fermat đại định lý, đem Fermat thái giám luận văn hoàn tất, phi thường hoàn mỹ hoàn thành.
+
+	Số lượng trò chơi cũng không kết thúc, Goldbach phỏng đoán cùng Riemann phỏng đoán bối rối số luận nhà nghiên cứu rất nhiều năm.
+
+	Hai cái này vượt qua thế kỷ siêu cấp nan đề, chỗ nghiên cứu đối tượng vô cùng đơn giản --- số nguyên tố, chỉ có thể bị 1 cùng chính nó chia hết số tự nhiên.
+
+	ξ hàm số mô hình chung cực chứng minh, có lẽ muốn từ đơn giản nhất Diofantos phương trình cất bước.
+
+	Một khi ξ hàm số mô hình bị hoàn toàn chứng minh, Goldbach phỏng đoán, Riemann phỏng đoán có khả năng đồng thời bị phá giải.
+
+	"Tuyệt đối là vang dội cổ kim sự nghiệp to lớn." Thẩm Kỳ nói với Âu Diệp đến, "Công việc này giao cho ngươi, đây là số luận nhà nghiên cứu lịch sử sứ mệnh."
+
+	"Thật là khó nha." Âu Diệp từ trên cổ tay gỡ xuống dây thun, thành thạo bới kiểu đuôi ngựa.
+
+	"Biết khó khăn mà lên." Thẩm Kỳ dùng tay phải vỗ vỗ vai trái của mình.
+
+	Âu Diệp nhu thuận nghiêng đầu, tựa ở Thẩm Kỳ trên bờ vai: "Ta muốn cùng ngươi cùng một chỗ hoàn thành phần này sự nghiệp to lớn."
+
+	Lúc này phim bắt đầu.
+
+	A đúng, nơi này là rạp chiếu phim, người yêu nhóm thường tới tam đại nơi chốn một trong.
+
+	Màn hình lớn bên trong nữ chính mười phần dũng mãnh phi thường, tay nàng cầm súng tiểu liên, đột đột đột điên cuồng bắn phá, tại không xong máu tình huống dưới tiêu diệt số lượng kinh người bầy zombie.
+
+	Duy nhất phiền phức là Zombie BOSS, vũ khí thông thường không cách nào phá hủy nó.
+
+	Zombie BOSS đại hiển thần uy, một trảo đào ra một khoả trái tim, cắn một cái rơi một cái đầu.
+
+	Chiến thần nữ chính đồng đội toàn bộ cúp máy, chết không toàn thây.
+
+	"Ha ha ha." Thẩm Kỳ cười to, hắn ôm Âu Diệp, thuận tay giải khai Âu Diệp bím tóc đuôi ngựa dây thun.
+
+	Âu Diệp đuôi ngựa tản, lại hắc lại thẳng lại lớn lên tóc tiết mở.
+
+	Âu Diệp sợi tóc cọ lấy Thẩm Kỳ hai gò má, có chút ngứa, nhưng nàng mùi tóc vị rất dễ chịu.
+
+	Mùi tóc, mùi thơm cơ thể cùng nhàn nhạt thuốc Đông y vị hỗn hợp lại cùng nhau, đây là Âu Diệp đặc hữu khí tức, gang tấc ở giữa mới có thể ngửi hưởng.
+
+	Hữu tình người ôm nhau, phim kinh dị cũng nhìn ra phim tình cảm điều tính.
+
+	"Ngươi không sợ ta tóc dài che mặt dáng vẻ à nha?" Âu Diệp bờ môi dán Thẩm Kỳ vành tai, nhẹ giọng hỏi đến.
+
+	"Nữ nhân của mình sợ cái gì, ngươi cũng không phải quỷ." Thẩm Kỳ nói đến, xong việc bổ sung một câu: "Là quỷ ta cũng không sợ, ta liền thích nữ quỷ."
+
+	"Chán ghét!" Âu Diệp há mồm cắn Thẩm Kỳ vành tai, không nhẹ không nặng. Hạ miệng cường độ nhẹ, hắn không có cảm giác. Cường độ nặng, sợ cắn thương hắn.
+
+	Xuất ngoại đếm ngược 15 2 ngày, Thẩm Kỳ cùng Âu Diệp tại thư viện ở một cả ngày, các học các, học tập mệt mỏi liền tương hỗ cho ăn.
+
+	Sau đó mấy ngày, cũng giống như thế.
+
+	Học tập trạng thái về dũng Âu Diệp, để Chu Vũ An cảm nhận được áp lực thực lớn.
+
+	Đã đại nhị học kỳ sau, khoa chính quy giai đoạn sắp qua hết một nửa, lại không cố gắng đuổi theo liền không đuổi kịp.
+
+	Chu Vũ An huyền lương thứ cổ, mỗi ngày chỉ ngủ 5 giờ, hắn điên cuồng nghiên cứu có thể tích hệ thống cùng hình học vi phân, cho mình thiết lập một cái chủ công phương hướng, mà đối kháng số luận sở trường Âu Diệp.
+
+	Xuất ngoại đếm ngược 14 5 ngày, hôm nay là cuối tuần.
+
+	Thẩm Kỳ thực hiện hứa hẹn, mang Âu Diệp đến Bắc Đái hà nghỉ phép. Cùng một chỗ lữ hành là giữa người yêu môn bắt buộc, chỉ cần tâm liên tâm, yêu đi theo, đi nơi nào lữ hành đều như thế.
+
+	Âu Diệp cũng không đề cập tới nữa Thụy Sĩ tự do hành, nàng vung lên nắm tay nhỏ nện Thẩm Kỳ ngực: "Bắc Đái hà, Bắc Đái hà, Bắc Đái hà! Ta cùng ta cha mẹ, tới qua nơi này năm lần trở lên."
+
+	"Đây là ta lần thứ nhất đến Bắc Đái hà lữ hành, rất đẹp." Thẩm Kỳ ngồi tại trên bờ cát, ngưng thần ngưỡng vọng bầu trời đêm.
+
+	Ban đêm bãi cát có số ít du khách, Thẩm Kỳ, Âu Diệp là trong đó một đôi tình lữ.
+
+	"Lúc trước để người ta Tiểu Điềm Điềm, bây giờ gọi người ta tẩu phu nhân, ha ha, nam nhân." Âu Diệp cúi đầu lẩm bẩm, ngón tay tại trên bờ cát vẽ vòng tròn.
+
+	"Cái thí dụ này không thỏa đáng, ngươi mãi mãi cũng là ta Tử Hà, độc nhất vô nhị." Thẩm Kỳ tiếp tục đêm xem thiên tượng, tối nay nhiều mây, có gió, mặt trăng lúc ẩn lúc hiện.
+
+	Bỗng nhiên, Thẩm Kỳ nắm lên một thanh cát mịn vẩy hướng không trung, phi thường chuyên chú nhìn chằm chằm không khí.
+
+	Hạt cát trong gió bay múa, bị thổi tan.
+
+	Thẩm Kỳ chú ý chính là hạt cát trên không trung vận động quỹ tích cùng phiêu tán tốc độ.
+
+	Viên thứ nhất bom nguyên tử dẫn bạo thí nghiệm tiến hành lúc, Fermi tiến sĩ hướng không trung ném đi một thanh giấy vụn, hắn thông qua mắt thường quan sát kết hợp tính nhẩm, căn cứ giấy vụn đang trùng kích sóng bên trong bay múa quỹ tích, chuẩn xác tính ra bom nguyên tử hợp lý lượng.
+
+	Tối nay Bắc Đái hà bãi cát, nhiều mây có gió thời tiết, Thẩm Kỳ làm lấy cùng Fermi những chuyện tương tự, hắn tại tính toán tốc độ gió hướng gió.
+
+	Âu Diệp còn tại vẽ vòng tròn, Thẩm Kỳ đem trên bờ cát Âu Diệp vẽ vòng vòng san bằng, tại đồng dạng vị trí viết xuống một cái đơn giản tư thế: y(x)+δy(x)
+
+	"Lặp lại vẽ vòng tròn không có bất kỳ cái gì toán học ý nghĩa, Âu Diệp, ngươi có thể vẽ ra y(x)+δy(x) toán học đường cong sao?" Thẩm Kỳ hỏi.
+
+	"Siêu đơn giản." Âu Diệp lập tức tại trên bờ cát vẽ ra một vòng trăng non, đây là Lagrange biến phân đường cong.
+
+	Đúng lúc này gió thổi mây tạnh, mặt trăng xuất hiện, là một vòng trăng non, cùng Âu Diệp vẽ trăng non đường cong giống nhau như đúc.
+
+	Thẩm Kỳ kết quả tính toán tương đương chuẩn xác, mặt trăng xuất hiện thời gian sai sót nhỏ hơn 1 giây.
+
+	Ngày tốt cảnh đẹp, trời tốt, giai nhân không thể cô phụ.
+
+	Thẩm Kỳ ôm Âu Diệp chỉ hướng bầu trời đêm: "Nhìn, cỡ nào thần kỳ, ngươi mới vừa ở trên bờ cát vẽ xong Lagrange trăng non đường cong, trong bầu trời đêm liền xuất hiện một vòng chân chính trăng non, ta tin tưởng, đây là sức mạnh của ái tình."
+
+	Sóng biển đập bãi cát, ánh trăng trong sáng tung xuống, chân thực ánh trăng chiếu rọi trên bờ cát y(x)+δy(x), cùng y(x)+δy(x) đối ứng trăng non đường cong.
+
+	Tình cảnh này tỏa ra lãng mạn, yêu đương bên trong nữ nhân trí thông minh sau đó hàng, Âu Diệp khuôn mặt nhỏ đỏ lên.
+
+	"Mặt trăng làm chứng, Âu Diệp, ta sẽ vĩnh viễn yêu ngươi, chiếu cố ngươi." Thẩm Kỳ cái trán dán Âu Diệp cái trán, chóp mũi đụng chóp mũi: "Nếu như nuốt lời, ta sẽ vĩnh viễn họa không ra chính xác toán học đường cong."
+
+	"Không cho phép gạt ta." Âu Diệp đỏ mặt đến cổ căn, ánh mắt mê ly.
+
+	Dưới ánh trăng, Thẩm Kỳ hôn lấy Âu Diệp.
+
+	Cái hôn này rất kéo dài, kéo dài vài phút.
+
+	Tình nhân ở giữa hôn kết thúc lúc, trong bầu trời đêm mặt trăng trốn vào đám mây.
+
+	"Ngươi. . . Là cố ý, coi là tốt thời gian." Âu Diệp thở gấp, nụ hôn đầu tiên để thân thể của nàng như như lửa thiêu đốt.
+
+	Âu Diệp thích loại cảm giác này, trái tim phảng phất liền muốn nhảy ra. Cố ý liền cố ý a, hắn cố ý hay là vô tình, cũng không quan hệ nha. 

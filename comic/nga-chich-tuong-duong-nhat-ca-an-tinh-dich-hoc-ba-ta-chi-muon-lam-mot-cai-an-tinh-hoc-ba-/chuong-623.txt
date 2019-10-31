@@ -1,0 +1,139 @@
+ 623 chương ngươi, ngươi, còn có ngươi
+
+	 
+
+	Triệu Thiên gượng cười hai tiếng: "Hắc hắc, nghiên cứu đồ chơi."
+
+	"Vậy chúng ta cùng nhau nghiên cứu." Âu Diệp đi đến đen tấm trước, cẩn thận quan sát trên bảng đen thôi diễn tư thế.
+
+	"Diệp tử tỷ ngồi." Tằng Hàn kéo cái ghế đặt sau lưng Âu Diệp.
+
+	"Ừm." Âu Diệp ngồi xuống.
+
+	"Diệp tử tỷ uống nước." Tiểu Vân rót chén nước nóng đưa cho Âu Diệp.
+
+	"Tạ ơn." Âu Diệp tiếp nhận chén nước cũng không uống, chỉ là ấm tay.
+
+	Tí tách, thời gian trôi qua.
+
+	Âu Diệp không nói lời nào, ba cái học sinh lặng im im ắng.
+
+	Cái này có lẽ chính là nghiên cứu của bọn hắn phương thức.
+
+	Thật lâu, Âu Diệp hỏi một câu: "Tiểu Triệu nghiên cứu bảo mật đến chúng ta viện toán học thật sao?"
+
+	Triệu Thiên liên tục gật đầu: "Đúng vậy a đúng vậy a, ta rất muốn tuyển diệp tử tỷ làm ta thạc sĩ đạo sư, có thể diệp tử tỷ ngươi gần nhất không mang theo học sinh, cho nên ta chỉ có thể tuyển Lưu giáo sư."
+
+	"A, Lưu giáo sư là cái hảo lão sư, hắn tại nhóm luận phương diện rất có một bộ." Âu Diệp nói đến, nàng ngược lại hỏi thăm hai người khác: "Hai ngươi tích điểm nhiều ít?"
+
+	Tằng Hàn, Tiểu Vân trăm miệng một lời: "4. 0."
+
+	"A, ưu tú." Âu Diệp đảm nhiệm chỉ đạo lão sư cái này xã đoàn mặc dù xã viên không nhiều, nhưng từng cái xã viên đều là học sinh bên trong tinh anh đâu.
+
+	Đơn giản hàn huyên vài câu, Âu Diệp lại không nói, nàng chuyên chú vào trên bảng đen toán học ký hiệu.
+
+	Một cái lão sư, ba cái học sinh, cứ như vậy lẳng lặng nhìn một khối bảng đen.
+
+	Hồi lâu, Âu Diệp đứng lên, nàng lau đi trên bảng đen phấn viết chữ, chỉ để lại cô độc một hàng chữ: e(Q) là vô tận tập nạp muốn điều kiện là L(e, 1)=0.
+
+	Đã chứng minh câu nói này, tức đã chứng minh BSD phỏng đoán.
+
+	Nhưng trên thực tế "e(Q) là vô tận tập nạp muốn điều kiện là L(e, 1)=0" cũng không phải là Birch and Swinnerton-Dyer ban sơ đưa ra suy đoán này lúc hình thức, hai người bọn họ ban sơ làm giả thiết tại toán học trên ý nghĩa so câu nói này mạnh hơn, cũng chính là cái gọi là mạnh BSD phỏng đoán.
+
+	Trên bảng đen nghề này nội dung là yếu BSD phỏng đoán, ba cái học sinh trong lòng run lên, diệp tử tỷ đây là từ yếu BSD phỏng đoán bên trên tìm được đột phá khẩu?
+
+	Âu Diệp tại yếu BSD phỏng đoán phía dưới tiếp tục viết đến:
+
+	L(e, s)=c(s-1)^r+ cao giai hạng
+
+	Ai mạnh ai yếu liếc qua thấy ngay, đương nhiên là phía dưới cái này đẳng thức mạnh hơn, nó là mạnh BSD phỏng đoán biểu đạt thức.
+
+	Bất luận là mạnh là yếu, ngành toán học ưu tú học sinh cũng không khó lý giải BSD phỏng đoán, khó khăn là chứng minh.
+
+	Âu Diệp do dự một hồi, cuối cùng lau đi yếu BSD phỏng đoán, lưu lại mạnh BSD phỏng đoán.
+
+	"Chúng ta liền làm cái này đi." Âu Diệp gõ gõ bảng đen.
+
+	"Diệp tử tỷ, làm đây là chỉ?" Triệu Thiên hỏi.
+
+	Âu Diệp: "Chứng minh nó."
+
+	"Chứng minh mạnh BSD phỏng đoán?" Triệu Thiên sợ ngây người.
+
+	Âu Diệp: "Đúng vậy, chúng ta chứng minh nó."
+
+	"Diệp tử tỷ, chúng ta là chỉ?" Tiểu Vân hỏi.
+
+	Âu Diệp: "Ngươi, ngươi, còn có ngươi, tăng thêm ta."
+
+	"Diệp tử tỷ ngươi đùa thật a!" Triệu Thiên cho là mình nghe lầm.
+
+	Âu Diệp cũng là buồn bực: "Ba các ngươi, chẳng lẽ là chơi giả?"
+
+	Triệu Thiên có chút nói năng lộn xộn: "Ta... Ta ta ta... Ta mới vừa nói a, chúng ta ba nghiên cứu BSD phỏng đoán là đùa giỡn! Liền nói ta đi, ta còn nghiên cứu qua P đối NP đâu, ta tin tưởng Thẩm giáo sư khẳng định cũng nghiên cứu qua những vấn đề này, nghiên cứu nó không có nghĩa là liền nhất định phải chứng minh nó nha... Chúng ta chính là ngó ngó mà thôi, không nghĩ tới muốn chinh phục nó."
+
+	Một mực không lên tiếng Tằng Hàn bỗng nhiên mở miệng: "Triệu sư huynh đã nghiên cứu bảo mật, ta cùng Vân sư tỷ bình thường không có chuyện gì, không bằng đi theo diệp tử tỷ, học tập chứng minh mạnh BSD phỏng đoán kỹ xảo."
+
+	Dễ dàng đem tích điểm xoát đến 4. 0, lại đối yêu đương không hứng thú, Tằng Hàn cùng Tiểu Vân bình thường thật đúng là không có việc gì, cho nên Tiểu Vân làm Hong Kong giấy thông hành, Tằng Hàn mỗi ngày ở chỗ này viết bảng đen, xóa bảng đen, suy nghĩ các loại học thuật nan đề.
+
+	Âu Diệp nhìn chằm chằm Tằng Hàn, cái này gầy gò cao cao ăn nói có ý tứ đại nam hài so với hít hít hà hà Triệu Thiên, tựa hồ càng có hơn sinh viên ngành khoa học tự nhiên bình tĩnh thong dong khí chất.
+
+	Ngay thẳng như vậy bị diệp tử tỷ nhìn chăm chú, Tằng Hàn lộ vẻ có chút không được tự nhiên, hắn ngượng ngùng cười cười, hai má lúm đồng tiền nhỏ như ẩn như hiện.
+
+	Khoảnh khắc, Âu Diệp nói đến: "Nhỏ từng, ta nhớ được ngươi, ngươi chính là 15 tuổi cử đi Yến đại vị thiên tài kia nhi đồng."
+
+	"Không dám xưng thiên tài, chẳng qua là sẽ làm đề mà thôi." Tằng Hàn gãi gãi đầu, một bộ ngốc hàm hàm bộ dáng.
+
+	"Ngươi năm nay còn chưa trưởng thành a?" Âu Diệp lại hỏi.
+
+	Tằng Hàn nói: "Kém mấy tháng đầy 18 tuổi."
+
+	"Rất tuyệt." Âu Diệp gật đầu nói.
+
+	Cũng không biết là bởi vì 15 tuổi cử đi Yến đại rất tuyệt, vẫn là chưa đầy 18 tuổi rất tuyệt, dù sao đạt được diệp tử tỷ khen ngợi, Tằng Hàn cảm thấy đặc biệt vui vẻ.
+
+	Âu Diệp lần nữa gõ gõ bảng đen, nói đến: "Ba các ngươi muốn làm, liền cùng ta làm . Không muốn làm, coi như xong."
+
+	Tằng Hàn trước hết nhất tỏ thái độ: "Ta cùng diệp tử tỷ làm."
+
+	Tiểu Vân sau đó nhấc tay: "Ta cũng cùng diệp tử tỷ làm."
+
+	Sư đệ sư muội đều biểu quyết tâm, thân là học trưởng, Âu Diệp máy tính xã xã trưởng, Triệu Thiên không thể thờ ơ nha.
+
+	Triệu Thiên ưỡn ngực nói đến: "Tính ta một người!"
+
+	Thế là tại cái này bình thường thời gian bên trong, một vị người yếu nhiều bệnh toán học nữ giáo sư mang theo ba cái sinh viên chưa tốt nghiệp, hướng ngàn năm nan đề một trong BSD phỏng đoán phát khởi chính thức xung kích.
+
+	Âu Diệp lập chí giải quyết mạnh BSD phỏng đoán, cái này có thể lý giải.
+
+	Âu Diệp cần trợ thủ, cái này cũng có thể lý giải.
+
+	Trợ thủ là tiến sĩ nghiên cứu sinh hoặc là thạc sĩ nghiên cứu sinh, cái này đều có thể lý giải.
+
+	Nhưng mà Âu Diệp trợ thủ là ba cái sinh viên chưa tốt nghiệp... Tốt a, trong đó có cái chuẩn thạc sĩ nghiên cứu sinh.
+
+	Cho dù tính cả Triệu Thiên số này học hệ chuẩn thạc sĩ nghiên cứu sinh, Âu Diệp trợ thủ còn chưa đủ mạnh.
+
+	Chí ít nhìn qua là như thế này.
+
+	Âu Diệp là thế nào cân nhắc?
+
+	Nàng cái này cho tới trưa đều đang quan sát.
+
+	L(e, s) có thể bị kéo dài mở đất thành đôi tùy ý một cái số nhiều s đều cho ra một cái đáp số hàm số, mà lại đối cái này hàm số có thể ứng dụng vi phân và tích phân phương pháp. Ý vị này L(e, s) có thể dùng đến tên Taylor đa thức đến biểu thị.
+
+	Cho nên mạnh BSD phỏng đoán trên thực tế có thể thuyết minh là: e(Q) là vô tận tập nạp muốn điều kiện là cr0, nhưng đối n=0, ... , r-1, mỗi cái hệ số cn đều là 0, nơi đây r vì e trật.
+
+	Đổi một loại càng trực quan miêu tả là, đối Taylor đa thức mở đầu một số số không hạng số lượng tiến hành tính toán, cung cấp đối cái này hàm số tại có quan hệ điểm là không trình độ một loại độ lượng.
+
+	Cho nên mạnh BSD phỏng đoán một loại cách nói khác là, e trật cấp ra L(e, 1) là không trình độ một loại độ chính xác lượng.
+
+	Cái này ba cái sinh viên chưa tốt nghiệp tại trên bảng đen một trận "Đùa giỡn", đã chạm đến mạnh BSD phỏng đoán hạch tâm bộ phận.
+
+	Đây chính là Âu Diệp quan sát kết luận.
+
+	Toán học loại vật này, một chút nhìn ra thiên phú.
+
+	Triệu Thiên, Tiểu Vân, Tằng Hàn tại cái nhìn đại cục bên trên có lẽ là mơ hồ, nhưng bọn hắn đầy đủ thông minh, đầy đủ có thiên phú, đối với toán học cũng đầy đủ chuyên chú. Cái này ba cái học sinh trưởng thành, lại đều không có yêu đương, bọn hắn cảm thấy toán học so yêu đương thú vị nhiều.
+
+	Tới gần giữa trưa, Âu Diệp đối ba vị học sinh nói đến: "Đại gia đi trước ăn cơm đi, sau một giờ ở chỗ này tập hợp." 

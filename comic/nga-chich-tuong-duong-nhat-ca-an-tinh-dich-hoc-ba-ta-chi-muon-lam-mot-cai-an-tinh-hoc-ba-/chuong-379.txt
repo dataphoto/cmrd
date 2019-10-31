@@ -1,0 +1,95 @@
+ 379 chương hệ thống hóa cùng Hodge phỏng đoán
+
+	Hai tuần về sau, học kỳ mới khai giảng.
+
+	Cầm tô lâu chính tây Alexander lâu Richardson âm nhạc sảnh khách quý chật nhà.
+
+	Nơi này là Princeton trọng yếu nhất biểu diễn cùng diễn thuyết nơi chốn, từng ở chỗ này phát biểu qua diễn thuyết quý khách bao quát: Bill - Clinton, Hillary - Clinton, Gates, Rais chờ.
+
+	Hôm nay đến phiên Thẩm Kỳ, hắn diễn thuyết đề mục là  « hệ thống hóa cùng Hodge phỏng đoán ».
+
+	Mấy trăm vị khách quý bao quát IMU cao cấp quan viên, quốc tế nổi danh học phủ toán học giáo sư, quyền uy nghiên cứu cơ cấu toán học chuyên gia, trứ danh toán học sách báo chủ biên, cỡ lớn học thuật xuất bản tập đoàn cao quản, cùng tương quan truyền thông nhân sĩ.
+
+	Princeton ngành toán học, Phổ Cao Sở toán học bộ toàn thể dạy nghiên nhân viên có mặt hội nghị, đại học Princeton nhân viên nhà trường phái đại biểu có mặt.
+
+	Fefferman chủ nhiệm không có nói khoác lác, tràng diện này đủ hùng vĩ, quy cách đủ đỉnh cấp.
+
+	Thẩm Kỳ chuyên đề diễn thuyết thư mời một văn kiện khó cầu,  « hệ thống hóa cùng Hodge phỏng đoán » đại đoàn đội tổng cộng 20 người, còn lại 19 người phi thường nghĩ đến hiện trường lắng nghe Thẩm Kỳ diễn thuyết, cuối cùng chỉ sáu người, Lỗ Quốc Trân, Ngô chủ nhiệm, Vu Lỗi, Ralph, cùng Lỗ Quốc Trân, Ngô chủ nhiệm riêng phần mình mang tới một vị nghiên cứu viên.
+
+	Diễn thuyết người Thẩm Kỳ chưa lên đài, trong đại sảnh quý khách châu đầu ghé tai tương hỗ nghị luận.
+
+	"Nhìn qua hai tuần trước đó, Thẩm Kỳ dự ghi chép tại arVix bên trên luận văn sao?"
+
+	"Nhìn qua mấy lần, ta cho là hắn đã chứng minh Hodge phỏng đoán, lấy một loại đại sư cấp phương thức."
+
+	"Nhưng ta vẫn còn tồn tại điểm đáng ngờ, nghe nói dự ghi chép tại arVix bên trên chính là áp súc bản."
+
+	"Điểm đáng ngờ sắp giải khai, mau nhìn, Thẩm Kỳ lên đài."
+
+	Thẩm Kỳ leo lên sân khấu, toàn trường vang lên tiếng vỗ tay, Thẩm Kỳ phất tay thăm hỏi, tiếng vỗ tay dần dần hơi thở, đại sảnh quy về yên tĩnh.
+
+	"Các nữ sĩ các tiên sinh, buổi sáng tốt, ta là Princeton ngành toán học giáo sư Thẩm Kỳ, tiếp xuống để cho ta báo cáo  « hệ thống hóa cùng Hodge phỏng đoán ». Toàn bộ báo cáo dự tính tiếp tục suốt cả ngày, cảm tạ mọi người đến đây lắng nghe." Thẩm Kỳ tại lễ phép lời dạo đầu bên trong bắt đầu hắn chuyên đề diễn thuyết.
+
+	"Chính thức báo cáo trước đó, xin cho phép ta giới thiệu ta đoàn đội, chúng ta chi này đoàn đội tổng cộng có hai mươi vị thành viên, đối với một cái cơ sở lớp số học đề mà nói, đây là cực kỳ xa hoa phối trí."
+
+	"Rất vinh hạnh, ta bị đề cử vì đoàn đội người dẫn đầu, cảm tạ Lỗ Quốc Trân tiên sinh, Ngô Ngọc Dũng tiên sinh, cùng đoàn bọn hắn đội thành viên vì cái này hạng mục làm ra cống hiến. Princeton, Yến đại, Thần Hưng toán học trung tâm ba sở học thuật cơ cấu tại hạng mục này bên trong đoàn kết nhất trí, chúng ta hợp tác phi thường vui sướng, lấy được trọng đại đột phá."
+
+	Trên khán đài, ngồi cùng một chỗ Lỗ Quốc Trân, Ngô chủ nhiệm phi thường kích động, khả năng này là hai bọn hắn trong cuộc đời thời khắc đỉnh cao nhất.
+
+	Thẩm Kỳ thao tác lật giấy bút, khống chế trên màn hình lớn PPT hoán đổi: "Toàn thế giới vượt qua một nửa nhà toán học tại đại số hình học trong lĩnh vực tìm kiếm đột phá, tuyển đề là rất trọng yếu, chúng ta lựa chọn đại số hình học bên trong khó khăn nhất một vấn đề --- Hodge phỏng đoán."
+
+	"Trực tiếp chứng minh Hodge phỏng đoán công việc kéo dài mấy chục năm, mãi cho đến mấy năm gần đây, mới do đại học Bonn, Paris cao đẳng sư phạm học viện làm ra tính thực chất thành quả nghiên cứu."
+
+	Đại học Bonn Schultz giáo sư cũng tại hiện trường, hắn mặt không biểu tình, lạnh giống một khối Băng.
+
+	Bên cạnh Trường Sư phạm Paris Viduka giáo sư vỗ vỗ Schultz đùi, nhỏ giọng nói đến: "Peter, tâm tình tiêu cực là ma quỷ, học một ít ta đi, ta liền rất thoải mái. Hôm nay ta tới đây duy nhất mục đích, là lấy fan hâm mộ thân phận hướng Thẩm Kỳ học tập kinh nghiệm."
+
+	"Ta liền không nên tới." Schultz nói xong câu này sau nhắm mắt lại.
+
+	Trên sân khấu, Thẩm Kỳ tiêu sái tự nhiên: "Năm ngoái tháng 9 ta trở về trải qua Trung Quốc, ngày đó ta cùng Lỗ tiên sinh, Ngô tiên sinh nói chuyện trời đất, đột nhiên cảm giác được là lạ ở chỗ nào, ta nói, hắc, các lão huynh, vì cái gì chúng ta không thể thành lập một cái thể hệ, lấy hệ thống hóa hình thức chứng minh Hodge phỏng đoán là chính xác đầu đề."
+
+	"Lỗ tiên sinh, Ngô tiên sinh mười phần tán thành quan điểm của ta, thế là chúng ta liên hợp khởi động  « hệ thống hóa cùng Hodge phỏng đoán » hạng mục, đến nay vừa vặn một năm."
+
+	Dưới đài, lão Ngô minh tư khổ tưởng: "Năm ngoái tháng 9 có một ngày như vậy sao? Ta nhớ được Thẩm giáo sư xác thực tới qua trong chúng ta, nhưng hắn lúc ấy chưa nói qua cái gì hệ thống hóa loại hình sự tình a, liền nói với ta, lão Ngô, chúng ta đem Hodge phỏng đoán giải quyết hết đi."
+
+	"Lão Ngô a, ngươi vẫn là tuổi còn rất trẻ." Lão Lỗ cười nói.
+
+	Lão Ngô: "Lão Lỗ, ngươi liền lớn hơn ta một tuổi, hai ta đều là sắp sáu mươi tuổi người, còn nói gì còn trẻ hay không."
+
+	Lão Lỗ dựng thẳng lên ngón tay dán ở bên môi, làm ra im lặng thủ thế, Thẩm Kỳ nói xong hạng mục bối cảnh về sau, ngay tại giảng giải cùng hạng mục tương quan học thuật trọng điểm.
+
+	Trên sân khấu Thẩm Kỳ theo tiêu chuẩn luận văn hình thức, giới thiệu chính văn trước đó trước giảng hạch tâm nội dung trích yếu: "Chúng ta chỉnh thể mạch suy nghĩ là, trước thành lập một cái thể hệ, tạm thời xưng là 'Thẩm - lỗ - ngô hệ thống', tên gọi tắt SLw hệ thống."
+
+	"SLw thể hệ ý nghĩa là, lấy 'Cục bộ đại nhất thống' tư tưởng, giải thích đại số hình học, topol, số học phân tích chờ lĩnh vực vấn đề."
+
+	"Hodge phỏng đoán, có thể dùng SLw để giải thích. Tô-pô vấn đề, có thể dùng SLw để giải thích, tỉ như nói đã được chứng minh Poincaré phỏng đoán. Số học phân tích vấn đề, đồng dạng có thể dùng SLw để giải thích."
+
+	Thẩm Kỳ vung tay hô to: "Có thể, có thể, đều có thể!"
+
+	Xoạt!
+
+	Toàn trường chấn động.
+
+	"Cục bộ đại nhất thống", "Có thể có thể đều có thể", hai cái này rất có lực rung động Key-point cũng không xuất hiện tại Thẩm Kỳ công khai tại arVix bên trên tinh giản bản luận văn bên trong.
+
+	Lão Lỗ, lão Ngô tại hai tháng trước đi Mỹ, giao nhận xong tư liệu sau hai người bọn họ liền về nước, không có thấy tận mắt đến Thẩm Kỳ tự mình chỉnh hợp  « hệ thống hóa cùng Hodge phỏng đoán » toàn văn.
+
+	Gặp qua Thẩm Kỳ cuối cùng bản luận văn toàn văn người chỉ có bốn cái, Fefferman, Faltings, Deligne cùng Ralph.
+
+	"Đại nhất thống!"
+
+	"Đều có thể giải thích!"
+
+	Toàn trường quý khách sôi trào, cục diện có sai lầm khống xu thế.
+
+	Lão Lỗ, lão Ngô nhảy dựng lên, đã kinh vừa vui, kinh nhiều hơn vui, Thẩm Kỳ a Thẩm Kỳ, ngươi thế nào đem sự tình làm như thế lớn? Cái này vượt qua hai ta trình độ nha.
+
+	Lão Lỗ, lão Ngô mang đến thể nghiệm không khí hiện trường hai vị nghiên cứu viên sợ ngây người.
+
+	"Cái này. . . Cái này thống nhất cáp?" Yến đại nghiên cứu viên nghẹn họng nhìn trân trối, hắn là Lỗ Quốc Trân phụ trách AN bản khối bên trong cốt cán.
+
+	"Thẩm lão bản mạch suy nghĩ, chúng ta vĩnh viễn đoán không ra a. . ." Thần Hưng toán học trung tâm nghiên cứu viên là TP bản khối bên trong tinh anh, hắn xưa nay không dám nghĩ tới, chính mình tham dự hạng mục không cẩn thận liền đại nhất chỉ huy, hắn nguyên lai tưởng rằng chính là chứng minh cái Hodge chỉ suy đoán mà thôi.
+
+	Schultz xoát một chút đứng lên, hắn lộ vẻ không thể tưởng tượng nổi, làm nửa ngày Thẩm Kỳ căn bản là không có coi hắn là đối thủ, Thẩm Kỳ đối cái án không cảm thấy hứng thú, Thẩm Kỳ dã tâm là đại nhất thống! Tại đại nhất thống quá trình bên trong, thuận tay giải quyết Hodge phỏng đoán thôi.
+
+	Thẩm Kỳ xem xét hiện trường thế cục sắp mất khống chế, tranh thủ thời gian giải thích: "Cục bộ, cục bộ! Cục bộ đại nhất thống, không phải là các ngươi trong tưởng tượng loại kia tuyệt đối, triệt để đại nhất thống! Mọi người ngồi xuống, mời mọi người trở về chỗ cũ ngồi xuống!" 

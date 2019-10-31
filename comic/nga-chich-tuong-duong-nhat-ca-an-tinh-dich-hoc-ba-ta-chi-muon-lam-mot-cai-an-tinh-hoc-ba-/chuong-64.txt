@@ -1,0 +1,137 @@
+ Chương 64: Máy tính toán
+
+	Cục này hiển nhiên là thiết kế tốt, ra đề mục người hạn định một chút điều kiện, đồng dạng thiết trí cạm bẫy.
+
+	Đại lượng tính toán cần trong khoảng thời gian ngắn nhanh chóng hoàn thành.
+
+	Nếu như bài thi thời gian kéo dài đến 10 phút, đại đa số bài poker kẻ yêu thích cũng có thể coi là ra kết quả.
+
+	Nhưng toán học doanh tuổi trẻ các học viên chỉ có mười mấy giây, không có bút không có giấy càng không có máy tính, bọn hắn duy nhất công cụ chính là đại não, cùng đối con số mẫn cảm trình độ.
+
+	"Chờ một chút, lại cho ta chút thời gian, ta cũng nhanh tính ra tới." Chu Vũ An trên trán tràn đầy mồ hôi, nhanh tính cái này đấu địa chủ cục thắng thua hao phí hắn đại lượng tế bào não.
+
+	"Tiếp theo đề!" Tôn Nhị Hùng vung tay lên, trên màn hình xoát bước phát triển mới đề.
+
+	"Dựa vào." Chu Vũ An tính tới một nửa, không có, tất cả đều không có.
+
+	Tiến vào toán học chuyên nghiệp phần khảo thí, bài thi tiết tấu quá nhanh, căn bản không cho các học viên dư vị thời gian.
+
+	Thẩm Kỳ xoa xoa huyệt thái dương, trợn tròn hai mắt gắt gao nhìn chằm chằm phía trước hình chiếu màn hình.
+
+	Đề thứ hai là như thế miêu tả: "Tình cảnh giả thiết: Trong nhà giam có năm cái tù phạm, bọn hắn áo tù bên trên số hiệu phân biệt là 1- số 5."
+
+	"Giám ngục trưởng đem 5 vị tù phạm đưa đến đài hành hình trước, nói đến, ta và các ngươi chơi cái trò chơi, trong các ngươi người thắng lập tức phóng thích, người thua tại chỗ xử tử."
+
+	"Cái này miệng trong bao bố chứa 100 hột đậu phộng, quy tắc trò chơi là, các ngươi theo 1- số 5 thứ tự thay nhau tại trong bao bố bắt hạt đậu, mỗi người chỉ có thể bắt một lần, mỗi lần chí ít bắt một viên hạt đậu."
+
+	"Các ngươi nghe cho kỹ, bắt được nhiều nhất cùng ít nhất hạt đậu khỏa đếm được người, sẽ bị tại chỗ xử tử. Những người còn lại còn sống rời đi."
+
+	"Giữa các ngươi không cho phép trao đổi lẫn nhau, cho dù là ánh mắt giao lưu cũng không bị cho phép. Nhưng là, các ngươi đang sờ hạt đậu thời điểm, cho phép lấy ra trong bao bố còn lại hạt đậu số lượng."
+
+	"100 hột đậu phộng không cần toàn bộ chia xong, như có đặt song song lớn nhất hoặc nhỏ nhất tình huống, kẻ đặt ngang hàng sẽ bị cùng nhau xử tử."
+
+	Đề mục đến nơi đây liền không có.
+
+	Trong phòng học không khí vô cùng khẩn trương, trải qua đạo thứ nhất toán học chuyên nghiệp khảo thí đề khảo nghiệm, tất cả học viên đều hiểu bọn hắn đại khái chỉ có vài giây đồng hồ thời gian đi nhanh chóng đọc cũng lý giải đề ý.
+
+	Thẩm Kỳ thẩm xong đề mặt, trong lòng đã có phân tấc.
+
+	Cái này đề cùng IMO cái kia đạo Logic đề cùng loại, nó cũng không phải là đơn thuần số lượng tính toán, trên thực tế số lượng tính toán bộ phận rất đơn giản, khó khăn là Logic suy luận.
+
+	Tôn huấn luyện viên cấp ra tình cảnh giả thiết nhưng chưa đặt câu hỏi, Thẩm Kỳ suy đoán, vấn đề đại khái là năm cái tù phạm bên trong ai sinh tồn suất tối cao?
+
+	"Các vị học viên, đến rồi đến rồi, vấn đề tới, xin chuẩn bị kỹ lưỡng." Mười giây sau Tôn Nhị Hùng đánh vỡ yên lặng, "Cái này năm vị tù phạm đều là người thông minh, nguyên tắc của bọn hắn là trước bảo mệnh lại tai họa cái khác tù phạm. Như vậy xin hỏi, năm vị tù phạm bên trong, ai còn sống rời đi nhà giam xác suất tối cao? Ta lại cho các ngươi mười giây đồng hồ suy nghĩ thời gian."
+
+	Mười giây rất nhanh trôi qua quá khứ.
+
+	Tôn Nhị Hùng gấp gáp nói một tiếng: "Xin giơ tay!"
+
+	Xoát!
+
+	Xoát!
+
+	Lần này không hề nghi ngờ, Thẩm Kỳ trước hết nhất nhấc tay.
+
+	Cái thứ hai nhấc tay chính là Chu Vũ An, hắn so Thẩm Kỳ chậm một hai giây, huấn luyện viên cùng trợ thủ mắt thường có thể rõ ràng phân biệt.
+
+	Chu Vũ An dù sao cũng là trúng tuyển qua olympic toán học đội tuyển quốc gia chính quy tuyển thủ, IMO cầm tới cá nhân huy chương vàng, mặc dù không phải max điểm huy chương vàng nhưng hắn Logic năng lực cũng coi như so sánh ưu tú.
+
+	"Dựa vào. . ." Chu Vũ An an vị tại Thẩm Kỳ bên cạnh, chính hắn đều có thể nhìn thấy nhấc tay so Thẩm Kỳ chậm.
+
+	Thẩm Kỳ giơ cao cánh tay phải, nhìn lướt qua đáp đúng đề thứ nhất Âu Diệp.
+
+	Âu Diệp lông mày nhỏ nhắn khóa chặt, cũng không nhấc tay.
+
+	"Thẩm Kỳ, mời cho ra đáp án của ngươi, năm cái tù phạm bên trong ai sinh tồn xác suất tối cao?" Tôn Nhị Hùng nhìn về phía Thẩm Kỳ.
+
+	Thẩm Kỳ so sánh có lòng tin nói: "Đáp án của ta là, số 1, số 2 cùng số 3 tù phạm còn sống rời đi xác suất tối cao. Kỳ thật theo loại này trình tự bốc thăm cũng không công bằng, nhưng trong nhà giam mặt lại có cái gì công bằng có thể giảng."
+
+	"Như vậy Thẩm Kỳ,
+
+	Ngươi căn cứ là cái gì đây?" Tôn Nhị Hùng từ chối cho ý kiến nói đến.
+
+	Thẩm Kỳ giải thích đến: "Tất cả tù phạm đều là người thông minh, nguyên tắc của bọn hắn là trước bảo mệnh lại đi xử lý những người khác, như vậy số 1, số 2, số 3 tù phạm toàn bộ cầm ra 17 hột đậu phộng, bọn hắn ba sống sót hi vọng lớn nhất. Số 4, số 5 chính là đệm lưng, số mệnh không tốt không có cách nào."
+
+	"Đáp đúng, Thẩm Kỳ đến 10 điểm, tất cả những người khác đến 0 điểm." Tôn Nhị Hùng biểu thị khẳng định, xong việc hỏi học viên khác: "Các ngươi nghe rõ Thẩm Kỳ Logic sao?"
+
+	"A, dạng này a."
+
+	"Đúng, chính là như thế cái thao tác."
+
+	"Lại cho ta 1 phút đồng hồ, ta cũng có thể suy luận ra."
+
+	Toán học doanh học viên đều là người thông minh, Thẩm Kỳ ném ra ngoài kíp nổ, bọn hắn giây hiểu.
+
+	"A a a a, tốt đáng tiếc a, ta suy luận ra đáp án cùng Thẩm Kỳ ngươi một lông, nhấc tay chậm một điểm mà thôi." Chu Vũ An đấm ngực dậm chân.
+
+	"Chu Vũ An ngươi chính là cái nhả rãnh người máy." Thẩm Kỳ đấm bóp một chút mí mắt bộ vị, làm sơ điều chỉnh.
+
+	"Hết hạn đến trước mắt, Thẩm Kỳ, Âu Diệp các đến 10 điểm, để chúng ta tiến vào tiếp theo đề." Tôn Nhị Hùng không cho các học viên thời gian nghỉ ngơi.
+
+	Hình chiếu trên màn hình đổi mới một đề: "Hiện có 2 con ngựa, 3 con trâu cùng 4 con dê, bọn chúng riêng phần mình tổng giá trị đều bất mãn 10000 đồng tiền. Nếu như 2 con ngựa tăng thêm 1 con trâu, hoặc là 3 con trâu tăng thêm một con dê, hoặc là 4 con dê tăng thêm 1 con ngựa, như vậy bọn chúng riêng phần mình tổng giá trị vừa vặn đều là 10000 đồng tiền. Hỏi: Mã, trâu, dê đơn giá các là nhiều ít đồng tiền?"
+
+	Ngọa tào?
+
+	Cái này đề vô cùng vô cùng đơn giản.
+
+	So với trước hai đề, thứ ba đề đơn giản trình độ, Thẩm Kỳ thậm chí cũng không dám tin tưởng nhìn thấy trước mắt.
+
+	"Đề mục đã thả ra, mời lập tức nhấc tay trả lời!" Tôn Nhị Hùng tựa như đòi mạng nói đến.
+
+	Xoát xoát!
+
+	Xoát xoát xoát!
+
+	Mười mấy cái cánh tay liên tiếp giơ lên.
+
+	Cái này đề kỳ thật chính là liệt ra phương trình bậc ba, thiết mã, trâu, dê đơn giá vì x, y, z, sau đó tính nhẩm tìm ra x, y, z giá trị mà thôi.
+
+	Cái này đề so không phải toán học tri thức dự trữ, cũng không phải chín quẹo mười tám rẽ Logic năng lực trinh thám.
+
+	Nó chính là thuần túy nhất số lượng tính toán, toán thuật là toán học một bộ phận, cơ sở nhất một bộ phận.
+
+	Nếu có dư dả thời gian, học sinh cấp hai cũng có thể tính toán ra x, y, z giá trị
+
+	Mấy giây nội tâm tính ra kết quả, so là nhanh tính năng lực.
+
+	Thẩm Kỳ vừa xuất thần, nhấc tay chậm.
+
+	Tối thiểu có mười người so với hắn trước nhấc tay.
+
+	"Âu Diệp trước hết nhất nhấc tay, mời Âu Diệp trả lời." Tôn Nhị Hùng nói đến, sau đó mắt nhìn trợ thủ: "Tiểu tiền, ngươi quan sát được chính là ai trước nhấc tay?"
+
+	"Âu Diệp trước hết nhất nhấc tay, Chu Vũ An thứ hai, Vương Thắng thứ ba, phía sau không có nhớ." Trợ thủ tiểu tiền đáp trả.
+
+	Xác định về sau, Tôn Nhị Hùng nói đến: "Âu Diệp mời cho ra đáp án của ngươi."
+
+	Âu Diệp ngữ tốc không nhanh không chậm: "Ngựa ba ngàn sáu, trâu hai ngàn tám, dê một ngàn sáu."
+
+	Tôn Nhị Hùng: "Trả lời chính xác, Âu Diệp lại được 10 điểm!"
+
+	Còn lại chúng học viên đối nhóm này đáp án không có bất kỳ cái gì dị nghị, bọn hắn tính nhẩm ra kết quả giống nhau, tính toán tốc độ chậm hơi chậm.
+
+	"Âu Diệp, cái này muội tử đến 2 0 điểm! Mà ta còn là 0 điểm, đau lòng chính ta." Chu Vũ An tự mình nhả rãnh.
+
+	Trước mắt lấy 10 điểm xếp hạng thứ hai Thẩm Kỳ nói đến: "Theo ta quan sát, Âu Diệp tổng hợp Logic năng lực đoán chừng, nhưng nàng sức tính toán rất mạnh, phản ứng đặc biệt nhanh."
+
+	Chu Vũ An: "Thẩm Kỳ, ngươi gặp được đối thủ, Âu Diệp muội tử nhưng thật ra là cái máy tính toán." 

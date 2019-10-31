@@ -1,0 +1,111 @@
+ 479 chương Navier-Stokes phương trình gặp gỡ vị danh số một
+
+	Thẩm Kỳ đối siêu tính trung tâm Hoàng chủ nhiệm gật gật đầu, nói đến: "Bắt đầu đi."
+
+	Nghiên cứu viên khởi động tự chủ nghiên cứu trị số thí nghiệm phần mềm, mệnh lệnh "Vị danh số một" đối đưa vào nguyên thủy số liệu tiến hành phân tích, tính toán.
+
+	"Vị danh số một" có được chục tỷ ức thứ mỗi giây khả năng tính toán, là cấp E siêu máy tính.
+
+	N-S phương trình nguyên thủy số liệu trong nháy mắt phóng đại vì hơn một ngàn chín trăm vạn phương trình vi phân riêng phần cùng hơn 13 triệu cái phương trình vi phân thường, số liệu nơi phát ra căn cứ vào Thẩm Kỳ bọn hắn kia hơn 200 trang bản thảo phương án.
+
+	Bất kỳ một cái nào Nhân loại tính toán xong hơn một ngàn chín trăm vạn phương trình vi phân riêng phần cùng hơn 13 triệu cái phương trình vi phân thường, chí ít đều phải tốn phí hai đời thời gian.
+
+	Xử lý xong lượng lớn phương trình vi phân riêng phần, phương trình vi phân thường, "Vị danh số một" lập tức cấp ra vượt qua ngàn vạn bức áp lực đường mức đồ, tốc độ lưu tuyến đồ. Phân tích xong những này đồ phổ, lại cần tốn hao một cái Nhân loại hai đời thời gian.
+
+	Màn ảnh chính bên trên đổi mới ra lít nha lít nhít sai sót phân tích số liệu, không cần tận lực xoắn xuýt những quá trình này số liệu, đây là "Vị danh số một" nó tại từ high.
+
+	Thẩm Kỳ bọn bốn người tất cả đều đứng đấy, bọn hắn chuyên chú nhìn chằm chằm màn hình, số lượng mê cung làm bọn hắn hoa mắt.
+
+	Chu Vũ An dụi dụi con mắt, hắn nhìn chằm chằm màn hình nhìn gần một giờ, con mắt đau, đầu trướng, có chút muốn ói.
+
+	Chục tỷ ức thứ ╱ giây nhân với 3600, "Vị danh số một" tại một giờ bên trong hoàn thành nhiều lần như vậy tính toán.
+
+	Nguyên thủy số liệu cuối cùng phân tích hoàn tất, "Vị danh số một" máy chủ CPu tựa hồ thở dốc một hơi.
+
+	Siêu tính trung tâm nghiên cứu viên thông qua nước lạnh phương thức cho "Vị danh số một" hạ nhiệt độ, trực tiếp nước lạnh lại không cần nóng trao đổi khí, từ đó hữu hiệu đối ứng siêu máy tính hao phí gia công vấn đề.
+
+	Màn ảnh chính đổi mới số liệu tốc độ chậm dần, liên quan tới tốc độ cùng áp lực phạm đến mắt thường khả biện đổi mới tốc độ biểu diễn ra.
+
+	Chu Vũ An làm ra một động tác, hắn dùng ngón tay cố định mí mắt, lấy đưa đến cưỡng ép nhìn chăm chú hiệu quả, hắn không muốn bỏ qua lịch sử tính thời khắc.
+
+	Theo Renault đếm được tăng lớn, chủ vòng xoáy bắt đầu hướng phương giọng trung tâm di động.
+
+	Thẩm Kỳ hết sức chăm chú không nói một chữ, nhưng nội tâm còn rất mong đợi, thậm chí có một chút điểm khẩn trương.
+
+	Cuối cùng, do bốn cái cơ bản tư thế phóng đại ra vượt qua 40 triệu cái phương trình cùng đồ phổ sở sinh thành năm cái chủ vòng xoáy toàn bộ bị vị danh số một" bắt được, áp lực đường mức đồ, tốc độ lưu tuyến đồ siêu tính mô phỏng kết quả phân tích, cũng cùng Thẩm Kỳ bọn hắn trước đó dự đoán bảo trì nhất trí.
+
+	"Tồn tại!" Thẩm Kỳ cùng Witten trùng điệp vỗ tay.
+
+	"Nhẵn bóng!" Witten tiếp sức giống như cùng Tiêu Tuấn Long vỗ tay.
+
+	"Ổn định!" Tiêu Tuấn Long kéo dài cái này một chúc mừng động tác, cùng Chu Vũ An vỗ tay cùng mừng.
+
+	"Ta. . ." Chu Vũ An không phản bác được, N-S phương trình từ mấu chốt đều bị các ngươi nói xong.
+
+	"Chúng ta thành công!" Chu Vũ An dùng thuần phác nhất ngôn ngữ biểu đạt kích thích nhất tâm tình.
+
+	"Trâu!"
+
+	"Khốc!"
+
+	"Yến đại siêu tính trung tâm hướng Thẩm Kỳ Toán học trung tâm nghiên cứu phát tới điện mừng!"
+
+	Siêu tính trung tâm các đồng nghiệp nhảy cẫng hoan hô, bọn hắn tự tay thao tác, thấy tận mắt lại một ngàn năm nan đề bị đánh hạ.
+
+	"Truyền kỳ a, truyền kỳ Thẩm giáo sư, ngươi cùng đoàn đội của ngươi, trước trước sau sau hết thảy giải quyết ba cái ngàn năm nan đề." Siêu tính trung tâm Hoàng chủ nhiệm cùng Thẩm Kỳ nắm tay, Hoàng chủ nhiệm là máy tính phương diện khoa học chuyên gia, hắn hỏi Thẩm Kỳ: "Lúc nào giải quyết bài toán P so với NP?"
+
+	Thẩm Kỳ cười nói: "Sinh thời."
+
+	Siêu máy tính "Vị danh số một" nói Thẩm Kỳ đoàn đội N-S phương trình phương án giải quyết không có vấn đề, chuyện kế tiếp chính là hướng toàn thế giới truyền đạt cái này vui mừng tin tức.
+
+	Tiêu chuẩn học thuật báo cáo bản  « Navier-Stokes phương trình thông hiểu nghiên cứu » rất nhanh chỉnh lý xong thành, phụ "Vị danh số một" trị số phân tích báo cáo.
+
+	Yến đại thả ra chính thức tin tức: "Ta trường học Thẩm Kỳ đoàn đội thành công cầu giải ra Navier-Stokes phương trình phổ biến ý nghĩa thông hiểu, ngày 31 tháng 10 sẽ tại ta trường học lễ đường, do Thẩm Kỳ giáo sư đoàn đội làm  « Navier-Stokes phương trình thông hiểu nghiên cứu » công khai báo cáo."
+
+	Tin tức vừa ra, trong ngoài nước tương quan nghiên cứu khoa học cơ cấu, truyền thông mãnh liệt chú ý, bọn hắn phát hiện Thẩm Kỳ giáo sư đoàn đội tổng cộng có bốn người, hai vị Trung Quốc toán học người làm việc, một vị nước Mỹ học giả (khó mà nói rõ hắn là nhà toán học vẫn là cái gì nhà), một vị Trung Quốc học giả (đồng dạng khó mà nói rõ hắn là nhà toán học vẫn là cái gì nhà).
+
+	Bốn người này tạo thành đoàn đội, cho tới nay chung thu hoạch được hai mươi hai hạng quốc tế học thuật giải thưởng, trong đó bao hàm hai viên Fields huy hiệu cùng một viên Nobel vật lý học huy hiệu.
+
+	"Thẩm Kỳ giáo sư đoàn đội có thể xưng xa hoa, chúng ta có lý do tin tưởng, đoàn đội của hắn đã giải quyết Navier-Stokes phương trình." ---- đến từ  « Springer toán học kỷ yếu » bình luận.
+
+	"Lần này Thẩm Kỳ giáo sư cũng không sớm công khai dự lục bản văn chương, có lẽ đáp án muốn giữ lại đến ngày 31 tháng 10 mới có thể để lộ." ---- đến từ trứ danh vật lý tập san PRL bình luận.
+
+	"Bảo trì chờ mong." ---- đến từ IMU ngắn gọn bình luận.
+
+	"Tiếp tục chú ý." ----iCTP bình luận đồng dạng ngắn gọn.
+
+	Toán học giới, vật lý giới đều rất quan tâm Thẩm Kỳ đoàn đội liên quan tới N-S phương trình thành quả nghiên cứu, lý luận học gia quan tâm N-S phương trình, công trình sư nhóm quan tâm hơn N-S phương trình. Không quan tâm là cái gì nhà, ai có thể dẫn đầu giải quyết N-S phương trình, là quốc tế học thuật giới chú ý trọng điểm.
+
+	Ngày 31 tháng 10 Thẩm Kỳ đoàn đội công khai báo cáo hội, thư mời một văn kiện khó cầu.
+
+	Xác định khách quý danh sách công việc do Yến đại nhân viên nhà trường phụ trách, dù sao quốc tế toán học giới, vật lý giới cái này người tới đều sẽ tới.
+
+	Thẩm Kỳ bốn người khẩn trương có thứ tự tiến hành công khai báo cáo trước diễn tập.
+
+	Thẩm Kỳ cùng Witten quốc tế báo cáo kinh nghiệm phong phú, hai người bọn họ không khẩn trương, khẩn trương là Chu Vũ An cùng Tiêu Tuấn Long.
+
+	Vào khoảng ngày 31 tháng 10 tiến hành  « Navier-Stokes phương trình thông hiểu nghiên cứu » công khai báo cáo chia làm bốn cái bản khối.
+
+	Cái thứ nhất bản khối trần thuật báo cáo dàn khung, do Witten giảng giải, trên thực tế đây cũng là Witten vì cái này hạng mục làm ra cống hiến, hắn quen thuộc nhất bộ phận này nội dung.
+
+	Thứ hai cùng trang thứ ba khối trần thuật dàn khung triển khai sau hạch tâm suy luận tính toán trình tự, do Tiêu Tuấn Long, Chu Vũ An báo cáo.
+
+	Cái cuối cùng bản khối cho ra kết luận cuối cùng nhất, đối toàn bộ báo cáo tiến hành tổng kết, do Thẩm Kỳ báo cáo.
+
+	Mọi người thương lượng xong, ngoại trừ Witten dùng tiếng mẹ đẻ tiếng Anh tiến hành báo cáo, còn lại ba người toàn bộ dùng Hán ngữ báo cáo, hiện trường mỗi vị khách quý phối trí một đài đồng bộ phiên dịch cơ.
+
+	Khoảng cách ngày 31 tháng 10 càng ngày càng gần, quốc tế khách quý lần lượt đến Trung Quốc thủ đô.
+
+	Tiêu Tuấn Long khẩn trương ăn không ngon ngủ không yên, hắn thấp thỏm tìm tới Thẩm Kỳ: "Thẩm chủ nhiệm, ta dáng dấp quá xấu, nếu không bộ phận thứ hai cũng do lão Chu đến báo cáo a?"
+
+	Thẩm Kỳ lắc đầu cười: "Lão Tiêu, bây giờ nghĩ rời khỏi, chậm."
+
+	"Thẩm chủ nhiệm, ngươi cùng Witten giáo sư đều cầm qua Fields thưởng, người đời này chỉ có thể cầm một lần Fields thưởng, hai vị đại lão trên cơ bản vô dục vô cầu. Ta biết ngươi nghĩ đề bạt ta cùng lão Chu, lại để hai ta tại quốc tế trên sân khấu xuất đầu lộ diện, nhưng ta rất xoắn xuýt a, nếu như ta dài có ngươi đẹp trai như vậy liền tốt."
+
+	Thẩm Kỳ cực lực cổ vũ Tiêu Tuấn Long: "Thứ hai bản khối báo cáo người chính là ngươi, cái này bản khối tuyệt đại bộ phận công việc là ngươi làm, ngươi dựa vào cái gì không có tự tin? Nam nhân, trọng yếu nhất chính là nội tại, không phải bề ngoài. Đương nhiên, dài quá tuấn tú cũng không phải cái gì sai lầm, thuận theo tự nhiên đi."
+
+	Vạn sự sẵn sàng không nợ gió đông, ngày 31 tháng 10, Thẩm Kỳ đoàn đội  « Navier-Stokes phương trình thông hiểu nghiên cứu » công khai báo cáo đúng hạn cử hành.
+
+	Yến đại lễ đường không còn chỗ ngồi, trong ngoài nước trứ danh học giả, truyền thông bằng hữu tề tụ một đường.
+
+	Mỗi vị khách quý trong tay có một phần  « Navier-Stokes phương trình thông hiểu nghiên cứu » áp súc bản trích yếu, để giúp trợ khách quý tốt hơn lý giải hôm nay trong báo cáo cho. 

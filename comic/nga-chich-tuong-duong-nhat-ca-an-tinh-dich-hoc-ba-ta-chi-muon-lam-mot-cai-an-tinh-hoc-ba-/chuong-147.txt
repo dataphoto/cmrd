@@ -1,0 +1,135 @@
+ 147 chương công việc bữa ăn
+
+	Thẩm Kỳ ném trước bốn bài luận văn, chuyên gia giám khảo ý kiến cơ bản giống nhau: "Tác giả ngươi nói rất đúng, ngươi viết rất tốt, nhưng không được hoàn mỹ chính là XXXX. . . Đương nhiên, khuyết điểm không che lấp được ưu điểm, hi vọng ngươi có thể chỉnh sửa."
+
+	Trước bốn bài luận văn thẩm bản thảo người đều có đặc điểm, có người viết mấy trang giấy giám khảo ý kiến, có người liền viết một hai câu. Nhưng truyền lại cho Thẩm Kỳ có ý tứ là đồng dạng, hai chữ, tiểu tu.
+
+	Mặc kệ thẩm bản thảo người viết vài trang giấy vẫn là một câu giám khảo ý kiến, bọn hắn cuối cùng đều sẽ nói cho luận văn tác giả hai chữ, đại tu or tiểu tu.
+
+	Có thẩm bản thảo người viết vài trang giấy thậm chí mười mấy trang, mấy chục trang giấy giám khảo đề nghị, có khả năng cuối cùng nói cho tác giả chính là, tiểu tu liền tốt. Loại tình huống này là có, thẩm bản thảo người giám khảo ý kiến sửa sang một chút, đều có thể lại viết bài luận văn mới. Có thể gặp phải loại này thẩm bản thảo người, luận văn tác giả là may mắn.
+
+	Có thẩm bản thảo người chỉ viết một câu, thuần túy văn tự miêu tả, không chứa bất luận cái gì toán học tư thế hoặc ký hiệu, cuối cùng nói cho tác giả có thể là: Đại tu.
+
+	Gặp phải loại này một câu + đại tu thẩm bản thảo người, 90% ở trên luận văn tác giả sẽ tước vũ khí đầu hàng, xã hội xã hội không thể trêu vào, làm phiền đại lão, rút lui.
+
+	Thẩm Kỳ tiểu tu trước bốn bài luận văn, a, trong đó liên hợp kí tên một phần là Âu Diệp tiểu tu.
+
+	Nhưng mà, thiên thứ năm luận văn, cũng là phức tạp nhất một phần,  « tuyến tính bất đẳng thức ước thúc nghĩa rộng không phải tuyến tính bổ sung vấn đề phân tích », thẩm bản thảo người ý kiến có thể quy nạp vì một câu: "Đại tu!"
+
+	Căn cứ vào nghĩa rộng bổ sung vấn đề tạo thành nửa bóng loáng hệ phương trình nghĩa rộng nhã nhưng so sánh ma trận, tìm ra một cái mang thỏa cầu ước thúc tuyến tính hóa hai lần mô hình, là Thẩm Kỳ hạch tâm luận thuật Logic.
+
+	Quay chung quanh cái này hạch tâm Logic, Thẩm Kỳ hoàn thành 15 trang luận văn.
+
+	Thẩm bản thảo người cầm khác biệt quan điểm, hắn hoặc nàng cho rằng F, g: Χ? R^n→R^n liên tục có thể hơi, Χ bao hàm n duy bất đẳng thức ước thúc tập, lợi dụng tới gần Newton pháp cùng nghĩa rộng mô phỏng Newton pháp không liên quan đến chỉnh thể thu liễm tính.
+
+	Rất rõ ràng, thẩm bản thảo người quan điểm cùng Thẩm Kỳ Logic là trái ngược.
+
+	Đến nỗi ai đúng ai sai, Thẩm Kỳ cho là hắn đúng.
+
+	Thẩm Kỳ cũng không biết thẩm bản thảo người là ai, là cái nào trường đại học hoặc nghiên cứu cơ cấu toán học chuyên gia, tại đơn mù quá trình dưới, Thẩm Kỳ chỉ nhận biết biên tập.
+
+	Kỳ thật cũng không có cùng biên tập đã gặp mặt cùng uống qua trà cái gì, nơi này nhận biết chỉ còn lại ở chỗ trên internet, trong bưu kiện.
+
+	 « toán học đạo báo » biên tập gọi Hứa Duy Ny, Thẩm Kỳ liền biết cái tên như vậy, nhìn danh tự có lẽ là vị nữ biên tập.
+
+	Đối với thẩm bản thảo người đại tu giám khảo ý kiến, Thẩm Kỳ đương nhiên là có ý nghĩ.
+
+	Vì viết  « tuyến tính bất đẳng thức ước thúc nghĩa rộng không phải tuyến tính bổ sung vấn đề phân tích » bản này luận văn, Thẩm Kỳ kém chút tẩu hỏa nhập ma, hiện tại ngươi nói cho ta, ta làm trên cơ bản là vô dụng công, đại tu? Không, ta Thẩm Kỳ không phục!
+
+	Không phục?
+
+	Vậy liền giảng đạo lý.
+
+	Lấy lý phục người.
+
+	Thẩm Kỳ tại laptop bên trong mới xây một cái LaTeX văn kiện, bắt đầu đánh chữ, viết toán học tư thế, dựa vào văn tự nói rõ.
+
+	Việc hắn muốn làm rất rõ ràng, chứng minh chính mình luận thuật Logic chính xác, cũng vạch thẩm bản thảo người giám khảo ý kiến bên trong Logic sai lầm.
+
+	▽Φ(x)=V^TH(x)=▽F(x)(A(x)-i)H(x)+▽g(x)(B(x)-i)H(x)
+
+	Nơi đây A(x) cùng B(x) thỏa mãn thức (7) góc đối trận.
+
+	Cân nhắc vectơ (A(x)-i)H(x), do cấu tạo có biết, nó thứ I cái phân lượng không phải số không đồng giá tại Hi(x)0.
+
+	Tức phía dưới tình huống bên trong có một đầu thỏa mãn:
+
+	(1)Fi(x)0 lại gi(x)0
+
+	(2)Fi(x)=0 lại gi(x)&lt;0
+
+	(3)Fi(x)&lt;0 lại gi(x)=0
+
+	. . .
+
+	Có thể chứng, như ▽g(x)^-1▽F(x) là một cái tuyến tính đại số bên trong định nghĩa P- ma trận.
+
+	Như vậy ▽g(x)^-1▽F(x)(A(x)-i)+(B(x)-i) không phải là kỳ dị.
+
+	Cho nên. . .
+
+	Thẩm Kỳ lẳng lặng gõ chữ, quật cường giảng đạo lý.
+
+	Âu Diệp lẳng lặng nhìn Thẩm Kỳ gõ chữ, thỉnh thoảng cũng tại chính mình trên máy vi tính mã mấy cái tư thế, nàng đạt được dẫn dắt, nàng cùng Thẩm Kỳ nghiên cứu chính là cùng một bài luận văn, cùng một cái đầu đề.
+
+	Ban sơ viết luận văn thời điểm, Thẩm Kỳ không có đối thủ, đối với mình luận văn Logic, hắn có thể tự viên kỳ thuyết là đủ.
+
+	Mà bây giờ, Thẩm Kỳ có đối thủ, đối thủ nói hắn Logic sai lầm, phải lớn tu.
+
+	Một phần học thuật luận văn đặc biệt là toán học luận văn, không sợ chi tiết sai lầm và cục bộ tính toán sai lầm, liền sợ bị người chỉ trích hạch tâm Logic sai lầm.
+
+	Tác giả hạch tâm Logic bị lật đổ , chẳng khác gì là bị toàn bộ phủ định, bản này luận văn bạch viết, đại tu đồng đẳng với là viết một phần luận văn mới.
+
+	Đại tu cái cọng lông a, lập tức qua tết, ai có tâm tư cùng ngươi đại tu?
+
+	Vì không đại tu, Thẩm Kỳ cần dùng sắc bén hơn nhọn hơn toán học ngôn ngữ, chứng minh chính mình Logic không có sai, cũng đả động thẩm bản thảo người, chinh phục thẩm bản thảo người.
+
+	Phần công tác này kéo dài cho tới trưa.
+
+	Ục ục, Thẩm Kỳ dạ dày phát ra trầm đục, đói bụng.
+
+	"Phục vụ viên, bổ sung nguồn nước, nhắc lại cung cấp một chút đồ ăn." Thẩm Kỳ gọi tới phục vụ viên.
+
+	Phục vụ viên cái mũi chua chua, nước mắt đều nhanh chảy ra, không dễ dàng a, một nam một nữ này đến nhà chúng ta uống nước sôi để nguội uống xongViP hội viên, cuối cùng bỏ được điểm một lần ăn.
+
+	"Xin hỏi cần chút thứ gì ăn?" Phục vụ viên đem Menu đưa cho Thẩm Kỳ, nói đến: "Phần món ăn B cũng chính là 2 người tình lữ phần món ăn, hưởng thụ cơm trưa chiết khấu ưu đãi, tính so sánh giá cả rất cao, đề cử các ngươi điểm phần này phần món ăn."
+
+	Phần món ăn B chính là bò bít tết + mỳ Ý + mì sợi bao + Salad + cà phê tổ hợp, Thẩm Kỳ nói đến: "Vậy liền điểm cái này phần món ăn, chúng ta chỉ uống nước lọc, cà phê cũng không muốn rồi, tính bớt một chút tiền."
+
+	"Không muốn cà phê cũng là nhiều tiền như vậy." Phục vụ viên khách khí nói đến.
+
+	Thẩm Kỳ: "Kia không mục tiêu bữa ăn, khiêng, đều là người trẻ tuổi không đói chết."
+
+	"Được được được, ta không muốn cà phê, tính bớt một chút tiền, quay đầu ta cùng cửa hàng trưởng giải thích một chút, dù sao các ngươi là bổn điếm ViP hội viên, được hưởng đặc quyền." Phục vụ viên hiểu được không thể bởi vì nhỏ mất lớn đạo lý, không thể bởi vì hai chén cà phê mà tổn thất hết một phần phần món ăn.
+
+	"ViP tạp chiết khấu , có thể hay không thêm quyền đến phần món ăn B chiết khấu bên trên?" Thẩm Kỳ lại hỏi.
+
+	Phục vụ viên nghe không hiểu: "Cái gì thêm quyền?"
+
+	Thẩm Kỳ giải thích đến: "ViP tạp toàn thời đoạn chiết khấu giá trị, cùng phần món ăn B cơm trưa chiết khấu giá trị, biết tính toán ra một cái cuối cùng giá trị, cũng chính là chúng ta tính tiền lúc cần thiết thanh toán thực tế giá trị ý của ta là, chúng ta tính tiền lúc thực tế kim ngạch, là lấy thêm quyền giá trị trung bình sao? Vẫn là hỏi rõ ràng tương đối tốt, miễn cho gây nên tranh chấp."
+
+	Thẩm Kỳ phổ cập khoa học một vòng thêm quyền giá trị trung bình, phục vụ viên không để ý tới giải quá lộ triệt đi, nhưng cũng đại khái nghe hiểu, hắn nói đến: "Các ngươi hưởng thụ phần món ăn chiết khấu, liền không thể lại hưởng thụ ViP chiết khấu, hai bên trong lấy ưu đãi độ tương đối cao cái kia."
+
+	Thẩm Kỳ lắc đầu: "Cái này không khoa học, vậy ta xử lý ViP tạp có cái gì dùng, chỉ có thể hưởng thụ nước lọc đánh gãy ưu đãi, nước tạp? Ta sở dĩ không đơn giản vận dụng 60% nhân với giảm còn 80% cái này phép tính, mà là cân nhắc thêm quyền phép tính, là có khoa học căn cứ."
+
+	"60% nhân với giảm còn 80% đối với các ngươi tới nói xác thực không công bằng, 4.8 gãy chiết khấu có lẽ sẽ để các ngươi cửa hàng lỗ vốn, nhưng cân nhắc đến thêm quyền hệ số, hết thảy hợp tình hợp lý. Chớ cùng ta tranh giành, quốc gia thống kê cục cũng là như thế tính toán." Thẩm Kỳ nói đến.
+
+	"Ta. . . Ta xin chỉ thị cửa hàng trưởng, xin chờ một chút." Trung chuyên trình độ văn hóa phục vụ viên rút lui, không thể trêu vào.
+
+	Sau một lát, phần món ăn B đưa đến Thẩm Kỳ cùng Âu Diệp hàng ghế dài, không chứa cà phê.
+
+	"Đây là thêm quyền về sau phần món ăn, mời chậm dùng." Phục vụ viên bảo trì lễ phép thái độ, hôm nay hắn học được một cái tri thức điểm, thêm quyền phép tính.
+
+	"Cho nên các ngươi cửa hàng trưởng hiểu toán học?" Thẩm Kỳ hỏi phục vụ viên.
+
+	"Cửa hàng trưởng đại học tốt nghiệp, nhưng có văn hóa." Phục vụ viên nói đến, sau đó rời đi, tiếp đãi khách nhân khác.
+
+	"Mỳ Ý là ngươi, cái khác đồ ăn đều là ta, ăn đi, động dĩa ăn." Thẩm Kỳ đem mỳ Ý đặt tới Âu Diệp trước mặt, hắn trước giải quyết bò bít tết, bổ sung thể lực, tiếp tục chiến đấu.
+
+	Âu Diệp lượng cơm ăn không lớn, một phần mỳ Ý đầy đủ.
+
+	Yến đại ngành toán học hai người ăn công việc bữa ăn, thỉnh thoảng thảo luận hai câu toán học vấn đề, ánh mắt không hề rời đi qua máy tính.
+
+	Đến xuống buổi trưa hai điểm, Thẩm Kỳ cuối cùng viết xong "Chống án bản thảo", hắn đem bản thảo cho Âu Diệp nhìn: "Ngươi cảm thấy như thế nào?"
+
+	Âu Diệp nghiên cứu rất lâu, ra kết luận: "Phát." 

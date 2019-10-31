@@ -1,0 +1,127 @@
+ Chương 90: Quang học cùng lượng tử luận
+
+	Thẩm Kỳ trong lòng tiếng ca vang lên, thủ hạ vận dụng ngòi bút như thần:
+
+	Lấy oxy vì tọa độ, cũng đem không khí chia rất nhiều song song tại mặt đất lá, tờ.
+
+	Vật điểm P chỗ lá, tờ chiết xạ suất vì n1.
+
+	Tia sáng cùng mặt đất pháp tuyến cái góc vì θ1.
+
+	Trở xuống các tầng theo thứ tự vì n2, θ2, n3, θ3. . .
+
+	Căn cứ chiết xạ định luật cùng hình học quan hệ, có:
+
+	(dy ╱ dx)^2=1 ╱ sin^2θ-1
+
+	Khai căn sau dy ╱ dx lấy giá trị âm
+
+	Cho nên: dx=-2n1 ╱ kα NPC* sinθ1*dφ ╱ (φ^2-1)^1 ╱ 2
+
+	Nơi đây muốn tích một cái phân, cuối cùng tích phân đại lượng không đổi C biểu thị là:
+
+	C=2n1 sinθ1 ╱ kα NPC*(ke^α ╱ 2*H)
+
+	Đây cũng là sinh ra Hải Thị Thận Lâu tia sáng truyền bá quỹ tích phương trình.
+
+	Thông qua vật lý học giải thích cùng chút ít toán học xử lý, chúng ta có thể rõ ràng phát hiện, Hải Thị Thận Lâu đặc điểm là "Ta biến nó cũng thay đổi, cuối cùng biến không thấy" .
+
+	Nếu có một ngày ngươi tại bờ biển hoặc là sa mạc, phi thường may mắn gặp gỡ bất ngờ Hải Thị Thận Lâu, tuyệt đối không nên di động, liền đặt nguyên địa lẳng lặng thưởng thức, tại cái này lãng mạn thời khắc hướng bên người nữ hài thổ lộ, nàng nhất định sẽ vui vẻ tiếp nhận ngươi yêu.
+
+	Do tia sáng truyền bá quỹ tích phương trình C=2n1 sinθ1 ╱ kα NPC*(ke^α ╱ 2*H) có biết, giả thiết tại như thế lãng mạn cầu ái thời khắc ngươi không có cố gắng, di động, như vậy uyển như mộng huyễn Hải Thị Thận Lâu đem lúc ẩn lúc hiện, cuối cùng biến mất không thấy gì nữa. Sau đó muội tử cũng chạy, cái gì đều không có, mộng đẹp phá diệt, rất đáng tiếc nha.
+
+	Vật lý học chỗ kỳ diệu ngay tại ở, dùng đơn giản dễ hiểu phương trình, thuyết minh phức tạp mà mộng ảo hiện tượng.
+
+	Nếu như vật lý cùng số học liên thủ, loại này cường đại tính kỹ thuật cưa gái pháp hội để ngươi biến thành nam thần.
+
+	Học thêm chút tri thức, một ngày nào đó sẽ cử đi công dụng.
+
+	Làm ngươi chạm tới Nhân loại tri thức đỉnh phong, ha ha. . . Thẩm Kỳ cười, hắn tại bài thi bên trên viết ra đáp án: C=2n1 sinθ1 ╱ kα NPC*(ke^α ╱ 2*H)
+
+	Đạo thứ nhất bổ khuyết đề làm xong, Thẩm Kỳ get đến mấy phần năm ngoái thi toán lúc kích tình, cũng càng khắc sâu cảm nhận được toán học cùng vật lý đều có các vẻ đẹp, hai ở giữa lại chặt chẽ tương liên.
+
+	Vật lý ý đồ lách qua phức tạp toán học diễn toán, đã định tính miêu tả cùng thô sơ giản lược định lượng đánh xuống giang sơn, nhưng đây là không thể nào, tiến vào càng mũi nhọn vật lý lĩnh vực, cần thiết toán học xử lý càng tinh tế hơn. Vật lý là lực sát thương kinh người đạn pháo, phát xạ vật dẫn quyết định tầm bắn, đả kích độ chính xác cùng hủy diệt tính.
+
+	Toán học đại đa số thời điểm dừng lại tại mặt giấy cùng số học nhà trong đầu, nó giống một môn uy lực vô tận đại pháo, chỉ bất quá thân bên trong không có đạn pháo. Một khi bổ sung đạn pháo, ầm! Phanh phanh! Hết thảy đều có khả năng. Cùng số học đại pháo nhất xứng đôi đạn pháo, đương nhiên là vật lý.
+
+	Thẩm Kỳ biết rõ đạo lý này, đương thời toán học pháo thủ, nhất định phải thuần thục nắm giữ các loại đạn pháo pháo tính, mới có thể lấy các loại tư thế đánh ra tiêu hồn tốt pháo.
+
+	CPhO đấu bán kết đề thứ nhất là bổ khuyết đề, tiếp xuống bảy đề đều là tính toán đề.
+
+	Đấu bán kết so đấu vòng loại khó khăn rất nhiều, cũng không có lựa chọn, mù mờ tỉ lệ trên diện rộng hạ xuống.
+
+	Đề thứ hai, tính toán đề, 16 phân.
+
+	Đây là đạo lượng tử vật lý đề, bước đầu lượng tử vật lý.
+
+	Tại CPhO thi đua bên trong, cao trung tuyển thủ chỉ cần biết lượng tử vật lý một chút cơ bản khái niệm, sẽ đơn giản vận dụng là được, không cần xâm nhập hiểu rõ nguyên lý, cũng không có năng lực này xâm nhập hiểu rõ. Cái đồ chơi này một khi xâm nhập, hoặc là cầm thưởng, hoặc là điên mất, lại hoặc là lấy điên mất trạng thái cầm thưởng.
+
+	Đề mặt cho một đống số liệu cùng đại lượng không đổi, điện tử điện tích, điện tử chất lượng, Bohr bán kính, Lý Đức bá năng lượng, hạt nhân tĩnh có thể. . .
+
+	Nói tóm lại cái này chồng chất nhan văn tự biểu lộ giống như số liệu miêu tả một cái vật lý hiện tượng: Tại đầy đủ nóng khí thể phóng điện bên trong sẽ chứa các loại ion, trong đó một loại ion là điện hạt nhân số mấy vì Z nguyên tử bị bóc ra đến chỉ còn lại có một cái điện tử.
+
+	Đồng dạng không có sơ đồ, Thẩm Kỳ cần từ đề mặt đại lượng số liệu bên trong tìm tới một chút đầu mối hữu dụng, cuối cùng cầu được Z giá trị, cũng viết ra đây là cái gì nguyên tố ion.
+
+	Tại vật cạnh cơ học, thanh học, điện từ học vật lý đề bên trong, sơ đồ bên trong thường thường bao hàm rất nhiều có thể lợi dụng tin tức, đọc đồ là thẩm đề trọng yếu trình tự. Lượng tử vật lý theo chân chúng nó không giống, có cho hay không đồ không có khác nhau quá nhiều, đại bộ phận công việc dựa vào bài thi người tự hành não bổ.
+
+	Vật lý học đốt não chi nhánh có không ít, trong đó TOP5 khẳng định có lượng tử vật lý một chỗ cắm dùi.
+
+	Từ vĩ mô quang học chiết xạ đến vi mô ion bắt được, từ Hải Thị Thận Lâu đến điện tử cơ thái, cái này không có cái gì liên hệ.
+
+	Vật lý học bao hàm đồ vật nhiều lắm, Thẩm Kỳ hoán đổi đến lượng tử hình thức, mở Shikai đáp đạo này 16 phân tính toán đề.
+
+	Đấu bán kết bắt đầu chính là hai đầu cản đường Hổ, đề thứ hai cũng không dễ dàng.
+
+	Đầu tiên, Thẩm Kỳ cần từ trên thân Heisenberg tìm tới linh cảm.
+
+	Heisenberg cũng không phải là cái địa danh, hắn là Đức quốc một vị kiệt xuất nhà vật lý học, đối lượng tử luận cống hiến gần với Einstein.
+
+	Heisenberg là một nhân tài thậm chí có thể nói là vật lý thiên tài, hắn tại 31 tuổi lúc liền thu được Nobel vật lý học thưởng. Einstein thu hoạch được Nobel vật lý học thưởng lúc tuổi đã tứ tuần.
+
+	Trong lịch sử đối với Heisenberg đánh giá tồn tại tranh luận tính, hắn tại thế chiến thứ hai trong lúc đó vì Đức quốc Phát xít làm nghiên cứu khoa học, nghiên cứu bom nguyên tử. Đương nhiên, trước hết nhất làm ra bom nguyên tử cũng vận dụng cho thực chiến là người Mỹ.
+
+	Dứt bỏ Heisenberg chính trị xu hướng tình dục không nói, hắn nói lên "Heisenberg sự không chắc chắn nguyên lý" tại học thuật giới địa vị rất cao.
+
+	Thẩm Kỳ sử dụng trước "Heisenberg sự không chắc chắn nguyên lý" tập kích một đợt, thiết A^(Z-1)+ bên trong duy nhất điện tử ở vào cơ thái.
+
+	Ở đây thái bên trong thêm chút xử lý nhưng phải điện tử đến hạt nhân nguyên tử trung tâm khoảng cách bình phương đáng giá giá trị trung bình r0^2.
+
+	Đây là một cái cũng không phức tạp toán học tính toán.
+
+	Tham gia vật cạnh đấu bán kết cao trung sinh chỉ cần biết, r0^2 định nghĩa vì vị trí tọa độ không xác định lượng bình phương (△x)^2, (△y)^2, (△z)^2 tổng cộng là đủ.
+
+	Ưu tú cao trung vật cạnh tuyển thủ yêu cầu là có thể đơn giản vận dụng "Heisenberg sự không chắc chắn nguyên lý", không cần xâm nhập lý giải. Xâm nhập lý giải kia là sinh viên nghiệp vụ, sau này hãy nói đi.
+
+	Xem mèo vẽ hổ, Thẩm Kỳ ở đây thái ở bên trong lấy được điện tử động lượng bình phương giá trị trung bình p0^2.
+
+	A^(Z-1)+ ion bắt được một cái điện tử đi sau bắn một cái Quang Tử, quá trình này tất nhiên tuân thủ năng lượng bảo toàn, động lượng bảo toàn.
+
+	Hai cái bảo toàn quan hệ đều bao hàm phát xạ Quang Tử sừng tần suất ω0, bọn chúng cấu thành bao hàm ω0 phương trình tổ.
+
+	Do Heisenberg sự không chắc chắn nguyên lý:
+
+	(△x)(△px)≥1 ╱ 2 ?
+
+	(△y)(△py)≥1 ╱ 2 ?
+
+	(△z)(△pz)≥1 ╱ 2 ?
+
+	Năng lượng bảo toàn phương trình có thể cụ thể biểu thị là:
+
+	1 ╱ 2meve^2+1 ╱ 2(M+me)v^2+E cách =1 ╱ 2(M+2me) μ^2+E' cách +? ω0
+
+	Sau đó cần áp dụng một đợt hơi có vẻ phức tạp toán học thao tác, cái này thao tác đối Thẩm Kỳ tới nói không khó:
+
+	O(∩_∩)O meo o(╥﹏╥)o. . .
+
+	(phía trên cái này tư thế tại word bên trong display là loạn mã, não bổ đi, tác giả bất lực)
+
+	Toán học, vật lý học nghiên cứu tới trình độ nhất định người ở bên ngoài xem ra cùng huyền học không có khác nhau quá nhiều.
+
+	Nhà toán học, nhà vật lý học không cần dùng bất luận cái gì văn tự ngôn ngữ biểu đạt tư tưởng, bọn hắn một lời không hợp liền ném ra ngoài một đống ký hiệu, tự mình xem đi, xem hiểu chúng ta lại nói tiếp.
+
+	Trải qua một loạt suy luận diễn toán, Thẩm Kỳ cuối cùng được đếnZ giá trị
+
+	Z=4
+
+	"Cái này. . . Z tương đương 4." Thẩm Kỳ hơi chút suy nghĩ, ở trong lòng đếm thầm, hydro heli lithium phi bằng, cacbon nitơ dưỡng phất nãi. . . 

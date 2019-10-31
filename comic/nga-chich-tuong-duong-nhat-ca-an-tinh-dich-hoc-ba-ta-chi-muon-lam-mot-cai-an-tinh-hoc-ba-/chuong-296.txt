@@ -1,0 +1,95 @@
+ 296 chương Wales kinh nghiệm lời tuyên bố
+
+	Liên quan tới Thẩm Kỳ báo cáo tin tức rất mau thả ra.
+
+	"Nước ta nhà toán học Thẩm Kỳ lại thêm một thưởng, Ramanujan thưởng là Thẩm Kỳ tại trong vòng hai năm lấy được cái thứ sáu toán học thưởng lớn!" ---- đến từ Đài phát thanh Quốc tế tiếng Trung kênh, tiếng Anh kênh báo cáo tin tức.
+
+	"Trung Quốc chìa khoá tại Italy mở ra đại môn, Ramanujan thưởng tới tay, Fields thưởng sẽ còn xa sao?" --- đến từ nước Mỹ CNN đưa tin.
+
+	"Trẻ tuổi nhất Ramanujan thưởng người đoạt giải, Thẩm Kỳ thanh này Trung Quốc chìa khoá, đổi mới Pite - Schultz bảo trì ghi chép." -- đến từ Italy truyền thông an toa xã đưa tin.
+
+	Pite - Schultz thu hoạch được Ramanujan thưởng lúc năm gần 26 tuổi, hắn đổi mới lúc ấy trẻ tuổi nhất lấy được thưởng người ghi chép.
+
+	Ngay tại vừa mới, càng tuổi trẻ Thẩm Kỳ đổi mới Schultz ghi chép.
+
+	Hệ thống: "Thành tựu mới! Túc chủ thắng được cấp A toán học giải thưởng Ramanujan thưởng, trở thành sử thượng trẻ tuổi nhất lấy được thưởng người, cơ sở ban thưởng 100 vạn điểm học bá tích phân, nhân với toán học chủ thiên phú hệ số 2. 0, cuối cùng ban thưởng 200 vạn điểm học bá tích phân. Còn lại 93775 10 điểm học bá tích phân, mời túc chủ xác nhận."
+
+	Thẩm Kỳ cuối cùng thu được một cái cấp A toán học giải thưởng, tấn thăng toán học cấp 14 điều kiện hai, tiến độ 1 ╱ 5.
+
+	Điều kiện một tiến độ tiếp cận 1 ╱ 2, điều kiện ba tiến độ vẫn là 0%.
+
+	Ngày kế tiếp, tại iCTP báo cáo đại sảnh, Thẩm Kỳ phát biểu "RT thứ ba biểu đạt thức mới nhất nghiên cứu tiến độ" chủ đề báo cáo.
+
+	Thắng được cái thứ sáu toán học giải thưởng, hơn nữa là cấp A Ramanujan thưởng, xuân phong đắc ý Thẩm Kỳ đang diễn giảng trên đài phát huy tiêu sái tự nhiên: "Ta cùng ta đoàn đội đối -ζ' ╱ ζ(s) linh điểm triển khai thức lấy thực bộ về sau, đạt được cái này đẳng thức."
+
+	Trên màn hình lớn tư thế là:
+
+	-Reζ' ╱ ζ(s)=σ-1 ╱ ∣ s-1∣^2-∑pσ-β ╱ ∣ s-p∣^2+o(1 ╱ λ(s)+log(∣ s∣+2))
+
+	Dưới đài người nghe tập trung tinh thần, tĩnh lặng có thể nghe kim đồng hồ.
+
+	Thẩm Kỳ ung dung không vội êm tai nói: "Để chúng ta xem một chút Thẩm thị song sinh xứng đôi pháp định nghĩa, thiết Riemann ζ hàm số không phải hiển nhiên linh điểm tập hợp là: {p1, 1-p1, p2, 1-p2, . . . , pk, 1-pk, . . . pn, 1-pn}, cái này tập hợp thức ra hiệu là: Phàm là có 'Cùng trị giá là 1, hư bộ giá trị tuyệt đối giống nhau' đặc thù hai cái không phải hiển nhiên linh điểm, liền xứng đôi vì một đôi."
+
+	". . . Kết hợp cái này đẳng thức, trong đó ∑p biểu thị đối tùy ý nhiều cái không phải hiển nhiên linh điểm cầu hoà, ta tại ∑p bên trong vẻn vẹn lấy một hạng p=p0, thế là, tồn tại bình thường số c1, có thể ζ(s) tại khu vực σ1-c1log^-1(∣t∣+2) bên trong không có linh điểm."
+
+	"Nói cách khác, chúng ta đạt đượcζ(s) hết hạn trước mắt tốt nhất không phải số không khu vực!" Thẩm Kỳ do chậm chuyển tật, diễn thuyết tiết tấu biến âm vang hữu lực.
+
+	Xoạt!
+
+	Báo cáo đại sảnh trong nháy mắt do yên tĩnh bộc phát vì tiếng vỗ tay lôi minh.
+
+	Thẩm Kỳ ánh mắt sáng rực kiên định không thay đổi nói: "Tại vừa rồi trong báo cáo, ta liệt cử bốn loại chứng thực thứ ba biểu đạt thức đường tắt, mặc dù chỉ là dàn khung tính, mặc dù chúng ta chưa cầu được ζ(s) thứ ba biểu đạt thức, nhưng chúng ta cách thành công không xa!"
+
+	"Không khó dự đoán, một khi thứ ba biểu đạt thức bị chứng thực, Riemann định lý giá trị đem hiện lên cấp số nhân tăng trưởng!"
+
+	"Ta biết, ta có cái ngoại hiệu gọi là Trung Quốc chìa khoá, mà trong mắt của ta, thứ ba biểu đạt thức chính là thanh này trân quý chìa khoá, mà ta, chẳng qua là giữ cửa, phụ trách quản lý chìa khoá. Tạ ơn lắng nghe, báo cáo của ta hoàn tất!" Thẩm Kỳ cúi đầu gửi tới lời cảm ơn, kết thúc trận này báo cáo.
+
+	Dưới đài toàn thể người nghe đứng dậy, iCTP, IMU, các quốc gia nhà toán học, bọn hắn phát ra từ nội tâm vỗ tay, lớn tiếng khen hay, Trung Quốc chìa khoá dùng một trận đặc sắc diễn thuyết, mở ra trong bọn họ trong lòng cánh cửa kia.
+
+	Thẩm Kỳ phần này hội nghị báo cáo "RT thứ ba biểu đạt thức mới nhất nghiên cứu tiến độ", tại trong vòng một đêm bị rộng khắp nghiên cứu.
+
+	Đức quốc khoa giáo truyền thông kinh hô: "Trung Quốc chìa khoá xuất thủ! Thẩm Kỳ tại Châu Âu phát khởi thế công!"
+
+	Hơn một tuần lễ trước đó, Schultz tại Edinburgh nhận lấy Keith huy hiệu, cũng phát biểu báo cáo mới nhất, liên quan tới Hodge phỏng đoán báo cáo. Trong lúc nhất thời Schultz như mặt trời ban trưa, vốn là đại hồng đại tử hắn, đã tím đến biến thành màu đen.
+
+	Lúc này, Thẩm Kỳ vượt qua Đại Tây Dương giết tới Châu Âu, dùng thực lực hướng Châu Âu toán học giới, quốc tế toán học giới tuyên cáo, chiến đấu vừa mới bắt đầu, trò hay ở phía sau.
+
+	Báo cáo hội kết thúc về sau, Thẩm Kỳ cùng Andrew - Wales kề đầu gối nói chuyện lâu.
+
+	"Rất tuyệt diễn thuyết." Wales đầu tiên giúp cho khẳng định, lập tức lại nói: "Nhưng ta vẫn tồn tại như cũ nghi hoặc, kỳ, ngươi đạt đượcζ(s) hết hạn trước mắt tốt nhất không phải số không khu vực, cỗ này có ý nghĩa trọng đại. Nhưng mà, căn cứ vào kết quả này, ngươi cũng không lấy được cuối cùng thành quả, ta muốn thấy đến thành quả."
+
+	Gừng càng già càng cay, Wales nhìn vấn đề có thể một chút xem thấu bản chất.
+
+	Thẩm Kỳ liền biết Wales sẽ nói như vậy, hắn cười nói: "Wales giáo sư, ngươi muốn nhìn đến thành quả, đồng dạng là ta muốn thấy đến thành quả, nó còn tại thai nghén bên trong."
+
+	"Kỳ, thuận ngươi Logic, đạt được ζ(s) tốt nhất không phải số không khu vực về sau, ngươi thiết lập bốn loại đường tắt đi cầu chứng RT thứ ba biểu đạt thức. Ta hiểu cái này bốn loại đường tắt chính là bốn loại toán học công cụ, mà tại ngươi ngày hôm qua trong báo cáo, cũng không giải thích cặn kẽ bốn loại công cụ phương pháp sử dụng, chỉ là ném ra khái niệm tính dàn khung nội dung."
+
+	"Ba loại đầu đường tắt, đối hàm số logζ(s), số nguyên tố cơ bản định lý, linh điểm phương trình, tốt xấu còn có cái danh tự cùng cơ bản định nghĩa. Mà loại thứ tư đường tắt, ngươi mệnh danh là 'Loại thứ tư đường tắt', không có bất kỳ cái gì định nghĩa. Cho nên ngươi gặp phải phiền toái?" Wales hỏi.
+
+	Thẩm Kỳ không cười, xác thực gặp một chút xíu phiền phức.
+
+	"Tại thuần túy số luận trước mặt, ta nhưng thật ra là cái ngoài nghề. Nhưng ta số này luận ngoại làm được trực giác nói cho ta, ngươi gặp được đến phiền phức." Wales nói đến.
+
+	"Không, ngươi không phải ngoài nghề, ngươi là thiên tài." Thẩm Kỳ nghiên cứu qua rất nhiều lần Wales liên quan tới Fermat đại định lý chứng minh, Wales lợi dụng đại số hình học phương pháp đã chứng minh số luận vấn đề Fermat đại định lý, loại người này làm sao có thể là ngoài nghề đâu.
+
+	"Kỳ, ngươi biết, năm đó ta tại Princeton, xài ròng rã thời gian mười năm nghiên cứu Fermat đại định lý, kia mười năm ta chỉ làm một việc --- chứng minh Fermat đại định lý, đáng chết Fermat đại định lý."
+
+	"Làm ta viết xong kia 200 trang luận văn lúc, đã 41 tuổi." Wales nhớ lại chuyện cũ, hắn là Fields thưởng trong lịch sử một vị duy nhất tuổi tác vượt qua 40 tuổi lấy được thưởng người, hắn nguyên nhân thành công chứng minh Fermat đại định lý thu được Fields đặc biệt thưởng, lúc năm 45 tuổi.
+
+	"Trí mạng nhất là,  « toán học phát minh » phủ định ta kia 200 trang luận văn, lúc ấy ta tuyệt vọng, cái này đối ta đả kích phi thường nặng nề, trong vòng mười năm ta bỏ ra toàn bộ, kết quả chỉ lấy được một đống không dùng được rác rưởi. Ngay lúc đó ta, thậm chí nghĩ đến tự sát." Tuổi gần thất tuần Wales lấy dị thường bình tĩnh giọng điệu nói ra lời nói này.
+
+	Mà dự thính người Thẩm Kỳ, nghe nghe cái mũi chua chua.
+
+	Wales vỗ vỗ Thẩm Kỳ bả vai, nói đến: "Kỳ, khi đó ta gặp phải phiền phức, so ngươi bây giờ phiền phức lớn hơn."
+
+	"Wales giáo sư, chuyện về sau chúng ta đều biết, ngươi thành công chứng minh Fermat đại định lý, lấy được Fields thưởng. Xin hỏi ngươi là như thế nào giải quyết cái kia đại phiền toái?" Thẩm Kỳ hiếu kì hỏi thăm.
+
+	Wales ngưỡng vọng trời xanh: "Ta nhớ được đêm hôm đó, ta uống say như chết, ta từng tờ từng tờ thiêu hủy, ta tự tay viết mười năm luận văn, 200 trang luận văn."
+
+	"Đốt tới thứ 188 trang lúc, ta đột nhiên thanh tỉnh, đời này chưa từng như này thanh tỉnh qua."
+
+	"Sau đó tại trong vòng 20 phút, ta suy luận ra chứng minh Fermat đại định lý hạch tâm Logic."
+
+	"Mới luận văn chỉ có 130 trang, lần này rất thuận lợi, đạt được toàn thế giới tán thành." Wales nhìn xem Thẩm Kỳ, truyền thụ kinh nghiệm quý báu.
+
+	Thẩm Kỳ: ". . ." 

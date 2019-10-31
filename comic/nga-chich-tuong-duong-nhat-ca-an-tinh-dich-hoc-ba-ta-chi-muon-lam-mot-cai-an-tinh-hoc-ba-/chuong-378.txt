@@ -1,0 +1,101 @@
+ 378 chương thêm nhiệt
+
+	"Úc, kỳ, ngươi cuối cùng giải quyết Hodge phỏng đoán?" Faltings toát ra hết sức cảm thấy hứng thú dáng vẻ.
+
+	"Ta liền biết, ngươi có thể đi." Fefferman chủ nhiệm nói đến.
+
+	"Bắt đầu đi." Deligne lời ít mà ý nhiều.
+
+	Thẩm Kỳ phát ra PPT bắt đầu báo cáo: "Được rồi, chúng ta bắt đầu. Cùng cái khác đoàn đội nếm thử trực tiếp chứng minh Hodge phỏng đoán khác biệt, phương án của chúng ta là, đầu tiên thành lập đại số hình học, số học phân tích, tô-pô tạo thành hệ thống, sau đó chứng minh Hodge phỏng đoán là thể hệ một bộ phận, tổng thể mạch suy nghĩ cùng loại năm đó Perelman chứng minh Poincaré phỏng đoán. . ."
+
+	Trong báo cáo cho rất nhiều, độ dài rất dài, mặc dù báo cáo đối tượng là ba vị Fields thưởng người đoạt giải, nhưng Thẩm Kỳ tận lực giảng kỹ càng, dù sao phần báo cáo này là hoàn toàn mới.
+
+	Thẩm Kỳ kế hoạch ban đầu là trong vòng năm tiếng hồi báo xong tất, kết quả năm tiếng đi qua, bộ phận thứ nhất Ag bản khối đều không có kể xong.
+
+	Báo cáo quá trình bên trong, ba vị Fields thưởng người đoạt giải không ngừng đặt câu hỏi, hỏi được nhiều nhất vấn đề là liên quan tới Thẩm Kỳ đặc thù định nghĩa "S loại đặc thù mặt cong" .
+
+	Thẩm Kỳ không thể không lặp đi lặp lại trình bày "S loại đặc thù mặt cong" tương quan tính chất cùng suy luận chứng minh quá trình, hắn nhất định phải để Princeton cùng Phổ Cao Sở ba vị Fields thưởng người đoạt giải hoàn toàn lý giải phương án của hắn.
+
+	Nếu như ngay cả Deligne, Faltings, Fefferman ba người đều nghe không hiểu Thẩm Kỳ SLw hệ thống, kia mặt hướng đại chúng toán học báo cáo hội không cần mở, bởi vì những người khác càng thêm khó mà nghe hiểu.
+
+	Tuyệt đại đa số người không thể nào hiểu được lý luận, là sẽ không bị IMU chính thức thừa nhận.
+
+	Hodge phỏng đoán là Thẩm Kỳ toán học đẳng cấp tấn thăng cấp 15 điều kiện một trong, nếu lên tới max cấp kia không quan trọng, các ngươi yêu biết hay không, ta lão Thẩm làm ta yêu làm sự tình liền tốt.
+
+	Nhưng bây giờ cũng không có lên tới max cấp, cho nên Thẩm Kỳ cần mau chóng để hắn hệ thống công chư tại thế, cùng làm đại đa số người lý giải lý luận của hắn hệ thống.
+
+	Ag bản khối cuối cùng cùng ba vị Fields thưởng đại lão nói rõ, lúc này đã là mười giờ tối.
+
+	Deligne lớn tuổi, hắn mệt mỏi, lão gia tử phi thường mỏi mệt, lại vẫn không che giấu được tâm tình kích động: "Kỳ, hôm nay chỉ tới đây thôi, ngày mai tiếp tục, ta phi thường chờ mong phía sau ngươi trong báo cáo cho."
+
+	Đưa tiễn ba vị đại lão, trong phòng họp chỉ còn Thẩm Kỳ, Ralph hai người.
+
+	Phụ trách bưng trà đổ nước đưa cà phê Ralph thở dài một hơi, bốn vị Fields thưởng người đoạt giải cùng chỗ một gian phong bế phòng họp, mang cho hắn uy áp khá lớn.
+
+	"Bọn hắn ba vị nghe hiểu, ngươi đâu, Ralph?" Thẩm Kỳ hỏi.
+
+	"Ag bản khối ta tương đối quen thuộc, ngoại trừ 'S loại đặc thù mặt cong' . Bất quá Thẩm giáo sư ngươi giảng giải về sau, ta triệt để đã hiểu, ta chỉ có thể nói, oa ờ, kỳ tư diệu tưởng thiên tài sáng ý!" Ag bản khối đại bộ phận nội dung là Ralph cùng Vu Lỗi hoàn thành, trải qua Thẩm Kỳ hậu kỳ tinh gia công, đã phi thường hoàn mỹ.
+
+	"Vậy là tốt rồi, Ag bản khối cũng có công lao của ngươi, Ralph." Thẩm Kỳ yên tâm, Ralph đại biểu cho toán học giới bình dân giai tầng, mọi người tốt mới là thật tốt.
+
+	Ralph: "Cho nên chúng ta là nhanh nhất a? Ta có chú ý Đức quốc Schultz đoàn đội tiến triển, bọn hắn gần đây cũng không phát biểu mới nhất thành quả nghiên cứu."
+
+	Thẩm Kỳ gật gật đầu: "Ân, chúng ta hẳn là nhanh nhất."
+
+	Ngày kế tiếp, Thẩm Kỳ tiếp tục giảng giải TP cùng AN bản khối, cùng Ag, TP, AN tam đại bản khối dung hội quán thông sau cấu trúc SLw hệ thống.
+
+	"Không biết các vị đối với SLw hệ thống có hay không nghi vấn?" Thẩm Kỳ ân cần hỏi đến, đây là phi thường vấn đề mấu chốt.
+
+	"Nghi vấn đã toàn bộ giải quyết, cái này bao hàm đại số hình học, topol, số học phân tích mới hệ thống không có vấn đề." Deligne đứng lên, đi đến Thẩm Kỳ trước mặt, cùng Thẩm Kỳ nắm tay: "Đáng tiếc một vị nhà toán học cả một đời chỉ có thể nhận lấy một lần Fields thưởng, nếu không sang năm Fields thưởng trong danh sách, lại cái này có tên của ngươi, kỳ."
+
+	"IMU có lẽ sẽ phá lệ?" Fefferman chủ nhiệm nói đến.
+
+	"Không, bọn hắn sẽ không, bọn hắn so ta cái này lão ngoan cố càng thêm bảo thủ không chịu thay đổi." Deligne nhún nhún vai, sau đó triều hội nghị thất đại môn đi đến.
+
+	"Ha ha, Deligne giáo sư, báo cáo của ta còn không có kết thúc, cuối cùng một phần là chứng minh Hodge phỏng đoán thuộc về SLw bên trong một loại tình huống đặc biệt." Thẩm Kỳ hướng về phía Deligne phía sau lưng thét lên.
+
+	"Không cần hướng ta đã chứng minh, trong mắt của ta, SLw hệ thống so Hodge phỏng đoán càng có ý định hơn nghĩa." Deligne quay đầu cười cười, phất phất tay đi.
+
+	Thẩm Kỳ trở lại báo cáo vị trí, hỏi: "Fefferman chủ nhiệm, Faltings giáo sư, các ngươi nguyện ý nghe ta nói hết cuối cùng một bộ phận sao?"
+
+	"Nghe, vì cái gì không nghe?"
+
+	"Tiếp tục nói a, kỳ."
+
+	Bao quát Fields thưởng, Giải thưởng Wolf, Abel thưởng kim đầy xâu người đoạt giải Deligne cảnh giới tương đối cao, hắn thừa hứng mà đến, hưng tận mà trở lại. Fefferman chủ nhiệm, Faltings giáo sư so sánh tiếp địa khí, không nhìn thấy cuối cùng kết cục hai người bọn họ lòng ngứa ngáy.
+
+	Sau đó, Thẩm Kỳ hướng Fefferman chủ nhiệm, Faltings giáo sư cùng Ralph phô bày, vì cái gì Hodge phỏng đoán thuộc về SLw hệ thống bên trong một bộ phận.
+
+	". . . Từ trên tổng hợp lại, Hodge phỏng đoán bị hoàn toàn chứng minh." Thẩm Kỳ kết thúc hắn hệ bên trong báo cáo.
+
+	"Vượt quá tưởng tượng nhưng lại hợp tình hợp lý." Faltings vỗ tay tán thưởng.
+
+	"Ngành toán học đem lập tức an bài một trận toán học báo cáo hội, mời IMU cùng cái khác nghiên cứu khoa học cơ cấu nhà toán học đến đây lắng nghe." Fefferman nói đến, hắn nhìn qua hưng phấn, cũng có chút không bỏ: "Kỳ, ta nói qua, ngươi vĩnh viễn là Princeton tốt nhất đồng học, cảm tạ ngươi hơn năm năm đến vì Princeton làm cống hiến."
+
+	Thẩm Kỳ tại Princeton du học, nhậm chức trong lúc đó, trước sau đã chứng minh Walsh phỏng đoán, Muller - Thẩm định lý, Thẩm thị cận bách định lý, Riemann phỏng đoán, Goldbach phỏng đoán cùng tương quan cái khác ba cái phỏng đoán, thu hoạch mười cái toán học giải thưởng, quả lớn từng đống.
+
+	Hodge phỏng đoán vừa mới bị Thẩm Kỳ chứng minh, sắp công bố tại thế.
+
+	Các đồng nghiệp đều biết, Hodge phỏng đoán là Thẩm Kỳ lưu cho Princeton cuối cùng một phần lễ vật, Thẩm Kỳ sẽ lấy Princeton toán học thân phận giáo sư hướng toàn thế giới tuyên bố: Hodge phỏng đoán bị đánh hạ.
+
+	Một người muốn về nhà, ai cũng lưu không được hắn.
+
+	Mọi người đều biết đạo lý này, nhân chi thường tình.
+
+	Faltings đối Fefferman chủ nhiệm nói đến: "Charles, tốt nhất đồng học cái gì nhiều lắm, ngươi có phải hay không hẳn là đưa kỳ một phần đặc biệt lễ vật, tỉ như nói Princeton danh dự giáo sư."
+
+	"Hệ chủ nhiệm không cách nào bổ nhiệm danh dự giáo sư, cái này cần trường học chủ tịch sự tình sẽ quyết nghị." Fefferman chủ nhiệm lắc đầu, biểu thị năng lực của hắn có hạn.
+
+	"Bất quá. . ." Fefferman tới cái chuyển hướng, nói đến: "Một người trước sau giải quyết hai cái ngàn năm nan đề, cái này tại cận đại toán học sử thượng không có tiền lệ, kỳ, mặc dù ta không có tư cách trực tiếp trao tặng ngươi Princeton danh dự giáo sư danh hiệu, nhưng ta có quyền hướng trường học chủ tịch sự tình sẽ đề nghị."
+
+	"Tranh thủ thời gian đề nghị đi, Charles, tiếp qua mấy tháng ngươi đem từ nhiệm hệ chủ nhiệm." Faltings có ý tứ là, có quyền không cần thiên lôi đánh xuống.
+
+	"Kỳ công khai báo cáo hội kết thúc về sau, ta sẽ lập tức đề nghị." Fefferman bỗng nhiên nghĩ rõ ràng một cái đạo lý, nếu như Princeton cho Thẩm Kỳ một chút tưởng niệm, tỉ như treo cái chung thân danh dự giáo sư danh hiệu, như vậy Thẩm Kỳ đời này cùng Princeton cũng phiết không rõ quan hệ: "Kỳ, ngươi chuẩn bị một chút, ngươi về Hodge phỏng đoán công khai báo cáo hội, nhanh nhất sẽ tại một tuần sau tiến hành. Ta cam đoan với ngươi, cái này đem là Princeton xây trường đến nay, quy mô nhất là thịnh đại một lần học thuật hội nghị."
+
+	"Thu được!" Thẩm Kỳ ma quyền sát chưởng, vì cam đoan hội nghị hiệu quả, hắn đem SLw hệ thống cùng Hodge phỏng đoán chứng minh luận văn tinh hoa bản, phát đếnarVix bên trên.
+
+	Luận văn toàn văn 221 trang, tinh hoa bản là 103 trang. Phát ra tinh hoa bản có hai cái mục đích, một là tuyên bố do Princeton Thẩm Kỳ giáo sư dẫn đầu đoàn đội, dẫn đầu hoàn thành Hodge phỏng đoán chứng minh.
+
+	Hai là cho quốc tế toán học giới một chút sớm thời gian, chuẩn bị bài bản này luận văn nội dung chủ yếu, để mọi người làm được trong lòng hiểu rõ, miễn cho đến báo cáo hội hiện trường như là nghe Thiên thư, rất lúng túng.
+
+	Fefferman chủ nhiệm lấy đại học Princeton ngành toán học danh nghĩa rộng phát anh hùng thiếp, mời quốc tế toán học giới trứ danh nhân sĩ không ngày trước hướng Princeton cùng bàn đại sự, hội nghị tổ chức công việc khua chiêng gõ trống tiến hành. 

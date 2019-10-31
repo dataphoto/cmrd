@@ -1,0 +1,103 @@
+ 313 chương bái phỏng cao đẳng sở nghiên cứu
+
+	 « số luận sử » cũng không phải là đơn thuần sách sử, mặc dù nó bên trong bao hàm một chút toán học sử sự tình.
+
+	Đoạn tích một phần trong đó, Thẩm Kỳ viết như sau:
+
+	"Số luận môn này ngành học khởi nguyên từ Hy Lạp, toàn cục học gia Diofantos dẫn vào phương trình vô định khiến cho nó trở thành một môn hệ thống lý luận."
+
+	"Người Ấn Độ cùng người Ả Rập đau khổ gắn bó Diofantos phương trình hệ thống, làm số luận không đến mức mai một tại bên trong bụi bậm của lịch sử."
+
+	"Hy Lạp, Ấn Độ, Ả Rập chức nghiệp nhà toán học tại số luận phương diện làm đại lượng cố gắng, mà chân chính đối số luận làm ra rộng khắp cống hiến cũng giao phó môn này ngành học to lớn động lực người, là nước Pháp một vị nghiệp dư nhà toán học ---- Fermat."
+
+	"Fermat xuất thân từ giàu có gia đình thương nhân, nghề nghiệp của hắn là luật sư, cũng đối chính trị phi thường mưu cầu danh lợi, một lần là đồ lư tư nghị hội cố vấn."
+
+	"Mặc dù toán học chẳng qua là Fermat nghiệp dư yêu thích, đồng thời hắn chỉ có thể lợi dụng chút ít thời gian nhàn hạ đến nghiên cứu toán học, nhưng hắn đối số luận cùng vi phân và tích phân làm ra cấp cao nhất cống hiến."
+
+	"Fermat là tọa độ hình học hai cái một trong những người phát minh, hắn cùng Pascal cùng một chỗ khai sáng xác suất luận nghiên cứu, cái này nghiên cứu khởi nguyên từ một lần đánh bạc, Fermat thua sạch sành sanh."
+
+	"Fermat trong cả đời đưa ra mấy trăm phỏng đoán, nhưng hắn chỉ đối trong đó một cái làm ra chứng minh, mà lại cái này chứng minh cũng chỉ là tường thuật tóm lược chủ quan, tường thuật tóm lược một nửa liền im bặt mà dừng."
+
+	"So với nghiệp dư kẻ yêu thích Fermat, Đức quốc chức nghiệp nhà toán học Riemann đem nó suốt đời tinh lực vùi đầu vào toán học bên trong."
+
+	"Riemann thân thể không tốt, tính cách đa nghi."
+
+	"33 tuổi thời điểm, Riemann đưa ra trứ danh Riemann phỏng đoán, hắn tại 36 tuổi kết hôn, 40 tuổi nguyên nhân bệnh qua đời."
+
+	"Người viết cùng học thuật đồng bạn đã chứng minh Riemann phỏng đoán, cũng chải vuốt ra Riemann zeta hàm số số nguyên tố phân bố lý luận hệ thống, như sau:
+
+	-Reζ' ╱ ζ(s)=σ-1 ╱ ∣ s-1∣^2-∑pσ-β ╱ ∣ s-p∣^2+o(1 ╱ λ(s)+log(∣ s∣+2))
+
+	. . .
+
+	{p1, 1-p1, p2, 1-p2, . . . , pk, 1-pk, . . . pn, 1-pn}
+
+	. . .
+
+	x=βk, γ=γk, x^2-x-γ^2+γk^2+βk-βk^2=0, γk(1-2β)+γ(2x-1)=0
+
+	ζ(s)=e^A+B s∏∞n=1(1- s ╱ pn)(1- s ╱ 1-pn)e^(s ╱ pn+ s ╱ 1-pn)
+
+	. . ."
+
+	"Như sau" phía dưới 100 trang nội dung phi thường có giá trị, thuộc về Thẩm Kỳ học thuật bản gốc, hắn ở đây trong sách, đầu tiên phát biểu bản đầy đủ Riemann zeta hàm số số nguyên tố phân bố lý luận hệ thống.
+
+	Đối với toán học người làm việc tới nói, Riemann zeta hàm số số nguyên tố phân bố lý luận hệ thống dài đến 100 trang chuyên nghiệp luận thuật, là  « số luận sử » quyển sách này lớn nhất bán điểm.
+
+	Nhưng người độc giả này nhóm nhân số không nhiều, thậm chí có thể nói là thưa thớt.
+
+	Cho nên Thẩm Kỳ cũng không có trông cậy vào  « số luận sử » có thể bán chạy bán chạy, kiếm tiền hay không là chuyện nhỏ, ra một bộ toán học chuyên, là một vị trứ danh nhà toán học tâm nguyện.
+
+	 « số luận sử » tại nước Mỹ chính thức phát hành tiêu thụ ngày ấy, toàn mỹ dị thường bình tĩnh, chưa từng xuất hiện sấm sét vang dội vòi rồng hút khô biển cả dị tượng.
+
+	Tiêu thụ số liệu muốn qua một đoạn thời gian mới có thể đi ra ngoài, Thẩm Kỳ gắng giữ lòng bình thường thái, hắn năm nay tại đại học Princeton ngành toán học nghiên cứu khoa học nhiệm vụ hoàn thành một cái, xuất bản một bộ học thuật chuyên.
+
+	Hệ thống: "Thành tựu mới! Túc chủ xuất bản toán học chuyên lấy một bộ, cơ sở ban thưởng 50 vạn điểm học bá tích phân, nhân với toán học chủ thiên phú hệ số 2. 0, cuối cùng ban thưởng 100 vạn điểm học bá tích phân."
+
+	Học bá tích phân loại chuyện này dựa vào là tích lũy tháng ngày, Thẩm Kỳ về nước nhận mai quốc gia huân chương, ra quyển sách, đem thăng cấp vật lý đến cấp 10 học bá tích phân kiếm lại.
+
+	Thẩm Kỳ nghiên cứu Vật lý vật chất ngưng tụ có một đoạn thời gian.
+
+	Tại vật lý ngành học phân loại bên trong, Vật lý vật chất ngưng tụ phân loại làm lý luận vật lý phạm trù.
+
+	Trạng thái ngưng tụ là chỉ thể rắn, chất lỏng, cùng xen vào thể rắn cùng chất lỏng ở giữa hình thái gọi chung là.
+
+	Vật lý vật chất ngưng tụ thì là nghiên cứu trạng thái ngưng tụ vật chất kết cấu cùng tạo thành hạt ở giữa hỗ trợ lẫn nhau cùng vận động quy luật, từ đó tỏ rõ tính năng cùng công dụng khoa học.
+
+	Vật lý vật chất ngưng tụ nghiên cứu mục tiêu phi thường rộng khắp, thậm chí có thể nói là bề bộn, tại lĩnh vực này bên trong công tác nhà vật lý học ước chiếm cứ toàn bộ nhân số một nửa trở lên.
+
+	Trạng thái ngưng tụ vật chất liên quan đến chiều dài phạm vi từ vài mét đến mấy nano, liên quan đến thời gian phạm vi từ mấy năm đến mấy bay giây, liên quan đến năng lượng phạm vi từ mấy ngàn lái đến mấy nạp mở, liên quan đến hạt số tại 10^27~10^21, cơ hồ tiếp cận nhiệt lực học cực hạn.
+
+	Nói điểm cụ thể Vật lý vật chất ngưng tụ ứng dụng thành quả, bao quát năm gần đây phát hiện nhiệt độ cao chất siêu dẫn, giới xem trong hệ thống lượng tử vận chuyển, Quang Tử tinh thể, C6 0 điểm tử cùng thể rắn, nano cacbon quản, cự từ điện trở cùng bàng từ điện trở chờ.
+
+	Trạng thái ngưng tụ thế giới vật chất cấp độ một bộ phận, Nhân loại thông qua mắt thường có thể trực tiếp quan sát được, mà trong đó rất nhiều kết cấu chi tiết nhất định phải mượn nhờ các loại hiển hơi thuật đến quan sát, cái này tự nhiên mà vậy dính đến tương quan thí nghiệm.
+
+	Thẩm Kỳ trong tay không có vật lý thí nghiệm tài nguyên, bọn hắn ngành toán học quý giá nhất dụng cụ thí nghiệm chính là cao tính năng máy tính, để mà nghiệm chứng số liệu lượng khổng lồ toán học phỏng đoán.
+
+	Có khó khăn, tìm sư phó.
+
+	Thẩm Kỳ dạo bước đi hướng Princeton cao đẳng sở nghiên cứu, hắn chuẩn bị bái phỏng Edward Witten.
+
+	Princeton cao đẳng sở nghiên cứu ngay tại Princeton đại học sát vách, đi vào Princeton hai ba năm, Thẩm Kỳ tại cao đẳng sở nghiên cứu cửa đại lâu tượng đồng trước bồi hồi qua nhiều lần, nhưng không có đi vào qua một lần.
+
+	Tôn này tượng đồng là Einstein tượng bán thân, nền móng trên có khắc Einstein danh ngôn: "Sức tưởng tượng so tri thức quan trọng hơn."
+
+	Thẩm Kỳ nhìn chằm chằm Einstein, sững sờ ngẩn người nói một mình: "Ta có tri thức, ta không thiếu sức tưởng tượng, nhưng ta không có thí nghiệm thiết bị, Einstein giáo sư, mời ngươi nói cho ta, ngươi năm đó là như thế nào não bổ ra thuyết tương đối?"
+
+	"Rất đơn giản." Bỗng nhiên sau lưng truyền tới một thanh âm quen thuộc.
+
+	Thẩm Kỳ quay đầu một nhìn: "Edward, trùng hợp như vậy, ta đang chuẩn bị đi vào tìm ngươi."
+
+	Người tới chính là Edward Witten, hắn nói đến: "Nhà vật lý học vô thượng khảo nghiệm ở chỗ đạt tới những cái kia phổ biến tính quy luật cơ bản, lại từ nó diễn dịch ra toàn bộ vũ trụ."
+
+	Thẩm Kỳ nhìn một chút Einstein tượng đồng, đối Edward Witten cười nói: "Ngươi nói đây là Einstein bản trở lại như cũ luận, đem phức tạp trở lại như cũ vì đơn giản, lại từ đơn giản trùng kiến phức tạp."
+
+	"Cho nên kỳ, ngươi rõ chưa?" Witten hỏi.
+
+	"Ừm, minh bạch." Thẩm Kỳ gật gật đầu, lại hỏi: "Edward, cao đẳng sở nghiên cứu bên trong có Vật lý vật chất ngưng tụ thí nghiệm thiết bị sao?"
+
+	"Xem ra ngươi cũng không có triệt để minh bạch, như thế nào diễn dịch ra toàn bộ vũ trụ." Witten ngoắc, ra hiệu Thẩm Kỳ cùng hắn tiến vào cao đẳng sở nghiên cứu cao ốc.
+
+	Witten giáo sư có do đơn giản trùng kiến phức tạp năng lực, hắn diễn dịch ra vũ trụ, vấn đề là không ai cho hắn điểm tán, bởi vì người khác không thể nào hiểu được Witten vũ trụ.
+
+	Thẩm Kỳ cũng là hiểu được một bộ phận Witten sở thiết định vũ trụ, hắn mang kính sợ tâm tình, lần đầu bước vào Princeton cao đẳng sở nghiên cứu đại lâu nội bộ. 

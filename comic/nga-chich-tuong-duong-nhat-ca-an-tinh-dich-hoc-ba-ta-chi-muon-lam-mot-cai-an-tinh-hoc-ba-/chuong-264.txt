@@ -1,0 +1,97 @@
+ 264 chương ta muốn nhìn tư thế
+
+	 
+
+	"Riemann tại năm 1859 phát biểu một phần luận văn, tên là  « luận không lớn hơn một cái đứng yên đáng giá số nguyên tố số lượng », chỉ có 8 trang giấy, đây là hắn duy nhất công khai phát biểu số luận luận văn."
+
+	"Chính là cái này khu khu 8 trang giấy, vì phân tích số luận đặt cơ sở vững chắc."
+
+	"Có thể thấy được ghi tên sử sách chưa chắc cần số lượng từ nhiều, văn chương chất lượng vĩnh viễn xếp hạng thứ nhất."
+
+	"Chúng ta cũng không rõ ràng năm 1859 Riemann là căn cứ vào lý do gì làm ra suy luận như vậy, có lẽ là một loại thiên tài trực giác.
+
+	"RH tương đương với nói, Ξ(w) toàn bộ 0 giờ đều là thật."
+
+	"Riemann còn nói, đương nhiên đối với cái này cần làm ra chứng minh, hắn làm qua dạng này chứng minh, bởi vì một cái hạch tâm biểu đạt thức chưa đơn giản hoá đến có thể công khai trình độ, cho nên không có phát biểu. Đây là số luận sử thượng lớn nhất một cái bí ẩn."
+
+	"Cùng loại phía trên những lời này, ngươi có thể tại bất luận cái gì một bản toán học thư tịch hoặc là bất luận cái gì một phần luận văn trông được đến, nhưng tiếp xuống người viết miêu tả nội dung, cầm đầu độ phát biểu bản gốc..."
+
+	Thẩm Kỳ đầy cõi lòng kích tình biên soạn hắn  « số luận sử », có hoa quả khô, sáng tác nhiệt tình chính là tăng vọt a.
+
+	"Thiết Riemann ζ hàm số không phải hiển nhiên 0 giờ tập hợp là:
+
+	{p1, 1-p1, p2, 1-p2, ... , pk, 1-pk, ... pn, 1-pn}
+
+	Cái này tập hợp thức ra hiệu là:
+
+	Phàm là có 'Cùng trị giá là 1, hư bộ giá trị tuyệt đối giống nhau' đặc thù hai cái không phải hiển nhiên 0 giờ, liền xứng đôi vì một đôi.
+
+	Vì dễ dàng cho xưng hô, người viết đem loại này mới phương thức xử lý xưng là 'Song sinh xứng đôi pháp' .
+
+	Phía dưới, người viết đem thông qua 'Song sinh xứng đôi pháp' suy luận ra ζ(s) hạch tâm biểu đạt thức."
+
+	Thẩm Kỳ múa bút thành văn, ζ(s) hạch tâm biểu đạt thức thật muốn bị chính mình suy luận ra, Riemann phỏng đoán thật muốn bị chính mình đã chứng minh, vậy cái này bản  « số luận sử » tuyệt đối sẽ bán chạy đặc biệt bán, một sách thành thần nha!
+
+	"Song sinh xứng đôi pháp" là Thẩm Kỳ mới vừa ngộ ra được linh cảm, hắn bản gốc.
+
+	Số lượng trò chơi cuối cùng cũng có kết thúc một ngày, Thẩm Kỳ quyết định kết thúc Riemann phỏng đoán cái trò chơi này.
+
+	Hưng phấn ngủ không yên, Thẩm Kỳ một mực làm hừng đông.
+
+	"Cho nên tại 'Song sinh xứng đôi pháp' xử lý xuống, ζ(s) hạch tâm biểu đạt thức hẳn là: ζ(s)=e^A+B s∏∞n=1(1- s ╱ pn)(1- s ╱ 1-pn)e^(s ╱ pn+ s ╱ 1-pn)... Nguyên lai là dạng này..."
+
+	Thẩm Kỳ đứng lên, thoải mái thư gân cốt, hắn một mặt bình tĩnh nhìn ngoài cửa sổ mặt trời mới mọc, cười.
+
+	Số lượng trò chơi cũng không kết thúc, nhưng Thẩm Kỳ tìm được chính xác đường tắt, đây là phi thường trọng yếu đột phá.
+
+	"Cho nên, Riemann chỗ đề cập cái kia chưa công khai biểu đạt thức, cũng không phải là một cái, mà là hai cái, thậm chí ba cái, 'Cái' cái từ này miêu tả không thích đáng, hẳn là 'Tổ', hoàn toàn chứng minh Riemann phỏng đoán, cần một tổ hạch tâm biểu đạt thức."
+
+	Thẩm Kỳ phấn chiến một đêm, phát hiện một cái thiên đại bí mật, toàn thế giới đều bị Riemann đùa bỡn, đùa nghịch hơn một trăm năm.
+
+	Riemann đến tột cùng là bởi vì lỡ bút, vẫn là cố ý viết sai, vậy liền không ai có thể nói rõ.
+
+	Thiên đại bí mật này, Thẩm Kỳ thông qua điện thoại trước tiên nói cho bạn gái: "Ta nghĩ ta tìm tới giải quyết RH biện pháp, ta tự sang một loại mới xử lý phương pháp, ta nói cho ngươi nói đại khái thiết lập..."
+
+	"Nói miệng không bằng chứng, ta muốn nhìn tư thế!" Bên đầu điện thoại kia Âu Diệp kích động.
+
+	Thẩm Kỳ: "Nếu như dựa theo ta 'Song sinh xứng đôi pháp' thiết lập, chứng minh RH hạch tâm biểu đạt thức hẳn là có một tổ, ta đã suy luận đưa ra bên trong một cái. Cuối tuần ta chuẩn bị đi Đại học Columbia bái phỏng Cung giáo sư, hắn là phương diện này đỉnh cấp chuyên gia, ta muốn nghe xem ý kiến và đề nghị của hắn. Cuối tuần cho ngươi xem tư thế, ta cần hoàn thiện một chút."
+
+	Âu Diệp: "Nói một tháng sau đến xem ta, thật sự một tháng. Tốt a, cuối tuần gặp."
+
+	Cúp điện thoại, Thẩm Kỳ ngủ một hồi, sau khi rời giường, hắn tiếp tục suy luận trên lý luận tồn tại mặt khác biểu đạt thức.
+
+	Nhưng mà vấn đề là, căn cứ vào "Song sinh xứng đôi pháp" cùng cái thứ nhất biểu đạt thức, vô luận như thế nào cũng không chiếm được cái thứ hai biểu đạt thức.
+
+	"Ai, ngon ngọt là nếm đến một chút xíu, có thể ta muốn lấy được toàn bộ, nếu có thể lên tới cấp 13 liền tốt." Thẩm Kỳ nhìn một chút hệ thống, cấp 12 thăng cấp 13 cần 4 triệu điểm học bá tích phân, mang ý nghĩa nếu lại phát 10 bài ở trên tứ đại tập san luận văn.
+
+	Lúc trước năm tháng 9 đến bây giờ, một năm rưỡi đi qua, Thẩm Kỳ cũng liền phát ba bài tứ đại tập san luận văn, mười bài mới tứ đại tập san luận văn, thật tốt mấy năm nha.
+
+	"Ta cần rộng khắp nghe quần chúng ý kiến, đầy đủ lợi dụng Princeton ưu thế tài nguyên, thông qua đoàn đội lực lượng thắng được trận này trọng yếu chiến dịch."
+
+	Thẩm Kỳ hướng Muller giáo sư văn phòng đi đến, hắn biết Muller giáo sư đầu óc là thanh tỉnh.
+
+	Một năm trước, Muller an bài Thẩm Kỳ cùng Mary liên hợp hoàn thành một cái đầu đề, suy luận ra ζ(s) hai cái đưa đẩy biểu đạt thức.
+
+	Bởi vì các loại nguyên nhân, cái này đầu đề làm hư.
+
+	Nhưng Muller giáo sư trực giác là chính xác, hắn chính là Đức quốc người, hắn khẳng định nghiên cứu qua Riemann Dewen bản bản thảo.
+
+	Muller giáo sư đã sớm dự cảm được, Riemann nói tới "Chưa công khai biểu đạt thức" không chỉ một.
+
+	"Gừng càng già càng cay, lão Muller hoàn thành cường độ cao, Big Data tính toán cùng suy luận càng ngày càng khó khăn, nhưng hắn chiến lược ánh mắt cùng số học trực giác bén nhạy dị thường." Thẩm Kỳ hiện tại càng ngày càng hiểu Muller giáo sư, Lộ Dao Tri Mã Lực, cùng một người tiếp xúc lâu, mới có thể phát hiện hắn chân chính sở trường, cùng khuyết điểm.
+
+	Muller văn phòng.
+
+	Thẩm Kỳ tại trên bảng đen viết ra "Song sinh xứng đôi pháp" thiết lập nguyên lý, cùng cái thứ nhất biểu đạt thức.
+
+	"Lão thiên!" Muller chấn kinh, hắn nhìn chằm chằm bảng đen, thật lâu nói không ra lời.
+
+	Thẩm Kỳ gõ gõ bảng đen: "Muller giáo sư, ngươi nhìn ta như thế nào mới thiết lập?"
+
+	Muller lão phu trò chuyện phát thiếu niên cuồng, tay hắn múa dậm chân đặc biệt hưng phấn: "Chỉ dựa vào mượn cái này mới 'Song sinh xứng đôi pháp', cùng cái thứ nhất biểu đạt thức, Thẩm Kỳ ngươi liền có tư cách đi quốc tế nhà toán học trên đại hội làm báo cáo, IMU chí ít hẳn là cho ngươi 30 phút báo cáo thời gian! Đây là Riemann phỏng đoán trọng đại đột phá! Nếu như ngươi có thể suy luận ra trên lý luận tồn tại toàn bộ biểu đạt thức, lão thiên, Riemann phỏng đoán liền được giải quyết!"
+
+	Thẩm Kỳ bình tĩnh nói đến: "Muller giáo sư, ta cần trợ giúp của ngươi, ta cần toàn bộ đoàn đội trợ giúp. Hồi tưởng một năm trước ngươi cùng Mary quan điểm, ta phát hiện khi đó ta phi thường ngu xuẩn, cũng rất cố chấp. Hiện tại, để Muller chiến hạm một lần nữa lên đường đi, ta hi vọng thông qua đoàn đội lực lượng, cùng hệ bên trong tài nguyên thích hợp điều hành, cuối cùng hoàn thành RH chứng minh."
+
+	Muller đã kinh ngạc lại vui mừng: "Ngươi xác định làm như thế, kỳ? Ngươi bây giờ, hoàn toàn có năng lực một người phụ trách RH chứng minh công việc, mấy tháng về sau ta sẽ không còn là đạo sư của ngươi, khi đó ngươi có thể một mình nhập học đề."
+
+	Thẩm Kỳ cười nói: "Alan, coi như ngươi không phải đạo sư của ta, chúng ta còn có thể trở thành hợp tác đồng bạn. Cảm tạ hơn một năm nay ngươi đối ta chiếu cố, cho ta tự do học thuật hoàn cảnh, cái này đối ta trưởng thành làm ra mấu chốt tác dụng. Còn nhớ rõ 'Muller - Thẩm định lý' sao, chúng ta mãi mãi cũng là hợp tác đồng bạn, đầu này định lý đem một mực tồn tại." 

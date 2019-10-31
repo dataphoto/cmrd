@@ -1,0 +1,93 @@
+ 478 chương bên trên siêu tính
+
+	Thẩm Kỳ đi vào thư phòng, trải rộng ra cuộn giấy, bắt đầu suy luận tính toán.
+
+	N-S phương trình vấn đề tức miêu tả không thể áp súc thể lưu động lực học vấn đề, vấn đề này liên quan đến không thể áp súc dính tính thể lưu N-S phương trình giải tồn tại tính cùng bóng loáng tính.
+
+	N-S phương trình hạng mục tổ đã đem trước mặt luận thuật làm xong, hiện tại chỉ kém một bước cuối cùng, tìm tới không thể áp súc dính tính thể lưu N-S phương trình giải tồn tại tính cùng bóng loáng tính hoàn chỉnh giải.
+
+	Thẩm Kỳ cho rằng bốn cái mấu chốt tư thế bên trong, thức (1) là trọng yếu nhất một cái chìa khóa, cho nên Chu Vũ An đem nó liệt vào thức (1), đặt ở phía trước nhất.
+
+	Đối mặt bối rối mọi người nhiều năm ngàn năm nan đề N-S phương trình, Chu Vũ An có thể làm được một bước này, thể hiện ra to lớn học thuật tiến bộ cùng tương đối cao toán học trình độ.
+
+	Một kích cuối cùng giao cho Thẩm Kỳ trong tay, hắn làm ra một hạng mới tính toán, đối thức (1) bổ sung biên giới điều kiện, tức đối không gian tọa độ cho ra chu kỳ tính biên giới điều kiện cùng ban đầu điều kiện.
+
+	"Một chút xíu, còn kém một chút xíu."
+
+	Mạch suy nghĩ càng ngày càng rõ ràng, nan đề ngụy trang bị Thẩm Kỳ từng tầng từng tầng bóc đi, tầng cuối cùng mạng che mặt ôm trọn tại cuối cùng đáp án bên trên, để lộ nó, phá giải nó.
+
+	Trải qua Thẩm Kỳ hoàn thiện, thức (1) đến (3) xác định ban đầu điều kiện cùng biên giới điều kiện, duy nhất còn không thể xác định là sức chịu nén p(t, x).
+
+	Nhiều năm ấp ủ, đã qua một năm không ngừng nghiên cứu thảo luận, cụ thể chấp hành, tháng gần nhất tập kích công thành, N-S phương trình hạng mục thúc đẩy đến thời khắc này, sức chịu nén không cách nào ngăn cản Thẩm Kỳ tiến lên bộ pháp.
+
+	Thẩm Kỳ đạt được một tổ không gian Hilbert vectơ hàm số f(t, x)=(F1(t, x), f2(t, x), f3(t, x))R^3, hắn nhất cổ tác khí, tính ra không gian Euclide đại lượng vô hướng tích, cùng trọng yếu nhất một cái phạm số.
+
+	N-S phương trình tầng cuối cùng khăn che mặt bí ẩn đến nay đêm bị để lộ, tại Thẩm Kỳ trong thư phòng.
+
+	Thẩm Kỳ trên giấy viết ra một cái tư thế, đây là toàn bộ hạng mục cái cuối cùng tư thế, tương đối phía trước trường thiên mệt mỏi độc phương trình vi phân riêng phần tổ, cuối cùng kết luận cũng không tính quá phức tạp:
+
+	Σ(∣∣uk(t, ? )∣∣^2L2(Ω)+ ∫∣∣graduk(η, ? )∣∣^2L2(Q)dη)Σ ∫∣∣fk(η, ? )∣∣^2L2(Q)dη
+
+	"Đúng vậy, đây chính là N-S phương trình có phổ biến ý nghĩa thông hiểu, ta rốt cuộc tìm được ngươi!" Thẩm Kỳ nắm chặt nắm đấm huy động hai lần, hắn xông ra thư phòng, muốn hôn nhẹ khuê nữ cùng lão bà.
+
+	"Được rồi, hừng đông hôn lại đi." Thẩm Kỳ nhìn thấy đồng hồ treo trên tường, hiện tại là rạng sáng 2 điểm, lão bà cùng khuê nữ đã ngủ.
+
+	Thẩm Kỳ trở lại thư phòng, nghiệm chứng một lần, cái này thông hiểu thỏa mãn thức (1)-(4), nó là không hề nghi ngờ câu trả lời chính xác.
+
+	Thẩm Kỳ chỉnh lý xong bản thảo, một vòng mặt trời mới mọc dâng lên.
+
+	"Ngươi chịu một suốt đêm?" Âu Diệp rời giường, em bé còn chưa tỉnh ngủ.
+
+	"N-S phương trình làm xong, sau này có thể để cho ta thức đêm hạng mục không nhiều lắm." Thẩm Kỳ ngồi lên bàn ăn, cùng Âu Diệp chung tiến bữa sáng.
+
+	"Làm xong, quá tốt rồi, cho ta ngó ngó chứ sao." Âu Diệp rất phấn chấn, nàng mỗi ngày cho bú, ở nhà ở cữ, vú em làm lâu kỳ thật cũng rất nhàm chán.
+
+	Mặc dù chuyên nghiệp không đúng miệng, nhưng N-S phương trình giải quyết, đối với Âu Diệp tới nói cũng tương đương với một tề thuốc kích thích.
+
+	Thẩm Kỳ đem N-S phương trình bản thảo đệ trình cho lão bà: "Ta chỉnh lý quá rồi, bất quá vẫn là có chút loạn, đây là xuất bản lần đầu, mời Âu tiến sĩ xem qua, phủ chính."
+
+	Âu Diệp không nhìn phía trước vô cùng phức tạp suy luận tính toán hòa luận thuật, nàng trực tiếp lật đến phía sau kết luận trang, nhìn chằm chằm N-S phương trình thông hiểu, con mắt cũng không nện: "Liền cái này nha?"
+
+	"Đúng, liền cái đồ chơi này." Thẩm Kỳ gật gật đầu, uống ly cà phê nâng cao tinh thần.
+
+	Trong thời gian ngắn Âu Diệp khó mà hiểu rõ Thẩm Kỳ bản thảo, trực giác của nàng nói cho nàng, lão công lại làm một kiện siêu cấp trâu sự tình: "Chúc mừng lão công ngươi, nhưng ngươi vẫn là phải chú ý thân thể, đừng thức đêm."
+
+	"Lão bà nhất tuyệt." Thẩm Kỳ hôn Âu Diệp một ngụm, bỗng nhiên tâm huyết dâng trào, đưa tay bản thảo một trang cuối cùng, cũng chính là viết N-S phương trình thông hiểu trang này rút ra, cầm bút trên giấy viết đến: Ái nữ Thẩm Nặc Phỉ 6 4 ngày, cha phá Navier-Stokes phương trình, mẫu thủ nghiệm thông qua.
+
+	"Ngươi lưu kỷ niệm đâu!" Âu Diệp phù một tiếng cười, nói đến: "Nặc Phỉ mẫu nguyên nhân chuyên nghiệp không đúng miệng, cười không nói, chính là đánh xì dầu."
+
+	Thẩm Kỳ đem bản thảo giao cho Âu Diệp: "Một trang cuối cùng là trọng yếu nhất kết luận trang, trang này bản thảo là ta trạng thái nhất dũng mãnh phi thường lúc viết xuống đệ nhất bản bản thảo, mời Nặc Phỉ mẫu hậu này trang, sau này giao cho Nặc Phỉ, đời đời truyền lại."
+
+	Âu Diệp tiếp nhận bản thảo: "Đợi lát nữa ta để Thúy Bình tỷ, xuất ra đi bồi lại."
+
+	Thẩm Kỳ ôm lão bà cười ha ha: "Như vậy rất tốt!"
+
+	Đi vào trung tâm, Thẩm Kỳ một lần nữa viết một trang cuối cùng, đem hơn 200 trang bản thảo quét hình vì PDF cách thức, sau đó triệu tập Witten, Chu Vũ An, Tiêu Tuấn Long họp.
+
+	"Thông hiểu ta đã tính ra tới, tiếp xuống mời ba vị phân biệt nghiệm chứng, chờ các ngươi tin tức nha." Chịu một đêm Thẩm Kỳ dựa vào cà phê nguyên nhân cưỡng ép nâng cao tinh thần, nhìn qua thần thái sáng láng, trên thực tế hắn đã rất mệt mỏi.
+
+	"Đại lão quả nhiên là đại lão a!" Tiêu Tuấn Long kích động nhảy dựng lên, Witten, Chu Vũ An đồng dạng phấn chấn.
+
+	Witten đám ba người mỗi người tìm một cái yên tĩnh độc lập không gian, riêng phần mình nghiệm chứng N-S phương trình phá giải phương án.
+
+	Thẩm Kỳ ở trung tâm ngủ bù, tỉnh lại sau giấc ngủ, đầy máu phục sinh.
+
+	Nhân công nghiệm chứng không phải một hai ngày liền có thể giải quyết, tại nhân công nghiệm chứng đồng thời, Thẩm Kỳ bắt đầu liên hệ Yến đại siêu tính trung tâm, hẹn trước Thâm Đằng X8810 quyền sử dụng.
+
+	Thâm Đằng hệ liệt siêu xem như cùng một nhà Trung Quốc công ty nghiên cứu phát minh chế tạo, Yến đại mấy năm trước mua lúc ấy mới nhất siêu tính Thâm Đằng X8810, mệnh danh là "Vị danh số một", trải qua mấy năm vận hành, tìm tòi, "Vị danh số một" hướng tới thành thục ổn định, xếp hạng toàn cầu siêu tính ToP20 bên trong.
+
+	Nhân công nghiệm chứng chủ yếu là từ Logic mạch suy nghĩ bên trên tiến hành chính hướng nghịch hướng suy luận, kiểm tra đối chiếu sự thật, hải lượng số liệu xử lý cùng dự đoán, không có một cái nào Nhân loại có thể giải quyết, Thẩm Kỳ cũng không giải quyết được, nhất định phải sử dụng siêu tính.
+
+	Yến đại siêu tính trung tâm chủ nhiệm nghe nói Thẩm Kỳ muốn sử dụng "Vị danh số một" nghiệm chứng N-S phương trình, hắn tuyệt đối ủng hộ, vì Thẩm Kỳ dự lưu lại thời gian sử dụng.
+
+	Witten, Chu Vũ An, Tiêu Tuấn Long ba người hết sức quen thuộc bộ này N-S phương trình phá giải phương án, trong đó rất nhiều công việc chính là bọn hắn hoàn thành.
+
+	Dù vậy, trước hết nhất hoàn thành nhân công dùng tay nghiệm chứng Witten, vẫn là hao tốn hơn một cái lễ bái thời gian.
+
+	"Oa ờ, hoàn mỹ, kỳ, xem ra chúng ta thật giải quyết N-S phương trình, chí ít Logic bên trên không có vấn đề." Witten cùng Thẩm Kỳ nắm tay, ôm, hai vị Fields thưởng người đoạt giải liên thủ hoàn thành một cái đầu đề.
+
+	Qua vài ngày nữa, Chu Vũ An, Tiêu Tuấn Long hoàn thành nhân công nghiệm chứng, không có vấn đề, bên trên siêu cũng được a!
+
+	Yến đại siêu tính trung tâm nghênh đón do Thẩm Kỳ, Witten người kí tên đầu tiên trong văn kiện N-S phương trình hạng mục tổ.
+
+	"Vị danh số một" đã khởi động, Yến đại siêu tính trung tâm các nghiên cứu viên ma quyền sát chưởng làm xong hết thảy chuẩn bị, liền chờ Thẩm giáo sư ra lệnh một tiếng mở ra tính toán chương trình. 

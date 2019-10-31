@@ -1,0 +1,271 @@
+ Chương 98: Khó lường thuộc tính
+
+	Thể rắn vật lý lại cùng hóa học dính dáng, mang theo điểm vật Lý Hóa học khó lường thuộc tính.
+
+	Qua đời thật đáng ghét, học vật lý sợ nó, học hóa học cũng sợ.
+
+	Kỳ thật Thẩm Kỳ cũng có chút sợ hãi qua đời, cái đồ chơi này lại vật lại hóa, lại không vật lại không thay đổi, giết người không đền mạng, chính là muốn ngươi mất mạng.
+
+	Đạo này đề, NaCl tinh thể bên trong ion ở giữa hỗ trợ lẫn nhau năng lượng tổng cộng Ep đã cho ra.
+
+	Làm r chệch hướng r0 lúc, Ep chệch hướng Ep0, thiết chệch hướng lượng vì U.
+
+	Như vậy dùng x biểu thị tương đối chếch đi lượng, muốn được ra U cùng x mịch đẳng cấp quan hệ, tu làm một cái chuỗi Taylor, tức lợi dụng Ep tại r0 chỗ chuỗi Taylor.
+
+	Thật sự là tra tấn người, làm vật lý đề còn phải sẽ chuỗi Taylor, cũng may chuỗi Taylor vô cùng đơn giản. . . Thẩm Kỳ bắt đầu ở bài thi bên trên bài thi.
+
+	U(x) mịch đẳng cấp biểu đạt thức là:
+
+	U(x)=A0+A1x+A2x^2+A3x^3+. . .
+
+	. . .
+
+	Do tuyệt nóng áp súc có biết:
+
+	1 ╱ κ=-V(dp ╱ dV)∣r=r0
+
+	. . . d^2Ep ╱ dV^2=d ╱ dV(dEp ╱ dr*dr ╱ dV)=. . .
+
+	Cuối cùng được: m=9. 4;α= 1.77;am= 2.53×10^-109J*m^9. 4
+
+	Cũng không biết đúng hay không a, chỉ có thể dạng này, thời gian vội vàng, đằng sau còn có năm đề. Thẩm Kỳ tranh thủ thời gian tiến vào đằng sau đề mục bài thi.
+
+	Thứ tư đề, chợt nhìn thưa thớt bình thường, Thẩm Kỳ cẩn thận tự hỏi một chút, ngọa tào, tương đương kinh khủng a.
+
+	"Nhất định lượng Ether đóng gói tại ống thủy tinh bên trong, một bộ phận hiện lên thể lỏng, một bộ phận khác hiện lên trạng thái khí."
+
+	"Trong khu vực quản lý không cái khác tạp chất, như trong khu vực quản lý thể tích vừa lúc vì những này Ether giới hạn thể tích, chậm như vậy làm nóng đến giới hạn nhiệt độ lúc, nguyên nhân khí, dịch hai tướng đã không còn khác biệt mà làm trạng thái bề mặt biến mất. . ."
+
+	Mặc dù trước ba đề hao phí không ít thời gian, nhưng ở thứ tư đề bên trên, Thẩm Kỳ phi thường cẩn thận lần nữa thẩm tra một lần đề làm.
+
+	Thẩm đề đến nơi này, Thẩm Kỳ sinh ra một loại dự cảm bất tường, xương cột sống sưu sưu bốc lên hơi lạnh.
+
+	Lại là chất lỏng, lại là khí thể, lại là giới hạn. . .
+
+	Điều này nói rõ cái gì?
+
+	Cái này biểu thị cái gì?
+
+	Van der Waals khí thể!
+
+	Không hề nghi ngờ, dính đến trạng thái khí Van der Waals đề mục, vậy khẳng định là thuần túy qua đời đề.
+
+	Sợ điều gì sẽ gặp điều đó.
+
+	Là nó?
+
+	Là nó!
+
+	Nó không nên tới.
+
+	Có thể nó đã tới.
+
+	Nó dù sao vẫn là tới.
+
+	Trầm mặc, một lát trầm mặc.
+
+	Thẩm Kỳ nhất định phải trong thời gian ngắn nhất.
+
+	Giải quyết một vấn đề.
+
+	Ống thủy tinh bên trong.
+
+	Khí tướng cùng dịch tướng chiếm so.
+
+	Đến tột cùng là nhiều ít?
+
+	Ether, không màu trong suốt.
+
+	Lại là qua đời trong giang hồ đoạt mệnh dịch.
+
+	Đoạt mệnh, chất lỏng.
+
+	Giết người vô hình.
+
+	Có Van der Waals địa phương, liền có giang hồ.
+
+	Nhưng nguy hiểm nhất không phải chất lỏng.
+
+	Mà là.
+
+	Khí dịch cùng tồn tại.
+
+	Bg cùng B1.
+
+	Cuối cùng, Thẩm Kỳ viết:
+
+	Lấy 1mol Ether, theo nhiệt độ biến hóa, tổng thể tích vì Vk, khí tướng cùng dịch tướng Moore phân số phân biệt là α(T), β(T).
+
+	αVg+βV1=Vk
+
+	Làm nhiệt độ vì T lúc, bão hòa hơi nóng ép vì p0, do chờ diện tích pháp, đến:
+
+	 bên trên Vg hạ V1pdv=p0(Vg-V1)
+
+	Thay vào tích phân đến:
+
+	RTlnVg-b ╱ V1-b-a(1 ╱ V1-1 ╱ Vg)=p0(Vg-V1)
+
+	. . .
+
+	Do Phạm thị phương trình:
+
+	. . .
+
+	Ψ Phạm thị ΦΨ phương trình vạn não bổ vạn
+
+	. . .
+
+	Cầu được:
+
+	Dịch tướng B1=4 4.1%
+
+	Khí tướng Bg=55. 9%
+
+	Cuối cùng,
+
+	Thẩm Kỳ cấp ra đáp án của hắn, tức dịch tướng B1 hòa khí tướng Bg chiếm so.
+
+	Hoàn thành trước bốn đề, thời gian hao phí mất 2 giờ.
+
+	Còn lại sau bốn đề, Thẩm Kỳ chỉ có 1 giờ bài thi thời gian.
+
+	Không phải hắn không cố gắng, phần này vật cạnh quốc quyết bài thi thật rất khó.
+
+	Làm xong 5, 6, 7 ba đạo đề, lưu cho Thẩm Kỳ thời gian chỉ có 10 phút.
+
+	Đúng lúc này, Thẩm Kỳ trước mặt tuyển thủ đem văn phòng phẩm thu thập xong, sau đó giơ tay lên.
+
+	Đối với loại hành vi này, Thẩm Kỳ hết sức quen thuộc, hắn trước kia thường xuyên làm như vậy, sớm nộp bài thi.
+
+	Lão sư giám khảo đi đến Thẩm Kỳ trước mặt vị bạn học kia bên người, nhẹ giọng hỏi thăm: "Nộp bài thi?"
+
+	"Đúng." Này tuyển thủ gật gật đầu, hắn đến từ vật cạnh mạnh tỉnh Chiết Đông tỉnh vật cạnh mạnh trường học Tô Hàng nhị trung.
+
+	Vị này Tô Hàng nhị trung tuyển thủ an vị tại Thẩm Kỳ phía trước, Thẩm Kỳ nghĩ xem nhẹ cũng xem nhẹ không xong nha.
+
+	Mặc kệ là thi toán vẫn là vật cạnh, làm ngành học thi đua thầy trò đều từng nghe nói Tô Hàng nhị trung đại danh.
+
+	Đồng dạng là nhị trung, Thẩm Kỳ Nam Cảng nhị trung cùng người ta Tô Hàng nhị trung không cách nào so sánh được, người ta Tô Hàng nhị trung tập đoàn hóa vận hành, khắp nơi sắp đặt phân đà, Nam Cảng nhị trung cứ như vậy vài mẫu địa, tự ngu tự nhạc.
+
+	"Ngươi yêu giao không giao đi, loại này cách chơi ta đã sớm chơi chán." Thẩm Kỳ đưa mắt nhìn Tô Hàng nhị trung tuyển thủ nộp bài thi rời đi, bắt đầu thẩm cuối cùng một đạo đề.
+
+	Cuối cùng một đề rất là không đơn giản, đem đề mặt cẩn thận đọc một lần liền cần tốn hao vài phút.
+
+	"Tại một lần hạt va chạm thí nghiệm bên trong, quan sát được một cái tốc độ thấp k- giới tử tại một cái đứng im hạt nhân p phát sinh hỗ trợ lẫn nhau, tạo ra một cái Pi+ giới tử cùng một cái không biết x hạt."
+
+	"Đã biết từ trường B cường độ cảm ứng từ lớn nhỏ vì B= 1.70Wb ╱ m^2, đo đến Pi+ giới tử kính dấu vết độ cong bán kính là R1=34. 0cm."
+
+	"1. Thử xác định x hạt kính dấu vết độ cong bán kính R2."
+
+	"2. Mời xem hạ biểu (*đồng hồ):
+
+	Dụng cụ canh lề theo thứ tự là: Hạt tên, ký hiệu, - tĩnh chất lượng ╱ MeV+, điện tích (e)
+
+	Các làm được cụ thể tin tức là:
+
+	Positron, điện tử;e+, e-; 0.511;±1
+
+	Μ tử; μ+, μ-;105. 7;±1
+
+	Pi giới tử; Pi+, Pi-;139. 6;±1
+
+	Nơtron;n;939. 6;0
+
+	Λ hạt;Λ^0;1115. 4;0
+
+	Phụ Σ hạt;Σ-;1197. 2;-1
+
+	Trung tính Ξ hạt;Ξ^0;1314. 3;0
+
+	. . ."
+
+	Hạt danh sách hết thảy có mười mấy đi.
+
+	Thứ 2 hỏi vấn đề là: "Xin hỏi x là loại nào hạt?"
+
+	10 phút, thẩm đề tăng thêm giải đáp hết thảy 10 phút, Thẩm Kỳ chỉ còn 10 phút.
+
+	Cái này muốn đổi người bình thường, đoán chừng phải từ bỏ cuối cùng một đề giải đáp.
+
+	Nhưng Thẩm Kỳ cũng không hề từ bỏ, cẩn thận thẩm xong đề về sau, hắn còn lại 7 phút đồng hồ.
+
+	Đây là đạo cận đại vật lý đề mục, giải đề mạch suy nghĩ hẳn là. . . Còn mẹ nó muốn cái gì mạch suy nghĩ a, hỏa tuyến thời khắc thế cục nguy cấp, trực tiếp tại bài thi bên trên lột đi!
+
+	Thẩm Kỳ không cần nghĩ ngợi nâng bút liền lột.
+
+	Cân nhắc đến Lorentz lực, hai hạt tử tốc độ lớn nhỏ cùng chất lượng bảo trì bất biến.
+
+	Do thuyết tương đối hình thức Newton thứ hai định luật:
+
+	F=d ╱ dt(mv)
+
+	. . .
+
+	Pi+ giới tử cùng x hạt tại Lorentz tác phẩm tâm huyết dùng xuống làm chuyển động tròn, xoay tròn bán kính là:
+
+	R=mv ╱ eB
+
+	. . .
+
+	Nguyên nhân m Lv1=m2v2, lại hai hạt tử lượng điện giá trị tuyệt đối giống nhau, cho nên hạt hình tròn kính dấu vết bán kính R2 cùng Pi+ giới tử hình tròn kính dấu vết bán kính R1 giống nhau.
+
+	Đến R2=R1=34. 0cm
+
+	Thẩm Kỳ tốn hao 3 phút đạt được thứ hỏi một chút đáp án, x hạt kính dấu vết độ cong bán kính R2 cùng Pi+ giới tử R1 giống nhau, đều là 34. 0cm.
+
+	Ta cái này giải đề tốc độ cũng là không có người nào, so hạt vận động tốc độ càng nhanh a. . . Thẩm Kỳ lấy quang đồng dạng tốc độ tay hoàn thành thứ hỏi một chút.
+
+	Không có cách, người đều là bị buộc ra, trong nghịch cảnh có lẽ có thể bộc phát cấp 15 sức chiến đấu.
+
+	Thần mẹ nó R2 tương đương R1, chính ta cũng không tin đáp án này a. . . Thẩm Kỳ không tin cũng phải tin, còn lại 3 phần nhiều chuông, hắn nhất định phải lập tức hoàn thành thứ hai hỏi, không có thời gian kiểm tra thứ hỏi một chút tính chính xác.
+
+	Thứ hai hỏi yêu cầu Thẩm Kỳ đánh giá ra x là loại nào hạt.
+
+	Căn cứ vào thứ hỏi một chút tìm ra x hạt độ cong bán kính R2=R1=34. 0cm, Thẩm Kỳ cần tiến hành một chút tính toán mới có thể đánh giá ra x là loại nào hạt.
+
+	Thứ hỏi một chút đáp án nếu là tìm sai, thứ hai hỏi tất nhiên cũng sai.
+
+	Không cách nào quay đầu lại, không có thời gian.
+
+	Cho dù thứ hỏi một chút tìm sai, cũng phải kiên trì sai xuống dưới!
+
+	Đây là Thẩm học bá sau cùng quật cường.
+
+	Thẩm Kỳ lần nữa tế ra quang đồng dạng tốc độ tay cùng cường đại toán học tính toán năng lực, hắn trực tiếp tại bài thi thượng kế tính:
+
+	v1=eBR1c ╱ căn số m10^2c^2+e^2B^2R1^2= 1.6×10^-19× 1.7×0. 34×. . . m ╱ s
+
+	. . .
+
+	Mặc dù thời gian cấp bách, nhưng Thẩm Kỳ vẫn theo hắn cho rằng nghiêm cẩn chính xác trình tự tiến hành suy luận tính toán, cái này viết công thức nhất định phải viết xong cả, cái này sử dụng văn tự nói rõ mấu chốt trình tự nhất định phải viết mấy chữ, tỉ như nói "Thay vào, đến", đây là một vị học bá hẳn là có được cơ bản tố dưỡng.
+
+	Thay vào, đến: m20c^2=1196MeV
+
+	1196MeV. . . Thẩm Kỳ so sánh bài thi bên trên hạt tin tức danh sách, cho nên x là Σ- hạt?
+
+	Đinh linh linh!
+
+	Lúc này nộp bài thi tiếng chuông vang lên.
+
+	Thẩm Kỳ đè ép tiếng chuông tại quyển trên mặt viết ra đáp án cuối cùng: x là Σ- hạt.
+
+	Thật là sinh tử vận tốc, vật cạnh bản sinh tử vận tốc.
+
+	Mặc dù là vội vàng nộp bài thi, ngay cả kiểm tra thời gian đều không có, cho dù là một phút đồng hồ kiểm tra lúc đều không có, làm một học bá, cũng đồng ý cho ưu nhã đi ra trường thi, cái này đồng dạng là học bá cần thiết có được cơ bản tố dưỡng.
+
+	Thẩm Kỳ thong dong ưu nhã đi ra trường thi, a, trên bầu trời lại cơn mưa nhỏ tí tách rơi, cỡ nào không tầm thường một ngày.
+
+	"Lần này quốc quyết lý luận đề cầm max điểm rất khó, từ đấu vòng loại đến đấu bán kết, từ đấu bán kết đến trận chung kết, ta tham gia ba trận vật cạnh lý luận khảo thí, xấu nhất tình huống có thể là, một lần lý luận khảo thí max điểm đều lấy không được." Thẩm Kỳ tại tiểu Vũ bên trong dạo bước, tí tách tí tách.
+
+	"Thẩm Kỳ!" Bỗng nhiên sau lưng truyền tới một tiếng hô, Mục Dung trong tay một thanh dù che mưa đuổi theo.
+
+	Mục Dung miễn cưỡng khen, dù ngọn nguồn vừa vặn dung nạp thầy trò hai người: "Thi như thế nào?"
+
+	"Ta đến bung dù đi." Thẩm Kỳ tiếp nhận dù che mưa, hắn cao hơn Mục Dung mười mấy centimet, Mục Dung miễn cưỡng khen tốn sức.
+
+	"Xem ra ngươi rất bình tĩnh." Mục Dung quan sát đến Thẩm Kỳ thần sắc.
+
+	Thẩm Kỳ than nhẹ một câu: "Trúc trượng mang hài khinh thắng mã, ai sợ."
+
+	"Nhất thoa yên trần nhâm bình sinh." Mục Dung lập tức tiếp ra hạ câu, sau đó thận trọng hỏi thăm: "Thẩm học bá, đầy máu phục sinh lại có thể thi max điểm rồi?" 

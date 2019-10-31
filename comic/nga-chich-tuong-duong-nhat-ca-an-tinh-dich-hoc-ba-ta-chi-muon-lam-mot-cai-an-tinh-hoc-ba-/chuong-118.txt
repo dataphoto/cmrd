@@ -1,0 +1,99 @@
+ 118 chương chu miệng rộng công lực
+
+	Dựa theo  « số học phân tích » trường học đại cương bố trí, hẳn là trước giảng dãy số cực hạn, hàm số cực hạn, sau đó tiến vào Leibniz cùng Lạc tất đạt lĩnh vực, cũng chính là đạo số cùng vi phân.
+
+	Về sau Taylor cùng Riemann đăng tràng, Taylor công thức, Riemann tích phân đem xuyên qua toàn bộ giải tích, thậm chí toán học người làm việc toàn bộ chức nghiệp kiếp sống.
+
+	Ở trên là giải tích I trường học nội dung.
+
+	Dưới tình huống bình thường, là như vậy.
+
+	Rất rõ ràng, Lỗ giáo sư cũng không theo bình thường sáo lộ đi.
+
+	Nhị trọng tích phân, tam trọng tích phân, n nặng tích phân tính toán, cùng loại thứ hai mặt cong tích phân, định hướng lưu hình thượng bên ngoài vi phân hình thức tích phân các loại khái niệm, là giải tích II trường học nội dung.
+
+	Nói tóm lại Lỗ giáo sư không có rập khuôn Bộ giáo dục trường học đại cương, hắn có chính mình một bộ trường học phương án, Yến đại lại không về Bộ giáo dục quản, trường đại học này trực tiếp về trung ương quản.
+
+	Tại ba mươi năm đầu đề nghiên cứu cùng trường học bên trong, Lỗ giáo sư lục lọi ra một bộ hành chi hữu hiệu trường học hệ thống, hắn sẽ không làm loạn, hắn là Yến đại chính giáo thụ, cầm qua thưởng.
+
+	Theo Thẩm Kỳ, Lỗ giáo sư ít nhất là toán học cấp 8 ở trên trình độ, loại này toán học tinh anh làm sao có thể làm loạn đâu?
+
+	Thẩm Kỳ thích Lỗ giáo sư trường học phong cách, đúng a không sai, thầy trò ở giữa, đồng môn ở giữa, liền nên xâm nhập hỗ động, va chạm kịch liệt chắc chắn sinh ra không phải bình thường phản ứng, thẳng tới linh hồn giao lưu ấp ủ học thuật thành quả bộc phát.
+
+	Lỗ giáo sư lấy đề là dẫn, thông qua đề mục để học sinh tốt hơn lý giải giải tích phương pháp tính toán, lý luận khái niệm, tương quan kỹ xảo.
+
+	Đề thứ nhất tính toán nặng tích phân, ngành toán học, khoa học cùng công trình tính toán hệ hai vị lớp trưởng hiện ra riêng phần mình thực lực, Lỗ giáo sư biểu thị tán thành.
+
+	Lỗ giáo sư tiếp tục chính mình trường học phong cách, hắn lại ra đạo đề, tính toán cực hạn:
+
+	lim[x→0](e^x+e^2x+. . . e^nx)1 ╱ x ╱ n
+
+	"Đề thứ nhất là ngành toán học hoàn thành giải đáp, khoa học cùng công trình tính toán hệ tiến hành bổ sung, cung cấp mới phép tính cùng mạch suy nghĩ. Như vậy đề thứ hai, mời khoa học cùng công trình tính toán hệ phái viên lên đài tìm cực hạn." Lỗ giáo sư nói đến.
+
+	"Ta tới." Thiệu Thiên Thiên nhấc tay.
+
+	"Lại là ngươi Thiệu Thiên Thiên? Khoa học cùng công trình tính toán hệ những bạn học khác, liền không có ý nghĩ?" Lỗ giáo sư hỏi.
+
+	"Không ý nghĩ gì không ý nghĩ gì, hắn đưa hắn tới." Những bạn học khác đề cử Thiệu Thiên Thiên lớp trưởng lên đài vì ban làm vẻ vang, vì hệ thêm vinh dự.
+
+	"Được thôi, Thiệu Thiên Thiên liền Thiệu Thiên Thiên, ngươi tới." Lỗ giáo sư không có tuyển.
+
+	Thiệu Thiên Thiên lên đài, xoát xoát xoát thuần thục hoàn thành tính toán, hắn cười tủm tỉm nhìn về phía dưới đài, tính trước kỹ càng.
+
+	"Đối với Thiệu Thiên Thiên cực hạn tính toán, mời ngành toán học đồng học lời bình." Lỗ giáo sư nhìn xem Thẩm Kỳ phương vị.
+
+	Ngành toán học chặt chẽ đoàn kết tại lấy Thẩm Kỳ đồng chí làm hạch tâm trung ương chung quanh, bọn hắn ban người đều ngồi tại một đống, ngoại trừ hàng sau Âu Diệp cùng Chu Vũ An.
+
+	"Ta trước nói đi." Thẩm Kỳ lên cái đầu, "Thiệu Thiên Thiên tính toán hoàn toàn chính xác, đáp án của ta giống như hắn."
+
+	"Nha." Lỗ giáo sư gật gật đầu, chờ mong Thẩm Kỳ tiếp tục phân tích bình luận.
+
+	Thẩm Kỳ: "Ta nói xong."
+
+	Lỗ giáo sư: "Không có?"
+
+	Thẩm Kỳ giải thích đến: "Cực hạn loại chuyện này, đem đáp án tính toán ra đến là được rồi, quá trình đều là biến thành thủ tục quen thuộc, ta tin tưởng các vị đồng học nhìn xem liền có thể minh bạch, ta cũng không dài dòng."
+
+	"Liền chút bình đều chẳng muốn cho, xem thường chúng ta Thiên Thiên lớp trưởng a?" Khoa học cùng công trình tính toán hệ học sinh đối Thẩm Kỳ rất có phê bình kín đáo.
+
+	"Dạng này a, kia Thiệu Thiên Thiên ngươi đi xuống đi, ngươi tính toán chính xác." Lỗ giáo sư tôn trọng Thẩm Kỳ trả lời.
+
+	Thiệu Thiên Thiên xuống đài, đi ngang qua Thẩm Kỳ chỗ ngồi lúc phát ra tiếng cười: "Ha ha."
+
+	Thẩm Kỳ mỉm cười lại: "Ha ha ha." Nhiều hơn ngươi một cái a, khí thế bên trên áp chế ngươi.
+
+	Thứ ba đề, lại là tính toán cực hạn, nhị trọng cực hạn.
+
+	Lần này đến phiên ngành toán học phái viên, Thẩm Kỳ quay đầu tìm Chu Vũ An, hắn dùng ánh mắt hướng Chu Vũ An truyền đạt một cái ý tứ: Chu Vũ An, cái này đề ngươi bên trên, cực hạn đơn giản như vậy Đông Đông, do ta ra mặt giải quyết không quá phù hợp.
+
+	Chu Vũ An ngầm hiểu, hắn lên đài giải quyết đạo này nhị trọng cực hạn vấn đề.
+
+	Căn cứ lệ cũ, Chu Vũ An xuống dưới trước đó muốn phân tích một chút ý nghĩ của mình, đem thành công của mình kinh nghiệm đầy đủ cùng hưởng cho viện toán học rộng rãi đồng học, mọi người cùng nhau giao lưu nghiên cứu thảo luận, có thì đổi không thì thêm miễn, cộng đồng tiến bộ tập thể thăng hoa.
+
+	Chu Vũ An cùng Thẩm Kỳ một cái phòng ngủ, tại thông thường học tập trong sinh hoạt, Chu Vũ An cũng lưu tâm, hắn từ trên thân Thẩm Kỳ học trộm đến một chút toán học kỹ xảo, miệng lưỡi lưu loát phân tích đến: "Thân yêu các bạn học, các ngươi biết không, tìm nhị trọng cực hạn so tìm một nguyên hàm số cực hạn muốn khó khăn rất nhiều, hai đơn giản chính là khác nhau một trời một vực."
+
+	"Vì cái gì niết? Bởi vì một nguyên hàm số định nghĩa vực là thực trục bên trên điểm tập, tìm cực hạn chỉ cần cân nhắc từ hai bên trái phải hai cái phương hướng tới gần tình huống."
+
+	"Mà hai nguyên tố hàm số định nghĩa vực là tọa độ trên mặt phẳng điểm tập, nói cách khác, tìm nhị trọng cực hạn nhất định phải cân nhắc từ tùy ý phương hướng tới gần lộ tuyến. . ."
+
+	Lỗ giáo sư nổi giận: "Chu Vũ An, nói điểm chính! Mọi người thời gian rất quý giá, đừng ở chỗ này cho ta lưng sách giáo khoa!"
+
+	"Tốt tốt tốt, đừng có gấp Lỗ giáo sư, lập tức đến trọng điểm bộ vị." Chu Vũ An không hoảng hốt cũng không nóng nảy, hắn không nhanh không chậm nói tiếp: "Các bạn học, các ngươi biết không, tính toán nhị trọng cực hạn hết thảy có mấy loại đường tắt? Ta học nghệ không tinh, trước mắt chỉ nắm giữ năm loại tính toán đường tắt, loại thứ nhất, lợi dụng định nghĩa tính toán nhị trọng cực hạn, đơn giản nhất cũng dễ dàng nhất phạm sai lầm."
+
+	"Loại thứ hai, lợi dụng tam giác đổi nguyên pháp tính toán nhị trọng cực hạn. . ."
+
+	"Loại thứ ba, lợi dụng hàm số tính liên tục tính toán nhị trọng cực hạn. . ."
+
+	"Loại thứ tư, lợi dụng một nguyên hàm số trọng yếu cực hạn tư tưởng tìm nhị trọng cực hạn, nơi đây ta muốn trọng điểm giải thích xuống cái này loại thứ tư phép tính, đây cũng là ta hạch tâm phép tính, vận dụng đến bảng đen đạo này nhị trọng cực hạn đề cầu giải bên trong."
+
+	"Đầu tiên, ta muốn trình bày chính là, lợi dụng một nguyên hàm số trọng yếu cực hạn tư tưởng tìm nhị trọng cực hạn, hạch tâm của nó yếu lĩnh là. . ."
+
+	Biu!
+
+	Lỗ giáo sư một chưởng vỗ ở trên tường, chấn bảng đen run run: "Chu Vũ An, ta cho ngươi thêm 20 giây! Rõ ràng ba câu nói liền có thể thuyết minh rõ ràng nhị trọng cực hạn phép tính, tiểu tử ngươi cho ta lải nhải bên trong a lắm điều ròng rã năm phút đồng hồ! Chu Vũ An ngươi thuộc cái gì?"
+
+	Ai, Thẩm Kỳ im lặng nhìn về phía ngoài cửa sổ, thở dài. Chu Vũ An quá đậu má giày vò khốn khổ, lúc đầu hắn tính cái này nhị trọng cực hạn tính toán rất 6, phương pháp này là ta giáo hắn, hắn tú không tệ, đã đến ta bảy tám phần chân truyền, lúc này nhất thoải mái làm phép là dùng một câu trình bày hạch tâm mạch suy nghĩ, sau đó ngưu bức hống hống xuống đài, cũng coi như có thể tích lũy điểm bức cách.
+
+	Có thể Chu Vũ An ngược lại tốt, lằng nhà lằng nhằng cùng cái nương môn, phí công nhọc sức a huynh đệ, làm một điểm bức cách cũng không có, thậm chí còn có chút Low, trên thế giới này đại đa số nữ nhân đều không có ngươi chu miệng rộng nói nhảm nhiều. . . Thẩm Kỳ nắm tay chống cằm, không thể làm gì trông về phía xa ngoài cửa sổ không khí.
+
+	Cùng lúc đó, hàng sau Âu Diệp làm ra cùng Thẩm Kỳ tương tự chống cằm động tác, ai, nàng cũng thở dài, không rõ ràng nội tâm của nàng hoạt động là cái gì. 

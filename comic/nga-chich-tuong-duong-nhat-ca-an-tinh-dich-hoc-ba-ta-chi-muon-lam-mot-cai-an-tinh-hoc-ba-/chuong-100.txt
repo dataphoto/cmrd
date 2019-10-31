@@ -1,0 +1,147 @@
+ Chương 100: Đang trang bức con đường bên trên ổn bên trong có tiến
+
+	"Lúc trước, ta không được chọn. Hiện tại, ta chỉ muốn làm một cái an tĩnh học bá." Thẩm Kỳ phát từ phế phủ kể hết đến.
+
+	"Ngươi liền an tĩnh trang bức đi, Thẩm Kỳ đại lão!" Nam sinh lau khô nước mắt không khóc, nam nhi phải tự cường, hắn hỏi: "Đúng rồi, ngươi lần này lý luận khảo thí nhiều ít phân?"
+
+	"280."
+
+	"Ta. . . Ta đã nghiêm trọng khó chịu. . . Ta muốn báo cáo ngươi, Thẩm Kỳ!" Nam sinh một quyền nện ở bên cạnh trên đại thụ.
+
+	"Xin đừng nên dạng này, bằng hữu của ta." Thẩm Kỳ đứng lên, quay người chuẩn bị rời đi.
+
+	"Chờ một chút đại lão!" Nam sinh một phát bắt được Thẩm Kỳ cánh tay, đặc biệt khát vọng nói đến: "Trên người ngươi mang bút không? Hôm qua khảo thí bút."
+
+	Thẩm Kỳ trong túi liền có một cây bút, vừa rồi điền đơn lúc Mục Dung cho hắn, Mục Dung quên cầm đi.
+
+	"Cho, đưa ngươi." Thẩm Kỳ lấy ra bút mực nước, đưa cho nam sinh.
+
+	"Tạ ơn đại lão!" Nam sinh tiếp nhận Thẩm Kỳ bút, quét qua xu hướng suy tàn: "Thần bút nơi tay, khảo thí không lo! Thẩm Kỳ đại lão, chúc ngươi đang trang bức con đường bên trên ổn bên trong có tiến, sớm ngày tấn thăng Yến đại một đời mới bức vương!"
+
+	. . .
+
+	Ngày kế tiếp, CPhO thí nghiệm khâu đang tiến hành.
+
+	Thí nghiệm đề 89 điểm, lý luận đề 2 89 điểm.
+
+	Thí nghiệm + lý luận chính là lần này quốc quyết tổng thành tích.
+
+	Thẩm Kỳ tại ngày trước lý luận trong cuộc thi cầm tới max điểm 280, hôm nay thí nghiệm khâu chỉ cần không phạm sai lầm cấp thấp, hắn tổng điểm sẽ tiến vào một cái tương đối cao khu ở giữa.
+
+	Hôm qua gặp phải vị kia Tô Hàng nhị trung tuyển thủ vì sao khóc đâu, bởi vì hắn lý luận phân chỉ cầm tới 172 phân, coi như thí nghiệm đạt được max điểm 80, hắn tổng điểm cũng không có khả năng so Thẩm Kỳ lý luận phân cao hơn.
+
+	Lý luận khảo thí đương nhiên là quốc quyết trọng đầu hí, nhưng thí nghiệm đề cũng không thể thư giãn.
+
+	Tất cả tuyển thủ chia hai nhóm, buổi sáng thi một nhóm, buổi chiều thi một nhóm, buổi sáng buổi chiều thí nghiệm đề đều là điện học thí nghiệm, đề mục có chỗ khác nhau nhưng độ khó khăn tương tự.
+
+	Thẩm Kỳ rút đến thêm là buổi chiều làm thí nghiệm đề.
+
+	Giám thị nhân viên phát ra dụng cụ thí nghiệm cùng dụng cụ là:
+
+	Chảy ròng ổn ép nguồn điện 1 đài, số lượng thức máy VOM 2 con, điện vị khí 2 con, điện trở chuẩn rương một con, chảy ròng kiểm lưu tính 1 đài, nhiệt độ ổn định nước tắm nồi 1 đài, đợi đo bóng hai cực một cái, có thể lập trình máy tính 1 đài, dây dẫn một số.
+
+	Thí nghiệm yêu cầu là:
+
+	Căn cứ đứng yên dụng cụ thí nghiệm thiết kế một cái thí nghiệm, chính xác đo đạc t=27℃ lúc bóng hai cực chính hướng vôn am-pe đặc tính. Dòng điện biến hóa phạm vi là 0. 5-1000 μA, yêu cầu đo đạc không ít hơn 20 bộ số liệu.
+
+	Cùng, vẽ ra sơ đồ mạch điện, nói rõ thí nghiệm nguyên lý, viết ra thí nghiệm trình tự, thiết kế bảng biểu ghi chép thí nghiệm số liệu. Còn muốn vẽ ra bóng hai cực chính hướng vôn am-pe đặc tính đường cong, đạt được đảo ngược bão hòa dòng điện I0, lý tưởng ước số n.
+
+	Nếu như hoàn thành phía trên thuật trình tự, đạt được chính xác kết quả, vẫn chưa xong, phía dưới mời tiếp tục:
+
+	Làm bóng hai cực bên trong dòng điện cố định lúc, thiết lập bóng hai cực dòng điện theo thứ tự là 5 μA, 15 μA, 20 μA, thử xác định điện áp cùng nhiệt độ quan hệ, suy luận xuất hiện ở độ không tuyệt đối lúc bóng hai cực điện áp Vg(0), cũng phân tích khác biệt cố định dòng điện dưới điều kiện, thu hoạch đến độ không tuyệt đối lúc bóng hai cực chính hướng kết điện áp đặc điểm cùng với sinh ra nguyên nhân.
+
+	Ở trên chính là thí nghiệm bài thi trên giấy cho đề làm yêu cầu.
+
+	Đạo này thí nghiệm đề không khó, nhưng 89 điểm cũng không dễ dàng như vậy cầm toàn, ngoại trừ viết tại bài thi trên giấy trình tự cùng kết quả cần cam đoan độ chuẩn xác bên ngoài, tuyển thủ thao tác thực hành vi cũng coi như tại tỉ số hoặc trừ điểm hạng mục bên trong.
+
+	Lão sư giám khảo ở trong phòng thí nghiệm tuần tra, ghi chép lựa chọn tay thao tác thực hành vi, một đối một chằm chằm phòng là không làm được, không có nhiều như vậy lão sư giám khảo . Bình thường chính là một vị lão sư giám khảo tiếp cận chung quanh mấy tên tuyển thủ, cho nên hôm nay thí nghiệm khâu chia làm buổi sáng, buổi chiều hai trận, đối tuyển thủ tiến hành phân lưu.
+
+	Thẩm Kỳ tại Mục Dung chỉ đạo hạ thao tác thực qua, luyện qua điện học thí nghiệm.
+
+	Đấu bán kết thí nghiệm đề cũng là điện học, trận chung kết vẫn là.
+
+	Bởi vì điện học dụng cụ thí nghiệm đơn giản dễ kiếm,
+
+	Tại chỗ liền có thể nghiệm chứng thí nghiệm kết quả, dễ dàng cho thiết lập là thi đua thí nghiệm.
+
+	Lựa chọn tay nhân thủ một đài hạt máy gia tốc, Trung Hoa vật lý hội cũng không có năng lực này cùng tài lực tổ chức nha, Trung Hoa vật lý hội tổng bộ liền một đài hạt máy gia tốc, vẫn là second-hand.
+
+	Thẩm Kỳ đầu tiên lợi dụng điện cầu pháp vẽ ra đo đạc sơ đồ mạch điện, tiếp xuống thiết lập nước tắm nồi nhiệt độ vì 27 độ.
+
+	Theo sơ đồ mạch điện kết nối mạch điện, điều tiết điện vị khí sơ giá trị, làm phân ép mạch điện phát ra điện áp là 0, thiết lập điện trở rương trị giá là 1 vạn Ω, kiểm lưu tính héo tàn.
+
+	Làm xong những này cơ bản thí nghiệm công tác chuẩn bị, Thẩm Kỳ kết nối nguồn điện, chậm rãi điều tiết điện vị khí, làm am-pe kế số ghi gia tăng.
+
+	Tiếp tục điều tiết, lặp đi lặp lại điều tiết điện vị khí cùng điện trở rương, làm điện cầu tại thiết lập điện áp giá trị ở vào cân bằng.
+
+	Sau đó Thẩm Kỳ tại bài thi trên giấy vẽ ra ghi chép bảng biểu, ghi chép số liệu.
+
+	Điện áp 0. 430V, dòng điện 0.52 μA
+
+	Điện áp 0. 441V, dòng điện 0.77 μA
+
+	. . .
+
+	Ghi chép 20 bộ số liệu, Thẩm Kỳ căn cứ những này số liệu vẽ ra bóng hai cực chính hướng vôn am-pe đặc tính đường cong, tính toán ra đảo ngược bão hòa dòng điện I0= 3.397×10^-14A, cùng lý tưởng ước số n=1. 001.
+
+	Cái này thí nghiệm cái thứ nhất một phần nhỏ hoàn thành.
+
+	Mãi cho đến nơi này, đều là cao trung sinh cần nắm giữ cơ sở điện học thí nghiệm thao tác, cùng số liệu ghi chép, xử lý, tính toán cơ bản năng lực.
+
+	Cho nên thí nghiệm khâu kéo không ra phân số, đừng nói vật cạnh tuyển thủ, phổ thông cao trung sinh, vật lý thành tích qua loa, động thủ năng lực cũng tạm được cái chủng loại kia, làm xong quốc quyết thí nghiệm đề cái thứ nhất một phần nhỏ cũng không thành vấn đề.
+
+	Bộ phận thứ hai muốn hơi phiền toái một chút.
+
+	Suy luận xuất hiện ở độ không tuyệt đối lúc bóng hai cực điện áp Vg(0), phân tích khác biệt cố định dòng điện dưới điều kiện, thu hoạch đến độ không tuyệt đối lúc bóng hai cực chính hướng kết điện áp đặc điểm cùng với sinh ra nguyên nhân, đây thật ra là cái lý luận suy luận tính toán đề.
+
+	CPhO thi đến thi đi, nói trắng ra là chính là thi lý luận tri thức.
+
+	Trải qua lý luận suy luận tính toán, Thẩm Kỳ đạt được Vg(0) tại đến gần vô hạn độ không tuyệt đối lúc trị giá là 1.225V, 1.233V, 1.244V, cái này ba cái điện áp giá trị phân biệt đối ứng 5 μA, 10 μA cùng 15 μA dòng điện giá trị
+
+	Thí nghiệm khâu đến đây là kết thúc.
+
+	Bao quát Thẩm Kỳ ở bên trong, rất nhiều tuyển thủ đều thuận lợi hoàn thành thí nghiệm cùng bài thi.
+
+	Thí nghiệm đề phân số tại cùng ngày liền công bố ra ngoài.
+
+	Không có một vị tuyển thủ cầm tới 89 điểm thí nghiệm đề max điểm, tối cao phân là 7 9.5 phân.
+
+	Tại thao tác thực động tác cái này khâu, mỗi vị tuyển thủ hoặc nhiều hoặc ít đều bị chụp một điểm phân số.
+
+	Đây là chuyện không có cách nào khác, thao tác thực động tác lại không có tiêu chuẩn tư thế, không ai dám cam đoan chính mình mỗi một chỗ chi tiết thập toàn thập mỹ.
+
+	Thẩm Kỳ thí nghiệm phân số cầm tới 77 phân, bị chụp 3 phần. Hắn có thể tiếp nhận kết quả này.
+
+	Thí nghiệm phân số ra, mang ý nghĩa năm nay CPhO quốc quyết tổng điểm đã định.
+
+	Trung Hoa vật lý hội công bố lựa chọn tay tổng điểm xếp hạng:
+
+	1, Thẩm Kỳ (Nam Cảng nhị trung), 357 phân;
+
+	2, Đường Mộng Kỳ (Trường Quận trung học), 35 2.5 phân;
+
+	3, Tô Tiểu Liệt (Hoa sư một trường trung học phụ thuộc), 352 phân;
+
+	4, Lô Hòe Tùng (Tô Hàng nhị trung), 35 0.5 phân;
+
+	5, Mã Tử Tân (nhã lễ trung học), 349 phân;
+
+	5, Hàn Huyền Sách (Thạch gia thôn nhị trung), 349 phân
+
+	7, Kim Thanh Cường (đặc khu trung học), 348. 5 điểm;
+
+	. . .
+
+	200, Tằng Lộ Na (đông bắc bồi dưỡng nhân tài trường học), 112 điểm.
+
+	Tổng điểm thành tích chỉ công bố đến trước 200 tên, trong đó trước 50 tên thu hoạch được cả nước giải hạng nhất, 51-200 tên thu hoạch được cả nước giải nhì, 201-41 2 tên đều là tam đẳng thưởng.
+
+	Quốc gia huy chương vàng phân số vạch đến282 phân, tức xếp hạng thứ 50 vị người tuyển thủ kia phân số.
+
+	Quốc gia tập huấn đội phân số vạch đến2 98 điểm, tức xếp hạng thứ 40 vị người tuyển thủ kia phân số.
+
+	Hết thảy đều kết thúc, có 50 vị tuyển thủ thu hoạch được nước một tức huy chương vàng, trong đó bài danh phía trên 40 vị huy chương vàng tuyển thủ trúng tuyển vật cạnh quốc gia tập huấn đội.
+
+	Cùng giới trước, xếp hạng trước 50 vị tuyển thủ trên cơ bản đều đến nước mình bên trong vật cạnh mạnh trường học, ngành học thi đua mạnh trường học.
+
+	Ngoại trừ xếp hạng thứ nhất Thẩm Kỳ. 

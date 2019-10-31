@@ -1,0 +1,153 @@
+ Chương 47: Giống như có chút áp lực ài
+
+	Trên thế giới phổ biến cho rằng, trí thông minh bao hàm sức quan sát, trí nhớ, sức tưởng tượng, sức phán đoán, suy luận năng lực, tư duy logic năng lực chờ chỉ tiêu.
+
+	Cho nên đo IQ đề mục phần lớn cùng số học tương quan, toán học bao gồm kể trên mấy cái chỉ tiêu.
+
+	Người phương Tây so sánh coi trọng tư duy logic năng lực, phương tây học thuật giới lưu truyền chuyện xưa là: "Logic là không thể chiến thắng, bởi vì chiến thắng Logic đồng dạng cần sử dụng một loại khác Logic."
+
+	Tổ ủy hội thiết trí đạo này Logic đề ý tứ rất rõ ràng, nếu muốn ở IMO trên sàn thi đấu lấy được thành tích, Logic năng lực là thiết yếu, trí thông minh là cánh cửa điều kiện.
+
+	Thẩm Kỳ mỗi lần thăng cấp toán học đẳng cấp, hệ thống đều sẽ nhắc nhở: "Chúc mừng túc chủ toán học thăng làm nào đó nào đó cấp, túc chủ tại toán học lĩnh vực sức quan sát, trí nhớ, sức tưởng tượng, sức phán đoán, suy luận năng lực, tư duy logic năng lực chờ chỉ tiêu so sánh lên một cấp rõ rệt tăng lên."
+
+	Thẩm Kỳ đã xem toán học đẳng cấp thăng làm cấp 5 chức nghiệp cấp, nếu như hắn chỉ trữ bị sơ trung toán học tri thức, hắn phá giải ngưỡng cửa này Logic đề cũng có nhất định chắc chắn.
+
+	Nhưng cấp 5 toán học đẳng cấp + sơ trung toán học tri thức không cách nào phá giải tích phân hoặc là vi phân phương trình, cái này dính đến đại học đại số tri thức dự trữ.
+
+	Thẩm Kỳ đối cái hệ thống này lý giải là, hệ thống phụ trợ chính mình không ngừng tăng lên trí lực hạn mức cao nhất, nhưng kho tri thức bổ sung cần dựa vào chính mình tại thường ngày bên trong không ngừng tích lũy, thông qua đọc sách, nghe giảng bài chờ phương thức. Đây là hỗ trợ lẫn nhau, trí lực không thể đi lên nhìn những cái kia thâm ảo toán học lý luận cũng khó có thể lý giải.
+
+	Trở lại đề thứ nhất cánh cửa Logic đề. (hôm qua Chương 46: đề mục để lọt đánh mấy chữ, điều kiện không có viết toàn, sau đổi mới. Có kiên nhẫn đồng học có thể đổ về đi xem một chút)
+
+	Thẩm Kỳ căn cứ đề mặt tiểu cố sự suy luận ra ba điều kiện là:
+
+	1. Tom, Jerry and Thomas số đều lớn hơn 0;
+
+	2. Cái này đếm ba tiếng hai hai không đợi;
+
+	3. Tùy ý một vài không phải cái khác đếm được gấp hai.
+
+	Suy luận ra cái này ba điều kiện chèo chống manh mối là, ba người có thể nhìn thấy hai người khác số lượng, lại không cách nào nhìn thấy chính mình số lượng; vòng thứ nhất vấn đáp, ba người đều không có cách nào cho ra đáp án; vòng thứ hai vấn đáp bên trong, Tom, Jerry vẫn không có pháp suy luận ra riêng phần mình số, nhưng cái cuối cùng tác đáp Thomas cấp ra câu trả lời chính xác, hắn trên trán thiếp số là 144.
+
+	Thẩm Kỳ giả thiết chính mình là Thomas, ta tại vòng thứ hai vấn đáp trúng được ra 144 đáp án, như vậy tất nhiên muốn xếp hạng trừ kể trên ba điều kiện bên trong một cái.
+
+	Nếu như 144 là Tom (x) cùng Jerry (y) số kém, có thể liệt ra một cái phương trình, tức x-y=144.
+
+	Lúc này x, y đều không là 0, đồng thời x không phải là y, tức thỏa mãn điều kiện 1, điều kiện 2.
+
+	Như vậy muốn phủ định thứ 3 điều kiện, liền cần lại liệt một cái phương trình, tức x+y=2y, giải đến x=y. Điều kiện này đúng không thành lập, nếu không vòng thứ nhất liền có thể đạt được câu trả lời chính xác, cho nên Thomas 144 không phải hai số kém, mà là hai số tổng cộng.
+
+	Tức x+y=144.
+
+	Đồng lý, lúc này thiết điều kiện 1, 2 đều thành lập, muốn làm điều kiện 3 không thành lập, thì x-y=2y.
+
+	Liên lập hai cái một lần phương trình đến một cái hệ phương trình:
+
+	x+y=144
+
+	x-y=2y
+
+	Thẩm Kỳ tính nhẩm liền có thể tính ra kết quả, x=108, y=36.
+
+	Đẩy ngược trở về, Thẩm Kỳ trong đầu đảo ngược một lần cố sự tràng cảnh:
+
+	Tom trên đầu thiếp chính là 108, Jerry trên đầu thiếp chính là 36, Thomas trên đầu thiếp chính là 144. Vòng thứ nhất vấn đáp bên trong, ba người đồng đều không cách nào đoán ra chính mình số lượng. Vòng thứ hai vấn đáp bên trong, cái cuối cùng tác đáp Thomas cấp ra 144 đáp án. . .
+
+	"Không sai, chính là cái này Logic." Thẩm Kỳ nâng bút tại bài thi bên trên viết đến 108, 36.
+
+	Cánh cửa đã nhập, 7 phân đến tay.
+
+	Sau đó liền nên trổ hết tài năng.
+
+	Đề thứ hai là một đạo mặt phẳng hình học giải tích đề.
+
+	Thập tự tương giao x trục cùng y trục là tất cả học sinh lão bằng hữu, ngươi sẽ hoặc là sẽ không, hai người bọn họ vẫn ở nơi đó lù lù bất động,
+
+	Chứng kiến thời đại biến thiên, gió nổi mây phun.
+
+	Hệ tọa độ bên trong khách qua đường lui tới, từ xưa đến nay nhà số học nhóm cố gắng cả đời, tại cái này quét ngang dựng lên thế giới bên trong lưu lại chính mình vĩ tên.
+
+	Ánh vào Thẩm Kỳ tầm mắt chính là hai đầu ∞ hình dạng đường cong, một lớn một nhỏ, lớn bao lấy tiểu nhân, nó có một cái đặc biệt danh tự, Cassini hình trứng tuyến.
+
+	Tuyệt đối không nên cho rằng nó không có gì trứng dùng, nếu như ngươi cho rằng như vậy, vậy khẳng định lấy không được 7 phân.
+
+	Thẩm Kỳ nhất định phải tìm tới xen vào hai trứng ở giữa cái kia hằng số, nó không thể quá dài, cũng không nên quá ngắn, quá lớn dễ dàng xảy ra vấn đề, quá nhỏ get không đến phá đề điểm.
+
+	Hình học giải tích là hình học cùng đại số kết hợp thể, tính toán hằng số nhất định phải dựa vào hình học phương pháp, trái lại cũng thế.
+
+	Thẩm Kỳ làm ra đường lemniscat đối Cassini hình trứng tuyến triển khai thế công, nhưng hắn hiển nhiên đánh giá thấp Cassini hình trứng tuyến gần như vô lại phòng ngự tư thái.
+
+	Cassini hình trứng tuyến thiên biến vạn hóa, tại khác biệt ra đề mục người trong tay thể hiện ra tính chất khác nhau tư thái.
+
+	Thẩm Kỳ tạm hoãn thế công, hắn tế ra binh khí song tiết côn --- song nữu đường cong, đánh không chết trước mắt cái này yêu quái Cassini hình trứng tuyến.
+
+	Đừng nói đánh không chết, người ta hình trứng tuyến căn bản liền không xong máu.
+
+	Bảy mươi hai loại biến hóa Cassini hình trứng tuyến tất nhiên sẽ có một cái chân thân, tìm tới cái này yêu quái chân thân, đánh chết hắn, mới có thể đi hướng Tây Thiên lấy được chân kinh.
+
+	Một chiêu không được, đổi lại một chiêu.
+
+	Thẩm Kỳ trực tiếp ném ra ngoài giữ nhà ngọn nguồn tổ hợp pháp khí, Catenary + Cycloid mạnh nhất cp.
+
+	Đối hiện giai đoạn Thẩm Kỳ tới nói, treo xoáy hai khí là hắn có thể luyện ra cấp cao nhất pháp bảo, không phải vạn bất đắc dĩ thời điểm, hắn sẽ không dễ dàng sử xuất loại này giây trời giây giây không khí đại sát chiêu, bởi vì cái này quá tiêu hao pháp lực đáng giá, dùng nhiều đại não chịu không được.
+
+	Không có cách, đây là IMO đấu trường, Thẩm Kỳ không quản được nhiều như vậy.
+
+	Bị Thẩm Kỳ phụ qua ma Catenary + Cycloid tổ hợp pháp khí, có được cường đại vật lý công kích cùng không cách nào giảm miễn pháp thuật công kích, như vậy hỗn công phía dưới, Cassini hình trứng tuyến cuối cùng lộ ra sơ hở, nó hiển lộ ra chân thân, bất quá là đầu máy móc đường cong thôi.
+
+	"Ngươi cái này mệt nhọc tiểu hồ ly tinh, coi là khoác tấm da trâu liền biến thành thần thông quảng đại Ngưu ma vương? Ha ha, quá ngây thơ rồi. Yêu tinh, ăn ta lão Thẩm Nhất bổng!"
+
+	Thẩm Kỳ kéo xong cuối cùng một đoạn quỹ tích, cấp ra Cassini hình trứng tuyến cố định điểm cùng khoảng thời gian hằng số b^2.
+
+	"Hô, nóng quá não, mệt mỏi quá."
+
+	Hai giờ rưỡi đi qua, liên phá hai đề Thẩm Kỳ bờ môi khô cạn, trong miệng khát muốn chết.
+
+	"Nghỉ ngơi, nghỉ ngơi một hồi."
+
+	Thẩm Kỳ uống một hớp nhỏ nước khoáng làm trơn bờ môi, hắn không dám uống quá nhiều nước sợ đi tiểu.
+
+	Căn phòng học này an bài hai mươi vị tuyển thủ cùng trận lại còn thi, Thẩm Kỳ chỗ ngồi tại hàng cuối cùng, hắn quan sát một chút những tuyển thủ khác tình trạng, đại đa số người đều đang ngẩn người, sinh không thể luyến.
+
+	Mỗi vị tuyển thủ thi trên bàn cắm một mặt tiểu quốc cờ, mỗi người bọn họ quốc gia quốc kỳ.
+
+	Thẩm Kỳ phát hiện, không có ngẩn người tuyển thủ rải rác có thể đếm được, bọn hắn là nước Mỹ tuyển thủ, Russia tuyển thủ, Kazakhstan tuyển thủ.
+
+	"Cái này mẹ nó là người Mỹ?" Thẩm Kỳ chú ý tới, hắn bên trái đằng trước nước Mỹ tuyển thủ làn da nhan sắc sâu hơn, tóc đen quăn xoắn, hết sức rõ ràng Nam Á người đặc thù, có thể là Ấn Độ duệ.
+
+	"Phó lĩnh đội nói không sai, nước Mỹ chính là khắp nơi đào nhân tài, lấy ra chủ nghĩa." Thẩm Kỳ biết nước Mỹ olympic toán học đội là chi cường đội, là Trung Quốc olympic toán học đội mạnh mẽ đối thủ cạnh tranh, người Ấn Độ toán học thật không tệ, đáng giá coi trọng.
+
+	Lại nhìn hai vị anh tuấn Russia tuyển thủ cùng Kazakhstan tuyển thủ, hai người bọn họ đều là người da trắng, trong đó Russia tiểu ca so sánh có đặc điểm, hắn đại khái là cái thuận tay trái, tay trái cầm bút tại quyển trên mặt phi tốc giải đáp.
+
+	Thuận tay trái đồng dạng so sánh thông minh, đáng giá coi trọng. Nếu như Russia cùng Kazakhstan không phân gia, bọn hắn trước Liên Xô hoặc là độc liên thể olympic toán học đội khả năng thiên hạ đệ nhất, Trung Quốc olympic toán học đội tại trước mặt bọn hắn là người khiêu chiến mà không phải thủ lôi người.
+
+	Thẩm Kỳ cảm nhận được áp lực, cao thủ, đều là cao thủ!
+
+	Hắn muốn cầm đoàn đội quán quân, càng muốn cầm IMO cá nhân quán quân.
+
+	Trung Quốc olympic toán học đội thực lực tổng hợp rất mạnh, nhưng đơn đả độc đấu chưa chắc có thể solo qua Russia tiểu ca, cùng quy thuận đến nước Mỹ Ấn Độ duệ hoặc là cái khác duệ, giới này nước Mỹ olympic toán học trong đội còn giống như có Hoa Kiều.
+
+	Thẩm Kỳ không dám thư giãn, làm sơ nghỉ ngơi sau lập tức tiến vào thứ ba đề giải đáp.
+
+	. . .
+
+	. . .
+
+	Thật - tấu chương nói:
+
+	Có đồng học nói nhìn không hiểu lắm trong sách này tương quan toán học lý luận.
+
+	Do ta viết là tiểu thuyết, chính văn bên trong trích dẫn phần lớn là các toán học lý luận bên trong nhất tinh luyện bộ phận, nếu như tại chính văn bên trong tiến hành kỹ càng trình bày, tất nhiên sẽ ảnh hưởng đọc trôi chảy tính.
+
+	Ta viết sách này dự tính ban đầu, là muốn lấy một loại thú vị mà không khô khan phương thức miêu tả một chút cơ sở ngành học, tuyệt không muốn đem sách này viết thành học thuật luận văn. Ta muốn viết tròn đường kính tính thế nào, sin tương đương đầu nào bên cạnh so đầu nào bên cạnh mọi việc như thế, tin tưởng các ngươi cũng không quá nguyện ý xem đi.
+
+	Tác giả trình độ có hạn, tại sáng tác quá trình bên trong khó tránh khỏi xuất hiện sơ hở, đối với một ít lý luận trình bày khả năng tồn tại bất công, cũng hoan nghênh các vị đồng học phê bình chỉ chính, nói thêm quý giá ý kiến.
+
+	Như trích dẫn một chút lý luận, ta tận lực tại chương tiết cuối cùng liệt ra lý luận xuất xứ. Hứng thú đồng học có thể tự hành tìm đọc.
+
+	Tấu chương đề mục liên quan đến tham khảo văn hiến là:
+
+	 «IQ khảo thí đề kho »
+
+	 « cao trung toán học môn bắt buộc bản »
+
+	Đại học tài liệu giảng dạy  « hình học giải tích » 

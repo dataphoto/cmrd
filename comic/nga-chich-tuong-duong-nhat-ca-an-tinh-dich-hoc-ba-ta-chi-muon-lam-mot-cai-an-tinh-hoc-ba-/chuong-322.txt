@@ -1,0 +1,107 @@
+ 322 chương thực hiện hứa hẹn
+
+	Cùng Goldbach phỏng đoán tương quan phỏng đoán có ba cái.
+
+	Dựa theo thời gian trục, theo thứ tự là năm 1849 nói lên Polignac phỏng đoán, năm 1900 đưa ra sinh đôi số nguyên tố phỏng đoán, năm 2003 nói lên Guy phỏng đoán.
+
+	Ba cái phỏng đoán chứng pháp Logic cùng Goldbach phỏng đoán, chỉ cần đem chứng minh Goldbach phỏng đoán 1+1 bên trong sử dụng hàm số cấu tạo phương trình, thay thế vì Polignac phỏng đoán phương trình, sinh đôi số nguyên tố phỏng đoán phương trình, Guy phỏng đoán phương trình là đủ.
+
+	Lại tốn ba ngày thời gian, Thẩm Kỳ chỉnh lý xong luận văn, tiêu đề cùng đoạn thời gian gần nhất lưu hành tiêu đề giống nhau như đúc,  « Goldbach phỏng đoán chứng minh ».
+
+	Tại bản này luận văn bên trong, Thẩm Kỳ một hơi đã chứng minh Goldbach phỏng đoán, Polignac phỏng đoán, sinh đôi số nguyên tố phỏng đoán, Guy phỏng đoán chung bốn cái phỏng đoán.
+
+	Kỳ thật bốn cái phỏng đoán có thể viết ra bốn bài luận văn, lấy được học bá tích phân càng nhiều.
+
+	Thẩm Kỳ không có làm như thế, cái này cùng hắn thân phận không hợp, sẽ mang lại cho thế nhân một loại xoát luận văn số lượng cảm giác.
+
+	Thẩm Kỳ trước tiên thượng truyền  « Goldbach phỏng đoán chứng minh » đến arVix bên trên, sau đó đem luận văn bản thảo trực tiếp giao phó cho  « Annals of Mathematics » chủ biên Faltings.
+
+	Sau đó Thẩm Kỳ nói cho hắn biết hành chính trợ lý: "Barbara, giúp ta an bài một chút giao thông, đi trước New York, tiếp đón bạn gái của ta, ta cùng nàng từ New York Sân bay Kennedy xuất phát, bay hướng Thụy Sĩ Zurich. Đúng vậy, ta sẽ tại Zurich ngây ngốc 3 ngày, sau đó đi Basel, tại Basel lưu lại sau 3 ngày trực tiếp đi Zurich sân bay trở về New York."
+
+	"Zurich, Basel khách sạn giúp ta đặt trước cấp năm sao, hoàn cảnh nhất định phải thanh u, gian phòng cần xa hoa giường lớn phòng, tạ ơn."
+
+	Thẩm Kỳ muốn đi Thụy Sĩ đi công tác, đây là hơn một tháng trước quyết định sự tình.
+
+	Thụy Sĩ Ostrowski quỹ đầu tư mời Thẩm Kỳ đi Zurich, nhận lấy Ostrowski thưởng.
+
+	Trên thế giới nổi danh Ostrowski có hai người, thứ nhất là nước Nga tác gia Alexander - Markowich - Ostrovsky.
+
+	Một vị khác là Ukraine nhà toán học Alexander - Mayakovic - Ostrovsky.
+
+	Nhà toán học A. M. Ostrovsky thành danh về sau trường cư Thụy Sĩ làm nghiên cứu, năm 1986 chết bệnh tại Thụy Sĩ.
+
+	A. M. Ostrovsky xuất thân phú thương gia đình, hắn tại lúc tuổi còn trẻ kế thừa một bút to lớn di sản, trên sinh hoạt không buồn không lo hắn chuyên tâm tại toán học nghiên cứu.
+
+	A. M. Ostrovsky qua đời trước lưu lại di chúc, đem toàn bộ tài sản cống hiến ra đến, thành lập Ostrowski quỹ ngân sách, ban thưởng tại thuần toán học hoặc trị số phân tích cơ sở lý luận phương diện, tại năm năm trước bên trong có đột xuất thành tựu nhà toán học.
+
+	Ostrowski thưởng tại năm 1989 lần đầu trao giải, mỗi hai năm ban phát một lần, lấy được thưởng người không cao hơn hai người, tiền thưởng là 10 vạn Thụy Sĩ Franc.
+
+	Tất nhiên Ostrowski quỹ đầu tư mời Thẩm Kỳ lĩnh thưởng, hắn đương nhiên sẽ đi Thụy Sĩ.
+
+	Ostrowski thưởng là quốc tế tính toán học giải thưởng, hệ thống bình xét cấp bậc vì cấp A, tấn thăng cấp 14 nhiệm vụ hai cần cái này cấp A giải thưởng.
+
+	Càng quan trọng hơn là, Thẩm Kỳ cuối cùng thực hiện đọc đại nhị lúc hứa hẹn, mang lên Âu Diệp cùng đi Thụy Sĩ du lịch.
+
+	Mấy ngày sau, vừa mới cầm tới nước Mỹ bằng lái Vu Lỗi điều khiển Thẩm Kỳ Mercedes gLS, lái hướng New York.
+
+	Vu Lỗi nhiệm vụ là lái xe, đi Đại học Columbia tiếp đón Âu Diệp, sau đó đưa Thẩm Kỳ, Âu Diệp đi Sân bay Kennedy, lại đem Thẩm Kỳ lái xe về Princeton, một tuần sau đi New York nhận điện thoại.
+
+	Nước Mỹ giáo sư không cho phép sai sử học sinh giúp bọn hắn làm việc vặt chân chạy, trừ phi thanh toán thù lao, phần này thù lao không nên thấp hơn tại nước Mỹ làm kiêm chức bình quân lúc lương.
+
+	Vu Lỗi chủ động yêu cầu lái xe đưa Thẩm Kỳ cùng Âu Diệp đi sân bay, vì thế Thẩm Kỳ thanh toán cho hắn 200 đôla, cưỡng ép nhét vào Vu Lỗi quần áo trong túi.
+
+	"Tiểu Kỳ ca, khách khí đi! Ta giúp ngươi lái xe thiên kinh địa nghĩa, dựa vào cái gì thu ngươi tiền a!" Vu Lỗi đặc biệt không vui thét lên.
+
+	"200 đôla bao hàm cố lên phí cùng rửa xe phí, còn lại là ngươi vất vả phí, cầm đi uống trà. Đừng kêu hoán, đây là nước Mỹ, nhập gia tùy tục. Đừng nhìn ta, nhìn đường!"
+
+	Sắp đến Colombia đại học lúc, Thẩm Kỳ nhắc nhở Vu Lỗi: "Nghiên cứu của ngươi sinh đệ nhất học kỳ sắp kết thúc, học kỳ này ngươi học thuật biểu hiện vô cùng bình thường, so Ralph kém xa. Vu Lỗi, đừng chỉ cố lấy tán gái, ngươi đến Princeton sơ tâm là cái gì?"
+
+	"Ta sơ tâm không dám quên, học thuật, xã giao cùng đi ngủ." Vu Lỗi chắc chắn nói đến.
+
+	Thẩm Kỳ: "Theo ta quan sát, đằng sau hai cái chiếm cứ ngươi tám mươi phần trăm ở trên thời gian cùng tinh lực."
+
+	"Ta sai rồi, ta đổi, nhất định đổi." Vu Lỗi chủ động thừa nhận sai lầm.
+
+	Thẩm Kỳ ân cần thiện dụ: "Vu Lỗi, học kỳ sau ta hi vọng nhìn thấy một cái hoàn toàn mới ngươi, đã có thể bảo trì đầy đủ giấc ngủ, bên người cũng có cô gái xinh đẹp làm bạn, mà lại có thể xuất ra một phần ra dáng cao chất lượng luận văn."
+
+	Vu Lỗi dứt khoát kiên quyết nói: "Ta cố gắng!"
+
+	"Cái này đúng, ngươi nhìn, ta cũng không phản đối ngươi cùng nữ hài tử kết giao, mỗi người đều cần nữ hài tử, ta cũng cần, cố lên nha." Thẩm Kỳ mở dây an toàn xuống xe, đã tới mục đích, Colombia đại học nữ sinh lầu ký túc xá.
+
+	Âu Diệp dưới lầu trông mong chờ đợi, Vu Lỗi đuổi tại Thẩm Kỳ trước đó vọt tới Âu Diệp trước mặt, mười phần tự nhiên cầm qua Âu Diệp túi du lịch, lễ phép chào hỏi: "Âu Diệp tẩu tử tốt!"
+
+	"Ha ha, ngươi tốt." Âu Diệp cười, cái này tiểu suất ca miệng thật ngọt.
+
+	"Vu Lỗi, ngươi Âu Diệp tẩu tử liền lớn hơn ngươi một hai tuổi, bảo nàng tiểu Âu tỷ liền tốt, tẩu tử trông có vẻ già." Thẩm Kỳ mở ra Mercedes SuV cửa sau, đỡ Âu Diệp lên xe.
+
+	"Tiểu Âu tỷ cùng tiểu Kỳ ca thật sự là một đôi trời sinh, lúc nào uống ngươi rượu mừng a?" Vu Lỗi đem Âu Diệp túi du lịch bỏ vào ô tô rương phía sau, hắn trở lại khoang điều khiển, nổ máy xe đưa Thẩm Kỳ, Âu Diệp đi Sân bay Kennedy.
+
+	Âu Diệp gần nhất tình trạng cơ thể có chỗ khôi phục, duy trì lượng thuốc, có thể tiến hành đường dài lữ hành.
+
+	Sau bảy, tám tiếng, Thẩm Kỳ, Âu Diệp đến Thụy Sĩ liên bang thành thị lớn thứ nhất Zurich.
+
+	Khách sạn cấp năm sao, hoàn cảnh rất thanh u, xa hoa giường lớn phòng, hành chính trợ lý Barbara an bài phi thường đúng chỗ, Thẩm Kỳ cùng Âu Diệp cần phải làm là giỏ xách vào ở.
+
+	"Tiểu Diệp tử, chúng ta cuối cùng đi tới Thụy Sĩ, thỏa thích hưởng thụ đi, chúng ta có được một tuần sung sướng thời gian." Thẩm Kỳ mở ra khách sạn gian phòng cửa sổ, để tươi đẹp ánh nắng hòa thanh thoải mái chi phong không giữ lại chút nào trút xuống tiến đến.
+
+	"Cảm tạ Ostrowski quỹ đầu tư, cho ngươi cái này giải thưởng." Âu Diệp ôm lấy Thẩm Kỳ phần eo, song song đứng tại bệ cửa sổ trước, nhìn xem nói không ra danh tự chim chóc ở trên nhánh cây vũ đạo.
+
+	"Coi như bọn hắn không cho ta trao giải, ta cũng sẽ mang ngươi đến Thụy Sĩ."
+
+	"Lại gạt ta."
+
+	"Ngươi nói cái gì?"
+
+	"Ngô. . . Đừng. . ."
+
+	Uống thuốc trong lúc đó khắc chế dục vọng, Thẩm Kỳ cùng Âu Diệp gắn bó ôm nhau, đi đến phòng ăn hưởng dụng bữa tối.
+
+	Ngày kế tiếp, Thẩm Kỳ cùng Âu Diệp đi vào Ostrowski quỹ đầu tư tổng bộ.
+
+	Giới này Ostrowski thưởng tổng cộng có hai vị lấy được thưởng người.
+
+	Ostrowski quỹ đầu tư chủ tịch chủ trì trao giải nghi thức: "Đến từ Moscow đại học Vladimir - Kabrovsky giáo sư, hắn tại phương trình vi phân thường cùng phương trình vi phân riêng phần trị số giải lĩnh vực làm ra trác tuyệt cống hiến, căn cứ A. M. Ostrowski tiên sinh nguyện vọng, hướng Kabrovsky giáo sư ban phát Ostrowski huy hiệu."
+
+	"Đến từ Princeton đại học Thẩm Kỳ giáo sư đối Riemann phỏng đoán hệ thống làm ra lịch sử tính cống hiến, đồng dạng trao tặng Thẩm Kỳ giáo sư Ostrowski huy hiệu."
+
+	"Riemann phỏng đoán đã thành lịch sử, mới nhất bản sách giáo khoa bên trong cải thành Riemann định lý. Như vậy Goldbach phỏng đoán sẽ hay không đổi tên là Goldbach định lý? Chờ mong Thẩm giáo sư ở sau đó học thuật giao lưu hội bên trong, cho chúng ta mang đến đặc sắc giảng giải." 

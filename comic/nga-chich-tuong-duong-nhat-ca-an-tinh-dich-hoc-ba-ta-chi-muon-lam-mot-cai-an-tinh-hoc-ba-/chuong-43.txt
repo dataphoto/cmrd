@@ -1,0 +1,157 @@
+ Chương 43 hành trình mới
+
+	"Vu Lỗi, nếu như cái này phương trình liên hợp tính thái giống nhau tại v=Ulogr+V, lại U cùng V tại khu vực R bên trong là liên tục, như vậy U(ε, ζ) tương đương nhiều ít?"
+
+	Olympic toán học đội tuyển quốc gia tập huấn ngày thứ ba, Lưu cán sự cầm bảng đen xoa gõ gõ bảng đen, hôm nay đến phiên hắn giảng đại số, hắn là phụ trách đại số huấn luyện viên.
+
+	"Chờ tại. . . 1?" Đội viên Vu Lỗi không có gì phấn khích trả lời đến.
+
+	"Vì cái gì suy nghĩ lâu như vậy!" Lưu cán sự quát lớn đến, "Vu Lỗi, ta thật không biết ngươi là thế nào trúng tuyển quốc gia tập huấn đội? Tốt, U(ε, ζ)=1, vậy ta đem (ε, ζ) vây quanh tại một cái vòng tròn bên trong, lại đem nó từ tích phân khu vực loại bỏ ra đến, thế là trong lúc tròn co vào đến (ε, ζ) lúc, từ nghĩa rộng Green định lý nhưng phải?"
+
+	"Được được được. . . Được được được?" Vu Lỗi nghẹn họng nhìn trân trối, hắn nói chuyện run rẩy.
+
+	"Ngu xuẩn!" Lưu cán sự rống to đến, hắn hỏi tới: "Được cái gì?"
+
+	Vu Lỗi: "Được được được. . . Được được được. . ."
+
+	"Được rồi, ngươi ngồi xuống đi, ngươi tài nghệ này đi đến quốc tế đấu trường sẽ chỉ mất mặt." Lưu cán sự thất vọng lắc đầu.
+
+	Vu Lỗi ngồi xuống, một mặt si ngốc, còn tại nhỏ giọng run rẩy: "Được được được. . . Đắc đắc. . ."
+
+	"Ai." Thẩm Kỳ không đành lòng thở dài, xong, người anh em này điên rồi.
+
+	"Chu Vũ An!" Lưu cán sự lại điểm một vị đội viên danh tự.
+
+	Chu Vũ An khẩn trương đứng lên.
+
+	Lưu cán sự đặt câu hỏi: "Tiếp đón đề, nếu như hàm số v là Green hàm số, như vậy đem v tại R biên giới bên trên là 0 điều kiện kèm theo đến Green hàm số định nghĩa bên trong đi, như vậy có thể được cái gì?"
+
+	Chu Vũ An vò đầu bứt tai, trăm mối vẫn không có cách giải.
+
+	"Chu Vũ An, ta hỏi ngươi có thể được cái gì!" Lưu cán sự phẫn nộ gào thét.
+
+	Chu Vũ An từ khẩn trương đến sợ hãi, cuối cùng lại cười quỷ dị bắt đầu: "Ha ha."
+
+	"Được cái gì?" Lưu cán sự mặt trầm xuống.
+
+	"Ha ha, ha ha ha." Chu Vũ An cười ngây ngô.
+
+	"Được rồi, ngươi ngồi xuống đi, olympic toán học đội tuyển quốc gia lấy ngươi lấy làm hổ thẹn." Lưu cán sự vừa tức vừa bất đắc dĩ.
+
+	Chu Vũ An ngồi xuống, cực kỳ giống nông thôn trong phim ảnh cửa thôn vị kia đồ đần: "Ha ha, ha ha, ha ha ha."
+
+	"Ai." Thẩm Kỳ không đành lòng nhìn thẳng, xong, lại ngốc rơi một cái. Lưu cán sự thật là tâm ngoan thủ lạt, một tiết đại số huấn luyện khóa làm điên một cái đội viên, cả ngốc một cái. Cái này mẹ nó là trại huấn luyện vẫn là trại tập trung?
+
+	"Tức chết ta rồi. . . Ta. . . Ta. . . Đợi lát nữa, ta uống thuốc." Lưu cán sự tim ẩn ẩn làm đau, hắn tranh thủ thời gian lấy ra bình thuốc, dập đầu một hạt bảo đảm tâm hoàn.
+
+	"Ta người này không thể kích động, không thể sinh khí, không thể bị kích thích, các vị kiêu tử, ta van cầu các ngươi, ta có thể tranh khẩu khí sao?" Lưu cán sự giận không tranh, đổi dùng phép khích tướng.
+
+	Xoát xoát xoát!
+
+	Lưu cán sự cầm lấy phấn viết tại trên bảng đen múa bút thành văn, viết xuống một cái mới tư thế.
+
+	"Ai có thể nói cho ta, như thế nào đem cái này nhị giai phương trình dùng đơn giản nhất phương thức hữu hiệu, biến đổi thành nhất giai? Sẽ xin giơ tay?" Lưu cán sự không còn đơn độc điểm vị kia đội viên danh tự, mà là mặt hướng toàn thể đội viên đặt câu hỏi.
+
+	Năm giây đi qua, không người nhấc tay.
+
+	"Một đám. . . Ngu xuẩn!" Lưu cán sự mở ra nhóm trào hình thức.
+
+	Mười giây đi qua, Thẩm Kỳ nhấc tay.
+
+	"Thẩm Kỳ?" Lưu cán sự gặp Thẩm Kỳ dẫn đầu nhấc tay, nói đến: "Thẩm Kỳ ngươi trước chờ một chút."
+
+	Lại dập đầu một viên bảo đảm tâm hoàn, Lưu cán sự cả người đều dễ dàng: "Thẩm Kỳ ngươi nói đi, hoặc là đi lên viết cũng được."
+
+	"Ta viết đi." Thẩm Kỳ đi đến bục giảng, cầm lấy một nửa phấn viết viết.
+
+	Lệnh ax^mdx^p=y^ndy^p-2d^2y
+
+	Làm như sau tính toán
+
+	. . .
+
+	Đến dy ╱ dx
+
+	Cố định hằng số α
+
+	Từ đó đánh tan chỉ số ước số. . .
+
+	. . .
+
+	Biến đổi nữa z=dv ╱ dt
+
+	Đem nhị giai phương trình hóa thành nhất giai
+
+	Giải tất
+
+	Thẩm Kỳ giải đáp hoàn tất,
+
+	Phấn viết nhẹ nhàng bỏ vào bảng đen rãnh, trở lại vị trí bên trên ngồi xuống.
+
+	"Đắc đắc. . . Đạt được!" Một mực "Được được được" Vu Lỗi nhãn tình sáng lên, khôi phục thái độ bình thường.
+
+	"Ha ha. . . Ha ha, nha a, còn có thể như thế chuyển hóa!" Chu Vũ An không còn cười ngây ngô, hắn từ Thẩm Kỳ giải đáp bên trong thu hoạch dẫn dắt.
+
+	"Không sai, Thẩm Kỳ đồng học đầu óc rất linh quang." Lưu cán sự dù sao uống thuốc, có kháng tính, hắn đối Thẩm Kỳ lớn thêm tán thưởng, chưa từng xuất hiện bất luận cái gì trái tim khó chịu.
+
+	Cái này tiết đại số huấn luyện khóa cuối cùng bên trên xong, không có đội viên tái phát điên ngẩn người.
+
+	Ăn cơm trưa thời điểm, Vu Lỗi, Chu Vũ An một trái một phải bảo vệ tại Thẩm Kỳ hai bên.
+
+	"Thẩm Kỳ có thể a, dù sao cũng là quốc quyết huy chương vàng tuyển thủ, phi thường cường đại." Vu Lỗi nói đến.
+
+	"Không chỉ có là huy chương vàng, vẫn là max điểm." Chu Vũ An bổ sung đến.
+
+	Thẩm Kỳ không kiêu ngạo cũng không quá đáng khiêm tốn: "Vẫn được, hai ngươi đâu, giới này quốc quyết thế nào không có gặp các ngươi?"
+
+	Vu Lỗi: "Ta là thông qua toán học tinh anh cúp trúng tuyển tập huấn đội."
+
+	Chu Vũ An: "Ta tham gia chính là trí tuệ cúp, cầm quán quân."
+
+	"A, Vu Lỗi cũng là toán học tinh anh cúp quán quân a?" Thẩm Kỳ hỏi.
+
+	"Đúng thế." Vu Lỗi gật gật đầu, "Nhưng toán học tinh anh cúp cùng trí tuệ cúp cấp bậc cũng không thể cùng liên hợp toán học quốc quyết so sánh, Thẩm Kỳ ngươi khối này quốc quyết max điểm huy chương vàng hàm kim lượng tối cao."
+
+	Trung Quốc đất rộng của nhiều diện tích lãnh thổ bao la, nhiều nhân khẩu như vậy cay a nhiều học sinh, thời cấp ba toán học thi đua cũng không phải là chỉ có liên hợp toán học.
+
+	Nếu như liên hợp toán học thuộc về giải ngoại hạng Anh cấp bậc đỉnh cấp thi đấu vòng tròn, như vậy toán học tinh anh cúp cùng trí tuệ cúp là thuộc về đức giáp, pháp giáp cấp bậc này, cấp bậc hơi thấp một chút.
+
+	Đến từ từng cái thi đấu vòng tròn quán quân tụ tập cùng một chỗ, hợp thành chi này olympic toán học quốc gia tập huấn đội.
+
+	"Lại nói quốc gia tập huấn đội loại phương thức huấn luyện này tương đương biến thái a, đây cũng chính là đột kích huấn luyện 15 ngày, nếu như kéo dài đến 1 tháng, ta cảm thấy không có người có thể sống rời đi trại huấn luyện." Thẩm Kỳ phi thường không thích đội tuyển quốc gia loại này tập huấn hình thức, nhưng vì tranh thủ một cái IMO danh ngạch, hắn lựa chọn nhẫn nại.
+
+	"Hi vọng hết thảy sớm một chút kết thúc." Vu Lỗi lộ vẻ có chút mỏi mệt.
+
+	"Ta cũng thế." Chu Vũ An đồng bệnh tương liên.
+
+	"Đến đều tới, chúng ta vẫn là đến kiên trì đến cuối cùng." Thẩm Kỳ lột miệng cơm trắng.
+
+	Ngắn ngủi nghỉ trưa kết thúc về sau, buổi chiều tiến hành là xác suất luận huấn luyện khóa.
+
+	Sau đó ban đêm tiến hành mỗi ngày thông lệ khảo thí.
+
+	Khảo thí chính là khảo thí, mỗi ngày huấn luyện khóa về sau, mỗi vị đội viên làm một phần bài thi, max điểm là 100 điểm.
+
+	Ngay cả thi ba ngày, Thẩm Kỳ lấy 297 phân xếp hạng toàn bộ đội viên bên trong thứ một.
+
+	Hắn cuối cùng thất thủ một lần, tại ngày hôm qua trong khảo nghiệm bị trừ đi 3 phần, không có lấy đến max điểm.
+
+	Sau đó một tuần lễ, lại có hai vị đội viên rời đội.
+
+	Một cái là thân thể có vấn đề, một cái khác là tâm lý có vấn đề.
+
+	Còn lại 17 vị đội viên tại kiên trì.
+
+	Tại quá khứ 10 thứ trong khảo nghiệm, Thẩm Kỳ lấy 98 5 điểm tổng điểm tiếp tục lĩnh chạy.
+
+	Thẩm Kỳ phát hiện cầm max điểm càng ngày càng khó, càng đi về phía sau khảo thí độ khó càng cao, đám huấn luyện viên luôn có thể chọc điểm mao bệnh chụp hắn mấy phần.
+
+	Cuối cùng, trong vòng 15 ngày cường hóa huấn luyện kết thúc, kiên trì đến sau cùng đội viên còn lại 14 người.
+
+	Tại cái này 14 người bên trong, lấy khảo thí tổng điểm cao nhất sáu người trúng tuyển olympic toán học đội tuyển quốc gia chính thức danh sách.
+
+	Thẩm Kỳ danh tự tại trên danh sách.
+
+	Ngày 23 tháng 7, Trung Quốc olympic toán học thi đua đội một nhóm hơn mười người cưỡi máy bay bay hướng nước Anh.
+
+	Mới khiêu chiến sắp đến, Thẩm Kỳ đã chuẩn bị xong. 

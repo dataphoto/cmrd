@@ -1,0 +1,113 @@
+ Chương 80: Doppler quan tiên phong cùng Broglie đại tướng quân
+
+	Kỳ thật sớm tại thế kỷ 20 sơ, các nhà vật lý học bọn họ liền chú ý tới quang đối nguyên tử có phóng xạ áp lực tác dụng, bởi vì dụng cụ thiết bị hạn chế, thẳng đến gần nhất mấy chục năm laser làm lạnh trang bị phát minh ra đến về sau, nguyên tử laser làm lạnh kỹ thuật mới đến tính thực chất phát triển.
+
+	Chu Lệ Văn tiên sinh tại Stanford trong phòng thí nghiệm, lợi dụng ba chiều chùm laser hình thành từ quang tịnh đem nguyên tử cầm tù tại một cái khu vực nhỏ không gian bên trong tiến hành làm lạnh, thu được càng nhiệt độ thấp hơn độ quang học dính nhựa cây, lúc này là năm 1985.
+
+	Về sau khổ tâm nghiên cứu vài chục năm, Chu tiên sinh cùng hắn nghiên cứu khoa học đồng bạn càng thượng tầng lâu, bọn hắn lợi dụng loại kỹ thuật này đạt được thấp hơn Quang Tử phản xung cực hạn nhiệt độ cực thấp độ. Bằng này thành quả, Chu tiên sinh, Cohen-Tannoudji, Phillips ba người đồng thời thu hoạch được Nobel vật lý học thưởng, lúc này là năm 1997.
+
+	Lại qua mười mấy hai mươi năm bước vào thế kỷ 21, Nam Cảng nhị trung trong phòng thí nghiệm, Mục lão sư căn cứ vào Nobel vật lý học thưởng thành quả nghiên cứu ra đạo đề: "Nguyên tử laser làm lạnh thí nghiệm bên trong, cân nhắc đến phản xung hiệu ứng, xin hỏi nhiệt độ tồn tại nhỏ nhất giá trị là nhiều ít?"
+
+	Dưới đài chúng học sinh vò đầu bứt tai: "Mục lão sư, chúng ta chỉ là cao trung sinh a, có cái này não động chúng ta không cầm Nobel thưởng rồi?"
+
+	Chỉ có Thẩm Kỳ trầm mặc không nói, hắn hiểu được Mục lão sư đề ý, nàng không có trông cậy vào cái nào cao trung sinh ra có chuẩn bị Nobel thưởng trình độ.
+
+	Cái này đề lại là laser máy phát xạ, lại là nguyên tử cầm tù cái gì, chợt nhìn vô cùng cấp cao, cuối cùng, nguyên tử laser làm lạnh thí nghiệm là đối Doppler, Broglie đám người lý luận giả thiết nghiệm chứng, đồng phát giương làm vinh dự từng bước hoàn thiện.
+
+	Ở cấp ba vật lý sách giáo khoa bên trong, cao trung sinh đều học qua Doppler hiệu ứng, Broglie sóng, ánh sáng sóng hạt hai giống tính, Bohr mức năng lượng mô hình, α hạt oanh kích, nguyên tử điện tử cơ sở lý luận chờ tri thức điểm. Đương nhiên, những này là cao trung vật lý khó khăn nhất lý giải một bộ phận nội dung.
+
+	Thẩm Kỳ đã tự học đến vật lý đại học, hắn lý giải lên chướng ngại tương đối nhỏ bé.
+
+	Vẻn vẹn liền giải đề mà nói, nếu như không thể thuần thục nắm giữ cần thiết toán học công cụ (công thức, suy luận, định lý chờ một chút), ngươi đem thúc thủ vô sách giải không ra tương ứng đề toán, mà vật lý đề càng nhiều là lý giải trình độ bên trên tiến dần lên, dựa vào chút ít tính toán.
+
+	"Cái này cũng không cần Nobel thưởng cấp bậc não động, các ngươi chỉ cần có vật lý thi đua cấp bậc não động như vậy đủ rồi." Mục lão sư cười cười, hỏi: "Các ngươi cảm thấy cái này đề khó sao?"
+
+	"Khó!"
+
+	"IPhO trung đẳng độ khó đề thi, hoặc là CPhO quốc quyết lý luận đề thi, không sai biệt lắm chính là cái này độ khó đi." Mục lão sư liếc nhìn dưới đài một tuần, nói đến: "Phải biết tham gia thi đua thời điểm, không ai sẽ cho các ngươi phát ra trường học phiến, các ngươi không nhìn thấy 3D biểu thị anime, đầu mối duy nhất chỉ có quyển trên mặt mặt phẳng sơ đồ. Ầy, chính là cùng loại trên màn hình trương này bản vẽ mặt phẳng. Cho nên ta cho các ngươi phát ra anime, truyền bá hai lần, trả lại cho các ngươi đồng bộ giảng giải, các ngươi không nên lộ ra hiếu kì Bảo Bảo ngây thơ biểu lộ. Tương lai các nhà vật lý học bọn họ, lấy ra chút bản lĩnh thật sự tới đi, xin đừng nên khiến ta thất vọng."
+
+	Dưới đài trong nháy mắt lặng ngắt như tờ.
+
+	Đội thi vật lý các đội viên trình độ đương nhiên sẽ không quá kém, tự học qua chọn môn học hoặc là bộ phận vật lý đại học tri thức cũng không chỉ chỉ có Thẩm Kỳ một người mà thôi.
+
+	Đội thi vật lý tất cả đội viên cầm bút lên, chui đầu vào bản nháp bản bên trên tô tô vẽ vẽ, suy luận tính toán.
+
+	Thẩm Kỳ không mang bút cũng không mang giấy, hắn tay không mà đến, gắt gao nhìn chằm chằm trên màn hình nguyên tử tham chiếu hệ hai chiều sơ đồ, ngưng thần tự hỏi cái gì.
+
+	"Lão ca, ngươi không có khả năng tính nhẩm ra nhỏ nhất nhiệt độ giá trị a?" Lâm Tinh Vũ viết viết phát hiện bên người Thẩm Kỳ ôm cánh tay mà ngồi vững vàng như núi.
+
+	"Tính nhẩm? Không tồn tại." Thẩm Kỳ lắc đầu, mở ra một chưởng: "Bút tới."
+
+	Lâm Tinh Vũ bút trong túi chứa một đống bút, hắn lấy ra một chi giá cả quý nhất thuỷ tính bút đưa cho Thẩm Kỳ.
+
+	"Giấy tới." Thẩm Kỳ lần nữa bày chưởng.
+
+	Tê lạp.
+
+	Lâm Tinh Vũ tại chính mình bản nháp bản bên trên kéo xuống một trang giấy, đưa cho Thẩm Kỳ.
+
+	Ngẫm lại một tờ bản nháp giấy cũng không đủ, tê kéo tê rồi, Lâm Tinh Vũ ngay cả xé mấy trương.
+
+	"Một tấm bản nháp giấy đủ." Thẩm Kỳ khoát khoát tay, cầm bút tại bản nháp trên giấy tiến hành suy luận.
+
+	Tại cái này nguyên tử laser làm lạnh thí nghiệm bên trong, muốn tính toán ra nhỏ nhất nhiệt độ giá trị, lượng tính toán không lớn, nhưng suy luận trình tự so sánh rườm rà, Thẩm Kỳ nhất định phải làm bản nháp, trang bức cũng muốn căn cứ tình huống thực tế thích hợp chắc chắn tiêu chuẩn.
+
+	Xoát xoát xoát.
+
+	Thẩm Kỳ vận dụng ngòi bút như bay, rất nhanh viết đầy bản nháp giấy chính phản hai mặt.
+
+	"Hô. . . Thì ra là thế." Thẩm Kỳ ngửa đầu thở phào, xoay xoay cổ, giải quyết.
+
+	Mục lão sư chú ý tới Thẩm Kỳ: "Xem ra Thẩm Kỳ đồng học đã có kết quả?"
+
+	Ba.
+
+	Thẩm Kỳ vỗ tay phát ra tiếng: "Có."
+
+	Ba ba.
+
+	Mục lão sư tay trái tay phải ngay cả đánh búng tay: "Kia mời Thẩm Kỳ đồng học phơi bày một ít kết quả của ngươi."
+
+	Đem trên bảng đen vừa rồi tàu ngầm đề lau sạch sẽ, Mục lão sư cho mời Thẩm Kỳ lên đài đáp lại.
+
+	Thẩm Kỳ lên đài, nắm căn phấn viết tại trên bảng đen viết.
+
+	Cái này đề bước đầu tiên đầu tiên muốn lấy được laser tần suất, căn cứ kinh điển Doppler hiệu ứng nhưng phải:
+
+	ω(1+vx ╱ c)
+
+	Kỳ thật Doppler bản nhân cũng không có khả năng ý thức được, hắn năm đó linh quang chợt hiện nói lên lý luận hiệu ứng, tại một hai trăm năm về sau bị rộng khắp vận dụng cho toàn thế giới từng cái quốc gia, rất nhiều lĩnh vực.
+
+	Bây giờ trong bệnh viện siêu âm màu chính là căn cứ vào Doppler hiệu ứng, Doppler hiệu ứng ở trên quân sự đồng dạng vận dụng rộng khắp, cùng nguyên tử vi mô phương diện.
+
+	Thẩm Kỳ mệnh Doppler làm tiên phong quan mở ra một cái cửa ra, kết hợp đề mục thiết lập, Doppler quan tiên phong giết vào trại địch trước làm một đợt tập kích.
+
+	Nếu như điện tử lấy chính tốc độ v hướng chúng ta oanh đến, có thể đạt được một cái hướng về sau vận động, toàn bộ đồ hình ngang kích thước đem theo c-v cùng c tỉ lệ thu nhỏ.
+
+	Thẩm Kỳ lấy hai lần đạo số sau có thể tính ra một cái điện trường, làm cao năng điện tử thông qua lúc bọn chúng xuôi theo phương hướng đi tới phát ra phóng xạ, đây chính là nhận gây nên phóng xạ, Doppler quan tiên phong một đợt phát ra dừng ở đây, hắn hoàn thành Thẩm Kỳ hạ đạt nhiệm vụ.
+
+	Sau đó đến phiên Broglie đại tướng quân xuất mã.
+
+	Broglie sóng trên thực tế đã dính đến bước đầu lượng tử cơ học, cao trung vật lý trên sách học cũng không phải là nói sơ lược, trên sách học viết là tinh túy, chỉ bất quá kết luận tính miêu tả nhiều, cụ thể giải thích ít.
+
+	Thẩm Kỳ lệnh Broglie đại tướng quân ngựa đạp liên doanh, hắn tại trên bảng đen cho ra nguyên tử hấp thu một cái Quang Tử động lượng là:
+
+	? ω0 ╱ c
+
+	Giả thiết nhiệt độ vì T lúc, đối ứng Broglie bước sóng là:
+
+	λ=? ╱ căn số mkT
+
+	Sóng số là tướng vị đối khoảng cách biến hóa suất, tần suất là tướng vị đối thời gian biến hóa suất, ω cùng k tại một cái không gian phương hướng bên trên cùng thời gian cùng không gian tương tự.
+
+	Chu Lệ Văn tiên sinh lợi dụng ba chiều chùm laser hình thành từ quang tịnh đem nguyên tử cầm tù tại một cái khu vực nhỏ không gian bên trong tiến hành làm lạnh, Mục lão sư vừa rồi phát ra 3D anime đơn giản mô phỏng cái này quá trình thí nghiệm, quang tại không gian ba chiều bên trong truyền bá cùng nguyên tử phát sinh tác dụng, hấp thu Quang Tử sau nguyên tử số, cùng nguyên tử mỗi một lần hấp thu cùng phóng xạ sinh ra động lượng nổi lên mặt nước. . . Thẩm Kỳ viết đầy bên trái bảng đen, cầu giải quá trình tiếp cận hoàn thành một nửa.
+
+	Mục lão sư bất động thanh sắc bảo trì quan sát trạng thái, dưới đài Lâm Tinh Vũ trước mặt bày biện Thẩm Kỳ vừa rồi đánh bản nháp.
+
+	Lâm Tinh Vũ cúi đầu nhìn xem Thẩm Kỳ bản nháp, ngẩng đầu ngó ngó trên bảng đen cầu giải quá trình, cái này không đúng rồi, Thẩm Kỳ đánh bản nháp cùng hắn tại trên bảng đen viết không giống a.
+
+	Lâm Tinh Vũ nhìn trên bảng đen nội dung, trên cơ bản có thể xem hiểu hơn phân nửa, lại nhìn Thẩm Kỳ bản nháp giấy, căn bản nhìn không rõ.
+
+	Bởi vì Thẩm Kỳ tại bản nháp trên giấy viết đều là tương đối độc lập hạch tâm trình tự, tư duy tính chất nhảy nhót quá mạnh, ngoại trừ chính hắn không có mấy người có thể đọc hiểu hắn nghĩ biểu đạt ý gì.
+
+	Thẩm Kỳ lấy hạch tâm trình tự vì cương lĩnh, tại trên bảng đen triển khai kỹ càng cầu giải, nhanh, đáp án lập tức liền muốn ra. 

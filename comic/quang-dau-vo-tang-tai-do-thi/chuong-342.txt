@@ -1,0 +1,277 @@
+ Chương 343: Không phụ tề thiên chi danh
+
+	"Ngươi phát động đặc thù sự kiện: Tự nhiên ý chí hóa thân."
+
+	Đặc thù sự kiện: Tự nhiên ý chí hóa thân
+
+	Sự kiện ban thưởng: Cá nhân kết toán ban thưởng tăng lên
+
+	Sự kiện yêu cầu: Bức lui hoặc là đánh giết Pendor dã tính nhân hùng
+
+	Sự kiện miêu tả:
+
+	Ngươi dùng cường đại vũ lực để trục kiến người quần thể cảm giác được hủy diệt uy hiếp, mà từng chịu đến Cổ Thần quà tặng trục kiến người thủ lĩnh vì yểm hộ thành viên rời đi lấy hi sinh chính mình làm đại giá triệu hoán ra tự nhiên ý chí hóa thân: Pendor dã tính nhân hùng.
+
+	Hiện tại, đối mặt cường địch mới, ngươi cần làm ra lựa chọn.
+
+	"Nguyên đoàn đội nhiệm vụ mục tiêu biến mất, Pendor dã tính nhân hùng trở thành mới đoàn đội nhiệm vụ mục tiêu."
+
+	"Cảnh cáo: Đoàn đội nhiệm vụ độ khó nhắc nhở, mời người chơi tự hành phán định."
+
+	"Ngươi đánh chết đặc thù đoàn đội nhiệm vụ mục tiêu: Pendor dã tính nhân hùng, cái này boss vì đặc thù đơn vị, đánh chết rơi vật phẩm đã căn cứ tham dự đánh giết nhân viên điểm cống hiến gửi đi đến riêng phần mình vật phẩm ba lô."
+
+	"Kiểm trắc đến đánh giết thỏa mãn trang bị: Thả Ách đặc thù giải phong điều kiện boss, phải chăng mở ra đặc thù giải phong hình thức?"
+
+	"Ngươi thu được trang bị: Tuyệt vọng ai thán giới chỉ (tử sắc)."
+
+	Tuyệt vọng ai thán giới chỉ:
+
+	Vật phẩm đẳng cấp: 11
+
+	Phẩm chất: Tử sắc
+
+	Loại hình: Chiếc nhẫn
+
+	Bền bỉ: 10 ╱ 10
+
+	Trọng lượng: 0. 02kg
+
+	Đặc hiệu:
+
+	1, khô héo năng lượng xạ tuyến: Tại một cái tiêu chuẩn động tác về sau, nhân vật có thể chọn bên trong cái nào đó sinh vật phóng thích một đạo từ khô héo chi lực hình thành dòng năng lượng, bị cái này pháp thuật đánh trúng sinh vật cần mỗi giây tiến hành một lần pháp thuật kiểm định, kiểm định thất bại thì tiến vào ngắn ngủi trạng thái hư nhược (toàn thuộc tính hạ xuống, tốc độ di chuyển ngoài định mức bị tiêu giảm)
+
+	2, cảm nhận tuyệt vọng: Khi nhân vật trang bị cái này chiếc nhẫn thời điểm, tất cả ở vào nhân vật chung quanh 50 yard phạm vi bên trong sinh vật đều cần đứng trước căn cứ vào nhân vật khiêu chiến đẳng cấp (cái này trang bị lớn nhất phát huy năng lượng hạn mức cao nhất vì khiêu chiến đẳng cấp 20) sợ hãi kiểm định, kiểm định sau khi thất bại sinh vật tiến vào sợ hãi trạng thái.
+
+	PS: Ta vẫn tồn tại, liền mang ý nghĩa thế gian này còn cần sợ hãi —— sợ hãi ma vương - Tichondrius
+
+	"Ngươi thu được hi hữu ban thưởng: Phối phương bảo túi (tử sắc)."
+
+	Phối phương bảo túi:
+
+	Vật phẩm đẳng cấp: 11
+
+	Phẩm chất: Tử sắc
+
+	Loại hình: Tiêu hao phẩm
+
+	Sử dụng số lần: 1 ╱ 1
+
+	Sử dụng hiệu quả: Sử dụng về sau ngươi đem thu hoạch được một trương ngẫu nhiên phụ trợ chức nghiệp phối phương (phẩm chất thấp nhất vì tử sắc).
+
+	PS: Ta đem tấm kia phối phương đã vùi đầu vào tổng lưới phối phương trong kho, muốn lấy được nó sao? Đi ngẫu nhiên đi, các ngươi sẽ có được nó —— nặc danh
+
+	PS: Ta tại đa nguyên vũ trụ trung tâm giao dịch góp nhặt hơn 1500 cái phối phương bảo túi, cũng không có mở ra ta không có mới phối phương, cho nên trên lầu nhưng thật ra là trữ hàng phối phương bảo túi thương nhân sao? —— chung cực thu thập đại sư - ép buộc người - Osdar
+
+	"Thành tựu của ngươi: Ta muốn đánh 5 cái thu hoạch được 1 thứ hoàn thành số lần, trước mắt hoàn thành tình huống vì 2 ╱ 5."
+
+	"Phó bản tin tức: Pendor dã tính nhân hùng đã bị đánh giết, đang tiến hành phó bản kết toán. . ."
+
+	"Kiểm trắc đến nhân vật ở vào trạng thái chiến đấu, phó bản kết toán tạm dừng."
+
+	"Kiểm trắc đến nhân vật thoát ly trạng thái chiến đấu, bắt đầu phó bản kết toán. . ."
+
+	"Đang tính toán nhân vật độ cống hiến. . ."
+
+	"Ngươi tham dự đánh chết Pendor dã tính nhân hùng, đồng thời chiếm cứ lớn nhất HP phát ra 100%, ngươi phó bản độ cống hiến đề thăng làm 90%."
+
+	"Căn cứ vào ngươi độ cống hiến, ngươi thu được 95000 điểm thông dụng kinh nghiệm cùng 4000 điểm tổng lưới tiền thảm họa."
+
+	"Ngươi hoàn thành đặc thù sự kiện: Tự nhiên ý chí hóa thân, đồng thời thành công hoàn thành đánh giết, ngươi cá nhân ban thưởng thu hoạch được tăng lên."
+
+	"Ngươi thu hoạch được hiếm thấy phó bản ban thưởng: Huyết mạch tài liệu - Pendor dã tính nhân hùng (vàng nhạt) "
+
+	Nhìn xem võng mạc bên trên đổi mới nhắc nhở tin tức, Dịch Thu sờ lên đầu trọc, hắn chậm rãi từ lớn nhỏ tự nhiên cỡ lớn sinh vật trạng thái khôi phục lại bình thường hình thể.
+
+	Hắn đem tiền căn vì kịch chiến mà tạm thời sơ sót nhắc nhở tin tức đều đại khái nhìn một chút, để Dịch Thu so sánh ngoài ý muốn Thả Ách nhắc nhở tin tức.
+
+	Lúc trước hắn đánh giết boss cũng có 5, 6 cái, Thả Ách giải phong độ cũng một mực rất phẳng chậm chạp gia tăng.
+
+	Nhưng là hiện tại, tựa hồ lại xuất hiện một loại mới giải phong phương thức.
+
+	Nghĩ nghĩ, Dịch Thu đem ý thức đánh trúng tại nhắc nhở tin tức bị thêm vào nói rõ tin tức phía trên, lập tức hắn võng mạc đổi mới ra một nhóm mới nói rõ:
+
+	Đặc thù giải phong phương thức:
+
+	Thông qua đánh giết thần tính sinh vật cùng thần tính diễn sinh sinh vật đến thu hoạch được Thả Ách mạnh nhất giải phong trạng thái.
+
+	Mỗi 10% giải phong trạng thái sẽ giải khai một tầng phong ấn, 50% trở lên giải phong trạng thái sau chỉ có thể thông qua đánh giết thần tính sinh vật đến thu hoạch được.
+
+	Lựa chọn này đường tuyến về sau, Thả Ách trực tiếp thu hoạch được 10% giải phong trạng thái.
+
+	Cảnh cáo: Xin chú ý! Lựa chọn cái này giải phong phương thức đem không cách nào khôi phục lại thường quy giải phong phương thức!
+
+	PS: Nếu không thể quét ngang chư thiên, lại sao phụ cái này tề thiên chi danh.
+
+	Nhìn xem võng mạc bên trên nói rõ tin tức Dịch Thu lâm vào ngắn ngủi trầm tư, căn cứ phía trên nói rõ tin tức đến xem, nếu như không thông qua loại phương thức này giải phong, Thả Ách rất có thể không cách nào đạt tới uy lực mạnh nhất.
+
+	Mà giải phong điều kiện cũng đủ để được xưng tụng hà khắc, dù sao thần tính sinh vật là nằm ở truyền kỳ sinh vật cùng thần chi ở giữa phi thường đặc thù một cái giai đoạn.
+
+	Cũng không phải là nói tất cả thần tính sinh vật đều so truyền kỳ sinh vật cường đại, nhưng là bọn chúng thường thường có được một hạng phi thường năng lực đặc thù, có lúc, loại năng lực này thậm chí sẽ cùng một ít thần chi có vô cùng chặt chẽ liên hệ.
+
+	Bất quá thần tính diễn sinh sinh vật tương đối liền so sánh thường gặp, mặc dù tương đối ngang cấp sinh vật so sánh khó giải quyết, nhưng là còn tại khiêu chiến ứng phó phạm trù bên trong.
+
+	Đang suy tư một hồi về sau, Dịch Thu đem ý thức tập trung ở võng mạc bên trên cái kia còn không có xử lý nhắc nhở tin tức phía trên.
+
+	Thanh này vũ khí đối với hắn cùng hắn chỗ vị diện tới nói, có được đặc thù nào đó ý nghĩa.
+
+	Nếu như Dịch Thu có năng lực đưa nó khôi phục lại hoàn mỹ nhất trạng thái, Dịch Thu vẫn là nguyện ý vì thế lựa chọn càng gian nan hơn khiêu chiến.
+
+	Khi Dịch Thu chọn trúng tiếp thu về sau, một cái mới khung chat đổi mới tại hắn võng mạc bên trên:
+
+	"Mời xác định là không lựa chọn Thả Ách đặc thù giải phong lộ tuyến? Xin chú ý cái này thao tác không thể nghịch!"
+
+	"Vâng."
+
+	"Ngươi Thả Ách tiến vào đặc thù giải phong trạng thái, ngươi Thả Ách trạng thái thu được một lần đổi mới."
+
+	Dịch Thu nhìn về phía đang bị hắn nắm trong tay Thả Ách, hắn có thể cảm nhận được một loại phi thường đặc thù biến hóa ngay tại nó phía trên phát sinh.
+
+	Nhưng là dù là lấy Dịch Thu 20 điểm siêu phàm cảm giác cũng không có thể cảm nhận được nó biến hóa cụ thể, mà từ mắt thường đến xem, Dịch Thu có thể nhìn thấy Thả Ách phía trên nguyên bản pha tạp hình thái ngay tại phát sinh cấp tốc biến hóa.
+
+	Trong mơ hồ, Dịch Thu trông thấy một đạo để hắn cảm nhận được vô cùng chướng mắt kim quang từ Thả Ách bên trên chợt lóe lên.
+
+	Nhưng khi hắn lại nhìn Thả Ách thời điểm, chỉ là cảm giác nó phía trên quang trạch lộ ra càng thêm chói mắt một chút.
+
+	Không còn giống trước đó như thế tràn đầy pha tạp vết tích, mà lại Dịch Thu có thể ẩn ẩn cảm giác được Thả Ách tựa hồ không còn giống trước đó như thế mượt mà, một cỗ tựa như phong mang đồng dạng khí tức tại thanh này vẫn nhìn còn rất phổ thông vũ khí phía trên như có như không hiển lộ.
+
+	Mà vừa lúc này, Dịch Thu võng mạc bên trên đổi mới bước phát triển mới nhắc nhở tin tức:
+
+	"Kiểm trắc đến có quy mô bên ngoài sinh vật (truyền kỳ) tới gần, ngay tại truyền tống nhân vật rời đi phó bản. . ."  Chương 343: Không phụ tề thiên chi danh
+
+	"Ngươi phát động đặc thù sự kiện: Tự nhiên ý chí hóa thân."
+
+	Đặc thù sự kiện: Tự nhiên ý chí hóa thân
+
+	Sự kiện ban thưởng: Cá nhân kết toán ban thưởng tăng lên
+
+	Sự kiện yêu cầu: Bức lui hoặc là đánh giết Pendor dã tính nhân hùng
+
+	Sự kiện miêu tả:
+
+	Ngươi dùng cường đại vũ lực để trục kiến người quần thể cảm giác được hủy diệt uy hiếp, mà từng chịu đến Cổ Thần quà tặng trục kiến người thủ lĩnh vì yểm hộ thành viên rời đi lấy hi sinh chính mình làm đại giá triệu hoán ra tự nhiên ý chí hóa thân: Pendor dã tính nhân hùng.
+
+	Hiện tại, đối mặt cường địch mới, ngươi cần làm ra lựa chọn.
+
+	"Nguyên đoàn đội nhiệm vụ mục tiêu biến mất, Pendor dã tính nhân hùng trở thành mới đoàn đội nhiệm vụ mục tiêu."
+
+	"Cảnh cáo: Đoàn đội nhiệm vụ độ khó nhắc nhở, mời người chơi tự hành phán định."
+
+	"Ngươi đánh chết đặc thù đoàn đội nhiệm vụ mục tiêu: Pendor dã tính nhân hùng, cái này boss vì đặc thù đơn vị, đánh chết rơi vật phẩm đã căn cứ tham dự đánh giết nhân viên điểm cống hiến gửi đi đến riêng phần mình vật phẩm ba lô."
+
+	"Kiểm trắc đến đánh giết thỏa mãn trang bị: Thả Ách đặc thù giải phong điều kiện boss, phải chăng mở ra đặc thù giải phong hình thức?"
+
+	"Ngươi thu được trang bị: Tuyệt vọng ai thán giới chỉ (tử sắc)."
+
+	Tuyệt vọng ai thán giới chỉ:
+
+	Vật phẩm đẳng cấp: 11
+
+	Phẩm chất: Tử sắc
+
+	Loại hình: Chiếc nhẫn
+
+	Bền bỉ: 10 ╱ 10
+
+	Trọng lượng: 0. 02kg
+
+	Đặc hiệu:
+
+	1, khô héo năng lượng xạ tuyến: Tại một cái tiêu chuẩn động tác về sau, nhân vật có thể chọn bên trong cái nào đó sinh vật phóng thích một đạo từ khô héo chi lực hình thành dòng năng lượng, bị cái này pháp thuật đánh trúng sinh vật cần mỗi giây tiến hành một lần pháp thuật kiểm định, kiểm định thất bại thì tiến vào ngắn ngủi trạng thái hư nhược (toàn thuộc tính hạ xuống, tốc độ di chuyển ngoài định mức bị tiêu giảm)
+
+	2, cảm nhận tuyệt vọng: Khi nhân vật trang bị cái này chiếc nhẫn thời điểm, tất cả ở vào nhân vật chung quanh 50 yard phạm vi bên trong sinh vật đều cần đứng trước căn cứ vào nhân vật khiêu chiến đẳng cấp (cái này trang bị lớn nhất phát huy năng lượng hạn mức cao nhất vì khiêu chiến đẳng cấp 20) sợ hãi kiểm định, kiểm định sau khi thất bại sinh vật tiến vào sợ hãi trạng thái.
+
+	PS: Ta vẫn tồn tại, liền mang ý nghĩa thế gian này còn cần sợ hãi —— sợ hãi ma vương - Tichondrius
+
+	"Ngươi thu được hi hữu ban thưởng: Phối phương bảo túi (tử sắc)."
+
+	Phối phương bảo túi:
+
+	Vật phẩm đẳng cấp: 11
+
+	Phẩm chất: Tử sắc
+
+	Loại hình: Tiêu hao phẩm
+
+	Sử dụng số lần: 1 ╱ 1
+
+	Sử dụng hiệu quả: Sử dụng về sau ngươi đem thu hoạch được một trương ngẫu nhiên phụ trợ chức nghiệp phối phương (phẩm chất thấp nhất vì tử sắc).
+
+	PS: Ta đem tấm kia phối phương đã vùi đầu vào tổng lưới phối phương trong kho, muốn lấy được nó sao? Đi ngẫu nhiên đi, các ngươi sẽ có được nó —— nặc danh
+
+	PS: Ta tại đa nguyên vũ trụ trung tâm giao dịch góp nhặt hơn 1500 cái phối phương bảo túi, cũng không có mở ra ta không có mới phối phương, cho nên trên lầu nhưng thật ra là trữ hàng phối phương bảo túi thương nhân sao? —— chung cực thu thập đại sư - ép buộc người - Osdar
+
+	"Thành tựu của ngươi: Ta muốn đánh 5 cái thu hoạch được 1 thứ hoàn thành số lần, trước mắt hoàn thành tình huống vì 2 ╱ 5."
+
+	"Phó bản tin tức: Pendor dã tính nhân hùng đã bị đánh giết, đang tiến hành phó bản kết toán. . ."
+
+	"Kiểm trắc đến nhân vật ở vào trạng thái chiến đấu, phó bản kết toán tạm dừng."
+
+	"Kiểm trắc đến nhân vật thoát ly trạng thái chiến đấu, bắt đầu phó bản kết toán. . ."
+
+	"Đang tính toán nhân vật độ cống hiến. . ."
+
+	"Ngươi tham dự đánh chết Pendor dã tính nhân hùng, đồng thời chiếm cứ lớn nhất HP phát ra 100%, ngươi phó bản độ cống hiến đề thăng làm 90%."
+
+	"Căn cứ vào ngươi độ cống hiến, ngươi thu được 95000 điểm thông dụng kinh nghiệm cùng 4000 điểm tổng lưới tiền thảm họa."
+
+	"Ngươi hoàn thành đặc thù sự kiện: Tự nhiên ý chí hóa thân, đồng thời thành công hoàn thành đánh giết, ngươi cá nhân ban thưởng thu hoạch được tăng lên."
+
+	"Ngươi thu hoạch được hiếm thấy phó bản ban thưởng: Huyết mạch tài liệu - Pendor dã tính nhân hùng (vàng nhạt) "
+
+	Nhìn xem võng mạc bên trên đổi mới nhắc nhở tin tức, Dịch Thu sờ lên đầu trọc, hắn chậm rãi từ lớn nhỏ tự nhiên cỡ lớn sinh vật trạng thái khôi phục lại bình thường hình thể.
+
+	Hắn đem tiền căn vì kịch chiến mà tạm thời sơ sót nhắc nhở tin tức đều đại khái nhìn một chút, để Dịch Thu so sánh ngoài ý muốn Thả Ách nhắc nhở tin tức.
+
+	Lúc trước hắn đánh giết boss cũng có 5, 6 cái, Thả Ách giải phong độ cũng một mực rất phẳng chậm chạp gia tăng.
+
+	Nhưng là hiện tại, tựa hồ lại xuất hiện một loại mới giải phong phương thức.
+
+	Nghĩ nghĩ, Dịch Thu đem ý thức đánh trúng tại nhắc nhở tin tức bị thêm vào nói rõ tin tức phía trên, lập tức hắn võng mạc đổi mới ra một nhóm mới nói rõ:
+
+	Đặc thù giải phong phương thức:
+
+	Thông qua đánh giết thần tính sinh vật cùng thần tính diễn sinh sinh vật đến thu hoạch được Thả Ách mạnh nhất giải phong trạng thái.
+
+	Mỗi 10% giải phong trạng thái sẽ giải khai một tầng phong ấn, 50% trở lên giải phong trạng thái sau chỉ có thể thông qua đánh giết thần tính sinh vật đến thu hoạch được.
+
+	Lựa chọn này đường tuyến về sau, Thả Ách trực tiếp thu hoạch được 10% giải phong trạng thái.
+
+	Cảnh cáo: Xin chú ý! Lựa chọn cái này giải phong phương thức đem không cách nào khôi phục lại thường quy giải phong phương thức!
+
+	PS: Nếu không thể quét ngang chư thiên, lại sao phụ cái này tề thiên chi danh.
+
+	Nhìn xem võng mạc bên trên nói rõ tin tức Dịch Thu lâm vào ngắn ngủi trầm tư, căn cứ phía trên nói rõ tin tức đến xem, nếu như không thông qua loại phương thức này giải phong, Thả Ách rất có thể không cách nào đạt tới uy lực mạnh nhất.
+
+	Mà giải phong điều kiện cũng đủ để được xưng tụng hà khắc, dù sao thần tính sinh vật là nằm ở truyền kỳ sinh vật cùng thần chi ở giữa phi thường đặc thù một cái giai đoạn.
+
+	Cũng không phải là nói tất cả thần tính sinh vật đều so truyền kỳ sinh vật cường đại, nhưng là bọn chúng thường thường có được một hạng phi thường năng lực đặc thù, có lúc, loại năng lực này thậm chí sẽ cùng một ít thần chi có vô cùng chặt chẽ liên hệ.
+
+	Bất quá thần tính diễn sinh sinh vật tương đối liền so sánh thường gặp, mặc dù tương đối ngang cấp sinh vật so sánh khó giải quyết, nhưng là còn tại khiêu chiến ứng phó phạm trù bên trong.
+
+	Đang suy tư một hồi về sau, Dịch Thu đem ý thức tập trung ở võng mạc bên trên cái kia còn không có xử lý nhắc nhở tin tức phía trên.
+
+	Thanh này vũ khí đối với hắn cùng hắn chỗ vị diện tới nói, có được đặc thù nào đó ý nghĩa.
+
+	Nếu như Dịch Thu có năng lực đưa nó khôi phục lại hoàn mỹ nhất trạng thái, Dịch Thu vẫn là nguyện ý vì thế lựa chọn càng gian nan hơn khiêu chiến.
+
+	Khi Dịch Thu chọn trúng tiếp thu về sau, một cái mới khung chat đổi mới tại hắn võng mạc bên trên:
+
+	"Mời xác định là không lựa chọn Thả Ách đặc thù giải phong lộ tuyến? Xin chú ý cái này thao tác không thể nghịch!"
+
+	"Vâng."
+
+	"Ngươi Thả Ách tiến vào đặc thù giải phong trạng thái, ngươi Thả Ách trạng thái thu được một lần đổi mới."
+
+	Dịch Thu nhìn về phía đang bị hắn nắm trong tay Thả Ách, hắn có thể cảm nhận được một loại phi thường đặc thù biến hóa ngay tại nó phía trên phát sinh.
+
+	Nhưng là dù là lấy Dịch Thu 20 điểm siêu phàm cảm giác cũng không có thể cảm nhận được nó biến hóa cụ thể, mà từ mắt thường đến xem, Dịch Thu có thể nhìn thấy Thả Ách phía trên nguyên bản pha tạp hình thái ngay tại phát sinh cấp tốc biến hóa.
+
+	Trong mơ hồ, Dịch Thu trông thấy một đạo để hắn cảm nhận được vô cùng chướng mắt kim quang từ Thả Ách bên trên chợt lóe lên.
+
+	Nhưng khi hắn lại nhìn Thả Ách thời điểm, chỉ là cảm giác nó phía trên quang trạch lộ ra càng thêm chói mắt một chút.
+
+	Không còn giống trước đó như thế tràn đầy pha tạp vết tích, mà lại Dịch Thu có thể ẩn ẩn cảm giác được Thả Ách tựa hồ không còn giống trước đó như thế mượt mà, một cỗ tựa như phong mang đồng dạng khí tức tại thanh này vẫn nhìn còn rất phổ thông vũ khí phía trên như có như không hiển lộ.
+
+	Mà vừa lúc này, Dịch Thu võng mạc bên trên đổi mới bước phát triển mới nhắc nhở tin tức:
+
+	"Kiểm trắc đến có quy mô bên ngoài sinh vật (truyền kỳ) tới gần, ngay tại truyền tống nhân vật rời đi phó bản. . ." 

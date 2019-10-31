@@ -1,0 +1,115 @@
+ 337 chương tính chất phức tạp
+
+	Princeton cao đẳng sở nghiên cứu như thường ngày bình tĩnh.
+
+	Thẩm Kỳ tới bái phỏng hắn vật lý học đạo sư Witten, cũng nói chuyện đàm ý nghĩ của hắn: "Navier cùng Stokes trên thực tế là áp dụng vi phân và tích phân phương thức để giải thích thể lưu vận động, Navier-Stokes phương trình mặc dù chưa tìm tới toán học giải, nhưng Navier danh tự bị khắc vào Eiffel Thiết Tháp bên trên, Stokes thì là Cambridge Lucas giáo sư."
+
+	Witten nói đến: "So ra mà nói, Stokes toán học năng lực mạnh hơn, N-S phương trình bên trong đại bộ phận toán học xử lý đến từ Stokes, hắn thu được một loại càng thêm vĩ đại kỷ niệm, tại mặt trăng cùng trên sao Hoả đều có lấy Stokes danh tự mệnh danh núi hình vòng cung."
+
+	"Vi phân, tích phân, thiên vi phân, những này ta sở trường, nhưng mà liên quan tới thể lưu vận động ta là người ngoài ngành, gần nhất ta đang nghiên cứu thể lưu vận động." Thẩm Kỳ báo cáo gần đây tại vật lý bên trên học tập tiến độ.
+
+	Witten hỏi: "Cho nên ngươi muốn tìm được N-S phương trình toán học giải?"
+
+	"Rất khó khăn, nhưng ta hết sức, cái này cần tiêu tốn rất nhiều thời gian, cùng một chút xíu vừa đúng linh cảm. Như vậy Edward, chúng ta tiếp lấy tâm sự Yang–Mills phương trình đi, cùng N-S phương trình so sánh, Yang–Mills phương trình liên quan lĩnh vực muốn phức tạp rất nhiều." "Kinh điển cơ học, lượng tử cơ học, thuyết lượng tử, năng lượng liên sóng cùng vũ trụ học, cùng ngươi dây cung lý luận, vẻn vẹn một cái QFT liền để đầu ta thương yêu không dứt, guT nhìn qua tựa hồ là cái truyền thuyết." Thẩm Kỳ lộ vẻ buồn rầu, Q TF là thuyết lượng tử viết tắt, guT thì là vật sở hữu lý học gia tha thiết ước mơ đại nhất thống lý luận.
+
+	"Cho nên ngươi muốn cùng lúc giải quyết N-S phương trình cùng Yang–Mills phương trình?" Edward Witten biểu thị ngạc nhiên.
+
+	Thẩm Kỳ lắc đầu nói đến: "Cái này quá khó khăn, ta muốn nghe xem cái nhìn của ngươi."
+
+	Witten: "Ta tạm thời cho không ra bất kỳ quan điểm, chờ ngươi cầm tới vật lý học vị tiến sĩ rồi nói sau."
+
+	"A, đúng, Edward, ta là mang theo vấn đề tới, chúng ta đều biết Vật lý vật chất ngưng tụ càng giống là một cây cầu, nó kết nối lượng tử cơ học cùng kinh điển vật lý, chúng ta tại Vật lý vật chất ngưng tụ bên trong có thể tìm tới Yang–Mills phương trình tương quan nghiên cứu báo cáo, cũng có thể phát hiện N-S phương trình biên giới hóa giao lộ, như vậy liên quan tới Vật lý vật chất ngưng tụ bên trong đề cập tính chất phức tạp, ngươi là thế nào nhìn?" Thẩm Kỳ hỏi.
+
+	Tính chất phức tạp cái này khái niệm nhưng thật ra là do P. w. Anderson trước hết nhất đưa ra, Witten dùng chính hắn ngôn ngữ tiến hành trình bày: "Tại vật lý giới, tính chất phức tạp vẫn là một cái không có kết luận vấn đề, từ sự quay tròn tinh cách hình ảnh đến mọi người biết rõ Turing cơ, từ nhiệt lực học thứ hai định luật đến ma quỷ cầu thang, từ gạo chồng chất thí nghiệm đến hỗn độn lý luận, từ nước chảy xiết tới đất chấn, nhìn như không quan hệ sự tình liên hệ với nhau cũng tuân theo một loại nào đó quy luật, đây chính là tính chất phức tạp."
+
+	"Nhưng mà trước mắt đại đa số tính chất phức tạp quy luật chủ yếu dựa vào nhà vật lý học trực giác để phán đoán, tỉ như P. w. Anderson, chúng ta thiếu khuyết cần thiết định lượng hóa giải thả. Hắc, hài tử, vậy ta hỏi ngươi, từ ngươi mỗi ngày nghiên cứu Graphite phase carbonitride bên trong, căn cứ tính chất phức tạp nguyên lý, ngươi có thể liên tưởng đến cái gì?" Witten mượn đề tài để nói chuyện của mình, nói chuyện rất vui vẻ.
+
+	Thẩm Kỳ lập tức trả lời: "Ma sát."
+
+	Witten cảm thấy hiếu kì: "Ma sát? Phi thường mới lạ đáp án, có thể cụ thể nói một chút ngươi ma sát sao?"
+
+	Thẩm Kỳ xoa xoa đôi bàn tay: "Vật chất tồn tại thiếu hụt, ta dùng căn cứ vào cùng nhóm đồng luân tô-pô phương thức định nghĩa vật chất thiếu hụt, Hackman giáo sư căn cứ ta phát biểu tại PRL bên trên luận văn, khai thác trộn lẫn, cắt xén những vật này Lý Hóa học thủ đoạn cải tiến, gây dựng lại Graphite phase carbonitride phần tử kết cấu, đây là vi mô bên trong ma sát."
+
+	Thẩm Kỳ không ngừng xoa tay, càng chà càng nhanh, xoa tới tay tâm nóng lên: "Ma sát ma sát, ma quỷ bộ pháp, đem Graphite phase carbonitride bên trong cacbon nguyên tử phóng đại ước 10 17 thứ phương lần, nó liền biến thành Địa cầu kích cỡ tương đương. Ma sát ma sát, Địa cầu thiếu hụt phải chăng có thể thông qua ma sát đến ưu hóa? Đây chính là ta có thể liên tưởng đến tính chất phức tạp, thật đáng tiếc, ta cho không ra định lượng hóa chèo chống, một loại không có chút nào bằng chứng trực giác mà thôi."
+
+	"Vậy thì tìm đến bằng chứng." Witten kết thúc hôm nay nói chuyện.
+
+	Thẩm Kỳ một đường xoa xoa tay về tới phòng làm việc của hắn, căn bản không dừng được.
+
+	Vật lý vật chất ngưng tụ bên trong tính chất phức tạp lý luận là cái rất mơ hồ đồ vật, không nghiên cứu thì đã, một khi xâm nhập nghiên cứu, Thẩm Kỳ liền trầm mê.
+
+	"Ma sát, ma sát."
+
+	Thẩm Kỳ ma sát ròng rã đến trưa, lặp đi lặp lại nhắc tới cái này hai chữ.
+
+	Nhìn như không có cái gì mục đích tính, Thẩm Kỳ tiện tay ấn mở trong máy vi tính ADF phần mềm, tìm tới gaN tinh thể mô phỏng phần tử kết cấu đồ, nó giống như là một tấm tường giấy, tuân thủ một cách nghiêm chỉnh tính đối xứng sắp xếp quy tắc, bi trắng đại biểu canxi nguyên tử, hắc cầu đại biểu nitơ nguyên tử, giăng khắp nơi, kéo dài vô hạn.
+
+	Thẩm Kỳ thao tác con chuột, con chuột tại miếng lót chuột bên trên ma sát.
+
+	Đối gaN lượng tử điểm tiến hành T DDFT tính toán, có thể đạt được gaN lượng tử điểm tử ngoại - có thể thấy được quang phổ hấp thu.
+
+	Quang phổ đường cong hết sức rõ ràng, gaN tại 300-1500nm ở giữa có năm cái khác biệt hấp thu cường độ hấp thu phong, trong đó ở vào 401nm chỗ mạnh nhất hấp thu phong chủ muốn tới từ HoMo-11→LuMo(95%) điện tử nhảy vọt.
+
+	"Ma sát ma sát, bành trướng đổ sụp."
+
+	Thẩm Kỳ cắt về gaN tinh thể mặt phẳng phần tử kết cấu sơ đồ, mô phỏng thí nghiệm kết quả tính toán nghiệm chứng gaN bên trong hỗn hợp vị sai.
+
+	Vị sai trớn dọc theo vị sai tuyến cùng Burgers vectơ chỗ tạo thành mặt phẳng vận động, vị sai trèo dời do vị sai biên giới nửa nguyên tử mặt phẳng làm bành trướng hoặc co vào đến thực hiện.
+
+	Thuận cái này mạch suy nghĩ tiến hành phát tán, căn cứ vào hai chiều tinh cách oFC mô hình tại 0a1 ╱ 4 tình huống dưới động lực học, Thẩm Kỳ bản năng làm ra một cái toán học tính toán.
+
+	Tính toán căn cứ đến từ có Dirichlet biên giới điều kiện định thường Navier-Stokes phương trình.
+
+	Trước mắt chỉ có thể giả định N-S phương trình thành lập, trên trăm năm đến, các nhà khoa học đều là giả định N-S phương trình thành lập, cho ra đại lượng lý luận thành quả nghiên cứu, cũng vận dụng đến trong thực tế.
+
+	Nếu như N-S phương trình không thành lập, như vậy máy bay có thể nào bay lượn bầu trời?
+
+	N-S phương trình tại trong thiên nhiên rộng lớn thời khắc diễn dịch, chỉ bất quá mọi người không cách nào cầu được nó toán học giải.
+
+	Thẩm Kỳ tư duy một mực tại nhảy vọt, từ chất bán dẫn chiếu sáng bên trong lam quang phát sáng bóng hai cực hạch tâm tài liệu nitơ hóa gia, nhảy vọt đến N-S phương trình.
+
+	Hai loại nhìn như không liên hệ chút nào tồn tại, tại Vật lý vật chất ngưng tụ tính chất phức tạp nguyên lý xen kẽ dưới, ma sát, ma sát.
+
+	Bởi vì không liên hệ chút nào, cho nên lượng tính toán cực kỳ to lớn.
+
+	Thẩm Kỳ tính toán đến đêm khuya, quên đi ăn cơm, quên đi về nhà.
+
+	Vườn không nhà trống Âu Diệp gọi tới một cú điện thoại: "Mấy điểm về nhà?"
+
+	"A, về nhà, 12 giờ." Thẩm Kỳ ôm một đống bản nháp giấy, trở lại giáo chức công túc xá.
+
+	"Bề bộn nhiều việc đâu?" Âu Diệp đem 7 điểm liền nấu tốt canh gà hâm nóng, đặt tại bàn ăn bên trên.
+
+	"Ta trước uống canh, ngươi giúp ta tính một tổ số liệu, không cần biết tiền căn hậu quả, thông qua thấp thứ cấp bậc có hạn nguyên phương pháp, đem cái này phương trình giải ra liền oK." Thẩm Kỳ bàn giao cho Âu Diệp một cái tính toán nhiệm vụ, hắn uống lên canh gà, mùi vị không tệ, chính là muối đặt nhiều.
+
+	"Đây là. . . Dirichlet biên giới điều kiện, N-S phương trình?" Âu Diệp sách học khoa lúc học qua toán học vật lý phương pháp, thi 99 điểm, còn lại một phần không cho, là bởi vì cái kia toán học vật lý phương pháp nữ lão sư nói Âu Diệp dài quá đẹp.
+
+	"Toán học vật lý phương pháp quên sạch không có?" Thẩm Kỳ cười hỏi.
+
+	"Xem nhẹ ta?" Âu Diệp trợn nhìn Thẩm Kỳ một chút, thời thiếu nữ máy tính toán tâm hừng hực thiêu đốt.
+
+	Vẻn vẹn một bát canh gà thời gian, Âu Diệp tại không biết chân tướng tình huống dưới, thông qua thuần túy toán học phương pháp tính toán, làm ra hiệu suất cao nhất tính toán.
+
+	"Lợi hại diệp của ta, nước ấm trảm N-S." Thẩm Kỳ duyệt lại một lần kết quả tính toán.
+
+	Cái này kết quả tính toán để Thẩm Kỳ, Âu Diệp cũng có chút không nghĩ ra.
+
+	υ1(x1, x2)=(x1δ(i+j)+x2γ(i-j-1))(x1δ(i+j+1)^2+x2γ(i+j-1)^2). . .
+
+	υ2(x1, x2)=(x1δ(i+k)+x2γ(i-k+1))(x1δ(i+k-1)^2+x2γ(i-k+1)^2). . .
+
+	. . .
+
+	"Ta không biết nhóm này kết quả tính toán đại biểu cho cái gì, có gì cụ thể ý nghĩa? Vẻn vẹn từ toán học tính toán trên nguyên lý tới nói, bọn chúng là chính xác kết quả." Thẩm Kỳ chỉ có thể giải thích như vậy, hắn lắc đầu: "Ta sáng nay đi Witten nơi đó, đạt được một chút gợi mở, sau đó minh tư khổ tưởng cả ngày, cái gì tinh thể thiếu hụt a, động lực học a, N-S phương trình a, tư duy nhảy vọt đến bay lên, từ high đến không được, liền phải ra như thế cái không có ý nghĩa toán học kết quả."
+
+	"Cũng không phải là mỗi một số lượng học kết quả tính toán, đều có ý nghĩa thực tế." Âu Diệp nói đến.
+
+	"Nha a, giác ngộ dần dần cao a tiểu Diệp tử." Thẩm Kỳ mở ti vi, chuẩn bị phải xem tivi đi ngủ.
+
+	CNN ngay tại thông báo một đầu tin tức tin tức: "Hôm qua San Diego tây nam bộ Thái Bình Dương đáy biển phát sinh bên trong thị 6. 0 cấp địa chấn, địa chấn đưa tới biển động tập kích San Diego, may mà chưa tạo thành nhân viên thương vong."
+
+	Thẩm Kỳ một cái giật mình nhảy dựng lên, ma sát, ma sát!
+
+	Địa chấn là Địa cầu nội bộ ma sát.
+
+	Trong màn hình TV biểu hiện, tâm địa chấn ở vào Thái Bình Dương đáy biển, tọa độ là vĩ độ Bắc 32 độ 3 0 điểm, kinh tuyến Tây 117 độ 19 phân. 

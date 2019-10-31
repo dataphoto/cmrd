@@ -1,0 +1,99 @@
+ 622 chương nữ thần tới
+
+	So với trung nhị (chuunibyou) khí tức tràn đầy Thẩm Kỳ lượng tử xã, Âu Diệp máy tính xã muốn đứng đắn rất nhiều.
+
+	Căn cứ Yến đại xã đoàn quản lý điều lệ, trong trường mỗi một cái xã đoàn chí ít cần một vị chỉ đạo lão sư.
+
+	Âu Diệp máy tính xã chỉ đạo lão sư là Âu Diệp, đại bộ phận xã đoàn kinh phí hoạt động là Âu Diệp cho.
+
+	Nghe vào là cái máy tính xã đoàn, trên thực tế Âu Diệp máy tính xã bộ chỉ huy thiết lập ở viện toán học.
+
+	Viện toán học lầu một cuối hành lang một gian phòng ốc trên cửa chính treo "Âu Diệp máy tính xã" chiêu bài, trong phòng một cái tiểu hỏa tử đang cùng một vị đại cô nương chơi bài.
+
+	"Diệp tử tỷ lại cho chúng ta xã hai vạn khối tiền, nàng năm nay hết thảy cho tám vạn." Tiểu hỏa tử gọi Triệu Thiên, là Âu Diệp máy tính xã xã trưởng.
+
+	"Thẩm giáo sư hữu nghị tài trợ hai ngàn, cho nên a, nhà bọn hắn khẳng định là diệp tử tỷ nắm giữ quyền lực tài chính." Đại cô nương làm cái "Ta còn muốn" thủ thế, ra hiệu lại muốn một tấm bài. .
+
+	"Tiểu Vân, ngươi cũng 20 điểm, còn muốn?" Triệu Thiên nói xong lại cho Tiểu Vân phát lá bài
+
+	Lá bài này là A cơ, Tiểu Vân lấy được 21 điểm.
+
+	"21 điểm chính là cái không phải tuyến tính tổ hợp trò chơi, diệp tử tỷ nói qua." Tiểu Vân nở nụ cười xinh đẹp, lại nói: "Học trưởng, chúng ta phải cố gắng a, Thẩm Kỳ toán học xã người lại ôm đồm sinh viên toán học thi đua, xây mô hình thi đua ba hạng đầu. Thẩm giáo sư phi thường vui vẻ, hắn xuất ra 5 vạn khối ban thưởng Thẩm Kỳ toán học xã, còn giúp Thẩm Kỳ toán học xã người viết thư đề cử đi Princeton đào tạo sâu đâu."
+
+	"Tiểu Vân, ngươi tuyệt đối không nên dao động a, chúng ta sinh là diệp tử tỷ người, chết là diệp tử tỷ quỷ." Triệu Thiên cho mình lật ra lá bài, 7 điểm, hắn thanh này cũng lấy được 21 điểm: "Sinh viên toán học thi đua, xây mô hình thi đua không tính là gì, Thẩm giáo sư không giúp chúng ta viết thư đề cử, diệp tử tỷ nhất định sẽ giúp. Ngươi Hong Kong giấy thông hành làm sao?"
+
+	"Làm." Tiểu Vân gật đầu nói.
+
+	"Tốt, theo kế hoạch thúc đẩy." Triệu Thiên một lần nữa tẩy bài, tiếp tục cùng Tiểu Vân thao luyện bài poker.
+
+	Trong gian phòng này hết thảy có ba người, một vị khác nam sinh vẫn đứng tại trước tấm bảng đen trầm mặc không nói, tựa như một gốc thực vật.
+
+	Triệu Thiên nhìn về phía vị này nam sinh: "Tằng Hàn, ngươi theo chúng ta cùng đi sao?"
+
+	Tằng Hàn lạnh lùng nói: "Muốn tìm cái chết, liền đi sòng bạc. Các ngươi muốn chết, ta không muốn."
+
+	"Tằng Hàn ngươi biết, chúng ta đi Ma Cao không màng tiền, chỉ là vì nghiên cứu toán học vấn đề." Triệu Thiên đau khổ khuyên bảo, vị này Tằng Hàn niên đệ là số lượng học thiên tài.
+
+	Tằng Hàn nhìn không chuyển mắt nhìn chằm chằm bảng đen, nói đến: "Các ngươi cứ việc đi chịu chết, hàng năm thanh minh, ta sẽ cùng các ngươi đốt vàng mã."
+
+	"Ha ha, tên tiểu tử thối nhà ngươi!" Triệu Thiên vứt xuống trong tay bài poker, đi vào Tằng Hàn bên người, quan sát Tằng Hàn tại trên bảng đen tác phẩm.
+
+	Đầu tiên là một cái góc vuông hình tam giác, nó bên cạnh dài là 3, 4,5.
+
+	Rất dễ dàng đạt được cái này hình tam giác diện tích là 1 ╱ 2 nhân với ngọn nguồn nhân với cao =6.
+
+	Đây thật ra là Pythagoras góc vuông hình tam giác, cái này cũng dính đến một cái cổ lão toán học vấn đề: Đứng yên một cái số tự nhiên d, có tồn tại hay không một cái bên cạnh dài là số hữu tỷ mà diện tích đúng lúc là d góc vuông hình tam giác?
+
+	Vận dụng cao trung toán học tri thức có thể chứng minh, tồn tại một cái bên cạnh dài vì số hữu tỷ mà diện tích là d góc vuông hình tam giác nạp muốn điều kiện là, phương trình y2=x3-d2x đối x cùng y0 số hữu tỷ giải.
+
+	Vận dụng đại học toán học tri thức làm tiến thêm một bước giải đọc, làm lại vẻn vẹn làm d là một cái bên cạnh dài vì số hữu tỷ góc vuông hình tam giác diện tích lúc, cái này phương trình đối x cùng y tồn tại số hữu tỷ giải. Cái này phương trình phân biệt thức =-16[4(-d2)3]=64d6, nó không phải là 0, cho nên cái này phương trình hình ảnh là một đầu đường cong elliptic.
+
+	Đem cao trung toán học tri thức cùng đại học toán học tri thức liên hệ tới, tức tìm ra nào số nguyên d có thể trở thành bên cạnh dài vì số hữu tỷ góc vuông hình tam giác diện tích, đồng giá tại tại một loại nào đó đường cong elliptic bên trên tìm kiếm có lý điểm vấn đề.
+
+	Đây chính là nước Anh học giả Birch, này ấm Naton - Dale truy cứu cả đời muốn giải quyết vấn đề, học thuật giới gọi là BSD phỏng đoán.
+
+	"Tằng Hàn đệ đệ, ta mười phần ủng hộ ngươi nghiên cứu BSD phỏng đoán, kỳ thật ta cùng Tiểu Vân cũng đúng BSD phỏng đoán cảm thấy rất hứng thú." Triệu Thiên trong không khí họa hình ê-líp, hắn đọc đại học năm 4, đã nghiên cứu bảo mật Yến đại viện toán học. Dù sao đã nghiên cứu bảo mật, Triệu Thiên có sung túc thời gian tổ chức khai triển Âu Diệp máy tính xã xã đoàn hoạt động.
+
+	"Nha." Tằng Hàn không lộ vẻ gì hừ một tiếng.
+
+	Học Đại Học năm 3 Tiểu Vân tiến đến Tằng Hàn bên người, nói đến: "Tằng Hàn đệ đệ luôn luôn nghiêm túc như vậy, cười một cái nha."
+
+	Tằng Hàn khóe miệng có chút bỗng nhúc nhích: "A."
+
+	"Đẹp trai như vậy tiểu tử, lại là cái mặt đơ, ai." Tiểu Vân thở dài, nàng nhìn xem đầy bảng đen toán học ký hiệu, nói đến: "BSD phỏng đoán bị phân loại làm số luận, nhưng nó kỳ thật dính tới không ít cái khác toán học chi nhánh, chúng ta đều biết đã chứng minh đường cong elliptic có vô cùng nhiều cái có lý điểm nạp muốn điều kiện là L(e, 1)=0, tức đã chứng minh BSD phỏng đoán. Nhưng mà cái này thật thật là khó đâu."
+
+	Nói nói, Tiểu Vân cầm bảng đen lau lau đi nửa khối bảng đen, sau đó tại trên bảng đen viết ra một cái cứng nhắc phong cách Q, đại biểu số hữu tỷ tập.
+
+	Tiểu Vân càng viết càng nhiều, nàng vừa viết vừa nói: "e(Q) là một cái Arl bối nhóm, năm 1922, Model chứng minh nhóm e(Q) là có hạn tạo ra, sáu mươi mấy năm về sau, Faltings lại đã chứng minh Model phỏng đoán, tiếp qua mấy năm, Wales đã chứng minh Fermat đại định lý. . . Đem những này toán học sử xâu chuỗi lên tới, chúng ta có thể phát hiện, toàn cục đám học giả giải quyết số luận vấn đề phương thức thường thường không phải số luận thủ đoạn, chỉ có một người ngoại lệ, Thẩm giáo sư."
+
+	Triệu Thiên: "Uy, Tiểu Vân, ngươi lại xách Thẩm giáo sư làm cái gì? Thẩm giáo sư không yêu chúng ta, yêu chúng ta chính là diệp tử tỷ."
+
+	Tiểu Vân lộ ra hoa si cười ngây ngô: "Bởi vì Thẩm giáo sư lớn lên đẹp trai nha."
+
+	"Đừng ngắt lời." Tằng Hàn bất mãn nói với Triệu Thiên, lại nói: "Học tỷ, ta đồng ý quan điểm của ngươi, chứng minh BSD phỏng đoán khẳng định phải dùng đến đường cong elliptic, nhóm luận thủ đoạn, diệp tử tỷ cũng đã nói như vậy. Hiện tại vấn đề lớn nhất là, trật như thế nào tính toán hoặc là trật phải chăng có thể tùy ý lớn? Ta nghĩ chúng ta hẳn là ở phương diện này tìm tới manh mối."
+
+	"Ân, đúng vậy đâu, nhưng là thật là khó nha." Tiểu Vân nghiêng đầu lâm vào trầm tư.
+
+	Ba cái sinh viên chưa tốt nghiệp chững chạc đàng hoàng nghiên cứu như thế nào chứng minh BSD phỏng đoán, cái này tựa hồ có chút không biết tự lượng sức mình.
+
+	BSD phỏng đoán, toán học ngàn năm nan đề một trong, nếu như bị mấy cái Yến đại viện toán học sinh viên chưa tốt nghiệp làm xong, thì còn đến đâu?
+
+	Két.
+
+	Cửa mở, tiến đến một người, nàng mỹ lệ mà thông minh, đa trí lại bác học, thiện lương cũng khẳng khái, là một đứa bé mẫu thân.
+
+	"Diệp tử tỷ tốt!"
+
+	Ba cái học sinh lập tức đứng thẳng, bọn hắn xã đoàn nữ thần tới.
+
+	"Các ngươi tốt nha." Âu Diệp mỉm cười nói, nàng nói với Triệu Thiên: "Tiểu Triệu, chúng ta xã đoàn có người muốn đi Colombia đại học trao đổi một năm sao? Có một cái danh ngạch."
+
+	Triệu Thiên: "Đó là đương nhiên có a, ta chờ một lúc liền đi thống kê một chút."
+
+	Âu Diệp thạc sĩ là tại Đại học Columbia đọc, sau đó đi đến Princeton học tiến sĩ.
+
+	Thẩm Kỳ tại Princeton biểu hiện quá mức loá mắt, trình độ nào đó cũng có thể Âu Diệp tại Princeton học tiến sĩ lúc ở vào hắn quang hoàn phía dưới, cho nên che giấu Âu Diệp tự thân quang mang.
+
+	Nhưng Âu Diệp tại Đại học Columbia vẫn là rất có danh tiếng, Đại học Columbia cũng nể mặt nàng.
+
+	"Được rồi, vất vả." Âu Diệp nói đến, nàng quét mắt bảng đen, có chút ngoài ý muốn: "A? Các ngươi đang nghiên cứu BSD phỏng đoán?" 

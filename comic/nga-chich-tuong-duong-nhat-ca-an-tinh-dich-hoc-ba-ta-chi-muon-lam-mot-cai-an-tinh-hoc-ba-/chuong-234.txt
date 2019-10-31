@@ -1,0 +1,129 @@
+ 234 chương giữa thiên địa duy toán học nhất huyền
+
+	"Ở chỗ này, ta thiết a, b, a1, b1 vì Q(√-D) bên trong đại số số nguyên, đem phương trình 16 hóa thành nhất tộc Thue phương trình, đến tận đây, kết luận hướng tới sáng tỏ."
+
+	"Trên thực tế ta tại Yến đại đọc sách trong lúc đó, liền đã suy luận đến một bước này đột nhiên, nhưng mà còn kém lâm môn một cước hoàn thành sút gôn. Mang theo nỗi tiếc nuối này, ta đi đến Princeton du học."
+
+	"Toán học loại chuyện này a, có lúc cũng cần một chút xíu cơ duyên xảo hợp."
+
+	"Tại Princeton cái nào đó bình tĩnh ban đêm, ta đột nhiên ngộ ra một cái đạo lý, mọi người mời xem một trang cuối cùng. . ."
+
+	Thẩm Kỳ trôi chảy báo cáo đến một trang cuối cùng, chuẩn bị kết thúc công việc.
+
+	Đúng lúc này, phòng họp đại môn bị nhẹ nhàng đẩy ra, tiến đến một vị lão giả.
+
+	"Ngô lão!" Tôn Nhị Hùng thân thể lắc một cái.
+
+	"Ngô lão!" Tô giáo sư trong mắt tỏa ánh sáng.
+
+	"Ngô lão!" Diêm giáo sư lộ ra tôn kính thần sắc.
+
+	"Ngô. . . Ngô lão?" Chu Vũ An cảm thấy vị lão giả này cực kỳ quen mặt, lại nhất thời gọi không ra tên.
+
+	"Ngô. . . Ngô lão." Thẩm Kỳ nhận ra vị lão giả này, hắn có chút ngoài ý muốn, lại như cũ bảo trì bình thường ngữ tốc hoàn thành báo cáo: "Ta lệnh =K(±B1q-pA1)0, do suy luận 2.1 có biết, Walsh phỏng đoán là thành lập."
+
+	Ngô lão đến hấp dẫn toàn trường tất cả chuyên gia học giả lực chú ý, Ngô lão trước mắt tọa trấn Trung Khoa viện toán học sở nghiên cứu, là Trung Khoa viện viện sĩ, số luận lĩnh vực nhất quyền uy chuyên gia.
+
+	Đại lão giá lâm, để Thẩm Kỳ cảm thấy trận này hội nghiện cứu và thảo luận mở có như vậy một chút ý tứ, mặc dù Ngô viện sĩ chỉ nghe được Thẩm Kỳ trong báo cáo câu nói sau cùng.
+
+	Ngô viện sĩ tùy ý tìm cái ghế dựa ngồi xuống, gõ bàn một cái nói đến: "Đều nhìn ta làm gì? Thẩm Kỳ là nhân vật chính, ta là tới dự thính."
+
+	"Ngô lão, ta đã báo cáo xong." Thẩm Kỳ có chút tiếc nuối nói đến.
+
+	Có thể cùng viện sĩ giao lưu học thuật vấn đề là rất vinh hạnh sự tình, đáng tiếc, Ngô viện sĩ đến chậm, để Thẩm Kỳ cảm thấy tiếc hận.
+
+	"Báo cáo xong? Kia tiến vào đặt câu hỏi khâu đi." Ngô lão nhìn quanh hội trường một tuần, đối ở đây chuyên gia học giả nói đến: "Thẩm Kỳ là nhân vật chính, các ngươi cũng là nhân vật chính, Trung Quốc toán học tiến bộ cần mọi người cộng đồng cố gắng. Ta hôm nay chỉ là dự thính, không phát biểu, các ngươi tiếp tục, làm ta không tồn tại."
+
+	Ngài thế nhưng là viện sĩ a, cũng không phải không khí, ngài nghĩ không tồn tại liền không tồn tại?
+
+	Không tồn tại.
+
+	Hội trường khai thác tự do thảo luận hình thức, không thiết chuyên trách người chủ trì, báo cáo người thì tương đương với người chủ trì.
+
+	Thẩm Kỳ sung làm lên người chủ trì chức, hắn mặt hướng toàn thể tham dự hội nghị giả thuyết đến: "Liên quan tới Walsh phỏng đoán chứng minh báo cáo đến đây là kết thúc, phía dưới mời các vị chuyên gia đặt câu hỏi."
+
+	Diêm giáo sư dẫn đầu đặt câu hỏi: "Thẩm Kỳ, xin trở lại thứ 22 trang, ta cho rằng phương trình 16 hóa thành nhất tộc Thue phương trình, ngươi xử lý phương pháp phải chăng có thể càng ngắn gọn một chút? Tỉ như tìm tới một cái thỏa mãn này tính chất nhỏ nhất số?"
+
+	Đến giai đoạn này, có người ý đồ hoàn toàn lật đổ Thẩm Kỳ kết luận, cơ hồ là không thể nào.
+
+	Lật đổ Thẩm Kỳ, chẳng khác nào đánh Trung Hoa hội toán học mặt, đánh uy chấn Trung Hoa Yến đại học phái mặt.
+
+	Trung Hoa hội toán học vừa đem Trần Tỉnh Thân toán học thưởng ban Thẩm Kỳ, ngươi liền lật đổ Thẩm Kỳ trọng yếu nhất một cái cống hiến, làm gì đâu ngươi? Cùng toàn Trung Quốc là địch?
+
+	Đương nhiên, cũng không có người có thực lực lật đổ Thẩm Kỳ liên quan tới Walsh phỏng đoán chứng minh.
+
+	Tứ đại tập san một trong  « tạp chí toán học Mỹ » đã công nhận Thẩm Kỳ luận văn, Princeton hơn mười vị Fields thưởng, Giải thưởng Wolf , Abel thưởng người đoạt giải thông qua được Thẩm Kỳ chứng minh.
+
+	Ai có thực lực này cùng toàn thế giới là địch?
+
+	Trừ phi hắn là Thượng Đế.
+
+	Diêm giáo sư hiển nhiên không phải Thượng Đế, hắn cũng biết Thẩm Kỳ liên quan tới Walsh phỏng đoán toàn cục chứng minh là chính xác.
+
+	Đánh mặt, vậy cũng chỉ có thể tại cục bộ chi tiết đánh mặt, đưa ra một chút cục bộ còn chờ cải tiến xử lý phương pháp, sẽ không ảnh hưởng chỉnh thể kết luận.
+
+	Diêm giáo sư khổ tâm nghiên cứu Walsh phỏng đoán tám năm, hắn hi vọng có thể tại cục bộ chi tiết uốn nắn Thẩm Kỳ một chút không hợp lý luận thuật.
+
+	Lại là ngươi, Diêm giáo sư. Thẩm Kỳ trong lòng có chút phiền, ta nhận tội ngươi chọc giận ngươi rồi? Ta mẹ nó trước đó căn bản không biết ngươi a!
+
+	Cầm cái Trung Quốc trong nước thưởng mà thôi, cũng không phải Fields thưởng, có cần phải xoắn xuýt tại chi tiết sao? Chọc xương cốt a, ngươi là trứng gà bên trong chọc xương cốt.
+
+	Đại sư phong độ, đại sư phong độ.
+
+	Thẩm Kỳ khắc chế nội tâm khó chịu cảm xúc, cười nói: "oK, cảm tạ Diêm giáo sư đề nghị, như vậy ta để giải thích một chút. . ."
+
+	"Không cần giải thích." Bỗng nhiên, Ngô viện sĩ lên tiếng.
+
+	Toàn trường lực chú ý lần nữa chuyển dời đến Ngô viện sĩ trên thân, ngài không phải chỉ dự thính không phát biểu sao?
+
+	"Nhịn không được, ta thật sự là nhịn không được." Ngô viện sĩ cũng là tính tình bên trong người, hắn nhìn một chút Diêm giáo sư hàng hiệu, đối Diêm giáo sư nói đến: "Tiểu diêm, ngươi vấn đề này xách rất không có trình độ, nơi này là Trung Quốc nhà toán học đại hội, muốn đề cao hội nghị hiệu suất a tiểu diêm, mọi người thời gian đều phi thường quý giá. Tìm tới một cái thỏa mãn này tính chất nhỏ nhất số, lại có thể thế nào? Hồi hương đậu hồi chữ, loại thứ ba cách viết có ý nghĩa sao? Làm toán học người đừng như thế hư, có thể hay không nói chút thật ở?"
+
+	"Ta. . ." Diêm giáo sư mặt lúc xanh lúc trắng, không phản bác được.
+
+	"Ha ha." Tôn Nhị Hùng vụng trộm vui, tiểu tử ngươi kinh ngạc đi, muốn đánh Thẩm Kỳ mặt, kết quả viện sĩ giúp Thẩm Kỳ ra mặt phản đánh ngươi mặt.
+
+	Được rồi, ta lão Tôn vẫn là xem kịch đi, xem ra không cần phải ta xuất thủ, Thẩm Kỳ tự có quý nhân tương trợ.
+
+	"Tiểu diêm, ngươi vấn đề này xách rất không có trình độ a" loại lời này, cũng chỉ có Ngô viện sĩ dám giảng, dù sao người ta Diêm giáo sư là đường đường chính giáo thụ, cùng Tôn Nhị Hùng một cái cấp bậc.
+
+	"Được rồi, được rồi, các ngươi đều đừng đề cập hỏi, ta đến hỏi đi, ta liền hỏi một vấn đề, hỏi xong tan họp, tiết kiệm thời gian." Ngô viện sĩ đứng lên, mặc dù đã đủ đầu tóc bạc, lại là càng già càng dẻo dai.
+
+	Ngô viện sĩ, ngươi quả nhiên vẫn là xuất thủ!
+
+	Thẩm Kỳ kích động, có thể trực diện toàn Trung Quốc nhất quyền uy số luận chuyên gia, loại cơ hội này không phải thường xuyên có thể gặp phải, hơn nữa còn là tại Trung Quốc nhà toán học đại hội loại này cả nước tính chất chính thức trong hội nghị.
+
+	Diêm giáo sư vấn đề, Thẩm Kỳ thật sự là lười đi trả lời, nhưng không có cách, hình thức hay là muốn đi.
+
+	Ngô viện sĩ, hắn chắc chắn sẽ không xách một chút rất Low vấn đề.
+
+	Thẩm Kỳ chuẩn bị xong, thậm chí còn có một chút điểm hơi khẩn trương.
+
+	Ngô viện sĩ đi đến phòng họp tiền phương, cầm lấy bút mực nước tại bảng trắng bên trên viết xuống một đống toán học ký hiệu, hắn dùng văn bản phương thức hướng Thẩm Kỳ đưa ra vấn đề:
+
+	r0&gt;1, 2∣fq∣(e^ 2.37ε2 ╱ 8)1, B^2t+A^2=(t+1)N1^8, f=∣A∣ ╱ ∣B∣ √t
+
+	Viết xong về sau, Ngô viện sĩ đối Thẩm Kỳ dùng tay làm dấu mời, từ đầu đến cuối chưa nói qua một chữ.
+
+	"Cái này. . . Ngô lão cái này viết cái gì? Cùng Walsh phỏng đoán tương quan?" Chu Vũ An mộng bức, hoàn toàn xem không hiểu, muốn ta cũng là học qua số luận người a, thế mà xem không hiểu?
+
+	"Đương nhiên." Tôn Nhị Hùng ngưng lông mày trầm tư, hắn tìm được một chút xíu manh mối, nhưng không dám hoàn toàn xác định.
+
+	"Có chút ý tứ." Xuất thân từ Yến đại Tô giáo sư nhìn ra một chút mánh khóe, cũng không dám vọng kết luận.
+
+	"Cho nên, đây là. . ." Diêm giáo sư run lên trong lòng, nếu như sớm mấy năm gặp phải Ngô viện sĩ, trước hết nhất hoàn thành Walsh phỏng đoán chứng minh người, khẳng định là ta à! Chỉ là, Ngô viện sĩ cho ra f=∣A∣ ╱ ∣B∣ √t, dụng ý đến tột cùng ở đâu?
+
+	Ánh mắt mọi người tập trung trên người Thẩm Kỳ, muốn nhìn một chút vị này trẻ tuổi nhất lấy được thưởng người ứng đối ra sao Ngô viện sĩ im ắng đặt câu hỏi.
+
+	Thẩm Kỳ trong lòng kinh hãi, cái này. . . Cái này. . . Đây cũng quá ly kỳ đi!
+
+	Tại vài ngày trước hư ảo tràng cảnh bên trong, Thẩm Kỳ tại trong đại não mô phỏng qua tràng cảnh này: Hư ảo ra "Trung Khoa viện toán học sở nghiên cứu sở trưởng", trong không khí viết ra một đống không có quy luật chút nào có thể nói toán học ký hiệu.
+
+	Mà giờ khắc này, tại trong hiện thực, Ngô viện sĩ tại bảng trắng bên trên viết ra một đống có quy luật có thể nói toán học ký hiệu.
+
+	Dứt bỏ sắp xếp tổ hợp trình tự không nói, hư ảo tràng cảnh cùng hiện thực tràng cảnh bên trong toán học ký hiệu, bọn chúng rất tương tự!
+
+	Thẩm Kỳ làm chính mình tỉnh táo lại, không có cách, cái này bức không chứa cũng phải lắp.
+
+	Toán học môn này ngành học học được cấp cao tầng cấp, có đôi khi khó mà dùng toán học bản thân để giải thích, nó thậm chí cùng huyền học dính vào một điểm bên cạnh.
+
+	Hoặc là nói, huyền học nguyên bản là toán học một bộ phận. 

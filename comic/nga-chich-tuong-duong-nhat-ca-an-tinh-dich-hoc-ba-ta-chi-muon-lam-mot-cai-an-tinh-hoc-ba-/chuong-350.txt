@@ -1,0 +1,89 @@
+ 350 chương chế tạo một chút khó khăn?
+
+	Thẩm Kỳ rất nhanh viết xong tối sầm tấm tư thế, hắn giảng giải đến: "Mặc kệ là đệ nhất loại vẫn là loại thứ hai lẫn nhau phản danh sách quan hệ, chúng ta đều có thể làm một cái cùng thức biến hóa, cân nhắc liên quan ma trận đối danh sách (f) tiến hành biến hóa, thì thay vào f(n) biểu thị thức cũng trao đổi cầu hoà thứ tự. . ."
+
+	". . . Trải qua một chút đơn giản hoá, lợi dụng đệ nhất loại lẫn nhau phản danh sách quan hệ nhưng phải g(k)=(a;q)k ╱ (b;q)k(b ╱ qa)k, nói cách khác, loại này tình huống đặc biệt tương tự thích hợp với loại thứ hai lẫn nhau phản danh sách quan hệ, cho nên loại thứ hai lẫn nhau phản danh sách quan hệ thành lập."
+
+	"Mọi người có hay không nghi vấn?" Thẩm Kỳ mặt hướng dưới đài hỏi.
+
+	"Lợi hại." Tiểu Đào không phục không được, hắn đối cái này chuỗi vô tận đầu đề quen thuộc nhất, hắn hoàn toàn phục.
+
+	Hôm nay là Thẩm Kỳ lần thứ nhất nhìn thấy cái này đầu đề, hắn lập tức nghĩ ra một loại mới phương pháp giải quyết, đồng thời từ đoán tự chứng minh loại thứ hai lẫn nhau phản danh sách quan hệ.
+
+	Thẩm Kỳ hắn còn nhỏ hơn ta mấy tuổi, cái này thao tác, siêu thần. . . Tiểu Đào một điểm liền thông, bối rối hắn hơn một năm nan đề bị Thẩm Kỳ tại chỗ giải quyết.
+
+	"Loại thứ hai lẫn nhau phản danh sách quan hệ là thành lập, cho nên lệnh a cùng b lấy đặc thù giá trị, chúng ta rất dễ dàng đạt được hai cái cơ bản siêu dãy số nhân biến hóa công thức!" Tiểu Đào cao giọng nói đến, hiểu ra.
+
+	"Thì ra là thế." Ngô chủ nhiệm sờ lên cái cằm, thở dài một hơi, cái vấn đề khó khăn này cuối cùng làm xong.
+
+	Ngô chủ nhiệm tha thiết nói đến: "Thẩm giáo sư tất nhiên tới, nếu không tại trong chúng ta ở lâu mấy ngày, chúng ta còn có không ít vấn đề muốn thỉnh giáo ngươi."
+
+	Thẩm Kỳ gật gật đầu: "Tỷ thí với nhau đi."
+
+	Sau đó mấy ngày, Thẩm tại khách sạn cùng Thần Hưng toán học trung tâm ở giữa đi tới đi lui.
+
+	Ngô chủ nhiệm cùng các nghiên cứu viên học thuật nhiệt tình tăng vọt, bọn hắn theo đầu đề tính chất chia một số tiểu tổ, thay nhau ra trận, hướng Thẩm Kỳ lĩnh giáo.
+
+	"Chu công, ngươi tốt nghiệp tiến sĩ sau vì cái gì không ở lại hồ đại, hoặc là đi cái khác đại học mưu công việc, mà muốn tới trung tâm làm nghiên cứu viên?" Thẩm Kỳ giải quyết vấn đề quá trình bên trong cũng sẽ cùng các nghiên cứu viên nói chuyện phiếm, tăng tiến giữa lẫn nhau hiểu rõ.
+
+	Chu công nói đến: "Trong trường học đấu tranh nhiều, nháo tâm. Kỳ thật ta tại trường trung học làm qua hai năm, phiền muốn chết, lúc ấy trung tâm vừa vặn chiêu nghiên cứu viên, ta dứt khoát từ trường trung học bên trong công việc, tới đây đồ cái thanh tĩnh. Trung tâm học thuật không khí so sánh tinh khiết, tính cả Ngô chủ nhiệm, chuyên trách xử lí một tuyến toán học nghiên cứu liền chúng ta hai mươi mấy khẩu súng, một người phân công quản lý một khối lĩnh vực, đều phân không hết đâu. Nếu như không cần cướp tới cướp đi, liền sẽ không có đấu tranh."
+
+	"Không sai, ngươi nhất châm kiến huyết nói đến bản chất vấn đề." Thẩm Kỳ phi thường lý giải Chu công không tranh quyền thế tâm thái, có lợi ích tranh đoạt địa phương tất nhiên tồn tại cạnh tranh thậm chí đấu tranh, có người lựa chọn quyết đoán giết ra một đường máu, có người nhượng bộ lui binh hái cúc đông dưới rào, người có chí riêng đi.
+
+	"Thẩm giáo sư, ta là nghiên cứu topol tuyến tính không gian, ngươi giúp ta nhìn xem cái này đầu đề. . ."
+
+	"Dễ nói dễ nói, như vậy như vậy, như vậy như vậy. . ."
+
+	"Đại sư, quả nhiên là đại sư, nghe Thẩm giáo sư một lời nói, hơn hẳn đọc sách mười năm!" Chu công được ích lợi không nhỏ.
+
+	"Tần công, ngươi cũng liền lớn hơn ta mấy tuổi, đều có hai đứa bé, lợi hại lợi hại!" Thẩm Kỳ lại quen biết một vị họ Tần nghiên cứu viên.
+
+	"Ta đi, là cái rất vô vị người, ngoại trừ toán học chính là mang em bé." Tần công ba mươi tuổi ra mặt niên kỷ, tóc mỏng manh, tướng mạo đôn hậu.
+
+	Thẩm Kỳ hỏi: "Trong nhà hai đứa bé, kinh tế áp lực không nhỏ a?"
+
+	Tần công cười cười, mỏi mệt lại khoái hoạt: "Nói không có áp lực là nói dối, hạnh phúc áp lực."
+
+	"Tần công, ngươi cái này đầu đề là xác suất luận lĩnh vực." Thẩm Kỳ đọc qua Tần công mang tới tư liệu.
+
+	"Vấn đề này bối rối ta rất nhiều năm, Bernoulli Luật số lớn, Chebyshev Luật số lớn, Tân Khâm Luật số lớn, cái này ba cái Luật số lớn theo cực hạn mô hình thiết lập, luôn luôn không hiểu được, có phải hay không ta không có nắm giữ khiếu môn?" Tần công khiêm tốn thỉnh giáo.
+
+	Thẩm Kỳ mặt thụ tuỳ cơ hành động: "Luật số lớn đặc biệt là Bernoulli Luật số lớn, ta ngược lại thật ra có chút tâm đắc, như vậy như vậy, như vậy như vậy. . ."
+
+	Tần công đầu tiên là chấn kinh, sau đó vỗ tay khen hay: "Diệu, diệu a! Thẩm giáo sư ngươi không phải phàm nhân!"
+
+	Thần Hưng toán học trung tâm các nghiên cứu viên thuộc về tương đối người đơn thuần nhóm, Thẩm Kỳ thật thích cùng bọn hắn liên hệ.
+
+	Trong vòng vài ngày, Thẩm Kỳ tại chuỗi vô tận, topol tuyến tính không gian, xác suất luận, điều hòa phân tích rất nhiều lĩnh vực thành thạo điêu luyện, khoảng cách vô cùng lớn.
+
+	Các nghiên cứu viên tự mình bình luận Thẩm Kỳ: "Thẩm Kỳ người này toán học trình độ cơ hồ vô địch, trăm năm vừa ra toàn năng hình nhà toán học!"
+
+	Một vấn đề cuối cùng do Ngô chủ nhiệm tự mình đưa ra: "Làm a, b, c vì thương toán học nâng cao lúc, có một vấn đề đến nay không bị giải quyết, liên quan tới cái này Diofantos phương trình chỉ có số tự nhiên giải x=y=z=2, Thẩm giáo sư, ngươi thấy thế nào vấn đề này?"
+
+	Cái này. . . Lão Ngô a lão Ngô, nguyên lai ngươi cũng đang nghiên cứu Yesmanovic phỏng đoán. . . Thẩm Kỳ ngưng lông mày trầm tư , có vẻ như bị làm khó.
+
+	Lão Ngô vấn đề này hỏi thật hay hỏi diệu, Yesmanovic phỏng đoán là Âu Diệp tiến sĩ đầu đề.
+
+	Ngô chủ nhiệm theo sát quốc tế toán học giới đứng đầu nghiên cứu phương hướng, nghiên cứu của hắn đầu đề cùng Princeton tiến sĩ sinh đầu đề xung đột nhau, vị này đại học Princeton ngành toán học tiến sĩ sinh chính là Thẩm Kỳ bạn gái.
+
+	Anh hùng sở kiến lược đồng, Thần Hưng toán học trung tâm mỗi năm thuê trứ danh toán học đại lão tới giảng bài, Ngô chủ nhiệm cùng các nghiên cứu viên có quốc tế tầm mắt, đáng giá khẳng định.
+
+	Đã chứng minh Riemann phỏng đoán, Goldbach phỏng đoán về sau, Thẩm Kỳ thật lâu không có chạm qua số luận, Yesmanovic phỏng đoán là số lượng luận vấn đề.
+
+	Cho dù cùng Âu Diệp ở chung, Thẩm Kỳ cũng không có ở Yesmanovic phỏng đoán bên trên chỉ đạo qua Âu Diệp cụ thể kỹ thuật chi tiết, hắn vẻn vẹn biết Âu Diệp đang nghiên cứu Yesmanovic phỏng đoán.
+
+	Thẩm Kỳ nếu như bật hết hỏa lực, hắn muốn chứng minh Yesmanovic phỏng đoán cũng không khó, cho đại học Princeton tiến sĩ sinh bạn gái hoặc là Thần Hưng toán học trung tâm chủ nhiệm một chút xíu nhắc nhở, cũng là có thể làm được.
+
+	"Khó, khó a." Thẩm Kỳ lộ vẻ xoắn xuýt, kiếm các ngươi cái này 200 vạn thật không dễ dàng, ta muốn đem bạn gái bán, nàng có thể sẽ một bệnh không nổi.
+
+	Ngô chủ nhiệm biết Yesmanovic phỏng đoán có không ít số luận đoàn đội đang nghiên cứu, nhưng hắn cũng không hiểu rõ Thẩm Kỳ bạn gái là một cái trong số đó.
+
+	"Nhưng thật ra là chúng ta không đúng, Thẩm giáo sư mấy ngày nay quá cực khổ, là người liền sẽ mệt mỏi, sẽ mỏi mệt, chúng ta hai mươi mấy người mỗi ngày tìm ngươi hỏi vấn đề, tiêu hao ngươi linh cảm, là chúng ta không đúng, hết sức xin lỗi. Thẩm giáo sư, ta không có vấn đề, Yesmanovic đoán tạm thời gác lại đi." Ngô chủ nhiệm là cái người thành thật, mềm lòng.
+
+	Lý giải vạn tuế, Thẩm Kỳ nói đến: "Ta là người không phải thần, ta cũng có nhược điểm, Yesmanovic phỏng đoán ta là thật không giải quyết được, mời Ngô chủ nhiệm thứ lỗi. Ngoại trừ Yesmanovic phỏng đoán, ta có thể giúp chúng ta trung tâm giải quyết cái khác bất kỳ một vấn đề gì."
+
+	Ngô chủ nhiệm mặt lộ vẻ khó xử: "Nhưng chúng ta tạm thời không có vấn đề, cái này giải quyết đều bị ngươi giải quyết xong. . . Ngoại trừ Yesmanovic phỏng đoán."
+
+	Thẩm Kỳ lẫm nhiên nói: "Có khó khăn muốn lên, không có khó khăn chế tạo khó khăn cũng phải lên!"
+
+	Ngô chủ nhiệm cả gan hỏi: "Kia. . . Vậy chúng ta chế tạo một chút khó khăn?" 

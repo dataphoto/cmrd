@@ -1,0 +1,143 @@
+ Chín chương học tập khiến người khoái hoạt
+
+	Một trận bóng rổ để Thẩm Kỳ, Từ Duệ hòa hảo như lúc ban đầu, hai người ở trường học phố hàng rong bên ngoài nâng ly ướp lạnh cocacola, thoải mái.
+
+	Trở lại phòng học về sau, Từ Duệ không còn tinh thần phấn chấn, chất mật haki biến mất không thấy gì nữa, thay vào đó là mặt ủ mày chau.
+
+	Thẩm Kỳ không có quên Trương Vạn Bang lưu cho hắn đề toán, còn kém ba đề chưa phá giải, cái này ba đề độ khó tiến một bước làm sâu sắc, cần tổng hợp vận dụng Frobenius hạng của ma trận khái niệm, Laplace định lý, Cramer pháp tắc, cùng Fourier cùng Poincaré đến tiếp sau nói lên suy luận, cái này dính đến vô hạn giai ma trận lý luận hệ thống.
+
+	Cao đại mặc dù trừu tượng, lại dù sao cũng là ngành toán học nhập môn chương trình học, dù cho không cách nào hoàn toàn lý giải những cái kia trừu tượng khái niệm, dựa vào học bằng cách nhớ cũng có thể miễn cưỡng đi theo sáo lộ đi.
+
+	Thẩm Kỳ rất cật lực đi theo sáo lộ đi, một mực làm đến tối 10 điểm, cuối cùng hoàn thành sau ba đề giải đáp.
+
+	Ngày kế tiếp buổi sáng, Thẩm Kỳ đi vào Trương Vạn Bang văn phòng, đem bài thi giấy giao cho Trương Vạn Bang.
+
+	"Xem ra ngươi gặp một chút chướng ngại." Trương Vạn Bang tiếp nhận bài thi giấy nhanh chóng xem, Thẩm Kỳ gặp được chướng ngại nằm trong dự liệu của hắn.
+
+	"Đúng vậy a Trương lão sư, tất nhiên ma trận là từ định thức diễn sinh mà đến, như vậy Quaternion đến cùng có cái gì quỷ dùng? Ta suy nghĩ một buổi tối đều không muốn minh bạch, kỳ thật sau ba đề ta là mù mờ."
+
+	"Ta là trước học ứng dụng toán học sau đó chuyển sư phạm, ta cũng là đến đại nhị mới nghĩ rõ ràng vấn đề này, Thẩm Kỳ ngươi về trước phòng học đi, giữa trưa lại tới tìm ta. Mặt khác ta nhất định phải nhắc nhở ngươi, không nên đem toàn bộ tinh lực đều đặt ở toán học bên trên, ngữ văn ngươi liền không học được? Tiếng Anh ngươi cũng không muốn rồi? Ta là ngươi số học lão sư, cũng là ngươi chủ nhiệm lớp, ta có thể rất có trách nhiệm nói cho ngươi, thi đại học sẽ không chỉ thi toán học một môn chương trình học."
+
+	"A a, biết."
+
+	Thẩm Kỳ trở lại phòng học, xuất ra  « cao đẳng đại số » tiếp tục nghiên cứu, ngữ văn khóa lại không nghe giảng.
+
+	"Trầm mê toán học ta không cách nào tự kềm chế, làm sao phá?"
+
+	Giữa trưa sau khi tan học, Thẩm Kỳ lần nữa đi vào Trương Vạn Bang văn phòng.
+
+	Trương Vạn Bang cho hắn hai tấm giấy, một tấm là hôm qua năm đạo đề phê duyệt, một cái khác tờ giấy trắng bên trên viết mới năm đạo đề.
+
+	Thẩm Kỳ ăn cơm trưa xong, bắt đầu nghiên cứu cái này hai phần đề mục.
+
+	Ngày hôm qua năm đạo đề, Trương Vạn Bang tiến hành phê duyệt, cũng tại bài thi giấy trống không chỗ lưu lại chú thích:
+
+	"Mặc dù mặt ngoài nhìn toán học bất quá là một loại ngôn ngữ hoặc công cụ, nhưng nó đại đa số sinh động khái niệm có thể đối mới tư tưởng lĩnh vực cung cấp chìa khoá."
+
+	"Mà hàng ngũ thức cùng ma trận thì hoàn toàn là toán học ngôn ngữ bên trên cải cách, Thẩm Kỳ ngươi nhất định phải khắc sâu nhận thức đến điểm ấy, mới có thể tại đại số bên trên có sở tác vì."
+
+	"Thứ ba đề, ngươi sai lầm hiểu được Frobenius đặc thù phương trình, nhớ kỹ, nhỏ nhất đa thức tức ma trận chỗ thỏa mãn số lần thấp nhất đa thức, có duy nhất tính."
+
+	"Thứ tư đề, f(λ)=(λ-λ1)^k1(λ-λ2)^k2. . . (λ-λi)^ki, ta không có tận mắt nhìn thấy ngươi giải đề quá trình, nhưng ta có thể nói rất khẳng định, ngươi tại cứng nhắc như ngươi làm tiêu chuẩn hình."
+
+	"Bất quá ngươi có thể cứng nhắc ra câu trả lời chính xác, chứng minh ngươi thật sự có tài, chí ít ngươi hiểu được tìm tòi sáo lộ, nhưng cái này sáo lộ không phải đơn giản nhất sáo lộ."
+
+	"Mà toán học ý nghĩa là dùng đơn giản nhất hiệu suất cao nhất phương thức, giải quyết phức tạp nhất vấn đề."
+
+	"Hiện tại ta cho ngươi biết như ngươi làm tiêu chuẩn hình đơn giản nhất sáo lộ, lệnh J=XXXX. . ."
+
+	. . .
+
+	Trương Vạn Bang tại bài thi trên giấy chú giải là hắn suốt đời sở học tinh hoa tinh luyện, hắn dùng có hạn độ dài thuyết minh hạch tâm nhất toán học tư tưởng cùng kỹ xảo, hắn tại chỉ điểm Thẩm Kỳ.
+
+	Sách giáo khoa bên trên không cách nào học được những này, chí ít không bằng Trương Vạn Bang chú giải như thế cụ thể, như thế tập trung, như thế có tính nhắm vào.
+
+	Thẩm Kỳ giây hiểu, bối rối hắn hơn một tuần lễ bình cảnh trong nháy mắt đột phá: "Thì ra là thế, thì ra là thế a! Trương lão sư viết tất cả đều là tinh hoa, được ích lợi không nhỏ!"
+
+	Hệ thống dần hiện ra một nhóm văn tự: "Túc chủ tại toán học chuyên nghiệp lĩnh vực đạt được cao nhân chỉ điểm,
+
+	Lĩnh ngộ mới chuyên nghiệp kỹ xảo, học bá điểm tích lũy +100."
+
+	"100 điểm! Cay a nhiều!" Thẩm Kỳ hưng phấn nhảy dựng lên, Trương lão sư ngươi là cao nhân a, ngươi dạy ta tri thức, giúp ta xoát học bá điểm tích lũy, thiên ngôn vạn ngữ quy nạp vì bốn chữ chính là: Sư ân như núi.
+
+	Thẩm Kỳ hấp thu tiêu hóa ngày hôm qua năm đạo đề, đem phần này "Mật quyển" đánh số là "Nội sam 1", cất giữ tiến trong túi xách.
+
+	Sau đó Thẩm Kỳ bắt đầu nghiên cứu "Nội sam 2", tức Trương Vạn Bang hôm nay ra 5 đạo đề.
+
+	Toán học cùng cái khác khoa học tự nhiên không giống, môn này ngành học không cách nào thông qua thí nghiệm thiết bị đến nghiệm chứng lý luận giả thiết.
+
+	Toán học thí nghiệm chủ yếu dựa vào não bổ, tại đầy đủ nhìn rõ lý giải các loại lý luận, khái niệm về sau, thông qua suy luận, chứng minh, giả thiết chờ phương thức tăng lên độ thuần thục.
+
+	Về sau hai tuần Thẩm Kỳ thường ngày là, mỗi sáng sớm cùng giữa trưa các đi Trương Vạn Bang văn phòng một lần, giao nhận "Nội sam" .
+
+	Đối với Thẩm Kỳ mà nói, Trương Vạn Bang có hai cái thân phận, tại trên lớp học Trương Vạn Bang là một phổ thông toán học giáo sư, hắn giảng giải cao trung toán học tri thức điểm.
+
+	Lớp học bên ngoài Trương Vạn Bang là chỉ điểm Thẩm Kỳ "Cao nhân", hắn truyền bá cấp độ càng sâu toán học tri thức.
+
+	"Túc chủ chăm chú nghe giảng một tiết vật lý khóa, học bá điểm tích lũy +1."
+
+	"Túc chủ không có chăm chú nghe giảng ngữ văn khóa, học bá điểm tích lũy +0. Nhưng túc chủ tại ngữ văn trên lớp phá giải một đạo đề toán, học bá điểm tích lũy +5."
+
+	"Túc chủ tiến hành 1 giờ chạy bộ, chơi bóng chờ thể dục rèn luyện, học bá điểm tích lũy +1."
+
+	"Túc chủ tại toán học chuyên nghiệp lĩnh vực đạt được cao nhân chỉ điểm, lĩnh ngộ mới chuyên nghiệp kỹ xảo, học bá điểm tích lũy +100."
+
+	"Túc chủ tự học  « số học phân tích » 3 giờ, học bá điểm tích lũy +10."
+
+	. . .
+
+	Thẩm Kỳ thời gian hàng rất vẹn toàn, hắn mỗi ngày ổn định thu nhập 120~130 điểm học bá điểm tích lũy.
+
+	Trong đó độ cống hiến lớn nhất con đường là "Tại toán học chuyên nghiệp lĩnh vực đạt được cao nhân chỉ điểm", tức Thẩm Kỳ cùng Trương Vạn Bang ở giữa khóa ngoại hỗ động.
+
+	Trương Vạn Bang tại trên lớp học giảng giải cao trung toán học, đã vô pháp cho Thẩm Kỳ cung cấp dù là 1 điểm học bá điểm tích lũy.
+
+	Nhưng ở càng chuyên nghiệp toán học lĩnh vực, Trương Vạn Bang mỗi ngày ổn định cung cấp 100 điểm học bá điểm tích lũy cho Thẩm Kỳ.
+
+	Tại "Sư đồ hình thức" lôi kéo dưới, Thẩm Kỳ toán học năng lực thực chiến tăng thêm một bước, hắn "Nội sam" hệ liệt đã cất giữ đến "Nội sam 15", nghiên cứu phạm vi mở rộng đến không chừng điểm tích lũy, Fourier đẳng cấp, song lá xoay tròn song mặt cong, thỏa mặt cầu chờ lĩnh vực, bao trùm cao đại, mấy phần, giải cơ mấy cái chi nhánh, Thẩm Kỳ hiện tại đi tham gia ngành toán học đại nhất năm thứ hai đại học chuyên nghiệp khảo thí, hẳn là cũng sẽ không rớt tín chỉ.
+
+	Tháng 4 đối Thẩm Kỳ tới nói là tiến bộ thần tốc một tháng.
+
+	Đến ngày 20 tháng 4, Thẩm Kỳ toàn 4205 điểm học bá điểm tích lũy: "Cuối cùng, lại có thể thăng cấp."
+
+	Toán học cấp 2 thăng toán học cấp 3, cần 3000 điểm học bá điểm tích lũy.
+
+	"Hệ thống, ta muốn thăng cấp, toán học chỉ tiêu lên tới cấp 3."
+
+	"Khấu trừ 3000 điểm học bá điểm tích lũy, túc chủ toán học chỉ tiêu thăng làm cấp 3."
+
+	Cấp 2 cùng cấp 3 đều bị hệ thống định nghĩa vì tiến giai cấp, có thể hiểu thành sơ cấp tiến giai, trung cấp tiến giai.
+
+	Túc chủ, Thẩm Kỳ
+
+	Tuổi tác, 17
+
+	1, toán học cấp 3 (0 ╱ 5000)
+
+	2, thể dục cấp 1 (0 ╱ 1000)
+
+	3, ngữ văn cấp 0 (0 ╱ 100)
+
+	3, tiếng Anh cấp 0 (0 ╱ 100)
+
+	3, vật lý cấp 0 (0 ╱ 100)
+
+	3, hóa học cấp 0 (0 ╱ 100)
+
+	3, sinh vật cấp 0 (0 ╱ 100)
+
+	3, lịch sử cấp 0 (0 ╱ 100)
+
+	3, địa lý cấp 0 (0 ╱ 100)
+
+	3, chính trị cấp 0 (0 ╱ 100)
+
+	Còn lại học bá điểm tích lũy: 1205
+
+	Hệ thống tiến hành ngành học xếp hạng, Thẩm Kỳ toán học chỉ tiêu lấy cấp 3 xa xa dẫn trước, thể dục chỉ tiêu lấy cấp 1 đứng hàng thứ hai, còn lại bát môn ngành học đều là cấp 0 đặt song song thứ ba.
+
+	Toán học cấp 3 thăng cấp 5, tổng cộng cần 1 vạn 5 ngàn điểm học bá điểm tích lũy.
+
+	Thẩm Kỳ mỗi ngày ổn định thu nhập 100+ học bá điểm tích lũy, 1 vạn 5 ngàn điểm học bá điểm tích lũy tại có thể đoán được thời điểm liền có thể thu hoạch được.
+
+	Bấm ngón tay tính toán, chậm nhất 4 tháng về sau, Thẩm Kỳ liền có thể tích lũy đến 1 vạn 5 ngàn điểm học bá điểm tích lũy, tốt nghiệp trung học trước đó nhất định có thể đem toán học dẫn đầu nện vào cấp 5. 

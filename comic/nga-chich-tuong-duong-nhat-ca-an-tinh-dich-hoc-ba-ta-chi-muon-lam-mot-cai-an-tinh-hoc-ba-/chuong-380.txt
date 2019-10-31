@@ -1,0 +1,111 @@
+ 380 chương giai đoạn tính thành quả (ba canh tìm nguyệt phiếu)
+
+	"Thẩm giáo sư, chúng ta lý giải đại nhất thống, chính là có thể dùng một cái thể hệ, giải thích toàn bộ toán học vấn đề loại kia cương lĩnh tính đại nhất thống!" Dưới đài có người thét lên.
+
+	"Có lẽ ta dùng từ không thích đáng, 'Cục bộ' cùng 'Đại nhất thống' là mâu thuẫn, SLw thể hệ ý nghĩa hẳn là 'Giai đoạn tính đại nhất thống', đến tiếp sau ta đem sửa chữa trong báo cáo tương quan tìm từ. Như vậy chúng ta tạm thời không xoắn xuýt những này từ ngữ bên trên chi tiết nhỏ, chỉ nhìn nội dung." Thẩm Kỳ ổn định cục diện về sau, tiến vào  « hệ thống hóa cùng Hodge phỏng đoán » chính văn bộ phận.
+
+	"Ta phần báo cáo này, trong đó chín mươi phần trăm nội dung giảng hệ thống, cuối cùng một phần là chứng minh Hodge phỏng đoán thuộc về SLw hệ thống, hoặc là nói SLw hệ thống có thể triệt để giải thích Hodge phỏng đoán."
+
+	"Bộ phận thứ nhất, đại số hình học bản khối, trong báo cáo tên là 'Ag dàn khung tính nguyên tắc' ."
+
+	"Bộ phận này trọng điểm là tại Bézout định lý, Kessler đối ứng nguyên tắc, Cremona biến hóa chờ kinh điển đại số hình học lý luận trên cơ sở, mới tăng 'S loại đặc thù mặt cong tính chất' ."
+
+	"Ta muốn nói đúng lắm, bất luận cái gì hệ thống không thể nào là hoàn toàn mới, sẽ không từ không sinh có, bọn chúng tất nhiên ở tiền bối trên bờ vai, tại kinh điển lý luận trên cơ sở tiến hành sáng tạo cái mới. . ."
+
+	Thẩm Kỳ đầu tiên giảng giải phức tạp nhất, lớn nhất sáng tạo cái mới tư duy Ag bản khối.
+
+	Ralph kinh ngạc ngồi, giống nhìn như thần nhìn xem Thẩm Kỳ, bất tri bất giác nước mắt chảy xuống.
+
+	Vu Lỗi rời đi Princeton sau đó không lâu về tới nơi này, hắn biểu lộ cùng Ralph không sai biệt lắm, Thẩm Kỳ trong lòng hắn chính là thần.
+
+	"Ag dàn khung tính nguyên tắc" do Vu Lỗi, Ralph căn cứ Thẩm Kỳ ý chỉ, kiên trì chơi đùa ra một bản xuất bản lần đầu.
+
+	Chơi đùa ra xuất bản lần đầu về sau, Vu Lỗi, Ralph liền tốt nghiệp tiến sĩ.
+
+	Sau khi được Thẩm Kỳ thăng hoa, "Ag dàn khung tính nguyên tắc" hiện ra ở toàn thế giới nhà toán học trước mặt.
+
+	Ba ba ba!
+
+	Tiếng vỗ tay thỉnh thoảng vang lên, Thẩm Kỳ báo cáo không chỉ một lần bị nhiệt tình quý khách nhóm tiếng vỗ tay đánh gãy.
+
+	"Bộ phận thứ hai, tô-pô bản khối, trong báo cáo tên là 'TP tái tạo tính nguyên tắc' ."
+
+	"Bộ phận này trọng điểm là lấy Thurston hình học hóa phỏng đoán tám cái tiêu chuẩn mô hình làm căn cứ, đối không gian lý luận tiến hành tái tạo, mới sinh thành đại số bên trên bế liên không gian khả năng chịu lỗi càng mạnh."
+
+	"Mọi người có hứng thú, có thể thông qua SLw hệ thống bên trong 'TP tái tạo tính nguyên tắc' đi nghiệm chứng Poincaré phỏng đoán, ta dám cam đoan, cái này cùng Perelman tiên sinh công việc có chỗ khác nhau."
+
+	Dưới đài Ngô chủ nhiệm tay tại phát run, hắn khắc sâu cảm nhận được, cùng một loại vũ khí tại khác biệt người trong tay, uy lực hoàn toàn không giống.
+
+	Ngô chủ nhiệm cùng nghiên cứu của hắn viên môn tại đánh hạ tô-pô bản khối quá trình bên trong, không ai nghĩ sâu như vậy xa, Thẩm Kỳ chỉ cái nào bọn hắn đánh đâu, kết quả không cẩn thận đánh ra cái "Giai đoạn tính đại nhất thống" .
+
+	Buổi sáng báo cáo, Thẩm Kỳ kể xong "Ag dàn khung tính nguyên tắc" cùng "TP tái tạo tính nguyên tắc", toàn trường quý khách như si như say, ăn no thỏa mãn.
+
+	Buổi chiều báo cáo tiếp tục, Thẩm Kỳ giảng đến cái thứ ba nguyên tắc: "Bộ phận thứ ba, số học phân tích bản khối, trong báo cáo tên là 'AN chuẩn hoá nguyên tắc' ."
+
+	"Bộ phận này trọng điểm là, mặt phẳng đường cong bình thường kỳ điểm cùng không gian bên trong cào tuyến bình thường kỳ điểm kiểu mới số học phân tích xử lý, lấy đặc thù đẩy toàn cục, thông qua nghịch hướng số học phân tích xử lý, thành lập chính hướng chuẩn hoá nguyên tắc."
+
+	Lỗ Quốc Trân vỗ tay lên, hắn tuyệt không phải kẻ lừa gạt, hắn là phát ra từ nội tâm vì Thẩm Kỳ lớn tiếng khen hay.
+
+	Báo cáo tài liệu là mọi người cùng nhau làm, nhưng chỉnh hợp chải vuốt, dung hội quán thông từ đó hình thành hệ thống hóa lý luận, công việc này chỉ có Thẩm Kỳ có bản lĩnh hoàn thành.
+
+	Mà lại Thẩm Kỳ sân khấu biểu hiện nước chảy thành sông, đổi Lỗ Quốc Trân hoặc Ngô chủ nhiệm lên đài diễn thuyết, đoán chừng hold không ở.
+
+	"Đại số hình học, tô-pô, số học phân tích, ba cái nguyên tắc cuối cùng dung hợp lại cùng nhau, tạo thành SLw hệ thống, mời xem màn hình lớn." Thẩm Kỳ nửa quay người nhìn lại màn hình, toàn trường quý khách tập thể đứng dậy, nhìn không chuyển mắt nhìn chằm chằm màn hình.
+
+	Một trang này PPT lấy anime hình thức hiện ra, Thẩm Kỳ đồng bộ giảng giải: "Trạng thái tĩnh đồ hình rất khó miêu tả cao duy tình huống, đương nhiên, động thái mô hình cũng vô pháp miêu tả. Nhưng động thái mô hình so sánh sinh động, trên màn hình chỉ là ra hiệu, kết hợp ta giảng giải, mọi người có thể phát huy đầy đủ sức tưởng tượng."
+
+	Trên màn hình một tờ mặt cong cực độ vặn vẹo, vặn vẹo đến cực hạn nhưng lại bày biện ra mặt phẳng tư thái, trong cuộc sống hiện thực không gặp được loại này tồn tại.
+
+	Thẩm Kỳ: "Đây chính là 'S loại đặc thù mặt cong', mời mọi người chú ý quan sát."
+
+	Mặt cong quay chung quanh nguyên điểm không ngừng xoay tròn, mà nguyên điểm cũng không phải là ở vào trên lý luận vị trí trung tâm.
+
+	Bỗng nhiên ở giữa sinh thành mới vặn vẹo mặt cong, bọn chúng vặn vẹo đến cực hạn sau bao trùm phục mặt phẳng, một tờ, hai trang, N trang, bọn chúng lấy bất quy tắc phương thức quay chung quanh nguyên điểm xoay tròn, càng ngày càng nhiều, càng lúc càng nhanh.
+
+	Một viên cây giống trong nháy mắt phát dục vì rộng lớn rừng rậm, đây là toán học rừng rậm, thông qua SLw hệ thống, sử dụng đại số biểu đạt thức có thể chính xác miêu tả ra bọn họ tính chất.
+
+	Quý khách nhóm con mắt nhìn hoa, nhưng không ai nguyện ý nhắm mắt.
+
+	Thẩm Kỳ bình tĩnh nói đến: "Mảnh này toán học rừng rậm do đại số hình học, tô-pô, số học phân tích cấu thành, hoàn toàn miêu tả một trang này PPT chỗ biểu hiện ra mô hình toán học, ước chừng cần hơn 70 vạn cái đại số biểu đạt thức, trên lý luận nó có thể giải thích đại số hình học, tô-pô, số học phân tích tất cả vấn đề, nó là SLw."
+
+	Quý khách nhóm trầm mặc, không dám nói lời nào.
+
+	"Các ngươi coi là đây chính là toán học toàn bộ sao?" Thẩm Kỳ đề cao âm lượng, đinh tai nhức óc tự hỏi tự trả lời: "Không, không phải! Chúng ta còn cần một viên cuối cùng hạt giống --- số luận! Đại số hình học + tô-pô + số học phân tích + số luận, đây mới thật sự là toán học đại nhất thống, khi nó giáng lâm thời điểm, thần cũng sẽ run rẩy."
+
+	Thần có hay không run rẩy không biết, ở đây không ít người đã bắt đầu run rẩy, kích động toàn thân phát run.
+
+	"Cái này anime, có ma tính a. . ." Lỗ Quốc Trân nhắm mắt lại, hắn không dám nhìn màn hình.
+
+	"Hôm nay, ta biểu hiện ra chỉ là giai đoạn tính thành quả nghiên cứu, tương lai đường còn rất dài, lại có lẽ không hề dài." Thẩm Kỳ kết thúc anime phát ra, hoán đổi trang kế tiếp PPT.
+
+	Hô. . .
+
+	Toàn trường phát ra một loại kỳ quái hô hấp thổ nạp âm thanh, cực độ hư thoát, cực độ kích thích.
+
+	"Cuối cùng một bộ phận, mời xem cái này cái biểu đạt thức, ta xưng là S loại đặc thù mặt cong (HC) biểu đạt thức, nó đại biểu cho Hodge phỏng đoán một loại khác đại số hình thức. Không hề nghi ngờ, tại SLw hệ thống bên trong, H^2p(X, Q)a LG=H^p, p(X)∩H^2p(X, Q), cho nên Hodge phỏng đoán là một cái chính xác đầu đề."
+
+	"Lần nữa cảm tạ Princeton, Yến đại cùng Thần Hưng toán học trung tâm đối hạng mục này đại lực ủng hộ, cảm tạ các vị khách quý kiên nhẫn lắng nghe, tạ ơn, báo cáo của ta hoàn tất!" Thẩm Kỳ cúi đầu gửi tới lời cảm ơn, đi đặc thù thông đạo rời sân mà đi.
+
+	Toàn trường khách quý trọn vẹn sửng sốt một phút đồng hồ, báo cáo đại sảnh an tĩnh giống như là phần mộ.
+
+	Đột nhiên có người dắt cuống họng thét lên: "Thẩm giáo sư thành công, hắn đã chứng minh Hodge phỏng đoán! Phi thường đặc sắc diễn thuyết, thần cũng đều vì run rẩy!"
+
+	Sôi trào, nổ tung, báo cáo đại sảnh toàn thể quý khách hô hào kêu, tiếng vỗ tay lôi minh.
+
+	"Thẩm giáo sư người đâu?" Bỗng nhiên, mọi người phát hiện một vấn đề, Thẩm giáo sư không thấy, trang xong B liền chạy.
+
+	"Thẩm giáo sư thay quần áo đi, hắn đợi chút nữa sẽ về trận." Có người nói đến.
+
+	"Không, hắn sẽ không, chúng ta tan cuộc đi, qua mấy ngày nhìn IMU chính thức tin tức." Lỗ Quốc Trân lắc đầu, các ngươi a, tất cả đều tuổi còn rất trẻ.
+
+	Thẩm Kỳ quả nhiên không có lần nữa lên đài, hắn vừa rồi đã nói qua "Tạ ơn, báo cáo của ta hoàn tất", cho nên nghe báo cáo phải cẩn thận, cần chú ý chi tiết.
+
+	Thẩm Kỳ chuyên đề báo cáo hội kết thúc về sau, hắn hướng IMU cung cấp  « hệ thống hóa cùng Hodge phỏng đoán » PDF điện tử bản nguyên văn, cùng in bản.
+
+	IMU lập tức triệu tập mấy trăm chữ số học chuyên gia xâm nhập nghiên cứu thảo luận  « hệ thống hóa cùng Hodge phỏng đoán ».
+
+	Princeton cung cấp sân bãi cùng hết thảy hậu cần phục vụ, IMU nghiệm chứng công việc ngay tại Princeton trong trường tiến hành.
+
+	Hai tuần về sau, IMU chính thức tuyên bố:
+
+	"Thẩm Kỳ giáo sư đã chứng minh Hodge phỏng đoán, trọng yếu hơn là, Thẩm Kỳ đoàn đội thành lập một bộ hệ thống, tức 'Thẩm - lỗ - ngô hệ thống' (SLw), như cần xem tương quan luận văn, mời đến nhập kết nối XXX. Cảm tạ Thẩm Kỳ đoàn đội làm ra cống hiến to lớn, chúng ta có lý do tin tưởng, toán học thời đại mới sắp xảy ra." 

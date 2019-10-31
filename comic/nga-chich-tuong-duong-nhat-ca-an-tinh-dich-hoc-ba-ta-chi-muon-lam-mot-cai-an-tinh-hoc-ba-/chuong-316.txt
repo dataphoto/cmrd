@@ -1,0 +1,117 @@
+ 316 chương đã hiểu
+
+	Thẩm Kỳ tại trên bảng đen viết ra không gian Hilbert H một cái có thể đếm được tiêu chuẩn chính gặp nhau {e1, e2, e3}, tiếp theo là một cái Fourier triển khai thức ∑εnen, làm nó là một cái tùy ý vectơ, khiến cho nó đối hết thảy n đều có εn0.
+
+	"Tập hợp luận bên trong có một cái kỳ diệu kết luận, tồn tại một cái lấy số tự nhiên tập vô tận tử tập vì nguyên tố có cơ số vì cái gì tập hợp {Jt}, như vậy đối mỗi một số thực t, lệnh Jt biểu thị lấy t vì đó duy nhất điểm tụ họp vô tận số hữu tỷ tập, đối với không gian Hilbert H, chúng ta có thể như thế xử lý. . ."
+
+	Thẩm Kỳ cầm phấn viết rồng bay phượng múa, trong phòng học hoàn toàn yên tĩnh.
+
+	"Xin nhớ kỹ, không gian Hilbert H tuyến tính duy số lớn hơn hoặc đợi tại chính giao duy số, vô tận duy không gian Hilbert H có nghiêm giao tử tập cùng số nguyên tập cùng cấu, vô tận duy không gian Hilbert H là tiếp cận nhất tại n duy Euclid rảnh rỗi ở giữa Rn vô tận duy không gian. Như vậy Hedy, ta như thế giải đáp ngươi còn hài lòng không? Thưa quí ông quí bà các tiên sinh, các ngươi đâu?" Thẩm Kỳ dùng mọi người có thể hiểu được ngôn ngữ cùng tư thế, trả lời Hedy vấn đề.
+
+	"Thẩm giáo sư, ta rất hài lòng, ta không có vấn đề." Hedy đã hiểu.
+
+	"Thì ra là thế." Tất cả mọi người đã hiểu.
+
+	"Thật đã hiểu?" Thẩm Kỳ bất động thanh sắc hỏi.
+
+	Các học sinh: "Triệt để đã hiểu!"
+
+	"oK, các ngươi rất tuyệt." Thẩm Kỳ lộ ra vui mừng biểu lộ, lập tức tại trên bảng đen viết đến: C0, p(i, C)={u: i→u liên tục, limp(τ)u(τ)=0}
+
+	"Đã các ngươi hoàn toàn hiểu được không gian Hilbert, Euclid rảnh rỗi ở giữa quan hệ trong đó, như vậy ta lưu lại ta học kỳ này duy nhất một cái giải tích hàm vấn đề." Không có treo bảng đen giáo sư có quyền lợi bố trí làm việc, Thẩm Kỳ ngay tại làm như vậy.
+
+	"Quá khứ vài chục năm, Banach không gian bên trên C0-semigroup siêu tuần hoàn nghiên cứu là một cái đứng đầu phương hướng, mời mọi người tại khóa sau suy nghĩ, xử lý như thế nào Banach không gian bên trên mạnh hỗn hợp C0-semigroup?"
+
+	"Học kỳ này kết thúc trước đó, ta hi vọng có thể có người nói cho ta đáp án, nếu có người giải đáp vấn đề của ta, hắn hoặc nàng giải tích hàm đem trực tiếp thu hoạch được A. Tốt, cảm tạ lắng nghe, tan học." Thẩm Kỳ vỗ vỗ tay bên trên phấn viết xám, đi.
+
+	Một giáo thất học sinh nhìn chằm chằm bảng đen ngẩn người, đây chính là ý đồ để Thẩm giáo sư treo bảng đen hạ tràng.
+
+	"Banach không gian bên trên mạnh hỗn hợp C0-semigroup? Rất có khó khăn làm việc a." Vu Lỗi lộ vẻ ngưng trọng, mỗi một vị học sinh đều có một viên toàn A trái tim.
+
+	"Vu Lỗi, ngươi lui nhóm đi." Chu Vũ An từ trên thân Thẩm Kỳ học được không ít kỹ xảo, cái này tiết khóa không có uổng phí nghe.
+
+	Hedy đem bút trả lại Vu Lỗi: "Vu, Thẩm giáo sư lựa chọn ngươi vì hắn nghiên cứu sinh, ngươi thật phi thường may mắn."
+
+	"Đương nhiên, ta là may mắn nhất may mắn." Vu Lỗi cùng Thẩm Kỳ tiếp xúc lâu, cảm nhận được Thẩm Kỳ mặc dù khai thác nuôi thả hình thức, nhưng làm tiểu kỳ ca nghiên cứu sinh áp lực thật thật lớn.
+
+	Dưới tay tướng mạnh không có binh hèn, người người đều đang chăm chú Vu Lỗi, áp lực của hắn có thể không lớn à.
+
+	"Hedy, nhận biết ngươi đồng dạng là vận may của ta, ta hẳn là mời ngươi uống một chén." Vu Lỗi thích ứng hoàn cảnh mới năng lực rất mạnh, bọn hắn thế hệ này Trung Quốc người trẻ tuổi trưởng thành tại tổ quốc cao tốc phát triển, bố cục toàn cầu thời đại, bọn hắn càng thêm tự tin lạc quan, cũng dám tại vui với rộng mở ý chí ôm thế giới.
+
+	"Tại sao lại không chứ?" Hedy vui vẻ tiếp nhận Vu Lỗi mời.
+
+	"Tiểu Vũ ca, cùng một chỗ sao? Ngươi có thể mang theo ngươi bạn gái." Vu Lỗi nhiệt tình hỏi thăm Chu Vũ An.
+
+	"Ta không có bạn gái, chơi vui vẻ." Chu Vũ An vỗ vỗ Vu Lỗi bả vai, đi. Vu Lỗi gia hỏa này vừa tới Princeton không có mấy tháng liền có thể cua được tịnh muội, nhan trị tức chính nghĩa, toàn thế giới đều là cái này xu thế, cũng càng ngày càng nghiêm trọng.
+
+	Sau đó Vu Lỗi cùng hắn tịnh muội happy đi, Chu Vũ An vùi đầu chuẩn bị thạc sĩ luận văn.
+
+	Thẩm Kỳ muốn ổn định lại tâm thần hoàn thành hắn Vật lý vật chất ngưng tụ nghiên cứu, nhưng mà gần nhất còn có một số thượng vàng hạ cám sự tình cần xử lý.
+
+	Nước Mỹ hội toán học mời Thẩm Kỳ tham gia Steele thưởng trao giải nghi thức, này giải thưởng năm 1970 do Steele bỏ tiền thiết lập, ban thưởng toán học công việc có sức ảnh hưởng nhà toán học.
+
+	Đánh giá căn cứ là có trọng yếu giá trị một quyển sách, hoặc một phần nói khái quát, một phần có cơ sở tính hoặc trường kỳ ảnh hưởng luận văn.
+
+	Lấy được thưởng người có thể là không phải quốc tịch Mỹ nhà toán học, nhưng tu trở thành nước Mỹ hội toán học hội viên.
+
+	Thẩm Kỳ tại mấy năm trước nhận lấy Ford thưởng lúc, hướng nước Mỹ hội toán học nộp 2 vạn USD tham tuyển phí tổn, trở thành nước Mỹ hội toán học ngoại tịch hội viên.
+
+	Từ bất luận cái gì góc độ đánh giá, Thẩm Kỳ hoàn toàn phù hợp Steele thưởng trao giải tiêu chuẩn.
+
+	Nước Mỹ hội toán học ban phát Steele thưởng cho Thẩm Kỳ lý do là: "Từ  « Walsh phỏng đoán chứng minh » đến  « Banach không gian bên trong Muller - Thẩm định lý »,  « Banach không gian bên trong Thẩm thị cận bách định lý », lại đến  « căn cứ vào 'Song sinh xứng đôi pháp' Riemann phỏng đoán chứng minh », Thẩm Kỳ giáo sư bằng vào năm gần đây tại tứ đại tập san bên trong bất luận cái gì một phần luận văn, đều đủ để thu hoạch được Steele thưởng."
+
+	"Cho đến trước mắt, Thẩm Kỳ giáo sư có giá trị nhất học thuật thành quả đương nhiên là  « số luận sử », tại bộ này sử thi toán học chuyên lấy bên trong,  « Riemann zeta hàm số số nguyên tố phân bố lý luận hệ thống » lần đầu lấy bản đầy đủ hình thức công bố, lực ảnh hưởng đem tiếp tục đến kế tiếp ngàn năm. Không hề nghi ngờ, năm nay Steele thưởng không phải Thẩm Kỳ giáo sư không ai có thể hơn."
+
+	Dù sao còn muốn tại nước Mỹ trộn lẫn đoạn thời gian, Thẩm Kỳ lấy hài hòa hòa hợp phương thức cùng nước Mỹ hội toán học ở chung, hắn nhận lấy Steele thưởng.
+
+	Fields thưởng về sau, Thẩm Kỳ nhận lấy cái khác toán học giải thưởng thế như thu hoạch, Steele thưởng là hắn cái thứ tám toán học giải thưởng.
+
+	Hệ thống: "Thành tựu mới! Túc chủ thu hoạch được quốc tế toán học thưởng lớn, cấp A toán học giải thưởng Steele thưởng, cơ sở ban thưởng 85 vạn học bá tích phân, nhân với toán học chủ thiên phú hệ số 2. 0, cuối cùng ban thưởng 170 vạn học bá tích phân."
+
+	Túc chủ, Thẩm Kỳ
+
+	Tuổi tác, 23 tuổi
+
+	Toán học cấp 13, 472 ╱ 20 triệu
+
+	Vật lý cấp 10, 101 ╱ 120 vạn
+
+	Thể dục cấp 5, 3129 ╱ 5 vạn
+
+	Tiếng Anh cấp 5, 2501 ╱ 5 vạn
+
+	Ngữ văn cấp 5, 2598 ╱ 5 vạn
+
+	Chính trị cấp 5, 9460 ╱ 5 vạn
+
+	Hóa học cấp 3, 599 ╱ 5000
+
+	Sinh vật cấp 3, 586 ╱ 5000
+
+	Lịch sử cấp 2, 1231 ╱ 3000
+
+	Địa lý cấp 2, 828 ╱ 3000
+
+	Còn lại học bá tích phân: 31028693 điểm
+
+	Tấn thăng toán học cấp 14 điều kiện tiến độ: 472 ╱ 20 triệu (còn lại học bá tích phân có thể thỏa mãn điều kiện một)
+
+	Điều kiện nhị tiến độ: 3 ╱ 5(thu hoạch được cấp S giải thưởng Fields thưởng, thu hoạch được cấp A giải thưởng Ramanujan thưởng, Steele thưởng)
+
+	Điều kiện ba tiến độ: 0 ╱ 1
+
+	Tại thông thường toán học nghiên cứu bên trong, Thẩm Kỳ có thể tích lũy chút ít thường ngày điểm kinh nghiệm.
+
+	Làm điều kiện hai cùng điều kiện ba tiến độ toàn bộ đạt tới 100% về sau, lại đem điều kiện một đập đến 20 triệu là hợp lý nhất xử lý quá trình, cái này có thể phòng ngừa mấy chục đến mấy trăm điểm thường ngày điểm kinh nghiệm tràn ra.
+
+	Cần kiệm tiết kiệm là nhà toán học mỹ đức, đến Thẩm Kỳ số này học đẳng cấp, thường ngày tích lũy mấy chục đến mấy trăm điểm toán học điểm kinh nghiệm cần không ít thời gian.
+
+	Tại Steele thưởng trao giải nghi thức bên trên, Thẩm Kỳ cảm tạ nước Mỹ hội toán học, cùng toàn mỹ toán học đồng nghiệp ủng hộ cùng hậu ái.
+
+	Tại Thẩm Kỳ lấy được tám số lượng học giải thưởng bên trong, có bốn cái là nước Mỹ toán học cơ cấu ban phát (Steele thưởng, khoa học đột phá thưởng, Kurei nghiên cứu thưởng, Ford thưởng).
+
+	Quốc tế toán học cơ cấu phát hai cái thưởng, Fields thưởng, Ramanujan thưởng.
+
+	Trung Quốc toán học cơ cấu phát hai cái thưởng, Trần Tỉnh Thân toán học thưởng, Chung Gia Khánh toán học thưởng.
+
+	Tấn thăng toán học cấp 14 ba điều kiện, Thẩm Kỳ khẳng định phải bảo chất bảo lượng hoàn thành, lại xoát hai số lượng học cấp A giải thưởng, làm chính mình cúp huy hiệu số lượng góp cái số nguyên, điều kiện hai liền làm xong. 

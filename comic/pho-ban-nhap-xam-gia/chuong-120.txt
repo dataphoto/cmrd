@@ -1,0 +1,631 @@
+Lít nha lít nhít chữ viết xuất hiện ở trước mắt, ngay sau đó tòa thành thị này thuộc tính lợi dụng số liệu phương thức biểu hiện ra.
+
+	Tên: Thiên Sách phủ
+
+	Thành chủ: Giả Niệm
+
+	Bản thành cấp bậc: 1 giai
+
+	Sở thuộc thế lực: Thiên Sách quân đoàn
+
+	Nhân khẩu: 252
+
+	Binh lực: 150/ 1000
+
+	Phòng giữ binh lực: 0/ 3000
+
+	Định cư nhân khẩu: 100/ 10000
+
+	Chức nghiệp giả (người chơi): 100
+
+	Tài chính (thần bí kim tệ): 14584745
+
+	Kiến trúc: Phủ thành chủ, tế đàn, thị trường, tường thành
+
+	Nội chính thuộc tính như sau.
+
+	Thương nghiệp giá trị: 100/ 1000
+
+	Nông nghiệp giá trị: 100/ 1000
+
+	Văn hóa giá trị: 100/ 1000
+
+	Phồn vinh độ: 100/ 1000
+
+	Có thể cung cấp lớn nhất che chở gia trì nhân số: 150/ 1000
+
+	Nhìn đến đây Giả Niệm thu hồi ánh mắt, theo bản năng điều ra Thang Cao Minh thuộc tính, loáng thoáng tựa như minh bạch một chút đồ vật.
+
+	Tính danh: Thang Cao Minh
+
+	Thân phận: Xương Hà trấn đao binh đại đội trưởng
+
+	Nghề nghiệp một: Nông dân
+
+	Nghề nghiệp hai: Kiếm binh
+
+	Vũ khí: Quân dụng kiếm (lực công kích + 150)
+
+	Khôi giáp: Phổ thông khôi giáp (lực phòng ngự + 300)
+
+	Nghề nghiệp đẳng cấp: Nông dân 1 giai cấp 8, kiếm binh 1 giai cấp 9
+
+	Tư thái một: Cuối thời Đông Hán thế giới phó bản Xương Hà trấn cư dân (nên tư thái không thể sử dụng)
+
+	Tư thái hai: Thiên Sách quân đoàn tướng sĩ, hưởng thụ Thiên Sách phủ che chở (nên tư thái khi tiến vào cuối thời Đông Hán thế giới phó bản về sau, sẽ tính cả không phải thế giới phó bản bên ngoài ký ức cùng nhau phong tồn).
+
+	Thiên Sách phủ che chở, phàm Thiên Sách quân đoàn Xương Hà trấn tướng sĩ, có thể đạt được  ba lần phục sinh tư cách. Nên phục sinh tư cách, gần như chỉ ở cuối thời Đông Hán thế giới phó bản bên trong mất đi hiệu lực.
+
+	Kỹ năng: Khai khẩn đất hoang, cày sâu cuốc bẫm
+
+	Che chở? Giả Niệm bừng tỉnh đại ngộ, nguyên lai che chở là có hạn mức cao nhất.
+
+	Bản thành đẳng cấp 1 giai? Đây cũng là có ý tứ gì? Chẳng lẽ nói có thể thăng cấp, che chở hạn mức cao nhất cũng có thể tăng lên.
+
+	Còn có phòng giữ binh lực cũng làm cho hắn tràn đầy nghi hoặc.
+
+	Tâm niệm vừa động, chữ viết phát sinh biến hóa.
+
+	Tế đàn thuộc tính như sau.
+
+	Đẳng cấp: 0/ 1
+
+	Thăng cấp điều kiện: Thần bí kim tệ 1000000
+
+	Mỗi ngày cung cấp 1 điểm khí vận.
+
+	Công năng: Tế tự
+
+	Lợi dụng bản thành nông nghiệp sản xuất cùng thần bí kim tệ có thể cử hành tế tự hoạt động, thu hoạch được khí vận chi lực.
+
+	Trước mắt có thể đạt được  khí vận hạn mức cao nhất: 100
+
+	Tường thành thuộc tính như sau.
+
+	Đẳng cấp: 0/ 1
+
+	Thăng cấp điều kiện: Thần bí kim tệ 1000000
+
+	Phòng ngự giá trị: 100000
+
+	Có thể dung nạp quân phòng giữ: 3000
+
+	Thị trường thuộc tính như sau.
+
+	Đẳng cấp: 1/ 1
+
+	Thăng cấp điều kiện: Thần bí kim tệ 1000000
+
+	Thương phẩm mua bán giao dịch chi địa
+
+	Phủ thành chủ thuộc tính như sau
+
+	Đẳng cấp: 1/ 1
+
+	Thăng cấp điều kiện: Tế đàn 1 giai, tường thành 1 giai, quân phòng giữ doanh 1 giai, quân phòng giữ ba ngàn. Lịch sử chiến trường 1 giai, thời không chiến trường 1 giai. Thần bí kim tệ 1000000
+
+	Lịch sử chiến trường? Thời không chiến trường?
+
+	Nhìn xem những chữ viết này, Giả Niệm không khỏi có chút choáng váng.
+
+	Lịch sử chiến trường là cái gì? Thời không chiến trường là cái gì? .
+
+	Khí vận, không nghĩ tới tế đàn thế mà cung cấp khí vận, đây chính là giáp xác trùng cần tiêu hao đồ vật sao? .
+
+	Có lẽ tòa thành này, so với mình tưởng tượng còn kinh khủng hơn.
+
+	Không hổ là nghiêng toàn hiện thực Thế Giới chi lực tạo ra đồ vật.
+
+	Lịch sử chiến trường? Thời không chiến trường? Công năng của bọn nó là cái gì? .
+
+	Nghĩ tới đây thở một hơi thật dài, ánh mắt nhìn về phía một bên Quách Đại Bàn.
+
+	Quách Đại Bàn cũng đưa ánh mắt dời, đối Giả Niệm lắc đầu, trên mặt chấn kinh thật lâu không tiêu tan.
+
+	"Thế giới thông cáo "
+
+	"Tiên hiệp thế giới phó bản khôi lỗi tông nghe nói thế giới hiện thực gặp Hạo Kiếp,
+
+	Vì vậy phái đệ tử xuống núi, đến đây hơi tận sức mọn "
+
+	"Ngay hôm đó lên mỗi tòa Định Giới Thành đều có một khôi lỗi tông đệ tử vào ở "
+
+	"Tất cả thành chủ có thể dùng thần bí kim tệ tại khôi lỗi tông đệ tử trong tay mua sắm quân phòng giữ doanh "
+
+	"Tiên hiệp văn minh cùng văn minh khoa học kỹ thuật va chạm, trí năng khôi lỗi quân đoàn sắp sinh ra "
+
+	"Trí năng khôi lỗi là Định Giới Thành quân phòng giữ, lấy thủ vệ thành trì vì chung cực nhiệm vụ, vì vậy không tham dự trừ thủ thành bên ngoài hết thảy sự vật "
+
+	Giả Niệm cùng Quách Đại Bàn liếc mắt nhìn lẫn nhau, trí năng khôi lỗi quân đoàn, quân phòng giữ doanh? .
+
+	"Quân phòng giữ? Khôi lỗi quân phòng giữ" Quách Đại Bàn cơ hồ kinh điệu cái cằm.
+
+	Giả Niệm hít vào một ngụm khí lạnh, trong lòng thật lâu khó mà bình tĩnh: "Tốt một cái khôi lỗi quân phòng giữ "
+
+	Đây coi như là thủ thành ưu thế sao? Phát triển khôi lỗi quân phòng giữ, có thể để trong thành chủ lực tốt hơn xuất kích.
+
+	Tiên hiệp thế giới phó bản, khôi lỗi tông.
+
+	Giả Niệm ở trong lòng lặp lại một câu, dần dần sa vào đến trong suy tư.
+
+	"Liên hiệp quốc thông cáo "
+
+	"Ba ngày sau thế giới hiện thực đem liên hợp tiên hiệp thế giới phó bản, cử hành thịnh đại đấu giá hội "
+
+	"Phàm thân ở Định Giới Thành thị trường bên trong, đều có thể tham dự lần này đấu giá "
+
+	"Đặc biệt nhắc nhở: Lần này đấu giá hội chỉ lấy lấy thần bí kim tệ, không tiếp thụ lấy vật đổi vật phương thức "
+
+	Theo bản năng đưa tay bóp thành nắm đấm, Giả Niệm nhanh chóng tiêu hóa những tin tức này.
+
+	"Đấu giá hội?" Giả Niệm nói.
+
+	Quách Đại Bàn đập tắc lưỡi: "Thế giới hiện thực cùng tiên hiệp thế giới phó bản liên hợp cử hành đấu giá hội, xem ra lần này xâm lấn sự kiện, để thế giới các nước đều bỏ hết cả tiền vốn "
+
+	"Đốt cháy giai đoạn a" Giả Niệm cảm khái.
+
+	Ngay sau đó lời nói xoay chuyển: "Bất quá ta thích "
+
+	"Đây cũng là cảm giác nguy cơ thể hiện, đem so sánh với chuyện này, ta càng hiếu kỳ. Bọn hắn là thế nào trực tiếp từ tiên hiệp thế giới phó bản bên trong, đem đồ vật lấy ra" Quách Đại Bàn hồi phục.
+
+	Giả Niệm sững sờ: "Có lẽ có chúng ta không biết thủ đoạn cùng lý luận làm căn cứ, cũng nói không chắc "
+
+	"Vậy cũng đúng" Quách Đại Bàn gật đầu.
+
+	Ánh mắt nhìn về phía quân đoàn giao diện, thuận miệng nói ra mức: "Quân đoàn thần bí kim tệ 14584745, ta hiện tại đột nhiên cảm giác có chút không đủ dùng "
+
+	"Tu kiến kiến trúc, mua sắm vật phẩm, còn muốn tham gia đấu giá hội" Quách Đại Bàn tính toán.
+
+	Giả Niệm đột nhiên cười một tiếng: "Ngươi cho là chúng ta có tư cách trên đấu giá hội mua được đồ vật sao?"
+
+	"Vì cái gì nói như vậy?" Quách Đại Bàn hỏi lại.
+
+	Sau đó vỗ đầu một cái: "Cũng thế, chuyện này có lẽ thế giới các quốc gia công hội cùng quân đoàn,  không biết chuẩn bị bao nhiêu năm. Chúng ta có thể đi đến một bước này, đã coi là cực hạn "
+
+	"Được rồi, không hi vọng xa vời, tham gia náo nhiệt tuy không tệ" Quách Đại Bàn thoáng có chút thoải mái.
+
+	Lúc trước Dương Nghiêm Thanh nổi trận lôi đình tràng cảnh còn rõ mồn một trước mắt, vì Định Giới Thành bọn hắn chuẩn bị nhiều năm, như vậy đối cuộc bán đấu giá này không có khả năng không có chút nào phong thanh.
+
+	Cần biết tại trong thế giới hiện thực trên thị trường, nhưng không có xuất hiện qua thần bí kim tệ. Như vậy sản xuất thần bí kim tệ hướng chảy chỗ đó? kết quả không cần nói cũng biết.
+
+	Giả Niệm suy nghĩ lưu chuyển, trong lòng hiện ra vẻ mong đợi.
+
+	Mặc kệ có thể hay không trên đấu giá hội mua được đồ vật, chính mình cũng muốn đi nhìn một chút.
+
+	Thông qua đấu giá hội có thể đối thế giới hiện thực cùng tiên hiệp thế giới phó bản thực lực có một cái trực quan nhận biết, cùng đối những cái kia thần bí vật phẩm tiến hành đại khái bên trên hiểu rõ.
+
+	Sau này tại nghênh địch thời điểm, cũng có thể làm được trong lòng hiểu rõ.
+
+	Huống chi mình đối giáp xác trùng cũng có được nhất định phỏng đoán, công năng của nó cũng không phải là trống rỗng xuất hiện, có lẽ là có một loại nào đó căn cứ.
+
+	Mà loại này căn cứ, hoàn toàn có thể cùng những cái kia bán đấu giá vật phẩm làm một cái so sánh.
+
+	Thiên Sách phủ, giáp xác trùng, cuối thời Đông Hán thế giới phó bản.
+
+	Bọn chúng ở giữa giống như có một sợi dây, loáng thoáng xuyên thành một sợi dây chuyền, tản ra mê người quang trạch.
+
+	Tỉ như nói quân đoàn lệnh, Kính Tượng Lệnh, những vật này là thế giới phó bản kết toán thời điểm trống rỗng xuất hiện sao? Vẫn là nói trong đó tồn tại không có bị người phát hiện quy tắc? . Bằng không giải thích như thế nào trận này sắp bắt đầu đấu giá hội? .
+
+	Giáp xác trùng cần khí vận, thế giới hiện thực cùng thế giới phó bản cần bản nguyên.
+
+	Như vậy một kết quả đã loáng thoáng hiện lên ra, chỉ là cảm giác còn thiếu sót một vài thứ, có vẻ hơi mông lung.Lít nha lít nhít chữ viết xuất hiện ở trước mắt, ngay sau đó tòa thành thị này thuộc tính lợi dụng số liệu phương thức biểu hiện ra.
+
+	Tên: Thiên Sách phủ
+
+	Thành chủ: Giả Niệm
+
+	Bản thành cấp bậc: 1 giai
+
+	Sở thuộc thế lực: Thiên Sách quân đoàn
+
+	Nhân khẩu: 252
+
+	Binh lực: 150/ 1000
+
+	Phòng giữ binh lực: 0/ 3000
+
+	Định cư nhân khẩu: 100/ 10000
+
+	Chức nghiệp giả (người chơi): 100
+
+	Tài chính (thần bí kim tệ): 14584745
+
+	Kiến trúc: Phủ thành chủ, tế đàn, thị trường, tường thành
+
+	Nội chính thuộc tính như sau.
+
+	Thương nghiệp giá trị: 100/ 1000
+
+	Nông nghiệp giá trị: 100/ 1000
+
+	Văn hóa giá trị: 100/ 1000
+
+	Phồn vinh độ: 100/ 1000
+
+	Có thể cung cấp lớn nhất che chở gia trì nhân số: 150/ 1000
+
+	Nhìn đến đây Giả Niệm thu hồi ánh mắt, theo bản năng điều ra Thang Cao Minh thuộc tính, loáng thoáng tựa như minh bạch một chút đồ vật.
+
+	Tính danh: Thang Cao Minh
+
+	Thân phận: Xương Hà trấn đao binh đại đội trưởng
+
+	Nghề nghiệp một: Nông dân
+
+	Nghề nghiệp hai: Kiếm binh
+
+	Vũ khí: Quân dụng kiếm (lực công kích + 150)
+
+	Khôi giáp: Phổ thông khôi giáp (lực phòng ngự + 300)
+
+	Nghề nghiệp đẳng cấp: Nông dân 1 giai cấp 8, kiếm binh 1 giai cấp 9
+
+	Tư thái một: Cuối thời Đông Hán thế giới phó bản Xương Hà trấn cư dân (nên tư thái không thể sử dụng)
+
+	Tư thái hai: Thiên Sách quân đoàn tướng sĩ, hưởng thụ Thiên Sách phủ che chở (nên tư thái khi tiến vào cuối thời Đông Hán thế giới phó bản về sau, sẽ tính cả không phải thế giới phó bản bên ngoài ký ức cùng nhau phong tồn).
+
+	Thiên Sách phủ che chở, phàm Thiên Sách quân đoàn Xương Hà trấn tướng sĩ, có thể đạt được  ba lần phục sinh tư cách. Nên phục sinh tư cách, gần như chỉ ở cuối thời Đông Hán thế giới phó bản bên trong mất đi hiệu lực.
+
+	Kỹ năng: Khai khẩn đất hoang, cày sâu cuốc bẫm
+
+	Che chở? Giả Niệm bừng tỉnh đại ngộ, nguyên lai che chở là có hạn mức cao nhất.
+
+	Bản thành đẳng cấp 1 giai? Đây cũng là có ý tứ gì? Chẳng lẽ nói có thể thăng cấp, che chở hạn mức cao nhất cũng có thể tăng lên.
+
+	Còn có phòng giữ binh lực cũng làm cho hắn tràn đầy nghi hoặc.
+
+	Tâm niệm vừa động, chữ viết phát sinh biến hóa.
+
+	Tế đàn thuộc tính như sau.
+
+	Đẳng cấp: 0/ 1
+
+	Thăng cấp điều kiện: Thần bí kim tệ 1000000
+
+	Mỗi ngày cung cấp 1 điểm khí vận.
+
+	Công năng: Tế tự
+
+	Lợi dụng bản thành nông nghiệp sản xuất cùng thần bí kim tệ có thể cử hành tế tự hoạt động, thu hoạch được khí vận chi lực.
+
+	Trước mắt có thể đạt được  khí vận hạn mức cao nhất: 100
+
+	Tường thành thuộc tính như sau.
+
+	Đẳng cấp: 0/ 1
+
+	Thăng cấp điều kiện: Thần bí kim tệ 1000000
+
+	Phòng ngự giá trị: 100000
+
+	Có thể dung nạp quân phòng giữ: 3000
+
+	Thị trường thuộc tính như sau.
+
+	Đẳng cấp: 1/ 1
+
+	Thăng cấp điều kiện: Thần bí kim tệ 1000000
+
+	Thương phẩm mua bán giao dịch chi địa
+
+	Phủ thành chủ thuộc tính như sau
+
+	Đẳng cấp: 1/ 1
+
+	Thăng cấp điều kiện: Tế đàn 1 giai, tường thành 1 giai, quân phòng giữ doanh 1 giai, quân phòng giữ ba ngàn. Lịch sử chiến trường 1 giai, thời không chiến trường 1 giai. Thần bí kim tệ 1000000
+
+	Lịch sử chiến trường? Thời không chiến trường?
+
+	Nhìn xem những chữ viết này, Giả Niệm không khỏi có chút choáng váng.
+
+	Lịch sử chiến trường là cái gì? Thời không chiến trường là cái gì? .
+
+	Khí vận, không nghĩ tới tế đàn thế mà cung cấp khí vận, đây chính là giáp xác trùng cần tiêu hao đồ vật sao? .
+
+	Có lẽ tòa thành này, so với mình tưởng tượng còn kinh khủng hơn.
+
+	Không hổ là nghiêng toàn hiện thực Thế Giới chi lực tạo ra đồ vật.
+
+	Lịch sử chiến trường? Thời không chiến trường? Công năng của bọn nó là cái gì? .
+
+	Nghĩ tới đây thở một hơi thật dài, ánh mắt nhìn về phía một bên Quách Đại Bàn.
+
+	Quách Đại Bàn cũng đưa ánh mắt dời, đối Giả Niệm lắc đầu, trên mặt chấn kinh thật lâu không tiêu tan.
+
+	"Thế giới thông cáo "
+
+	"Tiên hiệp thế giới phó bản khôi lỗi tông nghe nói thế giới hiện thực gặp Hạo Kiếp,
+
+	Vì vậy phái đệ tử xuống núi, đến đây hơi tận sức mọn "
+
+	"Ngay hôm đó lên mỗi tòa Định Giới Thành đều có một khôi lỗi tông đệ tử vào ở "
+
+	"Tất cả thành chủ có thể dùng thần bí kim tệ tại khôi lỗi tông đệ tử trong tay mua sắm quân phòng giữ doanh "
+
+	"Tiên hiệp văn minh cùng văn minh khoa học kỹ thuật va chạm, trí năng khôi lỗi quân đoàn sắp sinh ra "
+
+	"Trí năng khôi lỗi là Định Giới Thành quân phòng giữ, lấy thủ vệ thành trì vì chung cực nhiệm vụ, vì vậy không tham dự trừ thủ thành bên ngoài hết thảy sự vật "
+
+	Giả Niệm cùng Quách Đại Bàn liếc mắt nhìn lẫn nhau, trí năng khôi lỗi quân đoàn, quân phòng giữ doanh? .
+
+	"Quân phòng giữ? Khôi lỗi quân phòng giữ" Quách Đại Bàn cơ hồ kinh điệu cái cằm.
+
+	Giả Niệm hít vào một ngụm khí lạnh, trong lòng thật lâu khó mà bình tĩnh: "Tốt một cái khôi lỗi quân phòng giữ "
+
+	Đây coi như là thủ thành ưu thế sao? Phát triển khôi lỗi quân phòng giữ, có thể để trong thành chủ lực tốt hơn xuất kích.
+
+	Tiên hiệp thế giới phó bản, khôi lỗi tông.
+
+	Giả Niệm ở trong lòng lặp lại một câu, dần dần sa vào đến trong suy tư.
+
+	"Liên hiệp quốc thông cáo "
+
+	"Ba ngày sau thế giới hiện thực đem liên hợp tiên hiệp thế giới phó bản, cử hành thịnh đại đấu giá hội "
+
+	"Phàm thân ở Định Giới Thành thị trường bên trong, đều có thể tham dự lần này đấu giá "
+
+	"Đặc biệt nhắc nhở: Lần này đấu giá hội chỉ lấy lấy thần bí kim tệ, không tiếp thụ lấy vật đổi vật phương thức "
+
+	Theo bản năng đưa tay bóp thành nắm đấm, Giả Niệm nhanh chóng tiêu hóa những tin tức này.
+
+	"Đấu giá hội?" Giả Niệm nói.
+
+	Quách Đại Bàn đập tắc lưỡi: "Thế giới hiện thực cùng tiên hiệp thế giới phó bản liên hợp cử hành đấu giá hội, xem ra lần này xâm lấn sự kiện, để thế giới các nước đều bỏ hết cả tiền vốn "
+
+	"Đốt cháy giai đoạn a" Giả Niệm cảm khái.
+
+	Ngay sau đó lời nói xoay chuyển: "Bất quá ta thích "
+
+	"Đây cũng là cảm giác nguy cơ thể hiện, đem so sánh với chuyện này, ta càng hiếu kỳ. Bọn hắn là thế nào trực tiếp từ tiên hiệp thế giới phó bản bên trong, đem đồ vật lấy ra" Quách Đại Bàn hồi phục.
+
+	Giả Niệm sững sờ: "Có lẽ có chúng ta không biết thủ đoạn cùng lý luận làm căn cứ, cũng nói không chắc "
+
+	"Vậy cũng đúng" Quách Đại Bàn gật đầu.
+
+	Ánh mắt nhìn về phía quân đoàn giao diện, thuận miệng nói ra mức: "Quân đoàn thần bí kim tệ 14584745, ta hiện tại đột nhiên cảm giác có chút không đủ dùng "
+
+	"Tu kiến kiến trúc, mua sắm vật phẩm, còn muốn tham gia đấu giá hội" Quách Đại Bàn tính toán.
+
+	Giả Niệm đột nhiên cười một tiếng: "Ngươi cho là chúng ta có tư cách trên đấu giá hội mua được đồ vật sao?"
+
+	"Vì cái gì nói như vậy?" Quách Đại Bàn hỏi lại.
+
+	Sau đó vỗ đầu một cái: "Cũng thế, chuyện này có lẽ thế giới các quốc gia công hội cùng quân đoàn,  không biết chuẩn bị bao nhiêu năm. Chúng ta có thể đi đến một bước này, đã coi là cực hạn "
+
+	"Được rồi, không hi vọng xa vời, tham gia náo nhiệt tuy không tệ" Quách Đại Bàn thoáng có chút thoải mái.
+
+	Lúc trước Dương Nghiêm Thanh nổi trận lôi đình tràng cảnh còn rõ mồn một trước mắt, vì Định Giới Thành bọn hắn chuẩn bị nhiều năm, như vậy đối cuộc bán đấu giá này không có khả năng không có chút nào phong thanh.
+
+	Cần biết tại trong thế giới hiện thực trên thị trường, nhưng không có xuất hiện qua thần bí kim tệ. Như vậy sản xuất thần bí kim tệ hướng chảy chỗ đó? kết quả không cần nói cũng biết.
+
+	Giả Niệm suy nghĩ lưu chuyển, trong lòng hiện ra vẻ mong đợi.
+
+	Mặc kệ có thể hay không trên đấu giá hội mua được đồ vật, chính mình cũng muốn đi nhìn một chút.
+
+	Thông qua đấu giá hội có thể đối thế giới hiện thực cùng tiên hiệp thế giới phó bản thực lực có một cái trực quan nhận biết, cùng đối những cái kia thần bí vật phẩm tiến hành đại khái bên trên hiểu rõ.
+
+	Sau này tại nghênh địch thời điểm, cũng có thể làm được trong lòng hiểu rõ.
+
+	Huống chi mình đối giáp xác trùng cũng có được nhất định phỏng đoán, công năng của nó cũng không phải là trống rỗng xuất hiện, có lẽ là có một loại nào đó căn cứ.
+
+	Mà loại này căn cứ, hoàn toàn có thể cùng những cái kia bán đấu giá vật phẩm làm một cái so sánh.
+
+	Thiên Sách phủ, giáp xác trùng, cuối thời Đông Hán thế giới phó bản.
+
+	Bọn chúng ở giữa giống như có một sợi dây, loáng thoáng xuyên thành một sợi dây chuyền, tản ra mê người quang trạch.
+
+	Tỉ như nói quân đoàn lệnh, Kính Tượng Lệnh, những vật này là thế giới phó bản kết toán thời điểm trống rỗng xuất hiện sao? Vẫn là nói trong đó tồn tại không có bị người phát hiện quy tắc? . Bằng không giải thích như thế nào trận này sắp bắt đầu đấu giá hội? .
+
+	Giáp xác trùng cần khí vận, thế giới hiện thực cùng thế giới phó bản cần bản nguyên.
+
+	Như vậy một kết quả đã loáng thoáng hiện lên ra, chỉ là cảm giác còn thiếu sót một vài thứ, có vẻ hơi mông lung.Lít nha lít nhít chữ viết xuất hiện ở trước mắt, ngay sau đó tòa thành thị này thuộc tính lợi dụng số liệu phương thức biểu hiện ra.
+
+	Tên: Thiên Sách phủ
+
+	Thành chủ: Giả Niệm
+
+	Bản thành cấp bậc: 1 giai
+
+	Sở thuộc thế lực: Thiên Sách quân đoàn
+
+	Nhân khẩu: 252
+
+	Binh lực: 150/ 1000
+
+	Phòng giữ binh lực: 0/ 3000
+
+	Định cư nhân khẩu: 100/ 10000
+
+	Chức nghiệp giả (người chơi): 100
+
+	Tài chính (thần bí kim tệ): 14584745
+
+	Kiến trúc: Phủ thành chủ, tế đàn, thị trường, tường thành
+
+	Nội chính thuộc tính như sau.
+
+	Thương nghiệp giá trị: 100/ 1000
+
+	Nông nghiệp giá trị: 100/ 1000
+
+	Văn hóa giá trị: 100/ 1000
+
+	Phồn vinh độ: 100/ 1000
+
+	Có thể cung cấp lớn nhất che chở gia trì nhân số: 150/ 1000
+
+	Nhìn đến đây Giả Niệm thu hồi ánh mắt, theo bản năng điều ra Thang Cao Minh thuộc tính, loáng thoáng tựa như minh bạch một chút đồ vật.
+
+	Tính danh: Thang Cao Minh
+
+	Thân phận: Xương Hà trấn đao binh đại đội trưởng
+
+	Nghề nghiệp một: Nông dân
+
+	Nghề nghiệp hai: Kiếm binh
+
+	Vũ khí: Quân dụng kiếm (lực công kích + 150)
+
+	Khôi giáp: Phổ thông khôi giáp (lực phòng ngự + 300)
+
+	Nghề nghiệp đẳng cấp: Nông dân 1 giai cấp 8, kiếm binh 1 giai cấp 9
+
+	Tư thái một: Cuối thời Đông Hán thế giới phó bản Xương Hà trấn cư dân (nên tư thái không thể sử dụng)
+
+	Tư thái hai: Thiên Sách quân đoàn tướng sĩ, hưởng thụ Thiên Sách phủ che chở (nên tư thái khi tiến vào cuối thời Đông Hán thế giới phó bản về sau, sẽ tính cả không phải thế giới phó bản bên ngoài ký ức cùng nhau phong tồn).
+
+	Thiên Sách phủ che chở, phàm Thiên Sách quân đoàn Xương Hà trấn tướng sĩ, có thể đạt được  ba lần phục sinh tư cách. Nên phục sinh tư cách, gần như chỉ ở cuối thời Đông Hán thế giới phó bản bên trong mất đi hiệu lực.
+
+	Kỹ năng: Khai khẩn đất hoang, cày sâu cuốc bẫm
+
+	Che chở? Giả Niệm bừng tỉnh đại ngộ, nguyên lai che chở là có hạn mức cao nhất.
+
+	Bản thành đẳng cấp 1 giai? Đây cũng là có ý tứ gì? Chẳng lẽ nói có thể thăng cấp, che chở hạn mức cao nhất cũng có thể tăng lên.
+
+	Còn có phòng giữ binh lực cũng làm cho hắn tràn đầy nghi hoặc.
+
+	Tâm niệm vừa động, chữ viết phát sinh biến hóa.
+
+	Tế đàn thuộc tính như sau.
+
+	Đẳng cấp: 0/ 1
+
+	Thăng cấp điều kiện: Thần bí kim tệ 1000000
+
+	Mỗi ngày cung cấp 1 điểm khí vận.
+
+	Công năng: Tế tự
+
+	Lợi dụng bản thành nông nghiệp sản xuất cùng thần bí kim tệ có thể cử hành tế tự hoạt động, thu hoạch được khí vận chi lực.
+
+	Trước mắt có thể đạt được  khí vận hạn mức cao nhất: 100
+
+	Tường thành thuộc tính như sau.
+
+	Đẳng cấp: 0/ 1
+
+	Thăng cấp điều kiện: Thần bí kim tệ 1000000
+
+	Phòng ngự giá trị: 100000
+
+	Có thể dung nạp quân phòng giữ: 3000
+
+	Thị trường thuộc tính như sau.
+
+	Đẳng cấp: 1/ 1
+
+	Thăng cấp điều kiện: Thần bí kim tệ 1000000
+
+	Thương phẩm mua bán giao dịch chi địa
+
+	Phủ thành chủ thuộc tính như sau
+
+	Đẳng cấp: 1/ 1
+
+	Thăng cấp điều kiện: Tế đàn 1 giai, tường thành 1 giai, quân phòng giữ doanh 1 giai, quân phòng giữ ba ngàn. Lịch sử chiến trường 1 giai, thời không chiến trường 1 giai. Thần bí kim tệ 1000000
+
+	Lịch sử chiến trường? Thời không chiến trường?
+
+	Nhìn xem những chữ viết này, Giả Niệm không khỏi có chút choáng váng.
+
+	Lịch sử chiến trường là cái gì? Thời không chiến trường là cái gì? .
+
+	Khí vận, không nghĩ tới tế đàn thế mà cung cấp khí vận, đây chính là giáp xác trùng cần tiêu hao đồ vật sao? .
+
+	Có lẽ tòa thành này, so với mình tưởng tượng còn kinh khủng hơn.
+
+	Không hổ là nghiêng toàn hiện thực Thế Giới chi lực tạo ra đồ vật.
+
+	Lịch sử chiến trường? Thời không chiến trường? Công năng của bọn nó là cái gì? .
+
+	Nghĩ tới đây thở một hơi thật dài, ánh mắt nhìn về phía một bên Quách Đại Bàn.
+
+	Quách Đại Bàn cũng đưa ánh mắt dời, đối Giả Niệm lắc đầu, trên mặt chấn kinh thật lâu không tiêu tan.
+
+	"Thế giới thông cáo "
+
+	"Tiên hiệp thế giới phó bản khôi lỗi tông nghe nói thế giới hiện thực gặp Hạo Kiếp,
+
+	Vì vậy phái đệ tử xuống núi, đến đây hơi tận sức mọn "
+
+	"Ngay hôm đó lên mỗi tòa Định Giới Thành đều có một khôi lỗi tông đệ tử vào ở "
+
+	"Tất cả thành chủ có thể dùng thần bí kim tệ tại khôi lỗi tông đệ tử trong tay mua sắm quân phòng giữ doanh "
+
+	"Tiên hiệp văn minh cùng văn minh khoa học kỹ thuật va chạm, trí năng khôi lỗi quân đoàn sắp sinh ra "
+
+	"Trí năng khôi lỗi là Định Giới Thành quân phòng giữ, lấy thủ vệ thành trì vì chung cực nhiệm vụ, vì vậy không tham dự trừ thủ thành bên ngoài hết thảy sự vật "
+
+	Giả Niệm cùng Quách Đại Bàn liếc mắt nhìn lẫn nhau, trí năng khôi lỗi quân đoàn, quân phòng giữ doanh? .
+
+	"Quân phòng giữ? Khôi lỗi quân phòng giữ" Quách Đại Bàn cơ hồ kinh điệu cái cằm.
+
+	Giả Niệm hít vào một ngụm khí lạnh, trong lòng thật lâu khó mà bình tĩnh: "Tốt một cái khôi lỗi quân phòng giữ "
+
+	Đây coi như là thủ thành ưu thế sao? Phát triển khôi lỗi quân phòng giữ, có thể để trong thành chủ lực tốt hơn xuất kích.
+
+	Tiên hiệp thế giới phó bản, khôi lỗi tông.
+
+	Giả Niệm ở trong lòng lặp lại một câu, dần dần sa vào đến trong suy tư.
+
+	"Liên hiệp quốc thông cáo "
+
+	"Ba ngày sau thế giới hiện thực đem liên hợp tiên hiệp thế giới phó bản, cử hành thịnh đại đấu giá hội "
+
+	"Phàm thân ở Định Giới Thành thị trường bên trong, đều có thể tham dự lần này đấu giá "
+
+	"Đặc biệt nhắc nhở: Lần này đấu giá hội chỉ lấy lấy thần bí kim tệ, không tiếp thụ lấy vật đổi vật phương thức "
+
+	Theo bản năng đưa tay bóp thành nắm đấm, Giả Niệm nhanh chóng tiêu hóa những tin tức này.
+
+	"Đấu giá hội?" Giả Niệm nói.
+
+	Quách Đại Bàn đập tắc lưỡi: "Thế giới hiện thực cùng tiên hiệp thế giới phó bản liên hợp cử hành đấu giá hội, xem ra lần này xâm lấn sự kiện, để thế giới các nước đều bỏ hết cả tiền vốn "
+
+	"Đốt cháy giai đoạn a" Giả Niệm cảm khái.
+
+	Ngay sau đó lời nói xoay chuyển: "Bất quá ta thích "
+
+	"Đây cũng là cảm giác nguy cơ thể hiện, đem so sánh với chuyện này, ta càng hiếu kỳ. Bọn hắn là thế nào trực tiếp từ tiên hiệp thế giới phó bản bên trong, đem đồ vật lấy ra" Quách Đại Bàn hồi phục.
+
+	Giả Niệm sững sờ: "Có lẽ có chúng ta không biết thủ đoạn cùng lý luận làm căn cứ, cũng nói không chắc "
+
+	"Vậy cũng đúng" Quách Đại Bàn gật đầu.
+
+	Ánh mắt nhìn về phía quân đoàn giao diện, thuận miệng nói ra mức: "Quân đoàn thần bí kim tệ 14584745, ta hiện tại đột nhiên cảm giác có chút không đủ dùng "
+
+	"Tu kiến kiến trúc, mua sắm vật phẩm, còn muốn tham gia đấu giá hội" Quách Đại Bàn tính toán.
+
+	Giả Niệm đột nhiên cười một tiếng: "Ngươi cho là chúng ta có tư cách trên đấu giá hội mua được đồ vật sao?"
+
+	"Vì cái gì nói như vậy?" Quách Đại Bàn hỏi lại.
+
+	Sau đó vỗ đầu một cái: "Cũng thế, chuyện này có lẽ thế giới các quốc gia công hội cùng quân đoàn,  không biết chuẩn bị bao nhiêu năm. Chúng ta có thể đi đến một bước này, đã coi là cực hạn "
+
+	"Được rồi, không hi vọng xa vời, tham gia náo nhiệt tuy không tệ" Quách Đại Bàn thoáng có chút thoải mái.
+
+	Lúc trước Dương Nghiêm Thanh nổi trận lôi đình tràng cảnh còn rõ mồn một trước mắt, vì Định Giới Thành bọn hắn chuẩn bị nhiều năm, như vậy đối cuộc bán đấu giá này không có khả năng không có chút nào phong thanh.
+
+	Cần biết tại trong thế giới hiện thực trên thị trường, nhưng không có xuất hiện qua thần bí kim tệ. Như vậy sản xuất thần bí kim tệ hướng chảy chỗ đó? kết quả không cần nói cũng biết.
+
+	Giả Niệm suy nghĩ lưu chuyển, trong lòng hiện ra vẻ mong đợi.
+
+	Mặc kệ có thể hay không trên đấu giá hội mua được đồ vật, chính mình cũng muốn đi nhìn một chút.
+
+	Thông qua đấu giá hội có thể đối thế giới hiện thực cùng tiên hiệp thế giới phó bản thực lực có một cái trực quan nhận biết, cùng đối những cái kia thần bí vật phẩm tiến hành đại khái bên trên hiểu rõ.
+
+	Sau này tại nghênh địch thời điểm, cũng có thể làm được trong lòng hiểu rõ.
+
+	Huống chi mình đối giáp xác trùng cũng có được nhất định phỏng đoán, công năng của nó cũng không phải là trống rỗng xuất hiện, có lẽ là có một loại nào đó căn cứ.
+
+	Mà loại này căn cứ, hoàn toàn có thể cùng những cái kia bán đấu giá vật phẩm làm một cái so sánh.
+
+	Thiên Sách phủ, giáp xác trùng, cuối thời Đông Hán thế giới phó bản.
+
+	Bọn chúng ở giữa giống như có một sợi dây, loáng thoáng xuyên thành một sợi dây chuyền, tản ra mê người quang trạch.
+
+	Tỉ như nói quân đoàn lệnh, Kính Tượng Lệnh, những vật này là thế giới phó bản kết toán thời điểm trống rỗng xuất hiện sao? Vẫn là nói trong đó tồn tại không có bị người phát hiện quy tắc? . Bằng không giải thích như thế nào trận này sắp bắt đầu đấu giá hội? .
+
+	Giáp xác trùng cần khí vận, thế giới hiện thực cùng thế giới phó bản cần bản nguyên.
+
+	Như vậy một kết quả đã loáng thoáng hiện lên ra, chỉ là cảm giác còn thiếu sót một vài thứ, có vẻ hơi mông lung.

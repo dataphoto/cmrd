@@ -1,0 +1,77 @@
+ 366 chương làm điểm cống hiến
+
+	 
+
+	"Thẩm Kỳ ra đạo này đề, chỗ khó không phải cho ra đáp án, mà là chứng minh câu trả lời quá trình." Đàm hội phó nói đến.
+
+	Lưu cán sự nói tiếp: "Không sai, đạo này đề hai chiều tình huống vô cùng đơn giản, chúng ta có thể cân nhắc nhất bên ngoài một vòng 4n-1 cái điểm, nếu như không có thẳng tắp x=n hoặc y=n, như vậy mỗi cái đường thẳng nhiều nhất qua cái này 4n-1 cái điểm trúng hai cái, cho nên chí ít cần 2n cái đường thẳng. Nếu có thẳng tắp x=n hoặc y=n, cũng không khó đạt được đáp án, vẫn là 2n. Cho nên hai chiều kết quả cuối cùng chính là 2n."
+
+	"Nhưng là đem loại phương pháp này đẩy hướng ba chiều thời điểm, phiền phức liền xuất hiện. Ba chiều tình huống dùng để bao trùm không phải thẳng tắp mà là mặt phẳng, mặt phẳng có ba cái tự do lượng biến đổi, mà lại không dễ dàng lựa chọn sử dụng tiêu chí điểm tới tiến hành khảo sát. Bất quá chúng ta vẫn có thể rất nhanh đánh giá ra, ba chiều kết quả cuối cùng nhất định là 3n. Bất kỳ một cái nào có qua thi đua kinh lịch cao trung sinh, bằng vào trực giác đều có thể suy tính ra 3n đáp án này, nhưng mà muốn nghiêm cẩn chứng minh 3n cái mặt phẳng, liền phi thường khó khăn." Lưu cán sự nhìn về phía bảng đen, nói chuyện đàm cái nhìn của hắn.
+
+	"Kết luận rõ ràng, chứng minh cái kết luận này khó như lên trời." Khổng cán sự đi đến đen tấm trước, gỡ xuống kính lão lần nữa xem kỹ đề làm: "Các vị, các ngươi nói làm như thế nào chứng minh ít nhất cần 3n cái mặt phẳng?"
+
+	"Logic trò chơi." Thẩm Kỳ cười nói, hắn lần nữa cầm lấy phấn viết, chuẩn bị cho ra chứng minh.
+
+	Lưu cán sự vén tay áo lên, xem ra đã có mạch suy nghĩ: "Đạo này đề đâu, mấu chốt nhất một điểm là đem cái này nhìn như tổ hợp tính toán thiết lập chuyển hóa làm thuần đại số vấn đề. Chỉ cần nhảy ra cái này tư duy cực hạn, lập tức trời cao biển rộng."
+
+	"Lưu cán sự quả nhiên là người trong nghề, xem ra không có ta chuyện gì." Thẩm Kỳ sẽ không quên, Lưu cán sự từng là hắn tại olympic toán học tập huấn đội lúc đại số khóa huấn luyện viên.
+
+	"Thẩm Kỳ, cái này đề chúng ta nhận, cám ơn ngươi, đây là phi thường bổng một đạo áo số đề." Đàm hội phó nói đến.
+
+	"Vậy được, ta trước cáo từ, trên lầu có cái giao lưu hội cần ta tham gia." Thẩm Kỳ rời đi phòng họp, đi lên trên lầu học thuật báo cáo đại sảnh.
+
+	Mấy vị tuổi trẻ toán học người làm việc báo cáo bọn hắn mới nhất thành quả nghiên cứu, Thẩm Kỳ làm khách quý một trong tiến hành lời bình.
+
+	Học thuật báo cáo hội kết thúc về sau, Thẩm Kỳ tản bộ đến dưới lầu, phát hiện Đàm hội phó, Lưu cán sự, Khổng cán sự ba người ở tại phòng họp còn chưa đi.
+
+	Trên bảng đen viết đầy toán học ký hiệu, Thẩm Kỳ nhanh chóng xem một lần, phát hiện hắn ra đạo này áo số đề bị hoàn mỹ chứng minh.
+
+	Thẩm Kỳ khen không dứt miệng: "Phi thường xinh đẹp chứng minh, đem mỗi cái mặt phẳng biểu thị thành một cái tam nguyên một lần đa thức hình thức, sau đó đem những này đa thức đều thừa ngồi dậy, như vậy cần chứng minh chỉ có một điểm, chính là thừa ra đa thức chí ít có 3n thứ. Làm rất xinh đẹp, Lưu cán sự."
+
+	Nhưng mà Lưu cán sự sầu mi khổ kiểm gõ gõ đồng hồ: "Ta cùng lão Đàm, lão Khổng ba người dùng hai giờ hoàn thành chứng minh, chúng ta không cho rằng có cao trung sinh có thể tại quy định bài thi thời gian bên trong chứng minh 3n."
+
+	"Không làm không biết, một làm giật mình, cái này đề là iMo áp trục cấp bậc, đặt ở CMo đấu trường không quá phù hợp." Đàm hội phó tổng kết đạo.
+
+	"Nếu như không có một vị Trung Quốc olympic toán học tuyển thủ có thể tại quốc quyết trên sàn thi đấu chứng minh cái này đề, vậy cũng quá đả kích thanh thiếu niên toán học kẻ yêu thích tính tích cực." Khổng cán sự cho rằng cái này đề thật sự là quá khó khăn, đề nghị thích hợp hạ xuống độ khó.
+
+	"Các ngươi mới vừa rồi còn nói, cái này đề nhận." Thẩm Kỳ bó tay rồi, các ngươi cũng quá coi thường Trung Quốc đương thời cao trung sinh đi, 00 sau thực lực kinh khủng các ngươi căn bản là không có cách tưởng tượng.
+
+	"Thẩm Kỳ ngươi ra đạo này đề, xâm nhập chứng minh về sau ta mới phát hiện, khắp nơi là cạm bẫy!" Lưu cán sự vô cùng lo lắng trong túi sờ thứ gì.
+
+	Thẩm Kỳ kinh hãi: "Lưu cán sự, ngươi lại phạm bệnh tim rồi? Được được được, ta đổi đạo đề được không, thích hợp hạ xuống độ khó!"
+
+	Kết quả Lưu cán sự lấy ra một cây điện tử thuốc lá thơm, toát hai cái, thư thản: "Từ khi ngươi xuất ngoại sau trái tim của ta bệnh liền rốt cuộc không có phát tác, khống chế tương đương ổn định."
+
+	"Lời nói này, lão Lưu, ta trong lòng của ngươi hình tượng đại khái chính là bệnh ma a?" Thẩm Kỳ đích cười đều không phải.
+
+	Đàm hội phó nghĩ nghĩ, đưa ra một cái điều hoà phương án: "Thẩm Kỳ ra đạo này đề, trình độ xác thực tương đương chi cao, cao trung sinh chỉ có đem toán học kỹ xảo vận dụng đến cực hạn, cũng đánh vỡ thường quy tư duy hình thức, mới có thể cho ra chính xác chứng minh. Như vậy đi, căn cứ tuyển chọn siêu cao trình độ olympic toán học tuyển thủ nguyên tắc, chúng ta đem đạo này áo số đề liệt vào CMo quốc quyết tuyển làm bài, làm sai không trừ điểm, đối đầu thêm điểm."
+
+	"Có thể thực hiện."
+
+	"Ổn thỏa."
+
+	Thẩm Kỳ, Lưu cán sự, Khổng cán sự đều đồng ý Đàm hội phó đề án, thế là đạo này nhìn như đơn giản kì thực siêu khó khăn đề mục bị liệt là năm nay CMo quốc quyết tuyển làm bài.
+
+	Thẩm Kỳ cùng lão Đàm, lão Lưu, lão Khổng ba người đánh cược, nếu như toàn Trung Quốc làm ra đạo này tuyển làm bài cao trung sinh ít hơn so với 5 vị, vậy coi như ta Thẩm Kỳ thua.
+
+	"Ngươi thua khả năng rất lớn, ta đánh cược với ngươi!" Lão Đàm, lão Lưu, lão Khổng tiếp chiêu, tiền đánh cược là một bữa cơm.
+
+	Thủ đô chuyện bên này trên cơ bản làm xong, Thẩm Kỳ rời đi thủ đô bay hướng Nam Cảng thị, hắn vị này người bận rộn một thân phận khác là Nam Cảng đại học Khoa Học Tự Nhiên vật lý đặc biệt mời giáo sư.
+
+	Treo cái tên, trong một năm dù sao cũng phải tại người ta Nam Cảng đại học Khoa Học Tự Nhiên chơi một lúc thời gian, Thẩm Kỳ đi vào Nam Cảng đại học Khoa Học Tự Nhiên, tìm tới Thì viện sĩ: "Thì viện sĩ, ta lần này về nước còn có thể ngốc hơn mười ngày, chúng ta vật viện cần ta làm cái gì sao?"
+
+	Thì viện sĩ kiêm vật viện viện trưởng, hắn nói đến: "Hơn mười ngày cũng không làm được cái gì hạng mục lớn, trường học chúng ta đối ngươi không có cứng nhắc khảo hạch chỉ tiêu, nếu không ngươi liền bốn phía đi dạo, cho chúng ta vật viện, viện toán học hoặc là học viện khác chọc điểm mao bệnh? Nghiên cứu khoa học phương diện, trường học phương diện, hậu cần phương diện, từng cái phương diện chỗ thiếu sót, ngươi cho chúng ta đề điểm cải thiện ý kiến đi."
+
+	"Xách cải thiện ý kiến không có vấn đề, Thì viện sĩ, chúng ta vật viện thiên văn quan trắc trạm thiết bị có thể cho ta mượn mở một chút ăn mặn sao?"
+
+	"Đương nhiên có thể." Thì viện sĩ lập tức đáp ứng, lập tức lại nói: "Nhưng gần nhất trong khoảng thời gian này, vật viện thiên văn quan trắc trạm chủ yếu thiết bị đang tiến hành bảo dưỡng giữ gìn, nếu như ngươi có thể ở lâu mấy tháng lời nói, vậy liền oK."
+
+	"Thật là quá đáng tiếc, xem ra chỉ có thể lần sau." Thẩm Kỳ nguyên bản còn muốn lấy chơi đùa Nam Cảng đại học Khoa Học Tự Nhiên kính thiên văn vô tuyến, kết quả lần này không có chơi.
+
+	Vậy liền giúp ta Nam Cảng đại học Khoa Học Tự Nhiên vật lý học viện đề điểm cải thiện ý kiến đi, nhiều ít đến vì trường này vật lý lĩnh vực làm điểm cống hiến, nếu không hệ thống không thừa nhận nhiệm vụ hoàn thành làm sao bây giờ?
+
+	Thẩm Kỳ đi vào đại học thành, mang theo khẩu trang, gần nhất cảm cúm tứ ngược, thật nhiều người mang khẩu trang.
+
+	Nam Cảng thị đại bộ phận trường trung học tại đại học thành đồng đều sắp đặt giáo khu, Thẩm Kỳ đi vào đại học thành Nam Cảng đại học Khoa Học Tự Nhiên giáo khu, tiến vào lầu dạy học, ngồi tại hàng cuối cùng, nghe tiết vật lý chuyên nghiệp  « lượng tử cơ học ».
+
+	Chỉ nghe nửa tiết khóa, Thẩm Kỳ liền phát hiện không ít vấn đề, hắn từng cái ghi chép lại, suy tư đối sách. 

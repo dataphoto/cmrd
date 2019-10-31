@@ -1,0 +1,101 @@
+ 324 chương truyền kỳ
+
+	"Trở lại chuyện chính, chúng ta trở lại hàm số cấu tạo phương trình cos(1+Γ(x) ╱ x+1+Γ(2n-x) ╱ 2n-x) Pi+ isin(px+b) Pi=-1."
+
+	Thẩm Kỳ báo cáo tiến vào giai đoạn kết thúc: "Làm n=1 lúc, cái này phương trình một tổ giải là x=1 cùng (2n-x)=1."
+
+	"Làm n=2 lúc, cái này phương trình một tổ giải là x=2 cùng (2n-x)=2."
+
+	"Làm nz, ? n&gt;2 lúc, căn cứ dẫn lý 1 tức Wilson định lý, chúng ta có thể rõ ràng biết được, cái này phương trình tồn tại một tổ kỳ số nguyên tố đối giải!"
+
+	"Điều này nói rõ cái gì, điều này có ý vị gì?"
+
+	Thẩm Kỳ lúc đầu rất bình tĩnh, nói đến đây chỗ vẫn là không hiểu hưng phấn lên: "Cái kết luận này là xây dựng ở đại số cơ bản định lý bên trên, nói cách khác, tại nz, ? n&gt;2 lúc, hàm số cấu tạo phương trình không hiếm hoi còn sót lại tại một tổ mà lại nhất định phải tồn tại một tổ kỳ số nguyên tố đối giải, Goldbach phỏng đoán 1+1 là không hề nghi ngờ chân mệnh đề!"
+
+	"Nếu như Goldbach phỏng đoán 1+1 đúng đúng ngụy đầu đề, như vậy đại số cơ bản định lý đúng không đáng tin. Nếu như đại số cơ bản định lý không đáng tin, như vậy. . . Như vậy ta cũng nói không rõ chỉ dẫn chúng ta hơn năm trăm năm đại số cơ bản định lý nếu như là sai lầm, sẽ mang đến hậu quả như thế nào?"
+
+	"Cho nên Goldbach phỏng đoán 1+1 nhất định phải là chân mệnh đề, chứng tất." Thẩm Kỳ ngẫm lại cũng rất đáng sợ, nếu như đại số cơ bản định lý là sai lầm, toàn bộ toán học giới liền sụp đổ, xong đời.
+
+	"Nó nhất định phải là chân mệnh đề." Kabrovsky giáo sư nói đến.
+
+	"Thẩm giáo sư, sự chứng minh của ngươi mạch suy nghĩ phi thường xảo diệu." Sabasin giáo sư nói đến.
+
+	Ở đây nhà toán học nhất trí tán đồng Thẩm Kỳ liên quan tới Goldbach phỏng đoán 1+1 chứng minh, Thẩm Kỳ lần này đi âu học thuật nhiệm vụ thuận lợi hoàn thành.
+
+	Đương nhiên, cái này hơn mười vị nhà toán học không thể đại biểu toàn bộ toán học giới, cuối cùng muốn lấy IMU ý kiến làm chuẩn.
+
+	Học thuật giao lưu hội kết thúc về sau, Thẩm Kỳ tiếp nhận phỏng vấn, hắn nói rất đơn giản, sau đó biến mất tại truyền thông tầm mắt bên trong.
+
+	Các phóng viên vẫn chưa đủ Fields thưởng người đoạt giải nói câu nào liền đi cục diện, bọn hắn tìm được Thẩm Kỳ giáo sư bằng hữu, Ấn Độ nhà toán học Sabasin, muốn đào ra càng nhiều liệu.
+
+	Đến từ nước Anh danh giáo The University of Manchester Sabasin giáo sư đối mặt phóng viên nói đến: "Đúng vậy, Thẩm giáo sư thành công đã chứng minh Goldbach phỏng đoán, cùng tương quan cái khác ba cái phỏng đoán, các ngươi chỉ cần biết điểm ấy như vậy đủ rồi. Ta như thế nào đánh giá hắn? Ta đã từng nói, Trung Quốc chìa khoá có được thiên tài đại não cùng ma quỷ Logic, đúng vậy, hắn chính là như vậy một cái nam nhân."
+
+	Tin tức tin tức rất nhanh truyền ra: "Thiên tài? Ma quỷ? Kế Riemann phỏng đoán về sau, Thẩm Kỳ thành công chứng minh Goldbach phỏng đoán."
+
+	"Ai có thể ngăn cản Thẩm Kỳ bộ pháp, kế tiếp được giải quyết phỏng đoán chính là cái gì?"
+
+	"Tiếp nhận ta xã phỏng vấn lúc, Thẩm Kỳ chỉ nói một câu: Đừng quá mức để ý những cái kia phỏng đoán, hệ thống quyết định tương lai, cương lĩnh cứu vớt toán học."
+
+	"Có lẽ mới cương lĩnh cùng số học đại nhất thống, mới là Thẩm Kỳ mục tiêu cuối cùng."
+
+	"Mới cương lĩnh cùng số học đại nhất thống? Chúng ta giống như đang cùng Thượng Đế đối thoại, tại phương tây toán học văn minh bên trong, Thượng Đế là nhà toán học, hắn định ra cương lĩnh, hắn hoàn thành thống nhất."
+
+	. . .
+
+	Thẩm Kỳ là người không phải Thượng Đế, hắn cùng bạn gái lặng yên rời đi Zurich, đi tới Thụy Sĩ thành thị lớn thứ ba Basel.
+
+	Basel ở vào Thụy Sĩ, nước Pháp, Đức quốc Tam quốc chỗ giao giới, thành phố này lịch sử cùng Thụy Sĩ quốc gia này lịch sử cùng loại: Một bộ phận người nước Pháp không muốn làm phép người trong nước, một bộ phận Đức quốc người cùng người Ý cũng giống như thế, cho nên bọn họ thành lập Thụy Sĩ liên bang.
+
+	Thụy Sĩ là vĩnh cửu nước trung lập, quốc gia này rất giàu có, nhân dân của quốc gia này có tiền cũng có thời gian.
+
+	Euler không phải người nghèo, hắn có đại lượng thời gian nghiên cứu toán học, vật lý học, thiên văn học, đường đạn học, kiến trúc học, hàng hải học.
+
+	Không hề nghi ngờ, đối với học rộng tài cao Euler tới nói, toán học là hắn chủ thiên phú cùng yêu nhất, hắn trong cuộc đời phát biểu nhiều đến 886 bài (bộ) luận văn cùng học thuật chuyên, trong đó 58% đến từ toán học.
+
+	Euler dụng tình chuyên nhất, hắn phi thường yêu hắn phu nhân cùng 13 đứa bé, hắn sinh ra ở Basel, tại tòa thành thị này ngây người một đoạn thời gian rất dài.
+
+	Thẩm Kỳ cùng Âu Diệp đến Basel về sau cái thứ nhất điểm du lịch, chính là Euler chỗ ở cũ.
+
+	"Euler, thần tượng a." Thẩm Kỳ tại Euler tượng đắp trước tấm tắc lấy làm kỳ lạ.
+
+	"Ừm, ta siêu thích Euler." Âu Diệp âu không phải Âu Hoàng âu, cũng không phải Âu Dương Phong âu, nàng tự xưng là Euler âu.
+
+	Thẩm Kỳ quay chung quanh Euler tượng đắp không ngừng xoay quanh, trong miệng nói lẩm bẩm: "Hắn đình chỉ tính toán, hắn đình chỉ sinh mệnh."
+
+	Âu Diệp mười ngón khấu chặt, nàng nhắm mắt lại giống như là tại mặc niệm: "Hắn đình chỉ tính toán, hắn đình chỉ sinh mệnh."
+
+	Phu xướng phụ tùy lời kịch không phải từ không sinh có, "Hắn đình chỉ tính toán, hắn đình chỉ sinh mệnh" là Euler qua đời lúc, hắn bạn bè phát ra đau thấu tim gan kêu rên.
+
+	Theo  « số luận sử » ghi chép, năm 1783 ngày 18 tháng 9 bữa tối về sau, 76 tuổi Euler một bên uống trà, vừa cùng tiểu tôn nữ chơi đùa, đột nhiên, cái tẩu từ trong tay hắn rớt xuống.
+
+	Euler nói một tiếng "Ta cái tẩu", liền xoay người lại nhặt, kết quả rốt cuộc không có thể đứng ngồi dậy.
+
+	Hắn đình chỉ tính toán, hắn đình chỉ sinh mệnh, ngừng thở trước, Euler di chúc là: "Ta chết đi."
+
+	"Ngươi thưởng thức nhất Euler điểm nào nhất?" Âu Diệp hỏi.
+
+	"Hắn học thuật luận văn cùng học thuật chuyên lấy số lượng là 886, người bình thường không có khả năng hoàn thành loại này biến thái đổi mới lượng." Thẩm Kỳ phát ra từ nội tâm chịu phục, thậm chí có chút gặp khó.
+
+	Từ lớp mười một tính lên, Thẩm Kỳ hành nghề sáu năm, phát biểu luận văn số lượng 17 bài, học thuật chuyên lấy một bộ, cao trung sinh khoa số học phổ thư tịch một bộ , dựa theo loại này đổi mới tốc độ, hắn cả một đời cũng vô pháp siêu việt Euler.
+
+	"Euler, siêu cấp chăm chỉ thiên tài. Kỳ, ngươi phải cố gắng nha." Âu Diệp nhìn thấy Thẩm Kỳ thụ đả kích dáng vẻ, không hiểu có chút ít kích thích.
+
+	"Ta rất hâm mộ Euler, học thuật đăng đỉnh, vợ hiền tử hiếu, con cháu cả sảnh đường, vô tật mà chấm dứt, toán học sử thượng xếp hạng thứ nhất nhân sinh người thắng lớn chính là hắn." Thẩm Kỳ rất có cảm xúc nói đến, nhà toán học tu luyện tới đỉnh cấp cũng cuối cùng rồi sẽ chết đi, nhưng nhà toán học truyền kỳ đời đời bất hủ.
+
+	Du lịch nghỉ phép vui thích thời gian luôn luôn qua rất nhanh.
+
+	Vài ngày sau, Thẩm Kỳ trở về Princeton.
+
+	Truyền thông đưa tin Thẩm Kỳ đã chứng minh Goldbach phỏng đoán, cũng phụ Thẩm Kỳ bản Golbach phỏng đoán luận văn mạng lưới địa chỉ.
+
+	Đoạn thời gian gần nhất rốt cuộc không ai phát biểu mới  « Goldbach phỏng đoán chứng minh », arVix khôi phục bình tĩnh, trước đó ban bố đại lượng Golbach phỏng đoán luận văn lặng yên không tiếng động bị các tác giả triệt hạ.
+
+	Đối Thẩm Kỳ Golbach phỏng đoán luận văn tiến hành giám khảo cũng không phải là một chuyện dễ dàng, thẩm bản thảo người khó tìm.
+
+	Thẩm Kỳ là Fields thưởng người đoạt giải, IMU tìm mấy vị phổ thông toán học giáo sư, học giả làm Thẩm Kỳ thẩm bản thảo người hiển nhiên không thích hợp.
+
+	 « Annals of Mathematics » là Princeton nhà mình làm tập san, hợp tác mới là Princeton cao đẳng sở nghiên cứu toán học bộ.
+
+	Faltings chủ biên mời cao đẳng sở nghiên cứu toán học bộ một vị Fields thưởng người đoạt giải, một vị Giải thưởng Wolf người đoạt giải, một vị Abel thưởng người đoạt giải, đến giám khảo Thẩm Kỳ đưa đến  « Annals of Mathematics » luận văn  « Goldbach phỏng đoán chứng minh ».
+
+	Ba vị lão gia tử là toán học giới đức cao vọng trọng lão tiền bối, trong đó Abel đem người đoạt giải Keller, hắn so Thẩm Kỳ gia gia tuổi tác còn muốn lớn hơn một tuổi. Đương kim toán học giới 60 tuổi trở xuống nhà toán học, cơ hồ không ai có thể trấn được Thẩm Kỳ. 

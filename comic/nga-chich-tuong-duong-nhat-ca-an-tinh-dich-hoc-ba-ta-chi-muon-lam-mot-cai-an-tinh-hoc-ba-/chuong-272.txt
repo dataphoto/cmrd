@@ -1,0 +1,141 @@
+ 272 chương lần nữa dẫn bạo toàn trường
+
+	 
+
+	Thẩm Kỳ hoán đổi đến thứ tư trang.
+
+	Vẫn như cũ tất cả đều là toán học tư thế.
+
+	∣logξ(1+ IT)∣logloglog∣t∣+A, logξ(σ+ IT)&lt;&lt;(log∣t∣)^2-2σ+ε
+
+	...
+
+	Thẩm Kỳ đồng bộ giảng giải hạch tâm yếu lĩnh: "Nếu như Riemann phỏng đoán thành lập, thì trừ s=1 bên ngoài, logξ(s) tại nửa mặt phẳng σ&gt;1 ╱ 2 bên trong chính thì, cho nên, mời xem trang kế tiếp."
+
+	Trang thứ năm, thứ sáu trang, thứ bảy trang... Mãi cho đến thứ hai mươi trang, tất cả đều là số lượng tư thế.
+
+	Toàn trường lặng ngắt như tờ, có người nghe hiểu, có người nghe không hiểu, có người nửa hiểu nửa không.
+
+	Thứ hai mươi mốt trang chỉ có một cái tư thế:
+
+	ζ(s)=e^A+B s∏∞n=1(1- s ╱ pn)(1- s ╱ 1-pn)e^(s ╱ pn+ s ╱ 1-pn)
+
+	"Mọi người còn nhớ rõ Riemann bản thảo bên trong nhắc tới cái kia hạch tâm biểu đạt thức sao? Riemann từng nói, hắn phỏng đoán nhất định thành lập, hắn cũng làm ra chứng minh, nhưng bởi vì chứng minh đoạt được biểu đạt thức chưa đơn giản hoá đến có thể công bố tại chúng hình thức, cho nên Riemann phỏng đoán một mực là Riemann phỏng đoán, cũng không phải là Riemann định lý."
+
+	Thẩm Kỳ tại trên sân khấu đi tới đi lui, đi tới đi tới bỗng nhiên dừng bước, hắn nhìn lại một chút màn hình lớn: "Ta cùng ta đoàn đội, cuối cùng đạt được trong truyền thuyết biểu đạt thức, chính là trên màn hình cái này! Cho nên, tại song sinh xứng đôi pháp thiết lập bên trong, thứ n tổ song sinh xứng đôi tổ thỏa mãn Re(pn)=1 ╱ 2, điều này có ý vị gì? Ý vị này Riemann phỏng đoán cơ hồ là một cái chính xác đầu đề."
+
+	Xoạt!
+
+	Toàn trường nổ tung.
+
+	Song sinh xứng đôi pháp, trong truyền thuyết biểu đạt thức được chứng thực, mới xung kích không ngừng đánh tới, nhà toán học nhóm quần tình sục sôi.
+
+	"Cơ hồ, tại sao là cơ hồ đâu?" Có chút nhà toán học nhịn không được thốt ra, lớn tiếng hỏi.
+
+	Dựa theo trình tự bình thường, báo cáo hội hiện trường không thiết Q&amp; AMP;A khâu, nếu không ngươi một câu ta đầy miệng ảnh hưởng báo cáo hiệu suất, dù sao đằng sau còn có cái khác báo cáo người.
+
+	Q&amp; AMP;A bình thường thiết trí tại công khai báo cáo hội về sau hội nghị bàn tròn khâu, phân lĩnh vực do cái này lĩnh vực quyền uy chuyên gia đối báo cáo người trong báo cáo cho đưa ra vấn đề, do báo cáo người giải đáp nghi vấn.
+
+	Nhưng Thẩm Kỳ cái này Speaker bộ phận quá kình bạo, hiện trường sắp khống không ở trận.
+
+	"Mời mọi người giữ vững tỉnh táo, báo cáo của ta thời gian có hạn, tại ta về sau, còn có 17 vị báo cáo người chờ đợi báo cáo." Thẩm Kỳ khống một chút trận, nói đến: "Nếu như mọi người có hứng thú, chúng ta có thể tại hội nghị bàn tròn bên trên kỹ càng thảo luận."
+
+	Hiện trường khôi phục bình thường trật tự, Thẩm Kỳ tiếp tục giảng giải: "Đúng vậy, ta ở chỗ này dùng đến 'Cơ hồ' cái từ ngữ này, vì cái gì không phải 'Nhất định' đâu? Bởi vì chúng ta phát hiện cũng chứng thực, Riemann nói tới 'Chưa đơn giản hoá đến có thể công bố tại chúng' biểu đạt thức, không phải một cái, mà là một tổ! Ta biết đây là có tính đột phá, hoàn toàn mới khái niệm, như vậy tiếp xuống, mời mọi người nhìn tổ thứ hai biểu đạt thức."
+
+	"Cái gì? Còn có một cái biểu đạt thức!" Nhà toán học nhóm căn bản là không có cách bình tĩnh a, vừa tỉnh táo không đến một phút đồng hồ, lại nổ tung.
+
+	"Mời xem tổ thứ hai biểu đạt thức." Thẩm Kỳ tiếp tục cắt đổi PPT.
+
+	Trên màn hình lớn cho thấy tổ thứ hai ζ(s) hạch tâm biểu đạt thức:
+
+	0=e^A+B SS∏∞n=1(s-pn)(s-1+pn)e^(s ╱ pn+ s ╱ 1-pn)
+
+	Xoát!
+
+	Cung Trường Vĩ đứng lên, lúc trước hắn gặp qua Thẩm Kỳ cái thứ nhất biểu đạt thức, còn đưa ra một chút ý kiến cùng đề nghị.
+
+	Mà ζ(s) cái thứ hai biểu thị, Cung Trường Vĩ lần đầu thấy được, cái thứ hai biểu đạt thức cùng hắn trong dự đoán có chỗ khác nhau.
+
+	Mặc dù có chỗ khác biệt, nhưng là phi thường hoàn mỹ!
+
+	Xoát!
+
+	Maynard đứng lên, cảm thụ của hắn cùng Cung Trường Vĩ cùng loại, chỉ bất quá nhiều hơn mấy phần chấn kinh, cùng một chút cảm giác bị thất bại.
+
+	Xoát xoát xoát!
+
+	Toàn trường tất cả mọi người đứng lên, bọn hắn chuẩn bị nghênh đón một cái rất có lịch sử ý nghĩa thời khắc.
+
+	Thẩm Kỳ cái thứ nhất biểu đạt thức nhẹ nhàng đánh Tân thế giới đại môn, cái thứ hai biểu đạt thức trực tiếp đem đại môn đá văng!
+
+	"Kết hợp cái thứ nhất biểu đạt thức, chúng ta có thể phát hiện, cái thứ hai biểu đạt thức đã chứng minh s lượt trải qua tập hợp {ζ hàm số không phải hiển nhiên linh điểm } bên trong thứ n tổ song sinh xứng đôi kết quả thành lập, cho nên, Riemann phỏng đoán là một cái chính xác đầu đề. Ta cùng ta đoàn đội, từ định tính góc độ đã chứng minh Riemann phỏng đoán." Trải qua kích tình bộc phát về sau, Thẩm Kỳ lấy một loại bình tĩnh giọng điệu, đối với hắn báo cáo làm ra tổng kết.
+
+	Giàu sáng tạo cái mới tính, Logic rõ ràng, suy luận nghiêm cẩn, dàn khung hợp lý, thiết lập không có kẽ hở... Thẩm Kỳ cùng đoàn đội của hắn làm được, bọn hắn đã chứng minh Riemann phỏng đoán!
+
+	Chí ít nhìn qua là như vậy!
+
+	Ầm ầm!
+
+	Toàn trường bộc phát ra lôi điện lớn nổ vang tiếp tục tính tiếng vỗ tay, nhà toán học, người chủ trì, tổ ủy hội nhân viên công tác, IMU đại biểu, tất cả mọi người đứng đấy vỗ tay, vì Thẩm Kỳ lớn tiếng khen hay.
+
+	Thẩm Kỳ cùng đoàn đội của hắn, cùng hai vị Fields thưởng người đoạt giải, hao tốn ròng rã thời gian ba tháng, mới viết ra cái này ba mươi hai trang báo cáo.
+
+	Chưa từng thấy phần báo cáo này người, cho dù là quốc tế nổi tiếng nhà toán học, cũng rất khó trong thời gian ngắn như vậy hoàn toàn tiêu hóa hấp thu những này rất có lực rung động mới đồ vật.
+
+	Nhưng là, trực giác nhạy cảm nhà toán học nhóm đã khắc sâu cảm thấy, Thẩm Kỳ phần này nghiên cứu báo cáo phi thường có giá trị, từ định tính góc độ bên trên, Thẩm Kỳ đã chứng minh Riemann phỏng đoán.
+
+	"Đây là toán học sử thượng trọng yếu đột phá!"
+
+	"Tốt, Thẩm!"
+
+	"Không tầm thường người trẻ tuổi!"
+
+	Toàn trường khen ngợi như nước thủy triều, Thẩm Kỳ hoàn mỹ diễn xuất chinh phục thế giới các quốc gia nhà toán học.
+
+	Loạn, cái này tất cả đều loạn a!
+
+	Thẩm Kỳ cực lực khuyên can: "Các vị, mời ngồi xuống trước, mời bảo trì lý trí! Ta còn có ba phút báo cáo thời gian, ta còn muốn giảng mấy câu! Tạ ơn phối hợp!"
+
+	Ngươi còn không có tú xong? Đám người cố nén kích động cảm xúc ngồi xuống, trật tự hiện trường tạm thời khôi phục trạng thái bình thường.
+
+	Thẩm Kỳ nói đến: "Sau đó ta sẽ đem  « căn cứ vào 'Song sinh xứng đôi pháp' Riemann phỏng đoán chứng minh » báo cáo toàn văn, tuyên bố tại arVix bên trên, hoan nghênh mọi người thẩm duyệt."
+
+	"Song sinh xứng đôi pháp cùng hai cái hạch tâm biểu đạt thức định tính chứng minh Riemann phỏng đoán, tiếp xuống ta cùng ta đoàn đội đem nếm thử từ định lượng góc độ, từ một cái khác hoàn toàn mới chiều không gian giải thích Riemann phỏng đoán, cùng số nguyên tố phân bố chung cực huyền bí. Ta sẽ tại lần tiếp theo quốc tế tính báo cáo hội bên trong, công bố ζ(s) cái thứ ba biểu đạt thức, có lẽ còn có cái thứ tư."
+
+	"Nếu như hết thảy thuận lợi, kế hoạch của chúng ta theo nhật trình thúc đẩy cũng đạt được chứng thực, như vậy ý vị này, định tính định lượng hóa số nguyên tố phân bố chung cực huyền bí cùng quy luật, sẽ tại trong thời gian ngắn giải quyết một cái khác số luận nan đề --- Goldbach phỏng đoán."
+
+	"Nếu Riemann phỏng đoán, Goldbach phỏng đoán đều được giải quyết, cũng đem lý luận hóa thành quả đầu nhập ứng dụng tràng cảnh, như vậy, máy tính cùng internet bên trên hệ thống an toàn hoặc sẽ bị trọng tân định nghĩa."
+
+	Thẩm Kỳ lấy thâm thúy mà ánh mắt kiên định nhìn về phía dưới đài đồng nghiệp: "Trên lý luận là như vậy, cụ thể như thế nào ứng dụng ta cũng không am hiểu, ta học chính là cơ sở toán học, ứng dụng phương diện giao cho ứng dụng học gia đi giải quyết đi, ta phụ trách cung cấp lý luận chèo chống."
+
+	"Các vị quý bà, các tiên sinh, ta muốn nói là, Riemann phỏng đoán định tính chứng minh chẳng qua là điểm xuất phát, mà chúng ta đem tiếp tục tiến lên, vĩnh viễn không dừng bước, tạ ơn, báo cáo của ta kết thúc!"
+
+	Lê đoán, ca đoán, số nguyên tố chung cực áo nghĩa!
+
+	Thẩm Kỳ còn có hậu chiêu!
+
+	Toàn trường bầu không khí đến lần này hội nghị mở màn đến nay tối cao chao.
+
+	Thẩm Kỳ trở thành năm nay khoa học đột phá thưởng bên trên chói mắt nhất học thuật minh tinh.
+
+	"Trung Quốc nhà toán học Thẩm Kỳ đã chứng minh Riemann phỏng đoán!"
+
+	"Ngàn năm nan đề được giải quyết, Thẩm Kỳ một trận chiến phong thần!"
+
+	Phương tây, Đông Phương truyền thông ngay đầu tiên phát ra tin nhanh, Thẩm Kỳ danh tự ở thế giới phạm vi bên trong truyền bá.
+
+	Cùng lúc đó, IMU thuê số luận chuyên gia bận bịu thành cẩu.
+
+	Truyền thông, tán hộ nhà toán học thừa nhận Thẩm Kỳ đã chứng minh Riemann phỏng đoán không tính toán gì hết, IMU là cuối cùng phán quyết cơ cấu.
+
+	IMU ngay tại nghiệm chứng Thẩm Kỳ liên quan tới Riemann phỏng đoán báo cáo, sứt đầu mẻ trán số luận các chuyên gia phát hiện, IMU để bọn hắn trong vòng một tháng cho ra kết luận là không thể nào.
+
+	Thẩm Kỳ tại báo cáo hội hiện trường diễn thuyết tiêu sái tự nhiên, mây trôi nước chảy, nhưng  « căn cứ vào 'Song sinh xứng đôi pháp' Riemann phỏng đoán chứng minh » phần báo cáo này bao hàm lượng tin tức quá khổng lồ, ổn định lại tâm thần cẩn thận nghiên cứu, vẻn vẹn cái thứ nhất biểu đạt thức, dự tính liền phải nghiệm chứng một tháng.
+
+	IMU đi Washington đại biểu tại đêm đó tìm tới Thẩm Kỳ, nói cho Thẩm Kỳ hai cái tin tức:
+
+	Thứ nhất, Thẩm Kỳ ngươi Banach không gian bên trong bổ sung cận bách định lý, sẽ bị IMU chính thức mệnh danh là "Thẩm thị cận bách định lý" .
+
+	Thứ hai, sáu tháng cuối năm quốc tế nhà toán học đại hội, Thẩm Kỳ ngươi sẽ tại gần đây thu hoạch được một phần chính thức báo cáo thư mời, chúng ta hi vọng ngươi nội dung của báo cáo là liên quan tới số nguyên tố phân bố chung cực huyền bí. Đây là ngươi hôm nay buổi sáng chính mình tuyên bố, IMU cho ngươi cơ hội này, để ngươi tại bốn năm một giới tối cao quy cách toán học trên đại hội tới một lần thiên tú.
+
+	"Được rồi, tạ ơn." Thẩm Kỳ tiếp nhận IMU đại biểu miệng mời. 

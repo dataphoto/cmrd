@@ -1,0 +1,123 @@
+ 656 chương nhóm hữu hạn! (cầu nguyệt phiếu)
+
+	Đường cong elliptic tại hiện đại toán học bên trong khắp nơi xuất hiện, chủ công cái khác chi nhánh nhà toán học nhao nhao nghiên cứu lên đường cong elliptic, người mở đường là tính quân Poincaré, vị này trăm năm vừa ra toàn năng hình thiên tài học giả tại năm 1901 trước hết nhất quan sát được: Đối với mỗi đầu đường cong elliptic, đều có một cái đặc biệt nhóm tới liên hệ.
+
+	Không số ít học gia kết hợp nhóm luận thủ đoạn nghiên cứu đường cong elliptic, cũng lấy được có hiệu quả rõ ràng chiến quả.
+
+	Đường cong elliptic lý luận gây nên nhà toán học cửa coi trọng nhờ vào thiên tài tính quân Poincaré, nó hưng thịnh thì nhờ vào một vị khác chăm chỉ hình thiên tài Wales.
+
+	Andrew - Wales áp dụng đường cong elliptic thủ đoạn đã chứng minh Fermat đại định lý, hắn hẳn là cảm tạ Yutaka Taniyama cùng Goro Shimura tại sớm hơn trước đó làm ra phỏng đoán.
+
+	Taniyama - Shimura phỏng đoán cung cấp một đầu hữu hiệu đường tắt, đây là Fermat đại định lý chứng minh phương án trọng yếu trình tự.
+
+	Wales trước đã chứng minh Taniyama - Shimura phỏng đoán, không lâu sau đó Fermat đại định lý bị hắn cùng Richard - Taylor thuận lợi giải quyết.
+
+	Mà Taniyama - Shimura phỏng đoán đưa ra người một trong Yutaka Taniyama, hắn mặc dù so Wales sớm hơn nhìn rõ đến Thiên Cơ, lại khổ vì không cách nào chứng minh chính hắn nói lên phỏng đoán.
+
+	Năm gần 31 tuổi Yutaka Taniyama tại hôn lễ đêm trước nhảy xuống biển tự sát, một tháng sau, cùng hắn đính hôn tân nương tự sát tuẫn tình. Đây có lẽ là toán học sử thượng thê thảm nhất bi kịch.
+
+	Đường cong elliptic mang tới không chỉ có là thành công cùng vui sướng, cũng có thất bại cùng bi thương.
+
+	Trải qua hơn một trăm năm phát triển, đương đại nghiên cứu đường cong elliptic các học giả, đồng dạng là buồn vui đan xen.
+
+	BSD phỏng đoán số này luận vấn đề, trên thực tế chuyển hóa làm đường cong elliptic vấn đề.
+
+	Âu Diệp cũng không phải là cái thứ nhất nghĩ đến vận dụng nhóm luận + đường cong elliptic phương pháp đi chứng minh BSD phỏng đoán người.
+
+	Sớm đã có người làm như vậy, chỉ bất quá không thành công.
+
+	Máy tính biểu hiện trên màn ảnh:
+
+	L(e, 1)0→r(e)=0, #Sha(e)&lt;∞. . . r(e)=1, #Sha(e)&lt;∞→ord s=1L(e, 1)=1. . .
+
+	#Sha(e) biểu thị đường cong elliptic e Shafarevich-Tate nhóm cấp số, cái này nhóm thập phần thần bí, bao quát này nhóm đưa ra người cát pháp Levy kỳ, John - Tate ở bên trong, nhà toán học cửa ngay cả cái này nhóm có phải hay không nhóm hữu hạn đều không có chỉnh minh bạch.
+
+	Đương nhiên, nếu như ngươi trước thừa nhận BSD phỏng đoán, như vậy Shafarevich-Tate nhóm thì tất nhiên là nhóm hữu hạn.
+
+	Triệu Thiên, Tiểu Vân, Tằng Hàn ba người phi thường kích động, máy tính thử lại phép tính kết quả rất có tin phục lực biểu hiện: Căn cứ vào Âu Diệp phép tính, Shafarevich-Tate nhóm là nhóm hữu hạn!
+
+	Đây không thể nghi ngờ là chứng minh BSD phỏng đoán một cái hữu lực chứng cứ, là một cái trọng yếu xếp trước trình tự!
+
+	"Đây là chúng ta một bước nhỏ, đây là Nhân loại một bước dài!"
+
+	"Diệp tử tỷ ngưu phê!"
+
+	"A ha ha ha, thật ngưu phê!"
+
+	Triệu Thiên cùng Tiểu Vân ôm nhau chúc mừng, luôn luôn trầm mặc ít nói Tằng Hàn cũng nhiệt huyết sôi trào.
+
+	Bọn hắn vì sao kích động như vậy, bởi vì theo bọn hắn nghĩ, đoàn bọn hắn đội giờ phút này lấy được thành quả nghiên cứu, rất gần tại Andrew - Wales tại chứng minh Fermat đại định lý trước đó, trước đã chứng minh Taniyama - Shimura phỏng đoán.
+
+	"Cát pháp Levy kỳ, John - Tate hai vị đại thần không có giải quyết vấn đề, bị chúng ta làm xong! Diệp tử tỷ vạn tuế! Nhỏ từng đệ đệ, đem thử lại phép tính kết quả một chút, sau đó phát cho diệp tử tỷ." Triệu Thiên không kịp chờ đợi muốn đem cái tin tức tốt này nói cho Âu Diệp.
+
+	Cát pháp Levy kỳ, trước Liên Xô trứ danh nhà toán học, hắn biên soạn đại số hình học, đại số số luận, đại số tài liệu giảng dạy, là mới Trung Quốc thành lập sau sớm nhất bị dẫn vào trong nước trường cấp 3 toán học chuyên nghiệp toán học tài liệu giảng dạy một trong. Âu Diệp khoa chính quy giai đoạn lão sư, đều là học cát pháp Levy kỳ bản tài liệu giảng dạy.
+
+	John - Tate, nước Mỹ nhà toán học, người này cũng là Thẩm Kỳ, Âu Diệp, Chu Vũ An Princeton đồng học. John - Tate là Giải thưởng Wolf, Abel thưởng hai lần người đoạt giải, hắn là đại số số luận lĩnh vực đại sư cấp nhân vật, hắn thiếu chỉ là một viên Fields thưởng huy hiệu.
+
+	Cát pháp Levy kỳ, John - Tate hai vị đại thần tiền bối không có luận chứng minh bạch Shafarevich-Tate nhóm vấn đề, bị Âu Diệp mấy trương bản thảo luận chứng rõ rõ ràng ràng.
+
+	Nhưng là, Birch, này ấm Naton - Dale không thể chứng minh vấn đề, Âu Diệp tạm thời cũng không thể triệt để chứng minh.
+
+	"Có chút tiếc nuối a, máy tính không cách nào nghiệm chứng analyticrank lớn hơn hoặc bằng 2 tình huống, vô hiệu điều kiện, đây là ý gì. . . Bất quá chúng ta triệt để đã chứng minh analyticrank tương đương 0, 1 đường cong elliptic thỏa mãn BSD phỏng đoán, nhỏ từng, số liệu xong chưa? Tranh thủ thời gian phát cho diệp tử tỷ!"
+
+	. . .
+
+	. . .
+
+	Yến đại nhân dân bệnh viện.
+
+	Thẩm Kỳ đứng chắp tay, đứng tại phòng bệnh trước cửa sổ.
+
+	Bên ngoài mưa to mưa như trút nước, nước đọng che mất hắn ô tô.
+
+	Dù sao mua bình an xe hiểm, chìm liền chìm đi.
+
+	"Cái này thời tiết, hỏng bét vô cùng." Thẩm Kỳ nhả rãnh một câu, hắn xoay người lại đến giường bệnh một bên, nhìn chăm chú lên ngủ say Âu Diệp.
+
+	Lần này tân dược lâm sàng thí nghiệm bên trong, Âu Diệp được an bài tiến vào thấp nhất liều lượng tổ.
+
+	Trước hết nhất làm nhịn thụ tính thí nghiệm là thấp nhất liều lượng tổ thụ thí sinh, cái này tổ đã làm xong. Tiếp qua một đoạn thời gian, cái khác liều lượng tổ nhịn thụ tính thí nghiệm làm xong, cũng bị nghiệm chứng an toàn, Âu Diệp đem trở lại bệnh viện tiếp tục tiếp nhận đại lý dược ╱ dược hiệu i kỳ lâm sàng thí nghiệm.
+
+	Thẩm Kỳ nguyên bản kế hoạch tại buổi chiều tiếp Âu Diệp về nhà, có thể bên ngoài cuồng phong bạo vũ, xe đều cho chìm, hai vợ chồng tạm thời không về nhà được.
+
+	Tích tích.
+
+	Âu Diệp điện thoại di động kêu lên thanh âm nhắc nhở.
+
+	Tích tích.
+
+	Tiếp tục vang.
+
+	Thẩm Kỳ nhìn sang Âu Diệp điện thoại di động, hẳn là tin tức, bưu kiện loại hình đồ vật.
+
+	Hắn cũng không dám nhìn, hắn cũng không dám hỏi, lão bà điện thoại di động không cho phép tự mình giải tỏa, đây là kỷ luật sắt.
+
+	"Anh anh. . ." Âu Diệp bờ môi giật giật, tỉnh.
+
+	"Diệp tử ngươi đã tỉnh."
+
+	"Ừm. . . Bên ngoài thật lớn mưa nha."
+
+	"Mưa to, rất đột nhiên, đợi mưa tạnh, chúng ta lại về nhà."
+
+	"Được rồi." Âu Diệp tỉnh ngủ sau chuyện thứ nhất là sờ điện thoại di động, nàng huy động màn hình điện thoại di động, kiểm tra và nhận bưu kiện mới, mới tin tức.
+
+	Tin tức phát kiện người Triệu Thiên: "Diệp tử tỷ, phương án của chúng ta tại Thẩm Kỳ nghiên cứu khoa học trung tâm máy tính phòng nghiệm chứng hoàn tất, Shafarevich-Tate nhóm là nhóm hữu hạn, analyticrank tương đương 0, 1 đường cong elliptic phù hợp suy đoán của chúng ta! analyticrank hoặc a LGebraicrank lớn hơn hoặc bằng 2 tình huống còn chờ tại tiến một bước nghiệm chứng, ngươi mau nhìn xem Tằng Hàn phát cho ngươi bưu kiện mới đi! Nếu như ngươi có thể đến máy tính phòng, thì tốt hơn! Chúc ngươi sớm ngày khôi phục!"
+
+	"A...!" Âu Diệp thở nhẹ một tiếng, rất vui vẻ bộ dáng.
+
+	Thẩm Kỳ trong lúc vô tình nhìn đến Âu Diệp màn hình điện thoại di động, hắn đại khái đoán được Âu Diệp vui vẻ nguyên nhân cụ thể.
+
+	"rank0, 1 làm xong, Shafarevich-Tate nhóm đúng là nhóm hữu hạn, hai vị tiền bối trực giác rất nhạy cảm đâu." Âu Diệp lung lay điện thoại di động, hướng Thẩm Kỳ truyền đạt tin vui.
+
+	"Vậy thì tốt quá, lão bà ngươi thật tuyệt, mạnh vô địch." Thẩm Kỳ từ đáy lòng vì Âu Diệp cảm thấy cao hứng, tâm tình tốt xấu đối với bệnh hoạn là có ảnh hưởng, hắn đương nhiên vui lòng nhìn thấy lão bà mỗi ngày cũng vui vẻ.
+
+	Âu Diệp ấn mở bưu kiện mới, bưu kiện phát kiện người là Tằng Hàn: "Diệp tử tỷ, mời kiểm tra và nhận phụ kiện. Chúc ngươi sớm ngày khôi phục."
+
+	Phụ kiện bên trong tất cả đều là đồ hình, bảng biểu số liệu, Âu Diệp cẩn thận tìm đọc.
+
+	Sau khi xem xong, Âu Diệp bỗng nhiên không có vui vẻ như vậy, nàng đem điện thoại di động đưa cho Thẩm Kỳ: "rank lớn hơn hoặc bằng 2 tình huống, không hề có một chữ tiết nghiệm chứng số liệu, ta nghĩ, ta hẳn là không để ý đến cái nào đó trọng yếu khâu."
+
+	Thẩm Kỳ tiếp nhận điện thoại di động, hắn nhanh chóng tính toán phân tích, nói đến: "Dựa theo ngươi thiết lập, lần đầu máy tính nghiệm chứng, đối với rank lớn hơn hoặc bằng 2 tình huống, chí ít nên được đến chuỗi Taylor sau nghiệm chứng số liệu. Ngươi xác thực có khả năng không để ý đến cái nào đó mấu chốt khâu, bất quá ngươi đã làm rất khá. Nha, mưa tạnh, chúng ta về nhà đi, sau khi về nhà chậm rãi nghiên cứu."
+
+	. . . 

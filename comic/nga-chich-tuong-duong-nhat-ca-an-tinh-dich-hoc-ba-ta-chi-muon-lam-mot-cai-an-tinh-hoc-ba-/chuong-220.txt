@@ -1,0 +1,127 @@
+ 220 chương thì ra là thế
+
+	Riemann phỏng đoán nhìn như một cái đơn thuần tiên nữ, trên thực tế nàng càng giống là cái khó mà nắm lấy ác ma.
+
+	RH hoàn toàn chứng minh đã ngay thẳng lại phức tạp, một câu tường thuật tóm lược chính là, công bố rất nhiều quay chung quanh số nguyên tố phân bố huyền bí.
+
+	Số nguyên tố cỡ nào đơn thuần, người nàng yêu vĩnh viễn chỉ có chính nàng cùng 1.
+
+	Nhưng mà chỗ khó cũng ở chỗ đây, số nguyên tố chỉ thích chính mình cùng 1, nàng không yêu nhà toán học.
+
+	Nhà toán học nhóm lại kẻ trước ngã xuống, kẻ sau tiến lên hiến thân nàng dưới váy, không oán không hối, dù là cả tay đều không có dắt qua.
+
+	Thẩm Kỳ cho rằng số nguyên tố nhất định tồn tại một cái điểm mấu chốt, tìm tới cái giờ này, đụng vào nó, liền có thể chinh phục số nguyên tố.
+
+	Riemann ζ hàm số 0 giờ phân bố giả thiết là bộ vị mấu chốt, nó đến tột cùng ẩn tàng chỗ nào, cái này thông qua loại nào con đường chạm đến, đó là cái vấn đề.
+
+	ζ(2n+1) hai cái đưa đẩy công thức đã bị Thẩm Kỳ cùng Mary chứng minh.
+
+	Bọn chúng theo thứ tự là:
+
+	ζ(2n+1)=1 ╱ 2(Pi ╱ 4)^2k-1 sin(n Pi ╱ 2) ╱ n+. . . a(2k)(2k-1)! ╱ 2^2k
+
+	Cùng
+
+	ζ(2n+1)=2^2n ╱ (2n-1)! ((2n-1)(2n-2) ╱ 2(Pi ╱ 4)^2n-3. . . - ∫t^2k-1(ln2 sint)dt)
+
+	Thẩm Kỳ liên thủ với Mary đối RH hoàn toàn chứng minh công việc làm ra nhất định cống hiến, Pi^2n-1 có lý bội số cùng hai cái thu liễm tương đối nhanh đẳng cấp tổng cộng, có lý luận bên trên vì triệt để chứng minh RH cung cấp một loại mới vũ khí.
+
+	Có vũ khí liền có thể chiến thắng RH?
+
+	Trên lý luận là như vậy, chỉ bất quá cần thời gian.
+
+	Gần nhất Thẩm Kỳ rượu cũng uống, bước cũng chạy, linh cảm cũng là có, nhưng không có một cái là liên quan tới Riemann phỏng đoán.
+
+	Dù sao Riemann phỏng đoán là ngàn năm nan đề một trong, cấp 9 Thẩm Kỳ đến vượt mấy cấp ra một cái siêu cấp bạo kích, mới có thể tại hiện giai đoạn chiến thắng Riemann phỏng đoán.
+
+	. . .
+
+	New York thị, Colombia đại học.
+
+	Ngành toán học giáo sư Cung Trường Vĩ ngay tại thẩm một phần luận văn, luận văn đề mục là  « Diofantos phương trình Walsh phỏng đoán chứng minh », ủy thác mới là  « tạp chí toán học Mỹ » ban biên tập.
+
+	Cung Trường Vĩ đến từ Trung Quốc, ba mươi mấy tuổi hắn là một tuổi trẻ giáo sư.
+
+	Khoa chính quy học tập tại Yến đại ngành toán học, thạc sĩ, tiến sĩ học tập Vu ca lớn, Cung Trường Vĩ là Thẩm Kỳ sư huynh, hắn là một vị số luận chuyên gia, từng thu được Ramanujan thưởng, cái này giải thưởng ban tuổi trẻ nhà toán học, bình thường bị cho rằng là Fields thưởng tiền tiêu.
+
+	Cung Trường Vĩ cũng không biết  « Diofantos phương trình Walsh phỏng đoán chứng minh » tác giả là hắn Yến đại sư đệ, cùng sư muội.
+
+	 « tạp chí toán học Mỹ » là gia nghiêm cẩn tập san, bọn hắn áp dụng song mù thẩm bản thảo chế độ, tác giả, thẩm bản thảo người đồng đều không biết đối phương là ai.
+
+	Kỳ thật thẩm bản thảo người muốn biết tác giả là ai cũng không khó, bên trên arVix lục soát một chút liền có thể biết được, nếu như cái này văn tác giả có tại arVix bên trên dự ghi chép mà nói.
+
+	Cung Trường Vĩ gần nhất không chút chú ý arVix, hắn không quan tâm tác giả là ai, hắn chỉ chú ý luận văn bản thân.
+
+	"Cái này. . ." Cung Trường Vĩ thẩm xong luận văn sau phi thường kinh ngạc, "Vị tác giả này chứng minh mạch suy nghĩ thanh kỳ, cùng ta mấy năm trước ý nghĩ giống nhau như đúc!"
+
+	Nhưng cũng tiếc chính là mấy năm trước, Cung Trường Vĩ chứng minh Walsh phỏng đoán chứng minh đến một nửa, bị đồng môn của hắn Vân Uy gọi lên nghiên cứu Langlands cương lĩnh, nghiên cứu một chút chính là nhiều năm, Walsh phỏng đoán cái này đầu đề bị hắn gác lại.
+
+	"Tác giả này thần nhân a, hắn so mấy năm trước ta làm càng tốt hơn." Cung Trường Vĩ rất hưng phấn ngay cả thẩm ba lần luận văn, từ buổi sáng một mực thẩm đến tối, thỉnh thoảng động thủ tại bản nháp trên giấy tự mình chứng minh mấy cái tư thế, phảng phất hắn chính là vị tác giả này, hắn tìm về mấy năm trước chuyên chú vào số luận kia phần kích tình.
+
+	. . .
+
+	Cùng lúc đó, ở vào nước Mỹ bờ biển Tây uCLA, Lavrov giáo sư làm lấy giống nhau sự tình, hắn là Ba Lan duệ nước Mỹ nhà toán học, GanForr thưởng người đoạt giải, số luận lĩnh vực nhất quyền uy chuyên gia một trong.
+
+	Lavrov giáo sư thẩm xong  « Diofantos phương trình Walsh phỏng đoán chứng minh » phần này bài viết về sau, đề chút ít sửa chữa ý kiến, để tác giả đem "Ước hóa thành nhất tộc Thue phương trình" cái này chi tiết nhỏ hoàn thiện một chút, cái này không cần quá nhiều lượng công việc, cùng loại với cho một chiếc xe hơi đổi má phanh, phi thường nhẹ nhõm công việc, nhưng có thể bảo đảm an toàn.
+
+	 « tạp chí toán học Mỹ » ban biên tập cho Thẩm Kỳ tìm hai vị toàn mỹ nổi tiếng số luận chuyên gia thẩm bản thảo người, nếu như hai vị này chuyên gia toàn bộ qua thẩm, mang ý nghĩa Thẩm Kỳ luận văn sẽ bị  « tạp chí toán học Mỹ » chính thức thu nhận sử dụng.
+
+	Lavrov giáo sư bên này trên cơ bản qua thẩm, Cung Trường Vĩ bên này cũng không có cái gì vấn đề.
+
+	Ngày kế tiếp, Cung Trường Vĩ đem thẩm bản thảo nhân ý gặp phản hồi cho  « tạp chí toán học Mỹ » ban biên tập.
+
+	Phản hồi xong ý kiến về sau, Cung Trường Vĩ đổ bộ hồi lâu chưa từng tới qua arVix, hắn thật sự là nhịn không được lòng hiếu kỳ,  « Diofantos phương trình Walsh phỏng đoán chứng minh » tác giả đến tột cùng là phương nào đại thần?
+
+	"Quả nhiên có bản này luận văn, tác giả Shen-Qi, ou-Ye, phân biệt đến từ Princeton cùng Yến đại, ta đã nói rồi, bản này luận văn thủ pháp mang theo mãnh liệt Yến đại phong cách." Cung Trường Vĩ khóa chặt ou-Ye nhân vật này, bởi vì luận văn là tiếng Anh bản, hắn cũng không biết ou-Ye tiếng Trung tên làm như thế nào viết, là nam hay là nữ.
+
+	Lại điều tra thêm Shen-Qi tư liệu, người này đồng dạng đến từ Yến đại, trước mắt tại Princeton ngành toán học học nghiên cứu sinh.
+
+	Cung Trường Vĩ một cái càng dương điện thoại đánh tới Trung Quốc: "Tôn giáo sư, còn chưa ngủ đâu?"
+
+	Tôn Nhị Hùng: "Không ngủ, trường vĩ a, nghĩ như thế nào gọi điện thoại cho ta?"
+
+	Cung Trường Vĩ: "Nghĩ ngài chứ sao. . . Đúng, hỏi ngài cái sự tình, Yến đại viện toán học phải chăng có một cái họ Thẩm hoặc là thân người, hai chữ, s-h-e-n, q-i, danh tự là liều mạng như vậy, trước mắt tại Princeton ngành toán học học nghiên."
+
+	Tôn Nhị Hùng: "Còn có thể là ai, Thẩm Kỳ thôi, học sinh của ta."
+
+	Cung Trường Vĩ: "Còn có cái họ Âu, hai chữ, o-u, y-e, liên hệ địa chỉ là Yến đại, sẽ không cũng là học sinh của ngài a?"
+
+	Tôn Nhị Hùng: "Đúng a, Âu Diệp là Thẩm Kỳ bạn gái, Yến đại ngành toán học đại tam đang học học sinh."
+
+	Cung Trường Vĩ phát tới điện mừng: "Trường Giang sóng sau đè sóng trước a, Tôn giáo sư, chúc mừng ngài, học sinh của ngài vô cùng có khả năng tại gần đây phát biểu một phần tứ đại tập san luận văn!"
+
+	Tôn Nhị Hùng bên kia cũng kích động: "Còn có loại chuyện tốt này? Thẩm Kỳ đi Mỹ quốc ta là không quản được tiểu tử này, Âu Diệp nha đầu này thế mà cũng cõng ta biệt xuất bài tứ đại, ta cũng không biết việc này!"
+
+	. . .
+
+	Âu Diệp buổi sáng hôm nay rất mộng bức, trải qua Tôn Nhị Hùng nói rõ chi tiết, cuối cùng chân tướng rõ ràng.
+
+	Bạn trai của nàng đưa phần đại lễ cho nàng.
+
+	Nghe nói Thẩm Kỳ đem  « Diofantos phương trình Walsh phỏng đoán chứng minh » bản này luận văn ném quốc tế tứ đại toán học tập san bên trong một nhà, mà lại rất có thể qua thẩm, phát biểu.
+
+	Tiền văn có biểu (*đồng hồ), như là  « Acta Mathematica Sinica » loại này quốc tế đỉnh cấp toán học tập san, Trung Quốc toán học người làm việc bình quân mỗi mười năm mới có thể ở phía trên phát biểu một phần luận văn.
+
+	Mười năm gần đây đến nhiều hơn một chút, Trung Quốc toán học người làm việc mỗi hai đến ba năm, liền có thể tại tứ đại bên trên phát biểu một phần luận văn.
+
+	Âu Diệp cho Thẩm Kỳ phát Wechat: "Ngươi giấu diếm ta thật đắng nha!"
+
+	Mặc dù Wechat đã nói khổ, nhưng trong hiện thực Âu Diệp tại cười ngây ngô.
+
+	Cười a cười a, cười trước kia bên trên, Âu Diệp cảm thấy kỳ quái, Thẩm Kỳ hôm nay làm sao còn không hồi âm hơi thở? Bình thường đều là giây về!
+
+	Princeton đại học lão hổ quán trọ quán bar, nước Mỹ thời gian là ban đêm.
+
+	Thẩm Kỳ điện thoại di động không có điện, hắn tại lão hổ quán trọ cùng Jonas uống rượu.
+
+	Hắn cũng không biết mình thẩm bản thảo người là ai, đồng dạng không rõ ràng sư huynh Cung Trường Vĩ cùng lão sư Tôn Nhị Hùng ở giữa càng dương điện thoại.
+
+	 « tạp chí toán học Mỹ » gửi bản thảo hệ thống bên trên display tiến độ là "Giám khảo bên trong" .
+
+	"Jonas, ngươi dự định một mực như thế ở lại, ngốc đến bốn mươi tuổi, thậm chí năm mươi tuổi?" Thẩm Kỳ hỏi.
+
+	Jonas lắc đầu, có chút mê võng: "Ta cũng không biết, cứ như vậy ở lại đi."
+
+	Thẩm Kỳ cũng mê võng: "Ở nước ngoài ngốc lâu, liền không nhớ nhà sao?"
+
+	Jonas vỗ vỗ Thẩm Kỳ phía sau lưng: "Xem ra ngươi có tâm sự, có lẽ ngươi cần mới kích tình." 

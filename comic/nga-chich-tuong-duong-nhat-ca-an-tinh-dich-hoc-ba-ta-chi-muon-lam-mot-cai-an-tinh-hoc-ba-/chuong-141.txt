@@ -1,0 +1,119 @@
+ Chương 141: Vận khí vương
+
+	"Viện toán học bức vương chạy, kia Chu Vũ An ngươi đến gánh chịu hết thảy hậu quả."
+
+	Lý Chân Cường tức giận bất bình khiển trách đến, hắn không phải cử đi Yến đại, mà là thông qua thi đại học thi đậu Yến đại, hắn nguyện vọng 1 lấp không phải toán học chuyên nghiệp, lại bị phân đến ngành toán học.
+
+	"Chu Vũ An, ngươi là thay ca dài, nói, nên làm sao bây giờ!" Các bạn học cùng công.
+
+	"Ta. . ." Chu Vũ An mộng bức, hắn tứ phương nhìn quanh, Thẩm Kỳ đâu?
+
+	Thẩm Kỳ sớm đã không thấy tăm hơi.
+
+	Trang xong liền chạy!
+
+	Cái này thân thủ, cái này mạnh mẽ dáng người, quả nhiên là Yến đại nghiệp dư chạy cự li dài vương a!
+
+	Thẩm Kỳ cái này hồn đạm, trường kỳ vung nồi cho ta!
+
+	Chu Vũ An sinh lòng một kế, co cẳng liền chạy!
+
+	Không có chạy ra hai bước, Chu Vũ An bị còn lại đồng học bắt lấy, Thiên La Địa Võng vây chật như nêm cối.
+
+	Nhìn, đây chính là không yêu quý vận động thể dục hạ tràng, thật vất vả lắp cái bức, gắn xong chạy không thoát!
+
+	Kolmogorov vì cái gì được xưng là thế kỷ 20 vĩ đại nhất nhà toán học một trong, bởi vì hắn đặc biệt yêu quý phong trào thể dục thể thao, chạy nhanh cho nên ra lệnh cho dài, hắn sống hơn 80 tuổi.
+
+	Sống lâu, cái gì đều gặp, cái gì đều hiểu, trở thành đại sư là nước chảy thành sông sự tình.
+
+	"Chu Vũ An, ngươi cầm qua IMO huy chương vàng rất đáng gờm sao!"
+
+	"Chu Vũ An, ngươi vì cái gì tứ không kiêng sợ kéo cừu hận!"
+
+	"Chu Vũ An, ngươi nhất định phải tiếp nhận chế tài!"
+
+	"Phát hồng bao!"
+
+	"An ủi chúng ta thụ thương tâm linh!"
+
+	Quần chúng ý chí không thể làm trái, luôn luôn keo kiệt Chu Vũ An bất đắc dĩ phát 10 khối tiền hồng bao đến ngành toán học &gt; Thẩm Kỳ đi đâu?
+
+	Hắn trở về phòng ngủ.
+
+	Thẩm Kỳ ném luận văn dùng hòm thư khóa lại điện thoại di động, điện thoại di động nhắc nhở có bưu kiện mới, hắn tại trên điện thoại di động đại khái xem một chút, Chiết Đại  « toán học nghiên cứu báo » biên tập lần nữa đồ gửi đến, phản hồi đồng hành chuyên gia ý kiến.
+
+	Trở lại phòng ngủ, mở ra laptop, Thẩm Kỳ cẩn thận biên tập gửi tới bưu kiện mới.
+
+	"Thẩm Kỳ ngươi tốt,
+
+	Liên quan tới ngươi luận văn  « ba chiều số siêu phức một loại giải pháp », đồng hành chuyên gia giám khảo ý kiến xin gặp phụ kiện."
+
+	"Mời căn cứ chuyên gia ý kiến sửa chữa ngươi luận văn, sau khi hoàn thành thượng truyền DF cùng LaTeX văn kiện đến ta san gửi bản thảo hệ thống, mời biết."
+
+	Phụ kiện là phần DF văn kiện, Thẩm Kỳ ấn mở xem xét, cứ như vậy mấy câu, mấy cái tư thế.
+
+	Biên tập khẳng định là hiểu toán học, làm chuyên gia thẩm bản thảo người cùng tác giả ở giữa người liên lạc, biên tập đem thẩm bản thảo người ý kiến chuyển hóa làm toán học ngôn ngữ, phản hồi cho tác giả.
+
+	"Cho nên, qua thẩm?" Thẩm Kỳ xem hết chuyên gia ý kiến về sau, đạt được sơ bộ kết luận.
+
+	Chuyên gia ý kiến độ dài rất ngắn, đại ý là nói Thẩm Kỳ bản này luận văn 99% nội dung cũng không có vấn đề gì, còn lại 1% cần cải thiện.
+
+	Chỉ có một chút nội dung cần chỉnh sửa, mang ý nghĩa Thẩm Kỳ bản này luận văn trên cơ bản thông qua được đồng hành chuyên gia giám khảo khâu.
+
+	Thẩm Kỳ cũng không biết chuyên gia thẩm bản thảo người là ai, có thể khẳng định là, vị này thẩm bản thảo người rất có trình độ.
+
+	"Mặc dù có chút trứng gà bên trong chọc xương cốt thành phần, nhưng có thể lấy ra ta luận văn bên trong có thể đối có thể sai nhỏ tranh luận, vị này chuyên gia đáng giá tôn kính." Thẩm Kỳ lập tức thao tác máy tính, đối  « ba chiều số siêu phức một loại giải pháp » tiến hành sửa đổi.
+
+	Cục bộ chỉnh sửa công việc rất nhanh hoàn thành, từ tháng 10 phần khởi thảo đến tháng 12 sửa bản thảo, trải qua hai tháng, Thẩm Kỳ cuối cùng ra bản cuối cùng bản thảo.
+
+	Đem luận văn cuối cùng bản thảo thượng truyền  « toán học nghiên cứu báo » gửi bản thảo hệ thống, Thẩm Kỳ trong lòng một khối đá cơ bản rơi xuống đất, hắn dựa theo thẩm bản thảo người ý kiến tiến hành chỉnh sửa, thẩm bản thảo người khẳng định là OK, sẽ không lại chọc cái gì mao bệnh.
+
+	 « ba chiều số siêu phức một loại giải pháp » kỳ thật chính là một phần phổ thông toán học hạch tâm tập san luận văn, trở thành tiếng Anh bản có thể đăng tại tập bên trên, đơn giản chính là một phần phổ thông SCI luận văn,  « toán học nghiên cứu báo » IF ngay cả 0. 4 cũng chưa tới.
+
+	Như vậy phổ thông luận văn, chỉ cần thẩm bản thảo người bên kia qua thẩm, biên ủy hội đồng dạng sẽ tôn trọng thẩm bản thảo người ý kiến.
+
+	Trừ phi là loại kia đặc biệt ngưu bức đặc biệt thâm ảo luận văn, biên ủy hội có khả năng nhất thẩm tái thẩm, trong nước xếp hạng trước mấy toán học tập san biên ủy hội trong thành viên đều có viện sĩ tọa trấn.
+
+	Thẩm Kỳ trong lòng hiểu rõ, chính mình bản này  « ba chiều số siêu phức một loại giải pháp » chính là bài phổ thông cấp bậc hạch tâm tập san luận văn, không đáng biên ủy hội nhất thẩm tái thẩm, càng thêm không tới phiên viện sĩ xuất mã.
+
+	Cho nên giải quyết thẩm bản thảo người, trên cơ bản đại cục đã định, luận văn đăng đi ra ngoài là chuyện sớm hay muộn.
+
+	Đến nỗi thẩm bản thảo người là cái nào trường đại học nhà kia nghiên cứu cơ cấu đại lão, Thẩm Kỳ cũng không biết, hắn cũng không cần thiết biết, dù sao đã làm xong.
+
+	"Quá tốt rồi, cuối cùng có được một phần trong nước hạch tâm tập san luận văn, đáng giá chúc mừng một chút." Thẩm Kỳ học trung học lúc phát ngày đó toán học luận văn đăng tại phổ san bên trên, nó quá bình thường, phổ thông đến Thẩm Kỳ đều không muốn đề cập đoạn này hắc lịch sử.
+
+	Lúc này Chu Vũ An hốt hoảng chạy trốn trở lại phòng ngủ, hắn vừa vào cửa, chỉ nghe thấy Thẩm Kỳ nói cái gì hạch tâm tập san luận văn loại hình mà nói.
+
+	"Thẩm Kỳ, bồi ta mười đồng tiền!" Chu Vũ An mở ra bàn tay, vô cùng oan khuất.
+
+	"Ai khi dễ ngươi rồi?" Thẩm Kỳ hỏi.
+
+	"Ngươi trang xong chạy còn nhanh hơn thỏ, ta thay ngươi cõng nồi, tại lớp Wechat group bên trong phát mười đồng tiền hồng bao, tiêu trừ kêu ca! Thẩm Kỳ ngươi thật sự là thật không có lương tâm, cừu hận ngươi tới rồi, tổn thương ta đến khiêng!"
+
+	Chu Vũ An nhẫn nhịn một bụng ủy khuất, không nhả ra không thoải mái: "Lần này giải cơ khảo thí, ta nhiều nhất thi 90 điểm, mà ngươi thi 100 điểm, ngươi nói, cái này mười đồng tiền hồng bao có phải hay không do ngươi phát so sánh phù hợp?"
+
+	"Thế mà còn có việc này?" Thẩm Kỳ móc ra điện thoại di động tiến vào Wechat, hắc, Chu Vũ An tại trước đây không lâu xác thực phát cái hồng bao.
+
+	Ấn mở nhìn xem, tay của ngươi nhanh quá chậm, hồng bao đã bị đoạt xong.
+
+	Vận khí vương là Lý Chân Cường, 5 mao cả.
+
+	Tay nhất hắc chính là Âu Diệp, 1 chia tiền.
+
+	"Ta mặc kệ, bồi thường tiền!" Chu Vũ An gia đình điều kiện trung đẳng, cha mẹ tiền lương giai tầng không tính là nhà giàu sang, nhưng cũng không trở thành để Chu Vũ An qua nghèo rớt mùng tơi, mà Chu Vũ An người này chính là đặc biệt keo kiệt, đừng nói mười đồng tiền, một khối tiền hắn cũng sẽ đau lòng thật lâu.
+
+	"Cái này mười đồng tiền ta nhất định phải cho ngươi, nhưng là, ngươi đến bằng bản sự cầm." Thẩm Kỳ tiến vào lớp Wechat group, thao tác hồng bao giao diện: "Chu Vũ An đồng học xin chuẩn bị kỹ lưỡng, ta muốn phát hồng bao, đại hồng bao, tại lớp nhóm."
+
+	"Tính ngươi còn không có táng tận thiên lương!" Chu Vũ An ngữ khí vẫn như cũ u oán, tốc độ tay lại nhanh như thiểm điện tiến vào lớp nhóm giao diện , chờ đợi đoạt hồng bao.
+
+	"Ba, hai, một, phát!" Thẩm Kỳ tại lớp nhóm phát ra một cái liều vận may hồng bao, kim ngạch là 100 khối.
+
+	Chu Vũ An giây điểm hồng bao, hồng bao bìa có một câu chúc phúc mà nói: "Chúc mọi người khảo thí toàn qua."
+
+	Chu Vũ An có tâm lý chuẩn bị, cho nên hắn cướp được phần thứ nhất hồng bao, cướp được về sau Chu Vũ An càng thêm khổ cực: "100 khối tiền 36 cái bao, em gái ngươi a, ta mới cướp được 3 phần tiền. . ."
+
+	Chính Thẩm Kỳ cũng cướp được một cái bao: "Ta cũng rất suy a, sáu lông hai."
+
+	Rất nhanh, 36 cái hồng bao bị cướp xong, vận khí vương là Âu Diệp, nàng cướp được 13 khối 1 mao 4 phân.
+
+	. . . 

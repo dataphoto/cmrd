@@ -1,0 +1,77 @@
+ 565 chương cao thủ
+
+	Chu Vũ An trần thuật bọn hắn tại phương trình vi phân riêng phần cùng đại số hình học phương diện lấy được sơ bộ kết quả nghiên cứu: "Chúng ta lệnh M là n duy hoàn mỹ Riemann lưu hình, kết hợp Riemann độ cong tensor cùng Ricci độ cong tensor, chúng ta cấu tạo ra nhóm này tư thế. . ."
+
+	PPT bên trên cho thấy nhóm này tư thế: Γ=1 ╱ 2g^kl{? gil ╱? xj+? gil ╱? xi-? gij ╱? xjl}. . . ? ^2gij ╱? t^2=-Rgij
+
+	"Từ phương trình vi phân riêng phần góc độ cân nhắc, đây là một cái độ cao không phải tuyến tính song khúc phương trình, tìm ra nó chính xác giải liền xong việc, có lẽ có thể viết ra một phần phẩm chất cao tứ đại tập san luận văn."
+
+	"Đúng vậy, chúng ta đã tìm ra nó một chút chính xác giải, ở đây cảm tạ tiểu Vương làm cố gắng." Chu Vũ An nhìn về phía hắn tiểu đệ tiểu Vương, ánh mắt bên trong đưa cho khẳng định cùng cổ vũ.
+
+	Tiểu Vương ở trung tâm phòng toán học công tác một năm, xem như cái người mới, hắn năm nay chỉ có 25 tuổi, đã thu được toán học học vị tiến sĩ, là người mới bên trong máy bay chiến đấu.
+
+	Bởi vậy có thể thấy được trung tâm phòng toán học thực lực cường đại, tiểu Vương người mới này làm ra có tứ đại toán học tập san luận văn cấp bậc thành quả nghiên cứu, những này chính xác giải tất cả đều là cầu mong gì khác ra.
+
+	Tiểu Vương khiêm tốn nói, cảm tạ trung tâm cái này đại bình đài, cảm tạ Thẩm chủ nhiệm cùng Chu trưởng phòng dốc lòng chỉ đạo, ta làm chẳng qua là cơ sở nhất thao tác, giải phương trình mà thôi. Mà nhóm này phương trình người xây dựng là Chu trưởng phòng cùng Từ giáo sư.
+
+	Tiểu hỏa tử rất nhận người thích, tiểu Vương số liệu làm đẹp mắt, lời nói êm tai, cũng không có gì cao lạnh phong phạm, sao chép in, bố trí phòng họp, chuẩn bị nước trà chờ thượng vàng hạ cám công việc, tiểu Vương chủ động gánh chịu.
+
+	Thẩm Kỳ, Từ Dương, Âu Diệp chờ học thuật người dẫn đầu nhao nhao biểu dương tiểu Vương, có thực lực lại chịu làm công việc bẩn thỉu việc cực người trẻ tuổi thường thường sẽ khiến lãnh đạo đặc biệt chú ý.
+
+	Chu Vũ An tiếp tục hắn trần thuật báo cáo: "Nhưng chúng ta làm chính là toán học đại nhất thống hạng mục, không phải đơn thuần phương trình vi phân riêng phần. Cho nên, chúng ta đang cầu xin ra chính xác giải về sau, thông qua đại số hình học phương thức ý đồ tạo dựng một cái mới mô hình."
+
+	"Đánh cái so sánh, toán học đại nhất thống tựa như là một chiếc xe hơi, nó linh bộ kiện là từng cái toán học chi nhánh, đại số hình học là thân xe bên cạnh vây, phương trình vi phân riêng phần là thân xe trần nhà, số luận là bánh xe, topol là chỗ ngồi , vân vân vân vân."
+
+	"Linh bộ kiện chế tạo tiêu chuẩn đủ loại, từng cái chi nhánh nhà toán học nghiên cứu đồ vật không giống nhau."
+
+	"Mà một cỗ hoàn chỉnh ô tô, chúng ta hi vọng nó chỉ có một cái tiêu chuẩn."
+
+	"Tại ta cùng Từ giáo sư xem ra, nếu như chúng ta hoàn thành phương trình vi phân riêng phần + đại số hình học 'Mối hàn', như vậy toán học đại nhất thống 'Thân xe' kết cấu liền bị khóa định."
+
+	"Phía dưới cho mời Từ giáo sư phát biểu 'Căn cứ vào song khúc hình học ** xác thực giải đại số hình học hình mô hình mới' thành quả nghiên cứu." Chu Vũ An sau khi nói xong đem lật giấy bút giao cho Từ Dương.
+
+	Từ Dương nói đến: "Vũ An đánh cái này so sánh, tức chuẩn xác nhưng cũng có chút lỗ thủng, trên tổng thể tới nói là oK. Toán học đại nhất thống không phải đơn giản đem các loại linh kiện mối hàn lắp ráp cùng một chỗ, cuối cùng hình thành một bộ cả xe như thế lý tưởng hóa. Các loại linh kiện cưỡng ép lắp ráp cùng một chỗ, có cũng không kiêm dung a, có thể sẽ dẫn đến ô tô đánh không cháy. Lắp ráp ô tô quá trình bên trong tất nhiên sẽ liên quan đến kỹ thuật mới yếu lĩnh, có thể ô tô có thể thuận lợi khởi động. Đương nhiên, chúng ta đầu tiên muốn làm chính là, đem chiếc này 'Ô tô' lắp ráp ra."
+
+	"Ừm." Thẩm Kỳ gật đầu một cái nói đến, "Vũ An cùng Từ giáo sư cấu tứ kết hợp với nhau, trên cơ bản chính là toán học đại nhất thống bản chất. Toán học đại nhất thống là cái gì? Hai cái từ mấu chốt, vạn tông quy nhất and có thể chấp hành tính. Chúng ta không phải công nhân bốc vác hoặc là lắp ráp công, chúng ta vai trò nhân vật là chiến lược trù tính chung người cùng chiến thuật người thiết kế. Từ giáo sư, mời tiếp tục."
+
+	Từ Dương phô bày một cái cực kỳ phức tạp mô hình toán học, phức tạp tới trình độ nào rồi? Ở đây những này toán học người làm việc, trong bọn họ hơn phân nửa người xem không hiểu.
+
+	Cái này rất bình thường, tuyệt đại đa số toán học người làm việc tại tiến sĩ nghiên cứu sinh giai đoạn liền đã xác định chủ công phương hướng.
+
+	Có người chuyên công đại số hình học, có nhân chủ đánh số luận, có người tại phương trình vi phân riêng phần lĩnh vực cho thấy hơn người thiên phú.
+
+	Chủ công một cái phương hướng, phụ tu một phương hướng khác, loại này học giả cũng có, số lượng cũng không ít.
+
+	Tinh thông ba cái ở trên chi nhánh nhà toán học, vậy liền tương đối ít.
+
+	Từ Dương là làm đại số hình học, hắn đối hình học vi phân, phương trình vi phân riêng phần cũng so sánh tinh thông, hắn đã xem như một cái kiệt xuất nhà toán học.
+
+	Nhưng là Từ Dương tại hình học vi phân, phương trình vi phân riêng phần lĩnh vực không có Chu Vũ An như thế am hiểu, mà Chu Vũ An tại đại số hình học phương diện cũng làm không được Từ Dương loại này chiều sâu.
+
+	Âu Diệp tại số luận lĩnh vực có thể treo lên đánh Từ Dương cùng Chu Vũ An, mà nàng tại đại số hình học, hình học vi phân, phương trình vi phân riêng phần chờ lĩnh vực đồng dạng bị Từ Dương, Chu Vũ An chỗ treo lên đánh.
+
+	Giờ phút này, Từ Dương lấy ra đại số hình học trong lĩnh vực thâm ảo nhất đồ vật.
+
+	Âu Diệp bị treo lên đánh, nàng nhìn không rõ nha, chỉ có thể giữ yên lặng.
+
+	"Ta giải thích một chút cái này mô hình đi." Từ Dương nhấp một ngụm trà, nói đến: "Trung tâm các đồng nghiệp rất đáng gờm, bọn hắn tạo dựng song khúc hình học lưu phương trình tổ, cũng tìm ra chính xác giải. Tại Chu trưởng phòng nghiên cứu của bọn hắn thành quả bên trên, ta cùng đám học sinh của ta thành lập cái này khúc thể mô hình."
+
+	Thẩm Kỳ nhịn không được nói câu: "Từ giáo sư, ngươi đem sâm co vào trọng tân định nghĩa rồi? Rất kỳ diệu cấu tứ, ta cũng nhìn thấy một chút mới đồ vật, lão Từ quả nhiên là đại sư, loại thủ pháp này lợi hại, kẻ tài cao gan cũng lớn."
+
+	Cao thủ chính là cao thủ, Thẩm Kỳ một chút liền nhìn ra bản chất tính đồ vật. Từ Dương xông Thẩm Kỳ gật đầu nói: "Lão Thẩm, đã ngươi nhìn thấu bản chất, vậy ta cũng không dài dòng, cái này khúc thể mô hình thành lập quá trình ta trực tiếp nhảy qua, chỉ nói kết luận cùng nghi nan điểm. Mọi người không có ý kiến a?"
+
+	"Không có ý kiến không có ý kiến."
+
+	Toán học chính là như vậy, có nhiều thứ không hiểu chính là không hiểu, cao thủ giải thích với ngươi một tuần lễ ngươi cũng chưa chắc có thể hiểu.
+
+	Cùng ra vẻ hiểu biết, không bằng trực tiếp nghe cao thủ giảng thuật kết luận.
+
+	Cao thủ cho ra kết luận thường thường có độ cao khái quát tính, đối với Âu Diệp dạng này không phải đại số hình học lĩnh vực cao thủ, nàng chỉ cần biết hạng mục này bên trong đại số hình học bản khối kết luận là được rồi.
+
+	Từ Dương nói tiếp đi đến: "Sâm co vào là Mori Shigefumi phát minh một bộ lý luận, Mori Shigefumi rất sớm đã bắt đầu nghiên cứu Langlands cương lĩnh, hắn tại năm 1990 thu được Fields thưởng. Mori Shigefumi dã tâm cũng là hoàn thành toán học đại nhất thống, hắn nói lên rất nhiều quan điểm vẫn rất có dẫn dắt tính."
+
+	"Chúng ta cái này mô hình tham khảo sâm co vào bên trong thứ trọng yếu nhất, sau đó tự chế một chút nội dung, chúng ta sơ bộ kết luận là, nghĩa rộng hạ khúc thể cực nhỏ mô hình dù cho tồn tại cũng không bóng loáng, mà là mang điển hình kỳ điểm kỳ dị đám."
+
+	"Nói đến đây, mọi người có phải hay không liên tưởng đến cái gì? Đúng vậy, không sai, làm lấy làm lấy, chúng ta phát hiện chúng ta thành lập mô hình mới, thế mà tại từ nơi sâu xa cùng Hodge phỏng đoán liên quan lên! Xin hỏi Hodge phỏng đoán là bị ai chứng minh?" Từ Dương giảng đến nơi đây, bỗng nhiên liền high.
+
+	Đám người cũng rất kích động: "Thẩm Kỳ!" 

@@ -1,0 +1,139 @@
+ 119 chương không có chỗ ngồi
+
+	"Đơn giản điểm, Chu Vũ An."
+
+	Lỗ giáo sư tính nhẫn nại sắp sử dụng hết: "Phương thức nói chuyện đơn giản điểm."
+
+	"Tốt tốt tốt, ba câu nói, cuối cùng ba câu nói!" Chu Vũ An bị Lỗ giáo sư thống mạ một trận, cuối cùng nói điểm chính: "Lợi dụng trọng yếu cực hạn tư tưởng, cùng có giới lượng biến đổi thừa vô cùng bé lượng tính chất, kết hợp hai bên cái kẹp lý, cầu được cái này nhị trọng cực hạn là 0. Đây chính là ta hạch tâm mạch suy nghĩ, nói xong."
+
+	"Được rồi, Chu Vũ An ngươi có thể đi xuống." Lỗ giáo sư xụ mặt nói đến, sau đó bổ sung một câu: "Tính toán của ngươi cùng kết quả đều chính xác, nhưng ta chỉ có thể cho ngươi 6 0 điểm, chụp ngươi 4 0 điểm là bởi vì ngươi nói nhảm hết bài này đến bài khác."
+
+	Chu Vũ An hậm hực xuống đài trở lại trên chỗ ngồi, không vui.
+
+	Lỗ giáo sư trường học tiếp tục đang tiến hành, tiếp theo đề là đạo chứng minh đề, cho đơn giản một chút điều kiện, yêu cầu chứng minh tồn tại ζ, η(a, b), làm f' (ζ)=a+b ╱ 2ηf' (η)
+
+	Thiệu Thiên Thiên lên đài hoàn thành chứng minh, bọn hắn hệ liền dựa vào hắn một người độc banh ra cục.
+
+	". . . Cho nên ta dùng hai cái định lý giá trị trung bình, Lagrange định lý giá trị trung bình cùng Cauchy định lý giá trị trung bình, chứng được." Thiệu Thiên Thiên dùng nửa phút trình bày chính mình chứng minh mạch suy nghĩ.
+
+	"Rất tốt, lời ít mà ý nhiều." Lỗ giáo sư phi thường hài lòng, Thiệu Thiên Thiên ở trong mắt hắn địa vị tiếp tục tăng lên.
+
+	"Ta ra mấy đạo đề, Thẩm Kỳ, Thiệu Thiên Thiên, Chu Vũ An cùng cấp học đồng đều phát biểu cái nhìn của mình, cung cấp một chút mạch suy nghĩ. Ở chỗ này ta làm tiểu kết, các bạn học có thể nhớ một chút." Lỗ giáo sư trường học trình tự là, trước hết để cho học sinh làm bài, lẫn nhau bình, sau đó hắn họa trọng điểm, làm tiểu kết.
+
+	Lỗ giáo sư nói đến: "Cùng cái khác toán học chi nhánh so sánh, giải tích rất trẻ trung, thế kỷ 19 trước đó, nó thậm chí không thể xem như một cái chi nhánh. Sớm nhất ý thức được muốn tại phân tích bên trong rót vào nghiêm mật tính nhà toán học là Gauss cùng Abel, hai người bọn họ vì thế còn cãi nhau. Tại một trận kịch liệt biện luận về sau, Abel bệnh nặng một trận, hậm hực mà kết thúc, năm gần 27 tuổi."
+
+	"Tuổi trẻ toán học thiên tài Abel tráng niên mất sớm, vĩ đại Gauss cảm thấy áy náy, dù sao làm tức chết cùng thời đại tuổi trẻ thiên tài Abel, một đời tông sư Gauss chịu nhất định trách nhiệm."
+
+	"Gauss một mực sống đến nhanh 80 tuổi, càng già càng dẻo dai, thân thể không sai, hắn tại lúc tuổi già viết một bản chuyên lấy  « vi phân và tích phân tính toán », chúng ta có thể cho rằng đây là giải tích hình thức ban đầu, lúc này là thế kỷ 19 trung kỳ. Cho nên vẫn là câu nói kia, tư tưởng va chạm sinh ra học thuật phát triển động lực." Giảng đến nơi đây, Lỗ giáo sư dừng lại một chút.
+
+	Dưới đài toàn thể học sinh nghe say sưa ngon lành, quả nhiên vẫn là Gauss lợi hại, lấy học thuật lý luận sinh sinh làm tức chết Abel, đây là tông sư mới có cường đại sức chiến đấu a.
+
+	Có lẽ Lỗ giáo sư toán học dã sử tính chân thực đợi tiến một bước xác nhận, nhưng các học sinh rất thích nghe toán học sử, cái này so sách giáo khoa bên trên buồn tẻ lý luận thú vị nhiều.
+
+	Toán học dã sử giảng một chút, điều động sau giờ học đường bầu không khí, Lỗ giáo sư thu phóng tự nhiên tiến vào chủ đề: "Đứng ở trên vai người khổng lồ, trải qua Cauchy, Weierstrass tiến một bước hoàn thiện, đến thế kỷ 20 sơ kỳ, do siết bối cách hoàn thành công tác cuối cùng,  « số học phân tích » trở thành một môn thế giới tính lớp số học trình, bị bố trí tiến toàn cầu các học phủ ngành toán học cơ sở tài liệu giảng dạy bên trong. Đằng sau mấy tiết khóa, ta đem giảng đến siết bối cách tích phân, siết bối cách cái này người nước Pháp cũng không ít thú vị cố sự, đáng nhắc tới."
+
+	"Từ vừa rồi kia mấy đạo đề giải đáp cùng thảo luận bên trong, chúng ta phát hiện, tại hai cái hạn ở giữa, lượng biến đổi một cái vô cùng bé tăng lượng tổng sinh ra hàm số tự thân một cái vô cùng bé tăng lượng, nói cách khác, f(x) tại lượng biến đổi x một cái xác định giá trị lân cận vực bên trong là x liên tục hàm số, liên tục hàm số một cái cơ bản tính chất đúng không đủ để bảo đảm hàm số tính liên tục."
+
+	"Các vị đồng học, xin nhớ kỹ cái này cơ bản tính chất, nó sinh ra tại Thẩm Kỳ, Thiệu Thiên Thiên, Chu Vũ An chờ tuổi trẻ nhà toán học tư tưởng trong đụng chạm. . . Hi vọng các ngươi về sau có thể trở thành chân chính nhà toán học." Lỗ giáo sư cười nói.
+
+	Thẩm Kỳ, Thiệu Thiên Thiên, Chu Vũ An cũng cười, có thụ cổ vũ, thầy trò quan hệ trong đó giữa lúc đàm tiếu hướng tới hòa hợp.
+
+	Những học sinh khác cũng dần dần tiếp nhận cũng thích ứng Lỗ giáo sư trường học phương thức, thích một vị giáo sư khóa, mới có thể sinh ra hứng thú đem môn học này học tốt, cho dù hiện tại nghe không hiểu nhiều, nhưng hứng thú là tốt nhất lão sư.
+
+	"Tốt, còn có chút thời gian, chúng ta lại làm mấy đạo đề." Lỗ giáo sư nói đến, tại trên bảng đen viết mới đề mục.
+
+	Cái này tiết khóa vừa mới bắt đầu thời điểm, một ít học sinh rất bài xích Lỗ giáo sư một lời không hợp liền ra đề mục phong cách.
+
+	Mà bây giờ, mọi người tràn đầy phấn khởi chờ đợi mới đề, ma quyền sát chưởng kích động.
+
+	Lỗ giáo sư mềm mỏng im ắng, dùng 1 tiết khóa không đến thời gian, để học sinh đối với hắn từ bài xích đến tiếp nhận.
+
+	Mới đề mục là tính toán i= ∫e^x sinydy-e^x cosydy.
+
+	"Lần này lại đến phiên ngành toán học." Lỗ giáo sư nhìn một chút Thẩm Kỳ, hắn xem như minh bạch, Thẩm Kỳ là ngành toán học nhân vật trọng yếu, lão đại. Xem ra Thẩm Kỳ thủ hạ có mấy viên mãnh tướng, lão đại đồng dạng không dễ dàng xuất mã, có vấn đề trước phái tiểu đệ giải quyết, tiểu đệ không giải quyết được mới đến phiên lão đại ra mặt.
+
+	Thẩm Kỳ quay đầu nhìn về phía Chu Vũ An cùng Âu Diệp vị trí, cho Âu Diệp truyền lại ánh mắt: Máy tính toán, lần này đến phiên ngươi.
+
+	Lỗ giáo sư thuận Thẩm Kỳ ánh mắt liếc nhìn ghế sau vị, khóa chặt Âu Diệp: "Phía trước mấy vị đều là nam sinh giải đề, tiếp xuống chúng ta mời một vị nữ sinh lên đài, Âu Diệp, mời lên đài."
+
+	Âu Diệp cũng không nói nhảm, đứng dậy lên đài, cầm phấn viết tại trên bảng đen giải đáp.
+
+	Rất nhanh, Âu Diệp tính toán ra kết quả, i=1-e^2.
+
+	"oK, Âu Diệp ngươi là căn cứ vào cái gì mạch suy nghĩ tính toán ra kết quả này?" Lỗ giáo sư hỏi.
+
+	Âu Diệp đáp trả: "Green công thức."
+
+	Lỗ giáo sư truy vấn: "Cụ thể một chút, ta cần chi tiết, càng nhiều chi tiết."
+
+	Âu Diệp bất lực nhìn về phía Thẩm Kỳ, không nói lời nào.
+
+	Thẩm Kỳ biết không phải là Âu Diệp không hiểu, mà là nàng không quen biểu đạt.
+
+	Thẩm Kỳ đứng ra giải vây: "D là do L cùng L1 chỗ làm thành phong bế đường cong, có thể tính toán ra một cái giá trị e bình phương giảm 1, lại từ Green công thức, cuối cùng được đến i tương đương 1 giảm e bình phương. Đây là ta đối Âu Diệp mạch suy nghĩ lý giải."
+
+	Lỗ giáo sư hỏi Âu Diệp: "Ngươi cũng nghĩ như vậy?"
+
+	Âu Diệp gật gật đầu.
+
+	Lỗ giáo sư: "Vậy chính ngươi vì cái gì không nói?"
+
+	Âu Diệp: "Ta sẽ tính, sẽ không giảng."
+
+	Dưới đài có học sinh cười, cái này muội tử có chút ý tứ, tính toán rất sắc bén, nói chuyện không lưu loát.
+
+	"Âu Diệp ngươi về trước chỗ ngồi đi, ngươi tính toán chính xác, ngôn ngữ biểu đạt năng lực còn cần tiến một bước cường hóa." Lỗ giáo sư nói đến.
+
+	"Được rồi, cuối cùng một đề."
+
+	Lỗ giáo sư đem bảng đen lau sạch sẽ, vẽ lên cái đường cong đồ, đưa ra vấn đề, mời chứng minh: m ╱ m+2 ∫dx ╱ √ 【 1+(x ╱ a)^m  ] =arcPP1-(P1R1-PR)
+
+	Này đề vừa ra, dưới đài hoàn toàn tĩnh mịch.
+
+	"Cuối cùng một đề, lưu cho khoa học cùng công trình tính toán hệ." Lỗ giáo sư nhìn về phía Thiệu Thiên Thiên.
+
+	Lần này Thiệu Thiên Thiên không có lập tức lên đài, hắn tao ngộ hoang mang, hắn không có một chút mạch suy nghĩ, không biết nên như thế nào chứng minh.
+
+	Khoa học cùng công trình tính toán hệ không một người đứng ra, chứa ** rất nhẹ nhàng, chứa lớn bức dựa vào là đỉnh cấp thực lực, không có thực lực chỉ có thể giương mắt nhìn.
+
+	"Kia ngành toán học đâu?" Lỗ giáo sư nhìn về phía Thẩm Kỳ.
+
+	Thẩm Kỳ đứng lên, lần này hắn không phái tiểu đệ tiểu muội ra tay, hắn biết cái này đề toàn bộ ngành toán học có thể làm ra hoàn chỉnh chứng minh người, đoán chừng chỉ có hắn một cái. Nếu có cái thứ hai, đó chính là Âu Diệp, nhưng cái này đề suy luận chứng minh sẽ rất rườm rà, lấy Âu Diệp ngôn ngữ biểu đạt phong cách, nàng giảng ba ngày ba đêm cũng giảng không hết chứng minh mạch suy nghĩ.
+
+	"Thẩm Kỳ ngươi đến?" Lỗ giáo sư hỏi.
+
+	"Ta tới." Thẩm Kỳ lên đài, kẹp lên một cây mới phấn viết, tại trên bảng đen tiến hành suy luận chứng minh.
+
+	"PR cùng P1R1 theo thứ tự là P, P 1 điểm chỗ đường cong tiếp tuyến, như vậy, ta làm hai cái định tích phân kém. . ." Thẩm Kỳ vừa viết vừa nói , vừa nói vừa viết.
+
+	Cho nên: arcQQ1-arcPP1=(Q1 S1-QS)-(P1R1-PR)
+
+	. . .
+
+	"Tại hình ê-líp bên trên xử lý, ta dùng biểu thức đại số biểu thị vô tận nhiều đoạn cung kém, như vậy, phân tích như sau. . ."
+
+	∫Xdx+ ∫zdz=-hxz ╱ √ 【 -fl  ] 
+
+	. . .
+
+	"Cái này đề chứng minh tương đương phiền phức nha, lại cho ta ngẫm lại." Thẩm Kỳ viết nửa khối bảng đen, hơi ngưng lại.
+
+	Dưới đài, bao quát Thiệu Thiên Thiên, Chu Vũ An chờ bị Lỗ giáo sư ca tụng là "Tuổi trẻ nhà toán học" ưu tú học sinh cũng nhìn trợn tròn mắt, bọn hắn nhìn không hiểu nhiều Thẩm Kỳ suy luận chứng minh mạch suy nghĩ.
+
+	Lỗ giáo sư bất động thanh sắc bảo trì quan sát.
+
+	"Ta nghĩ đến, ở đây ta trích dẫn hình học ý nghĩa, lệnh cái này tư thế cùng tích phân nhất trí, p vì hình ê-líp chính cháy dây cung. . ."
+
+	Thẩm Kỳ làm sơ sau khi tự hỏi tiếp tục chứng thực: arcJD+arcDg=. . .
+
+	Ý nghĩ của hắn nếu như x=0, thì cung JD biến mất, tại thức (7) bên trong đại số hạng cũng biến mất, cho nên Dg cung biến thành DA cung. . . Thẩm Kỳ rất nhanh viết đầy tối sầm tấm.
+
+	"Rất cổ lão chứng minh phương pháp, pháp ni á vâng định lý, phi thường kinh điển." Lỗ giáo sư có thể get đến Thẩm Kỳ suy luận hạch tâm mạch suy nghĩ, hắn có chút ngoài ý muốn, Thẩm Kỳ thế mà dùng loại này đường tắt tiến hành chứng minh.
+
+	"Cho nên, ta lại lệnh. . . A, không có chỗ ngồi." Thẩm Kỳ viết viết phát hiện, nguyên một khối bảng đen đều bị hắn viết đầy, lại không chỗ trống.
+
+	Thẩm Kỳ quay người, đem một nửa phấn viết hướng bảng đen trong rãnh ném một cái: "Ta rất xác định cái này đẳng thức là thành lập, nhưng trên bảng đen trống không chỗ quá ít, viết không dưới."
+
+	Mọi người dưới đài đầu tiên là mộng bức, sau đó tỉnh ngộ, hai, ba trăm năm trước, một vị gọi Fermat nước Pháp nghiệp dư nhà toán học cũng là làm như vậy.
+
+	"Ta rất xác định cái này giả thiết là thành lập, phần ngoại lệ bên trên trống không chỗ quá ít, viết không dưới." Fermat đại định lý chính là như thế tới, thẳng đến năm 1995 mới bị Wales chứng minh thành lập. 

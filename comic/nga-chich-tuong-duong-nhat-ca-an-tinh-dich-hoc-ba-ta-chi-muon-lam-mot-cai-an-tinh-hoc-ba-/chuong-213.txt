@@ -1,0 +1,109 @@
+ 213 chương Riemann giả thiết mới mạch suy nghĩ
+
+	 
+
+	Bảy cái ngàn năm toán học nan đề thật rất khó phá giải.
+
+	Trước mắt chỉ có Poincaré phỏng đoán bị đánh hạ, Russia nhà toán học Perelman tại toán học thiên tài Lữ Khâu Kiến trên cơ sở triệt để đã chứng minh Poincaré phỏng đoán.
+
+	Riemann giả thiết đưa ra tại thế kỷ 19, vượt qua toàn bộ thế kỷ 20, tại thế kỷ 21 hôm nay vẫn như cũ Kim Thân không phá.
+
+	Bất luận một vị nào nghiên cứu số luận nhà toán học đều có dục vọng chứng minh RH, cái này đem là ghi vào sử sách công tích vĩ đại.
+
+	Chính như ca đoán chứng minh quá trình khó khăn như vậy, RH trải qua ba cái thế kỷ cũng không bị hoàn toàn chứng minh.
+
+	Ca đoán 1+1 cũng không được chứng minh, nhưng Trần Cảnh Nhuận tiên sinh đã chứng minh 1+2, đây là tiếp cận nhất ca đoán một kết quả.
+
+	Một bước đúng chỗ hoàn toàn chứng minh RH, ca đoán đúng không dễ dàng làm được sự tình, lịch sử nói rõ hết thảy.
+
+	Nhà toán học nhóm đối với RH giai đoạn tính chứng minh kéo dài mấy cái thế kỷ.
+
+	Liên quan tới Riemann zeta hàm số ζ(s) biểu thị công thức, đối tùy ý số nhiều, như Re(s)&gt;1, thì:
+
+	ζ(s)=Σn^- s=∏(1-p^- s)^-1
+
+	Trong đó n vì số tự nhiên, p vì số nguyên tố.
+
+	Nhà toán học nhóm nghĩ hết hết thảy biện pháp, đã dùng hết hết thảy thủ đoạn, từ Euler kinh điển công thức đến Bernoulli số, lại đến chính số lẻ lúc Ramanujan công thức, cuối cùng làm ra trọng yếu giai đoạn tính tiến triển, k=3, 5 cùng k=4, 6, 7 tình huống đặc biệt đạt được sảng khoái thay mặt toàn bộ nhà toán học tán đồng.
+
+	Hiện tại, giai đoạn tính tiến triển cùng RH hoàn toàn chứng minh ở giữa còn kém một cây cầu.
+
+	Đạo này thừa thượng khải hạ mấu chốt cầu nối chính là ζ(2n+1) hai cái đưa đẩy công thức.
+
+	Nếu như có thể chứng minh ζ(2n+1) hai cái đưa đẩy công thức, như vậy Thẩm Kỳ tin tưởng, Muller giáo sư đoàn đội cách cuối cùng chứng minh RH đã không xa.
+
+	Để Thẩm Kỳ hưng phấn là, trong tay hắn phần này bán thành phẩm luận văn, chính là liên quan tới ζ(2n+1) hai cái đưa đẩy công thức luận thuật chứng minh.
+
+	Phần này luận văn dàn khung do Muller thiết lập, cụ thể luận thuật chứng minh do Mary chấp bút.
+
+	Rõ ràng, Muller giáo sư chiến lược phương hướng là chính xác, nhưng Mary chiến thuật chấp hành hiệu quả quá mức bé nhỏ.
+
+	Mary chiến thuật đấu pháp quá bài cũ , ấn như ngươi loại này tính toán chứng minh suy luận Logic, RH sớm cái này bị hoàn toàn đã chứng minh, nhưng sự thật cũng không phải là như vậy. Thẩm Kỳ đem luận văn bản thảo trả lại Muller, nói đến: "Chúng ta cần một cái mới dẫn lý, chứng minh k=1 lúc kết luận thành lập, như vậy ζ(2n+1) hai cái đưa đẩy công thức có hi vọng hợp tình hợp lý bị suy luận ra, từ đó hướng RH hoàn toàn chứng minh khởi xướng tổng tiến công."
+
+	"Ha ha, hài tử, ta đã từng như thế cân nhắc qua!" Muller nhãn tình sáng lên, nhìn về phía Thẩm Kỳ.
+
+	"Chúng ta?" Mary chất vấn nhìn xem Thẩm Kỳ, lập tức đương nhiên nói đến: "Đúng, chúng ta, đây là ta cùng Alan cộng đồng nghiên cứu đầu đề."
+
+	"Mary, ta có cái to gan ý nghĩ, có thể mời Thẩm Kỳ gia nhập chúng ta đoàn đội, cộng đồng nghiên cứu ζ(2n+1) cái này đầu đề. Ngươi cảm thấy thế nào?" Muller phi thường dân chủ, hắn lễ phép hỏi thăm học sinh của hắn Mary.
+
+	"Ta cảm thấy, chúng ta hẳn là duy trì hiện trạng, bởi vì hiện trạng cũng không có cái gì không ổn." Mary lộ ra một loại biểu tình cổ quái.
+
+	"Ta rất tình nguyện gia nhập Muller giáo sư ζ(2n+1) đầu đề hạng mục tổ." Thẩm Kỳ không để ý tới Mary chất vấn biểu lộ, trực tiếp hướng Muller cho thấy quyết tâm.
+
+	"Ngươi chủ công phương hướng là toán học vật lý, phụ trợ phương hướng là đại số hình học. Thẩm, đừng nói cho ta ngươi còn muốn lại thêm một vài luận phương hướng." Mary lạnh lùng nói đến.
+
+	"Muller giáo sư là thần tượng của ta, hắn tinh thông toán học vật lý, đại số hình học, số luận, nhóm luận chờ nhiều cái lĩnh vực. Ta hai phụ lựa chọn số luận, đối với ta, đối với toàn bộ đoàn đội cũng không chỗ xấu." Thẩm Kỳ đáp trả.
+
+	"Thẩm Kỳ, nếu như bạn gái của ngươi đồng ý ngươi phụ tu số luận, ta không có vấn đề gì, trước đó ta liền đã nói với ngươi, ngươi vì cái gì không tuyển chọn số luận, dù sao ngươi là ai long khen qua học sinh." Muller cố ý để Thẩm Kỳ cùng Mary hợp tác.
+
+	"Nàng sẽ đồng ý." Thẩm Kỳ không cách nào bỏ lỡ cùng đại học Princeton toán học nghiên cứu đoàn đội cùng một chỗ đánh hạ RH cơ hội, Âu Diệp nhất định sẽ đồng ý cũng ủng hộ hắn làm như vậy.
+
+	"Mary, vì cái gì không cho Thẩm Kỳ một cái cơ hội đâu, ngươi cần trợ giúp của hắn. Ngươi cũng thừa nhận, tại ngươi tốt nghiệp tiến sĩ luận văn bên trong trích dẫn Thẩm Kỳ phép tính, các ngươi trên thực tế đã hợp tác qua một lần." Muller cười tủm tỉm hòa ái nói đến, "Thẩm Kỳ là một không nổi học sinh, hắn dùng thời gian hai năm phát biểu mười bài toán học luận văn. Mary, ta và ngươi tại khoa chính quy trong lúc đó cộng lại luận văn số lượng, đúng lúc là Thẩm Kỳ một nửa."
+
+	Mary mặt không biểu tình, cuối cùng vẫn đồng ý Muller đề nghị, dù sao Muller là cái đoàn đội này lão đại.
+
+	"Như vậy Thẩm Kỳ, từ giờ trở đi ngươi là Mary trợ thủ, chúc các ngươi hợp tác vui vẻ." Muller làm ra cuối cùng chỉ thị, tan họp.
+
+	Thẩm Kỳ đạt được một phần ζ(2n+1) đầu đề tư liệu, hắn hùng tâm bừng bừng đã có một cái thành thục ý nghĩ, hắn đem dùng một loại sáng tạo cái mới mạch suy nghĩ hoàn thành ζ(2n+1) hai cái đưa đẩy công thức chứng minh.
+
+	"Ngươi tốt nhất đừng cho ta loạn thêm." Mary mời Thẩm Kỳ đi trong trường quán cà phê uống cà phê, hai người đơn độc ở chung, giao lưu đầu đề hạng mục bước kế tiếp thúc đẩy kế hoạch.
+
+	"Mary, ngươi cảm thấy ta giống như là làm loạn người sao?" Thẩm Kỳ hỏi lại.
+
+	"Ai biết được?" Mary từ chối cho ý kiến.
+
+	"Nếu như ta là làm loạn người, vậy ngươi cũng thế, ngươi tốt nghiệp tiến sĩ luận văn trích dẫn ta đại số tới gần phép tính. Nếu ngươi tự mình động thủ hoàn thành cái này đại số tới gần phép tính, ngươi bây giờ khả năng vừa mới tốt nghiệp tiến sĩ, hoặc là phải chờ tới sang năm mùa xuân mới có thể tốt nghiệp. Cái này đại số tới gần phép tính không có mấy tháng thời gian coi không ra." Thẩm Kỳ trần thuật sự thật, cái này Diofantos phương trình Walsh phỏng đoán luận văn sự kiện một mực là trong lòng của hắn đau nhức.
+
+	"Diofantos phương trình Walsh phỏng đoán luận văn đã là quá khứ thức." Mary hời hợt mang qua, "Nói một chút đi, ζ(2n+1) đầu đề tiếp xuống công việc, ngươi muốn làm sao khai triển?"
+
+	"Muller giáo sư dàn khung thiết lập bảo trì bất biến, cụ thể luận thuật chứng minh lật đổ làm lại." Thẩm Kỳ kiên định nói đến.
+
+	"Ngươi xác định?" Mary cười lạnh đến.
+
+	"Phi thường xác định." Thẩm Kỳ dứt khoát kiên quyết gật gật đầu, "Mary, ta biết ngươi bề bộn nhiều việc, còn muốn mang sinh viên chưa tốt nghiệp đạo tu khóa, phê chữa bài tập của bọn hắn cùng bài thi. Nếu như ngươi không ngại, ζ(2n+1) đầu đề mới luận thuật công việc do ta một mình hoàn thành, Giáng Sinh trước đó ta đem hoàn thành phần công tác này, yên tâm, cộng đồng đệ nhất tác giả sẽ có tên của ngươi."
+
+	"Ha ha ha." Mary cười to, cười bụng đều đau , có vẻ như nghe được trên thế giới buồn cười nhất trò cười.
+
+	"Cuồng vọng, vô tri, không có thuốc chữa." Mary từ tinh mỹ nữ sĩ trong ví tiền kẹp ra một tấm 10 đôla tiền mặt, đặt ở chén cà phê dưới, đứng dậy rời đi.
+
+	"Cà phê ta mời." Đi vài bước sau Mary quay đầu nói đến, "Nhưng cộng đồng đệ nhất tác giả chỉ có hai vị, ta cùng Muller giáo sư."
+
+	"Vậy liền các hiển thần thông rồi." Thẩm Kỳ buông tay nói đến.
+
+	"Hừ." Mary lạnh như băng đi, nàng cùng Thẩm Kỳ hợp tác nhìn qua cũng không vui sướng.
+
+	Thẩm Kỳ tại Yến đại trong lúc đó hết thảy phát biểu mười bài luận văn, đúng là như thế phong phú nghiên cứu khoa học kinh lịch, để hắn trở thành toàn Trung Quốc một vị duy nhất tại năm nay mùa thu nhập học đại học Princeton ngành toán học nghiên cứu sinh.
+
+	Cái này mười bài luận văn, Thẩm Kỳ tất cả đều là đệ nhất tác giả, hoặc là cộng đồng đệ nhất tác giả.
+
+	Một phần luận văn có thể có một cái ở trên tác giả, luận văn danh nghĩa phương tác giả sắp xếp, từ trái hướng phải số, xếp ở vị trí thứ nhất đưa chính là đệ nhất tác giả.
+
+	Thẩm Kỳ từng tại chính mình cùng Âu Diệp, Tôn Nhị Hùng, Lỗ Quốc Trân danh tự đằng sau tiêu qua ký hiệu, tiêu ký hào đại biểu cho cộng đồng đệ nhất tác giả thân phận.
+
+	Lại đằng sau là thứ hai tác giả, thứ ba tác giả...
+
+	Viết luận văn không màng đệ nhất tác giả hoặc là cộng đồng đệ nhất tác giả, cái kia còn viết cái quỷ a.
+
+	Thẩm Kỳ không thể nào tiếp thu được tên của mình xếp tại đệ nhất tác giả, hoặc là cộng đồng đệ nhất tác giả về sau.
+
+	Mary không chào đón Thẩm Kỳ, không cách nào, Thẩm Kỳ chỉ có thể làm một mình. 

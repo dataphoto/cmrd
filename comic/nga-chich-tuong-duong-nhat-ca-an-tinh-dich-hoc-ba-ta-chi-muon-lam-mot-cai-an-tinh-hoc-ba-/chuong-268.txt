@@ -1,0 +1,107 @@
+ 268 chương ta không có nói đùa
+
+	Thẩm Kỳ trở lại nhà trọ, bắt đầu hợp bản thảo.
+
+	Căn cứ vào Riemann phỏng đoán "Thẩm thị xứng đôi pháp", suy luận ra ζ(s) cái thứ nhất biểu đạt thức là: ζ(s)=e^A+B s∏∞n=1(1- s ╱ pn)(1- s ╱ 1-pn)e^(s ╱ pn+ s ╱ 1-pn).
+
+	Vì suy luận ra cái này biểu đạt thức, Thẩm Kỳ, Mary, Jonas hết thảy viết27 trang luận văn bản thảo, trong đó Thẩm Kỳ độ cống hiến vì 50%, Mary cùng Jonas cống hiến còn lại 50%.
+
+	Thẩm Kỳ lặp đi lặp lại châm chước, thông qua càng ngắn gọn miêu tả hòa luận chứng, đem 27 trang luận văn bản thảo áp súc vì 20 trang.
+
+	Cái thứ hai biểu đạt thức là: 0=e^A+B SS∏∞n=1(s-pn)(s-1+pn)e^(s ╱ pn+ s ╱ 1-pn)
+
+	Vì suy luận ra cái thứ hai biểu đạt thức, Thẩm Kỳ, Faltings hết thảy viết10 trang luận văn bản thảo, Thẩm Kỳ cùng Faltings cống hiến một nửa một nửa.
+
+	Thẩm Kỳ lặp đi lặp lại châm chước, không cách nào thông qua càng ngắn gọn miêu tả hòa luận chứng đối cái thứ hai biểu đạt thức tiến hành đơn giản hoá.
+
+	10 trang đã là cực đoan nhất áp súc, Thẩm Kỳ một cái ký hiệu đều không có đổi. Bởi vậy có thể thấy được Faltings giáo sư công lực, dù sao hắn là Fields thưởng người đoạt giải, xử lí toán học nghiên cứu đã có bốn mươi mấy năm tháng.
+
+	Thẩm Kỳ hẳn là cảm tạ Faltings giáo sư, Mary cùng Jonas, bọn hắn vì cái này đầu đề làm ra trọng yếu cống hiến, nếu không Thẩm Kỳ không có khả năng trong thời gian ngắn như vậy, đạt được hai cái hạch tâm biểu đạt thức.
+
+	Đạt được ζ(s) hai cái hạch tâm biểu đạt thức ý nghĩa là, Thẩm Kỳ có thể hướng toàn thế giới tuyên bố: "Ta cùng ta đoàn đội, đã sơ bộ chứng minh Riemann phỏng đoán thành lập!"
+
+	Hai cái biểu đạt thức điều kiện tiên quyết là "Thẩm thị xứng đôi pháp", đây là Thẩm Kỳ tự sáng tạo kiểu mới xử lý phương pháp.
+
+	Không có cái này có linh hồn ý nghĩa kiểu mới xứng đôi pháp, không chiếm được phía sau hai cái biểu đạt thức.
+
+	Từ bất luận cái gì góc độ tới nói, Thẩm Kỳ là đoàn đội linh hồn nhân vật.
+
+	Đương nhiên, đoàn đội của hắn thành viên cùng kỹ thuật cố vấn cũng phi thường ra sức, mọi người hiệp đồng tác chiến, hoàn thành Riemann phỏng đoán bước đầu thành quả nghiên cứu.
+
+	Một cái cấp 12 toán học đại sư có lẽ không giải quyết được Riemann phỏng đoán, nhưng một cái cấp 12 toán học đại sư, tăng thêm Fields thưởng người đoạt giải, đại học Princeton giáo sư, toán học tiến sĩ cùng tiến sĩ nghiên cứu sinh, cùng toàn bộ đại học Princeton ngành toán học ủng hộ, toàn bộ đoàn đội lấy được nhất định thành quả nghiên cứu.
+
+	Thẩm Kỳ nguyên lai tưởng rằng sơ bộ chứng minh Riemann phỏng đoán, cần thao thao bất tuyệt luận chứng độ dài, không nghĩ tới 30 trang giấy liền làm xong.
+
+	Cho nên mạch suy nghĩ trọng yếu nhất, Logic có thể dựa nhất, sức tưởng tượng quý giá nhất, trừ cái đó ra, còn cần một chút xíu linh cảm cùng vận khí.
+
+	Cái này 30 trang giấy phi thường có giá trị, Thẩm Kỳ cho rằng một khi công bố, đem đối số luận giới cùng toàn bộ toán học giới sinh ra nhất định ảnh hưởng.
+
+	Hợp bản thảo là Thẩm Kỳ một người hoàn thành, cho nên nắm giữ bản đầy đủ Riemann phỏng đoán sơ bộ chứng minh chỉ có chính hắn.
+
+	Cách khoa học đột phá thưởng &amp; AMP; mới tầm mắt thưởng trao giải nghi thức cùng học thuật báo cáo đại hội còn có 3 ngày thời gian, Thẩm Kỳ đem  « căn cứ vào 'Song sinh xứng đôi pháp' Riemann phỏng đoán chứng minh » trích yếu phát cho khoa học đột phá thưởng &amp; AMP; mới tầm mắt thưởng tổ ủy hội.
+
+	Trích yếu chỉ có mấy câu, chủ quan là: "Ta, Thẩm Kỳ, cùng ta đoàn đội, thông qua song sinh xứng đôi pháp, sơ bộ đã chứng minh Riemann phỏng đoán thành lập."
+
+	"Thẩm thị xứng đôi pháp" là "Song sinh xứng đôi pháp" nội bộ cách gọi, cái này mới xử lý phương pháp chưa đạt được toán học giới đồng nghiệp tán thành, cho nên vẫn là gọi "Song sinh xứng đôi pháp" so sánh trực quan.
+
+	Tổ ủy hội chấn kinh, bọn hắn thuê thủ tịch kỹ thuật cố vấn một chiếc điện thoại đánh tới Thẩm Kỳ nơi này: "Thẩm tiên sinh, ngươi nói đùa cái gì!"
+
+	Thẩm Kỳ bình tĩnh nói đến: "Jackson tiên sinh, ta rất chân thành, cũng không nói đùa."
+
+	"Ngươi, Thẩm Kỳ, đã chứng minh Riemann phỏng đoán?"
+
+	"Đúng vậy, ta, Thẩm Kỳ, đã chứng minh Riemann phỏng đoán, sơ bộ đã chứng minh Riemann phỏng đoán. Bởi vì phương diện giữ bí mật cân nhắc, tại ta làm chính thức báo cáo trước đó, ta chỉ có thể hiện lên luận văn giao trích yếu cho tổ ủy hội."
+
+	" « Banach không gian bên trong 'Muller - Thẩm định lý' cùng bổ sung cận bách định lý », ngươi còn cần tại trong hội nghị báo cáo không?"
+
+	"Ta có 45 phút đồng hồ báo cáo thời gian, phía trước 20 phút, ta báo cáo  « Banach không gian bên trong 'Muller - Thẩm định lý' cùng bổ sung cận bách định lý », đằng sau 2 5 phút đồng hồ, ta báo cáo  « căn cứ vào 'Song sinh xứng đôi pháp' Riemann phỏng đoán chứng minh », mời tổ ủy hội phê chuẩn."
+
+	"Thẩm tiên sinh, trước mặt 20 phút ta hiện tại liền có thể phê chuẩn, phía sau 2 5 phút đồng hồ, ta cần cùng các ngươi Princeton Fefferman chủ nhiệm xác nhận một chút."
+
+	"Không có vấn đề, ta chờ ngươi trả lời chắc chắn."
+
+	Thẩm Kỳ trước đó đã hướng Fefferman chủ nhiệm báo cáo quá rồi, đại học Princeton ngành toán học nội bộ không có bất cứ vấn đề gì.
+
+	Tổ chức thái độ rất rõ ràng, Thẩm Kỳ ngươi cứ việc đi trang B, xảy ra chuyện do tổ chức ôm lấy.
+
+	Sau mười phút, tổ ủy hội Jackson tiên sinh lần nữa điện báo: "Thẩm tiên sinh, ta rất chờ mong phía sau ngươi 2 5 phút đồng hồ báo cáo, ba ngày sau gặp!"
+
+	Tiến về Washington một ngày trước, Muller văn phòng.
+
+	Thẩm Kỳ đem 30 trang  « căn cứ vào 'Song sinh xứng đôi pháp' Riemann phỏng đoán chứng minh » tiến hành nội bộ công khai, hắn làm trận báo cáo, tương đương với diễn tập.
+
+	Muller, Mary, Jonas đều là lần thứ nhất nhìn thấy bản đầy đủ hợp bản thảo văn kiện, bọn hắn kích động, nhưng cũng bảo trì lý trí, cùng cấp độ càng sâu chờ mong.
+
+	"Kỳ, tại Greider, Elon kỹ thuật duy trì dưới, ngươi cùng Mary, Jonas thông qua 'Song sinh xứng đôi pháp', lấy hai cái hạch tâm biểu đạt thức, sơ bộ đã chứng minh Riemann phỏng đoán, ta cho các ngươi cảm thấy cao hứng."
+
+	"Nhưng Riemann phỏng đoán hạch tâm nhất vấn đề, tức tất cả không phải hiển nhiên 0 giờ đều ở vào phục mặt phẳng Re(s)=1 ╱ 2 thẳng tắp bên trên, hai cái này biểu đạt thức có thể chèo chống, nhưng mà, chúng ta còn cần chèo chống chèo chống, ta nói như vậy, các ngươi có thể hiểu chưa?" Muller giáo sư đưa ra vấn đề mấu chốt nhất, tức hoàn toàn chứng minh Riemann phỏng đoán vấn đề.
+
+	"Cho nên chúng ta nhất định phải đạt được cái thứ ba thậm chí là cái thứ tư biểu đạt thức, cái này cần một chút thời gian. Bất kể như thế nào, chúng ta hẳn là đem trước hai cái hạch tâm biểu đạt thức công bố tại chúng, lấy một loại đầy đủ giản hóa hình thức, đúng vậy, chúng ta làm được, cảm tạ Muller giáo sư, cùng Mary, Jonas vất vả nỗ lực." Thẩm Kỳ ý nghĩ là trước chiếm cái hố vị lại nói, đoàn đội của hắn trước hết nhất sử dụng "Song sinh xứng đôi pháp" đạt được RH sơ bộ chứng minh, bọn hắn có được bản gốc tính học thuật bản quyền.
+
+	"Ta cũng không có làm ra cái gì tính thực chất cống hiến, kỳ, nếu như ngươi có thể thu được mới tầm mắt thưởng, cũng thu được IMU quốc tế nhà toán học đại hội thư mời, ngươi phải mời Mary cùng Jonas uống bình rượu ngon." Muller giáo sư nói đến.
+
+	"Jonas, trước kia đều là ngươi mời ta uống rượu, lần này đến phiên ta làm chủ, mặc kệ có hay không cầm thưởng, bình này rượu ngon sẽ không thiếu." Thẩm Kỳ nói với Jonas đến.
+
+	"Ờ, một lời đã định." Jonas cười.
+
+	"Mary, uống rượu với nhau, vì Riemann phỏng đoán." Thẩm Kỳ nói với Mary đến.
+
+	"Điều kiện tiên quyết là báo cáo của ngươi, không muốn diễn nện." Mary tiếp nhận mời.
+
+	 « căn cứ vào 'Song sinh xứng đôi pháp' Riemann phỏng đoán chứng minh » đã không phải là Thẩm Kỳ chuyện của một cá nhân, toàn bộ đoàn đội đầu nhập toàn bộ tinh lực đánh hạ nan đề.
+
+	Cho nên mấy ngày sắp tới biểu diễn, chỉ cho phép thành công, không cho phép thất bại.
+
+	Ngày kế tiếp, Thẩm Kỳ, Jonas, Mary, Muller giáo sư mặc vào chính thức nhất trang phục, tiến về ở vào Washington NASA tổng bộ, nơi này là khoa học đột phá thưởng hội nghị cùng trao giải nơi chốn.
+
+	Khoa học đột phá thưởng lịch sử không hề dài, nhưng tiền thưởng cực kỳ phong phú.
+
+	Cái này giải thưởng tài trợ người bao quát Russia ức vạn phú ông Yuri Milner, Ali tập đoàn Jack Ma, Google người sáng lập Sergey Brin, Facebook người sáng lập Zuckerberg, quả táo chủ tịch Levinson chờ toàn cầu nổi tiếng xí nghiệp gia.
+
+	Khoa học đột phá thưởng thiết sinh mệnh khoa học đột phá thưởng, cơ sở vật lý đột phá thưởng, toán học đột phá thưởng, thi đơn tiền thưởng cao tới 300 vạn đôla.
+
+	300 vạn đôla đột phá thưởng bình thường ban thưởng cho thành danh đã lâu nhà khoa học, ngoại trừ 300 vạn đôla thưởng lớn bên ngoài, còn thiết vật lý mới tầm mắt thưởng, toán học mới tầm mắt thưởng, thi đơn tiền thưởng 10 vạn đôla, ban thưởng cho tuổi trẻ nhà vật lý học, nhà toán học.
+
+	Thẩm Kỳ tiến vào toán học mới tầm mắt thưởng người ứng cử danh sách, hắn có hi vọng thắng được cái này giải thưởng cùng 10 vạn đôla tiền thưởng.
+
+	Trước đó, Thẩm Kỳ cần làm một trận 45 phút đồng hồ học thuật báo cáo, thông qua biểu hiện đi tranh thủ mới tầm mắt thưởng, cùng toàn thế giới tán thành. 

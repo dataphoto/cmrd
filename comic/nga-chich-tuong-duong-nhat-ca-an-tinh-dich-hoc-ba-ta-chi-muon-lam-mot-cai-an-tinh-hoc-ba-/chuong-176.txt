@@ -1,0 +1,135 @@
+ Chương 176: Đại số tuyến tính quang học 
+
+	Tại đoạn này đặc thù thời kì, Thẩm Kỳ có hai cái thân phận.
+
+	Toán học phương diện, Thẩm Kỳ có được Yến đại toán học học sĩ học vị, hắn không có tham gia công việc, cũng không có lập tức học nghiên, ở vào toán học nghiên cứu tự do thời kỳ phát triển.
+
+	Vật lý phương diện, Thẩm Kỳ muốn làm thành đôi học vị, hắn một thân phận khác là vật lý học viện người ngoài biên chế đang học sinh viên chưa tốt nghiệp, cần tu đầy học phần.
+
+	Toán học nâng cao cùng đại số tuyến tính đối với Thẩm Kỳ tới nói, thi cái 6 0 điểm không có bất kỳ cái gì độ khó, mở một con mắt nhắm một con mắt tùy tiện kiểm tra một chút liền cập cách.
+
+	Khó khăn là nhân lực không thể kháng cự nhân tố.
+
+	Đương nhiên cũng có đối sách.
+
+	Đại số tuyến tính cùng quang học khảo thí thời gian xung đột, Thẩm Kỳ có thể lựa chọn tham gia trong đó một môn khảo thí, còn lại cửa kia chương trình học, học kỳ sau tham gia trùng tu ban khảo thí là đủ.
+
+	Chỉ có thể dạng này, Thẩm Kỳ lựa chọn tiên khảo đại số tuyến tính.
+
+	Nghỉ hè sắp đến, năm sáu nguyệt là khảo thí dày đặc kỳ.
+
+	Tháng 6 sơ, Thẩm Kỳ đi vào gian nào đó cửa phòng học, hắn đem theo vật lý học viện sinh viên năm nhất cùng một chỗ tham gia  « tuyến tính đại số » thi cuối kỳ.
+
+	Đang chuẩn bị tiến trường thi, Thẩm Kỳ phát hiện mới chín người, Nhâm Bộ Khải giáo sư.
+
+	"Nhâm lão sư, trùng hợp như vậy, ngài giám thị đâu?" Thẩm Kỳ cùng Nhâm giáo sư chào hỏi.
+
+	Nhâm giáo sư đưa tay chỉ chỉ phía trên: "Lầu trên lầu dưới, đều thuộc về ta quản."
+
+	Vật viện đại nhất, sinh viên năm thứ 2 đều tại nhà này lầu dạy học tham gia thi cuối kỳ, ghét ác như cừu, đức cao vọng trọng Nhâm giáo sư được ủy nhiệm làm tổng thanh tra xem xét làm, hắn sẽ tại lầu một, lầu hai các trường thi ở giữa tuần sát.
+
+	"Nhâm lão sư, năm thứ hai đại học quang học khảo thí là tại lầu hai a?"Thẩm Kỳ thuận miệng hỏi một câu.
+
+	Nhâm giáo sư nói đến: "201 đến 204, toàn bộ là quang học trường thi, 9 điểm 1 5 điểm bắt đầu thi, Thẩm Kỳ ngươi hôm nay thi cái nào cửa?"
+
+	Thẩm Kỳ thật ngoài ý liệu: "Lại nói quang học khảo thí kéo dài? Ta nhớ được trước đó an bài là 9 điểm bắt đầu thi, cùng đại nhất đại số tuyến tính khảo thí đồng thời bắt đầu."
+
+	"Làm lâm thời điều chỉnh." Nhâm giáo sư nói xong liền lên lầu hai, tuần tra trường thi tình huống.
+
+	Đại số tuyến tính cùng quang học thi cuối kỳ dịch ra mười lăm phút chênh lệch thời gian, lợi tin tức tốt nha.
+
+	9 điểm kém mấy phần,
+
+	Thẩm Kỳ phi thường điệu thấp chui vào 103 phòng học.
+
+	Trong phòng học ngồi mấy chục hào vật viện sinh viên năm thứ nhất, quân địch số lượng khổng lồ, không thể trêu vào.
+
+	"Đây không phải Thẩm bức vương sao? Đi nhầm studio đi, ngành toán học học sinh không thi đại số tuyến tính." Có người phát hiện Thẩm Kỳ.
+
+	"Khách mời, khách mời." Thẩm Kỳ chỗ ngồi tại hàng cuối cùng, tận lực không muốn gây nên quá nhiều vật viện học sinh chú ý.
+
+	9 điểm cả, tuyến tính đại số thi cuối kỳ bắt đầu.
+
+	Địa điểm thi là định thức, ma trận, phương trình bậc một tổ, dạng toàn phương chờ cơ sở nội dung, đề hình là bổ khuyết đề và giải đáp đề.
+
+	Thẩm Kỳ nâng bút đáp.
+
+	Những cơ sở này đại số tuyến tính đề đối Thẩm Kỳ tới nói quá đơn giản, tất cả đều là đề cho điểm.
+
+	Duy nhất lượng công việc là ma trận tính toán.
+
+	Như vậy cũng tốt so để một cái Fields thưởng người đoạt giải làm một trăm đạo tiểu học đề toán, 100 trong vòng nhân chia cộng trừ hỗn hợp tính toán.
+
+	Cho dù Fields thưởng người đoạt giải khả năng tính toán cường đại tới đâu, hắn cũng là người không phải máy tính.
+
+	Cường đại nhất nhà toán học giải một đạo tiểu học đề toán, thế nào cũng phải một hai giây đi, bao quát đọc đề, tính toán chờ trình tự.
+
+	Fields thưởng người đoạt giải hoàn thành 100 đạo tiểu học đề toán, ít nhất cũng phải vài phút.
+
+	Thẩm Kỳ đứng trước tương tự cục diện, giải đề Logic nhớ kỹ trong lòng, tính toán trình tự không cách nào tỉnh lược.
+
+	Xoát xoát xoát!
+
+	Tại trận này đại nhất đại số tuyến tính thi cuối kỳ bên trong, Thẩm Kỳ lấy ra suốt đời sở học, vận dụng ngòi bút như bay, hắn tế ra hồi lâu chưa từng tế ra quang đồng dạng tốc độ tay.
+
+	20 điểm chuông, Thẩm Kỳ hoàn thành toàn bộ bài thi.
+
+	Đứng dậy, nộp bài thi, Thẩm Kỳ yên tĩnh rời đi 103 phòng học, nhẹ nhàng đi, chính như nhẹ nhàng đến, sửa sang một chút kiểu tóc, trực tiếp lên tới lầu hai.
+
+	Vật viện năm thứ hai đại học quang học thi cuối kỳ bắt đầu 5 phút đồng hồ.
+
+	Thẩm Kỳ du tẩu cùng 201, 202, 203, 204 cái này bốn gian cửa phòng học hành lang, muốn đi vào nhưng lại lộ vẻ thấp thỏm.
+
+	Nhìn xem trong phòng học vùi đầu khảo thí làm bài đại nhị đám học trưởng bọn họ, Thẩm Kỳ toát ra ánh mắt hâm mộ, giống như một thất học nhi đồng khát vọng đọc sách, bức thiết hi vọng đi vào phòng học, cùng đại ca ca đại tỷ tỷ nhóm cùng một chỗ học tập tri thức, tiếp nhận giáo dục.
+
+	Giảng thật, Thẩm Kỳ thật lâu không có tham gia qua đường đường chính chính tập thể thức khảo thí, vừa kết thúc đại số tuyến tính khảo thí, là nửa năm qua đệ nhất môn.
+
+	Khảo thí loại chuyện này, không khác, trăm hay không bằng tay quen.
+
+	Hao phí 20 điểm chuông thời gian hoàn thành một phần vật viện học sinh đại số tuyến tính bài thi, đối Thẩm Kỳ tới nói quá thời gian.
+
+	Tình huống hơi có vẻ hỏng bét, quá thời gian 5 phút đồng hồ.
+
+	Đơn giản như vậy đại số tuyến tính bài thi, toán học cấp 8 cùng cấp 6 thực chiến hiệu quả không sai biệt lắm, cấp 8 kỳ thật tràn ra không ít sức chiến đấu, dùng dao mổ trâu giết gà.
+
+	Dù sao đại nhất hạ, tuế nguyệt không tha người.
+
+	Quả ở vào đại nhất bên trên khảo thí trạng thái đỉnh phong, Thẩm Kỳ tin tưởng mình nhất định có thể tại trong vòng 15 phút hoàn thành đại số tuyến tính khảo thí.
+
+	Chậm, nói cái gì đã trễ rồi.
+
+	Quang học khảo thí đã bắt đầu.
+
+	Được rồi, vẫn là học kỳ sau tham gia quang học trùng tu ban khảo thí đi.
+
+	Chưa từng nghĩ ta cũng có tham gia trùng tu ban khảo thí một ngày, ha ha, Thẩm Kỳ cười, hơi đắng chát.
+
+	Lúc này Nhâm giáo sư từ 202 trong phòng học dạo bước ra, hắn phát hiện tâm sự nặng nề Thẩm Kỳ: "Ngươi ở phòng học cổng làm gì, là muốn đi vào vẫn là rời đi?"
+
+	"Ta chuẩn bị đi, quang học khảo thí đã bắt đầu, ta đến muộn." Thẩm Kỳ lộ vẻ tiếc nuối.
+
+	Nhâm giáo sư nhìn đồng hồ đeo tay một cái: "Đến muộn 10 phút, còn có thể tiến vào trường thi, giữ lại khảo thí tư cách. Chúng ta vật viện quy định là, bắt đầu thi sau 1 trong vòng 5 phút không cho phép nộp bài thi, đến trễ 1 5 phút đồng hồ ở trên hủy bỏ khảo thí tư cách, nhớ không điểm." "
+
+	"Dạng này a!" Thẩm Kỳ kích động, liễu ám hoa minh hựu nhất thôn.
+
+	Làm một cái nam nhân đối khảo thí tràn ngập dục vọng, có lẽ bên trên Đế Đô sẽ bị cảm động.
+
+	"Ngươi đi 201." Nhâm giáo sư dẫn đầu Thẩm Kỳ tiến vào 201 phòng học, an bài một cái thi vị.
+
+	Ngoại trừ Thẩm Kỳ bên ngoài, trong phòng học những học sinh khác đến từ vật viện đại nhị, có vật lý học chuyên nghiệp, cũng có ngày văn học chuyên nghiệp.
+
+	Thẩm Kỳ chọn thứ hai học vị bồi dưỡng là vật lý học chuyên nghiệp,  sư tỷ của hắn Mục Dung khoa chính quy lúc đọc chính là thiên văn học.
+
+	Vật viện muội tử so viện toán học nhiều không được mấy cái, lấy nam tính học sinh làm chủ.
+
+	Thẩm Kỳ đến trễ 10 phút ra trận, đã dẫn phát đại nhị sư huynh sư tỷ nho nhỏ chú ý, cũng không tiếp tục chú ý bao lâu, mọi người liền các làm các bài thi, phần này quang học bài thi rất khó khăn.
+
+	Cầm tới bài thi về sau, Thẩm Kỳ tinh thần phấn chấn dự thi, đây là hắn tại trong vòng nửa canh giờ thứ hai cửa khảo thí, từ đại nhất vượt đến đại nhị.
+
+	Yến đại vật viện quang học tài liệu giảng dạy, chính là Yến đại nhà mình xuất bản  « hiện đại quang học cơ sở ».
+
+	Cái này bản giáo tài có nhất định chiều sâu cùng chiều rộng, từ kinh điển ba động quang học đến hiện đại biến hóa quang học đều có giới thiệu.
+
+	Fermat nguyên lý cùng biến chiết xạ suất quang học, phu lang lúa phí diễn xạ, Fourier biến hóa quang học cùng tướng ước số phân tích phương pháp, quang toàn bộ tin tức thuật, quang tại tinh thể bên trong truyền bá, ánh sáng hấp thu, sự tán sắc cùng tản ra... Tất cả đều là trọng yếu địa điểm thi.
+
+	"Phần này quang học bài thi so vừa rồi đại số tuyến tính bài thi khó nhiều, quả nhiên là đại nhị học kỳ sau cấp bậc độ khó." Thẩm Kỳ làm được cuối cùng một đề lúc, dừng lại bút, tinh tế tự hỏi. 

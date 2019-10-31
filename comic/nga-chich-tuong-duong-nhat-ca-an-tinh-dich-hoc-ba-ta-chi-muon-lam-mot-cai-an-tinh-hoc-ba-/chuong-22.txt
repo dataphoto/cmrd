@@ -1,0 +1,129 @@
+ Chương 22: Mạch suy nghĩ không ngừng vững như chó
+
+	"Ôi ta đi, mạch suy nghĩ đoạn mất!"
+
+	Làm đề toán liền cùng viết tiểu thuyết, mạch suy nghĩ thông thuận một ngày mười chương, mạch suy nghĩ như đoạn mười ngày canh một.
+
+	Thẩm Kỳ sắp phá giải đạo thứ nhất đề hình học thời khắc mấu chốt, bị phó hội trưởng đánh gãy mạch suy nghĩ.
+
+	"Vị đại thúc này thật thật là phiền." Thẩm Kỳ không thể không một lần nữa chải vuốt mạch suy nghĩ, hoa này phí hết hắn ngoài định mức năm phút đồng hồ thời gian.
+
+	Chứng thực quá trình viết đầy cả trương giấy trắng, Thẩm Kỳ cuối cùng tìm ra sinψ giá trị
+
+	Đáp án làm hắn ngạc nhiên, sinψ lại là 1 ╱ 2, đó là cái góc 30 độ.
+
+	Cầm thước một lượng , có vẻ như là 30 độ.
+
+	Dùng Lobachevsky phương pháp vẽ nghiệm chứng, quả nhiên là 30 độ.
+
+	"Ta khờ, ta thật ngốc. . ." Thẩm Kỳ ý thức được một cái cấp thấp sai lầm, mình bị phức tạp bao nhiêu đồ án làm cho mê hoặc, chính hướng suy luận hao tốn gần 1 giờ thời gian.
+
+	Nếu như trước dùng Lobachevsky phương pháp vẽ trực tiếp tính ra ψ số độ, lại đi nghịch hướng nghiệm chứng cái này ψ góc vì 30 độ, chí ít có thể tiết kiệm một nửa thời gian.
+
+	Đương nhiên, Lobachevsky phương pháp vẽ khẳng định không thể tại bài thi bên trên họa, tại bản nháp trên giấy vẽ không có vấn đề.
+
+	Có kết luận đi nghiệm chứng kết luận, so suy luận một ẩn số muốn dễ dàng một chút.
+
+	Đây là một trận đánh cờ, ra đề mục người cùng bài thi người ở giữa toán học trò chơi.
+
+	Đánh trận là tốt nhất luyện binh, khảo thí là tốt nhất ôn tập.
+
+	Mặc dù có hệ thống phụ trợ, Thẩm Kỳ tại độ khó cực cao đấu bán kết bên trong đối với toán học cũng lại có nhận thức mới.
+
+	Giả thiết cùng chứng minh ở giữa tất nhiên tồn tại một loại cấp độ càng sâu quan hệ, chân lý hoặc lời lẽ sai trái không hề giống mặt ngoài nhìn qua đơn giản như vậy, đối lập, lời lẽ sai trái có lẽ là chân lý một cái đẩy ngược.
+
+	Thẩm Kỳ thất thần, hắn suy nghĩ rất nhiều rất nhiều, suy nghĩ kỹ vài phút, xem ra chính mình toán học đẳng cấp vẫn là quá thấp, rất nhiều vấn đề nghĩ mãi mà không rõ nha.
+
+	"Khảo thí thời gian còn có hai giờ, mời lựa chọn tay nắm chặt thời gian bài thi." Một vị giám thị nhân viên mặt hướng toàn thể tuyển thủ nói đến.
+
+	"Hai giờ, còn lại hai đạo đề." Thẩm Kỳ lấy lại tinh thần, tiến vào hạ một đạo đề giải đáp.
+
+	Phần này đấu bán kết bài thi là hắn làm qua đề mục một phần ít nhất, chỉ có ba đề.
+
+	Đồng thời cũng là độ khó cao nhất một phần, phân giá trị thấp nhất đạo thứ nhất đề liền hao tốn Thẩm Kỳ 1 giờ thời gian.
+
+	Đề thứ hai là một đạo đại số đề, đề mặt là như vậy:
+
+	1
+
+	1-1
+
+	1-2-1
+
+	1-3-3-1
+
+	1-4-6-4-1
+
+	1-5-10-10-5-1
+
+	1, mời tính toán ra thứ 1024 hàng tất cả số lượng tổng cộng. (5 điểm)
+
+	2, cũng chứng minh thứ 4201 giữa các hàng tùy ý khẽ đếm vì điểm số hoặc số âm tình hình đều áp dụng. (1 5 điểm)
+
+	Kỳ thật không ít học sinh cấp ba đều biết cái số này hình tam giác, Dương Huy tam giác ai không biết, tham gia qua liên hợp toán học, olympic toán học thi đua học sinh trung học đều biết Dương Huy tam giác quy luật tính.
+
+	Thẩm Kỳ đương nhiên hiểu cái số này hình tam giác, cái số này hình tam giác tại Trung Quốc gọi Dương Huy tam giác, tại phương tây gọi "Pascal tam giác trận", phân biệt lấy Trung Tây hai chữ số học gia danh tự mệnh danh.
+
+	Dương Huy tam giác quy luật tính không khó bị quan sát ra, tam giác trong trận mỗi cái số là trên đó phương lân cận hai số tổng cộng.
+
+	Này suy ra, Thẩm Kỳ rất nhanh tính ra thứ 1024 hàng tất cả số lượng tổng cộng vì 127 vạn 8,324.
+
+	Đề thứ hai thứ một vấn đề nhỏ đơn giản chính là đề cho điểm, cho nên phân giá trị không cao, mới 5 điểm.
+
+	Khó khăn là thứ hai vấn đề nhỏ, phân trị giá là 1 5 điểm.
+
+	Chính hướng suy luận thứ 4201 giữa các hàng tùy ý khẽ đếm vì điểm số hoặc số âm tình hình đều áp dụng, cái này rất để cho người ta nhức đầu, không thể nào hạ bút a, căn bản tìm không thấy một tia manh mối.
+
+	Thẩm Kỳ muốn đẩy ngược, thứ 2 vấn đề nhỏ yêu cầu chứng minh nội dung, nhất định là có thể tìm tới một đầu công thức, định lý hoặc suy luận làm căn cứ.
+
+	"Bernoulli sắp xếp tổ hợp hay là xác suất luận? Không đúng, không giống."
+
+	"Viète ba loại đặc thù loại hình phương trình triển khai thức? Cũng không phải.
+
+	"
+
+	"Chơi loại này thuần túy số lượng trò chơi, Fermat là đỉnh cấp cao thủ, không sai, hẳn là Fermat, hắn cùng Pascal là cơ hữu tốt, hai người thường xuyên thư từ qua lại, mà cái này đề là căn cứ vào Pascal tam giác trận ra đề."
+
+	"Fermat gia hỏa này trong cuộc đời đề mấy trăm giả thiết, 99% giả thiết đều bị hậu nhân chứng minh là thành lập, hắn được xưng là 'Nghiệp dư toán học vương', nhưng ta tuyệt không tin tưởng Fermat toán học trình độ là giống như ta nghiệp dư cấp."
+
+	"Nhức đầu a, Fermat 273 cái giả thiết, ta nhiều nhất chỉ nghiên cứu qua 70 cái, đến cùng là cái nào đâu? Phải chăng chạm tới ta toán học tri thức điểm mù?"
+
+	Thẩm Kỳ buông xuống bút bi, nhắm mắt dưỡng thần, vắt hết óc nghĩ biện pháp.
+
+	Phó hội trưởng lắc lư lắc lư lại lắc đến Thẩm Kỳ sau lưng, hắn lộ ra nụ cười đắc ý, trong lòng rất hài lòng Thẩm Kỳ hiện tại loại trạng thái này: "Tiểu hỏa tử, cho dù ngươi có thể giải ra đề thứ nhất đề hình học, biết rõ Dương Huy tam giác quy luật, kia lại có thể thế nào? Ta ra thứ 2 vấn đề nhỏ, độ khó vượt qua trí tưởng tượng của ngươi đi?"
+
+	Đúng lúc này, Thẩm Kỳ bỗng nhiên mở ra hai mắt, hai mắt sáng ngời có thần: "Ta nghĩ đến, đây là Fermat (1+a) suy luận! Hắn nói cái này suy luận khẳng định là thành lập, không cần tiến hành chứng minh, nhưng hắn sau khi chết 100 năm, hắn nước Pháp đồng bào đã chứng minh cái này suy luận."
+
+	Mạch suy nghĩ tới, mạch suy nghĩ tới a!
+
+	Thẩm Kỳ linh cảm như suối nước tuôn ra, hắn cầm lấy bút bi, chuẩn bị giải đề.
+
+	Ngay tại sắp viết thời điểm, Thẩm Kỳ không hiểu cảm thấy phía sau đánh tới thấy lạnh cả người, cùng vừa rồi đồng dạng đồng dạng.
+
+	Thẩm Kỳ quay đầu thoáng nhìn, phi thường không cao hứng: "Ngọa tào, lại là ngươi! Ngươi lại là đi ngang qua?"
+
+	Phó hội trưởng ra vẻ trấn định: "Trường thi cứ như vậy lớn, ta làm giám thị nhân viên ngẫu nhiên là sẽ đi ngang qua." Nói xong chắp tay rời đi.
+
+	"Đại thúc ngươi thật rất phiền ài!" Thẩm Kỳ bằng nhanh nhất tốc độ để cho mình tỉnh táo lại, tiến vào đề thứ hai thứ 2 vấn đề nhỏ chứng minh quá trình bên trong.
+
+	10 phút sau, Thẩm Kỳ viết ra thứ 2 vấn đề nhỏ toàn bộ chứng minh quá trình, trải qua Fermat (1+a) suy luận nghiệm chứng, cái này chứng minh là hoàn toàn thành lập, thứ 4201 giữa các hàng tùy ý khẽ đếm vì điểm số hoặc số âm tình hình đều áp dụng.
+
+	"Thứ một lớn đề cùng thứ hai lớn đề đều đã phá giải, 3 5 điểm tới tay."
+
+	Liên phá hai đề Thẩm Kỳ lòng tin đại chấn, hắn bắt đầu làm cuối cùng một đề.
+
+	Phó hội trưởng là cái không chịu ngồi yên người, hắn tản bộ một vòng về sau quanh co đến những tuyển thủ khác sau lưng bí mật quan sát.
+
+	"Hạ Đào, tên tiểu tử này không được, ngoại trừ hiểu cái Dương Huy tam giác, khác đề căn bản hạ không được bút."
+
+	"La Minh, đến từ Nam Cảng thị tiếng nước ngoài trường học, dù sao cũng là danh giáo học sinh, tên tiểu tử này còn có thể, đạo thứ nhất đề hình học giải đáp chính xác, nhưng đề thứ hai thứ 2 vấn đề nhỏ rõ ràng chứng sai, tiểu hỏa tử, ngươi đây là hoàn toàn trái ngược a, phương hướng tính sai lầm."
+
+	. . .
+
+	Phó hội trưởng nhìn ra toàn trường thi bài thi tiến độ nhanh nhất, xác suất trúng cao nhất tuyển thủ chính là Thẩm Kỳ, hắn nhịn không được a, thật sự là nhịn không được, liền lần nữa sờ đến Thẩm Kỳ sau lưng, bí mật quan sát.
+
+	Thẩm Kỳ bỗng nhiên quay đầu, hắn sắp hỏng mất: "Đại thúc đừng như vậy được không, ngươi tại sao phải sống mái với ta?"
+
+	Phó hội trưởng còn rất vô tội đâu: "Phần này bài thi là ta ra, ta liền nhìn xem, không nói lời nào còn không được sao?"
+
+	"Ngọa tào, cái này bài thi ngươi ra?" Thẩm Kỳ vạn vạn không nghĩ tới, trong lòng hắn vị kia ra đề mục cao thủ, lại là vị này hèn mọn đại thúc. 

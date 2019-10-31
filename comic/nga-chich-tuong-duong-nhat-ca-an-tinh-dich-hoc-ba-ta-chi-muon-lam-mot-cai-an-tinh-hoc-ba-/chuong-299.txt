@@ -1,0 +1,127 @@
+ 299 chương ta nghĩ đến
+
+	 
+
+	Làm lão sư cơ bản nhất nguyên tắc là, không muốn dạy hư học sinh.
+
+	Thẩm Kỳ tại quá độ thời kì làm coi như hợp cách.
+
+	Gần đây chuyện quan trọng nhất, đương nhiên là tháng 10 hạ tuần quốc tế nhà toán học đại hội.
+
+	Còn có hơn một tháng thời gian, Thẩm Kỳ khẩn trương có thứ tự chuẩn bị chiến đấu.
+
+	Jonas, Mary, Âu Diệp ba người bọn họ phụ trách nhiệm vụ tư liệu, toàn bộ tập hợp đến Thẩm Kỳ trong tay.
+
+	Thẩm Kỳ dần dần kiểm tra thẩm tra đối chiếu, tiến vào sau cùng hợp bản thảo giai đoạn.
+
+	"Jonas phụ trách đầu thứ nhất đường dẫn, căn cứ vào song sinh xứng đôi pháp, thông qua đối hàm số log(s) đạt được∏L(s, Χ) tại điểm s=1 phân tích lại cũng bằng không... Qua loa đi, Jonas chính là đem thần kinh đao, phát huy không ổn định, tổng thể tới nói hắn phụ trách đầu thứ nhất đường dẫn, ta cho hắn đánh 6 0 điểm."
+
+	Jonas cung cấp suy luận kết quả tạm được, Thẩm Kỳ cần chính mình hoàn thiện RT thứ ba biểu đạt thức đầu thứ nhất đường dẫn còn lại công việc.
+
+	"Mary phụ trách đầu thứ hai đường dẫn, căn cứ vào số nguyên tố cơ bản định lý, nàng cầu được một cái suy luận lấy chèo chống RT thứ ba biểu đạt thức. Nàng vạch, làm c là nương tựa tại A bình thường số, đồng thời A&gt;1 lúc, có Pi(x;q, l)=Lix ╱ φ(q)+o(xe^-clogx)... Mary làm rất xinh đẹp, ta cho nàng đánh 90 điểm."
+
+	Mary giúp Thẩm Kỳ đại ân, Thẩm Kỳ có thể trực tiếp sử dụng nàng đạt được trọng yếu suy luận.
+
+	"Tiểu Diệp tử phụ trách điều thứ ba đường dẫn là khó khăn nhất, thông qua linh điểm phương trình tìm tới RT thứ ba biểu đạt thức trọng yếu chèo chống... Nha a, tìm được!"
+
+	Âu Diệp tư liệu là ba ngày trước đưa tới Princeton, tại Thẩm Kỳ nhà trọ quá rồi một đêm, Âu Diệp đã trở về Colombia đại học.
+
+	Thẩm Kỳ hôm nay chăm chú nghiên cứu Âu Diệp tư liệu, hắn vô cùng hưng phấn, hắn cho Âu Diệp đánh 99 điểm.
+
+	Thẩm Kỳ một chiếc điện thoại gọi cho Âu Diệp: "Tiểu Diệp tử, làm T không phải L(s, Χ) linh điểm tung độ lúc, ngươi cầu được cái này linh điểm phương trình, là ngươi một mình hoàn thành? Trong đó có hay không Cung giáo sư công lao?"
+
+	Âu Diệp: "Cung giáo sư chỉ đạo ta một chút."
+
+	"Nói đúng là, ngươi phụ trách nhiệm vụ, đại bộ phận là chính ngươi hoàn thành?" Thẩm Kỳ hỏi.
+
+	Âu Diệp: "Không kém bao nhiêu đâu."
+
+	"Ngươi làm sao bỗng nhiên ở giữa lợi hại như vậy? Cái này linh điểm phương trình rất khó, theo ta sơ bộ phán đoán, ngươi làm rất tốt, cơ hồ hoàn mỹ." Thẩm Kỳ đã kinh vừa vui.
+
+	Âu Diệp: "Phương trình giải nhiều, liền thuần thục nha."
+
+	Thẩm Kỳ cười ha ha: "Đúng đúng đúng, không có tâm bệnh! Giải phương trình chính là cần không gián đoạn luyện tập, đoạn thời gian gần nhất ngươi giải phương trình phi thường cố gắng, ta đây là biết đến, cũng giúp cho khẳng định. Ba ngày trước, ngươi tại ta nhà trọ, vậy mà..."
+
+	"Chán ghét!" Âu Diệp tại đầu bên kia điện thoại sẵng giọng, lập tức dặn dò: "Gần nhất ta không đi ngươi nơi đó, ngươi cũng đừng tới tìm ta, an tâm chuẩn bị chiến đấu Fields thưởng."
+
+	"Tốt, ta nhất định sẽ không để cho ngươi thất vọng, sẽ không để cho đoàn đội thất vọng!" Thẩm Kỳ chắc chắn nói đến, kết thúc cùng Âu Diệp trò chuyện.
+
+	Hợp bản thảo công việc hao tốn Thẩm Kỳ thời gian một tuần.
+
+	Âu Diệp cùng Mary tư liệu, không cần Thẩm Kỳ nỗ lực nhiều ít tinh lực đi chỉnh hợp, hơi chải vuốt một chút là được rồi.
+
+	Thẩm Kỳ chủ yếu là tại hoàn thiện bổ sung Jonas tư liệu.
+
+	Mỗi một vị đầu đề người phụ trách, đều hi vọng thủ hạ từng cái là tinh binh cường tướng, đồng thời những tinh binh này cường tướng vĩnh viễn ở vào đỉnh phong học thuật trạng thái bên trong, đầu đề người phụ trách chỉ dùng làm phục chế dán công việc liền oK.
+
+	Đây là lý tưởng nhất thiết lập, nhưng mà sự thật thường thường không đạt được lý tưởng trạng thái.
+
+	Cho nên đầu đề người phụ trách ngoại trừ phải có nhìn xa trông rộng chiến lược ánh mắt, còn cần có cực mạnh chiến thuật thao tác thực năng lực, tùy thời muốn tra để lọt bổ sung, tự mình động thủ hoàn thiện đầu đề luận văn.
+
+	Khoảng cách quốc tế toán học đại hội còn có 20 ngày thời điểm, Thẩm Kỳ tại arVix bên trên phát biểu luận văn  «RT thứ ba biểu đạt thức nghiên cứu ».
+
+	Bản này luận văn hết thảy có 66 trang, là Thẩm Kỳ tại Italy làm phần báo cáo kia đổi mới cùng bổ sung.
+
+	Thẩm Kỳ để chứng minh Riemann phỏng đoán, suy luận ra hai cái hạch tâm biểu đạt thức, ngày đó luận văn làm Thẩm Kỳ thanh danh đại chấn, trong vòng một đêm tấn thăng làm quốc tế đỉnh cấp nhà toán học hàng ngũ.
+
+	Riemann phỏng đoán trước hai cái biểu đạt thức luận văn chỉ có 30 trang, mà RT thứ ba biểu đạt thức luận văn có 66 trang, đầy đủ nói rõ thứ ba biểu đạt thức suy luận quá trình càng thêm phức tạp.
+
+	Tại cái này đặc thù thời kì, Fields thưởng mấy lớn người ứng cử bất luận cái gì một điểm gió thổi cỏ lay, đều sẽ gây nên quốc tế toán học giới cùng truyền thông giới chiều sâu chú ý.
+
+	Thẩm Kỳ sớm 20 ngày phát biểu RT thứ ba biểu đạt thức mới nhất nghiên cứu tiến độ, mục đích là lưu một chút thời gian, để quốc tế toán học giới đi nghiên cứu hắn mới nhất thành quả.
+
+	"Thẩm Kỳ phát biểu RT thứ ba biểu đạt thức mới nhất thành quả nghiên cứu, tại bản này 66 trang luận văn bên trong, Thẩm Kỳ cùng đoàn đội của hắn thông qua ba loại đường dẫn, đạt đượcRT thứ ba biểu đạt thức hai cái suy luận cùng một cái hạch tâm phương trình. Đây là phi thường trọng yếu tiến triển, kết hợp Riemann phỏng đoán chứng minh trước hai cái biểu đạt thức, Thẩm Kỳ cơ hồ khóa chặt một cái Fields thưởng danh ngạch." ---- đến từ nước Mỹ toán học giới lời bình cùng dự đoán.
+
+	"Đầu tiên, chúng ta nhất định phải đối Thẩm Kỳ làm ra cống hiến giúp cho khẳng định, nhưng vấn đề là, RT thứ ba biểu đạt thức cũng không bị hoàn toàn chứng minh. Thẩm Kỳ tại Ramanujan thưởng báo cáo hội nâng lên đến đầu thứ tư đường dẫn, đến nay vẫn như cũ không thấy đến một chữ." ---- đến từ Châu Âu toán học giới lời bình.
+
+	Liên quan tới RT thứ ba biểu đạt thức trọng yếu nhất đầu thứ tư chứng thực đường dẫn, do chính Thẩm Kỳ phụ trách.
+
+	Đoạn thời gian gần nhất, Thẩm Kỳ đóng cửa không ra, sinh viên chưa tốt nghiệp số luận khóa toàn bộ giao cho Lindenstrauss giáo sư đi mang.
+
+	Có thể uống rượu uống hết, có thể đốt luận văn bản nháp giấy toàn đốt đi, Thẩm Kỳ không có viết ra liên quan tới đầu thứ tư đường dẫn bất kỳ một cái nào ký hiệu.
+
+	"Wales giáo sư bộ kia thần bí nghi thức, căn bản không quản dùng a."
+
+	Thẩm Kỳ đốt tất cả đều là bản nháp giấy, đã thành văn chính thức luận văn, hắn không nỡ thiêu hủy.
+
+	Giải quyết toán học vấn đề, nên từ toán học bản thân xuất phát.
+
+	Uống gì rượu, đốt cái gì luận văn.
+
+	Phong kiến mê tín tư tưởng hại người rất nặng!
+
+	Khoảng cách quốc tế nhà toán học đại hội mở màn còn lại một tuần thời gian.
+
+	Thẩm Kỳ không uống rượu không đốt luận văn, hắn trở về đến toán học bản thân, số luận bản thân, phân tích số luận bản thân.
+
+	Nhà toán học nhóm bình thường đem toán học chia làm thuần toán học cùng ứng dụng toán học, số luận không thể nghi ngờ thuộc về thuần toán học, mà phân tích số luận thuần lại thuần.
+
+	Lý luận tính quá mạnh ngành học, nhất định là số người cực ít đồ chơi, bọn hắn cô độc tịch mịch, ở chỗ cao không khỏi rét vì lạnh.
+
+	Phân tích số luận loại này siêu cứng rắn phân tích ngành học tại Trung Quốc cũng không lưu hành, nhưng mà Trung Quốc gần hiện đại nổi danh nhất mấy số lượng học gia, đều cùng phân tích số luận chặt chẽ tương quan.
+
+	Phân tích số luận tại Trung Quốc trên đại thể có hai cái học phái, một cái là lấy Hoa La Canh tiên sinh làm hạch tâm Trung Khoa viện học phái, một cái khác là lấy Mẫn Tự Hạc tiên sinh vì linh hồn Yến đại học phái.
+
+	Trung Khoa viện học phái một vị khác kiệt xuất đại biểu là Trần Cảnh Nhuận tiên sinh, Goldbach phỏng đoán là phân tích số luận bên trong trứ danh vấn đề.
+
+	Yến đại viện toán học chuyên công số luận Lâm viện sĩ sư thừa Mẫn Tự Hạc, hắn cùng Thẩm Kỳ có qua giao lưu, tại Thẩm Kỳ cuối tháng 6 về nước đoạn thời gian kia.
+
+	"Ta suy luận ra cái này tư thế, trong đó s là lượng biến đổi, mà lại là biến phức lượng, chúng ta có thể biết rõ tại linh điểm lúc, cái này tư thế hoàn toàn là thông qua ξ(s) cái này cả hàm số biến hóa đạt được, đồng thời nó tại hình thức bên trên vẫn là cả hàm số..."
+
+	Thẩm Kỳ hồi tưởng lại Lâm viện sĩ ngay lúc đó quan điểm.
+
+	"Thế là chúng ta có thể thử nghĩ, s tại lượt lịch phục mặt phẳng quá trình bên trong, trùng hợp công bằng, không nhiều không ít ở vào cái nào đó không phải hiển nhiên linh điểm vị trí bên trên, tức cùng cái này không phải hiển nhiên linh điểm trùng hợp, kết quả không khó phỏng đoán, cái này tư thế trị giá là 0, RT thứ ba biểu đạt thức chứng được..."
+
+	Nhưng vào lúc này, Princeton bầu trời bỗng nhiên mây đen dày đặc.
+
+	Ầm ầm!
+
+	Kinh lôi vang lên.
+
+	Rơi ra mưa to.
+
+	Thẩm Kỳ một cái giật mình, đại não như bị điện giật đồng dạng bắt được một cái ngưu bức linh cảm.
+
+	"Lâm viện sĩ nói có đạo lý, nhưng cũng cần bổ sung hoàn thiện, mới có thể cuối cùng được RT thứ ba biểu đạt thức."
+
+	"Ha ha, ha ha ha, ta đã nghĩ đến cái này như thế nào hoàn thiện..." 

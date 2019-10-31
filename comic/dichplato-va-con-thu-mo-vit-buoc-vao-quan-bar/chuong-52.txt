@@ -1,0 +1,31 @@
+ Một khái niệm ngôn ngữ đương đại, mang tính kỹ thuật được biết đến dưới tên gọi đơn giản dễ gây ngộ nhận là “mờ”. “Mờ” là thuật ngữ do các nhà triết học được gọi là “các nhà logic mờ” (lạy Chúa!) dùng để mô tả tính chất “có một giá trị đúng từ một đến mười” chứ không đơn giản là tuyệt đối đúng hay sai. Chẳng hạn “Ông này hói” có thể dùng để chỉ bất cứ ai từ Michael Jordan đến Matt Lauer (nhà báo người Mỹ, nổi tiếng với các chương trình trên truyền hình). Theo quan điểm của Matt, thuật ngữ này quá mơ hồ.
+
+Một số nhà triết học nhận thấy tính mờ là một khiếm khuyết phổ biến trong các ngôn ngữ tự nhiên - chẳng hạn tiếng Thụy Điển hay tiếng Swahili - và đã chủ trương xây dựng thứ ngôn ngữ nhân tạo, giống như toán học, để loại trừ tính mờ.
+
+Trong câu chuyện sau đây, người trông coi bảo tàng đã cố trộn lẫn ngôn ngữ tự nhiên mơ hồ và ngôn ngữ toán học chính xác, với kết quả hoàn toàn có thể dự đoán được.
+
+Các du khách đang trầm trồ thán phục trước bộ xương khủng long trong Bảo tàng Lịch sử Tự nhiên. Có một người trong số họ quay sang người trông coi bảo tàng và hỏi, “Xin anh cho biết bộ xương này có niên đại bao nhiêu?”
+
+Người trông coi bảo tàng đáp, “Nó được ba triệu bốn năm và sáu tháng tuổi rồi.”
+
+“Thật là một con số chính xác đến kinh ngạc,” du khách thốt lên. “Làm sao mà anh biết niên đại của nó chính xác đến thế?”
+
+Người trông bảo tàng trả lời, “À, bộ xương khủng long này được ba triệu năm khi tôi bắt đầu đến làm việc ở đây, và từ bấy đến nay đã bốn năm sáu tháng rồi.”
+
+William James mô tả một chuỗi phương pháp tư duy, từ “tư duy mềm” đến “tư duy cứng”. Các triết gia tư duy mềm khẳng định các ngôn ngữ tự nhiên mơ hồ có ưu thế so với toán học: chúng cho ta nhiều khoảng trống hơn để vẫy vùng.
+
+Một bà già tám mươi tuổi đột ngột lao vào một phòng đàn ông trong nhà dưỡng lão. Bà vung bàn tay nắm chặt lên và tuyên bố, “Ai đoán được tôi đang cầm cái gì sẽ được làm tình với tôi đêm nay!”
+
+Một ông già ở cuối phòng kêu lên, “Một con voi?”
+
+Bà già nghĩ ngợi một lát rồi đáp, “Gần đúng!”
+
+Các triết gia tư duy cứng có thể dành cho bà lão một khoảng không để ngọ nguậy, nhưng họ sẽ chỉ ra những trường hợp trong đó tính chính xác quan trọng và tính mờ của ngôn ngữ tự nhiên có thể là tai họa. Có lẽ một ngôn ngữ nhân tạo sẽ ngăn được tai họa sau đây:
+
+Nhân viên trực tổng đài 911 nhận được cú điện hoảng loạn từ một người đi săn. “Tôi vừa thấy một thân người đẫm máu ở trong rừng! Đó là một người đàn ông, và tôi nghĩ ông ta đã chết! Tôi phải làm gì bây giờ?”
+
+Nhân viên trực tổng đài bình tĩnh nói, “Sẽ ổn thôi, ông ạ, chỉ cần làm theo chỉ dẫn của tôi. Trước hết hãy đặt máy xuống và chắc chắn là ông ta đã chết rồi.”
+
+Điện thoại im lặng một lúc, rồi có tiếng súng nổ. Giọng người đàn ông lại vang lên, “Xong rồi, Bây giờ tôi phải làm gì?”
+
+___oOo___ 
