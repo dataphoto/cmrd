@@ -1,0 +1,131 @@
+Chương 880: Tiêu trừ phân kỳ
+ 
+ 	← võng du chi ta là võ học gia →
+ 
+ 	Đứng đầu đề cử: Vô cương dư tống thế Thiên Hành trộm mạnh nhất gien một niệm vĩnh hằng vạn giới Thiên Tôn đấu chiến cuồng triều ta thực sự là đại minh tinh bất hủ phàm nhân siêu phẩm thầy tướng hàn môn trạng nguyên điện ảnh thế giới đạo tặc Ngân Hồ bạo phong Pháp thần thế giới võ hiệp đại xuyên qua dị thường sinh vật hiểu biết lục tu chân tán gẫu quần
+ 
+ 	Chờ quái vật cách đến gần rồi, Vương Vũ mới kinh ngạc phát hiện này hai quái cùng hắn quái vật là có chênh lệch.
+ 
+ 	 hắn quái vật đều là bạch tên, mà hai người này quái vật nhưng là lam tên.
+ 
+ 	Vũ tăng thống lĩnh, Saint Leiner (lv65)(thủ lĩnh)
+ 
+ 	hp: 300000
+ 
+ 	mp: 100000
+ 
+ 	. . .
+ 
+ 	Hộ viện thủ tịch, St. John's (lv65)(thủ lĩnh)
+ 
+ 	hp: 250000
+ 
+ 	mp: 200000
+ 
+ 	. . .
+ 
+ 	Tra xét một hồi hai cái quái vật tư liệu, Vương Vũ mới hiểu rõ, nguyên lai hai người này là thủ lĩnh quái. . . Xem ra phải có nhiệm vụ.
+ 
+ 	Mặt sau đề phòng mọi người, nhìn thấy là thủ lĩnh quái, bầu không khí cũng hòa hoãn không ít.
+ 
+ 	Thủ lĩnh quái là quái vật bên trong một loại đặc thù quái, tuy rằng chỉ là quái bình thường vật thuộc tính, nhưng có không thua boss ai, tác dụng đại đa số đều là tuyên bố nhiệm vụ.
+ 
+ 	Loại quái vật này cũng không hiếm thấy, level 30 sau đó phó bản bên trong, có rất nhiều phó bản đều có như vậy trứng màu tiểu nhiệm vụ hệ thống, tỷ như thải cái thảo dược a, tìm cái người bệnh loại hình, đơn giản dịch làm, khen thưởng còn phong phú, là player thích nhất quái vật một trong, cũng được gọi là phúc lợi quái.
+ 
+ 	Đúng như dự đoán, chính như đại gia dự liệu, này lưỡng con quái vật cũng không có công kích Vương Vũ, mà là đi tới Vương Vũ trước mặt, Vũ tăng thống lĩnh Saint Leiner đưa tay ngăn cản Vương Vũ.
+ 
+ 	Bên cạnh St. John's nghiêm khắc nói rằng: "Người ngoại lai, ngũ phương tự là chỗ tu hành, không phải ngươi nên đến địa phương, xin mời mau chóng rời đi."
+ 
+ 	Vương Vũ không có lệ hội St. John's xua đuổi, mà là đánh giá một chút chu vi, sau đó dùng player quen dùng giọng nói: "Ta có cái gì có thể giúp ngài à?"
+ 
+ 	Nghe được Vương Vũ, St. John's ngữ khí hòa hoãn đi, không có vừa nãy nghiêm khắc, thản nhiên nói: "Tuy rằng ta rất cần trợ giúp, nhưng đây là chúng ta ngũ phương tự sự tình, xin mời người ngoại lai rời đi tốt."
+ 
+ 	St. John's ngữ khí đúng là từ chối giọng điệu, nhưng là ngôn từ lộ ra nhiên là cần cần giúp đỡ.
+ 
+ 	Vương Vũ gãi đầu một cái, tiếp tục đơn giản thô bạo hỏi: "Ta có cái gì có thể giúp ngài à. . ."
+ 
+ 	St. John's: "Ngươi là người ngoại lai, xin đừng nên. . ."
+ 
+ 	Không giống nhau : không chờ St. John's lần thứ hai từ chối, Vương Vũ vẫn là lấy bất biến ứng vạn biến hỏi: "Ta có cái gì có thể giúp ngài à?"
+ 
+ 	"Được rồi!"
+ 
+ 	St. John's đến cùng không phải cái gì trí năng npc, Vương Vũ liên tục ba lần hỗ trợ thỉnh cầu, để St. John's triệt để thả xuống cảnh giác, thở dài một hơi nói: "Ngoại lai dũng sĩ, ngươi có thể trợ giúp ta à?"
+ 
+ 	Vương Vũ cười: "Đương nhiên, không phải vậy ta đấu với ngươi ho khan đây?"
+ 
+ 	"Thực sự là lòng nhiệt tình dũng sĩ."
+ 
+ 	St. John's cũng thật là đơn thuần, liền như thế tin Vương Vũ, khen Vương Vũ một phen sau, St. John's lại nói tiếp: "Ngoại lai dũng sĩ, chúng ta tu đạo viện hiện ở chính diện lâm nguy cơ lớn lao."
+ 
+ 	"Nguyện nghe tường." npc một khi nói lời này, liền đại biểu muốn đi vào đề tài chính, Vương Vũ làm từng bước niệm lời kịch.
+ 
+ 	"Chúng ta là một đám lấy thần vì là tín ngưỡng Tu Hành giả, thế nhưng có một ít Tu Hành giả bị ác ma nhiễm, vi phạm Thần dụ, bây giờ muốn độc chiếm tu đạo viện, ngươi có thể giúp ta một chuyện à?"
+ 
+ 	Gợi ý của hệ thống: Ngài đoàn đội phát động phó bản nhiệm vụ "Tu đạo sĩ phân kỳ", có tiếp nhận hay không.
+ 
+ 	"Tiếp thu "
+ 
+ 	Vương Vũ không chút suy nghĩ liền điểm tiếp thu.
+ 
+ 	Gợi ý của hệ thống: Ngài đoàn đội tiếp nhận rồi phó bản nhiệm vụ "Tu đạo sĩ phân kỳ", nhiệm vụ cấp độ không, nếu như có thể tiêu trừ tu các đạo sĩ trong lúc đó phân kỳ, đem được tu đạo sĩ các thủ lĩnh tạ lễ.
+ 
+ 	"Tiêu trừ phân kỳ? Chuyện này làm sao làm?" Nhìn thấy cột quest đột nhiên xuất hiện nhiệm vụ, không chỉ có Vương Vũ những người khác cũng đều choáng tại chỗ.
+ 
+ 	Mọi người đều biết, người tư duy một khi định hình, đều là rất khó sửa đổi, coi như là có đem đối phương giết chết năng lực, cũng chưa chắc có thể thay đổi ý nghĩ của đối phương.
+ 
+ 	Đặc biệt là những này có tông giáo tín ngưỡng giả, bọn họ tự do bị giáo lí tẩy não, người ngoài chờ vật đều có phi thường ngoan cố chủ quản ý thức, thành hình sau càng là khó có thể lay động, hơn nữa những người này tính cách còn rất cực đoan, tại mọi thời khắc cảm giác mình có nghĩa vụ đưa những kia cùng mình lý niệm không hợp người đi gặp thần linh.
+ 
+ 	Vương Vũ bọn người là chơi game chết trạch, lại không phải thâm niên nhân viên thần chức, cũng không phải truyền tiêu phần tử, sao có thể như thế dễ dàng liền để ý kiến của bọn họ đạt thành nhất trí.
+ 
+ 	"Cái này. . . Có không có đề kỳ a?" Vương Vũ có chút khó khăn hỏi.
+ 
+ 	Đối với Vương Vũ tới nói, để cho mình thay đổi ý nghĩ của người khác, so với để cho mình đem người kia làm thịt khó nhiều hơn nhiều, lại nói, liền Vương Vũ này bổn miệng, lại bị npc cho tẩy não, cái kia nhiều lắm lúng túng.
+ 
+ 	St. John's cười khổ nói: "Nếu như có biện pháp để bọn họ lạc đường biết quay lại, ta cũng sẽ không tới phiền phức ngài."
+ 
+ 	St. John's trả lời đúng là vô cùng hiện thực.
+ 
+ 	Điều này làm cho mọi người càng tan vỡ, s cấp nhiệm vụ đều còn có nhắc nhở đây, nhiệm vụ này hoàn toàn là không chỗ ra tay mà.
+ 
+ 	"Muốn không Vô Kỵ ngươi đi cho bọn họ dao động một đoạn?" Vương Vũ quay đầu hỏi Vô Kỵ nói.
+ 
+ 	Vô Kỵ là trong tất cả mọi người diện bằng cấp cao nhất, hơn nữa còn vô cùng am hiểu giảng ngụy biện, nên cùng này quần làm tông giáo có tiếng nói chung.
+ 
+ 	"Ta là đạo đức cao thượng nhà khoa học, dao động người việc này đến tìm xuân ca. . ." Vô Kỵ chỉ chỉ bên người Xuân Tường.
+ 
+ 	Xuân Tường trong ngày thường đúng là yêu thích giả thần giả quỷ, cũng không có việc gì đều muốn xem tướng cho người mò cốt, dao động người Xuân Tường xem như là khá là chuyên nghiệp.
+ 
+ 	Không nghĩ tới Xuân Tường nhưng khoát tay áo nói: "Ta chỉ dao động thiếu nữ thiếu phụ. . . Cái kia minh đều, ngươi bình thường không phải rất yêu nói à?"
+ 
+ 	Minh đều cái cổ một ninh, tinh tướng nói rằng: "Dính đến chuyên nghiệp lĩnh vực, vẫn là phá phách cướp bóc càng thích hợp ta."
+ 
+ 	Tất cả mọi người: ". . ."
+ 
+ 	"Đạo Tuyết? Ngươi đây? Ngươi nhưng là người làm ăn."
+ 
+ 	Danh Kiếm Đạo Tuyết hỏi ngược lại: "Tu Hành giả cũng làm ăn?"
+ 
+ 	"Làm a, ngươi xem Thiếu lâm tự. . ."
+ 
+ 	"Ta nói trong game. . ."
+ 
+ 	"Ngạch. . ."
+ 
+ 	Mọi người lần thứ hai không nói gì, trong game Tu Hành giả có thể đều là một đám lấy tín ngưỡng mà người tu hành, có thể không thể so trên thực tế những kia bẩn thỉu xấu xa chùa chiền.
+ 
+ 	Toàn Chân giáo liền như thế mấy cái am hiểu lừa bịp, lúc này tất cả đều hiết món ăn, trong lúc nhất thời tình cảnh rơi vào giang cục.
+ 
+ 	Toàn Chân giáo người đều không được, Kiếm Chỉ thương khung những tên kia liền càng không cần nhắc tới, những người này đều là không có tính cách player, vì là Đội Trưởng biệt khai thương như Thiên Lôi sai đâu đánh đó, mà Đội Trưởng biệt khai thương hàng này am hiểu nhất chính là tạp tiền. . .
+ 
+ 	Nhân gia nhưng là Tu Hành giả, ngươi hướng về người đập lên người tiền, nhân gia còn không phải đem ngươi cho chặt ba đi?
+ 
+ 	Ngay ở đại gia hết đường xoay xở thời điểm, Vô Kỵ đột nhiên hỏi: "Xin hỏi những kia lạc đường Tu Hành giả ở nơi nào?"
+ 
+ 	St. John's chỉ chỉ sát vách sân nói: "Chúng ta chương trình học cũng sớm đã tách ra, hiện ở tại bọn hắn cùng thủ lĩnh của bọn họ ở thiên viện ở lại."
+ 
+ 	"Ồ. . . Như vậy a." Vô Kỵ gật đầu một cái nói: "Vậy ta có thể hay không hỏi một câu, nếu như chúng ta đem các ngươi phân kỳ cho tiêu trừ, ngươi có thể cho chúng ta tưởng thưởng gì."
+ 
+ 	St. John's nói: "Xem ngươi biểu hiện."
+ 
+ 	"A. . ." Vô Kỵ sờ sờ cằm nói: "Ta ngược lại thật ra có cái biện pháp có thể triệt để tiêu trừ giữa các ngươi phân kỳ, thế nhưng con người của ta mà bị người lừa gạt có thêm không có cảm giác an toàn, ngươi có thể hay không trước tiên đem khen thưởng cho ta?"

@@ -1,0 +1,169 @@
+converter Dzung Kiều cầu khen thưởng và bình chọn * cao giúp mình 
+
+	Gần đây hai ba năm nghiệp giới một mực đang kêu, 5nm là đĩa bán dẫn cực hạn, lại thấp chính là lượng tử hiệu quả lĩnh vực.
+
+	Trên thực tế, lời này vậy có đúng hay không, liền xem làm sao hiểu.
+
+	5nm cũng không phải là CPU cực hạn, chẳng qua là bây giờ đĩa bán dẫn tài liệu cực hạn thôi.
+
+	Thật ra thì cái gọi là cực hạn sớm ở mười mấy năm trước thì có người kêu.
+
+	10 năm trước bọn họ cảm thấy 65nm công nghệ là cực hạn.
+
+	Bởi vì đến 65nm tiết điểm hai ô-xy hoá si-lic tuyệt duyên tầng lậu điện đã không thể khoan dung.
+
+	Sau đó kỹ nghệ giới làm ra HKMG, dùng high-k giới chất thay thế hai ô-xy hoá si-lic, truyền thống nhiều tinh khuê - hai ô-xy hoá si-lic - một sao si-lic kết cấu biến thành kim loại -highK- một sao si-lic kết cấu.
+
+	65nm cực hạn nói trực tiếp cáo phá.
+
+	5 năm trước bọn họ lại cảm thấy 22nm công nghệ là cực hạn.
+
+	Bởi vì đến 22nm câu đạo quan đoạn lậu điện đã không thể khoan dung.
+
+	Kết quả kỹ nghệ giới lại làm ra finfet và FD-SOI, cái trước dùng lập thể kết cấu thay thế mặt bằng khí kiện tới tăng cường sách vô cùng năng lực khống chế, người sau dùng ô-xy hoá chôn tầng tới giảm nhỏ lậu điện.
+
+	3 năm trước bọn họ cảm thấy 7nm công nghệ là cực hạn, bởi vì đến 7nm tiết điểm cho dù là finfet cũng không đủ lấy đang bảo đảm tính năng đồng thời ức chế lậu điện.
+
+	Sau đó kỹ nghệ giới dùng thân hóa nhân gia thay thế một sao si-lic câu đạo để nâng cao khí kiện tính năng.
+
+	Vì vậy cực hạn biến thành 5nm.
+
+	Intel khẳng định đã nắm giữ một loại mới đĩa bán dẫn vật liệu, cho nên mới hướng ASML phát ra 5nm máy quang khắc đơn đặt hàng.
+
+	Cho nên nói, cực hạn nói căn bản là lòe thiên hạ.
+
+	Dĩ nhiên, khuê cơ chip chung quy là có cực hạn, chẳng qua là trước mắt CPU nghề tạm thời còn xa xa không đạt tới khuê cơ cực hạn.
+
+	Coi như thật đến khuê cơ cực hạn, đợi chọn mới vật liệu cũng không thiếu, ví dụ như thạch mặc hy cùng than nanometer quản, đều là rất có hy vọng mới phương hướng.
+
+	Muốn muốn chế tạo ra ngắn hơn chế trình chip, không chỉ có vật liệu công nghệ phải qua quan, máy quang khắc phân biệt trước tiên vậy là rất trọng yếu tham số.
+
+	Nếu như máy quang khắc không cách nào bộc ra như thế nhỏ đường cong, như vậy khá hơn nữa kỹ thuật cũng là uổng công.
+
+	Mới vật liệu tự nhiên có Giang Viễn khoa học kỹ thuật định hướng tiến hóa phối hợp tiền Âu Hoàng giải quyết, máy quang khắc kỹ thuật hôm nay cũng có mặt mũi, như vậy bước thời đại mới nhất đại CPU đã gần ngay trước mắt!
+
+	Giang Viễn mở ra mặt bản.
+
+	Điểm tích lũy 93.
+
+	Trước còn lại 6 3 phút, hơn nữa Cook hoàn thành 'Gia nhập tập đoàn Thâm Tư' và 'Trở lại Apple' hai cái nhiệm vụ, Giang Viễn thu được 4 0 điểm.
+
+	Sau đó hắn lại lấy ra 10 điểm tiến hành hai lần tử hệ thống quay số, cho Cook phát tài phần thưởng.
+
+	Cook bây giờ còn có hai cái nhiệm vụ, nâng cao Thâm Tư khoa học kỹ thuật lời trước tiên và dẫn Apple đột phá một ngàn tỉ thị giá.
+
+	Đây cũng là Giang Viễn mới vừa lục lọi ra tử hệ thống đối với túc chủ quá mức chỗ dùng, rầm rầm điểm tích lũy.
+
+	Chỉ cần hắn chế định ra hệ thống công nhận nhiệm vụ, người đi theo hoàn thành nhiệm vụ sau thì biết đồng thời khen thưởng kí chủ một số điểm tích lũy, cái này điểm tích lũy số lượng kí chủ không cách nào nhúng tay, hệ thống sẽ căn cứ độ khó tự động chấm điểm.
+
+	Cook hoàn thành gia nhập tập đoàn Thâm Tư, Giang Viễn chỉ lấy được được 10 điểm.
+
+	Hoàn thành thu mua cũng trở lại Apple, Giang Viễn thì lấy được rồi 30 điểm .
+
+	"Ta bây giờ còn dư 9 3 phút." Giang Viễn suy nghĩ một chút.
+
+	"Giải tỏa 《 năm 2018 ASML5nm máy quang khắc chế tạo kỹ thuật 》."
+
+	"Giải tỏa thành công."
+
+	Hả, còn dư lại 58 điểm.
+
+	Thật lâu không quay số, rút ra hai lần thử một chút vận may.
+
+	Rút ra không tới mới đĩa bán dẫn kỹ thuật liền tiến hóa trước mắt nhất kỹ thuật tân tiến, hơn nữa đã tiến hóa hai lần chip một thể hóa kỹ thuật, treo đánh kem đánh răng nhà máy đang ở trước mắt!
+
+	Giang Viễn xoa xoa tay.
+
+	"Hệ thống, ta muốn trích ra phần thưởng."
+
+	"Kí chủ phát hiện có điểm tích lũy 58 phút, mỗi lần quay số tiêu hao 10 điểm, kí chủ phải chăng chắc chắn quay số?"
+
+	"Chắc chắn."
+
+	"Kí chủ lấy được được mới 'Đạo cụ' : Toàn cầu đáy biển khoáng sản bản đồ."
+
+	"《 toàn cầu đáy biển khoáng sản bản đồ 》: 2069 năm xuất bản, lành lặn ghi chép loài người đến 2069 năm mới ngưng tất cả khám lộ ra đáy biển khoáng sản phân phối tình huống và tin tức cặn kẽ, đối với nghiên cứu khoáng sản tạo thành quy luật có trọng yếu hướng dẫn giá trị."
+
+	Ổ cái máng!
+
+	Thứ tốt!
+
+	Đang suy nghĩ phải đi Hải Sâm Uy đào mỏ đâu, cái này sẽ đưa lên liền một cái khoáng sản bản đồ?
+
+	Hệ thống thật là thân thiết.
+
+	Đại dương khoáng sản khai thác đặc biệt khó khăn, thăm dò ra nơi nào có mỏ liền khó hơn.
+
+	Suy nghĩ một chút ở trên đất bằng thăm dò dầu mỏ độ khó, đến bây giờ toàn cầu vậy cứ như vậy mười mấy quốc gia có chân chính thăm dò năng lực.
+
+	Đáy biển liền khó hơn, chục nghìn mét đại dương hình thành to lớn bình phong che chở.
+
+	Lấy loài người kỹ thuật ngày nay, thăm dò kỹ sư căn bản không cách nào tự mình đi xuống.
+
+	Chỉ có thể dựa vào ti vi đào đấu, lưỡi khoan các loại từ đáy biển lấy được một ít cát đá, sau đó phán đoán phía dưới tình huống.
+
+	Cái này quá khó khăn, hơn nữa đặc biệt xem mặt.
+
+	Giang Viễn cảm thấy Tiền Bảo lai kiền giá hành thành tựu nhất định vậy rất tốt.
+
+	《 toàn cầu đáy biển khoáng sản bản đồ 》 là một bản hơn ngàn trang sách, bổ sung thêm 1 bản bản đồ to lớn, trên bản đồ cho mỗi một khoáng sản cũng đánh dấu số thứ tự, có thể ở trong sách giữ số thứ tự tra ra được nên khoáng sản tương ứng tin tức.
+
+	Giang Viễn đơn giản nhìn lướt qua TQ đông nam dọc theo biển, vậy rậm rạp chằng chịt dầu khí mỏ, các loại đáy biển mỏ sắt, có thể đốt băng thật là sáng mù Giang Viễn mắt chó.
+
+	Trong đó Tứ Á lấy nam vùng biển lại là khoáng sản phong phú đến làm người ta giận sôi đến nước, không hổ được gọi là là 'Cái thứ hai vịnh Ba Tư', trách không nước Đức nhà nhất định phải bắt lại nơi này.
+
+	Giang Viễn lại nhìn mình muốn Hải Sâm Uy dầu khí mỏ, số thứ tự 232.
+
+	Kỳ quái chính là nó bên cạnh còn có một cái số thứ tự 233, cái khác đếm chữ đều là màu đen, cái này số 233 chính là màu đỏ thẫm, hơn nữa kiểu chữ còn gia tăng thêm tối.
+
+	Giang Viễn ở trong sách tìm được số 232 .
+
+	"Số 233 khoáng sản, do hai cái chủ yếu tài nguyên điểm tạo thành. Số 1 giếng 30 tỷ thước vuông khí đốt thiên nhiên mỏ, đồng thời kèm 200 triệu tấn dầu hỏa, khai thác độ sâu ở 5 800m. Số 2 giếng ở vào 2 biển bên trong ngoài rãnh biển trong, 5. 500 triệu tấn dầu hỏa, khai thác độ sâu 8 500m."
+
+	Nguyên lai còn có một số 2 giếng!
+
+	Xem ra bởi vì rãnh biển quá sâu, vượt ra khỏi Nga thăm dò năng lực, mới không có bị phát hiện.
+
+	Ta chiếm một tiện nghi lớn!
+
+	Giang Viễn cười hắc hắc, kiên định theo Maria hợp tác quyết tâm.
+
+	Cái đó màu đỏ thẫm số 233 vậy là cái gì?
+
+	Giang Viễn tò mò mở ra số 233 khoáng sản trang.
+
+	"Số 233 khoáng sản, toàn cầu duy hai biển đỏ mỏ một trong, chiếm cứ toàn cầu lượng sản xuất 80%."
+
+	Biển đỏ mỏ?
+
+	Đây là cái đồ gì?
+
+	Giang Viễn không sờ tới đầu óc, bất quá hắn vẫn là đem đồ chơi này âm thầm ghi tạc trong đầu.
+
+	Phàm là loại này gia tăng to thêm kiểu chữ, màu chữ lại cùng cái khác bất đồng, ở trong trò chơi cũng là đồ tốt.
+
+	Ngày hôm nay vận may không tệ.
+
+	"Hệ thống, tiếp tục quay số."
+
+	"Kí chủ phát hiện có điểm tích lũy 48 phút, mỗi lần quay số tiêu hao 10 điểm, kí chủ phải chăng chắc chắn quay số?"
+
+	"Chắc chắn."
+
+	"Kí chủ lấy được được mới 'Kiến thức' : Loài người gien đồ phổ rõ ràng chi tiết."
+
+	"《 loài người gien đồ phổ rõ ràng chi tiết 》: Năm 2099 sinh vật chữa bệnh chuyên nghiệp tiến sĩ tài liệu giảng dạy, lành lặn giải thích loài người tất cả người máy tác dụng."
+
+	Năm 2099 !
+
+	Loài người gien đồ phổ rõ ràng chi tiết!
+
+	Giang Viễn kinh hãi.
+
+	Nói đến loài người gien đồ phổ, thì không khỏi không nhắc tới loài người tổ người máy kế hoạch cái này tuyệt đối có thể gọi là vĩ đại khoa học thăm dò công trình.
+
+	Từ năm 1984 mấy cái nước Mỹ khoa học gia lần đầu tiên nói lên đo lường cả nhân loại tổ người máy DNA hàng ngũ ý nghĩa và tiền cảnh, đến năm 2000 hoàn toàn vẽ ra loài người 30k nhiều gien và 3 tỷ cái dảm cơ đúng, rồi đến năm 2003 cuối cùng đồ phổ hoàn thành.
+
+	Toàn bộ kế hoạch hao tốn gần 20 năm thời gian, sáu quốc gia khoa học gia tham dự, dự tính liền cao đến 3 tỷ đô la, đây chính là năm 80 đời 3 tỷ đô la!
+
+	Converter Dzung Kiều cầu ủng hộ bộ Đô Thị Tu Chân Y Thánh nhé <a href="https://truyen.tangthuvien.vn/doc-truyen/do-thi-tu-chan-y-thanh">https://truyen.tangthuvien.vn/doc-truyen/do-thi-tu-chan-y-thanh</a>

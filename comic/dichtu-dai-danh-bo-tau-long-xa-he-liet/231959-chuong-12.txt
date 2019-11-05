@@ -1,4 +1,4 @@
- 1.
+1.
 
 
 
@@ -272,7 +272,7 @@ Thiết Thủ thì có hai cánh tay bằng thép.
 
 Thiết Thủ đã bắt được phi tha, cũng coi như đã nắm được đại cục.
 
-Đúng vào khoảnh khắc đó, Đường Thiết Tiêu lao lên như một con hắc ưng, chiếc ô giấy đâm thẳng vào tiểu phúc Thiết Thủ.  1.
+Đúng vào khoảnh khắc đó, Đường Thiết Tiêu lao lên như một con hắc ưng, chiếc ô giấy đâm thẳng vào tiểu phúc Thiết Thủ.1.
 
 
 
@@ -546,4 +546,4 @@ Thiết Thủ thì có hai cánh tay bằng thép.
 
 Thiết Thủ đã bắt được phi tha, cũng coi như đã nắm được đại cục.
 
-Đúng vào khoảnh khắc đó, Đường Thiết Tiêu lao lên như một con hắc ưng, chiếc ô giấy đâm thẳng vào tiểu phúc Thiết Thủ. 
+Đúng vào khoảnh khắc đó, Đường Thiết Tiêu lao lên như một con hắc ưng, chiếc ô giấy đâm thẳng vào tiểu phúc Thiết Thủ.

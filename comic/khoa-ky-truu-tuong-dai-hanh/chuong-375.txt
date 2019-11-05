@@ -1,0 +1,131 @@
+converter Dzung Kiều cầu khen thưởng và bình chọn * cao giúp mình 
+
+	"Phân tích lớn tuổi dùng sức khỏe dược tề (người đi theo). . ."
+
+	"Phân tích trong. . ."
+
+	"Phân tích hoàn thành."
+
+	"Kiến thức mới 'Nhân tạo tế bào người máy SCV32 chế tạo kỹ thuật' (không giải tỏa) đã phát đến kí chủ kiến thức phần bố cáo, mời kí chủ chú ý kiểm tra và nhận. Phát hiện khoa chính quy kỹ trước mặt không cách nào hoàn thành, sanh thành thay thế kiến thức 'Nhân tạo tế bào người máy SCV1 chế tạo kỹ thuật' (đã giải tỏa) đã phát đến kí chủ kiến thức phần bố cáo, mời kí chủ chú ý kiểm tra và nhận."
+
+	"Kiến thức mới 'Nhân tạo tế bào người máy chuyên dụng cao có thể thức ăn chế tạo cùng hiệu suất cao nhiếp có thể kỹ thuật' (không giải tỏa) đã phát đến kí chủ kiến thức phần bố cáo, mời kí chủ chú ý kiểm tra và nhận. Phát hiện khoa chính quy kỹ trước mặt không cách nào hoàn thành, sanh thành thay thế kiến thức 'Nhân tạo tế bào người máy chuyên dụng cao có thể thức ăn chế tạo' (đã giải tỏa) đã phát đến kí chủ kiến thức phần bố cáo, mời kí chủ chú ý kiểm tra và nhận."
+
+	"Kiến thức mới 'Nhân tạo tế bào người máy tuổi thọ khống chế kỹ thuật' (không giải tỏa) đã phát đến kí chủ kiến thức phần bố cáo, mời kí chủ chú ý kiểm tra và nhận. Phát hiện khoa chính quy kỹ trước mặt không cách nào hoàn thành, sanh thành thay thế kiến thức thất bại, nên khoa học kỹ thuật không cách nào sanh thành cấp thấp thay thế."
+
+	"Kiến thức mới 'Nhân tạo tế bào người máy thấp dây dưa có thể kỹ thuật' (không giải tỏa) đã phát đến kí chủ kiến thức phần bố cáo, mời kí chủ chú ý kiểm tra và nhận. Phát hiện khoa chính quy kỹ trước mặt không cách nào hoàn thành, sanh thành thay thế kiến thức thất bại, nên khoa học kỹ thuật không cách nào sanh thành cấp thấp thay thế."
+
+	"Kiến thức mới 'Thân thể con người có hại tế bào khống chế học' (không giải tỏa) đã phát đến kí chủ kiến thức phần bố cáo, mời kí chủ chú ý kiểm tra và nhận. Khoa chính quy kỹ trước mặt có thể hoàn thành, không cần thay thế kiến thức."
+
+	. . .
+
+	Hệ thống trong nháy mắt rầm rầm ra mười mấy cửa kiến thức mới, có có thể sanh thành thay thế kiến thức, có không cách nào sanh thành, có chính là hệ thống cho rằng lấy Trái Đất bây giờ kỹ thuật có thể đột phá.
+
+	Không giải tỏa kiến thức, yêu cầu điểm tích lũy tính hết sức cảm động.
+
+	'Kiến thức: 《 Nhân tạo tế bào người máy SCV32 chế tạo kỹ thuật 》(không giải tỏa, giải tỏa cần 250 0 điểm).'
+
+	'Kiến thức: 《 Nhân tạo tế bào người máy SCV1 chế tạo kỹ thuật 》(đã giải tỏa, 《 Nhân tạo tế bào người máy SCV32 chế tạo kỹ thuật 》 thay thế kiến thức).'
+
+	'Kiến thức: 《 Nhân tạo tế bào người máy chuyên dụng cao có thể thức ăn chế tạo cùng hiệu suất cao nhiếp có thể kỹ thuật 》(không giải tỏa, giải tỏa cần 100 0 điểm).'
+
+	'Kiến thức: 《 Nhân tạo tế bào người máy chuyên dụng cao có thể thức ăn chế tạo 》(đã giải tỏa, 《 Nhân tạo tế bào người máy chuyên dụng cao có thể thức ăn chế tạo cùng hiệu suất cao nhiếp có thể kỹ thuật 》 thay thế kiến thức).'
+
+	'Kiến thức: 《 Nhân tạo tế bào người máy tuổi thọ khống chế kỹ thuật 》(không giải tỏa, giải tỏa cần 30 0 điểm).'
+
+	'Kiến thức: 《 Nhân tạo tế bào người máy thấp dây dưa có thể kỹ thuật 》(không giải tỏa, giải tỏa cần 50 0 điểm).'
+
+	'Kiến thức: 《 Thân thể con người có hại tế bào khống chế học 》(không giải tỏa, giải tỏa cần 15 0 điểm).'
+
+	Giang Viễn nhanh chóng xem một bên mấy cái kỹ thuật sau khi giới thiệu, hắn mới đúng sức khỏe thuốc nguyên lý có chút biết rõ.
+
+	Trước, hắn đối với sức khỏe dược tề một mực có sâu đậm kiêng kỵ.
+
+	Loại thuốc này hiệu quả chân thực quá thần kỳ.
+
+	Một ống thuốc đi xuống, đừng để ý là cảm mạo nóng sốt tay vẫn nhám phong thấp, cơ hồ vạn bệnh tất cả trừ, thậm chí còn có thể người già trẻ lại!
+
+	Thật là so thuốc kích thích còn hưng phấn hơn thuốc, tựa như bảy trong long châu tiên đậu, trong trò chơi thuốc đỏ, trạch nam ổ cứng ở giữa tiểu tỷ tỷ, quá huyền ảo.
+
+	Trên đời lại có thuốc vạn năng?
+
+	Còn có thể người già trẻ lại?
+
+	Dù là gien chữa trị cũng không thể bao trị bách bệnh à!
+
+	Giang Viễn đặc biệt hoài nghi thuốc bên trong cất giấu hệ thống âm mưu, đây cũng là hắn không dám đem Mã Kiến Quốc thu được người theo đuổi trực tiếp đưa thuốc một trong những nguyên nhân.
+
+	Bây giờ rốt cuộc chân tướng rõ ràng.
+
+	Nguyên lai là thông qua tế bào cấp trị liệu phương thức!
+
+	Cái gọi là nhân tạo tế bào người máy, trên bản chất liền là người máy, chẳng qua là dùng nhân tạo gien sản xuất sinh sản, nhỏ xíu đến tế bào cấp bậc.
+
+	Một thuốc sức khỏe dược tề, trên bản chất chính là 1 triệu người tạo tế bào người máy.
+
+	Chúng tiến vào thân thể con người sau đó, thì biết nhanh chóng chia ra sinh sản đạt tới chỉ định số lượng, từ đó tạo thành một máy phân phối kiểu trí năng máy móc, lần vải toàn thân các nơi.
+
+	Chúng thời khắc giám thị thân thể con người một tràng, cơ hồ có thể giải quyết thân thể con người sức khỏe lên hết thảy vấn đề.
+
+	Gặp phải virus liền giết chết virus, vì vậy miễn dịch tính lây cảm mạo loại virus tính tật bệnh.
+
+	Gặp phải tổ chức dinh dưỡng chưa đủ liền thay thế trợ giúp vận chuyển chất dinh dưỡng, vì vậy người sử dụng đổi được càng có lực lượng còn có tinh thần.
+
+	Gặp phải một ít tế bào thiếu thiếu hoặc tế bào chức năng dị thường, liền bắt chước tế bào đặc định chức năng, thay chúng công tác, vì vậy trình độ nhất định khôi phục già yếu.
+
+	Bây giờ trở về đầu xem hệ thống mặt bản ở giữa sức khỏe dược tề giới thiệu, Giang Viễn rốt cuộc hoàn toàn rõ ràng liền hàm nghĩa trong đó.
+
+	"Lớn tuổi dùng sức khỏe dược tề (người đi theo): 40 tuổi trở lên loài người bình thường người đi theo sử dụng sau đó, thân thể già yếu trình độ ở 7 ngày bên trong giảm thiếu 10-15 năm, đồng thời cực lớn trình độ khống chế phần lớn tật bệnh (gien, huyết dịch, bên trong bài tiết, tim, óc cùng tương quan tật bệnh) phát triển và thống khổ. Dược tề hữu hiệu thời gian: 90 ngày."
+
+	Tại sao là 40 tuổi? Lại chỉ đối với 40 tuổi trở lên loài người bình thường người đi theo có hiệu lực?
+
+	Rất đơn giản, nếu nhân tạo tế bào là người máy trí năng, hệ thống khẳng định có thể đáp lời tiến hành 'Ra xưởng' dự tính.
+
+	Tại sao ở 7 ngày bên trong có hiệu lực?
+
+	Bởi vì nhân tạo tế bào người máy cần sinh sản.
+
+	Tại sao có thể tinh chuẩn khống chế hạn sử dụng 90 ngày?
+
+	Bởi vì có 《 Nhân tạo tế bào người máy tuổi thọ khống chế kỹ thuật 》, đến lúc đó ở giữa sau những người này tạo tế bào người máy tự động chết, như vậy theo sau thay cũ đổi mới tống ra bên ngoài cơ thể.
+
+	Đối với một ít tật bệnh, những người này tạo người máy cũng không thể hoàn toàn chữa, theo nhân tạo tế bào người máy biến mất, tật bệnh lại sẽ từ từ khôi phục, thân thể con người lần nữa biến thành không sức khỏe, trẻ tuổi trạng thái cũng không cách nào tiếp tục duy trì.
+
+	Hết thảy các thứ này tất cả đều là khoa học kỹ thuật mang tới, một chút siêu tự nhiên đồ cũng không có.
+
+	Giang Viễn không thể không xúc động, đương khoa kỹ phát triển tới trình độ nhất định, có ở đây không minh nội tình người nhìn như thật cùng ma pháp không khác!
+
+	Cùng ma pháp vậy hiệu quả đối ứng, là nó vượt quá tưởng tượng chế tạo độ khó.
+
+	Hôm nay Trái Đất chế làm không được SCV32, chỉ có thể chế tạo SCV1.
+
+	Không ra ngoài dự liệu con số chính là phiên bản số, Trái Đất cực hạn kỹ thuật cùng mục tiêu kém hơn ba mươi đời, đây là khó có thể tưởng tượng kỹ thuật chênh lệch.
+
+	Cho dù là cập nhật cải tiến cực nhanh phần mềm nghề, 30 cái phiên bản số ít nhất cũng phải mở rộng 15 năm trở lên.
+
+	Ở phần cứng hoặc sinh vật gien sản nghiệp, hai ba năm thăng cấp không được một cái lớn phiên bản đúng là bình thường.
+
+	Nói cách khác, Trái Đất theo chế tạo sức khỏe thuốc xí nghiệp chỗ ở thời đại, có thể có trên trăm năm khoa học kỹ thuật chênh lệch.
+
+	Giang Viễn tiếp tục xem mấy cái kiến thức, từ từ đối với tế bào người máy kỹ thuật có sâu hơn biết rõ.
+
+	Nhân tạo tế bào người máy chuyên dụng cao có thể thức ăn, chính là dùng để theo SCV32 cung cấp năng lượng.
+
+	SCV32 là sinh vật người máy, nó phải tiêu hao nào đó nhiên liệu, không cách nào dùng yêu vận hành.
+
+	Vậy dưới tình huống, SCV32 có thể cùng người bình thường thể tế bào như nhau, từ thân thể con người năng lượng nguyên lấy được được năng lượng, ví dụ như máu kẹo, mỡ các loại.
+
+	Nhờ vào thấp dây dưa có thể kỹ thuật, SCV32 phổ thông vận hành trạng thái loài người không cảm giác được biến hóa gì, có thể chẳng qua là dễ dàng đói, lượng cơm đổi lớn một chút, bệnh nhân rất dễ dàng thì biết đưa cái này làm thân thể đổi trẻ tuổi hài lòng phản ứng, mà coi thường.
+
+	Nhưng là một khi gặp phải tình huống khẩn cấp, cần nâng cao lượng công việc, từ máu đường và mỡ loại hấp thu năng lượng phương thức liền lực không hề đợi.
+
+	Ví dụ như gặp phải bất ngờ đưa đến hàng loạt mất máu, SCV32 phát hiện nguy hiểm sinh mạng, thì biết toàn lực vận chuyển, trợ giúp máu tế bào công tác, hơi lớn não, tim cùng trọng yếu bộ phận chuyển vận năng lượng, ưu tiên giữ được tánh mạng.
+
+	Bất quá cái này thì cần số lớn dây dưa có thể, nếu như không kịp thời cầm máu chữa trị bổ sung năng lượng, phân phút toàn thân mỡ tiêu hao hơn nửa cũng không phải không thể nào.
+
+	Nếu như một người mập mạp gặp phải tai nạn xe cộ chảy máu nhiều, chở đến bệnh viện nhưng phát hiện toàn thân gầy gò gầy gò, người không biết có lẽ biết lấy là gặp phải nữ quỷ bị hút khô tinh nguyên. . .
+
+	Giang Viễn phỏng đoán hệ thống cung cấp sức khỏe dược tề sẽ không làm như vậy, ẩn núp hệ thống tồn tại vậy là rất trọng yếu.
+
+	Chỉ cần thiết lập một cái lớn nhất dây dưa có thể lên giới hạn, dù là mặc cho người theo đuổi chết, cũng không vượt qua nói, rất khó bị phát hiện.
+
+	Converter Dzung Kiều cầu ủng hộ bộ Đại Đường Hảo Tướng Công <a href="https://truyen.tangthuvien.vn/doc-truyen/dai-duong-hao-tuong-cong">https://truyen.tangthuvien.vn/doc-truyen/dai-duong-hao-tuong-cong</a>

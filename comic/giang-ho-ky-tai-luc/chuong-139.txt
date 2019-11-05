@@ -1,4 +1,4 @@
- Báo Tử đã rõ ràng khẩn trương lên, thân thể cung, dường như kéo căng lấy một mạch, tùy thời chuẩn bị nhào tới. Kỳ Tài đứng vững bất động, trừng to mắt nhìn xem nó, một người Nhất Báo tại nguyên chỗ giằng co một lát.
+Báo Tử đã rõ ràng khẩn trương lên, thân thể cung, dường như kéo căng lấy một mạch, tùy thời chuẩn bị nhào tới. Kỳ Tài đứng vững bất động, trừng to mắt nhìn xem nó, một người Nhất Báo tại nguyên chỗ giằng co một lát.
 
 	Kia Báo Tử đột nhiên bốn trảo chạm đất, nổi giận gầm lên một tiếng, hướng về phía trước bỗng nhiên bổ nhào về phía trước. Kỳ Tài sớm đã nhổ thất sắc khí kiếm nơi tay, thân thể hướng bên cạnh nghiêng tránh, tránh thoát cái này bổ nhào về phía trước.
 
@@ -74,4 +74,80 @@
 
 	"Khi đó người Liêu thường vượt biên quấy rối, cùng Đại Tống quan binh lẫn nhau có sát thương. Một ngày, Tướng gia phái người tìm ta, nói là có một tiểu đội người Liêu nhập cảnh, để cho ta dẫn người tiến đến đuổi bắt, ta điểm một trăm cái binh sĩ, cưỡi khoái mã ra doanh tìm kiếm khắp nơi, rốt cục đuổi kịp Liêu quân kỵ binh, đối phương chỉ có mười mấy kỵ, nhân số chúng ta thêm ra mấy lần, cùng bọn hắn giao đấu tất nhiên là có thắng không bại, trong lòng ta khó tránh khỏi có chút khinh mạn, hạ lệnh phóng ngựa đuổi sát , vừa đuổi một bên bắn tên, bắn ngã mấy cái lính địch. Ta vốn cho rằng rất dễ dàng đem lính địch một mẻ hốt gọn, ai ngờ mấy cái kia người Liêu hơi có chút khó chơi, lại cưỡi chính là phương bắc thì tốt ngựa, chúng ta hao hết khí lực, ròng rã truy đuổi một ngày một đêm, mới đưa lính địch vây quanh, cũng đều giết chết."
 
-	"Thủ hạ binh sĩ quét dọn chiến trường, tại lính địch thủ lĩnh trên thân tìm tới một phong thư, ta nắm đi tới nhìn một chút, trên thư bịt lại xi, là viết cho Đại Liêu U Châu đô đốc, kí tên đúng là Trác châu Vương giam quân, ta giật nảy cả mình, vội vàng nhét vào trong ngực, trong lòng lo lắng bất an, Vương giam quân chính là Hoàng Thượng phái tới giám sát các quân, quyền thế cực lớn, như thế nào cùng quân địch tướng lĩnh tư thông thư? Ta chưa dám mở ra, nhớ lại doanh giao cho Tướng gia xử trí. Lúc này nhìn kỹ đường đi, mới biết trong lúc bất tri bất giác không ngờ vượt qua biên giới, lúc này đã đến U Châu địa giới. Ta vội vàng hạ lệnh trong đêm hồi binh, không ngờ tại một chỗ khe núi, trên đường gặp Liêu quân đại đội, càng đem ta bộ vây quanh toàn diệt, ta ỷ vào một chút mạt bản sự, thừa dịp đêm tối, độc thân chạy ra, một đường mai danh ẩn tích trở lại Trác châu, ở ngoài thành gặp được quân Tống kiểm tra, ta nói ra thân phận, bọn hắn không nói hai lời, liền đem ta trói lại, bắt giữ lấy Vương giam quân sổ sách bên trong, giám quân nhìn thấy thư, cả giận nói: 'Lớn mật tiểu tặc, dám thông đồng với địch phản quốc, kéo ra ngoài chặt!' ta biết hắn muốn giết ta diệt khẩu, cãi lại vô dụng, liền do lấy bọn hắn kéo đến ngoài trướng, vệ binh đang chờ hành hình, ta hét lớn một tiếng, đứt đoạn trên thân dây thừng, đoạt con khoái mã, một đường xông ra doanh trướng." 
+	"Thủ hạ binh sĩ quét dọn chiến trường, tại lính địch thủ lĩnh trên thân tìm tới một phong thư, ta nắm đi tới nhìn một chút, trên thư bịt lại xi, là viết cho Đại Liêu U Châu đô đốc, kí tên đúng là Trác châu Vương giam quân, ta giật nảy cả mình, vội vàng nhét vào trong ngực, trong lòng lo lắng bất an, Vương giam quân chính là Hoàng Thượng phái tới giám sát các quân, quyền thế cực lớn, như thế nào cùng quân địch tướng lĩnh tư thông thư? Ta chưa dám mở ra, nhớ lại doanh giao cho Tướng gia xử trí. Lúc này nhìn kỹ đường đi, mới biết trong lúc bất tri bất giác không ngờ vượt qua biên giới, lúc này đã đến U Châu địa giới. Ta vội vàng hạ lệnh trong đêm hồi binh, không ngờ tại một chỗ khe núi, trên đường gặp Liêu quân đại đội, càng đem ta bộ vây quanh toàn diệt, ta ỷ vào một chút mạt bản sự, thừa dịp đêm tối, độc thân chạy ra, một đường mai danh ẩn tích trở lại Trác châu, ở ngoài thành gặp được quân Tống kiểm tra, ta nói ra thân phận, bọn hắn không nói hai lời, liền đem ta trói lại, bắt giữ lấy Vương giam quân sổ sách bên trong, giám quân nhìn thấy thư, cả giận nói: 'Lớn mật tiểu tặc, dám thông đồng với địch phản quốc, kéo ra ngoài chặt!' ta biết hắn muốn giết ta diệt khẩu, cãi lại vô dụng, liền do lấy bọn hắn kéo đến ngoài trướng, vệ binh đang chờ hành hình, ta hét lớn một tiếng, đứt đoạn trên thân dây thừng, đoạt con khoái mã, một đường xông ra doanh trướng."Báo Tử đã rõ ràng khẩn trương lên, thân thể cung, dường như kéo căng lấy một mạch, tùy thời chuẩn bị nhào tới. Kỳ Tài đứng vững bất động, trừng to mắt nhìn xem nó, một người Nhất Báo tại nguyên chỗ giằng co một lát.
+
+	Kia Báo Tử đột nhiên bốn trảo chạm đất, nổi giận gầm lên một tiếng, hướng về phía trước bỗng nhiên bổ nhào về phía trước. Kỳ Tài sớm đã nhổ thất sắc khí kiếm nơi tay, thân thể hướng bên cạnh nghiêng tránh, tránh thoát cái này bổ nhào về phía trước.
+
+	Báo Tử nhảy lên ra ngoài mấy trượng xa, chính làm bộ muốn lao vào về, bỗng nhiên bịch một chút nằm xuống đất, không nhúc nhích, nhìn kỹ, súc sinh kia trên đầu đã đâm một thanh ngắn xiên, kia xiên cắm vào cực sâu, cơ hồ toàn bộ chui vào đầu báo bên trong, chỉ lưu một chút xiên đuôi tại bên ngoài.
+
+	Kỳ Tài chính kinh ngạc, chợt thấy mấy chục bước xa trên cây nhảy xuống một đại hán, mấy cái nhanh chân chạy đến Báo Tử bên cạnh, đưa nó một cái nhấc lên, mấy trăm cân Báo Tử trong tay hắn tựa như không nặng chút nào. Đại hán hướng về kia chết đi Báo Tử mắng: "Súc sinh, ngươi còn dám hại người!"
+
+	Đại hán kia thân cao hơn trượng, thoạt nhìn cực kì rắn chắc, mọc ra một mặt liền má râu ria, mày rậm tiếp theo đôi mắt to, trong đêm tối lấp lánh tỏa ánh sáng.
+
+	Kỳ Tài hô: "Tráng sĩ, nơi đây là cái gì chỗ? Có thể có nhà tá túc?"
+
+	Đại hán nói: "Đây là bách thảo cốc vạn tùng lâm, tiểu huynh đệ lạc đường chứ? Như che không bỏ, có thể theo ta đến tệ chỗ nghỉ ngơi." Kỳ Tài vui mừng quá đỗi, vội vàng trở về ôm lấy Lục Hạ, theo tại đại hán kia sau lưng.
+
+	Đại hán ở phía trước dẫn đường, trên vai khiêng một con báo, dưới chân y nguyên mau lẹ vô cùng, thật sự là trời sinh thần lực.
+
+	Đi một nén nhang thời gian, thấy phía trước một cái sân, mấy gian nhà tranh, một cái lão ẩu dựa cửa sân, hướng bên này đưa đầu nhìn quanh.
+
+	Đại hán gấp đuổi đến mấy bước, nói ra: "Nương, nói với ngài qua bao nhiêu lần, không phải ở bên ngoài chờ lấy, bên ngoài gió lớn, ngài thân thể chịu không nổi, nhanh đi vào nhà đi!" Nói xong đem Báo Tử đặt ở cạnh cửa, vịn lão ẩu đi vào.
+
+	Kỳ Tài theo ở phía sau vào phòng, trong phòng bày biện cực kì đơn giản, lại rất là sạch sẽ, trên tường tràn đầy treo da thú.
+
+	Lão ẩu vội vàng trải tốt đệm chăn, lại đem một tấm da sói trải lên, kêu lên: "Hài tử, đến, đầu giường đặt gần lò sưởi ấm áp, thả chỗ này, bé con này ngã bệnh sao?"
+
+	Kỳ Tài đem Lục Hạ nhẹ nhàng cất kỹ, nàng sắc mặt tái nhợt, tóc rối tung tại trên gối đầu, thoạt nhìn cực kỳ mảnh mai.
+
+	Lão ẩu nói ra: "Các ngươi trước tiên nghỉ một lát, ta đi làm cơm, sơn dã người ta không có món gì ăn ngon, liền là chút nhà mình loại rau xanh." Kỳ Tài nói ra: "Làm phiền bà bà."
+
+	Đại hán vội nói: "Ta đi thu thập Báo Tử, chúng ta ăn thịt báo." Kỳ Tài nói: "Ta đến trợ thủ."
+
+	Chợt nghe Lục Hạ nhẹ giọng kêu: "Tướng công, ngươi cẩn thận chút, chớ bị đao cắt tay." Kỳ mới hiểu được, nàng là đang nhắc nhở bản thân phải cẩn thận đại hán này.
+
+	Đại hán kia cười nói: "Huynh đệ, đệ muội thật sự là hiền lành, mọc lên bệnh còn như thế nhớ đến ngươi." Kỳ Tài len lén đỏ mặt, may mắn trời tối không người trông thấy.
+
+	Lão ẩu đi lò ở giữa vội vàng, đại hán đem Báo Tử xách tiến đến, liền trong sân chống lên miệng nồi lớn, nghiêng hai thùng nước đi vào, để Kỳ Tài thêm chút củi đốt.
+
+	Đại hán trong miệng lẩm bẩm lấy thanh đoản đao, một tay nắm chặt đầu báo, một tay nắm chặt xiên đuôi, xoát một chút, đem xiên thép rút ra vứt trên mặt đất.
+
+	Tay hắn nắm đoản đao, từ đầu báo lên, đem da báo một chút xíu lột rơi xuống, lúc thì công phu liền lột bỏ đến một tấm hoàn chỉnh da báo.
+
+	Hắn đem kia đẫm máu không da Báo Tử xách tới nồi bên trên, huy động đoản đao gọt lên thịt đến, "Xoát xoát xoát xoát" đoản đao bay múa, thịt nhao nhao lọt vào trong nồi. Đao của hắn mau lẹ vô cùng, gọt thịt mỗi phiến đều mỏng như tờ giấy, thời gian qua một lát liền nạo nửa con báo.
+
+	Nhìn xem thật mỏng thịt tại nước sôi bên trong lăn lộn, bốc lên váng dầu, Kỳ Tài nước bọt đều muốn chảy ra.
+
+	Hai người một bên nấu báo thịt một bên nói chuyện phiếm, đại hán tên là Trịnh Trường Sinh, cùng mẫu thân hai người ở tai nơi này trong rừng, đại khái ở mười năm.
+
+	Kỳ Tài thấy hắn thân thủ nhanh nhẹn hữu lực, xem ra công phu rất là không yếu, không biết hắn vì sao lại ẩn cư ở đây, trong lòng âm thầm đoán, hẳn là hắn chính là Bách Thảo ông?
+
+	Hắn lại chưa trực tiếp đến hỏi, chỉ nói đến Lục Hạ bệnh, đại hán cũng không tiếp tra, Kỳ Tài càng phát ra hoài nghi.
+
+	Lão ẩu đã làm xong mấy sắc thức nhắm, đều là chút đồ ăn thường ngày sơ, Lục Hạ không dậy được thân, Kỳ Tài phục thị nàng dùng chút bát cháo.
+
+	Lò ở giữa đã đỡ lấy mở bàn nhỏ, tràn đầy một chậu thịt báo bừng bừng bốc hơi nóng.
+
+	Trịnh Trường Sinh lấy ra một vò rượu đến, tràn đầy rót hai bát, nói ra: "Kỳ Tài huynh đệ, ta cái này ít có khách đến, một người uống rượu rất là không thú vị, hôm nay hai anh em ta uống thật sảng khoái!" Bưng chén lên uống một hơi cạn sạch.
+
+	Kỳ Tài cũng uống một hớp làm, thật dài thở hắt ra, rượu kia rất là cay độc, từ yết hầu thẳng nóng đến trong bụng đi, Kỳ Tài chép miệng tắc lưỡi, kẹp miệng thịt báo đưa vào trong miệng, chợt cảm thấy miệng đầy thơm ngát.
+
+	Trịnh Trường Sinh lại nên vì hắn rót đầy, lão ẩu nói: "Ngươi cho rằng ai cũng giống ngươi như vậy có thể uống? Đừng đem hài tử chuốc say!" Nói xong là lạ mới thay đổi cái chén nhỏ.
+
+	Kỳ Tài cảm kích nói: "Đa tạ bà bà."
+
+	Lão ẩu chỉ ít dùng một bát cháo, liền đi trở về phòng, Kỳ Tài nghe nàng cùng Lục Hạ trong phòng nói liên miên trò chuyện, dường như rất là tương đắc, cũng không biết hai người nói cái gì.
+
+	Kỳ Tài cùng Trịnh Trường Sinh vừa uống vừa trò chuyện, đàm tiếu ở giữa rất là hợp ý, rất có gặp nhau hận muộn cảm giác.
+
+	Kỳ Tài hỏi: "Trịnh đại ca, ngươi tốt như vậy công phu, sao không đi một đao một thương đền đáp quốc gia, cũng hoặc hành tẩu giang hồ, cũng có thể khoái ý ân cừu, thế nào trốn ở cái này thâm sơn dã lĩnh phí thời gian tuế nguyệt?"
+
+	Trịnh Trường Sinh nói: "Không dối gạt huynh đệ, ta đã hứa Bách Thảo ông chung thân ước hẹn, tại hắn sinh thời, vì hắn trông coi mảnh này rừng, vì vậy giữ lời hứa, lệch ở nơi này."
+
+	Kỳ Tài nghe hắn nhắc tới Bách Thảo ông, gãi đúng chỗ ngứa, hỏi: "Bách Thảo ông đến cùng là bực nào dạng người, hai người các ngươi tại sao lại có này hẹn?"
+
+	Trịnh Trường Sinh lại uống làm một chén rượu, lau lau miệng, nói ra: "Việc này nói rất dài dòng, hôm nay vừa vặn vô sự, cùng huynh đệ ngươi nhắc tới nhắc tới. Hơn mười năm trước, ta chính là một cái Thiên tướng, tại Trác châu quân doanh hiệu lực, bởi vì ta có chút công phu, lại rất có dũng khí, nhiều lần tại chiến trường giết địch lập công, Tướng gia đối với ta có phần coi trọng."
+
+	"Khi đó người Liêu thường vượt biên quấy rối, cùng Đại Tống quan binh lẫn nhau có sát thương. Một ngày, Tướng gia phái người tìm ta, nói là có một tiểu đội người Liêu nhập cảnh, để cho ta dẫn người tiến đến đuổi bắt, ta điểm một trăm cái binh sĩ, cưỡi khoái mã ra doanh tìm kiếm khắp nơi, rốt cục đuổi kịp Liêu quân kỵ binh, đối phương chỉ có mười mấy kỵ, nhân số chúng ta thêm ra mấy lần, cùng bọn hắn giao đấu tất nhiên là có thắng không bại, trong lòng ta khó tránh khỏi có chút khinh mạn, hạ lệnh phóng ngựa đuổi sát , vừa đuổi một bên bắn tên, bắn ngã mấy cái lính địch. Ta vốn cho rằng rất dễ dàng đem lính địch một mẻ hốt gọn, ai ngờ mấy cái kia người Liêu hơi có chút khó chơi, lại cưỡi chính là phương bắc thì tốt ngựa, chúng ta hao hết khí lực, ròng rã truy đuổi một ngày một đêm, mới đưa lính địch vây quanh, cũng đều giết chết."
+
+	"Thủ hạ binh sĩ quét dọn chiến trường, tại lính địch thủ lĩnh trên thân tìm tới một phong thư, ta nắm đi tới nhìn một chút, trên thư bịt lại xi, là viết cho Đại Liêu U Châu đô đốc, kí tên đúng là Trác châu Vương giam quân, ta giật nảy cả mình, vội vàng nhét vào trong ngực, trong lòng lo lắng bất an, Vương giam quân chính là Hoàng Thượng phái tới giám sát các quân, quyền thế cực lớn, như thế nào cùng quân địch tướng lĩnh tư thông thư? Ta chưa dám mở ra, nhớ lại doanh giao cho Tướng gia xử trí. Lúc này nhìn kỹ đường đi, mới biết trong lúc bất tri bất giác không ngờ vượt qua biên giới, lúc này đã đến U Châu địa giới. Ta vội vàng hạ lệnh trong đêm hồi binh, không ngờ tại một chỗ khe núi, trên đường gặp Liêu quân đại đội, càng đem ta bộ vây quanh toàn diệt, ta ỷ vào một chút mạt bản sự, thừa dịp đêm tối, độc thân chạy ra, một đường mai danh ẩn tích trở lại Trác châu, ở ngoài thành gặp được quân Tống kiểm tra, ta nói ra thân phận, bọn hắn không nói hai lời, liền đem ta trói lại, bắt giữ lấy Vương giam quân sổ sách bên trong, giám quân nhìn thấy thư, cả giận nói: 'Lớn mật tiểu tặc, dám thông đồng với địch phản quốc, kéo ra ngoài chặt!' ta biết hắn muốn giết ta diệt khẩu, cãi lại vô dụng, liền do lấy bọn hắn kéo đến ngoài trướng, vệ binh đang chờ hành hình, ta hét lớn một tiếng, đứt đoạn trên thân dây thừng, đoạt con khoái mã, một đường xông ra doanh trướng."

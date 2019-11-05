@@ -1,4 +1,4 @@
- Nơi này, lá xanh hoa vàng, cành hoa ngẩng cao, mềm mại thanh tú, khiến cho cả gió cũng trở nên ngọt ngào.
+Nơi này, lá xanh hoa vàng, cành hoa ngẩng cao, mềm mại thanh tú, khiến cho cả gió cũng trở nên ngọt ngào.
 
 Gió nhẹ có lẽ từ trên phía núi cao thổi tới.
 
@@ -262,7 +262,7 @@ Tập Mai Hồng chưa từng nhìn thấy loại hoa này, nàng cũng chưa t�
 
 Hơn nữa những bông hoa này lại giống hệt như nhau, cao thấp lớn nhỏ hầu như không sai biệt.
 
-Nàng không biết loại hoa này có tên là gì, nhưng dù đang ngây người trước cái đẹp, trong đầu nàng vẫn có một thắc mắc: "Ngô Thiết Dực và Triệu Yên Hiệp đi cả đoạn đương xa như vậy lẽ nào để ngắm hoa?"  Nơi này, lá xanh hoa vàng, cành hoa ngẩng cao, mềm mại thanh tú, khiến cho cả gió cũng trở nên ngọt ngào.
+Nàng không biết loại hoa này có tên là gì, nhưng dù đang ngây người trước cái đẹp, trong đầu nàng vẫn có một thắc mắc: "Ngô Thiết Dực và Triệu Yên Hiệp đi cả đoạn đương xa như vậy lẽ nào để ngắm hoa?"Nơi này, lá xanh hoa vàng, cành hoa ngẩng cao, mềm mại thanh tú, khiến cho cả gió cũng trở nên ngọt ngào.
 
 Gió nhẹ có lẽ từ trên phía núi cao thổi tới.
 
@@ -526,4 +526,4 @@ Tập Mai Hồng chưa từng nhìn thấy loại hoa này, nàng cũng chưa t�
 
 Hơn nữa những bông hoa này lại giống hệt như nhau, cao thấp lớn nhỏ hầu như không sai biệt.
 
-Nàng không biết loại hoa này có tên là gì, nhưng dù đang ngây người trước cái đẹp, trong đầu nàng vẫn có một thắc mắc: "Ngô Thiết Dực và Triệu Yên Hiệp đi cả đoạn đương xa như vậy lẽ nào để ngắm hoa?" 
+Nàng không biết loại hoa này có tên là gì, nhưng dù đang ngây người trước cái đẹp, trong đầu nàng vẫn có một thắc mắc: "Ngô Thiết Dực và Triệu Yên Hiệp đi cả đoạn đương xa như vậy lẽ nào để ngắm hoa?"

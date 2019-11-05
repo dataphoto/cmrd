@@ -1,0 +1,93 @@
+converter Dzung Kiều cầu khen thưởng và bình chọn * cao giúp mình 
+
+	Theo tuyên bố thời gian càng ngày càng dài, càng nhiều hơn người sử dụng khảo sát đến DTOS sau đó, nhiều tin tức hơn xuất hiện.
+
+	Linux người sáng lập, lớn bình phun Lâm nạp tư trắng trợn khen ngợi DTCode, chẳng qua là khích lệ phương thức để cho người rất khó tiếp nhận:
+
+	"Mặc dù DTOS chỉ là một bắt chước Windows làm việc thói quen rác rưới hệ thống -- ta vẫn không thể nào tin nổi nửa năm bên trong có thể làm xảy ra cái gì đáng tin đồ chơi -- nhưng không thể chối DTCode là bước thời đại mở rộng công cụ. Ta cho rằng mỗi một chân chính lập trình viên cũng cần phải làm thử nghiệm, nhất là sử dụng những cái kia trừ C ngoài ra rác rưới ngôn ngữ lập trình viên cửa, cầu não dụng cụ và DTCode kết hợp mang tới mật mã tự động biến thành chức năng đặc biệt quan tâm. Cho dù ngươi không mua nổi cầu não, chỉ là tự động củ sai chức năng, vậy đặc biệt đáng thử nghiệm. Ta đem linux nội hạch source code đạo nhập đi vào, tìm ra 3 cái ẩn sâu nhiều năm không biết BUG và 29 chỗ ưu hóa đề nghị. Cho nên, củ sai chức năng đối với người khai phá mà nói, là rất tốt công cụ. . ."
+
+	GNU kế hoạch người sáng lập, GNU EMACS và GNU C người khai phá, khai nguyên giới đấu thánh cường giả Lý Tra Đức. Tư nhờ mạn, lại là trực tiếp ở trên mạng hướng Giang Viễn cách không hô đầu hàng:
+
+	"DTOS và DTCode là thuộc tại cả nhân loại kỹ thuật, ẩn núp source code được là là tà ác tổ chức buôn bán mới có thể làm sự việc, thành tựu kỹ thuật thiên tài, Giang tiên sinh không nên ánh mắt như vậy nhỏ mọn, ta hy vọng DTOS và DTCode có thể mau sớm gia nhập vào GNU khai nguyên trong kế hoạch tới. . ."
+
+	Giang Viễn dĩ nhiên không thể nào khai nguyên DTOS, cái này hệ thống thao tác nội hạch là hắn theo quân đội cùng hưởng.
+
+	Nếu như không phải là như vậy, trình độ nhất định khai nguyên cũng không không thể, lúc này hấp dẫn hàng loạt khai nguyên người khai phá tới đầu dựa vào DTOS trận doanh, đánh nhau bại những thứ khác hệ thống thao tác có cực lớn thêm được tác dụng.
+
+	Dĩ nhiên, Giang Viễn cũng không biết hoàn toàn không thấy danh vọng to lớn chủ nghĩa lý tưởng đấu thánh ông cụ tỏ tình, hắn ở người trang chính lần trước phục đến:
+
+	"Khai nguyên quả thật có vĩ đại ý nghĩa, nhưng là trước mắt thời cơ vẫn chưa trưởng thành. Bất quá, ta có thể tiên công mở DTCode cắm kiện tiếp lời, những thứ khác người khai phá có thể cho DTCode mở rộng cắm kiện."
+
+	Theo nhóm đầu tiên thường tiên các người đối với DTOS khảo sát và khai thác càng ngày càng sâu nhập, trừ giả tưởng tầng và DTCode ngoài ra càng mạnh mẽ bao nhiêu chi ra cũng bị khám phá ra.
+
+	"Ngày hôm nay ta để giải thích DTOS tại sao nhỏ như vậy? Rất có thể là bởi vì nó hoàn toàn ứng dụng X82M áp súc thuật toán! Ngươi đem bất kỳ văn kiện bản chính đến cái này hệ thống thao tác, cũng sẽ phát hiện biểu hiện văn kiện lớn nhỏ so thực tế từ bàn chiếm dụng lớn hơn nhiều lắm! Ví dụ như, ta đem một cái ở Windows lên biểu hiện là 100M sổ cư khố văn kiện bản chính đến DTOS lên, mặc dù biểu hiện văn kiện lớn nhỏ vẫn là 100M, nhưng là ta quét xem từ bàn số liệu sau đó, phát hiện trên thực tế chỉ chiếm dụng 3M chừng! Chính là như thế khoa trương. Trên thực tế, ta đi qua khảo sát sau phát hiện, tất cả văn kiện cũng so những thứ khác hệ thống thao tác tiểu 10-100 lần bây giờ, cái này làm cho ta không khỏi nghĩ đến trước khi X82M video áp súc thuật toán, Giang Viễn rất có thể đã phát triển cái này áp súc thuật toán ứng dụng phạm vi. Bởi vì từ bàn chiếm dụng tiểu, đọc viết tốc độ liền nhanh hơn, rất nhiều đọc viết từ bàn so với thường xuyên ứng dụng tính có thể được liền cực lớn tăng lên . Ngoài ra, ta còn phát hiện, loại này nén kỹ thuật có hạn độ ứng dụng đến ổ lưu trữ quản lý lên, ngươi có thể phát hiện rất nhiều ứng dụng ổ lưu trữ chiếm dụng cực lớn thấp xuống, ví dụ như bẫy cha Chre trình duyệt web chiếm dụng ổ lưu trữ. . ."
+
+	"Ta phát hiện DTOS đối với não khống giúp đỡ xa so Microsoft hệ thống muốn thật tốt hơn nhiều, quả nhiên là Giang Viễn mình khai thác hệ thống thao tác, đầy đủ lợi dụng cường đại não khống kỹ thuật. Ví dụ như, DTOS tìm kiếm chức năng liền lấy được được cực lớn tăng cường, nếu như ngươi muốn tìm một cái ngươi không nhớ rõ văn kiện tên văn kiện, ở não khống phiên bản Windows11, cần ngươi mở ra tìm kiếm khung, truyền vào chữ mấu chốt, trên căn bản chính là dùng não khống truyền vào thay thế bàn phím truyền vào mà thôi. DTOS đã không phải là như vậy, ngươi dĩ nhiên có thể giống như Windows11 trong như vậy trực tiếp truyền vào chữ mấu chốt, bất quá ngươi còn có thể truyền vào ngươi trong trí nhớ tranh ảnh đi tìm một chút điện ảnh, thậm chí một đoạn nhịp điệu đi tìm một chút âm nhạc, thần kỳ hơn là, ngươi có thể truyền vào nhiều điều kiện. Ví dụ như, ta muốn tìm bài ca là 'Người đàn ông hát', có 'Bầu trời sao trời' câu này, thật giống như vẫn là một cái 'Phim truyền hình chủ đề ca nhạc', những thứ này điều kiện giữ phổ thông người sử dụng cũng có thể hiểu được quan hệ hợp lại, sau đó trở lại cho ngươi kết quả. Ta thử qua, không chỉ có giúp đỡ truyền thống 'Cùng hoặc không phải' suy luận phán đoán, còn giúp đỡ các loại điều kiện chi nhánh, xác suất, lấy phản cùng phức tạp suy luận, hơn nữa não khống truyền vào còn giải quyết phổ thông người sử dụng khó hiểu vấn đề! Như vậy, ta mơ hồ cảm giác được não khống bản cỗ máy tìm kiếm to lớn tiền cảnh, chẳng lẽ, cái kế tiếp muốn gặp phải Giang Viễn độc thủ chính là Google và baidu?"
+
+	Bạn trên mạng suy đoán dĩ nhiên có đạo lý.
+
+	Trước mắt mà nói, cỗ máy tìm kiếm người sử dụng ở tìm kiếm, mặc dù có sử dụng cao cấp phức tạp tìm kiếm và dùng suy luận phán đoán lọc tìm kiếm kết quả nhu cầu, nhưng là loại này lục soát phương thức biểu đạt quá không nhân tính hóa.
+
+	Bất luận là, ||, ! kỳ quái ký hiệu, vẫn là càng khó hơn dùng đang thì biểu đạt thức, đều không phải là phổ thông người sử dụng có thể làm được.
+
+	Đang thì biểu đạt thức lại là liền rất nhiều lập trình viên đều khó thuần thục sử dụng.
+
+	Cho nên, làm Google phát hiện DTOS trong có thể não khống truyền vào tìm kiếm điều kiện và lọc điều kiện, vậy rất nhanh phát giác đạo cái này tìm kiếm kỹ thuật rộng lớn vận dụng tiền cảnh.
+
+	Đây chính là đối với Google uy hiếp trí mạng!
+
+	Larry Page quyết định thật nhanh tổ chức hội đồng quản trị, lợi dụng uy tín của mình cưỡng ép thông qua dừng lại bảo vệ HĐH Android, toàn diện giao hảo tập đoàn Thâm Tư để đổi lấy não khống tìm kiếm kỹ thuật quyết định.
+
+	Sáng ngày thứ hai, Google phát ngôn viên ở trong buổi họp báo tin tức tuyên bố:
+
+	"Bắt đầu từ hôm nay, Google toàn diện dừng lại bảo vệ HĐH Android, Android cái cuối cùng phiên bản số đúng là 11. 8, từ đây lại nữa cập nhật, Android sự nghiệp bộ tất cả nhân viên sẽ trong vòng một tháng điều động đến những thứ khác cương vị."
+
+	Một thạch kích thích nghìn tầng sóng!
+
+	Toàn trường một mảnh xôn xao.
+
+	Hệ điều hành mobile người khổng lồ, trên điện thoại di động lớn nhất chiếm hữu tỷ số hệ thống, Android, lại có thể cứ như vậy chết?
+
+	Lại có thể bị DTOS hù chết?
+
+	Phát ngôn viên ngay tức thì bị ký giả vây quanh vong tròn.
+
+	. . .
+
+	Larry Page thì hướng tập đoàn Thâm Tư phát khởi tìm kiếm hợp tác thỉnh cầu, hắn trực tiếp cho Lý Tình Du gọi điện thoại, hy vọng đem DTOS lên não khống tìm kiếm kỹ thuật tập hợp đến Google lên.
+
+	Google dừng lại bảo vệ Android phản ứng dây chuyền nhiều vô cùng.
+
+	Ví dụ như Intel liền vậy gấp gáp.
+
+	Bọn họ bắt đầu thảo luận có phải hay không đem mình đang dùng 5nm lithography lấy ra, hoàn thành trước theo tập đoàn Thâm Tư đổi chác nói sau!
+
+	Thời cuộc biến đổi quá nhanh, chậm thì sự việc có biến à.
+
+	Bất luận như thế nào, X1 kỹ thuật dù sao phải lấy trước được trong tay.
+
+	Bởi vì Intel nhân viên kỹ thuật vượt phá giải X1 càng kinh ngạc, loại này tấm chip một thể hóa kỹ thuật tựa hồ vượt qua trước mắt kỹ thuật trình độ.
+
+	Intel CEO Swan vậy theo Lý Tình Du liên lạc hỏi trước thời hạn lý ước có thể.
+
+	Nadella đạt được những tin tức này, tâm tình là tan vỡ.
+
+	Các người muốn không muốn như thế cái hố, nói xong phản Thâm Tư liên minh đâu ?
+
+	Các người làm sao liền từng cái một chạy đến tập đoàn Thâm Tư bên kia bán cái mông đi?
+
+	Thành tựu liên minh khởi xướng người, công ty Apple đã tan tành.
+
+	Đối mặt CEO bị đuổi, hội đồng quản trị biến đổi lớn, iphone lượng tiêu thụ tan vỡ, theo Thâm Tư đàm phán thất bại cùng liên tiếp chuỗi đả kích, Apple thị giá đã rớt đến 200 tỷ.
+
+	Mới vừa gia nhập hội đồng quản trị nhất đại cổ đông bản đồ quỹ, đang ổn định người nội bộ lòng, tựa hồ đối với liên minh vậy không có hứng thú gì.
+
+	Cái này cũng quá bẫy bố!
+
+	Vốn là Microsoft theo tập đoàn Thâm Tư hợp tác thật tốt, bị các người lắc lư lên thuyền.
+
+	Bây giờ đưa ra cái DTOS, chính các ngươi lên bờ trước?
+
+	Microsoft sau này có thể chơi thế nào?
+
+	Converter Dzung Kiều cầu ủng hộ bộ Thủ Thuật Trực Bá Gian -Livestream giải phẫu nhé <a href="https://truyen.tangthuvien.vn/doc-truyen/thu-thuat-truc-ba-gian">https://truyen.tangthuvien.vn/doc-truyen/thu-thuat-truc-ba-gian</a>

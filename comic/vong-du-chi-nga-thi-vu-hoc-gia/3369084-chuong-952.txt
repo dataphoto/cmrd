@@ -1,0 +1,115 @@
+Chương 952: Cân bằng tính
+ 
+ 	Tiểu thuyết: Võng du chi ta là võ học gia tác giả: Thiết Ngưu Tiên
+ 
+ 	Thế giới thông cáo đồng thời, Vương Vũ bên này cũng nhận được hệ thống một đống lớn nhắc nhở.
+ 
+ 	Gợi ý của hệ thống: Ngươi sáng tạo đạt được truyền kỳ trang bị "Thiên sứ chi dực", danh vọng +5000, Quang Minh trận doanh vinh dự -100, kinh nghiệm +. . . Giải khóa thành tựu "Người sáng tạo" thu được người sáng tạo tên gọi.
+ 
+ 	Người sáng tạo (tên gọi)
+ 
+ 	Bịa đặt: Active skill, sử dụng sau trong nháy mắt vá kín HPMP, làm lạnh thời gian 7200 giây.
+ 
+ 	Làm là thứ nhất cái sáng tạo ra Thần khí player, hệ thống không có chút nào keo kiệt, kinh nghiệm danh vọng, cho đều có đủ, tên gọi skill cũng là tương đương thực dụng, có điều Quang Minh trận doanh vinh dự -100, để Vương Vũ có chút đau lòng.
+ 
+ 	Quang Minh trận doanh cũng là cùng Vương Vũ cọc lên, tự Vương Vũ chơi game tới nay, Quang Minh trận doanh vinh dự độ sẽ không có số dương qua mấy ngày.
+ 
+ 	Ngẫm lại cũng là, Vương Vũ sáng tạo thiên sứ chi dực vật liệu có thể đều lai lịch bất phàm, thiên sứ chi dực là ở thần chi con rối trên người kéo hạ xuống, thần thánh lông chim không chắc là từ cái kia thần linh trên người rút, coi như là sáng tạo bảo thạch, vậy cũng là quang minh Giáo Hội không thể chịu đựng, bởi vì quang minh Giáo Hội chỉ cho phép bọn họ thần sáng tạo tất cả.
+ 
+ 	Ba loại vật liệu, mọi thứ là cùng quang minh Giáo Hội đối nghịch, nếu như này còn không hàng vinh dự trị, đó mới gọi không còn gì để nói đây. Đương nhiên, đối với quang minh Giáo Hội vinh dự độ giảm xuống, Vương Vũ vẫn là không để ở trong lòng, dù sao Vương Vũ là trung lập trận doanh, thuộc về ai cũng không dám trêu chọc tồn tại, Quang Minh trận doanh hiện nay đang cùng hắc ám trận doanh đối lập, đi trêu chọc trung lập trận doanh cái này kiếp mã mới là không hiểu chuyện đây.
+ 
+ 	"Lão Ngưu, Thần khí thuộc tính phát tới nhìn một cái a." Đang lúc này, Toàn Chân giáo hành hội kênh lại náo nhiệt lên, nói thật, mặc dù là bọn họ cũng còn chưa từng thấy chân chính truyền kỳ trang bị.
+ 
+ 	Vương Vũ trên người kỳ thực cũng có một cái truyền kỳ nhẫn, có điều đồ chơi kia thuộc về hàng nhái dỏm, không đáng nhắc tới.
+ 
+ 	Vương Vũ cũng không phải loại kia giấu giấu diếm diếm người, tiện tay liền đem thiên sứ chi dực thuộc tính phát đến trong đám.
+ 
+ 	Thiên sứ chi dực (áo choàng)(truyền kỳ)
+ 
+ 	Vật phòng: 500-500
+ 
+ 	Ma ngự: 500-500
+ 
+ 	HP+1500
+ 
+ 	MP+1500
+ 
+ 	Nhanh nhẹn +50
+ 
+ 	Thể chất +50
+ 
+ 	Sức mạnh +50
+ 
+ 	Hiểu ý một đòn suất +30%
+ 
+ 	Quang minh chi dực: Skill bị động, trang bị thiên sứ chi dực player có thể trên không phi hành, tốc độ di động +310%, mở ra phi hành hình thức mỗi giây tiêu hao MP200 điểm. Hiện nay trạng thái: Đóng
+ 
+ 	Quang minh chúc phúc: Skill bị động, may mắn thuộc tính tăng lên 10%.
+ 
+ 	Quang minh bảo vệ: Skill bị động, chịu đến trí mạng công kích 30% tỷ lệ đem thương tổn chuyển hóa thành trị liệu.
+ 
+ 	Quang minh cầu khẩn: Skill bị động, 500 trong phạm vi đội hữu HP hạn mức tối đa tăng lên 10%
+ 
+ 	Quang minh liệt diễm: Skill bị động, 500 trong phạm vi không phải hữu phương mục tiêu mỗi giây chịu đến 1%HP hạn mức tối đa chân thực thương tổn. Hiện nay trạng thái: Đóng
+ 
+ 	Quang minh xung kích: Active skill, từ chỗ cao cực tốc lao xuống công kích, mang theo quang minh cơn lốc mục tiêu công kích, lao xuống thời gian càng dài, thương tổn hiệu quả vượt rõ ràng.
+ 
+ 	Item giới thiệu: Làm Quang Minh thần trung thành nhất người hầu thiên sứ sức mạnh tượng trưng, thiên sứ chi dực có không gì sánh kịp sức mạnh cùng chí cao vinh quang, chỉ có trung với thần người mới xứng hưởng thần ban cho vinh quang, ngoài ra, đều vì dơ bẩn nhục thần giả.
+ 
+ 	Nhu cầu nghề nghiệp: Thông dụng
+ 
+ 	Nhu cầu đẳng cấp: 50
+ 
+ 	Đặc hữu skill: Vĩnh viễn thiên quốc, active skill, dáng vóc tiều tụy tín ngưỡng giả có thể mượn dùng Quang Minh thần sức mạnh tinh chế 500 trong phạm vi hết thảy mục tiêu.
+ 
+ 	"Này truyền kỳ trang bị thật giống cũng không thế nào nhỏ a." Nhìn thấy thiên sứ chi dực thuộc tính, mọi người trong lòng có chút thất vọng.
+ 
+ 	Kỳ thực thiên sứ chi dực chủ thuộc tính tất cả đều là giá trị cao nhất, vẫn là rất xứng đáng truyền kỳ trang bị cấp độ, sở dĩ để mọi người thất vọng, hoàn toàn là bởi vì nó phụ gia thuộc tính.
+ 
+ 	Thiên sứ chi dực tổng cộng sáu cái phụ gia thuộc tính, thế nhưng chỉ có quang minh chi dực thuộc tính vẫn tính là khá là thực dụng ngoại, hắn mấy cái trên căn bản đều là vô bổ, thậm chí cũng không bằng Bao Tam cùng Doãn lão nhị hai cái sử thi trang bị.
+ 
+ 	Quang minh xung kích liền không cần phải nói, một không phải chỉ về tính skill, phải trên không lao xuống mới có thể hoàn thành. . . Này nói dễ dàng, thật muốn là bắt tay vào làm, phỏng chừng cũng chỉ có chuyên nghiệp chiến đấu cơ người điều khiển mới có thể chơi xuất thần nhập hóa.
+ 
+ 	Mấy cái khác skill càng là rác rưởi, vốn là kỵ sĩ nghề nghiệp cái kia mấy cái vầng sáng kỹ có thể cải tiến bản, không có một chút nào sáng tạo.
+ 
+ 	Nếu là ở một cái phổ thông trang bị trên xuất hiện cũng là thôi, xuất hiện ở truyền kỳ trang bị trên, thật sự có thật giả lẫn lộn chi hiềm.
+ 
+ 	Vương Vũ nhưng rất lạc quan: "Vẫn tính có thể chứ, dù sao cũng là player sáng tạo Thần khí, thuộc tính có thể mạnh bao nhiêu."
+ 
+ 	"Cũng đúng!" Mọi người nghe vậy gật đầu liên tục.
+ 
+ 	Player lại không phải Sáng Thế Thần, càng không phải hệ thống, có thể chế tạo ra Thần khí cũng đã là hành vi nghịch thiên, Thần khí thuộc tính nếu như lại nghịch thiên, game cân bằng còn không được bị phá hỏng đi.
+ 
+ 	Hơn nữa áo choàng là mấy lần chương mới sau mới xuất hiện hoàn toàn mới trang bị lan, hiện nay player tuyệt đại đa số đều còn chưa từng thấy cái này vị trí trang bị, vì lẽ đó Vương Vũ cái này thiên sứ chi dực hoàn toàn xem như là thêm ra đến trang bị, có thể phụ gia nhiều như vậy chủ thuộc tính, không thể lại quá nhiều đòi hỏi.
+ 
+ 	Thiên sứ chi dực level 50 mới có thể trang bị, Vương Vũ bây giờ đẳng cấp là 4 level 7, có item này, Vương Vũ luyện cấp động lực xem như là tăng lên rất nhiều.
+ 
+ 	Có điều player level 40 sau đó, thăng cấp kinh nghiệm nhiều đáng sợ, Vương Vũ loại này có thể vượt level 20 đan xoạt cao thủ, thăng cấp cũng là vô cùng chậm rãi.
+ 
+ 	Luyện cấp sinh hoạt là vô cùng khô khan, Vương Vũ loại này không ai có thể với hắn đồng thời xoạt quái cao thủ càng là như vậy, năm ngày cuồng xoạt hạ xuống, Vương Vũ không biết giết bao nhiêu quái, cuối cùng nhìn thấy quái vật quả thực muốn ói ra, cuối cùng Vương Vũ ở lên tới 49 cấp sau, đình chỉ loại này không ngừng nghỉ lặp lại mà chuyện nhàm chán. . .
+ 
+ 	Hết cách rồi, nếu là đối thủ mạnh mẽ Vương Vũ hay là còn có thể kiên trì, thiên thiên đối phó những này ngu đột xuất não tàn số liệu, Vương Vũ có thể một người liên tục kiên trì năm ngày, cũng được cho là nghị lực kinh người.
+ 
+ 	"Có hay không cái gì BOSS cùng nhiệm vụ a, ta sắp chết rồi, các ngươi đi nhạ điểm sự a."
+ 
+ 	Mấy ngày nay Toàn Chân giáo đám kia khốn nạn cũng là lạ kỳ yên tĩnh, không có đi chiêu mèo đậu chó, cũng không có bị người ấn lại đánh, cái này cũng là Vương Vũ tẻ nhạt nguyên nhân.
+ 
+ 	Vương Vũ tẻ nhạt đến xúi giục người khác đi gây sự, đại gia cũng cơ bản xác định Vương Vũ tẻ nhạt trình độ, liền trả lời: "Lão Ngưu gần nhất đều không thấy quan võng à?"
+ 
+ 	Vương Vũ nói: "Vẫn ở cô độc luyện cấp dưới bản, vô tâm quan tâm hắn."
+ 
+ 	"Khà khà!" Xuân Tường nói: "Lập tức liền muốn mở hoạt di chuyển, có người nói lần này hoạt động không chỉ có kinh nghiệm mười phần, còn có thể hối đoái đặc thù trang bị áo choàng nha."
+ 
+ 	"Áo choàng?" Vương Vũ nhìn một chút trong bao thiên sứ chi dực nói: "Ta này áo choàng vừa mới tới tay mấy ngày a, hệ thống liền bắt đầu làm đại biếu tặng hoạt động."
+ 
+ 	"Ngươi vẫn là tuổi trẻ a" Vô Kỵ cười nói: "Vì game cân bằng tính, công ty game nhất định phải làm như thế."
+ 
+ 	Cân bằng tính ở game online bên trong là một loại vật rất trọng yếu, một khi game mất đi cân bằng, sẽ mất đi lượng lớn player, vì lẽ đó không thể ra một cái vật độc nhất vô nhị.
+ 
+ 	Trước đây áo choàng trang bị thuộc về bán mở ra, đại gia đều không có, thì sẽ không có cân bằng kém, hiện tại Vương Vũ có áo choàng, những game thủ khác không có, vậy thì thuộc về ảnh hưởng cân bằng hành vi, hệ thống đương nhiên phải tính chất tượng trưng sống động động để đền bù player tâm thái.
+ 
+ 	Chạy đi áo choàng loại này thường quy trang bị không nói chuyện, mặc dù là trong truyền thuyết độc nhất vô nhị Thần khí, nếu như có cái kia player chân chính nắm giữ một cái hoàn chỉnh Thần khí, hệ thống khẳng định cũng sẽ mở ra cái gì "Thần khí hệ thống" đến cho player trông mơ giải khát, đây chính là động tác võ thuật.
+ 
+ 	PS: Lão phu đây là công ngay ngắn chỉnh hai ngàn chương tiết, cái này gọi là thợ rèn tinh thần, sau đó xin mọi người không nên nhắc lại ngắn nhỏ việc, không phải vậy đại gia thật sự cho rằng lão phu ngắn nhỏ.
+ 
+ 	Xin nhớ quyển sách thủ phát vực tên: . Điểu thư võng điện thoại di động bản xem link:

@@ -1,0 +1,125 @@
+Chương 344: Mộ quang Giáo Hoàng Harold
+ 
+ 	← võng du chi ta là võ học gia →
+ 
+ 	Nhìn Toàn Chân mọi người ở nơi đó chuyện trò vui vẻ, Tiểu Nhất lúc này rốt cuộc để ý giải huyết sắc trường thành bọn họ tiến vào phó bản trước nói câu nói kia, nguyên lai bọn họ thật sự không phải lại khiêm tốn. . .
+ 
+ 	Để Tiểu Nhất không hiểu chính là, như vậy một đám biến thái, tại sao chiến đội bảng trên bừa bãi Vô Danh đây?
+ 
+ 	Khả năng những cao thủ này không màng danh lợi đi. . . Tiểu Nhất lập tức liền đem Toàn Chân giáo người nghĩ tới sâu sắc.
+ 
+ 	Tà dương thần điện tầng thứ hai ngoại trừ sơn động bên ngoài, phía dưới cùng bố cục cùng tầng thứ nhất không có gì khác biệt, chỉ có điều tầng thứ nhất quái vật là phát động hình, tầng thứ hai quái vật nhưng là quân lính tản mạn.
+ 
+ 	Bị cáo chế mộ quang tín đồ (LV45)(tinh anh)
+ 
+ 	HP: 100000
+ 
+ 	MP: 50000
+ 
+ 	Skill: Mộ quang chi hỏa, năng lượng gia trì.
+ 
+ 	Mộ quang thủ vệ con rối (LV45)(tinh anh)
+ 
+ 	HP: 150000
+ 
+ 	MP: 10000
+ 
+ 	Skill: Xung phong, thuẫn kích.
+ 
+ 	Sa đọa mộ quang xạ thủ (LV45)(tinh anh)
+ 
+ 	HP:80000
+ 
+ 	MP: 10000
+ 
+ 	Skill: Đa trọng xạ kích, trí tàn tiễn.
+ 
+ 	Ba loại quái vật là tiêu chuẩn chiến cung mục tổ hợp, mộ quang tín đồ là pháp sư hệ quái vật, mộ quang chi hỏa phát ra rất cao, năng lượng gia trì là trị liệu skill.
+ 
+ 	Mộ quang thủ vệ là tank, có thể xung phong còn (trả lại) có thể thuẫn kích, khống tràng năng lực cùng năng lực phòng ngự cường.
+ 
+ 	Mộ quang xạ thủ là chủ yếu phát ra, trí tàn tiễn là một có thể giảm tốc độ nhuyễn khống chế skill.
+ 
+ 	Những quái vật này ba cái một tổ, lung tung không có mục đích du tán ở toàn bộ trong đại điện.
+ 
+ 	Gợi ý của hệ thống: Ngươi vị trí đoàn đội kích hoạt rồi phó bản nhiệm vụ "Giải thoát", đánh giết cảnh tượng bên trong hết thảy quái vật. Quest thưởng: Hoàn thành độ 15%
+ 
+ 	Bối cảnh giới thiệu: Tà ác sức mạnh đã khống chế mộ quang chi thần tín đồ, đồng thời nô dịch linh hồn của bọn họ, hi vọng có một ngày có thể có người trợ giúp bọn họ giải thoát.
+ 
+ 	Tuy rằng những quái vật này tổ hợp xem ra rất khó đối phó, có điều đối lập với tầng thứ nhất giáp trùng liên hoàn lôi, những này quân lính tản mạn muốn dễ đối phó nhiều lắm.
+ 
+ 	Quái vật tổ hợp như thế nào đi nữa đầy đủ hết, chung quy là một bộ số liệu, ở có tuyệt đối số lượng cùng thông minh áp chế, hơn nữa đồng dạng phối hợp đầy đủ hết player trước mặt, bọn họ chiếm không tới chút nào ưu thế.
+ 
+ 	Huống hồ Vương Vũ bọn họ vũ khí trong tay đều có này mộ quang chi thần chúc phúc, đối những quái vật này có không tầm thường công kích bổ trợ, trên căn bản hai cái hiệp mọi người liền có thể tiêu diệt một tổ quái vật.
+ 
+ 	Không nhiều lắm biết, mọi người liền giết tới thần điện phần cuối.
+ 
+ 	Thần điện phần cuối là một to lớn vương tọa, trên vương tọa ngồi một pháp bào màu đỏ ông lão.
+ 
+ 	Điên cuồng mộ quang Giáo Hoàng, Harold (LV? ? ? )(hoàng kim BOSS)(tinh anh)
+ 
+ 	HP: 800000
+ 
+ 	MP: 500000
+ 
+ 	Skill: Huyết sắc kết giới, mộ quang thẩm phán, mộ quang chi kiếm, nô dịch tế hiến.
+ 
+ 	Bối cảnh giới thiệu: Từ từ hòa bình sinh hoạt để danh lợi hòa tan mọi người tín ngưỡng, thất lạc Harold mang theo các giáo đồ rời đi thương tâm địa, hắn vẫn cho là là hòa bình khiến mọi người thiếu hụt đối thần tôn trọng, liền rơi vào tà thần cái tròng, bị mê hoặc trở thành nô lệ.
+ 
+ 	Nhìn thấy Harold bối cảnh giới thiệu, mọi người thầm nói: "Này lão thần côn hóa ra là cái bị tín ngưỡng làm choáng váng đầu óc cực đoan chủ nghĩa giả. . ."
+ 
+ 	Lúc này Harold đầu tên gọi cùng giới thiệu đều là màu xanh lục, màu xanh lục đại biểu chính là không thể công kích NPC, đến cần quá nội dung vở kịch kích hoạt mới được.
+ 
+ 	Vô Kỵ chỉ huy đại gia đem cuối cùng một tổ quái vật tiêu diệt sau, Harold lúc này mới chậm rãi tỉnh lại.
+ 
+ 	"Các ngươi tại sao phải làm như vậy?"
+ 
+ 	Harold sau khi tỉnh lại, bỗng nhiên đứng dậy, uy nghiêm cực kỳ hỏi, có điều vấn đề này vô cùng đột ngột, để mọi người có chút không sờ tới đầu óc.
+ 
+ 	Cũng còn tốt Vương Vũ bọn họ trả lời cũng vô cùng mạnh mẽ: "Vì làm nhiệm vụ. . ."
+ 
+ 	"Hừ, ngu xuẩn mà không có tín ngưỡng gia hỏa, chúng ta đã rời đi toà kia dơ bẩn thành thị, các ngươi còn muốn đuổi tận giết tuyệt à?"
+ 
+ 	Vô Kỵ dao động nói: "Là các ngươi thần, để cho ta tới giải thoát ngươi."
+ 
+ 	"Thần?" Harold hơi sững sờ, lập tức điên cuồng cười nói: "Ha ha ha, thần đã sớm đem chúng ta vứt bỏ, đều là bởi vì các ngươi những này không có tín ngưỡng người. . . Chịu đựng đến từ thần lửa giận đi."
+ 
+ 	Harold hét lớn một tiếng, trên đầu đồ tiêu đột nhiên biến thành màu đỏ, đồng thời vung tay lên, một màu đỏ sậm kết giới đem toàn bộ đoàn đội cho vây quanh ở bên trong.
+ 
+ 	Màu đỏ sậm kết giới cùng thuật sĩ ám hắc kết giới đại khái giống nhau, đều là dùng kết giới vây nhốt kẻ địch, chỗ bất đồng chính là Harold kết giới chỉ có thể làm mệt mỏi, không thể định thân, hơn nữa Harold đẳng cấp tương đối cao, kết giới không có trước trí đọc điều, là thuấn phát, vì lẽ đó Harold ở đột nhiên ra tay tình huống không ai né tránh.
+ 
+ 	Tinh anh BOSS quả nhiên nham hiểm, chính trò chuyện ni đột nhiên ra tay, một điểm đạo đức nghề nghiệp đều không có.
+ 
+ 	"Tiếp thu thẩm phán đi!" Harold cao hống một tiếng, trong tay niệm châu không ngừng chuyển động, ở Vương Vũ mọi người ngay phía trên, xuất hiện một năng lượng màu đỏ sậm cầu, hơn nữa cái này quả cầu năng lượng ở Harold gia trì dưới, càng lúc càng lớn, càng ngày càng thấp.
+ 
+ 	"Mịe, kỹ năng này thực sự là quá lại." Mọi người dồn dập mắng.
+ 
+ 	Đem kẻ địch vi ở một vòng bên trong, sau đó đi vào trong vứt phạm vi phép thuật, kẻ địch né tránh năng lực ở cao, ở tuyệt đối hỏa lực bao trùm dưới cũng khó thoát khỏi cái chết.
+ 
+ 	Đương nhiên mọi việc đều có ngoại lệ, Vương Vũ cùng Minh Đô hai người đều sẽ teleport skill, trực tiếp nhảy ra kết giới ngoại.
+ 
+ 	Xuân Tường nhìn thấy hai người chạy ra, vội vàng hướng Vương Vũ hai người hô: "Ngăn cản ba giây, ta có biện pháp!"
+ 
+ 	"Được." Vương Vũ gật gật đầu, mở ra băng quyền liền nhằm phía Harold.
+ 
+ 	Harold thấy Vương Vũ vọt tới, trong tay hồng quang lóe lên, không có trảo niệm châu tay phải rút ra một cái trường kiếm màu đỏ ngòm, quay về Vương Vũ vung kiếm liền chặt.
+ 
+ 	"A? Lão thần côn vẫn là ma vũ song tu đây?" Vương Vũ hơi kinh hãi, nghiêng người tránh thoát Harold trường kiếm, một cước đá chéo đá vào Harold trên mặt.
+ 
+ 	Harold bị đá ra lơ lửng giữa trời trạng thái, tuy rằng chỉ có ngăn ngắn trong nháy mắt, nhưng cũng đầy đủ.
+ 
+ 	Bởi skill bị cắt đứt, mất đi gia trì "Thẩm phán năng lượng" đình chỉ tăng trưởng, cũng rơi xuống.
+ 
+ 	Kết giới bên trong mọi người trời vừa sáng liền chạy đến kết giới biên giới, tránh thoát thẩm phán năng lượng công kích, Xuân Tường phép thuật chuẩn bị xong xuôi, không tay trái bốc lên một đoàn túc cầu to nhỏ bạch quang, chậm rãi bay tới huyết sắc kết giới trên, huyết sắc kết giới một cơn chấn động, bị dung ra một lỗ hổng.
+ 
+ 	Đại hiền giả skill —— thánh ngôn, có thể loại bỏ tất cả kết giới loại phép thuật, làm lạnh thời gian 50 giây, thi pháp trước trí 3 giây, tiêu hao MP300.
+ 
+ 	Loại này bị người bắt ba ba trong rọ cảm giác, hiển nhiên không thể nào dễ chịu, Xuân Tường mở ra chỗ hổng sau, mọi người dồn dập ở bên trong trốn thoát, sau đó nổi giận đùng đùng dừng lại trận hình, đối Harold khởi xướng công kích.
+ 
+ 	Vốn là mà, Harold võ kỹ không kiểu gì, thẩm phán chi kiếm nhưng là tương đương hung hăng, mỗi một kích đều có thể phát ra kiếm khí công kích, kiếm khí nhằng nhịt khắp nơi, không chút nào cho Vương Vũ cắt vào cơ hội.
+ 
+ 	Vương Vũ không cam lòng yếu thế đem vũ khí cắt đổi thành Càn Khôn đao dao găm trạng thái, sau đó cầm trong tay vỏ đao hướng về trước ném đi, nện ở Harold trên mặt, Harold thẩm phán chi kiếm dừng lại một chút, Vương Vũ xông tới cầm lấy dao liền hướng Harold trên bụng đâm.
+ 
+ 	Thế nhưng vừa lúc đó, những người khác tấn công từ xa cũng bay đến Harold trước người.
+ 
+ 	Harold thấy thế, trong tay niệm châu nhất chuyển, huyết sắc hồng quang bọc lại chính mình.

@@ -1,4 +1,4 @@
- Keng!
+Keng!
 
 Hàn quang lóe lên, người mặc áo tơi ngồi ngoài cửa đã xuất thủ!
 
@@ -293,7 +293,7 @@ Truy Mệnh gầm lên một tiếng, song cước dậm mạnh, cả người b
 Nữ tử kia đã tận lực, kêu lên một tiếng kinh hãi, cả người ngả vào lòng chàng. Cùng lúc đó, thanh y nữ tỳ và hai kiệu phu rút vũ khí cũng xông lên chặn lấy Ngô Thiết Dực.
 
 --------------------------------
-1	Sự đời như một giấc mộng lớn, nhân sinh được mấy bận sầu.  Keng!
+1	Sự đời như một giấc mộng lớn, nhân sinh được mấy bận sầu.Keng!
 
 Hàn quang lóe lên, người mặc áo tơi ngồi ngoài cửa đã xuất thủ!
 
@@ -588,4 +588,4 @@ Truy Mệnh gầm lên một tiếng, song cước dậm mạnh, cả người b
 Nữ tử kia đã tận lực, kêu lên một tiếng kinh hãi, cả người ngả vào lòng chàng. Cùng lúc đó, thanh y nữ tỳ và hai kiệu phu rút vũ khí cũng xông lên chặn lấy Ngô Thiết Dực.
 
 --------------------------------
-1	Sự đời như một giấc mộng lớn, nhân sinh được mấy bận sầu. 
+1	Sự đời như một giấc mộng lớn, nhân sinh được mấy bận sầu.

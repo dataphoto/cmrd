@@ -1,4 +1,4 @@
- 1.
+1.
 
 
 
@@ -272,7 +272,7 @@ Bên phía Thiết Thủ vẫn bất động.
 
 Không động thì thôi, hễ động là phán định sinh tử.
 
-Hai trận chiến, một tĩnh một động hoàn toàn không giống nhau, nhưng về mức độ hung hiểm thì tuyệt đối không hơn kém.  1.
+Hai trận chiến, một tĩnh một động hoàn toàn không giống nhau, nhưng về mức độ hung hiểm thì tuyệt đối không hơn kém.1.
 
 
 
@@ -546,4 +546,4 @@ Bên phía Thiết Thủ vẫn bất động.
 
 Không động thì thôi, hễ động là phán định sinh tử.
 
-Hai trận chiến, một tĩnh một động hoàn toàn không giống nhau, nhưng về mức độ hung hiểm thì tuyệt đối không hơn kém. 
+Hai trận chiến, một tĩnh một động hoàn toàn không giống nhau, nhưng về mức độ hung hiểm thì tuyệt đối không hơn kém.

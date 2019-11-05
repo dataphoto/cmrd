@@ -1,4 +1,4 @@
- Khi Lãnh Huyết quay đầu lại, chàng nhìn thấy Tập Mai Hồng ló lên.
+Khi Lãnh Huyết quay đầu lại, chàng nhìn thấy Tập Mai Hồng ló lên.
 
 Trong sát na đó, người kia đã vọt qua Lãnh Huyết, đối diện với nàng.
 
@@ -342,7 +342,7 @@ Lãnh Huyết lạnh lùng đáp:
 
 Tập Mai Hồng và Tập Thu Nhai cùng nhảy dựng lên:
 
-"Đi! Chúng ta lập tức đi!".  Khi Lãnh Huyết quay đầu lại, chàng nhìn thấy Tập Mai Hồng ló lên.
+"Đi! Chúng ta lập tức đi!".Khi Lãnh Huyết quay đầu lại, chàng nhìn thấy Tập Mai Hồng ló lên.
 
 Trong sát na đó, người kia đã vọt qua Lãnh Huyết, đối diện với nàng.
 
@@ -686,4 +686,4 @@ Lãnh Huyết lạnh lùng đáp:
 
 Tập Mai Hồng và Tập Thu Nhai cùng nhảy dựng lên:
 
-"Đi! Chúng ta lập tức đi!". 
+"Đi! Chúng ta lập tức đi!".

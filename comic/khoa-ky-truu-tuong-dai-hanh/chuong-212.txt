@@ -1,0 +1,267 @@
+Converter Dzung Kiều cầu phiếu và bình chọn * cao giúp mình 
+
+	Toàn bộ hệ thống màn hình biến hóa nhiều vô cùng.
+
+	Trước kia chỉ có một trang bìa, bây giờ biến thành hai cái phân trang.
+
+	Cái đầu tiên phân trang tựa đề là 'Kí chủ', cái thứ hai phân trang tựa đề là 'Người đi theo' .
+
+	'Kí chủ' phân trang chính là lúc đầu màn hình, cơ bản không có thay đổi gì, vẫn là màu xanh nhạt màn hình.
+
+	Giang Viễn mở ra 'Người đi theo' phân trang, màn hình là màu trắng.
+
+	----------------
+
+	Người đi theo: Không. (0/1)
+
+	Người đi theo kỹ năng: Không trung.
+
+	Người đi theo đạo cụ: Không trung.
+
+	----------------
+
+	Giang Viễn suy nghĩ một chút, quyết định thử trước một chút công mới có thể:
+
+	"Hệ thống, ta muốn tiến hành hệ thống con quay số."
+
+	"Kí chủ phát hiện có điểm tích lũy 98 phút, mỗi lần hệ thống con quay số tiêu hao 5 phút, kí chủ phải chăng chắc chắn tiến hành hệ thống con quay số?"
+
+	"Chắc chắn."
+
+	"Kí chủ lấy được được kỹ năng mới: Học phách thời khắc (người đi theo)."
+
+	"Học phách thời khắc (người đi theo): BUFF loại kỹ năng. Nâng cao trí khôn 20%, nâng cao trí nhớ 20%, nâng cao thần kinh tốc độ phản ứng 20%. Kéo dài thời gian: 2 giờ. Thời gian nguội xuống: Mỗi ngày 0 điểm."
+
+	Giang Viễn thấy kỹ năng này không khỏi ánh mắt đông lại một cái.
+
+	Cái này người đi theo học phách thời khắc theo mình học phách thời khắc quá tương tự!
+
+	Dựa theo hệ thống giải thích, mình có thể đem kỹ năng này làm tưởng thưởng nhiệm vụ gởi cho người đi theo.
+
+	Một cái ý niệm không tự chủ được từ Giang Viễn đáy lòng toát ra:
+
+	Ta hệ thống, có phải hay không một cái cao cấp hơn mẫu hệ thống hệ thống con?
+
+	Nếu quả là như vậy, ta có phải hay không nào đó một nhân loại người đi theo?
+
+	Ừ, từ trước mắt xem ra, cái ý nghĩ này không quá thực tế.
+
+	Bởi vì tự ta chính là cái thế giới này lên nhất người không bình thường loại.
+
+	Như vậy khả năng lớn nhất là, ta là cái thế giới này duy nhất kí chủ, mẫu hệ thống kí chủ là tới từ ngoài ra song song thế giới loài người, hoặc là một cái ta không cách nào tưởng tượng tồn tại.
+
+	Nếu như là như vầy mà nói, như vậy, ta có thể hay không có cơ hội bắt được ta cái hệ thống này mẫu hệ thống?
+
+	Mẫu hệ thống có hay không nó mẫu hệ thống?
+
+	Lúc ban đầu mẫu hệ thống rốt cuộc là cái gì?
+
+	Suy tư một hồi, Giang Viễn không khỏi hoài nghi.
+
+	Ta tại sao phải đạt được cái hệ thống này, thật sự là vận cứt chó sao?
+
+	Vẫn bị một cái cao cấp tích trữ đang chọn kết quả?
+
+	Ngoài ra, ta lấy được phần thưởng thật sự là ngẫu nhiên?
+
+	. . . Hay là là mẫu hệ thống kí chủ cố ý gởi?
+
+	Giang Viễn trầm mặc một hồi, gì cũng không hỏi.
+
+	Đối mặt một cái so mình cao cấp hơn không biết tồn tại, an tĩnh một chút không có chỗ xấu.
+
+	"Tiếp tục tiến hành hệ thống con quay số."
+
+	"Kí chủ phát hiện có điểm tích lũy 9 3 phút, mỗi lần hệ thống con quay số tiêu hao 5 phút, kí chủ phải chăng chắc chắn tiến hành hệ thống con quay số?"
+
+	"Chắc chắn."
+
+	"Kí chủ lấy được được mới đạo cụ: Lớn tuổi dùng sức khỏe dược tề (người đi theo)."
+
+	"Lớn tuổi dùng sức khỏe dược tề (người đi theo): 40 tuổi trở lên loài người bình thường người đi theo sử dụng sau đó, thân thể già yếu trình độ ở 7 ngày bên trong giảm thiếu 10-15 năm, đồng thời cực lớn trình độ khống chế phần lớn tật bệnh (gien, huyết dịch, bên trong bài tiết, tim, óc cùng tương quan tật bệnh) phát triển và thống khổ. Dược tề hữu hiệu thời gian: 90 ngày."
+
+	Trời ạ!
+
+	Còn có như thế khoa trương đồ!
+
+	Giang Viễn kinh ngạc, đồ chơi này nhìn như rất không khoa học:
+
+	"Viêm khớp xương có thể không có thể khống chế? Người đi theo sử dụng sau còn có thể cảm thấy đau khớp xương sao?"
+
+	"Có thể khống chế tất cả viêm khớp xương. Sử dụng sau người đi theo đem thoát khỏi phần lớn bệnh đau thống khổ, cơ bản giống như người khỏe mạnh như nhau."
+
+	Giang Viễn nghe được cái này, phản ứng đầu tiên chính là đem mẫu thân thu được người đi theo, sau đó cho nàng phát cho sức khỏe dược tề.
+
+	Theo rất nhiều cụ già như nhau, Diêu Thúy Hà viêm khớp xương đến một cái mưa dầm liên miên liền đứt quãng phát tác, đặc biệt thống khổ.
+
+	Giang Viễn ổn định một chút tâm thần, hỏi tiếp:
+
+	"Hệ thống, chính ta có thể hay không sử dụng?"
+
+	"Kí chủ không thể sử dụng người đi theo đạo cụ."
+
+	"Ta có thể hay không dùng tố bản truy đuổi nguyên nghịch hướng cái này đạo cụ?"
+
+	"Có thể. Nghịch hướng 'Lớn tuổi dùng sức khỏe dược tề (người đi theo)' cần cấp 3 tố bản truy đuổi nguyên."
+
+	Cấp 3 tố bản truy đuổi nguyên?
+
+	Giang Viễn chỉ có học phách thời khắc kỹ năng lên tới cấp 2, những kỹ năng khác còn không sờ tới thăng cấp đầu mối.
+
+	Nói cách khác, tạm thời không có hy vọng.
+
+	Giang Viễn quyết định thật tốt cất giữ cái này trân quý đạo cụ, thành tựu sau này nghịch hướng vật liệu.
+
+	"Hệ thống, tiếp tục tiến hành hệ thống con quay số."
+
+	"Kí chủ phát hiện có điểm tích lũy 88 phút, mỗi lần hệ thống con quay số tiêu hao 5 phút, kí chủ phải chăng chắc chắn tiến hành hệ thống con quay số?"
+
+	"Chắc chắn."
+
+	"Kí chủ lấy được được mới đạo cụ: Lớn tuổi dùng sức khỏe dược tề (người đi theo)."
+
+	Trùng hợp như vậy?
+
+	Nói xong trân quý đâu ?
+
+	Giang Viễn nhíu mày.
+
+	"Tiếp tục."
+
+	"Kí chủ lấy được được mới đạo cụ: Lớn tuổi dùng sức khỏe dược tề (người đi theo)."
+
+	Giang Viễn: ! ! !
+
+	"Tiếp tục."
+
+	"Kí chủ lấy được được mới đạo cụ: Lớn tuổi dùng sức khỏe dược tề (người đi theo)."
+
+	Giang Viễn: . . .
+
+	Liên tục lấy được được 5 bình lớn tuổi dùng sức khỏe dược tề sau đó, Giang Viễn rốt cuộc thu được một cái đồ mới:
+
+	"Kí chủ lấy được được: Người đi theo hạn mức tối đa +1."
+
+	Đây là người đi theo mặt bản cũng thay đổi.
+
+	----------------
+
+	Người đi theo: Không. (0/2)
+
+	Người đi theo kỹ năng: Học phách thời khắc (người đi theo, không phát cho).
+
+	Người đi theo đạo cụ: Lớn tuổi dùng sức khỏe dược tề (người đi theo, không phát cho)*5.
+
+	----------------
+
+	Giang Viễn cảm thấy tay mình khí cũng không tệ lắm, xem xem điểm tích lũy còn dư lại 6 3 phút, liền cho tiến hành một lần phổ thông quay số.
+
+	"Kí chủ lấy được được hệ thống thao tác source code: Windows 2055."
+
+	"Windows 2055: Năm 2055 Microsoft làm ra sản phẩm. Microsoft ở kế cận phá sản đang lúc khởi động này hạng mục, dốc toàn lực buông tha tất cả lịch sử bọc quần áo, viết lại liền tất cả tầng dưới chót mật mã. Windows2055 đặc biệt thành công, có thể ở hết thảy máy vi tính cá nhân, máy chủ, trí năng dụng cụ, khảm nhập thức lên vận hành, đồng thời có thể sử dụng tích hợp giả tưởng tầng mô phỏng vận hành phần lớn hệ thống thao tác (Window, IOS/XOS, Linux/Android), mặt thành phố sau hoàn toàn thay đổi Microsoft cục diện bất lợi."
+
+	Giang Viễn ánh mắt sáng lên.
+
+	Là đồ tốt!
+
+	Lại xem xem mật mã tính, 180 triệu được!
+
+	Cmn!
+
+	Đời này gõ tính, coi như để cho hắn dùng DT1 sao, cũng phải sao mấy tháng!
+
+	Hơn nữa sao đi ra cũng không dám dùng.
+
+	Giang Viễn trước khi kỹ thuật phần lớn đều là rất khó, nhưng tuyệt đối lượng công việc thật ra thì không tính là quá lớn.
+
+	Chỉ cần Giang Viễn đột phá khó khăn nhất bộ phận, tự nhiên có những người khác giải quyết chung quanh vấn đề.
+
+	Người chung quanh mặc dù kinh ngạc Giang Viễn thiên tài, nhưng coi như có thể tiếp nhận.
+
+	Bây giờ đây chính là một hoàn chỉnh hệ thống thao tác, ước chừng 180 triệu được mật mã!
+
+	Ngươi vậy một người ở trong vòng mấy tháng hoàn thành?
+
+	Đừng làm rộn!
+
+	Dĩ nhiên, nếu như do Giang Viễn dẫn đội mở rộng, hắn làm nguyên vẹn mà tỉ mỉ khung thiết kế, Giang Viễn có lòng tin có thể mang 2000 người tả hữu cao cấp lập trình viên đoàn đội, trong vòng một năm mở phát xong.
+
+	Tập đoàn Thâm Tư có 2000 người cao cấp lập trình viên đoàn đội sao?
+
+	Tập đoàn Thâm Tư không có.
+
+	Cho nên, đồ chơi này vẫn là tạm thời để ở một bên đi.
+
+	Hơn nữa, hắn nếu là khởi động hệ thống thao tác hạng mục, Microsoft sẽ nghĩ như thế nào?
+
+	Thâm Tư theo Microsoft hợp tác một mực coi như vui vẻ, lần này DT1 tuyên bố, Nadella cũng không có làm xảy ra cái gì yêu con bướm.
+
+	Giang Viễn quyết định tạm thời thả hắn một lần.
+
+	"Hệ thống, ta muốn tuyên bố hệ thống con."
+
+	"Kí chủ mời chỉ định thí sinh."
+
+	"Tim Cook, Apple tiền nhậm CEO."
+
+	Giang Viễn không chút do dự liền đem Cook coi thành cái đầu tiên vật thí nghiệm.
+
+	Đầu tiên, hắn không biết rõ người đi theo sẽ có những hạn chế, tìm một trước đối thủ làm thí nghiệm không có chướng ngại tâm lý.
+
+	Thứ nhì, Cook thật trở thành người đi theo, đem đặc biệt có lợi cho tập đoàn Thâm Tư hoàn toàn đánh sụp Apple, hoàn toàn chiếm đoạt đắt tiền tiêu xài điện tử thị trường.
+
+	Cái thế giới này, còn có ai có thể so sánh Cook càng rõ Apple nhược điểm?
+
+	Giang Viễn trong tầm mắt nhanh chóng xuất hiện 1 bản tấm ảnh.
+
+	Hệ thống dùng giọng điện tử thì thầm:
+
+	"Tim Cook, năm 1960 ngày 1 tháng 11 ra đời tại nước Mỹ bang Alabama, Apple tiền nhậm CEO, hiện không nghề nghiệp, số an sinh xã hội XXXXX. . . . Phải chăng xác nhận mục tiêu?"
+
+	"Xác nhận mục tiêu."
+
+	"Tim Cook đã thành là kí chủ người được đề cử."
+
+	"Kí chủ mời ở người đi theo kỹ năng phần bố cáo và người đi theo đạo cụ trong chuồng lựa chọn tân thủ túi quà. Nhắc nhở: Tân thủ túi quà đem có lợi cho thúc đẩy người đi theo tiếp nhận hệ thống con."
+
+	Ta sát!
+
+	Còn có tân thủ túi quà!
+
+	Ta tiếp nhận hệ thống lúc là có gì không ?
+
+	Giang Viễn tức tối không bình:
+
+	"Tân thủ túi quà là một chai lớn tuổi dùng sức khỏe dược tề."
+
+	"Chắc chắn. Kí chủ xin điền vào người đi theo người được đề cử tầm mắt nhắc nhở, tỷ như: Tim Cook, phải chăng tiếp nhận hệ thống?"
+
+	Còn có thể lựa chọn cái này?
+
+	Giang Viễn suy nghĩ một chút, ác thú vị thâu nhập một hàng chữ.
+
+	. . .
+
+	. . .
+
+	Cook đang lúc chuẩn bị ngủ, tầm mắt phía dưới đột nhiên toát ra một nhóm máu đỏ chữ to:
+
+	"Suy nghĩ ra sinh mạng ý nghĩa sao? Muốn chân chính. . . Còn sống sao?"
+
+	Ta DT1 bị tối?
+
+	Cook nghi ngờ đưa tay sờ hướng sống mũi.
+
+	Theo rất nhiều người như nhau, hắn vừa tiếp xúc với DT1, liền hoàn toàn bái phục ở nó mị lực dưới, Cook đã thành thói quen liền cả ngày cả ngày mang DT1.
+
+	Trên sống mũi trống rỗng.
+
+	Đúng rồi, ta tắm trước đã tháo xuống DT1.
+
+	Vậy làm sao trong tầm nhìn còn có chữ?
+
+	Cook đây là mới phản ứng được.
+
+	Nhìn trong tầm mắt máu đỏ chữ to, một hồi cảm giác rợn cả tóc gáy dâng lên.
+
+	Converter Dzung Kiều cầu ủng hộ bộ Diệu Thủ Hồi Thôn này nhé <a href="https://truyen.tangthuvien.vn/doc-truyen/dieu-thu-hoi-thon">https://truyen.tangthuvien.vn/doc-truyen/dieu-thu-hoi-thon</a>

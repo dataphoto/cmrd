@@ -1,0 +1,119 @@
+Chương 451: Quốc Phục Đệ Nhất MT
+ 
+ 	← võng du chi ta là võ học gia →
+ 
+ 	Trong game hết thảy đều là lợi ích vì là trên, ở kinh nghiệm cùng trang bị trước mặt, coi như là thế cừu, cũng có thể tạm thời được hòa hoãn.
+ 
+ 	Độc Cô Cửu Thương người toàn bộ vào đội sau, Vô Kỵ mở ra phó bản.
+ 
+ 	Gợi ý của hệ thống: Ngươi tiến vào phó bản "Tông đồ chi ấn", kim tệ -1.
+ 
+ 	Nhìn thấy gợi ý của hệ thống, Độc Cô Cửu Thương mọi người cực kỳ ước ao nhìn Vương Vũ một chút.
+ 
+ 	Mỗi người tiến vào một lần phó vốn sẽ phải dùng một kim tệ, 15 người đội ngũ, một phần trăm được lợi chính là 15 ngân, ba người phân, một lần chính là năm cái ngân tệ, cũng chính là năm khối tiền.
+ 
+ 	Hiện nay Quang Minh trận doanh level 30 đội ngũ thiếu nói lên được vạn cái, hơn nữa trận doanh vốn là một tuần bố trí lại một lần, như vậy tính toán, Vương Vũ một tuần lễ hạ xuống ít nhất liền có thể kiếm lời năm vạn khối, quả thực chính là ngồi lấy tiền.
+ 
+ 	Chẳng trách mở ra trận doanh bản nhiệm vụ như vậy hi hữu. . .
+ 
+ 	Tông đồ chi ấn là cái bối cảnh cố sự phó bản, đại thể ý tứ chính là ở lần thứ hai ám hắc giáng lâm thời gian, thứ sáu Tông đồ dẫn người tấn công Dư Huy Thành, ở tà dương cao nguyên cùng Dư Huy Thành quân đội giao chiến, Dư Huy Thành cổ thành khó thủ, trong thành các vị cấp độ sử thi BOSS(nghề nghiệp đạo sư) ra khỏi thành hợp lực đem phong ấn cố sự.
+ 
+ 	Mà player nhưng là cần đóng vai ngay lúc đó người phong ấn, một lần nữa đem thứ sáu Tông đồ đánh bại.
+ 
+ 	Tiến vào phó bản sau, cảnh tượng lập tức âm tối lại, trước mặt chúng nhân là một mảnh khói thuốc súng ngọn lửa chiến tranh, tựa hồ vừa trải qua một trận đại chiến dịch.
+ 
+ 	Gợi ý của hệ thống: "Thứ sáu Tông đồ quân đoàn đã bức tiến Dư Huy Thành, vì không để sinh linh đồ thán, các vị anh hùng, cầm lấy các ngươi vũ khí trong tay đẩy lùi bọn họ."
+ 
+ 	Gợi ý của hệ thống âm hạ xuống, cảnh tượng do chiến trường đã biến thành một hẻm núi.
+ 
+ 	Hạp cốc này Vương Vũ hết sức quen thuộc, chính là tà dương phong dưới chôn xương vị trí, chỉ có điều cảnh tượng so với phó bản ngoại cảnh tượng phải lớn hơn vài lần, hơn nữa hạp cốc này cũng không phải tử địa, ở hẻm núi tận cùng bên trong có một cái trực tiếp đi về trên đỉnh ngọn núi con đường.
+ 
+ 	Gợi ý của hệ thống: Ngươi nhận được phó bản nhiệm vụ "Bạch cốt chi thương", xuyên qua chôn xương vị trí, thu được bạch cốt trên tế đàn thứ sáu Tông đồ ma lực chi nguyên ám hắc chi tâm, chặn ám hắc ma lực khuếch tán.
+ 
+ 	Quest thưởng: Phó bản hoàn thành độ +20%.
+ 
+ 	Hiện nay phó bản tiến độ: 0 hoàn thành độ: 0
+ 
+ 	Gợi ý của hệ thống qua đi, trước mặt chúng nhân trong sơn cốc bắt đầu ra bên ngoài bò bộ xương, nơi này bộ xương cũng không phải bên ngoài loại kia bạch cốt, mà là đen thui toả sáng hắc cốt, nhìn qua vô cùng kiên cố dáng vẻ.
+ 
+ 	Hơn nữa bộ xương chiến sĩ ngoại trừ trong tay có đao bên ngoài, trợ thủ còn nhiều một mặt thuẫn, cuối cùng bài pháp sư mặt sau còn nhiều ra một ít bộ xương cung tiễn thủ.
+ 
+ 	Có điều cùng ứng đối, bộ xương số lượng cũng xa kém xa bản ngoại, to lớn thung lũng chỉ có không tới bách con quái vật thưa thớt phân tán đứng.
+ 
+ 	Bộ xương chiến sĩ (LV45)(tinh anh)
+ 
+ 	HP: 100000
+ 
+ 	MP: 2000
+ 
+ 	Skill: Tử vong vung chém, cốt thuẫn đón đỡ.
+ 
+ 	Bộ xương pháp sư (LV45)(tinh anh)
+ 
+ 	HP:50000
+ 
+ 	MP:50000
+ 
+ 	Skill: Minh hỏa thuật, hoảng sợ thuật
+ 
+ 	Bộ xương xạ thủ (LV45)(tinh anh)
+ 
+ 	HP: 40000
+ 
+ 	MP: 5000
+ 
+ 	Skill: Hấp huyết cốt tiễn, tinh chuẩn xạ kích.
+ 
+ 	Ở chính thức cho hệ thống trong thiết lập, trận doanh phó bản có người nói muốn so với phổ thông bản khó hơn không ít.
+ 
+ 	Điều này cũng không khó lý giải, tuy rằng trận doanh bản đẳng cấp chỉ có ác mộng đẳng cấp, thế nhưng player đối mặt chính là bối cảnh cố sự bên trong nổi danh đại BOSS, độ khó cao rất bình thường.
+ 
+ 	Nhưng là nơi này bộ xương thuộc tính, rõ ràng cho trận doanh phó bản bị mất mặt. . .
+ 
+ 	Level 30 sau player trang bị cùng skill tăng lên trên một cấp độ, hiện tại nấc thang thứ nhất player, đã có thể mở ra phổ thông bản Địa ngục cấp bậc.
+ 
+ 	Nơi này tiểu quái thuộc tính cùng Địa ngục bản quái vật thuộc tính so ra nhưng là kém xa tít tắp.
+ 
+ 	Tà dương bên trong thần điện yếu nhất tiểu quái, nếu so với những người này cường không ít.
+ 
+ 	Nhìn thấy này ba loại quái thuộc tính, Độc Cô Cửu Thương có chút khinh thường nói: "Những này quái thuộc tính cũng không ra sao mà. . . Còn (trả lại) trận doanh bản đây, ta thế nào cảm giác ta tiền bỏ phí."
+ 
+ 	Vô Kỵ trắng Độc Cô Cửu Thương một cái nói: "Ngươi ít nói nhảm, có bản lĩnh các ngươi đi trước thử xem!"
+ 
+ 	Độc Cô Cửu Thương cùng Vô Kỵ từ trước đến giờ không hợp nhau, bị Vô Kỵ một kích, lập tức không phục nói: "Ta đi chỉ ta đi, ai sợ ai a! Lôi Công, phía trước mở đường!"
+ 
+ 	"Lôi Công?"
+ 
+ 	Ngoại trừ đội trưởng Vô Kỵ ngoại, những người khác hơi sững sờ, cùng nhau nhìn về phía Độc Cô Cửu Thương phía sau cái kia tay cầm tấm khiên ngũ đại tam thô tráng hán.
+ 
+ 	Độc Cô Cửu Thương thoại mới vừa nói xong, cái kia ngũ đại tam thô thuẫn Chiến tướng thuẫn một lần liền đi ở phía trước, Độc Cô Cửu Thương cùng mấy người khác lập tức hèn mọn núp ở Lôi Công phía sau, dáng vẻ vô cùng khôi hài.
+ 
+ 	Nhìn thấy Độc Cô Cửu Thương mấy người dáng dấp, Vương Vũ nói đùa: "Ta rốt cuộc biết thuẫn chiến sĩ vì sao đều là như thế khối lớn, hóa ra là có thể nhiều hơn chút đón đỡ diện tích."
+ 
+ 	"Không sai!" Vô Kỵ gật đầu một cái nói: "Xem ra ngươi cũng có chút game thủ chuyên nghiệp tố nuôi."
+ 
+ 	Bất kể là toàn tức mô phỏng game vẫn là truyền thống kiện thử võng du, tank nghề nghiệp thân thể từ trước đến giờ đều là khá lớn, nguyên nhân cùng Vương Vũ nói cũng gần như, có điều chủ yếu nhất chính là, trong game vũ khí là căn cứ player hình thể tùy cơ biến hóa tỉ lệ.
+ 
+ 	Đồng dạng một mặt thuẫn, ở Vương Vũ loại này to con trong tay có 1 mét bán rộng, ở Minh Đô loại này khô gầy như que củi cẩu trong tay nhiều nhất chỉ có 1 mét, đón đỡ hiệu quả sẽ giảm giảm rất nhiều, vì lẽ đó player đang lựa chọn tank nghề nghiệp thời điểm, đều sẽ theo thói quen đem hình thể điều đến tối khôi ngô, nói như vậy sẽ đón đỡ càng nhiều thương tổn.
+ 
+ 	Những này kỹ xảo nhỏ là sơ cấp player cần phải thấu hiểu, Vương Vũ vừa vào game rồi cùng đỉnh cấp cao thủ hỗn, trong game cũng không ai trang đầu to đi cho hắn phổ cập trò chơi gì kỹ xảo, lúc này có thể vô sư tự thông điểm này, có thể thấy được game thiên phú cũng không thấp.
+ 
+ 	"Cái kia thuẫn chiến xem ra có thể a." Vương Vũ rất hứng thú địa nói rằng.
+ 
+ 	Đừng xem Độc Cô Cửu Thương mấy người bọn hắn rất hèn mọn, thế nhưng cái kia thuẫn chiến nhưng là cực kỳ chuyên nghiệp, trong tay cự thuẫn chếch tà một thả, đem phía sau tất cả mọi người đều chặt chẽ che ở mặt sau, không có một chút nào lỗ thủng.
+ 
+ 	Doãn lão nhị nói: "Tất yếu a, Lôi Công nhưng là Quốc Phục Đệ Nhất MT, nơi này cũng chỉ có ngươi không quen biết hắn đi."
+ 
+ 	Lôi Công ID gọi là Lôi Công Đáng, là quốc phục có tiếng MT cao thủ, nguyên Thần vực chiến đội đương gia chủ lực, có người nói năm ngoái cùng Thần vực chiến đội giải ước sau chuyển nhượng, không nghĩ tới lại bị Thiên Hạ mạt thế cho đào đi.
+ 
+ 	Vừa mới Vô Kỵ kéo bọn họ vào đội, Toàn Chân mọi người để tỏ lòng đối Độc Cô Cửu Thương xem thường, liên đội ngũ tư liệu đều chẳng muốn tra liếc mắt nhìn, ai biết Độc Cô Cửu Thương thủ hạ còn có như thế một tôn đại thần.
+ 
+ 	"Đệ nhất MT? Nghe tới rất lợi hại dáng vẻ, nhưng là Độc Cô Cửu Thương thực lực rất bình thường a." Vương Vũ buồn bực nói rằng.
+ 
+ 	"Ngạch. . ."
+ 
+ 	Doãn lão nhị nghe vậy vì đó hơi ngưng lại, đồng thời vì là Độc Cô Cửu Thương mặc niệm ba giây.
+ 
+ 	Nói đến Độc Cô Cửu Thương cũng thật là oan, tốt xấu cũng là bảng trên cao thủ nổi danh, tuy nói vừa nãy cùng Bao Tam giao thủ hai cái hiệp, cũng không chiếm được tiện nghi, nhưng là vừa đến Độc Cô Cửu Thương ý bản không ở Bao Tam, thứ hai Bao Tam thực lực thực tại không yếu, không nghĩ tới ở Vương Vũ trong mắt đánh giá chỉ là bình thường.
+ 
+ 	PS: Lam gầy nấm hương là cái gì ngạnh? Gần nhất nghe được đều mệt nhọc. . .

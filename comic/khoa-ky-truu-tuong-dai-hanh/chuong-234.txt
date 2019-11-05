@@ -1,0 +1,129 @@
+Converter Dzung Kiều cầu phiếu và bình chọn * cao giúp mình 
+
+	Từ tháng 7 trung tuần DTOS hạng mục chính thức khởi động cho đến bây giờ, đã qua 3 cái nhiều Nguyệt.
+
+	Cook càng ngày càng nóng nảy, nhiệm vụ chỉ còn lại không tới hai tháng!
+
+	Hắn đã hỏi thăm Giang Viễn 3 lần lúc nào khởi động cuối cùng thu mua, mấy lần trước đều bị làm lấy lệ, lần này rốt cuộc có được một người để cho hắn an lòng câu trả lời.
+
+	Giang Viễn một bên thẩm tra trước DTOS các mở rộng tổ mới truyền lên mật mã, một vừa cười nói:
+
+	"DTOS tiến triển đặc biệt thuận lợi, trước mắt đã mở rộng đến Demo bản cuối cùng giai đoạn. Nhiều nhất hai tuần lễ, ngươi bên kia liền có thể làm một kích tối hậu. Cho nên không nên gấp gáp, Tim. Ngươi muốn là công ty làm đóng góp ý tưởng là tốt, nhưng là quyết không thể bởi vì nóng lòng mà nóng nảy, như vậy dễ dàng phạm sai lầm cấp thấp."
+
+	Giang Viễn dĩ nhiên biết Cook tại sao gấp như vậy, chẳng qua là cố làm không biết điều * đùa hắn mấy câu.
+
+	Quả nhiên đem Cook biệt được khó chịu.
+
+	Hắn có thể nói thế nào?
+
+	Mình một cái người làm giám đốc lại có thể so đầu tư tự mình ông chủ còn khẩn trương thành bại, đây có thể giải thích thế nào?
+
+	Dù sao hắn là định đem bản thân có hệ thống chuyện này mang vào quan tài, ai cũng sẽ không nói cho.
+
+	Hắn chỉ có thể bất đắc dĩ nói:
+
+	"Ta chỉ là sợ bỏ lỡ cơ hội tốt."
+
+	" Ừ, đừng có gấp, cùng ta tín hiệu." Giang Viễn kiên nhẫn 'An ủi', sau đó cúp điện thoại.
+
+	Ở 2 cấp học phách thời khắc chống đỡ vượt qua trí khôn hạ, Giang Viễn lại ung dung quét ra 70-80 cái suy luận vấn đề, những thứ này đều là DTCode khó mà phát hiện, hắn thông qua nội bộ BUG công cụ phát cho đối ứng mở rộng tổ để cho đối phương mau sớm sửa đổi.
+
+	Đây cũng là làm cho cả mở rộng đoàn đội khiếp sợ địa phương.
+
+	Hơn 2000 người chương trình mở rộng đoàn đội, ở DTCode và Giang Viễn vượt qua thường nhân tỉ mỉ bản văn dưới sự giúp đỡ, mỗi ngày có thể hoàn thành gần triệu được mật mã, loại cấp bậc này mật mã tính, cho hạng mục tổ chế tạo ra không tưởng được quản lý độ khó.
+
+	Tất cả cấp chủ quản kỹ thuật cửa phát hiện, bọn họ căn bản không cách nào trọng thẩm như vậy số lượng cao mật mã!
+
+	Trước kia, tất cả cấp kỹ thuật người quản lý mặc dù có thể trọng thẩm thủ hạ mấy chục người mật mã, là bởi vì là viết mật mã so xem mật mã chậm quá nhiều.
+
+	Nhưng là DTCode lập tức đem viết mật mã tốc độ nâng cao đến gần như suy tính tốc độ, mà trọng thẩm mật mã tốc độ một chút cũng không nâng cao, đừng nói suy tính tốc độ, nhiều nhất cũng chính là ánh mắt truyền vào tốc độ, điều này sẽ đưa đến người quản lý trọng thẩm mật mã không theo kịp lập trình viên viết ra mật mã tốc độ.
+
+	Nếu không phải DTCode tự thân cải chánh hàng loạt sai lầm, DTOS thế tất yếu rơi vào BUG triền thân trong ác mộng, đó là nhiều hơn nữa khảo sát nhân viên vậy khoác không cứu được.
+
+	Bất quá cũng chính là bởi vì DTCode cải chánh đại đa số lộ ra thấy rõ đơn giản BUG, còn dư lại tất cả đều là phức tạp suy luận đưa đến vấn đề, kỹ thuật các người quản lý phát hiện những thứ này BUG độ khó cũng lớn được ngoại hạng.
+
+	Gần hơn một tháng qua, theo người khai phá đối với DTCode càng ngày càng quen thuộc, đồng thời Giang Viễn mỗi ngày đều ở cải tiến DTCode tự động củ sai kỹ thuật, sau đó lại tiến hóa hai lần, mỗi ngày thâu xuất mật mã càng ngày càng nhiều, các người quản lý đã buông tha trọng thẩm mật mã.
+
+	Còn dư lại BUG căn bản không phát hiện được được không?
+
+	Còn không bằng giao cho khảo sát tổ bớt chuyện.
+
+	Bọn họ chỉ có thể làm hết sức mình nghe thiên số mệnh, sau đó chủ yếu dựa vào DTCode bản thân củ sai năng lực và khảo sát nhân viên.
+
+	Vì vậy bây giờ khảo sát nhân viên tổng số đã cao đến 3000 trở lên, so người khai phá còn nhiều hơn.
+
+	Vậy chính là Giang Viễn còn bằng vào siêu nhân trí khôn, còn có thể mỗi ngày quét một số tương đối mấu chốt mật mã, sau đó tìm ra trong đó BUG.
+
+	Hắn mỗi ngày phát hiện BUG nhiều, lần đạt tới phạm vi rộng, để cho nó hắn người khai phá thật sâu hơi khiếp sợ.
+
+	Trách không được có thể phát minh nhiều như vậy khó có thể tưởng tượng khoa học kỹ thuật, người ta nghề tay trái -- lập trình viên -- trình độ cũng vượt qua xa chúng ta đám này chuyên nghiệp hành nghề người à!
+
+	. . .
+
+	. . .
+
+	Tháng 11 ngày 11, đoạn này thời gian tập đoàn Thâm Tư không có tuyên bố sản phẩm mới, trên Internet nhưng là không thiếu thiếu tin tức.
+
+	Ngày hôm nay lại là chó đông và mèo bảo một năm một lần làm ăn lớn, TQ tất cả mọi người ánh mắt đều bị hấp dẫn, xem xem 'Hối xây à bên trong' ngựa ba ba và 'Không biết vợ đẹp' Lưu đại thúc làm sao trang năm nay cái này B.
+
+	Tập đoàn Thâm Tư nội bộ nhưng vô cùng khẩn trương, DTOS cái đầu tiên biểu diễn bản ngày hôm nay rốt cuộc định bản.
+
+	Thâm Tư mở rộng căn cứ một cái phòng họp lớn trong.
+
+	Giang Viễn đứng trong tất cả mọi người ở giữa, đầu đội trước một máy DT1, đang khảo sát DTOS Demo phiên bản.
+
+	Những người khác vậy mang DT1, theo Giang Viễn DT1 số liệu nối liền chung một chỗ, có thể thấy được giới của hắn mặt.
+
+	DTOS thành tựu não khống thời đại mới thế hệ 1 hệ thống thao tác, đã đem não khống sâu thực đến hệ thống mọi phương diện.
+
+	Đầu tiên bất đồng chính là, phần lớn người sử dụng màn hình đều là ẩn núp trạng thái.
+
+	Vừa không có Apple hệ thống phía trên thực đơn phần bố cáo và Dock Bar, cũng không có Microsoft hệ thống nhiệm vụ phần bố cáo và bắt đầu nút ấn.
+
+	Giang Viễn sử dụng là AR kiểu mẫu, từ hắn thị giác, nhìn thấy chính là trong phòng những người khác.
+
+	Chỉ có tầm mắt ở chính giữa phía dưới, có một cái nhàn nhạt DTOS LOGO tráng tiểu Đồ ngọn.
+
+	Giang Viễn đem mới vừa đem sự chú ý tập trung đi lên, một cái đơn giản màu lót đen bạch chữ cửa sổ bắn ra ngoài.
+
+	Mấy cái biểu tượng cho thấy đi ra, phân biệt hiện lên từ bàn, lên Net, ứng dụng, ứng dụng trung tâm mua sắm, thiết lập, trợ giúp các loại.
+
+	Giang Viễn suy nghĩ một chút 'Lên Net', một cái mới trình duyệt web màn hình cho thấy đi ra. Thật ra thì không mở ra LOGO cửa sổ vậy là có thể, đây chỉ là một thuận lợi mới người sử dụng dẫn dắt mà thôi.
+
+	Cái này trình duyệt web thực tế chính là UI túi đựng Chre nội hạch, vì não khống ưu hóa bộ phận biểu hiện.
+
+	DTOS hạng mục quá đuổi, Giang Viễn còn không có thời gian đi làm mới trình duyệt web.
+
+	Giang Viễn đem trình duyệt web ném tới phía sau đài, lại mở ra ứng dụng trung tâm mua sắm, cái đầu tiên phân trang 'DTOS' chuyên dụng phần mềm, bên trong chỉ có le que hơn một trăm khoản phần mềm.
+
+	Những thứ này là tập đoàn Thâm Tư gần đây mua DTOS bản quyền ứng dụng phần mềm, Cook nhín thời giờ cho cái này mấy nhà phát triển studio nói qua, đem bọn họ phần mềm chuyển đổi thành DTOS phiên bản.
+
+	Những thứ này phần mềm đều là người sử dụng gắn máy nhất thường xài phần mềm, ví dụ như nói chuyện trời đất chim cánh cụt công cụ loại.
+
+	Bất quá đây không phải là mấu chốt, mấu chốt là phía sau ba cái phân trang: Truyền thống mặt bàn hệ điều hành ứng dụng, truyền thống hệ điều hành mobile ứng dụng và truyền thống kỹ nghệ ứng dụng.
+
+	Đây mới là vương nổ!
+
+	Giang Viễn cười ha hả mở ra 'Truyền thống mặt bàn hệ điều hành ứng dụng' phân trang, chợt vừa thấy theo 361 phần mềm bảo khố rất giống, chính là một cái có thể download các loại phần mềm địa phương.
+
+	DTOS cái này phần mềm bảo khố theo 361 bất đồng chính là, nó đem Windows, Linux, XOS ba cái hệ thống phần mềm cũng bao hàm ở bên trong.
+
+	Ví dụ như, không chỉ có Microsoft Word, còn có Apple Page.
+
+	Người sử dụng muốn dùng cái nào đều được!
+
+	Dĩ nhiên trong này đều là những công ty này miễn phí phiên bản, bất quá cái này không liền theo chúng ta ở 361 dùng phần mềm bảo khố hạ phần mềm như nhau sao?
+
+	Dùng trước miễn phí bản chính, cùng quá hạn, người sử dụng mình sẽ đi trên Net hạ cái chú sách mã các loại, hoặc là dứt khoát hạ cái phá giải bản.
+
+	Giang Viễn mục đích chính là vì thế, hắn chính là muốn dùng loại phương thức này ở lặng lẽ nói cho người sử dụng, đi hạ chú sách mã à.
+
+	Tập đoàn Thâm Tư trực tiếp để lên phá giải phiên bản đương nhiên là không hợp pháp, thậm chí tập đoàn Thâm Tư mình đem Microsoft Word chuyển đổi thành DTOS phiên bản lại để lên tới đều là không hợp pháp, chỉ có Microsoft mình mới có quyền làm như vậy.
+
+	Nhưng là, DTOS căn bản cũng không có chuyển đổi à, trực tiếp sử dụng chính là Microsoft Word phiên bản.
+
+	Hơn nữa coi như hạ mô phỏng, cũng là người sử dụng mình xuống.
+
+	Ừ, ta tập đoàn Thâm Tư quả thật không xâm quyền à!
+
+	Converter Dzung Kiều cầu ủng hộ bộ Đô Thị Cực Phẩm Y Tiên <a href="https://truyen.tangthuvien.vn/doc-truyen/do-thi-cuc-pham-y-tien">https://truyen.tangthuvien.vn/doc-truyen/do-thi-cuc-pham-y-tien</a>

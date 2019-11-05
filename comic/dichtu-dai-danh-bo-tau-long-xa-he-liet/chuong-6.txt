@@ -1,4 +1,4 @@
- Tuy vậy Tôn Diễm Mộng đối với Ngũ Liệt Thần Quân không hề vong tình.
+Tuy vậy Tôn Diễm Mộng đối với Ngũ Liệt Thần Quân không hề vong tình.
  
  Ngũ Liệt Thần Quân là một quái nhân, hình dung hắn cổ quái hơn nữa tánh khí cương mãnh không chút ôn nhu.
  
@@ -138,7 +138,7 @@
  
  Ngươi nàng chỉ vào chính là:
  
- La Bạch Nãi!  Tuy vậy Tôn Diễm Mộng đối với Ngũ Liệt Thần Quân không hề vong tình.
+ La Bạch Nãi!Tuy vậy Tôn Diễm Mộng đối với Ngũ Liệt Thần Quân không hề vong tình.
  
  Ngũ Liệt Thần Quân là một quái nhân, hình dung hắn cổ quái hơn nữa tánh khí cương mãnh không chút ôn nhu.
  
@@ -278,4 +278,4 @@
  
  Ngươi nàng chỉ vào chính là:
  
- La Bạch Nãi! 
+ La Bạch Nãi!
