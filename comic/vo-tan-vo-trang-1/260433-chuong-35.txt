@@ -1,0 +1,681 @@
+Doom là công ty ID Software tại năm 1993 đẩy ra một cái trò chơi bắn súng góc nhìn thứ nhất, tại lúc ấy từng phổ biến một thời. Năm 2005, Andrzej Bartkowiak đạo diễn do nó chuyển thể cùng tên điện ảnh 《 Doom 》.
+
+Điện ảnh giảng thuật tại công nguyên năm 2046, ở Sở nghiên cứu khảo sát Olduvai sao Hỏa đột nhiên gặp dị sinh vật công kích, tại Trái Đất phái ra một chi tiểu đội 8 người thuộc thủy quân lục chiến biệt đội Rapid Response Tactical Squad ( RRTS ) đến cứu viện.
+
+Theo chế tác phong cách đến giảng, cái này mặc dù là một bộ phim khoa học viễn tưởng, nhưng là đại lượng vận dụng hắc ám nguyên tố, đi chính là huyết tinh kinh hãi lộ tuyến.
+
+Cả bộ điện ảnh cơ hồ không có quá nhiều nội dung cốt truyện đáng nói, tất cả câu chuyện phát sinh ở sáu tiếng đồng hồ trong vòng, cơ hồ đều là nói tiểu đội đặc chủng tìm kiếm quái vật, săn giết cùng phản săn giết câu chuyện, chỉnh thể phong cách đại thể cùng quái vật 1 tương tự.
+
+Cái này phong cách nhưng thật ra là đám người mạo hiểm chỗ không thích nhất —— theo bắt đầu đến chấm dứt, một mực đều tại chiến đấu, cơ hồ ngay thở một ngụm thời gian đều không có.
+
+Cái này cũng đồng thời ý nghĩa ngươi cơ hồ không có thời gian đi tự hỏi, không có thời gian đi khai phát Ẩn Tàng nhiệm vụ, không có thời gian đi làm kế hoạch. . .
+
+Tại hoàn cảnh như vậy ở phía trong, thực lực là quyết định hết thảy yếu tố duy nhất.
+
+Nhưng nếu như ngay thực lực đều bị hạn chế nữa nha?
+
+. . .
+
+Đương làm Trầm Dịch Hồng Lãng bọn hắn đi qua cổng truyền tống sau, phát hiện mình đã ở vào một mảnh trống trải trong đại sảnh.
+
+Theo nguyên một đám mạo hiểm giả xuất hiện, cổng truyền tống sau khi biến mất, trong đại sảnh đã muốn đứng ba mươi sáu tên mạo hiểm giả.
+
+Văn chương Huyết Tinh lại lần nữa vang lên:
+
+"Tiến vào Doom nhiệm vụ thế giới, trước mặt vị trí vị trí: Sở nghiên cứu khảo sát Olduvai sao Hỏa bên ngoài."
+
+"Nhiệm vụ hình thức: hình thức cứu viện tốc hành. Mạo hiểm giả trong lúc đó lẫn nhau chiến đấu, thương tổn suy yếu 25%, giết chết mặt khác mạo hiểm giả không ban thưởng. Nhiệm vụ thời gian bốn tiếng đồng hồ."
+
+"Nhiệm vụ chính tuyến một: cứu viện tất cả nhân loại không bị lây nhiễm trong Sở nghiên cứu. Mỗi tên mạo hiểm giả phải cứu ra ít nhất một người, cũng bảo đảm hắn an toàn cho đến nhiệm vụ chấm dứt. Nhiệm vụ chấm dứt, ban thưởng điểm Huyết Tinh 3000 điểm. Mỗi nhiều cứu một người, phần thưởng bổ sung 3000 điểm. Nhiệm vụ thất bại, mạt sát."
+
+"Nhiệm vụ chính tuyến hai: giết chết trong Sở nghiên cứu tất cả biến dị sinh vật, phá hư chúng nó kế hoạch đi đến Địa Cầu. Bản nhiệm vụ thuộc về toàn thể nhiệm vụ, nhiệm vụ sau khi kết thúc, mỗi còn sống một chỉ biến dị sinh vật, toàn thể khấu trừ 100 điểm Huyết Tinh."
+
+"Bối cảnh giới thiệu: do Sarge suất lĩnh RRTS đã ở hai giờ trước đã tìm đến Sở nghiên cứu, cũng đã hạ lệnh giới nghiêm sáu tiếng. Nhưng mà hắn cũng không biết, quái vật tánh mạng tại trong Sở nghiên cứu đã muốn tràn lan, cũng đã khống chế cả Sở nghiên cứu, đội viên tánh mạng chính nguy tại sớm tối. Tiểu đội đặc chủng thành viên Portman vi phạm Sarge mệnh lệnh, bí mật hướng căn cứ phát ra cầu viện tín hiệu, Liên minh hàng không vũ trụ UAC ( Union Aerospace Corporation ) quyết định phái ra đội hình càng cường đại hơn bộ đội trước đến giải quyết lần này nguy cơ ( tức mạo hiểm giả đội ngũ ), cũng mang về nghiên cứu tư liệu. Nhưng mà bọn hắn tới vẫn tới chậm hơn, đại lượng căn cứ may mắn còn sống sót nhân viên đã bị cuốn hút, trở thành quái vật một bộ phận, mà càng nhiều là không lây nhiễm nhân loại cũng ở vào sắp bị cuốn hút giai đoạn. Ngoài ra biến dị sinh vật lại càng tại bày ra kế hoạch tấn công Địa Cầu căn cứ. . ."
+
+"Nhiệm vụ nhắc nhở: đừng cho người khác hoài nghi thân phận của các ngươi, nếu không ngươi sẽ trả giá thật nhiều."
+
+. . .
+
+Xem đến nhiệm vụ hạ đạt, trong đại sảnh vang lên một mảnh ông ầm ĩ thanh âm, tất cả mọi người nghị luận ào ào, hiển nhiên là tại thảo luận nhiệm vụ.
+
+Dựa theo nguyên nội dung cốt truyện, Sarge tiểu đội tại xác nhận tao ngộ nguy hiểm, tử vong nửa số thành viên sau, bởi vì quái vật trốn về Địa Cầu, cũng đi theo về tới Địa Cầu, cũng tại đó triển khai một hồi đại tác chiến.
+
+Nhưng là lần này nội dung cốt truyện hiển nhiên là xuất hiện trọng đại bước ngoặc. Quái vật tánh mạng chưa trở lại Địa Cầu, Sarge tiểu đội cũng đã bị vây ở Sở nghiên cứu trung.
+
+Kế tiếp như thế nào, muốn xem đoàn đội mạo hiểm.
+
+Kim Cương nhíu mày: "Tại sao sẽ là như vậy nhiệm vụ?"
+
+Nhiệm vụ chính tuyến hai còn dễ nói, mấu chốt là nhiệm vụ chính tuyến một, yêu cầu mỗi tên mạo hiểm giả ít nhất cứu ra một gã không lây nhiễm nhân viên, cũng bảo vệ đến cuối cùng. Ai cũng không biết cái này Sở nghiên cứu ở phía trong còn có thể hay không 36 tên không lây nhiễm nhân viên, coi như là có, bởi vì có quá số ban thưởng, đối với người khác mà nói cũng phải càng nhiều càng tốt, hết lần này tới lần khác nhiệm vụ chính tuyến đầu tiên thất bại hậu quả có lẽ hay là mạt sát, cái này ý nghĩa tranh đoạt tất nhiên tồn tại.
+
+Không thể đồng tâm hợp tác kết cục, chính là đám người mạo hiểm chẳng những muốn đối mặt quái vật công kích, càng muốn đối mặt đến từ mạo hiểm giả công kích.
+
+Hồng Lãng cũng lầm bầm một câu: "Còn có chúng ta như thế nào phán đoán nhân loại rốt cuộc có hay không đã bị lây nhiễm?"
+
+Rất hiển nhiên đây cũng là cái phiền toái.
+
+Chu Nghi Vũ tắc chính là nhìn xem cái kia đi thông Sở nghiên cứu cửa lớn, lầm bầm một câu: "Móa nó, nơi này không có cách nào khác lái xe."
+
+Phức tạp bên trong hoàn cảnh lại để cho hắn lớn nhất ưu thế bị hạn chế ở.
+
+Duy có Trầm Dịch, cau mày không biết đang tự hỏi cái gì.
+
+Ôn Nhu nhìn hắn một cái: "Đang suy nghĩ gì?"
+
+Trầm Dịch như ở trong mộng mới tỉnh, "Ah" một tiếng: "Ah, ta đang kỳ quái câu kia nhiệm vụ nhắc nhở. . . Đừng cho người khác hoài nghi thân phận của các ngươi, nếu không ngươi sẽ trả giá thật nhiều. . . Những lời này có ý tứ gì?"
+
+Ôn Nhu nghĩ nghĩ, lắc đầu: "Không rõ, bất quá bây giờ không phải thảo luận cái này thời điểm, ngươi xem, có người muốn bắt đầu hành động."
+
+Cách đó không xa, vài tên mạo hiểm giả đã bắt đầu hướng về thông đạo đi đến. Rất hiển nhiên, từ nơi ấy bắt đầu, mọi người đem một đường tiến vào Sở nghiên cứu, cũng chính thức triển khai nhiệm vụ.
+
+Có người vẫn còn gọi: "Xin đợi một chút, tại bắt đầu nhiệm vụ trước, chúng ta nên vậy trước làm một cái thương lượng. Ta đề nghị, tất cả mạo hiểm giả cũng không muốn tranh đoạt cứu viện mục tiêu, cái kia sẽ chỉ làm chúng ta tự giết lẫn nhau, chúng ta nên vậy. . ."
+
+Không có người để ý đến hắn.
+
+Đạo lý nói ra mỗi người đều hiểu, đúng vậy làm bắt đầu rất khó khăn.
+
+Tình huống hiện tại là, cùng với ở chỗ này thảo luận như thế nào phân phối, còn không bằng lập tức đi chấp hành nhiệm vụ. Bốn giờ nhiệm vụ chấp hành thời gian nhưng xa xa không tính là dư dả, không ai dám lãng phí. Về phần công bình phân phối, cường giả không muốn, kẻ yếu không có tư cách, tại không có thông qua chiến đấu xác nhận mạnh yếu trước kia, không có hòa bình đáng nói.
+
+Đại sảnh đi thông cửa Sở nghiên cứu tổng cộng có 8 cánh cửa, phân biệt ở vào đại sảnh bốn phía tám cái phương hướng.
+
+36 tên mạo hiểm giả ào ào hướng bốn phía đi đến, mà ngay cả lúc trước kêu gọi đầu hàng người nhìn xem không có người để ý đến hắn, cũng hậm hực mà đi, cuối cùng nhất trong đại sảnh chỉ còn lại có Trầm Dịch đợi sáu người.
+
+"Lão đại!" Hồng Lãng nhìn Trầm Dịch liếc.
+
+Trầm Dịch thản nhiên nói: "Trừ chúng ta bên ngoài ba mươi người, ba cái đoàn đội chung 21 người, rải rác nhân viên 9 người. Trong đó ba đoàn đội đi là cửa chính trước mặt, cửa trước mặt bên trái, cùng cửa ở giữa bên trái ba hướng. Chín tên rải rác nhân viên, ba người cửa dưới hông, hai người cửa ở giữa bên phải, hai người cửa trước mặt bên phải, hai người cửa dưới bên phải."
+
+Nói xong hắn mỉm cười: "Còn có cửa dưới bên trái không có người đi, Nghi Vũ, ngươi cùng La Hạo đi cái hướng kia. Hồng Lãng, ngươi đi cửa giữa bên phải, Kim Cương đi cửa trên bên phải, Ôn Nhu đi cửa trên bên trái, ta đi cửa dưới cùng. Chúng ta chia nhau hành động."
+
+"Minh bạch!" Mọi người chính muốn ly khai, Trầm Dịch đột nhiên nói: "Đợi một chút."
+
+Hắn đột nhiên triệu hồi ra kể cả Frost ở bên trong hai mươi tên lính: "Mỗi người dẫn ba tên lính đi qua, có chiến đấu tận lực giao cho bọn họ, các ngươi có thể không ra tay cũng đừng có ra tay. Nếu như tình thế nguy cấp, điều kiện cho phép dưới tình huống, tận lực đừng sử dụng kỹ năng."
+
+"Vì cái gì?" Mọi người khó hiểu.
+
+Trầm Dịch lắc đầu: "Nói thực ra ta cũng không biết vì cái gì, nhưng ta tổng cảm giác câu kia nhiệm vụ nhắc nhở có vấn đề. Bảo hiểm để trước tận lực đừng cho chính mình quá đáng chú ý."
+
+Mọi người lẫn nhau nhìn xem, cùng một chỗ gật đầu: "Minh bạch."
+
+Có được Viên Đạn Trị Liệu Kafka phân phối cho Kim Cương, có được cường lực cận chiến năng lực Ralph phân phối cho Chu Nghi Vũ cùng mập mạp, có được so sánh cường lực phòng ngự cùng tự mình hại mình năng lực Fisi tắc chính là phân cho Ôn Nhu.
+
+Mắt thấy những người khác rời đi, Trầm Dịch bên người còn thừa lại Frost, Arians, Dabinit, Evans cùng với một gã cấp 5 tinh anh binh sĩ, Trầm Dịch trong chớp mắt xuống phía dưới phương thông đạo đi đến.
+
+Hoặc có lẽ là bởi thời gian hạn chế nguyên nhân, mọi người động tác đều rất nhanh.
+
+Chỉ là vài phút đến trễ, lúc trước tiến vào ba gã mạo hiểm giả đã chạy phải không thấy bóng dáng.
+
+Trầm Dịch đến không phải quá sốt ruột, từng bước một hướng trong thông đạo đi đến, thuận tiện cũng quan sát một chút hoàn cảnh nơi này.
+
+Cả Sở nghiên cứu chính là một cực lớn kiến trúc loại tổ ong, đem đại sảnh ở trung ương nhất hướng về bốn phía mở rộng, phân bố có phòng nghiên cứu gien, phòng nghiên cứu vũ khí tiên tiến. . . Nhiều loại khoa học phòng thí nghiệm, cùng với tương quan hậu cần nguyên bộ phương tiện.
+
+Trầm Dịch phát hiện mình tiến vào vừa vặn chính là một khu hậu cần, cùng nhau đi tới cơ hồ đều là nhân viên công tác phòng ngủ, đáng tiếc chính là bên trong toàn bộ không có một bóng người.
+
+Đi trong chốc lát, Trầm Dịch mở ra kênh đoàn đội: "Có một tin tức tốt, muốn nghe sao?"
+
+"Cái gì tin tức tốt?" Mọi người cùng nhau hỏi.
+
+"Sở nghiên cứu ở phía trong nên vậy có vượt qua ba trăm tên nhân viên công tác, mà không phải trong nội dung cốt truyện 79 người. Cái này ý nghĩa không lây nhiễm nhân viên rất có thể vượt qua 36 người, nhưng đồng thời chúng ta đối mặt quái vật tại trên số lượng cũng đem viễn siêu nguyên nội dung cốt truyện."
+
+"Làm sao ngươi biết hay sao?"
+
+"Ta hiện tại thân ở khu hậu cần, bốn phía đều là phòng ngủ, phòng ngủ trên có đánh số, lớn nhất tính ra đã muốn vượt qua 300, đáng tiếc chính là bên trong toàn bộ không có một bóng người."
+
+"Khu hậu cần? Ngươi thật đúng là vận may." Mọi người ào ào nở nụ cười.
+
+Nguyên nội dung cốt truyện ở phía trong, tất cả câu chuyện đều phát sinh ở phòng nghiên cứu, phòng thí nghiệm, cùng khu hậu cần nhưng không có bất kỳ liên quan.
+
+Kim Cương trả lời: "Ta tại thiết bị trung tâm, nơi này có không ít mũi nhọn thiết bị, thật muốn bắt bọn nó toàn bộ mang đi. . . Trước mắt còn không có bất kỳ phát hiện nào."
+
+Ôn Nhu cũng trở về đáp: "Xem ra ta vận khí không tệ, ta dường như chính đi ở phòng nghiên cứu trên đường. Bất quá phía trước không chiến đấu dấu vết, không có thấy nhân viên cứu viện, cũng không có quái vật, bổn cô nương chính một người tịch mịch độc hành, thân yêu ngươi không có ý định qua đi theo ta một hồi sao?"
+
+Trầm Dịch trả lời: "Đừng gấp, sẽ có quái vật mở ra miệng lớn dính máu hướng ngươi cầu hôn."
+
+". . . Hỗn đản!"
+
+Sau đó là Hồng Lãng kêu lên: "Lão tử vận khí mới gọi suy nì. Đoán xem ta ở đâu? Phòng dự trữ thật phẩm! Còn có căn tin! Gặp quỷ rồi! Biết rõ ta đứng ở địa phương nào sao? Một đống khoai tây trên mặt! Là con mẹ nó khoai tây!"
+
+Mập mạp vui tươi hớn hở nói: "Xem ra vận khí của chúng ta không sai, chúng ta đây là phòng dự trữ vũ khí."
+
+"Vũ khí?" Tất cả mọi người lỗ tai đều bị dựng lên.
+
+Hồng Lãng lại càng kêu lên: "Có BFG sao?"
+
+BFG (*), trong Doom thế giới uy lực cường đại nhất vũ khí. Đã từng có người tìm được qua cái này món vũ khí, nghe nói uy lực mạnh có thể so với S cấp vũ khí.
+
+Đối với Hồng Lãng vấn đề Chu Nghi Vũ cười nói: "Nghĩ hay quá nhỉ, tất cả đều là chút ít bình thường vũ khí, hơn nữa đều là không xem xét, lại càng không là vô hạn viên đạn, đạn dung lượng có hạn. Duy nhất chỗ tốt đại khái chính là sử dụng những này súng không có bất kỳ điều kiện tiên quyết."
+
+"Ngươi nói cái gì?" Trầm Dịch vội vàng hỏi: "Ngươi nói những kia súng không có sử dụng điều kiện?"
+
+"Ân, bất quá uy lực bình thường, đại khái là là D cấp đến C cấp tả hữu, chúng ta căn bản không cần phải." Chu Nghi Vũ có chút kỳ quái.
+
+Trầm Dịch đã muốn hạ lệnh: "Không, lập tức đem phòng vũ khí tất cả vũ khí toàn bộ lấy đi, lại để cho triệu hoán binh sĩ cho Hồng Lãng Kim Cương bọn hắn đưa qua!"
+
+Mọi người ngẩn ngơ, Hồng Lãng lại càng kêu lên: "Lão đại ngươi nói đùa gì vậy? Ta dùng cái kia thứ đồ hư làm gì?"
+
+Trầm Dịch cũng mặc kệ hắn: "Không dùng cũng phải cầm làm dáng, Nghi Vũ chiếu ta nói làm, đem tất cả súng chuyển không, dẫn không đi trước hết phóng trong không gian, một cây cũng đừng lưu lại."
+
+"Minh bạch." Chu Nghi Vũ cùng mập mạp vội vàng chỉ huy triệu hoán binh sĩ bắt đầu theo phòng vũ khí lấy súng.
+
+Những này súng nói thực ra uy lực thật sự bình thường, cũng không phải xem xét vật phẩm, vô pháp mang về đô thị. Coi như là có quyển trục Giám Định, xem xét trở về cũng không phải là cái gì có lợi mua bán. Nếu như là cái khác mạo hiểm giả chứng kiến, hơn phân nửa cũng sẽ không để ý.
+
+"Ngươi đang lo lắng cái gì?" Ôn Nhu hỏi.
+
+Trầm Dịch do dự một chút trả lời: "Ta không biết. . . Chỉ có thể nói lo trước khỏi hoạ a. Có lẽ muốn chờ chúng ta gặp được con quái vật đầu tiên, hoặc là cái thứ nhất đợi cứu rỗi nhân viên, ta mới có thể tìm được đáp án. Nhưng ở trước đó, ta không hy vọng bỏ qua hết thảy khả năng đối với chúng ta có giúp đỡ mấy cái gì đó."
+
+Đúng lúc này, Kim Cương bên kia đột nhiên truyền đến 'Rống' một tiếng la lên.
+
+"Phía trước có động tĩnh!" Kim Cương đối với kênh khẽ quát một tiếng, người đã như mũi tên loại vọt tới.
+
+(*): BFG
+<a href="https://upload.wikimedia.org/wikipedia/en/d/de/BFG9000.png">https://upload.wikimedia.org/wikipedia/en/d/de/BFG9000.png</a> 
+<a href="https://www.cgsociety.org/cgsarchive/newgallerycrits/g85/3785/3785_1330765479_large.jpg">https://www.cgsociety.org/cgsarchive/newgallerycrits/g85/3785/3785_1330765479_large.jpg</a>Doom là công ty ID Software tại năm 1993 đẩy ra một cái trò chơi bắn súng góc nhìn thứ nhất, tại lúc ấy từng phổ biến một thời. Năm 2005, Andrzej Bartkowiak đạo diễn do nó chuyển thể cùng tên điện ảnh 《 Doom 》.
+
+Điện ảnh giảng thuật tại công nguyên năm 2046, ở Sở nghiên cứu khảo sát Olduvai sao Hỏa đột nhiên gặp dị sinh vật công kích, tại Trái Đất phái ra một chi tiểu đội 8 người thuộc thủy quân lục chiến biệt đội Rapid Response Tactical Squad ( RRTS ) đến cứu viện.
+
+Theo chế tác phong cách đến giảng, cái này mặc dù là một bộ phim khoa học viễn tưởng, nhưng là đại lượng vận dụng hắc ám nguyên tố, đi chính là huyết tinh kinh hãi lộ tuyến.
+
+Cả bộ điện ảnh cơ hồ không có quá nhiều nội dung cốt truyện đáng nói, tất cả câu chuyện phát sinh ở sáu tiếng đồng hồ trong vòng, cơ hồ đều là nói tiểu đội đặc chủng tìm kiếm quái vật, săn giết cùng phản săn giết câu chuyện, chỉnh thể phong cách đại thể cùng quái vật 1 tương tự.
+
+Cái này phong cách nhưng thật ra là đám người mạo hiểm chỗ không thích nhất —— theo bắt đầu đến chấm dứt, một mực đều tại chiến đấu, cơ hồ ngay thở một ngụm thời gian đều không có.
+
+Cái này cũng đồng thời ý nghĩa ngươi cơ hồ không có thời gian đi tự hỏi, không có thời gian đi khai phát Ẩn Tàng nhiệm vụ, không có thời gian đi làm kế hoạch. . .
+
+Tại hoàn cảnh như vậy ở phía trong, thực lực là quyết định hết thảy yếu tố duy nhất.
+
+Nhưng nếu như ngay thực lực đều bị hạn chế nữa nha?
+
+. . .
+
+Đương làm Trầm Dịch Hồng Lãng bọn hắn đi qua cổng truyền tống sau, phát hiện mình đã ở vào một mảnh trống trải trong đại sảnh.
+
+Theo nguyên một đám mạo hiểm giả xuất hiện, cổng truyền tống sau khi biến mất, trong đại sảnh đã muốn đứng ba mươi sáu tên mạo hiểm giả.
+
+Văn chương Huyết Tinh lại lần nữa vang lên:
+
+"Tiến vào Doom nhiệm vụ thế giới, trước mặt vị trí vị trí: Sở nghiên cứu khảo sát Olduvai sao Hỏa bên ngoài."
+
+"Nhiệm vụ hình thức: hình thức cứu viện tốc hành. Mạo hiểm giả trong lúc đó lẫn nhau chiến đấu, thương tổn suy yếu 25%, giết chết mặt khác mạo hiểm giả không ban thưởng. Nhiệm vụ thời gian bốn tiếng đồng hồ."
+
+"Nhiệm vụ chính tuyến một: cứu viện tất cả nhân loại không bị lây nhiễm trong Sở nghiên cứu. Mỗi tên mạo hiểm giả phải cứu ra ít nhất một người, cũng bảo đảm hắn an toàn cho đến nhiệm vụ chấm dứt. Nhiệm vụ chấm dứt, ban thưởng điểm Huyết Tinh 3000 điểm. Mỗi nhiều cứu một người, phần thưởng bổ sung 3000 điểm. Nhiệm vụ thất bại, mạt sát."
+
+"Nhiệm vụ chính tuyến hai: giết chết trong Sở nghiên cứu tất cả biến dị sinh vật, phá hư chúng nó kế hoạch đi đến Địa Cầu. Bản nhiệm vụ thuộc về toàn thể nhiệm vụ, nhiệm vụ sau khi kết thúc, mỗi còn sống một chỉ biến dị sinh vật, toàn thể khấu trừ 100 điểm Huyết Tinh."
+
+"Bối cảnh giới thiệu: do Sarge suất lĩnh RRTS đã ở hai giờ trước đã tìm đến Sở nghiên cứu, cũng đã hạ lệnh giới nghiêm sáu tiếng. Nhưng mà hắn cũng không biết, quái vật tánh mạng tại trong Sở nghiên cứu đã muốn tràn lan, cũng đã khống chế cả Sở nghiên cứu, đội viên tánh mạng chính nguy tại sớm tối. Tiểu đội đặc chủng thành viên Portman vi phạm Sarge mệnh lệnh, bí mật hướng căn cứ phát ra cầu viện tín hiệu, Liên minh hàng không vũ trụ UAC ( Union Aerospace Corporation ) quyết định phái ra đội hình càng cường đại hơn bộ đội trước đến giải quyết lần này nguy cơ ( tức mạo hiểm giả đội ngũ ), cũng mang về nghiên cứu tư liệu. Nhưng mà bọn hắn tới vẫn tới chậm hơn, đại lượng căn cứ may mắn còn sống sót nhân viên đã bị cuốn hút, trở thành quái vật một bộ phận, mà càng nhiều là không lây nhiễm nhân loại cũng ở vào sắp bị cuốn hút giai đoạn. Ngoài ra biến dị sinh vật lại càng tại bày ra kế hoạch tấn công Địa Cầu căn cứ. . ."
+
+"Nhiệm vụ nhắc nhở: đừng cho người khác hoài nghi thân phận của các ngươi, nếu không ngươi sẽ trả giá thật nhiều."
+
+. . .
+
+Xem đến nhiệm vụ hạ đạt, trong đại sảnh vang lên một mảnh ông ầm ĩ thanh âm, tất cả mọi người nghị luận ào ào, hiển nhiên là tại thảo luận nhiệm vụ.
+
+Dựa theo nguyên nội dung cốt truyện, Sarge tiểu đội tại xác nhận tao ngộ nguy hiểm, tử vong nửa số thành viên sau, bởi vì quái vật trốn về Địa Cầu, cũng đi theo về tới Địa Cầu, cũng tại đó triển khai một hồi đại tác chiến.
+
+Nhưng là lần này nội dung cốt truyện hiển nhiên là xuất hiện trọng đại bước ngoặc. Quái vật tánh mạng chưa trở lại Địa Cầu, Sarge tiểu đội cũng đã bị vây ở Sở nghiên cứu trung.
+
+Kế tiếp như thế nào, muốn xem đoàn đội mạo hiểm.
+
+Kim Cương nhíu mày: "Tại sao sẽ là như vậy nhiệm vụ?"
+
+Nhiệm vụ chính tuyến hai còn dễ nói, mấu chốt là nhiệm vụ chính tuyến một, yêu cầu mỗi tên mạo hiểm giả ít nhất cứu ra một gã không lây nhiễm nhân viên, cũng bảo vệ đến cuối cùng. Ai cũng không biết cái này Sở nghiên cứu ở phía trong còn có thể hay không 36 tên không lây nhiễm nhân viên, coi như là có, bởi vì có quá số ban thưởng, đối với người khác mà nói cũng phải càng nhiều càng tốt, hết lần này tới lần khác nhiệm vụ chính tuyến đầu tiên thất bại hậu quả có lẽ hay là mạt sát, cái này ý nghĩa tranh đoạt tất nhiên tồn tại.
+
+Không thể đồng tâm hợp tác kết cục, chính là đám người mạo hiểm chẳng những muốn đối mặt quái vật công kích, càng muốn đối mặt đến từ mạo hiểm giả công kích.
+
+Hồng Lãng cũng lầm bầm một câu: "Còn có chúng ta như thế nào phán đoán nhân loại rốt cuộc có hay không đã bị lây nhiễm?"
+
+Rất hiển nhiên đây cũng là cái phiền toái.
+
+Chu Nghi Vũ tắc chính là nhìn xem cái kia đi thông Sở nghiên cứu cửa lớn, lầm bầm một câu: "Móa nó, nơi này không có cách nào khác lái xe."
+
+Phức tạp bên trong hoàn cảnh lại để cho hắn lớn nhất ưu thế bị hạn chế ở.
+
+Duy có Trầm Dịch, cau mày không biết đang tự hỏi cái gì.
+
+Ôn Nhu nhìn hắn một cái: "Đang suy nghĩ gì?"
+
+Trầm Dịch như ở trong mộng mới tỉnh, "Ah" một tiếng: "Ah, ta đang kỳ quái câu kia nhiệm vụ nhắc nhở. . . Đừng cho người khác hoài nghi thân phận của các ngươi, nếu không ngươi sẽ trả giá thật nhiều. . . Những lời này có ý tứ gì?"
+
+Ôn Nhu nghĩ nghĩ, lắc đầu: "Không rõ, bất quá bây giờ không phải thảo luận cái này thời điểm, ngươi xem, có người muốn bắt đầu hành động."
+
+Cách đó không xa, vài tên mạo hiểm giả đã bắt đầu hướng về thông đạo đi đến. Rất hiển nhiên, từ nơi ấy bắt đầu, mọi người đem một đường tiến vào Sở nghiên cứu, cũng chính thức triển khai nhiệm vụ.
+
+Có người vẫn còn gọi: "Xin đợi một chút, tại bắt đầu nhiệm vụ trước, chúng ta nên vậy trước làm một cái thương lượng. Ta đề nghị, tất cả mạo hiểm giả cũng không muốn tranh đoạt cứu viện mục tiêu, cái kia sẽ chỉ làm chúng ta tự giết lẫn nhau, chúng ta nên vậy. . ."
+
+Không có người để ý đến hắn.
+
+Đạo lý nói ra mỗi người đều hiểu, đúng vậy làm bắt đầu rất khó khăn.
+
+Tình huống hiện tại là, cùng với ở chỗ này thảo luận như thế nào phân phối, còn không bằng lập tức đi chấp hành nhiệm vụ. Bốn giờ nhiệm vụ chấp hành thời gian nhưng xa xa không tính là dư dả, không ai dám lãng phí. Về phần công bình phân phối, cường giả không muốn, kẻ yếu không có tư cách, tại không có thông qua chiến đấu xác nhận mạnh yếu trước kia, không có hòa bình đáng nói.
+
+Đại sảnh đi thông cửa Sở nghiên cứu tổng cộng có 8 cánh cửa, phân biệt ở vào đại sảnh bốn phía tám cái phương hướng.
+
+36 tên mạo hiểm giả ào ào hướng bốn phía đi đến, mà ngay cả lúc trước kêu gọi đầu hàng người nhìn xem không có người để ý đến hắn, cũng hậm hực mà đi, cuối cùng nhất trong đại sảnh chỉ còn lại có Trầm Dịch đợi sáu người.
+
+"Lão đại!" Hồng Lãng nhìn Trầm Dịch liếc.
+
+Trầm Dịch thản nhiên nói: "Trừ chúng ta bên ngoài ba mươi người, ba cái đoàn đội chung 21 người, rải rác nhân viên 9 người. Trong đó ba đoàn đội đi là cửa chính trước mặt, cửa trước mặt bên trái, cùng cửa ở giữa bên trái ba hướng. Chín tên rải rác nhân viên, ba người cửa dưới hông, hai người cửa ở giữa bên phải, hai người cửa trước mặt bên phải, hai người cửa dưới bên phải."
+
+Nói xong hắn mỉm cười: "Còn có cửa dưới bên trái không có người đi, Nghi Vũ, ngươi cùng La Hạo đi cái hướng kia. Hồng Lãng, ngươi đi cửa giữa bên phải, Kim Cương đi cửa trên bên phải, Ôn Nhu đi cửa trên bên trái, ta đi cửa dưới cùng. Chúng ta chia nhau hành động."
+
+"Minh bạch!" Mọi người chính muốn ly khai, Trầm Dịch đột nhiên nói: "Đợi một chút."
+
+Hắn đột nhiên triệu hồi ra kể cả Frost ở bên trong hai mươi tên lính: "Mỗi người dẫn ba tên lính đi qua, có chiến đấu tận lực giao cho bọn họ, các ngươi có thể không ra tay cũng đừng có ra tay. Nếu như tình thế nguy cấp, điều kiện cho phép dưới tình huống, tận lực đừng sử dụng kỹ năng."
+
+"Vì cái gì?" Mọi người khó hiểu.
+
+Trầm Dịch lắc đầu: "Nói thực ra ta cũng không biết vì cái gì, nhưng ta tổng cảm giác câu kia nhiệm vụ nhắc nhở có vấn đề. Bảo hiểm để trước tận lực đừng cho chính mình quá đáng chú ý."
+
+Mọi người lẫn nhau nhìn xem, cùng một chỗ gật đầu: "Minh bạch."
+
+Có được Viên Đạn Trị Liệu Kafka phân phối cho Kim Cương, có được cường lực cận chiến năng lực Ralph phân phối cho Chu Nghi Vũ cùng mập mạp, có được so sánh cường lực phòng ngự cùng tự mình hại mình năng lực Fisi tắc chính là phân cho Ôn Nhu.
+
+Mắt thấy những người khác rời đi, Trầm Dịch bên người còn thừa lại Frost, Arians, Dabinit, Evans cùng với một gã cấp 5 tinh anh binh sĩ, Trầm Dịch trong chớp mắt xuống phía dưới phương thông đạo đi đến.
+
+Hoặc có lẽ là bởi thời gian hạn chế nguyên nhân, mọi người động tác đều rất nhanh.
+
+Chỉ là vài phút đến trễ, lúc trước tiến vào ba gã mạo hiểm giả đã chạy phải không thấy bóng dáng.
+
+Trầm Dịch đến không phải quá sốt ruột, từng bước một hướng trong thông đạo đi đến, thuận tiện cũng quan sát một chút hoàn cảnh nơi này.
+
+Cả Sở nghiên cứu chính là một cực lớn kiến trúc loại tổ ong, đem đại sảnh ở trung ương nhất hướng về bốn phía mở rộng, phân bố có phòng nghiên cứu gien, phòng nghiên cứu vũ khí tiên tiến. . . Nhiều loại khoa học phòng thí nghiệm, cùng với tương quan hậu cần nguyên bộ phương tiện.
+
+Trầm Dịch phát hiện mình tiến vào vừa vặn chính là một khu hậu cần, cùng nhau đi tới cơ hồ đều là nhân viên công tác phòng ngủ, đáng tiếc chính là bên trong toàn bộ không có một bóng người.
+
+Đi trong chốc lát, Trầm Dịch mở ra kênh đoàn đội: "Có một tin tức tốt, muốn nghe sao?"
+
+"Cái gì tin tức tốt?" Mọi người cùng nhau hỏi.
+
+"Sở nghiên cứu ở phía trong nên vậy có vượt qua ba trăm tên nhân viên công tác, mà không phải trong nội dung cốt truyện 79 người. Cái này ý nghĩa không lây nhiễm nhân viên rất có thể vượt qua 36 người, nhưng đồng thời chúng ta đối mặt quái vật tại trên số lượng cũng đem viễn siêu nguyên nội dung cốt truyện."
+
+"Làm sao ngươi biết hay sao?"
+
+"Ta hiện tại thân ở khu hậu cần, bốn phía đều là phòng ngủ, phòng ngủ trên có đánh số, lớn nhất tính ra đã muốn vượt qua 300, đáng tiếc chính là bên trong toàn bộ không có một bóng người."
+
+"Khu hậu cần? Ngươi thật đúng là vận may." Mọi người ào ào nở nụ cười.
+
+Nguyên nội dung cốt truyện ở phía trong, tất cả câu chuyện đều phát sinh ở phòng nghiên cứu, phòng thí nghiệm, cùng khu hậu cần nhưng không có bất kỳ liên quan.
+
+Kim Cương trả lời: "Ta tại thiết bị trung tâm, nơi này có không ít mũi nhọn thiết bị, thật muốn bắt bọn nó toàn bộ mang đi. . . Trước mắt còn không có bất kỳ phát hiện nào."
+
+Ôn Nhu cũng trở về đáp: "Xem ra ta vận khí không tệ, ta dường như chính đi ở phòng nghiên cứu trên đường. Bất quá phía trước không chiến đấu dấu vết, không có thấy nhân viên cứu viện, cũng không có quái vật, bổn cô nương chính một người tịch mịch độc hành, thân yêu ngươi không có ý định qua đi theo ta một hồi sao?"
+
+Trầm Dịch trả lời: "Đừng gấp, sẽ có quái vật mở ra miệng lớn dính máu hướng ngươi cầu hôn."
+
+". . . Hỗn đản!"
+
+Sau đó là Hồng Lãng kêu lên: "Lão tử vận khí mới gọi suy nì. Đoán xem ta ở đâu? Phòng dự trữ thật phẩm! Còn có căn tin! Gặp quỷ rồi! Biết rõ ta đứng ở địa phương nào sao? Một đống khoai tây trên mặt! Là con mẹ nó khoai tây!"
+
+Mập mạp vui tươi hớn hở nói: "Xem ra vận khí của chúng ta không sai, chúng ta đây là phòng dự trữ vũ khí."
+
+"Vũ khí?" Tất cả mọi người lỗ tai đều bị dựng lên.
+
+Hồng Lãng lại càng kêu lên: "Có BFG sao?"
+
+BFG (*), trong Doom thế giới uy lực cường đại nhất vũ khí. Đã từng có người tìm được qua cái này món vũ khí, nghe nói uy lực mạnh có thể so với S cấp vũ khí.
+
+Đối với Hồng Lãng vấn đề Chu Nghi Vũ cười nói: "Nghĩ hay quá nhỉ, tất cả đều là chút ít bình thường vũ khí, hơn nữa đều là không xem xét, lại càng không là vô hạn viên đạn, đạn dung lượng có hạn. Duy nhất chỗ tốt đại khái chính là sử dụng những này súng không có bất kỳ điều kiện tiên quyết."
+
+"Ngươi nói cái gì?" Trầm Dịch vội vàng hỏi: "Ngươi nói những kia súng không có sử dụng điều kiện?"
+
+"Ân, bất quá uy lực bình thường, đại khái là là D cấp đến C cấp tả hữu, chúng ta căn bản không cần phải." Chu Nghi Vũ có chút kỳ quái.
+
+Trầm Dịch đã muốn hạ lệnh: "Không, lập tức đem phòng vũ khí tất cả vũ khí toàn bộ lấy đi, lại để cho triệu hoán binh sĩ cho Hồng Lãng Kim Cương bọn hắn đưa qua!"
+
+Mọi người ngẩn ngơ, Hồng Lãng lại càng kêu lên: "Lão đại ngươi nói đùa gì vậy? Ta dùng cái kia thứ đồ hư làm gì?"
+
+Trầm Dịch cũng mặc kệ hắn: "Không dùng cũng phải cầm làm dáng, Nghi Vũ chiếu ta nói làm, đem tất cả súng chuyển không, dẫn không đi trước hết phóng trong không gian, một cây cũng đừng lưu lại."
+
+"Minh bạch." Chu Nghi Vũ cùng mập mạp vội vàng chỉ huy triệu hoán binh sĩ bắt đầu theo phòng vũ khí lấy súng.
+
+Những này súng nói thực ra uy lực thật sự bình thường, cũng không phải xem xét vật phẩm, vô pháp mang về đô thị. Coi như là có quyển trục Giám Định, xem xét trở về cũng không phải là cái gì có lợi mua bán. Nếu như là cái khác mạo hiểm giả chứng kiến, hơn phân nửa cũng sẽ không để ý.
+
+"Ngươi đang lo lắng cái gì?" Ôn Nhu hỏi.
+
+Trầm Dịch do dự một chút trả lời: "Ta không biết. . . Chỉ có thể nói lo trước khỏi hoạ a. Có lẽ muốn chờ chúng ta gặp được con quái vật đầu tiên, hoặc là cái thứ nhất đợi cứu rỗi nhân viên, ta mới có thể tìm được đáp án. Nhưng ở trước đó, ta không hy vọng bỏ qua hết thảy khả năng đối với chúng ta có giúp đỡ mấy cái gì đó."
+
+Đúng lúc này, Kim Cương bên kia đột nhiên truyền đến 'Rống' một tiếng la lên.
+
+"Phía trước có động tĩnh!" Kim Cương đối với kênh khẽ quát một tiếng, người đã như mũi tên loại vọt tới.
+
+(*): BFG
+<a href="https://upload.wikimedia.org/wikipedia/en/d/de/BFG9000.png">https://upload.wikimedia.org/wikipedia/en/d/de/BFG9000.png</a> 
+<a href="https://www.cgsociety.org/cgsarchive/newgallerycrits/g85/3785/3785_1330765479_large.jpg">https://www.cgsociety.org/cgsarchive/newgallerycrits/g85/3785/3785_1330765479_large.jpg</a>Doom là công ty ID Software tại năm 1993 đẩy ra một cái trò chơi bắn súng góc nhìn thứ nhất, tại lúc ấy từng phổ biến một thời. Năm 2005, Andrzej Bartkowiak đạo diễn do nó chuyển thể cùng tên điện ảnh 《 Doom 》.
+
+Điện ảnh giảng thuật tại công nguyên năm 2046, ở Sở nghiên cứu khảo sát Olduvai sao Hỏa đột nhiên gặp dị sinh vật công kích, tại Trái Đất phái ra một chi tiểu đội 8 người thuộc thủy quân lục chiến biệt đội Rapid Response Tactical Squad ( RRTS ) đến cứu viện.
+
+Theo chế tác phong cách đến giảng, cái này mặc dù là một bộ phim khoa học viễn tưởng, nhưng là đại lượng vận dụng hắc ám nguyên tố, đi chính là huyết tinh kinh hãi lộ tuyến.
+
+Cả bộ điện ảnh cơ hồ không có quá nhiều nội dung cốt truyện đáng nói, tất cả câu chuyện phát sinh ở sáu tiếng đồng hồ trong vòng, cơ hồ đều là nói tiểu đội đặc chủng tìm kiếm quái vật, săn giết cùng phản săn giết câu chuyện, chỉnh thể phong cách đại thể cùng quái vật 1 tương tự.
+
+Cái này phong cách nhưng thật ra là đám người mạo hiểm chỗ không thích nhất —— theo bắt đầu đến chấm dứt, một mực đều tại chiến đấu, cơ hồ ngay thở một ngụm thời gian đều không có.
+
+Cái này cũng đồng thời ý nghĩa ngươi cơ hồ không có thời gian đi tự hỏi, không có thời gian đi khai phát Ẩn Tàng nhiệm vụ, không có thời gian đi làm kế hoạch. . .
+
+Tại hoàn cảnh như vậy ở phía trong, thực lực là quyết định hết thảy yếu tố duy nhất.
+
+Nhưng nếu như ngay thực lực đều bị hạn chế nữa nha?
+
+. . .
+
+Đương làm Trầm Dịch Hồng Lãng bọn hắn đi qua cổng truyền tống sau, phát hiện mình đã ở vào một mảnh trống trải trong đại sảnh.
+
+Theo nguyên một đám mạo hiểm giả xuất hiện, cổng truyền tống sau khi biến mất, trong đại sảnh đã muốn đứng ba mươi sáu tên mạo hiểm giả.
+
+Văn chương Huyết Tinh lại lần nữa vang lên:
+
+"Tiến vào Doom nhiệm vụ thế giới, trước mặt vị trí vị trí: Sở nghiên cứu khảo sát Olduvai sao Hỏa bên ngoài."
+
+"Nhiệm vụ hình thức: hình thức cứu viện tốc hành. Mạo hiểm giả trong lúc đó lẫn nhau chiến đấu, thương tổn suy yếu 25%, giết chết mặt khác mạo hiểm giả không ban thưởng. Nhiệm vụ thời gian bốn tiếng đồng hồ."
+
+"Nhiệm vụ chính tuyến một: cứu viện tất cả nhân loại không bị lây nhiễm trong Sở nghiên cứu. Mỗi tên mạo hiểm giả phải cứu ra ít nhất một người, cũng bảo đảm hắn an toàn cho đến nhiệm vụ chấm dứt. Nhiệm vụ chấm dứt, ban thưởng điểm Huyết Tinh 3000 điểm. Mỗi nhiều cứu một người, phần thưởng bổ sung 3000 điểm. Nhiệm vụ thất bại, mạt sát."
+
+"Nhiệm vụ chính tuyến hai: giết chết trong Sở nghiên cứu tất cả biến dị sinh vật, phá hư chúng nó kế hoạch đi đến Địa Cầu. Bản nhiệm vụ thuộc về toàn thể nhiệm vụ, nhiệm vụ sau khi kết thúc, mỗi còn sống một chỉ biến dị sinh vật, toàn thể khấu trừ 100 điểm Huyết Tinh."
+
+"Bối cảnh giới thiệu: do Sarge suất lĩnh RRTS đã ở hai giờ trước đã tìm đến Sở nghiên cứu, cũng đã hạ lệnh giới nghiêm sáu tiếng. Nhưng mà hắn cũng không biết, quái vật tánh mạng tại trong Sở nghiên cứu đã muốn tràn lan, cũng đã khống chế cả Sở nghiên cứu, đội viên tánh mạng chính nguy tại sớm tối. Tiểu đội đặc chủng thành viên Portman vi phạm Sarge mệnh lệnh, bí mật hướng căn cứ phát ra cầu viện tín hiệu, Liên minh hàng không vũ trụ UAC ( Union Aerospace Corporation ) quyết định phái ra đội hình càng cường đại hơn bộ đội trước đến giải quyết lần này nguy cơ ( tức mạo hiểm giả đội ngũ ), cũng mang về nghiên cứu tư liệu. Nhưng mà bọn hắn tới vẫn tới chậm hơn, đại lượng căn cứ may mắn còn sống sót nhân viên đã bị cuốn hút, trở thành quái vật một bộ phận, mà càng nhiều là không lây nhiễm nhân loại cũng ở vào sắp bị cuốn hút giai đoạn. Ngoài ra biến dị sinh vật lại càng tại bày ra kế hoạch tấn công Địa Cầu căn cứ. . ."
+
+"Nhiệm vụ nhắc nhở: đừng cho người khác hoài nghi thân phận của các ngươi, nếu không ngươi sẽ trả giá thật nhiều."
+
+. . .
+
+Xem đến nhiệm vụ hạ đạt, trong đại sảnh vang lên một mảnh ông ầm ĩ thanh âm, tất cả mọi người nghị luận ào ào, hiển nhiên là tại thảo luận nhiệm vụ.
+
+Dựa theo nguyên nội dung cốt truyện, Sarge tiểu đội tại xác nhận tao ngộ nguy hiểm, tử vong nửa số thành viên sau, bởi vì quái vật trốn về Địa Cầu, cũng đi theo về tới Địa Cầu, cũng tại đó triển khai một hồi đại tác chiến.
+
+Nhưng là lần này nội dung cốt truyện hiển nhiên là xuất hiện trọng đại bước ngoặc. Quái vật tánh mạng chưa trở lại Địa Cầu, Sarge tiểu đội cũng đã bị vây ở Sở nghiên cứu trung.
+
+Kế tiếp như thế nào, muốn xem đoàn đội mạo hiểm.
+
+Kim Cương nhíu mày: "Tại sao sẽ là như vậy nhiệm vụ?"
+
+Nhiệm vụ chính tuyến hai còn dễ nói, mấu chốt là nhiệm vụ chính tuyến một, yêu cầu mỗi tên mạo hiểm giả ít nhất cứu ra một gã không lây nhiễm nhân viên, cũng bảo vệ đến cuối cùng. Ai cũng không biết cái này Sở nghiên cứu ở phía trong còn có thể hay không 36 tên không lây nhiễm nhân viên, coi như là có, bởi vì có quá số ban thưởng, đối với người khác mà nói cũng phải càng nhiều càng tốt, hết lần này tới lần khác nhiệm vụ chính tuyến đầu tiên thất bại hậu quả có lẽ hay là mạt sát, cái này ý nghĩa tranh đoạt tất nhiên tồn tại.
+
+Không thể đồng tâm hợp tác kết cục, chính là đám người mạo hiểm chẳng những muốn đối mặt quái vật công kích, càng muốn đối mặt đến từ mạo hiểm giả công kích.
+
+Hồng Lãng cũng lầm bầm một câu: "Còn có chúng ta như thế nào phán đoán nhân loại rốt cuộc có hay không đã bị lây nhiễm?"
+
+Rất hiển nhiên đây cũng là cái phiền toái.
+
+Chu Nghi Vũ tắc chính là nhìn xem cái kia đi thông Sở nghiên cứu cửa lớn, lầm bầm một câu: "Móa nó, nơi này không có cách nào khác lái xe."
+
+Phức tạp bên trong hoàn cảnh lại để cho hắn lớn nhất ưu thế bị hạn chế ở.
+
+Duy có Trầm Dịch, cau mày không biết đang tự hỏi cái gì.
+
+Ôn Nhu nhìn hắn một cái: "Đang suy nghĩ gì?"
+
+Trầm Dịch như ở trong mộng mới tỉnh, "Ah" một tiếng: "Ah, ta đang kỳ quái câu kia nhiệm vụ nhắc nhở. . . Đừng cho người khác hoài nghi thân phận của các ngươi, nếu không ngươi sẽ trả giá thật nhiều. . . Những lời này có ý tứ gì?"
+
+Ôn Nhu nghĩ nghĩ, lắc đầu: "Không rõ, bất quá bây giờ không phải thảo luận cái này thời điểm, ngươi xem, có người muốn bắt đầu hành động."
+
+Cách đó không xa, vài tên mạo hiểm giả đã bắt đầu hướng về thông đạo đi đến. Rất hiển nhiên, từ nơi ấy bắt đầu, mọi người đem một đường tiến vào Sở nghiên cứu, cũng chính thức triển khai nhiệm vụ.
+
+Có người vẫn còn gọi: "Xin đợi một chút, tại bắt đầu nhiệm vụ trước, chúng ta nên vậy trước làm một cái thương lượng. Ta đề nghị, tất cả mạo hiểm giả cũng không muốn tranh đoạt cứu viện mục tiêu, cái kia sẽ chỉ làm chúng ta tự giết lẫn nhau, chúng ta nên vậy. . ."
+
+Không có người để ý đến hắn.
+
+Đạo lý nói ra mỗi người đều hiểu, đúng vậy làm bắt đầu rất khó khăn.
+
+Tình huống hiện tại là, cùng với ở chỗ này thảo luận như thế nào phân phối, còn không bằng lập tức đi chấp hành nhiệm vụ. Bốn giờ nhiệm vụ chấp hành thời gian nhưng xa xa không tính là dư dả, không ai dám lãng phí. Về phần công bình phân phối, cường giả không muốn, kẻ yếu không có tư cách, tại không có thông qua chiến đấu xác nhận mạnh yếu trước kia, không có hòa bình đáng nói.
+
+Đại sảnh đi thông cửa Sở nghiên cứu tổng cộng có 8 cánh cửa, phân biệt ở vào đại sảnh bốn phía tám cái phương hướng.
+
+36 tên mạo hiểm giả ào ào hướng bốn phía đi đến, mà ngay cả lúc trước kêu gọi đầu hàng người nhìn xem không có người để ý đến hắn, cũng hậm hực mà đi, cuối cùng nhất trong đại sảnh chỉ còn lại có Trầm Dịch đợi sáu người.
+
+"Lão đại!" Hồng Lãng nhìn Trầm Dịch liếc.
+
+Trầm Dịch thản nhiên nói: "Trừ chúng ta bên ngoài ba mươi người, ba cái đoàn đội chung 21 người, rải rác nhân viên 9 người. Trong đó ba đoàn đội đi là cửa chính trước mặt, cửa trước mặt bên trái, cùng cửa ở giữa bên trái ba hướng. Chín tên rải rác nhân viên, ba người cửa dưới hông, hai người cửa ở giữa bên phải, hai người cửa trước mặt bên phải, hai người cửa dưới bên phải."
+
+Nói xong hắn mỉm cười: "Còn có cửa dưới bên trái không có người đi, Nghi Vũ, ngươi cùng La Hạo đi cái hướng kia. Hồng Lãng, ngươi đi cửa giữa bên phải, Kim Cương đi cửa trên bên phải, Ôn Nhu đi cửa trên bên trái, ta đi cửa dưới cùng. Chúng ta chia nhau hành động."
+
+"Minh bạch!" Mọi người chính muốn ly khai, Trầm Dịch đột nhiên nói: "Đợi một chút."
+
+Hắn đột nhiên triệu hồi ra kể cả Frost ở bên trong hai mươi tên lính: "Mỗi người dẫn ba tên lính đi qua, có chiến đấu tận lực giao cho bọn họ, các ngươi có thể không ra tay cũng đừng có ra tay. Nếu như tình thế nguy cấp, điều kiện cho phép dưới tình huống, tận lực đừng sử dụng kỹ năng."
+
+"Vì cái gì?" Mọi người khó hiểu.
+
+Trầm Dịch lắc đầu: "Nói thực ra ta cũng không biết vì cái gì, nhưng ta tổng cảm giác câu kia nhiệm vụ nhắc nhở có vấn đề. Bảo hiểm để trước tận lực đừng cho chính mình quá đáng chú ý."
+
+Mọi người lẫn nhau nhìn xem, cùng một chỗ gật đầu: "Minh bạch."
+
+Có được Viên Đạn Trị Liệu Kafka phân phối cho Kim Cương, có được cường lực cận chiến năng lực Ralph phân phối cho Chu Nghi Vũ cùng mập mạp, có được so sánh cường lực phòng ngự cùng tự mình hại mình năng lực Fisi tắc chính là phân cho Ôn Nhu.
+
+Mắt thấy những người khác rời đi, Trầm Dịch bên người còn thừa lại Frost, Arians, Dabinit, Evans cùng với một gã cấp 5 tinh anh binh sĩ, Trầm Dịch trong chớp mắt xuống phía dưới phương thông đạo đi đến.
+
+Hoặc có lẽ là bởi thời gian hạn chế nguyên nhân, mọi người động tác đều rất nhanh.
+
+Chỉ là vài phút đến trễ, lúc trước tiến vào ba gã mạo hiểm giả đã chạy phải không thấy bóng dáng.
+
+Trầm Dịch đến không phải quá sốt ruột, từng bước một hướng trong thông đạo đi đến, thuận tiện cũng quan sát một chút hoàn cảnh nơi này.
+
+Cả Sở nghiên cứu chính là một cực lớn kiến trúc loại tổ ong, đem đại sảnh ở trung ương nhất hướng về bốn phía mở rộng, phân bố có phòng nghiên cứu gien, phòng nghiên cứu vũ khí tiên tiến. . . Nhiều loại khoa học phòng thí nghiệm, cùng với tương quan hậu cần nguyên bộ phương tiện.
+
+Trầm Dịch phát hiện mình tiến vào vừa vặn chính là một khu hậu cần, cùng nhau đi tới cơ hồ đều là nhân viên công tác phòng ngủ, đáng tiếc chính là bên trong toàn bộ không có một bóng người.
+
+Đi trong chốc lát, Trầm Dịch mở ra kênh đoàn đội: "Có một tin tức tốt, muốn nghe sao?"
+
+"Cái gì tin tức tốt?" Mọi người cùng nhau hỏi.
+
+"Sở nghiên cứu ở phía trong nên vậy có vượt qua ba trăm tên nhân viên công tác, mà không phải trong nội dung cốt truyện 79 người. Cái này ý nghĩa không lây nhiễm nhân viên rất có thể vượt qua 36 người, nhưng đồng thời chúng ta đối mặt quái vật tại trên số lượng cũng đem viễn siêu nguyên nội dung cốt truyện."
+
+"Làm sao ngươi biết hay sao?"
+
+"Ta hiện tại thân ở khu hậu cần, bốn phía đều là phòng ngủ, phòng ngủ trên có đánh số, lớn nhất tính ra đã muốn vượt qua 300, đáng tiếc chính là bên trong toàn bộ không có một bóng người."
+
+"Khu hậu cần? Ngươi thật đúng là vận may." Mọi người ào ào nở nụ cười.
+
+Nguyên nội dung cốt truyện ở phía trong, tất cả câu chuyện đều phát sinh ở phòng nghiên cứu, phòng thí nghiệm, cùng khu hậu cần nhưng không có bất kỳ liên quan.
+
+Kim Cương trả lời: "Ta tại thiết bị trung tâm, nơi này có không ít mũi nhọn thiết bị, thật muốn bắt bọn nó toàn bộ mang đi. . . Trước mắt còn không có bất kỳ phát hiện nào."
+
+Ôn Nhu cũng trở về đáp: "Xem ra ta vận khí không tệ, ta dường như chính đi ở phòng nghiên cứu trên đường. Bất quá phía trước không chiến đấu dấu vết, không có thấy nhân viên cứu viện, cũng không có quái vật, bổn cô nương chính một người tịch mịch độc hành, thân yêu ngươi không có ý định qua đi theo ta một hồi sao?"
+
+Trầm Dịch trả lời: "Đừng gấp, sẽ có quái vật mở ra miệng lớn dính máu hướng ngươi cầu hôn."
+
+". . . Hỗn đản!"
+
+Sau đó là Hồng Lãng kêu lên: "Lão tử vận khí mới gọi suy nì. Đoán xem ta ở đâu? Phòng dự trữ thật phẩm! Còn có căn tin! Gặp quỷ rồi! Biết rõ ta đứng ở địa phương nào sao? Một đống khoai tây trên mặt! Là con mẹ nó khoai tây!"
+
+Mập mạp vui tươi hớn hở nói: "Xem ra vận khí của chúng ta không sai, chúng ta đây là phòng dự trữ vũ khí."
+
+"Vũ khí?" Tất cả mọi người lỗ tai đều bị dựng lên.
+
+Hồng Lãng lại càng kêu lên: "Có BFG sao?"
+
+BFG (*), trong Doom thế giới uy lực cường đại nhất vũ khí. Đã từng có người tìm được qua cái này món vũ khí, nghe nói uy lực mạnh có thể so với S cấp vũ khí.
+
+Đối với Hồng Lãng vấn đề Chu Nghi Vũ cười nói: "Nghĩ hay quá nhỉ, tất cả đều là chút ít bình thường vũ khí, hơn nữa đều là không xem xét, lại càng không là vô hạn viên đạn, đạn dung lượng có hạn. Duy nhất chỗ tốt đại khái chính là sử dụng những này súng không có bất kỳ điều kiện tiên quyết."
+
+"Ngươi nói cái gì?" Trầm Dịch vội vàng hỏi: "Ngươi nói những kia súng không có sử dụng điều kiện?"
+
+"Ân, bất quá uy lực bình thường, đại khái là là D cấp đến C cấp tả hữu, chúng ta căn bản không cần phải." Chu Nghi Vũ có chút kỳ quái.
+
+Trầm Dịch đã muốn hạ lệnh: "Không, lập tức đem phòng vũ khí tất cả vũ khí toàn bộ lấy đi, lại để cho triệu hoán binh sĩ cho Hồng Lãng Kim Cương bọn hắn đưa qua!"
+
+Mọi người ngẩn ngơ, Hồng Lãng lại càng kêu lên: "Lão đại ngươi nói đùa gì vậy? Ta dùng cái kia thứ đồ hư làm gì?"
+
+Trầm Dịch cũng mặc kệ hắn: "Không dùng cũng phải cầm làm dáng, Nghi Vũ chiếu ta nói làm, đem tất cả súng chuyển không, dẫn không đi trước hết phóng trong không gian, một cây cũng đừng lưu lại."
+
+"Minh bạch." Chu Nghi Vũ cùng mập mạp vội vàng chỉ huy triệu hoán binh sĩ bắt đầu theo phòng vũ khí lấy súng.
+
+Những này súng nói thực ra uy lực thật sự bình thường, cũng không phải xem xét vật phẩm, vô pháp mang về đô thị. Coi như là có quyển trục Giám Định, xem xét trở về cũng không phải là cái gì có lợi mua bán. Nếu như là cái khác mạo hiểm giả chứng kiến, hơn phân nửa cũng sẽ không để ý.
+
+"Ngươi đang lo lắng cái gì?" Ôn Nhu hỏi.
+
+Trầm Dịch do dự một chút trả lời: "Ta không biết. . . Chỉ có thể nói lo trước khỏi hoạ a. Có lẽ muốn chờ chúng ta gặp được con quái vật đầu tiên, hoặc là cái thứ nhất đợi cứu rỗi nhân viên, ta mới có thể tìm được đáp án. Nhưng ở trước đó, ta không hy vọng bỏ qua hết thảy khả năng đối với chúng ta có giúp đỡ mấy cái gì đó."
+
+Đúng lúc này, Kim Cương bên kia đột nhiên truyền đến 'Rống' một tiếng la lên.
+
+"Phía trước có động tĩnh!" Kim Cương đối với kênh khẽ quát một tiếng, người đã như mũi tên loại vọt tới.
+
+(*): BFG
+<a href="https://upload.wikimedia.org/wikipedia/en/d/de/BFG9000.png">https://upload.wikimedia.org/wikipedia/en/d/de/BFG9000.png</a> 
+<a href="https://www.cgsociety.org/cgsarchive/newgallerycrits/g85/3785/3785_1330765479_large.jpg">https://www.cgsociety.org/cgsarchive/newgallerycrits/g85/3785/3785_1330765479_large.jpg</a>Doom là công ty ID Software tại năm 1993 đẩy ra một cái trò chơi bắn súng góc nhìn thứ nhất, tại lúc ấy từng phổ biến một thời. Năm 2005, Andrzej Bartkowiak đạo diễn do nó chuyển thể cùng tên điện ảnh 《 Doom 》.
+
+Điện ảnh giảng thuật tại công nguyên năm 2046, ở Sở nghiên cứu khảo sát Olduvai sao Hỏa đột nhiên gặp dị sinh vật công kích, tại Trái Đất phái ra một chi tiểu đội 8 người thuộc thủy quân lục chiến biệt đội Rapid Response Tactical Squad ( RRTS ) đến cứu viện.
+
+Theo chế tác phong cách đến giảng, cái này mặc dù là một bộ phim khoa học viễn tưởng, nhưng là đại lượng vận dụng hắc ám nguyên tố, đi chính là huyết tinh kinh hãi lộ tuyến.
+
+Cả bộ điện ảnh cơ hồ không có quá nhiều nội dung cốt truyện đáng nói, tất cả câu chuyện phát sinh ở sáu tiếng đồng hồ trong vòng, cơ hồ đều là nói tiểu đội đặc chủng tìm kiếm quái vật, săn giết cùng phản săn giết câu chuyện, chỉnh thể phong cách đại thể cùng quái vật 1 tương tự.
+
+Cái này phong cách nhưng thật ra là đám người mạo hiểm chỗ không thích nhất —— theo bắt đầu đến chấm dứt, một mực đều tại chiến đấu, cơ hồ ngay thở một ngụm thời gian đều không có.
+
+Cái này cũng đồng thời ý nghĩa ngươi cơ hồ không có thời gian đi tự hỏi, không có thời gian đi khai phát Ẩn Tàng nhiệm vụ, không có thời gian đi làm kế hoạch. . .
+
+Tại hoàn cảnh như vậy ở phía trong, thực lực là quyết định hết thảy yếu tố duy nhất.
+
+Nhưng nếu như ngay thực lực đều bị hạn chế nữa nha?
+
+. . .
+
+Đương làm Trầm Dịch Hồng Lãng bọn hắn đi qua cổng truyền tống sau, phát hiện mình đã ở vào một mảnh trống trải trong đại sảnh.
+
+Theo nguyên một đám mạo hiểm giả xuất hiện, cổng truyền tống sau khi biến mất, trong đại sảnh đã muốn đứng ba mươi sáu tên mạo hiểm giả.
+
+Văn chương Huyết Tinh lại lần nữa vang lên:
+
+"Tiến vào Doom nhiệm vụ thế giới, trước mặt vị trí vị trí: Sở nghiên cứu khảo sát Olduvai sao Hỏa bên ngoài."
+
+"Nhiệm vụ hình thức: hình thức cứu viện tốc hành. Mạo hiểm giả trong lúc đó lẫn nhau chiến đấu, thương tổn suy yếu 25%, giết chết mặt khác mạo hiểm giả không ban thưởng. Nhiệm vụ thời gian bốn tiếng đồng hồ."
+
+"Nhiệm vụ chính tuyến một: cứu viện tất cả nhân loại không bị lây nhiễm trong Sở nghiên cứu. Mỗi tên mạo hiểm giả phải cứu ra ít nhất một người, cũng bảo đảm hắn an toàn cho đến nhiệm vụ chấm dứt. Nhiệm vụ chấm dứt, ban thưởng điểm Huyết Tinh 3000 điểm. Mỗi nhiều cứu một người, phần thưởng bổ sung 3000 điểm. Nhiệm vụ thất bại, mạt sát."
+
+"Nhiệm vụ chính tuyến hai: giết chết trong Sở nghiên cứu tất cả biến dị sinh vật, phá hư chúng nó kế hoạch đi đến Địa Cầu. Bản nhiệm vụ thuộc về toàn thể nhiệm vụ, nhiệm vụ sau khi kết thúc, mỗi còn sống một chỉ biến dị sinh vật, toàn thể khấu trừ 100 điểm Huyết Tinh."
+
+"Bối cảnh giới thiệu: do Sarge suất lĩnh RRTS đã ở hai giờ trước đã tìm đến Sở nghiên cứu, cũng đã hạ lệnh giới nghiêm sáu tiếng. Nhưng mà hắn cũng không biết, quái vật tánh mạng tại trong Sở nghiên cứu đã muốn tràn lan, cũng đã khống chế cả Sở nghiên cứu, đội viên tánh mạng chính nguy tại sớm tối. Tiểu đội đặc chủng thành viên Portman vi phạm Sarge mệnh lệnh, bí mật hướng căn cứ phát ra cầu viện tín hiệu, Liên minh hàng không vũ trụ UAC ( Union Aerospace Corporation ) quyết định phái ra đội hình càng cường đại hơn bộ đội trước đến giải quyết lần này nguy cơ ( tức mạo hiểm giả đội ngũ ), cũng mang về nghiên cứu tư liệu. Nhưng mà bọn hắn tới vẫn tới chậm hơn, đại lượng căn cứ may mắn còn sống sót nhân viên đã bị cuốn hút, trở thành quái vật một bộ phận, mà càng nhiều là không lây nhiễm nhân loại cũng ở vào sắp bị cuốn hút giai đoạn. Ngoài ra biến dị sinh vật lại càng tại bày ra kế hoạch tấn công Địa Cầu căn cứ. . ."
+
+"Nhiệm vụ nhắc nhở: đừng cho người khác hoài nghi thân phận của các ngươi, nếu không ngươi sẽ trả giá thật nhiều."
+
+. . .
+
+Xem đến nhiệm vụ hạ đạt, trong đại sảnh vang lên một mảnh ông ầm ĩ thanh âm, tất cả mọi người nghị luận ào ào, hiển nhiên là tại thảo luận nhiệm vụ.
+
+Dựa theo nguyên nội dung cốt truyện, Sarge tiểu đội tại xác nhận tao ngộ nguy hiểm, tử vong nửa số thành viên sau, bởi vì quái vật trốn về Địa Cầu, cũng đi theo về tới Địa Cầu, cũng tại đó triển khai một hồi đại tác chiến.
+
+Nhưng là lần này nội dung cốt truyện hiển nhiên là xuất hiện trọng đại bước ngoặc. Quái vật tánh mạng chưa trở lại Địa Cầu, Sarge tiểu đội cũng đã bị vây ở Sở nghiên cứu trung.
+
+Kế tiếp như thế nào, muốn xem đoàn đội mạo hiểm.
+
+Kim Cương nhíu mày: "Tại sao sẽ là như vậy nhiệm vụ?"
+
+Nhiệm vụ chính tuyến hai còn dễ nói, mấu chốt là nhiệm vụ chính tuyến một, yêu cầu mỗi tên mạo hiểm giả ít nhất cứu ra một gã không lây nhiễm nhân viên, cũng bảo vệ đến cuối cùng. Ai cũng không biết cái này Sở nghiên cứu ở phía trong còn có thể hay không 36 tên không lây nhiễm nhân viên, coi như là có, bởi vì có quá số ban thưởng, đối với người khác mà nói cũng phải càng nhiều càng tốt, hết lần này tới lần khác nhiệm vụ chính tuyến đầu tiên thất bại hậu quả có lẽ hay là mạt sát, cái này ý nghĩa tranh đoạt tất nhiên tồn tại.
+
+Không thể đồng tâm hợp tác kết cục, chính là đám người mạo hiểm chẳng những muốn đối mặt quái vật công kích, càng muốn đối mặt đến từ mạo hiểm giả công kích.
+
+Hồng Lãng cũng lầm bầm một câu: "Còn có chúng ta như thế nào phán đoán nhân loại rốt cuộc có hay không đã bị lây nhiễm?"
+
+Rất hiển nhiên đây cũng là cái phiền toái.
+
+Chu Nghi Vũ tắc chính là nhìn xem cái kia đi thông Sở nghiên cứu cửa lớn, lầm bầm một câu: "Móa nó, nơi này không có cách nào khác lái xe."
+
+Phức tạp bên trong hoàn cảnh lại để cho hắn lớn nhất ưu thế bị hạn chế ở.
+
+Duy có Trầm Dịch, cau mày không biết đang tự hỏi cái gì.
+
+Ôn Nhu nhìn hắn một cái: "Đang suy nghĩ gì?"
+
+Trầm Dịch như ở trong mộng mới tỉnh, "Ah" một tiếng: "Ah, ta đang kỳ quái câu kia nhiệm vụ nhắc nhở. . . Đừng cho người khác hoài nghi thân phận của các ngươi, nếu không ngươi sẽ trả giá thật nhiều. . . Những lời này có ý tứ gì?"
+
+Ôn Nhu nghĩ nghĩ, lắc đầu: "Không rõ, bất quá bây giờ không phải thảo luận cái này thời điểm, ngươi xem, có người muốn bắt đầu hành động."
+
+Cách đó không xa, vài tên mạo hiểm giả đã bắt đầu hướng về thông đạo đi đến. Rất hiển nhiên, từ nơi ấy bắt đầu, mọi người đem một đường tiến vào Sở nghiên cứu, cũng chính thức triển khai nhiệm vụ.
+
+Có người vẫn còn gọi: "Xin đợi một chút, tại bắt đầu nhiệm vụ trước, chúng ta nên vậy trước làm một cái thương lượng. Ta đề nghị, tất cả mạo hiểm giả cũng không muốn tranh đoạt cứu viện mục tiêu, cái kia sẽ chỉ làm chúng ta tự giết lẫn nhau, chúng ta nên vậy. . ."
+
+Không có người để ý đến hắn.
+
+Đạo lý nói ra mỗi người đều hiểu, đúng vậy làm bắt đầu rất khó khăn.
+
+Tình huống hiện tại là, cùng với ở chỗ này thảo luận như thế nào phân phối, còn không bằng lập tức đi chấp hành nhiệm vụ. Bốn giờ nhiệm vụ chấp hành thời gian nhưng xa xa không tính là dư dả, không ai dám lãng phí. Về phần công bình phân phối, cường giả không muốn, kẻ yếu không có tư cách, tại không có thông qua chiến đấu xác nhận mạnh yếu trước kia, không có hòa bình đáng nói.
+
+Đại sảnh đi thông cửa Sở nghiên cứu tổng cộng có 8 cánh cửa, phân biệt ở vào đại sảnh bốn phía tám cái phương hướng.
+
+36 tên mạo hiểm giả ào ào hướng bốn phía đi đến, mà ngay cả lúc trước kêu gọi đầu hàng người nhìn xem không có người để ý đến hắn, cũng hậm hực mà đi, cuối cùng nhất trong đại sảnh chỉ còn lại có Trầm Dịch đợi sáu người.
+
+"Lão đại!" Hồng Lãng nhìn Trầm Dịch liếc.
+
+Trầm Dịch thản nhiên nói: "Trừ chúng ta bên ngoài ba mươi người, ba cái đoàn đội chung 21 người, rải rác nhân viên 9 người. Trong đó ba đoàn đội đi là cửa chính trước mặt, cửa trước mặt bên trái, cùng cửa ở giữa bên trái ba hướng. Chín tên rải rác nhân viên, ba người cửa dưới hông, hai người cửa ở giữa bên phải, hai người cửa trước mặt bên phải, hai người cửa dưới bên phải."
+
+Nói xong hắn mỉm cười: "Còn có cửa dưới bên trái không có người đi, Nghi Vũ, ngươi cùng La Hạo đi cái hướng kia. Hồng Lãng, ngươi đi cửa giữa bên phải, Kim Cương đi cửa trên bên phải, Ôn Nhu đi cửa trên bên trái, ta đi cửa dưới cùng. Chúng ta chia nhau hành động."
+
+"Minh bạch!" Mọi người chính muốn ly khai, Trầm Dịch đột nhiên nói: "Đợi một chút."
+
+Hắn đột nhiên triệu hồi ra kể cả Frost ở bên trong hai mươi tên lính: "Mỗi người dẫn ba tên lính đi qua, có chiến đấu tận lực giao cho bọn họ, các ngươi có thể không ra tay cũng đừng có ra tay. Nếu như tình thế nguy cấp, điều kiện cho phép dưới tình huống, tận lực đừng sử dụng kỹ năng."
+
+"Vì cái gì?" Mọi người khó hiểu.
+
+Trầm Dịch lắc đầu: "Nói thực ra ta cũng không biết vì cái gì, nhưng ta tổng cảm giác câu kia nhiệm vụ nhắc nhở có vấn đề. Bảo hiểm để trước tận lực đừng cho chính mình quá đáng chú ý."
+
+Mọi người lẫn nhau nhìn xem, cùng một chỗ gật đầu: "Minh bạch."
+
+Có được Viên Đạn Trị Liệu Kafka phân phối cho Kim Cương, có được cường lực cận chiến năng lực Ralph phân phối cho Chu Nghi Vũ cùng mập mạp, có được so sánh cường lực phòng ngự cùng tự mình hại mình năng lực Fisi tắc chính là phân cho Ôn Nhu.
+
+Mắt thấy những người khác rời đi, Trầm Dịch bên người còn thừa lại Frost, Arians, Dabinit, Evans cùng với một gã cấp 5 tinh anh binh sĩ, Trầm Dịch trong chớp mắt xuống phía dưới phương thông đạo đi đến.
+
+Hoặc có lẽ là bởi thời gian hạn chế nguyên nhân, mọi người động tác đều rất nhanh.
+
+Chỉ là vài phút đến trễ, lúc trước tiến vào ba gã mạo hiểm giả đã chạy phải không thấy bóng dáng.
+
+Trầm Dịch đến không phải quá sốt ruột, từng bước một hướng trong thông đạo đi đến, thuận tiện cũng quan sát một chút hoàn cảnh nơi này.
+
+Cả Sở nghiên cứu chính là một cực lớn kiến trúc loại tổ ong, đem đại sảnh ở trung ương nhất hướng về bốn phía mở rộng, phân bố có phòng nghiên cứu gien, phòng nghiên cứu vũ khí tiên tiến. . . Nhiều loại khoa học phòng thí nghiệm, cùng với tương quan hậu cần nguyên bộ phương tiện.
+
+Trầm Dịch phát hiện mình tiến vào vừa vặn chính là một khu hậu cần, cùng nhau đi tới cơ hồ đều là nhân viên công tác phòng ngủ, đáng tiếc chính là bên trong toàn bộ không có một bóng người.
+
+Đi trong chốc lát, Trầm Dịch mở ra kênh đoàn đội: "Có một tin tức tốt, muốn nghe sao?"
+
+"Cái gì tin tức tốt?" Mọi người cùng nhau hỏi.
+
+"Sở nghiên cứu ở phía trong nên vậy có vượt qua ba trăm tên nhân viên công tác, mà không phải trong nội dung cốt truyện 79 người. Cái này ý nghĩa không lây nhiễm nhân viên rất có thể vượt qua 36 người, nhưng đồng thời chúng ta đối mặt quái vật tại trên số lượng cũng đem viễn siêu nguyên nội dung cốt truyện."
+
+"Làm sao ngươi biết hay sao?"
+
+"Ta hiện tại thân ở khu hậu cần, bốn phía đều là phòng ngủ, phòng ngủ trên có đánh số, lớn nhất tính ra đã muốn vượt qua 300, đáng tiếc chính là bên trong toàn bộ không có một bóng người."
+
+"Khu hậu cần? Ngươi thật đúng là vận may." Mọi người ào ào nở nụ cười.
+
+Nguyên nội dung cốt truyện ở phía trong, tất cả câu chuyện đều phát sinh ở phòng nghiên cứu, phòng thí nghiệm, cùng khu hậu cần nhưng không có bất kỳ liên quan.
+
+Kim Cương trả lời: "Ta tại thiết bị trung tâm, nơi này có không ít mũi nhọn thiết bị, thật muốn bắt bọn nó toàn bộ mang đi. . . Trước mắt còn không có bất kỳ phát hiện nào."
+
+Ôn Nhu cũng trở về đáp: "Xem ra ta vận khí không tệ, ta dường như chính đi ở phòng nghiên cứu trên đường. Bất quá phía trước không chiến đấu dấu vết, không có thấy nhân viên cứu viện, cũng không có quái vật, bổn cô nương chính một người tịch mịch độc hành, thân yêu ngươi không có ý định qua đi theo ta một hồi sao?"
+
+Trầm Dịch trả lời: "Đừng gấp, sẽ có quái vật mở ra miệng lớn dính máu hướng ngươi cầu hôn."
+
+". . . Hỗn đản!"
+
+Sau đó là Hồng Lãng kêu lên: "Lão tử vận khí mới gọi suy nì. Đoán xem ta ở đâu? Phòng dự trữ thật phẩm! Còn có căn tin! Gặp quỷ rồi! Biết rõ ta đứng ở địa phương nào sao? Một đống khoai tây trên mặt! Là con mẹ nó khoai tây!"
+
+Mập mạp vui tươi hớn hở nói: "Xem ra vận khí của chúng ta không sai, chúng ta đây là phòng dự trữ vũ khí."
+
+"Vũ khí?" Tất cả mọi người lỗ tai đều bị dựng lên.
+
+Hồng Lãng lại càng kêu lên: "Có BFG sao?"
+
+BFG (*), trong Doom thế giới uy lực cường đại nhất vũ khí. Đã từng có người tìm được qua cái này món vũ khí, nghe nói uy lực mạnh có thể so với S cấp vũ khí.
+
+Đối với Hồng Lãng vấn đề Chu Nghi Vũ cười nói: "Nghĩ hay quá nhỉ, tất cả đều là chút ít bình thường vũ khí, hơn nữa đều là không xem xét, lại càng không là vô hạn viên đạn, đạn dung lượng có hạn. Duy nhất chỗ tốt đại khái chính là sử dụng những này súng không có bất kỳ điều kiện tiên quyết."
+
+"Ngươi nói cái gì?" Trầm Dịch vội vàng hỏi: "Ngươi nói những kia súng không có sử dụng điều kiện?"
+
+"Ân, bất quá uy lực bình thường, đại khái là là D cấp đến C cấp tả hữu, chúng ta căn bản không cần phải." Chu Nghi Vũ có chút kỳ quái.
+
+Trầm Dịch đã muốn hạ lệnh: "Không, lập tức đem phòng vũ khí tất cả vũ khí toàn bộ lấy đi, lại để cho triệu hoán binh sĩ cho Hồng Lãng Kim Cương bọn hắn đưa qua!"
+
+Mọi người ngẩn ngơ, Hồng Lãng lại càng kêu lên: "Lão đại ngươi nói đùa gì vậy? Ta dùng cái kia thứ đồ hư làm gì?"
+
+Trầm Dịch cũng mặc kệ hắn: "Không dùng cũng phải cầm làm dáng, Nghi Vũ chiếu ta nói làm, đem tất cả súng chuyển không, dẫn không đi trước hết phóng trong không gian, một cây cũng đừng lưu lại."
+
+"Minh bạch." Chu Nghi Vũ cùng mập mạp vội vàng chỉ huy triệu hoán binh sĩ bắt đầu theo phòng vũ khí lấy súng.
+
+Những này súng nói thực ra uy lực thật sự bình thường, cũng không phải xem xét vật phẩm, vô pháp mang về đô thị. Coi như là có quyển trục Giám Định, xem xét trở về cũng không phải là cái gì có lợi mua bán. Nếu như là cái khác mạo hiểm giả chứng kiến, hơn phân nửa cũng sẽ không để ý.
+
+"Ngươi đang lo lắng cái gì?" Ôn Nhu hỏi.
+
+Trầm Dịch do dự một chút trả lời: "Ta không biết. . . Chỉ có thể nói lo trước khỏi hoạ a. Có lẽ muốn chờ chúng ta gặp được con quái vật đầu tiên, hoặc là cái thứ nhất đợi cứu rỗi nhân viên, ta mới có thể tìm được đáp án. Nhưng ở trước đó, ta không hy vọng bỏ qua hết thảy khả năng đối với chúng ta có giúp đỡ mấy cái gì đó."
+
+Đúng lúc này, Kim Cương bên kia đột nhiên truyền đến 'Rống' một tiếng la lên.
+
+"Phía trước có động tĩnh!" Kim Cương đối với kênh khẽ quát một tiếng, người đã như mũi tên loại vọt tới.
+
+(*): BFG
+<a href="https://upload.wikimedia.org/wikipedia/en/d/de/BFG9000.png">https://upload.wikimedia.org/wikipedia/en/d/de/BFG9000.png</a> 
+<a href="https://www.cgsociety.org/cgsarchive/newgallerycrits/g85/3785/3785_1330765479_large.jpg">https://www.cgsociety.org/cgsarchive/newgallerycrits/g85/3785/3785_1330765479_large.jpg</a>

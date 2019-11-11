@@ -1,0 +1,283 @@
+867. Trích cây nho tinh linh (1 : 5)
+ 
+ 	Núi nhỏ pha trên đỉnh nhà không có tường viện, chỉ có một mảng nhỏ sân, có hai đôi vợ chồng ở sân khẩu chờ đợi bọn họ.
+ 
+ 	Steve cho Lý Đỗ giới thiệu, nói đây là một gia bốn chiếc người, toàn gia họ Wade, bị hắn thuê đến giúp đỡ trông coi quản lý đảo Turtle, dù sao bình thường hắn không ở chỗ này ở lại.
+ 
+ 	Một gia bốn chiếc người một năm chi là năm mươi vạn AUD, đây chính là dưỡng đảo chi một trong, chủ nhân không ở nơi này trụ, đến thuê người đến trông coi, mà những người này tiền lương có thể không thấp.
+ 
+ 	Trông coi một hòn đảo, không phải đơn giản chờ ở trên đảo không động đậy cả ngày ngủ ngon, chờ đợi bọn họ sống là rất nhiều.
+ 
+ 	Bọn họ cần thu dọn cây nho viên, cần quản lý mặt cỏ, cần phải bảo vệ tốt vệ sinh, những này sống cũng không ít, đầy đủ bọn họ một ngày bận bịu đến muộn.
+ 
+ 	Ở tại nơi này dạng một hầu như cùng lục địa ngăn cách trên đảo, tính an toàn là cái mầm họa, ai cũng biết có thể mua được tư nhân hòn đảo chính là phú hào, phú hào trong phòng khẳng định có chính là đáng giá đồ vật.
+ 
+ 	Bởi vậy, loại này tư nhân hòn đảo thường thường tao ngộ bọn đạo tặc đến thăm, phải ở chỗ này trụ, không có dũng khí cùng năng lực là không được.
+ 
+ 	Nặng nề việc nhà nông, cô độc hoàn cảnh, nguy hiểm bầu không khí, tất cả những thứ này hợp lại cùng nhau, chính là đến đưa ra cao tiền lương, mới có người nguyên nhân làm việc.
+ 
+ 	Lý Đỗ cùng bốn người chào hỏi, sau đó tiến vào trong phòng.
+ 
+ 	Gian nhà là ba tầng tiểu biệt thự, phong cách cổ điển, bên trong có mộc xà nhà, gang đèn treo cùng gỗ thô làm ra gia cụ, còn có một đại bích lô, tràn ngập nông thôn phong độ.
+ 
+ 	Bởi vì nhà độ cao, ở đây tầm nhìn rất tốt, phòng ăn tới gần một đại cửa sổ sát đất, từ nơi này nhìn ra phía ngoài, có thể nhìn thấy toàn bộ cây nho viên cùng hòn đảo ngoại sóng biển.
+ 
+ 	Đỏ chót phát tử cây nho, màu vàng sẫm cây nho diệp, cây nho điền bên trong bị gió biển thổi không ngừng chập chờn người rơm, còn có xanh thẳm hải dương, trắng như tuyết hải điểu, Lý Đỗ than thở: "Tú sắc khả xan, chỉ là này phong cảnh, liền đủ ta ăn một bữa cơm."
+ 
+ 	"Đây là thức ăn món ngon, nếu như muốn ăn cơm, ta chỗ này có chính là đồ ăn." Steve khá là kiêu ngạo cười nói.
+ 
+ 	Buổi sáng liền cưỡi máy bay trực thăng, bọn họ còn chưa có ăn cơm, Steve sớm gọi điện thoại đã nói, hai vị Wade phu nhân chuẩn bị cho bọn họ phong phú đồ ăn.
+ 
+ 	"Nơi này hết thảy nguyên liệu nấu ăn đều là bản địa trực cung, bình đầu ngư, điêu cá, phường cá cùng ngân phường cá đều là năm tiếng trước món ăn lên bờ, đại ngao tôm, màu xanh lục tôm he cùng tiểu viên Bối lên bờ không đủ hai giờ." Wade tiên sinh giới thiệu.
+ 
+ 	Lý Đỗ nói rằng: "Rất cảm tạ các ngươi hỗ trợ, thực sự là phiền phức các ngươi."
+ 
+ 	Wade tiên sinh đưa ra hai bình rượu vang, sau đó nho nhã lễ độ gật đầu hỏi thăm, nói: "Đây là chúng ta phải làm, các tiên sinh, xin mời chậm rãi hưởng thụ."
+ 
+ 	Elson mở ra rượu vang, cho bọn họ mỗi người rót ra nửa chén.
+ 
+ 	Lý Đỗ quơ quơ chén rượu, cân xứng rượu treo ở chén trên vách chầm chậm hạ lưu, hắn giơ ly rượu lên cười nói: "Đến, cảm cảm ơn chúng ta tốt hỏa kế Steve chiêu đãi."
+ 
+ 	Mọi người chạm cốc, ở cửa sổ sát đất trước hưởng thụ ấm áp mùa thu ánh mặt trời, uống địa phương cây nho tự nhưỡng rượu ngon, thêm vào một bàn bàn đưa ra mỹ thực, tất cả khiến người ta cảm thấy hoàn mỹ.
+ 
+ 	Oku đúng Lý Đỗ đơn độc nâng chén, thở dài nói: "Lão bản, tuỳ tùng trước ngươi, ta chưa bao giờ hy vọng xa vời quá có một ngày ta có thể như vậy hưởng thụ sinh hoạt."
+ 
+ 	Lý Đỗ cười nói: "Đợi được chúng ta mua lại đảo Gull, chúng ta ở phía trên chế tạo một toà càng khỏe mạnh trang viên, ta hướng về ngươi hứa hẹn, mặt trên sẽ có một toà thuộc về phòng của ngươi."
+ 
+ 	Oku ưỡn ngực, đen thùi khuôn mặt trên tất cả đều là ước mơ.
+ 
+ 	Trước tiên bưng lên món ăn là nướng thạch cá pecca, Wade phu nhân phối hợp đường tí hồi hương cùng tây hồng 杮, đậu nành thang cùng mềm mại hương thảo, xem ra rất là cao đại thượng, ăn lên mùi vị rất ngon miệng.
+ 
+ 	Đồng thời còn có nướng hàu sống, những này hàu sống phi thường mới mẻ, vừa quả lên bờ, phối hợp lạp xưởng mảnh vỡ đến ăn là nhất mỹ vị.
+ 
+ 	Còn có một chút món ăn Lý Đỗ chưa từng thấy, Steve giới thiệu với hắn một đạo, là dùng giòn bì úc châu phổi cá phối hợp nhanh xào rau chân vịt, đâm sơn cam, hồi hương tương, mùi vị thơm ngọt.
+ 
+ 	Mặt sau Wade phu nhân lại đưa tới tự chế cá hồi Chum cá mảnh, nó là do tế mài mùtạc, mật ong cùng dầu vừng ướp muối mà thành, lối vào mùi vị phong phú, khiến người ta dư vị vô cùng.
+ 
+ 	Ở trên phi cơ trực thăng dẫn theo một buổi sáng, nửa cái buổi chiều, bọn họ đều đói bụng, mỹ thực, rượu ngon thêm vào mỹ cảnh, đoàn người ăn hài lòng.
+ 
+ 	Steve không ngừng cho bọn họ giới thiệu, chiêu đãi bọn hắn ăn được uống tốt: "Đến, nếm thử ngàn tầng bính thức gia thịt mặc cát ngươi tôm, nó cùng dầu rán phổi cá mảnh phối hợp hương tân bơ tương, ta dám đánh cuộc, ai đều không thể cự tuyệt như vậy mỹ thực. . ."
+ 
+ 	"Còn có nổ cá cùng khoai lang, Wade thái thái chuyên môn, mỗi lần ta đều sẽ kể cả đầu lưỡi đồng thời ăn đi. . ."
+ 
+ 	"Trở lại một chén, để chúng ta chúc mừng lần này gặp nhau, lý, ta cùng ngươi rất hợp duyên, vì duyên phận cụng ly!"
+ 
+ 	"Cụng ly!" Lý Đỗ giơ ly rượu lên.
+ 
+ 	Cơm nước xong, bọn họ dọc theo hòn đảo xoay quanh tản bộ, tiểu đảo ngoại vi có một vòng lối đi bộ, dùng tấm ván gỗ lát thành mà thành, màu vàng lá cây phiêu bay lả tả lạc ở phía trên, có loại tình thơ ý hoạ cảm giác.
+ 
+ 	Wade một gia hái cây nho, Lý Đỗ không chuyện gì làm, liền cũng theo bọn họ đẩy xe đẩy đến trích cây nho.
+ 
+ 	Những này cây nho là xích hà châu cùng Bạch Tư lệnh, chuyên môn dùng để chế riêng cho rượu vang, ăn sống một điểm ăn không ngon.
+ 
+ 	Mì tôm sống hái được một nhét vào trong miệng, nhai : nghiền ngẫm hai cái ói ra đi ra ngoài, cùng hài tử như thế ra bên ngoài thổ nước bọt.
+ 
+ 	Lý Đỗ cũng nếm trải một, mùi vị có chút chua xót, cùng đảo Gull trên ngọc thạch ngón tay cây nho không cách nào so sánh được.
+ 
+ 	Trích cây nho không phải chuyện rất đơn giản , bởi vì còn phải cho những này cây nho phân loại, cái nào có thể lưu lại cất rượu, cái nào vô dụng muốn ném mất, cất rượu cây nho còn muốn phân cấp, không đồng cấp đừng cây nho ủ ra rượu vang giá trị cũng không giống nhau.
+ 
+ 	Steve vẫy tay gọi hắn đi câu cá, Lý Đỗ hỏi Hans có đi hay không, Hans lắc đầu, nói rằng: "Ta ở đảo Gull ngày ngày câu cá, vẫn là đợi ở chỗ này trích cây nho càng thú vị một ít."
+ 
+ 	Oku cười nói: "Kỳ thực chúng ta mỗi ngày ngoại trừ câu cá, chính là trích cây nho, cùng nơi này sinh hoạt gần như."
+ 
+ 	Nếu hai người không có hứng thú, Lý Đỗ liền thả xuống kéo cùng xe đẩy nhỏ mang theo bốn tiểu đi câu cá.
+ 
+ 	Bốn tiểu đúng câu cá không có hứng thú, chúng nó đúng là đúng ở lại chỗ này trích cây nho cảm thấy hứng thú.
+ 
+ 	A miêu nhảy lên rắn chắc cây nho già, dùng móng vuốt sắc bén vung lên, một chuỗi cây nho liền rơi xuống.
+ 
+ 	A Ngao chờ ở phía dưới chờ, cây nho rơi xuống, nó nhanh chóng hất đầu, tinh chuẩn có thể cắn vào cây nho đem, cúi đầu thả xuống, một chuỗi cây nho lạc ở trên mặt đất.
+ 
+ 	Ali móng vuốt nhỏ có thể nhấc lên cây nho, nó dùng thô to đuôi chi chống đất, dùng móng vuốt nhấc lên một chuỗi cây nho nhảy nhảy nhót nhót đến xe đẩy nhỏ trước mặt, dùng sức nhảy một cái thả xuống cây nho, mặc dù sẽ ngã nát mấy viên, nhưng xác thực đưa chúng nó để vào trong xe.
+ 
+ 	Thấy cảnh này, Wade lão tiên sinh kinh ngạc, hắn nói rằng: "Đây là sủng vật của ngài? Chúng nó quả thực là hải đảo tinh linh, quá thông tuệ chứ?"
+ 
+ 	Lý Đỗ cười nói: "Trên thực tế chúng nó chính là tinh linh, trích cây nho tinh linh."867. Trích cây nho tinh linh (1 : 5)
+ 
+ 	Núi nhỏ pha trên đỉnh nhà không có tường viện, chỉ có một mảng nhỏ sân, có hai đôi vợ chồng ở sân khẩu chờ đợi bọn họ.
+ 
+ 	Steve cho Lý Đỗ giới thiệu, nói đây là một gia bốn chiếc người, toàn gia họ Wade, bị hắn thuê đến giúp đỡ trông coi quản lý đảo Turtle, dù sao bình thường hắn không ở chỗ này ở lại.
+ 
+ 	Một gia bốn chiếc người một năm chi là năm mươi vạn AUD, đây chính là dưỡng đảo chi một trong, chủ nhân không ở nơi này trụ, đến thuê người đến trông coi, mà những người này tiền lương có thể không thấp.
+ 
+ 	Trông coi một hòn đảo, không phải đơn giản chờ ở trên đảo không động đậy cả ngày ngủ ngon, chờ đợi bọn họ sống là rất nhiều.
+ 
+ 	Bọn họ cần thu dọn cây nho viên, cần quản lý mặt cỏ, cần phải bảo vệ tốt vệ sinh, những này sống cũng không ít, đầy đủ bọn họ một ngày bận bịu đến muộn.
+ 
+ 	Ở tại nơi này dạng một hầu như cùng lục địa ngăn cách trên đảo, tính an toàn là cái mầm họa, ai cũng biết có thể mua được tư nhân hòn đảo chính là phú hào, phú hào trong phòng khẳng định có chính là đáng giá đồ vật.
+ 
+ 	Bởi vậy, loại này tư nhân hòn đảo thường thường tao ngộ bọn đạo tặc đến thăm, phải ở chỗ này trụ, không có dũng khí cùng năng lực là không được.
+ 
+ 	Nặng nề việc nhà nông, cô độc hoàn cảnh, nguy hiểm bầu không khí, tất cả những thứ này hợp lại cùng nhau, chính là đến đưa ra cao tiền lương, mới có người nguyên nhân làm việc.
+ 
+ 	Lý Đỗ cùng bốn người chào hỏi, sau đó tiến vào trong phòng.
+ 
+ 	Gian nhà là ba tầng tiểu biệt thự, phong cách cổ điển, bên trong có mộc xà nhà, gang đèn treo cùng gỗ thô làm ra gia cụ, còn có một đại bích lô, tràn ngập nông thôn phong độ.
+ 
+ 	Bởi vì nhà độ cao, ở đây tầm nhìn rất tốt, phòng ăn tới gần một đại cửa sổ sát đất, từ nơi này nhìn ra phía ngoài, có thể nhìn thấy toàn bộ cây nho viên cùng hòn đảo ngoại sóng biển.
+ 
+ 	Đỏ chót phát tử cây nho, màu vàng sẫm cây nho diệp, cây nho điền bên trong bị gió biển thổi không ngừng chập chờn người rơm, còn có xanh thẳm hải dương, trắng như tuyết hải điểu, Lý Đỗ than thở: "Tú sắc khả xan, chỉ là này phong cảnh, liền đủ ta ăn một bữa cơm."
+ 
+ 	"Đây là thức ăn món ngon, nếu như muốn ăn cơm, ta chỗ này có chính là đồ ăn." Steve khá là kiêu ngạo cười nói.
+ 
+ 	Buổi sáng liền cưỡi máy bay trực thăng, bọn họ còn chưa có ăn cơm, Steve sớm gọi điện thoại đã nói, hai vị Wade phu nhân chuẩn bị cho bọn họ phong phú đồ ăn.
+ 
+ 	"Nơi này hết thảy nguyên liệu nấu ăn đều là bản địa trực cung, bình đầu ngư, điêu cá, phường cá cùng ngân phường cá đều là năm tiếng trước món ăn lên bờ, đại ngao tôm, màu xanh lục tôm he cùng tiểu viên Bối lên bờ không đủ hai giờ." Wade tiên sinh giới thiệu.
+ 
+ 	Lý Đỗ nói rằng: "Rất cảm tạ các ngươi hỗ trợ, thực sự là phiền phức các ngươi."
+ 
+ 	Wade tiên sinh đưa ra hai bình rượu vang, sau đó nho nhã lễ độ gật đầu hỏi thăm, nói: "Đây là chúng ta phải làm, các tiên sinh, xin mời chậm rãi hưởng thụ."
+ 
+ 	Elson mở ra rượu vang, cho bọn họ mỗi người rót ra nửa chén.
+ 
+ 	Lý Đỗ quơ quơ chén rượu, cân xứng rượu treo ở chén trên vách chầm chậm hạ lưu, hắn giơ ly rượu lên cười nói: "Đến, cảm cảm ơn chúng ta tốt hỏa kế Steve chiêu đãi."
+ 
+ 	Mọi người chạm cốc, ở cửa sổ sát đất trước hưởng thụ ấm áp mùa thu ánh mặt trời, uống địa phương cây nho tự nhưỡng rượu ngon, thêm vào một bàn bàn đưa ra mỹ thực, tất cả khiến người ta cảm thấy hoàn mỹ.
+ 
+ 	Oku đúng Lý Đỗ đơn độc nâng chén, thở dài nói: "Lão bản, tuỳ tùng trước ngươi, ta chưa bao giờ hy vọng xa vời quá có một ngày ta có thể như vậy hưởng thụ sinh hoạt."
+ 
+ 	Lý Đỗ cười nói: "Đợi được chúng ta mua lại đảo Gull, chúng ta ở phía trên chế tạo một toà càng khỏe mạnh trang viên, ta hướng về ngươi hứa hẹn, mặt trên sẽ có một toà thuộc về phòng của ngươi."
+ 
+ 	Oku ưỡn ngực, đen thùi khuôn mặt trên tất cả đều là ước mơ.
+ 
+ 	Trước tiên bưng lên món ăn là nướng thạch cá pecca, Wade phu nhân phối hợp đường tí hồi hương cùng tây hồng 杮, đậu nành thang cùng mềm mại hương thảo, xem ra rất là cao đại thượng, ăn lên mùi vị rất ngon miệng.
+ 
+ 	Đồng thời còn có nướng hàu sống, những này hàu sống phi thường mới mẻ, vừa quả lên bờ, phối hợp lạp xưởng mảnh vỡ đến ăn là nhất mỹ vị.
+ 
+ 	Còn có một chút món ăn Lý Đỗ chưa từng thấy, Steve giới thiệu với hắn một đạo, là dùng giòn bì úc châu phổi cá phối hợp nhanh xào rau chân vịt, đâm sơn cam, hồi hương tương, mùi vị thơm ngọt.
+ 
+ 	Mặt sau Wade phu nhân lại đưa tới tự chế cá hồi Chum cá mảnh, nó là do tế mài mùtạc, mật ong cùng dầu vừng ướp muối mà thành, lối vào mùi vị phong phú, khiến người ta dư vị vô cùng.
+ 
+ 	Ở trên phi cơ trực thăng dẫn theo một buổi sáng, nửa cái buổi chiều, bọn họ đều đói bụng, mỹ thực, rượu ngon thêm vào mỹ cảnh, đoàn người ăn hài lòng.
+ 
+ 	Steve không ngừng cho bọn họ giới thiệu, chiêu đãi bọn hắn ăn được uống tốt: "Đến, nếm thử ngàn tầng bính thức gia thịt mặc cát ngươi tôm, nó cùng dầu rán phổi cá mảnh phối hợp hương tân bơ tương, ta dám đánh cuộc, ai đều không thể cự tuyệt như vậy mỹ thực. . ."
+ 
+ 	"Còn có nổ cá cùng khoai lang, Wade thái thái chuyên môn, mỗi lần ta đều sẽ kể cả đầu lưỡi đồng thời ăn đi. . ."
+ 
+ 	"Trở lại một chén, để chúng ta chúc mừng lần này gặp nhau, lý, ta cùng ngươi rất hợp duyên, vì duyên phận cụng ly!"
+ 
+ 	"Cụng ly!" Lý Đỗ giơ ly rượu lên.
+ 
+ 	Cơm nước xong, bọn họ dọc theo hòn đảo xoay quanh tản bộ, tiểu đảo ngoại vi có một vòng lối đi bộ, dùng tấm ván gỗ lát thành mà thành, màu vàng lá cây phiêu bay lả tả lạc ở phía trên, có loại tình thơ ý hoạ cảm giác.
+ 
+ 	Wade một gia hái cây nho, Lý Đỗ không chuyện gì làm, liền cũng theo bọn họ đẩy xe đẩy đến trích cây nho.
+ 
+ 	Những này cây nho là xích hà châu cùng Bạch Tư lệnh, chuyên môn dùng để chế riêng cho rượu vang, ăn sống một điểm ăn không ngon.
+ 
+ 	Mì tôm sống hái được một nhét vào trong miệng, nhai : nghiền ngẫm hai cái ói ra đi ra ngoài, cùng hài tử như thế ra bên ngoài thổ nước bọt.
+ 
+ 	Lý Đỗ cũng nếm trải một, mùi vị có chút chua xót, cùng đảo Gull trên ngọc thạch ngón tay cây nho không cách nào so sánh được.
+ 
+ 	Trích cây nho không phải chuyện rất đơn giản , bởi vì còn phải cho những này cây nho phân loại, cái nào có thể lưu lại cất rượu, cái nào vô dụng muốn ném mất, cất rượu cây nho còn muốn phân cấp, không đồng cấp đừng cây nho ủ ra rượu vang giá trị cũng không giống nhau.
+ 
+ 	Steve vẫy tay gọi hắn đi câu cá, Lý Đỗ hỏi Hans có đi hay không, Hans lắc đầu, nói rằng: "Ta ở đảo Gull ngày ngày câu cá, vẫn là đợi ở chỗ này trích cây nho càng thú vị một ít."
+ 
+ 	Oku cười nói: "Kỳ thực chúng ta mỗi ngày ngoại trừ câu cá, chính là trích cây nho, cùng nơi này sinh hoạt gần như."
+ 
+ 	Nếu hai người không có hứng thú, Lý Đỗ liền thả xuống kéo cùng xe đẩy nhỏ mang theo bốn tiểu đi câu cá.
+ 
+ 	Bốn tiểu đúng câu cá không có hứng thú, chúng nó đúng là đúng ở lại chỗ này trích cây nho cảm thấy hứng thú.
+ 
+ 	A miêu nhảy lên rắn chắc cây nho già, dùng móng vuốt sắc bén vung lên, một chuỗi cây nho liền rơi xuống.
+ 
+ 	A Ngao chờ ở phía dưới chờ, cây nho rơi xuống, nó nhanh chóng hất đầu, tinh chuẩn có thể cắn vào cây nho đem, cúi đầu thả xuống, một chuỗi cây nho lạc ở trên mặt đất.
+ 
+ 	Ali móng vuốt nhỏ có thể nhấc lên cây nho, nó dùng thô to đuôi chi chống đất, dùng móng vuốt nhấc lên một chuỗi cây nho nhảy nhảy nhót nhót đến xe đẩy nhỏ trước mặt, dùng sức nhảy một cái thả xuống cây nho, mặc dù sẽ ngã nát mấy viên, nhưng xác thực đưa chúng nó để vào trong xe.
+ 
+ 	Thấy cảnh này, Wade lão tiên sinh kinh ngạc, hắn nói rằng: "Đây là sủng vật của ngài? Chúng nó quả thực là hải đảo tinh linh, quá thông tuệ chứ?"
+ 
+ 	Lý Đỗ cười nói: "Trên thực tế chúng nó chính là tinh linh, trích cây nho tinh linh."867. Trích cây nho tinh linh (1 : 5)
+ 
+ 	Núi nhỏ pha trên đỉnh nhà không có tường viện, chỉ có một mảng nhỏ sân, có hai đôi vợ chồng ở sân khẩu chờ đợi bọn họ.
+ 
+ 	Steve cho Lý Đỗ giới thiệu, nói đây là một gia bốn chiếc người, toàn gia họ Wade, bị hắn thuê đến giúp đỡ trông coi quản lý đảo Turtle, dù sao bình thường hắn không ở chỗ này ở lại.
+ 
+ 	Một gia bốn chiếc người một năm chi là năm mươi vạn AUD, đây chính là dưỡng đảo chi một trong, chủ nhân không ở nơi này trụ, đến thuê người đến trông coi, mà những người này tiền lương có thể không thấp.
+ 
+ 	Trông coi một hòn đảo, không phải đơn giản chờ ở trên đảo không động đậy cả ngày ngủ ngon, chờ đợi bọn họ sống là rất nhiều.
+ 
+ 	Bọn họ cần thu dọn cây nho viên, cần quản lý mặt cỏ, cần phải bảo vệ tốt vệ sinh, những này sống cũng không ít, đầy đủ bọn họ một ngày bận bịu đến muộn.
+ 
+ 	Ở tại nơi này dạng một hầu như cùng lục địa ngăn cách trên đảo, tính an toàn là cái mầm họa, ai cũng biết có thể mua được tư nhân hòn đảo chính là phú hào, phú hào trong phòng khẳng định có chính là đáng giá đồ vật.
+ 
+ 	Bởi vậy, loại này tư nhân hòn đảo thường thường tao ngộ bọn đạo tặc đến thăm, phải ở chỗ này trụ, không có dũng khí cùng năng lực là không được.
+ 
+ 	Nặng nề việc nhà nông, cô độc hoàn cảnh, nguy hiểm bầu không khí, tất cả những thứ này hợp lại cùng nhau, chính là đến đưa ra cao tiền lương, mới có người nguyên nhân làm việc.
+ 
+ 	Lý Đỗ cùng bốn người chào hỏi, sau đó tiến vào trong phòng.
+ 
+ 	Gian nhà là ba tầng tiểu biệt thự, phong cách cổ điển, bên trong có mộc xà nhà, gang đèn treo cùng gỗ thô làm ra gia cụ, còn có một đại bích lô, tràn ngập nông thôn phong độ.
+ 
+ 	Bởi vì nhà độ cao, ở đây tầm nhìn rất tốt, phòng ăn tới gần một đại cửa sổ sát đất, từ nơi này nhìn ra phía ngoài, có thể nhìn thấy toàn bộ cây nho viên cùng hòn đảo ngoại sóng biển.
+ 
+ 	Đỏ chót phát tử cây nho, màu vàng sẫm cây nho diệp, cây nho điền bên trong bị gió biển thổi không ngừng chập chờn người rơm, còn có xanh thẳm hải dương, trắng như tuyết hải điểu, Lý Đỗ than thở: "Tú sắc khả xan, chỉ là này phong cảnh, liền đủ ta ăn một bữa cơm."
+ 
+ 	"Đây là thức ăn món ngon, nếu như muốn ăn cơm, ta chỗ này có chính là đồ ăn." Steve khá là kiêu ngạo cười nói.
+ 
+ 	Buổi sáng liền cưỡi máy bay trực thăng, bọn họ còn chưa có ăn cơm, Steve sớm gọi điện thoại đã nói, hai vị Wade phu nhân chuẩn bị cho bọn họ phong phú đồ ăn.
+ 
+ 	"Nơi này hết thảy nguyên liệu nấu ăn đều là bản địa trực cung, bình đầu ngư, điêu cá, phường cá cùng ngân phường cá đều là năm tiếng trước món ăn lên bờ, đại ngao tôm, màu xanh lục tôm he cùng tiểu viên Bối lên bờ không đủ hai giờ." Wade tiên sinh giới thiệu.
+ 
+ 	Lý Đỗ nói rằng: "Rất cảm tạ các ngươi hỗ trợ, thực sự là phiền phức các ngươi."
+ 
+ 	Wade tiên sinh đưa ra hai bình rượu vang, sau đó nho nhã lễ độ gật đầu hỏi thăm, nói: "Đây là chúng ta phải làm, các tiên sinh, xin mời chậm rãi hưởng thụ."
+ 
+ 	Elson mở ra rượu vang, cho bọn họ mỗi người rót ra nửa chén.
+ 
+ 	Lý Đỗ quơ quơ chén rượu, cân xứng rượu treo ở chén trên vách chầm chậm hạ lưu, hắn giơ ly rượu lên cười nói: "Đến, cảm cảm ơn chúng ta tốt hỏa kế Steve chiêu đãi."
+ 
+ 	Mọi người chạm cốc, ở cửa sổ sát đất trước hưởng thụ ấm áp mùa thu ánh mặt trời, uống địa phương cây nho tự nhưỡng rượu ngon, thêm vào một bàn bàn đưa ra mỹ thực, tất cả khiến người ta cảm thấy hoàn mỹ.
+ 
+ 	Oku đúng Lý Đỗ đơn độc nâng chén, thở dài nói: "Lão bản, tuỳ tùng trước ngươi, ta chưa bao giờ hy vọng xa vời quá có một ngày ta có thể như vậy hưởng thụ sinh hoạt."
+ 
+ 	Lý Đỗ cười nói: "Đợi được chúng ta mua lại đảo Gull, chúng ta ở phía trên chế tạo một toà càng khỏe mạnh trang viên, ta hướng về ngươi hứa hẹn, mặt trên sẽ có một toà thuộc về phòng của ngươi."
+ 
+ 	Oku ưỡn ngực, đen thùi khuôn mặt trên tất cả đều là ước mơ.
+ 
+ 	Trước tiên bưng lên món ăn là nướng thạch cá pecca, Wade phu nhân phối hợp đường tí hồi hương cùng tây hồng 杮, đậu nành thang cùng mềm mại hương thảo, xem ra rất là cao đại thượng, ăn lên mùi vị rất ngon miệng.
+ 
+ 	Đồng thời còn có nướng hàu sống, những này hàu sống phi thường mới mẻ, vừa quả lên bờ, phối hợp lạp xưởng mảnh vỡ đến ăn là nhất mỹ vị.
+ 
+ 	Còn có một chút món ăn Lý Đỗ chưa từng thấy, Steve giới thiệu với hắn một đạo, là dùng giòn bì úc châu phổi cá phối hợp nhanh xào rau chân vịt, đâm sơn cam, hồi hương tương, mùi vị thơm ngọt.
+ 
+ 	Mặt sau Wade phu nhân lại đưa tới tự chế cá hồi Chum cá mảnh, nó là do tế mài mùtạc, mật ong cùng dầu vừng ướp muối mà thành, lối vào mùi vị phong phú, khiến người ta dư vị vô cùng.
+ 
+ 	Ở trên phi cơ trực thăng dẫn theo một buổi sáng, nửa cái buổi chiều, bọn họ đều đói bụng, mỹ thực, rượu ngon thêm vào mỹ cảnh, đoàn người ăn hài lòng.
+ 
+ 	Steve không ngừng cho bọn họ giới thiệu, chiêu đãi bọn hắn ăn được uống tốt: "Đến, nếm thử ngàn tầng bính thức gia thịt mặc cát ngươi tôm, nó cùng dầu rán phổi cá mảnh phối hợp hương tân bơ tương, ta dám đánh cuộc, ai đều không thể cự tuyệt như vậy mỹ thực. . ."
+ 
+ 	"Còn có nổ cá cùng khoai lang, Wade thái thái chuyên môn, mỗi lần ta đều sẽ kể cả đầu lưỡi đồng thời ăn đi. . ."
+ 
+ 	"Trở lại một chén, để chúng ta chúc mừng lần này gặp nhau, lý, ta cùng ngươi rất hợp duyên, vì duyên phận cụng ly!"
+ 
+ 	"Cụng ly!" Lý Đỗ giơ ly rượu lên.
+ 
+ 	Cơm nước xong, bọn họ dọc theo hòn đảo xoay quanh tản bộ, tiểu đảo ngoại vi có một vòng lối đi bộ, dùng tấm ván gỗ lát thành mà thành, màu vàng lá cây phiêu bay lả tả lạc ở phía trên, có loại tình thơ ý hoạ cảm giác.
+ 
+ 	Wade một gia hái cây nho, Lý Đỗ không chuyện gì làm, liền cũng theo bọn họ đẩy xe đẩy đến trích cây nho.
+ 
+ 	Những này cây nho là xích hà châu cùng Bạch Tư lệnh, chuyên môn dùng để chế riêng cho rượu vang, ăn sống một điểm ăn không ngon.
+ 
+ 	Mì tôm sống hái được một nhét vào trong miệng, nhai : nghiền ngẫm hai cái ói ra đi ra ngoài, cùng hài tử như thế ra bên ngoài thổ nước bọt.
+ 
+ 	Lý Đỗ cũng nếm trải một, mùi vị có chút chua xót, cùng đảo Gull trên ngọc thạch ngón tay cây nho không cách nào so sánh được.
+ 
+ 	Trích cây nho không phải chuyện rất đơn giản , bởi vì còn phải cho những này cây nho phân loại, cái nào có thể lưu lại cất rượu, cái nào vô dụng muốn ném mất, cất rượu cây nho còn muốn phân cấp, không đồng cấp đừng cây nho ủ ra rượu vang giá trị cũng không giống nhau.
+ 
+ 	Steve vẫy tay gọi hắn đi câu cá, Lý Đỗ hỏi Hans có đi hay không, Hans lắc đầu, nói rằng: "Ta ở đảo Gull ngày ngày câu cá, vẫn là đợi ở chỗ này trích cây nho càng thú vị một ít."
+ 
+ 	Oku cười nói: "Kỳ thực chúng ta mỗi ngày ngoại trừ câu cá, chính là trích cây nho, cùng nơi này sinh hoạt gần như."
+ 
+ 	Nếu hai người không có hứng thú, Lý Đỗ liền thả xuống kéo cùng xe đẩy nhỏ mang theo bốn tiểu đi câu cá.
+ 
+ 	Bốn tiểu đúng câu cá không có hứng thú, chúng nó đúng là đúng ở lại chỗ này trích cây nho cảm thấy hứng thú.
+ 
+ 	A miêu nhảy lên rắn chắc cây nho già, dùng móng vuốt sắc bén vung lên, một chuỗi cây nho liền rơi xuống.
+ 
+ 	A Ngao chờ ở phía dưới chờ, cây nho rơi xuống, nó nhanh chóng hất đầu, tinh chuẩn có thể cắn vào cây nho đem, cúi đầu thả xuống, một chuỗi cây nho lạc ở trên mặt đất.
+ 
+ 	Ali móng vuốt nhỏ có thể nhấc lên cây nho, nó dùng thô to đuôi chi chống đất, dùng móng vuốt nhấc lên một chuỗi cây nho nhảy nhảy nhót nhót đến xe đẩy nhỏ trước mặt, dùng sức nhảy một cái thả xuống cây nho, mặc dù sẽ ngã nát mấy viên, nhưng xác thực đưa chúng nó để vào trong xe.
+ 
+ 	Thấy cảnh này, Wade lão tiên sinh kinh ngạc, hắn nói rằng: "Đây là sủng vật của ngài? Chúng nó quả thực là hải đảo tinh linh, quá thông tuệ chứ?"
+ 
+ 	Lý Đỗ cười nói: "Trên thực tế chúng nó chính là tinh linh, trích cây nho tinh linh."

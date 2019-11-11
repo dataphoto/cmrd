@@ -1,0 +1,517 @@
+Trong khi đám đội viên chạy đôn chạy đáo, một nhóm lo liệu thu thập chiến trường, vẻ mặt từng người không kìm chế được sự hưng phấn khi đột nhiên đối diện với cả đống vật phẩm, tiền vàng, trang bị rơi ra từ quái vật.
+
+Một nhóm khác bao gồm những tên người chơi nghề nghiệp phụ trợ Thợ Rèn, có chút khổ bức nhìn đồng đội lụm đồ vui sướng, còn mình thì phải leo lên trên tường thành hợp kim, không ngừng nện búa sửa chữa lại những cây chông gai hợp kim đã bị tổn hại một ít HP sau đợt sóng quái vật công thành đầu tiên.
+
+Đình Tấn không có mệnh lệnh mở cổng thành ra, thế nên lần này đi thu dọn chiến trường, hết thảy cũng chỉ có người của [The Alliance], còn lại những tên người chơi trong các đội Lính Đánh Thuê liên minh khác, chỉ có thể thèm thuồng đứng bên trong cứ điểm, tưởng tượng ra tràng cảnh đối phương thu nhặt trang bị thế nào.
+
+Coi như quân số cũng chỉ có hơn 1.000 người, nhưng tốc độ càn quét là không thể nào chậm.
+
+Thoắt cái, khi Đình Tấn thậm chí còn chưa kịp hoàn toàn khôi phục về trạng thái đỉnh phong của mình thì đám đội viên đã thu thập xong chiến trường. 
+
+Khu vực bên ngoài tường thành trở về với vẻ hoang vắng, đơn sơ trước đó của nó, chẳng để lại một chút vết tích nào của đàn Trâu Mộc Độc vừa công thành, coi như là một mảnh xương cốt cũng không lưu.
+
+-“Hội Trưởng, đây là vật phẩm thu nhặt được từ con Trâu Mộc Độc Boss và mấy con Tinh Anh. Còn lại số nguyên liệu da lông, xương cốt, sừng các loại đều đã được chuyển giao cho đội phụ trợ mang về EL thành. Tổng cộng lần này có 3.000 con Trâu Mộc Độc, trong đó 2.000 con là bình thường, 999 con Tinh Anh cùng một con Boss.”
+
+Đúng tại khoảnh khắc Đình Tấn vừa khôi phục lại toàn bộ MP và HP đã tiêu hao sau trận chiến, Ameerah mang theo vẻ mặt không thể kìm nén được sự phấn khích mà chạy đến bên cạnh Đình Tấn báo cáo sự tình.
+
+Chưa kịp đi đến nơi thì Ameerah đã không chờ đợi được nữa, trong tay liền xuất ra mấy món đồ vật, bao gồm một tấm khiên cùng với một hòn đá xanh lục tỏa sáng trông khá bắt mắt.
+
+Mộc Độc Khiên
+
+Chất lượng: Đồ Tím
+
+Yêu cầu: Đẳng cấp 35
+
+Thuộc tính: 
+
+-Gia tăng lượng HP khôi phục: 50%
+
+-Khả năng kháng đòn vật lý: 25%
+
+-Khả năng giảm sát thương khi Đón Đỡ thành công: 10%
+
+Hiệu ứng mang theo: Bỏ Độc (Bị Động) – Tự động gây ra 50 điểm tổn thương, kéo dài trong 5 giây, đối với những vật trực diện va chạm với nó. 
+
+(Lưu ý: Trang bị chất lượng [Đồ Tím] (đẳng cấp từ 30 trở lên) có thể chế tác ở hiện thực, điểm thuộc tính dựa trên cơ sở trong game tính toán, độ tương đồng chênh lệch từ 60% - 95% tùy theo cách chế tạo và chất lượng nguyên liệu. Xin mời người chơi cố gắng tìm hiểu, nghiên cứu thêm)
+
+Hạt Nhân Nguyên Tố [Mộc]
+
+Đẳng cấp: 36
+
+Chất lượng: Cao Cấp 
+
+Giới thiệu: Tinh thể được hình thành trong đầu của quái vật thông qua quá trình tiến hóa. Chỉ có quái vật có tinh thể mới có khả năng triệu hồi, sử dụng kỹ năng ma pháp. Chất lượng và thuộc tính của tinh thể thay đổi tùy thuộc vào loại quái vật và sức mạnh của chúng.
+
+Tác dụng: 
+
+-Chế tạo hoặc khảm nạm vào trang bị phòng thủ (Áo, quần, giày, bao tay, nón, áo choàng, phù văn…): Gia tăng giới hạn HP 3 – 7%.
+
+-Chế tạo hoặc khảm nạm vào trang bị tấn công (Vũ khí, phù văn…): Bỏ Độc, ăn mòn sức sống kẻ địch 5 – 10 điểm, kéo dài 5 giây.
+
+-Chế tạo hoặc khảm nạm vào trang bị phụ trợ (Trang sức, phù văn…): Gia tăng khả năng tự khôi phục HP 7 – 11%.
+
+…
+
+Chất lượng đồ vật không thể chê vào đâu, tuy nhiên có điều là Đình Tấn lại không thể nào sử dụng được. Âm thầm lắc đầu tiếc nuối một hồi, cuối cùng hắn cũng chỉ đành cất giọng.
+
+-“Đưa cho Terrell đi, có lẽ cái món đồ vật này thích hợp với hắn hơn. Những thứ còn lại các ngươi chia ra đi, ai cần, ai mang được thì cứ để bọn họ dùng điểm cống hiến đổi lấy. Gấp rút tăng lên một chút thực lực chuẩn bị cho đợt sóng quái vật sắp tới.”
+
+Dù sao nước phù sa không chảy vào ruộng người ngoài, Đình Tấn dĩ nhiên phải tính đến cho người của mình trước, tiếp đó mới là những thành viên bên dưới, sau cùng chỉ lại chút cơm thừa canh cặn thì mới thả ra cho đám người thuộc đội Lính Đánh Thuê trong liên minh kia.
+
+Xem như có làm một điểm gian trá như vậy, Đình Tấn cũng không cảm thấy có lỗi gì, suy cho cùng thì đám Trâu Mộc Độc này cũng là chính hắn cùng đồng đội của mình liều mạng chém giết.
+
+-“Yes sir!”
+
+Ameerah hớn hở hô một tiếng, tận tay đưa cho Đình Tấn viên Đá Nguyên Tố Hạt Nhân xong, liền vội vàng quay trở lại hàng ngũ của mình, phía sau vẫn còn có nhiều chuyện cần nàng đi giải quyết, hay nói đúng hơn là còn một đống trang bị để nàng đi giành giật đây.
+
+Phải biết, muốn một lượt giết hơn 3.000 con Trâu Mộc Độc cũng không phải một kiện sự tình cứ phẩy tay là làm được. Nếu không thì đám người mấy thế lực lớn kia cũng đã hoàn thành xong đợt sóng thứ nhất từ lâu.
+
+Chưa kể đám Trâu Mộc Độc ở đây cường đại hơn những con Reek ở EL thành rất nhiều, mà số lượng bầy đàn của bọn chúng còn đông hơn gấp chục lần, cho nên thu hoạch phong phú là nhất định phải có.
+
+Mục đích của Đình Tấn rất rõ ràng là muốn lợi dụng những trang bị này tăng cường lên thực lực của đám thành viên [The Alliance] của mình, góp thêm một phần sức mạnh cho kế hoạch tiếp theo sau của hắn.
+
+Sắp xếp xong xuôi những thứ này, Đình Tấn liếc mắt nhìn đồng hồ thì phát hiện cũng đã chỉ còn lại 5 phút sau cùng cho thời gian nghỉ giải lao giữa hai đợt sóng quái vật.
+
+-“Đã hết giờ rồi, [The Alliance 2] nhanh chóng thu quân, quay trở về khu vực an toàn chờ đợi mệnh lệnh.”
+
+Ngay tức khắc, hắn nghiêm giọng hô to ra lệnh thu quân cho đội người chơi nghề nghiệp phụ trợ, đang cặm cụi làm nhiệm vụ sửa chữa tường thành của họ.
+
+Cổng thành mở, từng người một đua nhau chen vào bên trong cứ điểm. Đúng tại thời điểm một nửa người trong số bọn họ đã vào được bên trong thì âm thanh hệ thống lại vang lên bên tai từng người, báo hiệu thời gian nghỉ ngơi đã hết.
+
+Keng! – Đợt sóng thứ hai quái vật tấn công cứ điểm bắt đầu, toàn bộ người chơi hãy sẵn sàng chuẩn bị.
+
+Đình Tấn mặt bình tĩnh không có phản ứng, ánh mắt nhìn xuống bên dưới thì đám đội viên phụ trợ thì nhận ra, bọn họ đang thất thần ngừng lại bước chân, trước đầu tin nhắn thông báo của hệ thống.
+
+-“Tiếp tục thu đội, nhanh cái chân lên!”
+
+Hắn vội vàng lớn giọng quát to hối thúc bọn họ, trong khi tay thì nhanh chóng mở ra sách ma thuật, chuẩn bị triệu hồi kỹ năng.
+
+‘Tinh Thần Áp Súc’ (25% Hiệu Quả Kỹ Năng)
+
+Triệu hồi Bộ Xương Chiến Sĩ (x332)
+
+Triệu hồi Bộ Xương Cung Thủ (x166)
+
+Triệu hồi Bộ Xương Pháp Sư (x66)
+
+Triệu hồi Tang Thi (x249)
+
+…
+
+Nước chảy mây trôi không có tí trở ngại nào như lần đầu tiên sử dụng phép Triệu hồi Bộ Xương Pháp Sư, Đình Tấn rất nhanh thì đã hoàn thành hết một loạt kỹ năng chuẩn bị.
+
+Cũng trong thời gian đấy, ngoài xa xa tại nơi đám Trâu Mộc Độc đã lao ra lại xuất hiện hàng chục cánh cổng đường hầm không gian đen ngòm. Coi như cách xa vị trí tường thành hơn mấy cây số, Đình Tấn vẫn có thể trông hình thù của đường hầm, bấy nhiêu đó đủ để chứng minh, kích cỡ của nó là to lớn đến nhường nào.
+
+-“[The Alliance] giữ nguyên vị trí chuẩn bị!”
+
+Nhắm ngay phía trước, Đình Tấn mệnh lệnh cho đám Tang Thi, cùng với hai đội Bộ Xương Pháp Sư và Bộ Xương Cung Thủ dẫn đầu đuổi lên. Lần này hắn rút kinh nghiệm, không thể nào bị động chống đỡ được nữa, trước tiên lợi dụng ưu thế tầm xa của mình để đánh bại bớt quân số của đối phương là tốt nhất.
+
+Những tên người chơi xung quanh bởi vì có được mệnh lệnh của Đình Tấn mà không hề di động thêm một bước nào, trước mặt họ, đám vong linh lại tụ tập với nhau đuổi ra ngoài sườn núi dốc đứng hai bên. 
+
+Một con Tang Thi dẫn đầu cả đàn Tang Thi, phía sau kéo theo cả trăm tên Bộ Xương Cung Thủ, trên không trung cũng trôi nổi đám Bộ Xương Pháp Sư, tốc độ lướt đi chỉ có nhanh hơn chứ không hề chậm so với mấy tên Bộ Xương Cung Thủ.
+
+Đón lấy, khi con Tang Thi đơn độc dẫn đầu đám Tang Thi này rời đi khỏi phạm vi 680 mét cách nơi Đình Tấn đang đứng, nó đột nhiên quay lại hướng về đám đồng bạn của mình công kích.
+
+Giống như đã có sự chuẩn bị từ trước, con Tang Thi đi lẻ này vừa mới có cử động lạ thì mấy tên Bộ Xương Cung Thủ ở phía sau đã giơ cung lên, nhắm chuẩn ngay đầu nó mà xạ tiễn.
+
+Nháy mắt thuấn sát không có bất kì kháng cự, Đình Tấn bởi vì muốn thăm dò giới hạn khoảng cách triệu hồi vong linh của mình xem có tăng cường hơn được chút nào hay không.
+
+Thế nhưng đáng tiếc là kết quả không có gì khả quan, vùng giới hạn vẫn còn tính theo chỉ số [Điểm tinh thần / 3] mét, Đình Tấn chỉ đành ngậm ngùi mệnh lệnh cho đám vong linh lui về phía sau, cách tường thành khoảng 500 mét.
+
+‘Rầm rậm rầm rập…’
+
+‘Grào… grừ…”
+
+Còn chưa thấy rõ nguyên hình nguyên dạng của đám quái vật trong đợt sóng thứ hai này thì Đình Tấn đã nghe ra được bên tai âm thanh gào thét của bọn chúng.
+
+Có vẻ như đợt sóng quái vật lần này, chủng loại có thiên hướng về tốc độ, nhanh hơn so với những con Trâu Mộc Độc đôi chút. Cùng một đoạn đường mà chúng chỉ mất khoảng một nửa thời gian so với mấy con Trâu Mộc Độc để tiếp cận được mục tiêu.
+
+Vì vậy nên rất nhanh thì thân ảnh dị dạng của chúng đã lọt vào trong mắt Đình Tấn cùng đám đội viên, số lượng ước tính ban đầu có trên dưới 2.000 con.
+
+Gai Độc Thú
+
+Đẳng Cấp: 35
+
+HP: 9.150/ 9.150
+
+Gai Độc Thú (Tinh Anh)
+
+Đẳng Cấp: 37
+
+HP: 21.900/ 21.900
+
+Gai Độc Thú (Boss)
+
+Đẳng Cấp: 39
+
+HP: 51.000/ 51.000
+
+Phỏng chừng là bởi vì nguyên nhân tốc độ tăng lên mà đám Gai Độc Thú này có HP thấp hơn khá nhiều so với mấy con Trâu Mộc Độc.
+
+Tuy nhiên, Đình Tấn còn chưa kịp xuất hiện ý nghĩ suy đoán về thực lực của đám Gai Độc Thú này thì bọn chúng đã tiến vào tầm công kích của đám vong linh.
+
+Đình Tấn trầm mặt sử dụng tinh thần hạ lệnh, đàn Tang Thi như chó điên xổng chuồn, điên cuồng lao thẳng tới bầy Gai Độc Thú. Còn lại đám Bộ Xương Cung Thủ cùng Bộ Xương Pháp Sư thì đứng ở phía sau, vừa chậm rãi lùi lại từng bước lớn, vừa liên thanh công kích không ngừng nghỉ.
+
+‘Phốc phốc phốc… xoẹt xoẹt…’
+
+-778
+
+-1987 [Lôi]
+
+-15 [Lôi]
+
+…
+
+Giao tranh trong nháy mắt đã xảy ra, vì đánh đổi lấy tốc độ mà đám Gai Độc Thú này cơ hồ đã trở thành món ngon cho đám vong linh của Đình Tấn. 
+
+Trải qua một lượt công kích đầu tiên, có không dưới 50 con tử vong, tuy rằng chỉ là những con loại bình thường, không phải Tinh Anh hay Boss gì, nhưng đó cũng là cao hơn rất nhiều so với khi chiến đấu với đàn Trâu Mộc Độc trước đó.
+
+Đám đội viên ở trên núi và tường thành tại cứ điểm một dạng ngây ngốc nhìn về chiến trước, miệng há to không ngậm lại được, khó mà trách họ, đây đều là do Đình Tấn quá mức bá đạo mà thôi.
+
+…
+
+Cũng là tại thời điểm đó, ở những cứ điểm khác, từ thành viên cho đến cao tầng của mấy thế lực lớn đang tham gia phòng thủ cứu điểm, đồng dạng giống nhau, thực sự muốn khóc mà khóc không ra nước mắt.Trong khi đám đội viên chạy đôn chạy đáo, một nhóm lo liệu thu thập chiến trường, vẻ mặt từng người không kìm chế được sự hưng phấn khi đột nhiên đối diện với cả đống vật phẩm, tiền vàng, trang bị rơi ra từ quái vật.
+
+Một nhóm khác bao gồm những tên người chơi nghề nghiệp phụ trợ Thợ Rèn, có chút khổ bức nhìn đồng đội lụm đồ vui sướng, còn mình thì phải leo lên trên tường thành hợp kim, không ngừng nện búa sửa chữa lại những cây chông gai hợp kim đã bị tổn hại một ít HP sau đợt sóng quái vật công thành đầu tiên.
+
+Đình Tấn không có mệnh lệnh mở cổng thành ra, thế nên lần này đi thu dọn chiến trường, hết thảy cũng chỉ có người của [The Alliance], còn lại những tên người chơi trong các đội Lính Đánh Thuê liên minh khác, chỉ có thể thèm thuồng đứng bên trong cứ điểm, tưởng tượng ra tràng cảnh đối phương thu nhặt trang bị thế nào.
+
+Coi như quân số cũng chỉ có hơn 1.000 người, nhưng tốc độ càn quét là không thể nào chậm.
+
+Thoắt cái, khi Đình Tấn thậm chí còn chưa kịp hoàn toàn khôi phục về trạng thái đỉnh phong của mình thì đám đội viên đã thu thập xong chiến trường. 
+
+Khu vực bên ngoài tường thành trở về với vẻ hoang vắng, đơn sơ trước đó của nó, chẳng để lại một chút vết tích nào của đàn Trâu Mộc Độc vừa công thành, coi như là một mảnh xương cốt cũng không lưu.
+
+-“Hội Trưởng, đây là vật phẩm thu nhặt được từ con Trâu Mộc Độc Boss và mấy con Tinh Anh. Còn lại số nguyên liệu da lông, xương cốt, sừng các loại đều đã được chuyển giao cho đội phụ trợ mang về EL thành. Tổng cộng lần này có 3.000 con Trâu Mộc Độc, trong đó 2.000 con là bình thường, 999 con Tinh Anh cùng một con Boss.”
+
+Đúng tại khoảnh khắc Đình Tấn vừa khôi phục lại toàn bộ MP và HP đã tiêu hao sau trận chiến, Ameerah mang theo vẻ mặt không thể kìm nén được sự phấn khích mà chạy đến bên cạnh Đình Tấn báo cáo sự tình.
+
+Chưa kịp đi đến nơi thì Ameerah đã không chờ đợi được nữa, trong tay liền xuất ra mấy món đồ vật, bao gồm một tấm khiên cùng với một hòn đá xanh lục tỏa sáng trông khá bắt mắt.
+
+Mộc Độc Khiên
+
+Chất lượng: Đồ Tím
+
+Yêu cầu: Đẳng cấp 35
+
+Thuộc tính: 
+
+-Gia tăng lượng HP khôi phục: 50%
+
+-Khả năng kháng đòn vật lý: 25%
+
+-Khả năng giảm sát thương khi Đón Đỡ thành công: 10%
+
+Hiệu ứng mang theo: Bỏ Độc (Bị Động) – Tự động gây ra 50 điểm tổn thương, kéo dài trong 5 giây, đối với những vật trực diện va chạm với nó. 
+
+(Lưu ý: Trang bị chất lượng [Đồ Tím] (đẳng cấp từ 30 trở lên) có thể chế tác ở hiện thực, điểm thuộc tính dựa trên cơ sở trong game tính toán, độ tương đồng chênh lệch từ 60% - 95% tùy theo cách chế tạo và chất lượng nguyên liệu. Xin mời người chơi cố gắng tìm hiểu, nghiên cứu thêm)
+
+Hạt Nhân Nguyên Tố [Mộc]
+
+Đẳng cấp: 36
+
+Chất lượng: Cao Cấp 
+
+Giới thiệu: Tinh thể được hình thành trong đầu của quái vật thông qua quá trình tiến hóa. Chỉ có quái vật có tinh thể mới có khả năng triệu hồi, sử dụng kỹ năng ma pháp. Chất lượng và thuộc tính của tinh thể thay đổi tùy thuộc vào loại quái vật và sức mạnh của chúng.
+
+Tác dụng: 
+
+-Chế tạo hoặc khảm nạm vào trang bị phòng thủ (Áo, quần, giày, bao tay, nón, áo choàng, phù văn…): Gia tăng giới hạn HP 3 – 7%.
+
+-Chế tạo hoặc khảm nạm vào trang bị tấn công (Vũ khí, phù văn…): Bỏ Độc, ăn mòn sức sống kẻ địch 5 – 10 điểm, kéo dài 5 giây.
+
+-Chế tạo hoặc khảm nạm vào trang bị phụ trợ (Trang sức, phù văn…): Gia tăng khả năng tự khôi phục HP 7 – 11%.
+
+…
+
+Chất lượng đồ vật không thể chê vào đâu, tuy nhiên có điều là Đình Tấn lại không thể nào sử dụng được. Âm thầm lắc đầu tiếc nuối một hồi, cuối cùng hắn cũng chỉ đành cất giọng.
+
+-“Đưa cho Terrell đi, có lẽ cái món đồ vật này thích hợp với hắn hơn. Những thứ còn lại các ngươi chia ra đi, ai cần, ai mang được thì cứ để bọn họ dùng điểm cống hiến đổi lấy. Gấp rút tăng lên một chút thực lực chuẩn bị cho đợt sóng quái vật sắp tới.”
+
+Dù sao nước phù sa không chảy vào ruộng người ngoài, Đình Tấn dĩ nhiên phải tính đến cho người của mình trước, tiếp đó mới là những thành viên bên dưới, sau cùng chỉ lại chút cơm thừa canh cặn thì mới thả ra cho đám người thuộc đội Lính Đánh Thuê trong liên minh kia.
+
+Xem như có làm một điểm gian trá như vậy, Đình Tấn cũng không cảm thấy có lỗi gì, suy cho cùng thì đám Trâu Mộc Độc này cũng là chính hắn cùng đồng đội của mình liều mạng chém giết.
+
+-“Yes sir!”
+
+Ameerah hớn hở hô một tiếng, tận tay đưa cho Đình Tấn viên Đá Nguyên Tố Hạt Nhân xong, liền vội vàng quay trở lại hàng ngũ của mình, phía sau vẫn còn có nhiều chuyện cần nàng đi giải quyết, hay nói đúng hơn là còn một đống trang bị để nàng đi giành giật đây.
+
+Phải biết, muốn một lượt giết hơn 3.000 con Trâu Mộc Độc cũng không phải một kiện sự tình cứ phẩy tay là làm được. Nếu không thì đám người mấy thế lực lớn kia cũng đã hoàn thành xong đợt sóng thứ nhất từ lâu.
+
+Chưa kể đám Trâu Mộc Độc ở đây cường đại hơn những con Reek ở EL thành rất nhiều, mà số lượng bầy đàn của bọn chúng còn đông hơn gấp chục lần, cho nên thu hoạch phong phú là nhất định phải có.
+
+Mục đích của Đình Tấn rất rõ ràng là muốn lợi dụng những trang bị này tăng cường lên thực lực của đám thành viên [The Alliance] của mình, góp thêm một phần sức mạnh cho kế hoạch tiếp theo sau của hắn.
+
+Sắp xếp xong xuôi những thứ này, Đình Tấn liếc mắt nhìn đồng hồ thì phát hiện cũng đã chỉ còn lại 5 phút sau cùng cho thời gian nghỉ giải lao giữa hai đợt sóng quái vật.
+
+-“Đã hết giờ rồi, [The Alliance 2] nhanh chóng thu quân, quay trở về khu vực an toàn chờ đợi mệnh lệnh.”
+
+Ngay tức khắc, hắn nghiêm giọng hô to ra lệnh thu quân cho đội người chơi nghề nghiệp phụ trợ, đang cặm cụi làm nhiệm vụ sửa chữa tường thành của họ.
+
+Cổng thành mở, từng người một đua nhau chen vào bên trong cứ điểm. Đúng tại thời điểm một nửa người trong số bọn họ đã vào được bên trong thì âm thanh hệ thống lại vang lên bên tai từng người, báo hiệu thời gian nghỉ ngơi đã hết.
+
+Keng! – Đợt sóng thứ hai quái vật tấn công cứ điểm bắt đầu, toàn bộ người chơi hãy sẵn sàng chuẩn bị.
+
+Đình Tấn mặt bình tĩnh không có phản ứng, ánh mắt nhìn xuống bên dưới thì đám đội viên phụ trợ thì nhận ra, bọn họ đang thất thần ngừng lại bước chân, trước đầu tin nhắn thông báo của hệ thống.
+
+-“Tiếp tục thu đội, nhanh cái chân lên!”
+
+Hắn vội vàng lớn giọng quát to hối thúc bọn họ, trong khi tay thì nhanh chóng mở ra sách ma thuật, chuẩn bị triệu hồi kỹ năng.
+
+‘Tinh Thần Áp Súc’ (25% Hiệu Quả Kỹ Năng)
+
+Triệu hồi Bộ Xương Chiến Sĩ (x332)
+
+Triệu hồi Bộ Xương Cung Thủ (x166)
+
+Triệu hồi Bộ Xương Pháp Sư (x66)
+
+Triệu hồi Tang Thi (x249)
+
+…
+
+Nước chảy mây trôi không có tí trở ngại nào như lần đầu tiên sử dụng phép Triệu hồi Bộ Xương Pháp Sư, Đình Tấn rất nhanh thì đã hoàn thành hết một loạt kỹ năng chuẩn bị.
+
+Cũng trong thời gian đấy, ngoài xa xa tại nơi đám Trâu Mộc Độc đã lao ra lại xuất hiện hàng chục cánh cổng đường hầm không gian đen ngòm. Coi như cách xa vị trí tường thành hơn mấy cây số, Đình Tấn vẫn có thể trông hình thù của đường hầm, bấy nhiêu đó đủ để chứng minh, kích cỡ của nó là to lớn đến nhường nào.
+
+-“[The Alliance] giữ nguyên vị trí chuẩn bị!”
+
+Nhắm ngay phía trước, Đình Tấn mệnh lệnh cho đám Tang Thi, cùng với hai đội Bộ Xương Pháp Sư và Bộ Xương Cung Thủ dẫn đầu đuổi lên. Lần này hắn rút kinh nghiệm, không thể nào bị động chống đỡ được nữa, trước tiên lợi dụng ưu thế tầm xa của mình để đánh bại bớt quân số của đối phương là tốt nhất.
+
+Những tên người chơi xung quanh bởi vì có được mệnh lệnh của Đình Tấn mà không hề di động thêm một bước nào, trước mặt họ, đám vong linh lại tụ tập với nhau đuổi ra ngoài sườn núi dốc đứng hai bên. 
+
+Một con Tang Thi dẫn đầu cả đàn Tang Thi, phía sau kéo theo cả trăm tên Bộ Xương Cung Thủ, trên không trung cũng trôi nổi đám Bộ Xương Pháp Sư, tốc độ lướt đi chỉ có nhanh hơn chứ không hề chậm so với mấy tên Bộ Xương Cung Thủ.
+
+Đón lấy, khi con Tang Thi đơn độc dẫn đầu đám Tang Thi này rời đi khỏi phạm vi 680 mét cách nơi Đình Tấn đang đứng, nó đột nhiên quay lại hướng về đám đồng bạn của mình công kích.
+
+Giống như đã có sự chuẩn bị từ trước, con Tang Thi đi lẻ này vừa mới có cử động lạ thì mấy tên Bộ Xương Cung Thủ ở phía sau đã giơ cung lên, nhắm chuẩn ngay đầu nó mà xạ tiễn.
+
+Nháy mắt thuấn sát không có bất kì kháng cự, Đình Tấn bởi vì muốn thăm dò giới hạn khoảng cách triệu hồi vong linh của mình xem có tăng cường hơn được chút nào hay không.
+
+Thế nhưng đáng tiếc là kết quả không có gì khả quan, vùng giới hạn vẫn còn tính theo chỉ số [Điểm tinh thần / 3] mét, Đình Tấn chỉ đành ngậm ngùi mệnh lệnh cho đám vong linh lui về phía sau, cách tường thành khoảng 500 mét.
+
+‘Rầm rậm rầm rập…’
+
+‘Grào… grừ…”
+
+Còn chưa thấy rõ nguyên hình nguyên dạng của đám quái vật trong đợt sóng thứ hai này thì Đình Tấn đã nghe ra được bên tai âm thanh gào thét của bọn chúng.
+
+Có vẻ như đợt sóng quái vật lần này, chủng loại có thiên hướng về tốc độ, nhanh hơn so với những con Trâu Mộc Độc đôi chút. Cùng một đoạn đường mà chúng chỉ mất khoảng một nửa thời gian so với mấy con Trâu Mộc Độc để tiếp cận được mục tiêu.
+
+Vì vậy nên rất nhanh thì thân ảnh dị dạng của chúng đã lọt vào trong mắt Đình Tấn cùng đám đội viên, số lượng ước tính ban đầu có trên dưới 2.000 con.
+
+Gai Độc Thú
+
+Đẳng Cấp: 35
+
+HP: 9.150/ 9.150
+
+Gai Độc Thú (Tinh Anh)
+
+Đẳng Cấp: 37
+
+HP: 21.900/ 21.900
+
+Gai Độc Thú (Boss)
+
+Đẳng Cấp: 39
+
+HP: 51.000/ 51.000
+
+Phỏng chừng là bởi vì nguyên nhân tốc độ tăng lên mà đám Gai Độc Thú này có HP thấp hơn khá nhiều so với mấy con Trâu Mộc Độc.
+
+Tuy nhiên, Đình Tấn còn chưa kịp xuất hiện ý nghĩ suy đoán về thực lực của đám Gai Độc Thú này thì bọn chúng đã tiến vào tầm công kích của đám vong linh.
+
+Đình Tấn trầm mặt sử dụng tinh thần hạ lệnh, đàn Tang Thi như chó điên xổng chuồn, điên cuồng lao thẳng tới bầy Gai Độc Thú. Còn lại đám Bộ Xương Cung Thủ cùng Bộ Xương Pháp Sư thì đứng ở phía sau, vừa chậm rãi lùi lại từng bước lớn, vừa liên thanh công kích không ngừng nghỉ.
+
+‘Phốc phốc phốc… xoẹt xoẹt…’
+
+-778
+
+-1987 [Lôi]
+
+-15 [Lôi]
+
+…
+
+Giao tranh trong nháy mắt đã xảy ra, vì đánh đổi lấy tốc độ mà đám Gai Độc Thú này cơ hồ đã trở thành món ngon cho đám vong linh của Đình Tấn. 
+
+Trải qua một lượt công kích đầu tiên, có không dưới 50 con tử vong, tuy rằng chỉ là những con loại bình thường, không phải Tinh Anh hay Boss gì, nhưng đó cũng là cao hơn rất nhiều so với khi chiến đấu với đàn Trâu Mộc Độc trước đó.
+
+Đám đội viên ở trên núi và tường thành tại cứ điểm một dạng ngây ngốc nhìn về chiến trước, miệng há to không ngậm lại được, khó mà trách họ, đây đều là do Đình Tấn quá mức bá đạo mà thôi.
+
+…
+
+Cũng là tại thời điểm đó, ở những cứ điểm khác, từ thành viên cho đến cao tầng của mấy thế lực lớn đang tham gia phòng thủ cứu điểm, đồng dạng giống nhau, thực sự muốn khóc mà khóc không ra nước mắt.Trong khi đám đội viên chạy đôn chạy đáo, một nhóm lo liệu thu thập chiến trường, vẻ mặt từng người không kìm chế được sự hưng phấn khi đột nhiên đối diện với cả đống vật phẩm, tiền vàng, trang bị rơi ra từ quái vật.
+
+Một nhóm khác bao gồm những tên người chơi nghề nghiệp phụ trợ Thợ Rèn, có chút khổ bức nhìn đồng đội lụm đồ vui sướng, còn mình thì phải leo lên trên tường thành hợp kim, không ngừng nện búa sửa chữa lại những cây chông gai hợp kim đã bị tổn hại một ít HP sau đợt sóng quái vật công thành đầu tiên.
+
+Đình Tấn không có mệnh lệnh mở cổng thành ra, thế nên lần này đi thu dọn chiến trường, hết thảy cũng chỉ có người của [The Alliance], còn lại những tên người chơi trong các đội Lính Đánh Thuê liên minh khác, chỉ có thể thèm thuồng đứng bên trong cứ điểm, tưởng tượng ra tràng cảnh đối phương thu nhặt trang bị thế nào.
+
+Coi như quân số cũng chỉ có hơn 1.000 người, nhưng tốc độ càn quét là không thể nào chậm.
+
+Thoắt cái, khi Đình Tấn thậm chí còn chưa kịp hoàn toàn khôi phục về trạng thái đỉnh phong của mình thì đám đội viên đã thu thập xong chiến trường. 
+
+Khu vực bên ngoài tường thành trở về với vẻ hoang vắng, đơn sơ trước đó của nó, chẳng để lại một chút vết tích nào của đàn Trâu Mộc Độc vừa công thành, coi như là một mảnh xương cốt cũng không lưu.
+
+-“Hội Trưởng, đây là vật phẩm thu nhặt được từ con Trâu Mộc Độc Boss và mấy con Tinh Anh. Còn lại số nguyên liệu da lông, xương cốt, sừng các loại đều đã được chuyển giao cho đội phụ trợ mang về EL thành. Tổng cộng lần này có 3.000 con Trâu Mộc Độc, trong đó 2.000 con là bình thường, 999 con Tinh Anh cùng một con Boss.”
+
+Đúng tại khoảnh khắc Đình Tấn vừa khôi phục lại toàn bộ MP và HP đã tiêu hao sau trận chiến, Ameerah mang theo vẻ mặt không thể kìm nén được sự phấn khích mà chạy đến bên cạnh Đình Tấn báo cáo sự tình.
+
+Chưa kịp đi đến nơi thì Ameerah đã không chờ đợi được nữa, trong tay liền xuất ra mấy món đồ vật, bao gồm một tấm khiên cùng với một hòn đá xanh lục tỏa sáng trông khá bắt mắt.
+
+Mộc Độc Khiên
+
+Chất lượng: Đồ Tím
+
+Yêu cầu: Đẳng cấp 35
+
+Thuộc tính: 
+
+-Gia tăng lượng HP khôi phục: 50%
+
+-Khả năng kháng đòn vật lý: 25%
+
+-Khả năng giảm sát thương khi Đón Đỡ thành công: 10%
+
+Hiệu ứng mang theo: Bỏ Độc (Bị Động) – Tự động gây ra 50 điểm tổn thương, kéo dài trong 5 giây, đối với những vật trực diện va chạm với nó. 
+
+(Lưu ý: Trang bị chất lượng [Đồ Tím] (đẳng cấp từ 30 trở lên) có thể chế tác ở hiện thực, điểm thuộc tính dựa trên cơ sở trong game tính toán, độ tương đồng chênh lệch từ 60% - 95% tùy theo cách chế tạo và chất lượng nguyên liệu. Xin mời người chơi cố gắng tìm hiểu, nghiên cứu thêm)
+
+Hạt Nhân Nguyên Tố [Mộc]
+
+Đẳng cấp: 36
+
+Chất lượng: Cao Cấp 
+
+Giới thiệu: Tinh thể được hình thành trong đầu của quái vật thông qua quá trình tiến hóa. Chỉ có quái vật có tinh thể mới có khả năng triệu hồi, sử dụng kỹ năng ma pháp. Chất lượng và thuộc tính của tinh thể thay đổi tùy thuộc vào loại quái vật và sức mạnh của chúng.
+
+Tác dụng: 
+
+-Chế tạo hoặc khảm nạm vào trang bị phòng thủ (Áo, quần, giày, bao tay, nón, áo choàng, phù văn…): Gia tăng giới hạn HP 3 – 7%.
+
+-Chế tạo hoặc khảm nạm vào trang bị tấn công (Vũ khí, phù văn…): Bỏ Độc, ăn mòn sức sống kẻ địch 5 – 10 điểm, kéo dài 5 giây.
+
+-Chế tạo hoặc khảm nạm vào trang bị phụ trợ (Trang sức, phù văn…): Gia tăng khả năng tự khôi phục HP 7 – 11%.
+
+…
+
+Chất lượng đồ vật không thể chê vào đâu, tuy nhiên có điều là Đình Tấn lại không thể nào sử dụng được. Âm thầm lắc đầu tiếc nuối một hồi, cuối cùng hắn cũng chỉ đành cất giọng.
+
+-“Đưa cho Terrell đi, có lẽ cái món đồ vật này thích hợp với hắn hơn. Những thứ còn lại các ngươi chia ra đi, ai cần, ai mang được thì cứ để bọn họ dùng điểm cống hiến đổi lấy. Gấp rút tăng lên một chút thực lực chuẩn bị cho đợt sóng quái vật sắp tới.”
+
+Dù sao nước phù sa không chảy vào ruộng người ngoài, Đình Tấn dĩ nhiên phải tính đến cho người của mình trước, tiếp đó mới là những thành viên bên dưới, sau cùng chỉ lại chút cơm thừa canh cặn thì mới thả ra cho đám người thuộc đội Lính Đánh Thuê trong liên minh kia.
+
+Xem như có làm một điểm gian trá như vậy, Đình Tấn cũng không cảm thấy có lỗi gì, suy cho cùng thì đám Trâu Mộc Độc này cũng là chính hắn cùng đồng đội của mình liều mạng chém giết.
+
+-“Yes sir!”
+
+Ameerah hớn hở hô một tiếng, tận tay đưa cho Đình Tấn viên Đá Nguyên Tố Hạt Nhân xong, liền vội vàng quay trở lại hàng ngũ của mình, phía sau vẫn còn có nhiều chuyện cần nàng đi giải quyết, hay nói đúng hơn là còn một đống trang bị để nàng đi giành giật đây.
+
+Phải biết, muốn một lượt giết hơn 3.000 con Trâu Mộc Độc cũng không phải một kiện sự tình cứ phẩy tay là làm được. Nếu không thì đám người mấy thế lực lớn kia cũng đã hoàn thành xong đợt sóng thứ nhất từ lâu.
+
+Chưa kể đám Trâu Mộc Độc ở đây cường đại hơn những con Reek ở EL thành rất nhiều, mà số lượng bầy đàn của bọn chúng còn đông hơn gấp chục lần, cho nên thu hoạch phong phú là nhất định phải có.
+
+Mục đích của Đình Tấn rất rõ ràng là muốn lợi dụng những trang bị này tăng cường lên thực lực của đám thành viên [The Alliance] của mình, góp thêm một phần sức mạnh cho kế hoạch tiếp theo sau của hắn.
+
+Sắp xếp xong xuôi những thứ này, Đình Tấn liếc mắt nhìn đồng hồ thì phát hiện cũng đã chỉ còn lại 5 phút sau cùng cho thời gian nghỉ giải lao giữa hai đợt sóng quái vật.
+
+-“Đã hết giờ rồi, [The Alliance 2] nhanh chóng thu quân, quay trở về khu vực an toàn chờ đợi mệnh lệnh.”
+
+Ngay tức khắc, hắn nghiêm giọng hô to ra lệnh thu quân cho đội người chơi nghề nghiệp phụ trợ, đang cặm cụi làm nhiệm vụ sửa chữa tường thành của họ.
+
+Cổng thành mở, từng người một đua nhau chen vào bên trong cứ điểm. Đúng tại thời điểm một nửa người trong số bọn họ đã vào được bên trong thì âm thanh hệ thống lại vang lên bên tai từng người, báo hiệu thời gian nghỉ ngơi đã hết.
+
+Keng! – Đợt sóng thứ hai quái vật tấn công cứ điểm bắt đầu, toàn bộ người chơi hãy sẵn sàng chuẩn bị.
+
+Đình Tấn mặt bình tĩnh không có phản ứng, ánh mắt nhìn xuống bên dưới thì đám đội viên phụ trợ thì nhận ra, bọn họ đang thất thần ngừng lại bước chân, trước đầu tin nhắn thông báo của hệ thống.
+
+-“Tiếp tục thu đội, nhanh cái chân lên!”
+
+Hắn vội vàng lớn giọng quát to hối thúc bọn họ, trong khi tay thì nhanh chóng mở ra sách ma thuật, chuẩn bị triệu hồi kỹ năng.
+
+‘Tinh Thần Áp Súc’ (25% Hiệu Quả Kỹ Năng)
+
+Triệu hồi Bộ Xương Chiến Sĩ (x332)
+
+Triệu hồi Bộ Xương Cung Thủ (x166)
+
+Triệu hồi Bộ Xương Pháp Sư (x66)
+
+Triệu hồi Tang Thi (x249)
+
+…
+
+Nước chảy mây trôi không có tí trở ngại nào như lần đầu tiên sử dụng phép Triệu hồi Bộ Xương Pháp Sư, Đình Tấn rất nhanh thì đã hoàn thành hết một loạt kỹ năng chuẩn bị.
+
+Cũng trong thời gian đấy, ngoài xa xa tại nơi đám Trâu Mộc Độc đã lao ra lại xuất hiện hàng chục cánh cổng đường hầm không gian đen ngòm. Coi như cách xa vị trí tường thành hơn mấy cây số, Đình Tấn vẫn có thể trông hình thù của đường hầm, bấy nhiêu đó đủ để chứng minh, kích cỡ của nó là to lớn đến nhường nào.
+
+-“[The Alliance] giữ nguyên vị trí chuẩn bị!”
+
+Nhắm ngay phía trước, Đình Tấn mệnh lệnh cho đám Tang Thi, cùng với hai đội Bộ Xương Pháp Sư và Bộ Xương Cung Thủ dẫn đầu đuổi lên. Lần này hắn rút kinh nghiệm, không thể nào bị động chống đỡ được nữa, trước tiên lợi dụng ưu thế tầm xa của mình để đánh bại bớt quân số của đối phương là tốt nhất.
+
+Những tên người chơi xung quanh bởi vì có được mệnh lệnh của Đình Tấn mà không hề di động thêm một bước nào, trước mặt họ, đám vong linh lại tụ tập với nhau đuổi ra ngoài sườn núi dốc đứng hai bên. 
+
+Một con Tang Thi dẫn đầu cả đàn Tang Thi, phía sau kéo theo cả trăm tên Bộ Xương Cung Thủ, trên không trung cũng trôi nổi đám Bộ Xương Pháp Sư, tốc độ lướt đi chỉ có nhanh hơn chứ không hề chậm so với mấy tên Bộ Xương Cung Thủ.
+
+Đón lấy, khi con Tang Thi đơn độc dẫn đầu đám Tang Thi này rời đi khỏi phạm vi 680 mét cách nơi Đình Tấn đang đứng, nó đột nhiên quay lại hướng về đám đồng bạn của mình công kích.
+
+Giống như đã có sự chuẩn bị từ trước, con Tang Thi đi lẻ này vừa mới có cử động lạ thì mấy tên Bộ Xương Cung Thủ ở phía sau đã giơ cung lên, nhắm chuẩn ngay đầu nó mà xạ tiễn.
+
+Nháy mắt thuấn sát không có bất kì kháng cự, Đình Tấn bởi vì muốn thăm dò giới hạn khoảng cách triệu hồi vong linh của mình xem có tăng cường hơn được chút nào hay không.
+
+Thế nhưng đáng tiếc là kết quả không có gì khả quan, vùng giới hạn vẫn còn tính theo chỉ số [Điểm tinh thần / 3] mét, Đình Tấn chỉ đành ngậm ngùi mệnh lệnh cho đám vong linh lui về phía sau, cách tường thành khoảng 500 mét.
+
+‘Rầm rậm rầm rập…’
+
+‘Grào… grừ…”
+
+Còn chưa thấy rõ nguyên hình nguyên dạng của đám quái vật trong đợt sóng thứ hai này thì Đình Tấn đã nghe ra được bên tai âm thanh gào thét của bọn chúng.
+
+Có vẻ như đợt sóng quái vật lần này, chủng loại có thiên hướng về tốc độ, nhanh hơn so với những con Trâu Mộc Độc đôi chút. Cùng một đoạn đường mà chúng chỉ mất khoảng một nửa thời gian so với mấy con Trâu Mộc Độc để tiếp cận được mục tiêu.
+
+Vì vậy nên rất nhanh thì thân ảnh dị dạng của chúng đã lọt vào trong mắt Đình Tấn cùng đám đội viên, số lượng ước tính ban đầu có trên dưới 2.000 con.
+
+Gai Độc Thú
+
+Đẳng Cấp: 35
+
+HP: 9.150/ 9.150
+
+Gai Độc Thú (Tinh Anh)
+
+Đẳng Cấp: 37
+
+HP: 21.900/ 21.900
+
+Gai Độc Thú (Boss)
+
+Đẳng Cấp: 39
+
+HP: 51.000/ 51.000
+
+Phỏng chừng là bởi vì nguyên nhân tốc độ tăng lên mà đám Gai Độc Thú này có HP thấp hơn khá nhiều so với mấy con Trâu Mộc Độc.
+
+Tuy nhiên, Đình Tấn còn chưa kịp xuất hiện ý nghĩ suy đoán về thực lực của đám Gai Độc Thú này thì bọn chúng đã tiến vào tầm công kích của đám vong linh.
+
+Đình Tấn trầm mặt sử dụng tinh thần hạ lệnh, đàn Tang Thi như chó điên xổng chuồn, điên cuồng lao thẳng tới bầy Gai Độc Thú. Còn lại đám Bộ Xương Cung Thủ cùng Bộ Xương Pháp Sư thì đứng ở phía sau, vừa chậm rãi lùi lại từng bước lớn, vừa liên thanh công kích không ngừng nghỉ.
+
+‘Phốc phốc phốc… xoẹt xoẹt…’
+
+-778
+
+-1987 [Lôi]
+
+-15 [Lôi]
+
+…
+
+Giao tranh trong nháy mắt đã xảy ra, vì đánh đổi lấy tốc độ mà đám Gai Độc Thú này cơ hồ đã trở thành món ngon cho đám vong linh của Đình Tấn. 
+
+Trải qua một lượt công kích đầu tiên, có không dưới 50 con tử vong, tuy rằng chỉ là những con loại bình thường, không phải Tinh Anh hay Boss gì, nhưng đó cũng là cao hơn rất nhiều so với khi chiến đấu với đàn Trâu Mộc Độc trước đó.
+
+Đám đội viên ở trên núi và tường thành tại cứ điểm một dạng ngây ngốc nhìn về chiến trước, miệng há to không ngậm lại được, khó mà trách họ, đây đều là do Đình Tấn quá mức bá đạo mà thôi.
+
+…
+
+Cũng là tại thời điểm đó, ở những cứ điểm khác, từ thành viên cho đến cao tầng của mấy thế lực lớn đang tham gia phòng thủ cứu điểm, đồng dạng giống nhau, thực sự muốn khóc mà khóc không ra nước mắt.

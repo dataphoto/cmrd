@@ -1,0 +1,317 @@
+Chương 524: RMB player Artoria ~
+
+	Charlotte mang theo Alice cùng Artoria các nàng đánh một ván máy vi tính.
+
+	Dựa vào này một ván game, giải thích cặn kẽ một hồi trong game các loại. Cũng thuận tiện biết một chút bọn họ skill.
+
+	Kỵ sĩ vương Artoria, game định vị chiến sĩ, game hình tượng là: Bạch kim sắc tóc lúa mạch tuệ như thế bàn lên, một thân ngân lam giao nhau chiến giáp anh tư hiên ngang, phía sau còn khoác kinh điển "Chăn bông" áo choàng! Trong tay một cái thiêu đốt màu đỏ sậm Long hỏa cự kiếm, đứng lặng ở bên cạnh.
+
+	Nàng skill bị động đồ tiêu là một vung kiếm phấn khởi chiến đấu bóng người: Càng chiến càng mạnh.
+
+	Càng chiến càng mạnh (1 cấp): Nằm ở bên trong chiến trường, mỗi quá 3 giây tăng cường 1 điểm lực công kích, 1 điểm giáp bảo vệ trị, 1 điểm ma kháng trị. Cao nhất có thể chồng chất năm tầng. Thoát ly chiến đấu 5 giây sau, mỗi tầng bị động hồi phục 1% to lớn nhất HP. (càng chiến càng mạnh bổ trợ hiệu quả ở 3 : 6 : 9 : 12 : 15 : Level 18 thì, thu được tăng lên. )
+
+	Nàng cái thứ nhất skill đồ tiêu, là một nằm ngang liên tục đột phá màu vàng gió xoáy đạn: Phong vương.
+
+	Phong vương (1 cấp): Bị động —— Phong vương kết giới, đòn công kích bình thường phụ gia 8 điểm chân thực thương tổn. Chủ động —— Phong vương thiết chùy, Artoria xông về phía trước đâm, ở sau đó đúng một đường thẳng phương hướng trên toàn bộ kẻ địch, tạo thành 88 điểm vật lý thương tổn, cũng khiến cho ở 2. 25 giây bên trong giảm tốc độ 45%.
+
+	Nàng thứ hai skill đồ tiêu, là một vị phiêu ở trên mặt hồ tiên nữ chính đang thi pháp: Hồ chi tiên nữ chúc phúc.
+
+	Hồ chi tiên nữ chúc phúc (1 cấp): Bị động —— bước đi trên nước, ở bụi cỏ cùng đường sông bên trong di động thì, tăng cường 50 điểm tốc độ di động. Chủ động —— Avalon chi ảnh, ở 5 giây bên trong hồi phục 120 điểm HP, cũng miễn dịch giảm tốc độ cùng định thân. Nếu như đang sử dụng skill trong lúc bị khống chế, thì lại ngoài ngạch khôi phục 60 điểm sinh mệnh.
+
+	Người thứ ba skill đồ tiêu, là một vị cô độc ngồi ở trên vương tọa bóng người: Cao ngạo chi vương.
+
+	Cao ngạo chi vương (1 cấp): Bị động —— đối ma lực, mỗi quá 16 giây quét mới một có thể trung hoà một lần anh hùng skill tấm chắn. Chủ động —— lãnh đạo lực, tốc độ di động tăng cao 25%, tốc độ công kích tăng cao 30%, kéo dài 5 giây. Chu vi hữu phương đơn vị thu được một nửa tăng mạnh.
+
+	Thứ tư skill đồ tiêu, là một cái chói mắt kiếm lớn màu vàng óng: Kiếm Excalibur.
+
+	Kiếm Excalibur (1 cấp): Bị động —— thệ ước thắng lợi, mỗi công kích 3 thứ sau, lần sau công kích đúng mục tiêu tiến hành 2 thứ đả kích. Chủ động ——excalibur, Artoria vũ khí khuấy động màu vàng ma lực, ở 10 giây kéo dài thời gian trong, dành cho nàng 35 điểm lực công kích bổ trợ, cũng tăng lên rất cao sự công kích của nàng khoảng cách, đòn công kích bình thường biến thành phạm vi công kích.
+
+	. . .
+
+	Mỗi cái skill đều có chứa cường lực bị động hiệu quả.
+
+	Bị động tùy cơ tăng cường lực công kích, giáp bảo vệ trị, ma kháng trị, thoát ly chiến đấu hồi huyết.
+
+	Một skill tăng cường chân thực thương tổn, chủ động sử dụng có thể cự ly ngắn vị di cũng phạm vi thương tổn giảm tốc độ.
+
+	Hai skill tăng cường đặc thù địa hình di tốc, chủ động sử dụng hồi phục sinh mệnh còn miễn dịch giảm tốc độ cùng định thân.
+
+	Ba skill chính là một cd ngắn, không cần tiền nữ yêu khăn che mặt, chủ động sử dụng còn tăng cường tốc độ di động cùng tốc độ đánh. Hơn nữa còn có thể cho hữu phương đơn vị thêm một nửa!
+
+	Đại chiêu mỗi ba lần công kích sau, tiến hành hai lần công kích, chính là đánh bốn lần bằng đánh năm lần. Nếu như mở lên đại chiêu đến, vậy thì càng khó hiểu! Thêm lực công kích không nói, mỗi một lần đòn công kích bình thường đều là phạm vi thương tổn. Này nếu như tìm kĩ cơ hội, trực tiếp cắt đi vào 1v5 a!
+
+	Artoria skill, quả thực thật giống như là xông tới trăng non hội viên như thế! Suýt chút nữa không vừa ra khỏi cửa liền cho một trang bị! Đây mới là là nhân vật chính a!
+
+	Cho tới đánh dã Freddy liền kém xa tít tắp.
+
+	Hắn skill bị động là: Ác mộng bất tử.
+
+	Ác mộng bất tử: Ở chịu đến một đòn trí mạng thì, thu được 1 giây vô địch, đồng thời có thể teleport một khoảng cách.
+
+	Một skill là: Ác mộng quỷ trảo.
+
+	Ác mộng quỷ trảo (kéo dài thi pháp): Khoảng cách xa nắm lấy một phe địch đơn vị, khiến cho mất đi năng lực hoạt động cũng mỗi giây chịu đến 30 điểm phép thuật thương tổn, kéo dài 2 giây.
+
+	Hai skill là: Ác mộng giáng lâm.
+
+	Ác mộng giáng lâm: Để mục tiêu đơn vị tiến vào ngủ say, cũng mỗi giây tạo thành 45 điểm phép thuật thương tổn,
+
+	Kéo dài 2 giây. Ngủ đơn vị bị thương tổn thì sẽ tỉnh lại.
+
+	Ba skill là: Thưởng thức hoảng sợ.
+
+	Thưởng thức hoảng sợ: Bị động —— tàn sát người yếu, Freddy hết thảy kỹ năng và đòn công kích bình thường, đúng không phải anh hùng đơn vị cùng không phải sử thi dã quái tạo thành gấp đôi thương tổn. Đồng thời mỗi giết chết một đơn vị, tăng cường hắn 8 điểm to lớn nhất HP cùng to lớn nhất ma lực trị. Chủ động —— hoảng sợ trồng vào, mãi mãi khống chế một con không phải sử thi cấp dã quái. (khống chế đơn vị thương tổn sẽ không để cho ngủ say mục tiêu tỉnh lại. )
+
+	Đại chiêu là: Nhập mộng.
+
+	Nhập mộng: Tăng cường tốc độ di động 50%, đồng thời nằm ở không cách nào chọn lựa trạng thái, kéo dài thời gian 5 giây.
+
+	Freddy skill là thiên hướng khống chế cùng bảo mệnh. Muốn thật là làm cho hắn đan giết ai, vậy thì thật là còn khó hơn lên trời!
+
+	Phỏng chừng dã khu gặp phải phụ trợ, hắn đều đánh không lại!
+
+	Thế nhưng hắn khống chế quá lợi hại, toàn bộ khống chế đủ để khống chế mục tiêu 4 giây.
+
+	Mà bảo mệnh phương diện cũng là bất đắc chí nhiều để. Bị động 1 giây vô địch cùng teleport, hơn nữa làm lạnh thời gian rất ngắn đại chiêu. Quả thực chính là đào mạng chuyên gia!
+
+	Nếu không là còn có một chỉ biết bắt nạt kẻ yếu ba skill, phỏng chừng cũng chính là cái phụ trợ nước tương liệu!
+
+	Cuối cùng là tiểu bánh bao mặt Huỳnh Thảo.
+
+	Nàng skill bị động là: Vòng hoa.
+
+	Vòng hoa: Hoa tươi vờn quanh Huỳnh Thảo, ở chung quanh nàng hữu phương đơn vị, mỗi 10 giây hồi phục 5% to lớn nhất HP. Ở chung quanh hắn phe địch đơn vị, mỗi 10 giây tổn thất 5% to lớn nhất HP.
+
+	Cái thứ nhất skill: Sinh mệnh nở rộ.
+
+	Sinh mệnh nở rộ: Lập tức làm một cái hữu phương đơn vị hồi phục 85 điểm HP, cũng đúng chu vi quân địch tạo thành 50 điểm chân thực thương tổn.
+
+	Thứ hai skill là: Thực vật độc tố.
+
+	Thực vật độc tố: Đúng một vị phe địch đơn vị gây độc tố, tạo thành mỗi giây 15 điểm phép thuật thương tổn, kéo dài 6 giây. Nếu như cái đơn vị này ở trúng độc trong lúc tử vong, độc tố sẽ nổ tung tạo thành 120 điểm phép thuật thương tổn, cũng truyền nhiễm chu vi phe địch đơn vị.
+
+	Đệ tam skill là phấn hoa chi thuẫn.
+
+	Phấn hoa chi thuẫn: Cho hữu phương đơn vị gây một 80 điểm sinh mệnh tấm chắn, cũng tăng cường 20% tốc độ di động, kéo dài 3 giây. Tấm chắn biến mất, sẽ làm chu vi phe địch đơn vị giảm tốc độ 35%, kéo dài 1. 5 giây.
+
+	Đại chiêu là: Tham ăn.
+
+	Tham ăn: Huỳnh Thảo hóa thân làm thực vật yêu quái, nuốt lấy anh hùng đơn vị 2 giây sau, có thể mang anh hùng thổ đến chỗ rất xa. Nếu như ăn đi chính là địch Phương anh hùng, thì lại tạo thành 180 điểm phép thuật thương tổn, lại phun ra hậu, hội kích đẩy ven đường phe địch đơn vị. Nếu như mục tiêu đánh vào trên tường hoặc là địa hình biên giới, thì lại sẽ phải chịu 180 điểm vật lý thương tổn, cũng bị choáng váng 1. 5 giây.
+
+	. . . Ngươi chính là tham ăn, cũng không thể ăn người chứ? Tiểu yêu tinh, ngươi còn không mau mau hiện ra nguyên hình!
+
+	Các đường đã vào chỗ, Charlotte đứng trung lộ một tháp phía dưới, cho rằng lần này mình muốn ra điểm danh tiếng! Lúc này không tinh tướng, càng chờ khi nào a? Coi như không siêu thần, Pentakill, cũng phải đánh ra phong thái đến mới được.
+
+	Thế nhưng, cùng hắn đúng tuyến chính là cái đọa lạc thiên sứ Morgana. Vậy thì hơi bó tay!
+
+	Người máy quá hèn mọn, động một chút là xa xa mà trên đất ném một bãi màu tím đen thống khổ ăn mòn, cho Charlotte tiểu binh "Bỏng chân" . Căn bản là không lên trước.
+
+	Thật vất vả Charlotte đến cấp hai, đối phương cũng đến hai skill. Nàng lại hèn mọn đến học cấp hai học ba skill tấm chắn!
+
+	Này tấm chắn chuyên môn hấp thu phép thuật thương tổn cùng skill khống chế. Có thể nói là pháp sư khắc tinh.
+
+	Này Morgana là quyết tâm làm một lưu manh! Charlotte căn bản là bắt nàng không có cách nào.
+
+	Vậy phải làm sao bây giờ?
+
+	Vào lúc này, bỗng nhiên truyền đến một tiếng thông cáo: "firstblood!" "Kỵ sĩ vương Artoria đánh giết man tộc chi vương Tryndamere!"
+
+	. . .
+
+	Charlotte đem màn ảnh cắt đến ra đi một xem.
+
+	Đối diện cái kia đầu đội mũ giáp sừng trâu Man Vương đã ngã vào khoảng cách chính mình tháp chỗ không xa, hắn này thanh hai tay đại khảm đao liền cắm ở thi thể của chính mình bên cạnh.
+
+	Mà Artoria nhưng chỉ rơi mất một phần ba huyết!
+
+	Nguyên lai nàng nghe xong Charlotte đúng Man Vương giải thích sau đó, trong lòng đã có ý nghĩ. Ở cấp một liền cùng Man Vương đối đầu một làn sóng. Artoria ỷ vào một skill phổ công phụ gia chân thực thương tổn, vẫn cứ đem không có nộ khí Man Vương cho chém sợ, ngay ở Man Vương sử dụng một skill toàn phong trảm trốn lúc đi, Artoria cũng sử dụng một skill Phong vương Thiết Chùy đuổi tới. . .
+
+	Sau đó chính là nàng một người biểu diễn thời gian!
+
+	Các loại đan giết Man Vương không nói, liền ngay cả đánh dã người tuyết kỵ sĩ Nunu đến rồi, đều đồng thời giết!
+
+	"doublekill!"
+
+	"Artoria killing spree!"
+
+	"Artoria is Dominating!"
+
+	"Artoria is Unstoppable!"
+
+	Artoria sử dụng skill thời điểm, một thân kim quang có thể chọc mù mắt chó!
+
+	Đặc biệt là mở ra đại chiêu excalibur thì, trong tay Long Hỏa đại kiếm đã biến thành hai lần không ngừng, mỗi một lần vung chém, đều sẽ đem một mảng nhỏ phạm vi bao phủ ở bên trong.
+
+	Nàng dựa vào chính mình hai skill miễn dịch giảm tốc độ cùng định thân, ba skill miễn dịch skill, dĩ nhiên ở đối phương tháp dưới đánh ba hoàn thành ba giết!
+
+	Đại gia tản đi đi, liền từ công kích kia đặc hiệu xem, đây tuyệt đối là một chung cực da dẻ! Đây là RMB player!
+
+	. . . Đây là một hồi RMB player thi đấu biểu diễn!
+
+	Artoria dựa vào xuất sắc chiến đấu thiên phú, nhanh chóng thích ứng thi đấu. Mà Alice cũng không kém, nàng đối với mình định vị phi thường rõ ràng: Thịt trang tốc độ đánh lưu adc!
+
+	Đối với Huỳnh Thảo sẽ không có yêu cầu gì, hội thêm huyết là được. Thực sự không được, nàng không trả có thể ăn thịt người à?
+
+	Cho tới Freddy? Hắn chớ bị dã quái đánh chết là được!
+
+	Charlotte bọn họ rất nhanh liền đánh xong mấy trường người máy, mấy người triệu hoán sư đẳng cấp đều lên tới cấp 3, có thể bắt đầu tùy cơ xứng đôi.
+
+	Tùy cơ xứng đôi chính là player cùng player 5v5 thi đấu. Có điều hiện tại là Charlotte năm cái tổ đội ủ phân đồng. . .Chương 524: RMB player Artoria ~
+
+	Charlotte mang theo Alice cùng Artoria các nàng đánh một ván máy vi tính.
+
+	Dựa vào này một ván game, giải thích cặn kẽ một hồi trong game các loại. Cũng thuận tiện biết một chút bọn họ skill.
+
+	Kỵ sĩ vương Artoria, game định vị chiến sĩ, game hình tượng là: Bạch kim sắc tóc lúa mạch tuệ như thế bàn lên, một thân ngân lam giao nhau chiến giáp anh tư hiên ngang, phía sau còn khoác kinh điển "Chăn bông" áo choàng! Trong tay một cái thiêu đốt màu đỏ sậm Long hỏa cự kiếm, đứng lặng ở bên cạnh.
+
+	Nàng skill bị động đồ tiêu là một vung kiếm phấn khởi chiến đấu bóng người: Càng chiến càng mạnh.
+
+	Càng chiến càng mạnh (1 cấp): Nằm ở bên trong chiến trường, mỗi quá 3 giây tăng cường 1 điểm lực công kích, 1 điểm giáp bảo vệ trị, 1 điểm ma kháng trị. Cao nhất có thể chồng chất năm tầng. Thoát ly chiến đấu 5 giây sau, mỗi tầng bị động hồi phục 1% to lớn nhất HP. (càng chiến càng mạnh bổ trợ hiệu quả ở 3 : 6 : 9 : 12 : 15 : Level 18 thì, thu được tăng lên. )
+
+	Nàng cái thứ nhất skill đồ tiêu, là một nằm ngang liên tục đột phá màu vàng gió xoáy đạn: Phong vương.
+
+	Phong vương (1 cấp): Bị động —— Phong vương kết giới, đòn công kích bình thường phụ gia 8 điểm chân thực thương tổn. Chủ động —— Phong vương thiết chùy, Artoria xông về phía trước đâm, ở sau đó đúng một đường thẳng phương hướng trên toàn bộ kẻ địch, tạo thành 88 điểm vật lý thương tổn, cũng khiến cho ở 2. 25 giây bên trong giảm tốc độ 45%.
+
+	Nàng thứ hai skill đồ tiêu, là một vị phiêu ở trên mặt hồ tiên nữ chính đang thi pháp: Hồ chi tiên nữ chúc phúc.
+
+	Hồ chi tiên nữ chúc phúc (1 cấp): Bị động —— bước đi trên nước, ở bụi cỏ cùng đường sông bên trong di động thì, tăng cường 50 điểm tốc độ di động. Chủ động —— Avalon chi ảnh, ở 5 giây bên trong hồi phục 120 điểm HP, cũng miễn dịch giảm tốc độ cùng định thân. Nếu như đang sử dụng skill trong lúc bị khống chế, thì lại ngoài ngạch khôi phục 60 điểm sinh mệnh.
+
+	Người thứ ba skill đồ tiêu, là một vị cô độc ngồi ở trên vương tọa bóng người: Cao ngạo chi vương.
+
+	Cao ngạo chi vương (1 cấp): Bị động —— đối ma lực, mỗi quá 16 giây quét mới một có thể trung hoà một lần anh hùng skill tấm chắn. Chủ động —— lãnh đạo lực, tốc độ di động tăng cao 25%, tốc độ công kích tăng cao 30%, kéo dài 5 giây. Chu vi hữu phương đơn vị thu được một nửa tăng mạnh.
+
+	Thứ tư skill đồ tiêu, là một cái chói mắt kiếm lớn màu vàng óng: Kiếm Excalibur.
+
+	Kiếm Excalibur (1 cấp): Bị động —— thệ ước thắng lợi, mỗi công kích 3 thứ sau, lần sau công kích đúng mục tiêu tiến hành 2 thứ đả kích. Chủ động ——excalibur, Artoria vũ khí khuấy động màu vàng ma lực, ở 10 giây kéo dài thời gian trong, dành cho nàng 35 điểm lực công kích bổ trợ, cũng tăng lên rất cao sự công kích của nàng khoảng cách, đòn công kích bình thường biến thành phạm vi công kích.
+
+	. . .
+
+	Mỗi cái skill đều có chứa cường lực bị động hiệu quả.
+
+	Bị động tùy cơ tăng cường lực công kích, giáp bảo vệ trị, ma kháng trị, thoát ly chiến đấu hồi huyết.
+
+	Một skill tăng cường chân thực thương tổn, chủ động sử dụng có thể cự ly ngắn vị di cũng phạm vi thương tổn giảm tốc độ.
+
+	Hai skill tăng cường đặc thù địa hình di tốc, chủ động sử dụng hồi phục sinh mệnh còn miễn dịch giảm tốc độ cùng định thân.
+
+	Ba skill chính là một cd ngắn, không cần tiền nữ yêu khăn che mặt, chủ động sử dụng còn tăng cường tốc độ di động cùng tốc độ đánh. Hơn nữa còn có thể cho hữu phương đơn vị thêm một nửa!
+
+	Đại chiêu mỗi ba lần công kích sau, tiến hành hai lần công kích, chính là đánh bốn lần bằng đánh năm lần. Nếu như mở lên đại chiêu đến, vậy thì càng khó hiểu! Thêm lực công kích không nói, mỗi một lần đòn công kích bình thường đều là phạm vi thương tổn. Này nếu như tìm kĩ cơ hội, trực tiếp cắt đi vào 1v5 a!
+
+	Artoria skill, quả thực thật giống như là xông tới trăng non hội viên như thế! Suýt chút nữa không vừa ra khỏi cửa liền cho một trang bị! Đây mới là là nhân vật chính a!
+
+	Cho tới đánh dã Freddy liền kém xa tít tắp.
+
+	Hắn skill bị động là: Ác mộng bất tử.
+
+	Ác mộng bất tử: Ở chịu đến một đòn trí mạng thì, thu được 1 giây vô địch, đồng thời có thể teleport một khoảng cách.
+
+	Một skill là: Ác mộng quỷ trảo.
+
+	Ác mộng quỷ trảo (kéo dài thi pháp): Khoảng cách xa nắm lấy một phe địch đơn vị, khiến cho mất đi năng lực hoạt động cũng mỗi giây chịu đến 30 điểm phép thuật thương tổn, kéo dài 2 giây.
+
+	Hai skill là: Ác mộng giáng lâm.
+
+	Ác mộng giáng lâm: Để mục tiêu đơn vị tiến vào ngủ say, cũng mỗi giây tạo thành 45 điểm phép thuật thương tổn,
+
+	Kéo dài 2 giây. Ngủ đơn vị bị thương tổn thì sẽ tỉnh lại.
+
+	Ba skill là: Thưởng thức hoảng sợ.
+
+	Thưởng thức hoảng sợ: Bị động —— tàn sát người yếu, Freddy hết thảy kỹ năng và đòn công kích bình thường, đúng không phải anh hùng đơn vị cùng không phải sử thi dã quái tạo thành gấp đôi thương tổn. Đồng thời mỗi giết chết một đơn vị, tăng cường hắn 8 điểm to lớn nhất HP cùng to lớn nhất ma lực trị. Chủ động —— hoảng sợ trồng vào, mãi mãi khống chế một con không phải sử thi cấp dã quái. (khống chế đơn vị thương tổn sẽ không để cho ngủ say mục tiêu tỉnh lại. )
+
+	Đại chiêu là: Nhập mộng.
+
+	Nhập mộng: Tăng cường tốc độ di động 50%, đồng thời nằm ở không cách nào chọn lựa trạng thái, kéo dài thời gian 5 giây.
+
+	Freddy skill là thiên hướng khống chế cùng bảo mệnh. Muốn thật là làm cho hắn đan giết ai, vậy thì thật là còn khó hơn lên trời!
+
+	Phỏng chừng dã khu gặp phải phụ trợ, hắn đều đánh không lại!
+
+	Thế nhưng hắn khống chế quá lợi hại, toàn bộ khống chế đủ để khống chế mục tiêu 4 giây.
+
+	Mà bảo mệnh phương diện cũng là bất đắc chí nhiều để. Bị động 1 giây vô địch cùng teleport, hơn nữa làm lạnh thời gian rất ngắn đại chiêu. Quả thực chính là đào mạng chuyên gia!
+
+	Nếu không là còn có một chỉ biết bắt nạt kẻ yếu ba skill, phỏng chừng cũng chính là cái phụ trợ nước tương liệu!
+
+	Cuối cùng là tiểu bánh bao mặt Huỳnh Thảo.
+
+	Nàng skill bị động là: Vòng hoa.
+
+	Vòng hoa: Hoa tươi vờn quanh Huỳnh Thảo, ở chung quanh nàng hữu phương đơn vị, mỗi 10 giây hồi phục 5% to lớn nhất HP. Ở chung quanh hắn phe địch đơn vị, mỗi 10 giây tổn thất 5% to lớn nhất HP.
+
+	Cái thứ nhất skill: Sinh mệnh nở rộ.
+
+	Sinh mệnh nở rộ: Lập tức làm một cái hữu phương đơn vị hồi phục 85 điểm HP, cũng đúng chu vi quân địch tạo thành 50 điểm chân thực thương tổn.
+
+	Thứ hai skill là: Thực vật độc tố.
+
+	Thực vật độc tố: Đúng một vị phe địch đơn vị gây độc tố, tạo thành mỗi giây 15 điểm phép thuật thương tổn, kéo dài 6 giây. Nếu như cái đơn vị này ở trúng độc trong lúc tử vong, độc tố sẽ nổ tung tạo thành 120 điểm phép thuật thương tổn, cũng truyền nhiễm chu vi phe địch đơn vị.
+
+	Đệ tam skill là phấn hoa chi thuẫn.
+
+	Phấn hoa chi thuẫn: Cho hữu phương đơn vị gây một 80 điểm sinh mệnh tấm chắn, cũng tăng cường 20% tốc độ di động, kéo dài 3 giây. Tấm chắn biến mất, sẽ làm chu vi phe địch đơn vị giảm tốc độ 35%, kéo dài 1. 5 giây.
+
+	Đại chiêu là: Tham ăn.
+
+	Tham ăn: Huỳnh Thảo hóa thân làm thực vật yêu quái, nuốt lấy anh hùng đơn vị 2 giây sau, có thể mang anh hùng thổ đến chỗ rất xa. Nếu như ăn đi chính là địch Phương anh hùng, thì lại tạo thành 180 điểm phép thuật thương tổn, lại phun ra hậu, hội kích đẩy ven đường phe địch đơn vị. Nếu như mục tiêu đánh vào trên tường hoặc là địa hình biên giới, thì lại sẽ phải chịu 180 điểm vật lý thương tổn, cũng bị choáng váng 1. 5 giây.
+
+	. . . Ngươi chính là tham ăn, cũng không thể ăn người chứ? Tiểu yêu tinh, ngươi còn không mau mau hiện ra nguyên hình!
+
+	Các đường đã vào chỗ, Charlotte đứng trung lộ một tháp phía dưới, cho rằng lần này mình muốn ra điểm danh tiếng! Lúc này không tinh tướng, càng chờ khi nào a? Coi như không siêu thần, Pentakill, cũng phải đánh ra phong thái đến mới được.
+
+	Thế nhưng, cùng hắn đúng tuyến chính là cái đọa lạc thiên sứ Morgana. Vậy thì hơi bó tay!
+
+	Người máy quá hèn mọn, động một chút là xa xa mà trên đất ném một bãi màu tím đen thống khổ ăn mòn, cho Charlotte tiểu binh "Bỏng chân" . Căn bản là không lên trước.
+
+	Thật vất vả Charlotte đến cấp hai, đối phương cũng đến hai skill. Nàng lại hèn mọn đến học cấp hai học ba skill tấm chắn!
+
+	Này tấm chắn chuyên môn hấp thu phép thuật thương tổn cùng skill khống chế. Có thể nói là pháp sư khắc tinh.
+
+	Này Morgana là quyết tâm làm một lưu manh! Charlotte căn bản là bắt nàng không có cách nào.
+
+	Vậy phải làm sao bây giờ?
+
+	Vào lúc này, bỗng nhiên truyền đến một tiếng thông cáo: "firstblood!" "Kỵ sĩ vương Artoria đánh giết man tộc chi vương Tryndamere!"
+
+	. . .
+
+	Charlotte đem màn ảnh cắt đến ra đi một xem.
+
+	Đối diện cái kia đầu đội mũ giáp sừng trâu Man Vương đã ngã vào khoảng cách chính mình tháp chỗ không xa, hắn này thanh hai tay đại khảm đao liền cắm ở thi thể của chính mình bên cạnh.
+
+	Mà Artoria nhưng chỉ rơi mất một phần ba huyết!
+
+	Nguyên lai nàng nghe xong Charlotte đúng Man Vương giải thích sau đó, trong lòng đã có ý nghĩ. Ở cấp một liền cùng Man Vương đối đầu một làn sóng. Artoria ỷ vào một skill phổ công phụ gia chân thực thương tổn, vẫn cứ đem không có nộ khí Man Vương cho chém sợ, ngay ở Man Vương sử dụng một skill toàn phong trảm trốn lúc đi, Artoria cũng sử dụng một skill Phong vương Thiết Chùy đuổi tới. . .
+
+	Sau đó chính là nàng một người biểu diễn thời gian!
+
+	Các loại đan giết Man Vương không nói, liền ngay cả đánh dã người tuyết kỵ sĩ Nunu đến rồi, đều đồng thời giết!
+
+	"doublekill!"
+
+	"Artoria killing spree!"
+
+	"Artoria is Dominating!"
+
+	"Artoria is Unstoppable!"
+
+	Artoria sử dụng skill thời điểm, một thân kim quang có thể chọc mù mắt chó!
+
+	Đặc biệt là mở ra đại chiêu excalibur thì, trong tay Long Hỏa đại kiếm đã biến thành hai lần không ngừng, mỗi một lần vung chém, đều sẽ đem một mảng nhỏ phạm vi bao phủ ở bên trong.
+
+	Nàng dựa vào chính mình hai skill miễn dịch giảm tốc độ cùng định thân, ba skill miễn dịch skill, dĩ nhiên ở đối phương tháp dưới đánh ba hoàn thành ba giết!
+
+	Đại gia tản đi đi, liền từ công kích kia đặc hiệu xem, đây tuyệt đối là một chung cực da dẻ! Đây là RMB player!
+
+	. . . Đây là một hồi RMB player thi đấu biểu diễn!
+
+	Artoria dựa vào xuất sắc chiến đấu thiên phú, nhanh chóng thích ứng thi đấu. Mà Alice cũng không kém, nàng đối với mình định vị phi thường rõ ràng: Thịt trang tốc độ đánh lưu adc!
+
+	Đối với Huỳnh Thảo sẽ không có yêu cầu gì, hội thêm huyết là được. Thực sự không được, nàng không trả có thể ăn thịt người à?
+
+	Cho tới Freddy? Hắn chớ bị dã quái đánh chết là được!
+
+	Charlotte bọn họ rất nhanh liền đánh xong mấy trường người máy, mấy người triệu hoán sư đẳng cấp đều lên tới cấp 3, có thể bắt đầu tùy cơ xứng đôi.
+
+	Tùy cơ xứng đôi chính là player cùng player 5v5 thi đấu. Có điều hiện tại là Charlotte năm cái tổ đội ủ phân đồng. . .

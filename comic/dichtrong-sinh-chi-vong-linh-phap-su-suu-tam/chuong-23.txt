@@ -1,0 +1,721 @@
+Bước nhanh ra khỏi thành, Đình Tấn và Ameerah theo chỉ dẫn nhiệm vụ, hướng về phía hầm mỏ sắt mà đi. Bọn họ không biết rằng mình thân phận mình đã bị bại lộ và đang lọt vào tầm mắt của một nhóm người.
+
+Sự tập trung của Đình Tấn bây giờ đều đang dồn vào kỹ năng cùng điểm thuộc tính của mình. Sau một quãng thời gian dài quan sát và sử dụng kỹ năng, hắn đã có nhiều ý nghĩ đã được chứng minh.
+
+Những thông tin về kỹ năng đều được hệ thống truyền trực tiếp vào đại não thông qua sóng điện. Đến khi vào game, người chơi sẽ có cảm giác như hắn đang được hệ thống điều khiển bản thân để sử dụng. 
+
+Thế nhưng sự thực không phải là như vậy. Bọn họ không biết rằng, thực chất bản thân họ cũng là nắm rõ cách sử dụng kỹ năng này, chỉ là vì lầm tưởng là do hệ thống làm ra cảm giác chân thực khi sử dụng kỹ năng mà thôi. 
+
+Chính điều này làm cho bọn họ xuất hiện một thói quen, bỏ mặt cho hệ thống vận hành toàn bộ quá trình sử dụng kỹ năng mà không tự chủ vận dụng theo như thông tin trong trí nhớ của mình giống như những gì Đình Tấn đã làm. 
+
+Vì vậy mà cho đến hiện tại, vẫn chưa có người chơi nào phát hiện ra bí mật về khả năng đồng bộ kỹ năng giữa game và hiện thực.
+
+Đình Tấn vẫn rất băn khoăn về chuyện đó, trong một thời gian dài. Thế nên sách kỹ năng Tử Vong Màn Che vẫn bị hắn tồn trữ lại mà không sử dụng ngay. Bởi hắn sợ, nếu một khi sử dụng thì sẽ chỉ nhận được một cường lực kỹ năng trong game chứ không phải ở thực tế. 
+
+Đây không phải là mục đích của Đình Tấn, vì game đối với hắn cũng chỉ là một môi trường để hắn luyện tập và tu luyện nhằm tăng lên tốc độ trưởng thành mà thôi. Còn thực lực ở hiện thực thì vẫn là điều quan trọng nhất, cần được ưu tiên hàng đầu.
+
+Hiện tại, đã suy đoán được chính xác 80% khả năng đồng bộ giữa kỹ năng này với hiện thực, mà không cần phải thoát game tu luyện rồi vào lại game, sử dụng một lần để kích hoạt, nên Đình Tấn không còn do dự hay tiếc nuối gì nữa.
+
+Hắn lập tức lấy sách kỹ năng "Tử Vong Màn Che" từ trong ba lô ra, rồi lựa chọn học tập.
+
+Keng! - Chúc mừng ngài đã học tập kỹ năng Tử vong màn che. Xin cố gắng chăm chỉ luyện tập.
+
+Tử vong màn che
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Dùng phù hiệu và chú ngữ, triệu hồi không khí hắc ám từ cõi chết. Đầu độc làm suy yếu và che mắt kẻ địch trong một khu vực nhất định. (Vong linh, hắc ám sinh vật không bị ảnh hưởng)
+
+Tiêu hao: 1MP/m vuông/giây
+
+Hiệu quả: 
+
+- 1/ Đầu độc giảm 10% + (Tinh thần *0.001)% thuộc tính kẻ địch, tầm nhìn giảm xuống 10% + (Tinh thần *0.01)% (Không thể chồng chất)
+
+- 2/ Triệu hồi hắc ám sinh vật đồng minh thuộc tính đề thăng 10% + (Tinh thần *0.01)%
+
+- 3/ Diện tích bao phủ (Tinh thần * 0.1) mét
+
+Với chỉ số thuộc tính hiện tại của Đình Tấn, kỹ năng Tử Vong Màn Che chỉ có thể bao trùm một khu vực gần 8m vuông. Suy yếu thuộc tính cùng với tầm nhìn của kẻ địch 10%, đồng thời làm gia tăng sức mạnh của đám vong linh lên 10%. 
+
+Hiệu quả kỹ năng này tương tự như "Nguyền Rủa Suy Yếu" nhưng nó đồng thời có thể làm gia tăng sức mạnh của vong linh nên lẽ dĩ nhiên cấp bậc phải cao hơn. 
+
+Nếu như kết hợp hai kỹ năng này lại với nhau, thì chẳng khác nào thông số thuộc tính của đối thủ vừa vào trận sẽ giảm mạnh xuống một phần năm. Với khả năng khống chế (debuff) thuộc tính trên diện rộng như vậy Đình Tấn dám chắc hắn có thể một mình đơn đấu một bầy Wolficore trong phòng thí nghiệm ngầm ngày hôm ấy.
+
+Điểm thuộc tính tự do khi tăng cấp, Đình Tấn đều lựa chọn tăng vào tinh thần, vì dù sao đó cũng là cơ sở cho khá nhiều kỹ năng của hắn.
+
+Ngoài ra, điểm thăng cấp của huy chương Lính Đánh Thuê đã từ 0 điểm nhảy lên đến 1550/32000 rồi. Khoảng cách thăng cấp còn một đoạn rất dài, thế nhưng Đình Tấn không hề nản chí bởi hắn biết mình đã dẫn trước người khác rất nhiều.
+
+Trên đường đi, suy nghĩ của Đình Tấn đều tập trung trên chỉ số thuộc tính và cách vận dụng kỹ năng sao cho hoàn mỹ nhất. Đồng thời, hắn cũng hướng về Ameerah ở bên cạnh, chỉ dẫn cho nàng rất nhiều kinh nghiệm chiến đấu.
+
+Từ EL thành thành đi đến khu hầm mỏ sắt này chỉ bằng một nửa đoạn đường mà hôm qua hai người phải đi, thế nên chỉ hơn 1 tiếng sau, hai người đã đến nơi mục tiêu chỉ định và đang đứng trước một cửa hang động nhân tạo rất lớn. 
+
+Hang động cao hơn 3 mét, bề ngang hơn 4 mét, được chống đỡ bằng những thanh gỗ xếp chồng lên nhau thành hình chữ U ngược, kéo dài đến tận sâu bên trong.
+
+Bên ngoài vắng vẻ không có một bóng người, Đình Tấn đứng quan sát một hồi, sau đó đưa ra quyết định triệu hồi 3 tên Bộ Xương Chiến Sĩ, lập thành đội hình tam giác, bao vây lấy hắn và Ameerah vào bên trong.
+
+Chuẩn bị xong xuôi, cả nhóm mới chậm rãi bước vào hang độc. Bên trong không khí âm trầm ẩm mốc, ánh đèn dầu lấp lóe làm cho bầu không khí càng có thêm một vẻ quỷ dị.
+
+Rất may là con đường bên trong hầm mỏ không có lối rẽ, nên hắn chỉ việc đi thẳng một mạch vào. Sau khi tiêu hao hơn 8 bình HP thuốc và 3 bình MP thuốc, cả nhóm rốt cục đi đến cuối con đường.
+
+Đình Tấn bước đến bên cạnh một tên Bộ Xương Chiến Sĩ rồi leo lên vai nó để có thể với lấy mấy cái đèn vẫn còn đang chiếu sáng, gắn trên nóc của đường hầm.
+
+Cầm trong tay một cái đèn, một cái còn lại thì hắn treo lên người một tên Bộ Xương Chiến Sĩ, rồi ra lệnh nó đi trước dò đường. 
+
+- Như vậy cũng được nữa hả?!
+
+Ở phía sau Ameerah há hốc mồm kinh ngạc, không nhịn được mà bật thốt ra một câu. Trước giờ, nàng chơi game cũng chưa từng nghĩ tới có thể cùng cách này để đi mở đường. Hôm nay trông thấy hành động của Đình Tấn thì không khỏi mở mang tầm mắt.
+
+Bất quá, càng đi vào sâu, bầu không khí càng trở nên âm u, đen tối hơn. Ameerah có chút sợ hãi, đi sát vào Đình Tấn. Từ đầu đến giờ, nàng có vẻ sợ hãi bóng tối nên hai tay vẫn bám chặt lấy cánh tay của hắn.
+
+Ánh đèn dầu chỉ chiếu sáng một vùng, bán kính không quá 5 mét, cho nên Đình Tấn phải luôn giữ khoảng cách với tên Bộ Xương Chiến Sĩ dò đường kia để phạm vi chiếu sáng luôn ở mức cao nhất, khoảng từ 8 – 10 mét. 
+
+Lúc này không gian dường như đã trở nên hẹp hơn, bề rộng cũng chỉ vừa đủ cho ba người dàn hàng ngang, đồng thời đường đi có vẻ như càng lúc càng đi xuống dốc.
+
+Ba tên Bộ Xương Chiến Sĩ được Đình Tấn mệnh lệnh thay đổi đội hình, xếp theo một hàng dọc. Hắn cùng với một tên Bộ Xương Chiến Sĩ phân chia ra hai người hai bên, kẹp lại Ameerah ở giữa để cho nàng đỡ sợ hãi. 
+
+Tuy rằng bề ngoài của Bộ Xương Chiến Sĩ trông cũng có chút kinh dị, nhất là màu xanh của ánh lửa linh hồn đang chập chờn, lấp lóe trong hốc mắt. Thế nhưng chắc do có tiếp xúc từ lâu nên Ameerah không cảm thấy sợ hãi với nó nhiều.
+
+‘Soạt soạt…’
+
+Tại thời điểm Đình Tấn tiêu hao đến bình HP thuốc thứ 12 thì rốt cục cũng có động tĩnh, một âm thanh sột soạt ở phía trước vang lên. 
+
+Điều này lập tức làm hắn lên tình thần cảnh giác, triệu hồi ra thêm hai tên Bộ Xương Chiến Sĩ để đề phòng, đồng thời ra mệnh lệnh cho tên Bộ Xương Chiến Sĩ có mang đèn đi cùng với một tên khác ra dò đường.
+
+Ở phía xa, khoảng cách có hơn 7 – 8 mét, một thân ảnh xuất hiện trong tầm nhìn của Đình Tấn. Một giống loài kì lạ mà hắn cũng chưa từng gặp qua, chỉ nghe nói và biết được thông qua sách vở.
+
+Molebear (Tinh anh)
+
+Đẳng cấp: 18
+
+HP: 1900/1900
+
+Kỹ năng: ẩn nấp, cắn xé, đào đất
+
+Giới thiệu: một chủng loại quỷ dị khó lường ở trong lòng đất, mang đặc điểm của loài chuột chũi nhưng lại có thân hình to lớn của loài gấu. Thường đào hố để bẫy con mồi. Sức mạnh rất lớn, nhưng thân thể chậm chạp và chỉ di chuyển nhanh trong lòng đất.
+
+Rất có khả năng, do bọn chúng sống ở trong lòng đất nên thính giác cùng thị giác không được tốt. Hai tên Bộ Xương Chiến Sĩ mặc dù đã đi đến gần sát bên, chỉ cách nó không đến 3 mét nhưng vẫn chưa có dấu hiệu bị phát hiện. 
+
+Lợi dụng điểm này, Đình Tấn ra lệnh cho hai tên Bộ Xương Chiến Sĩ dò đường đi vòng ra phía sau của con Molebear. Đồng thời, hắn cũng không quên triệu hồi ra thêm ba con Bộ Xương Chiến Sĩ nữa, đây là số lượng tối đa Bộ Xương Chiến Sĩ mà hắn có thể triệu hồi. 
+
+Ra hiệu cho Ameerah tiếp tục chờ đợi, Đình Tấn không chậm trễ chút nào vung pháp trượng tung ra kỹ năng với tốc độ nhanh nhất mà hắn có thể làm được.
+
+"Tử Vong Màn Che" 
+
+-190
+
+"Nguyền Rủa Suy Yếu" 
+
+-190
+
+"Cốt Thứ" 
+
+-102
+
+Một làn khói đen bỗng dưng không biết từ đâu xuất hiện, bao phủ khu vực 2 mét vuông xung quanh con Molebear làm cho tầm nhìn của nó đã yếu lại càng trở nên mù mịt hơn. Hơn nữa thuộc tính cũng bị giảm xuống làm nó không thể phát huy ra sức mạnh của mình.
+
+‘Chíttt…’
+
+Bị tấn công con Molebear rít lên dữ dội. Bất quá, tiếp đón nó lại là một loạt bảy thanh rìu lớn vung tới.
+
+-55 -56 -57 -104 -58 -59 -118
+
+"Cốt Thứ"
+
+-208 (Điểm yếu)
+
+Con Molebear chịu đòn hết lần này đến lần khác, nhưng lại không nhìn thấy được gì làm nó càng thêm nổi khùng, vung bừa móng vuốt, hướng về phía một con Bộ Xương Chiến Sĩ gần nhất mà tát ngang.
+
+‘Ầm’
+
+-120 (Đón đỡ)
+
+Tên Bộ Xương Chiến Sĩ vung khiên hướng lên phía trên đón đỡ làm lượng sát thương được giảm bớt lại 80%. Tuy vậy nhưng lực tác động từ cú tát của con Molebear lại không được giảm bớt đi. Cú tát làm nó phải khụy gối một chân xuống đập mạnh lên mặt đất bên dưới, cả cơ thể cũng bị đẩy lùi về sau hơn 1 mét có thừa. 
+
+Bất quá, một sinh vật đã chết thì làm sao biết sợ, nó không hề cảm giác đau đớn hay sợ hãi gì, ngay tức khắc xông lên cùng sáu tên đồng đội, tiếp tục lượt tấn công tiếp theo.
+
+-55 -110 -112 -53 -57 -55 -118
+
+"Cốt Thứ"
+
+-206 (Điểm Yếu)
+
+EXP +1800
+
+‘Rầm’
+
+‘Song quyền nan địch tứ thủ’, con Molebear tuy rằng sức mạnh rất lớn, thế nhưng nó chỉ lợi hại khi ở trong lòng đất mà không bị phát hiện. 
+
+Bảy tên Bộ Xương Chiến Sĩ cùng Đình Tấn liên thủ đã đủ để làm cho nó không kịp trở tay, huống chi bên cạnh vẫn còn có một tên bạo lực võ sư chưa tham chiến.
+
+Chợt, tại thời điểm con Molebear vừa ngã xuống cống nạp điểm kinh nghiệm cho Đình Tấn và Ameerah, thì mặt đất ngay dưới chân một tên Bộ Xương Chiến Sĩ bỗng nhiên bị sụp lún. 
+
+Con Bộ Xương Chiến Sĩ này lập tức bị rơi vào ngay xuống một cái hố. Chưa kịp hiểu chuyện gì xảy ra thì từ trong cái hố sâu kia lại chui ra một con Molebear khác, dùng móng vuốt liên tục tát mạnh vào thân tên Bộ Xương Chiến Sĩ bị rơi xuống hố.
+
+Đình Tấn nhận ra nguy hiểm đã đến thì không hề chần chờ gì, nhanh chóng tung ra kỹ năng bảo vệ mạng sống trước, phòng ngừa bị đột kích bất ngờ.
+
+"Cốt Giáp" (139)
+
+"Ngự Thuẫn Thuật" (236)
+
+Hắn cũng không quên quay sang dặn dò Ameerah:
+
+- Liên tục di chuyển, không được dừng lại. Khi cảm giác đất dưới chân mềm đi thì phải lập tức lao ra khỏi khu vực đó. FC20y7TL Rõ chưa?
+
+Ameerah nghiêm túc gật gật đầu, sau đó bắt đầu cất bước chạy vòng quanh khu vực này. 
+
+Thấy vậy, Đình Tấn cũng yên tâm đôi chút, ánh mắt bắt đầu chuyển dời đến hố có tên Bộ Xương Chiến Sĩ đang bị con Molebear đập tối tăm mặt mũi. Không chậm trễ nữa, hắn bắt đầu tung ra kỹ năng công kích con Molebear dưới hố.
+
+"Tử Vong Màn Che" 
+
+-190
+
+"Nguyền Rủa Suy Yếu" 
+
+-190
+
+"Cốt Thứ" 
+
+-321 (Chí Mạng)
+
+Cũng không quên ra lệnh cho con Bộ Xương Chiến Sĩ thủ vững, để nó co cụm cả người lại, chân khụy xuống, lưng dựa vào tường đất phía sau, giơ khiên đón đỡ từng đòn đánh như trời giáng của con Molebear
+
+"Sinh Mệnh Cứu Rỗi" 
+
++170 +170 +170
+
+"Cốt Thứ" 
+
+-303 (Chí Mạng)
+
+Vừa tung ra kỹ năng hồi máu thì khu vực xung quanh Đình Tấn 5 mét, ống HP của hai con Bộ Xương Chiến Sĩ lập tức được khôi phục một đoạn nhỏ. Tuy rằng không nhiều nhưng như vậy cũng đủ để cho con Bộ Xương Chiến Sĩ ở dưới hố chống đỡ công kích của con Molebear thêm được một đợt tấn công.
+
+Con Molebear ở dưới lòng đất cũng bị không gian chật hẹp làm cho không thể né tránh, liên tục nhận sát thương từ những kỹ năng công kích của Đình Tấn.
+
+EXP +1800
+
+Rốt cục sau sáu đòn "Cốt Thứ" Chí Mạng đến từ Đình Tấn, con Molebear kia cuối cùng cũng phải nhận mệnh, ngã xuống cống hiến điểm kinh nghiệm. 
+
+Đối diện nó, tên Bộ Xương Chiến Sĩ cũng đã là đèn cạn dầu, ống HP còn không đến 100 điểm. Đình Tấn sau khi giải quyết xong con Molebear thì liền giải trừ triệu hồi với tên Bộ Xương Chiến Sĩ dưới hố, sau đó lại triệu hồi ra một con khác.
+
+Trong khoảng thời gian này, xung quanh Đình Tấn đã liên tục xuất hiện 3 con Molebear. Chắc do đã có kinh nghiệm bị kẹt rồi lại bị hành hạ đến chết của con Molebear dưới hố kia, bọn chúng đều là ở trên vách tường lao ra công kích.
+
+Đình Tấn chỉ huy 6 tên Bộ Xương Chiến Sĩ xông lên, vây chặt lấy ba con Molebear này, "Tử Vong Màn Che" cũng được tung ra đến diện tích ảnh hưởng lớn nhất của nó, với gần 8 mét vuông, làm cho những con Molebear này rơi vào cục diện tối tăm mặt mũi, không thấy được kẻ địch. Lại thêm kỹ năng "Nguyền Rủa Suy Yếu" làm cho thuộc tính của nó bị giảm một đoạn dài.
+
+Lợi dụng điểm này, Đình Tấn chỉ huy cho sáu tên Bộ Xương Chiến Sĩ thay phiên nhau công kích, xong rồi thì lập tức lùi ra ngoài. Chiến thuật này làm bọn Molebear bị quấy rối đến không thể rời khỏi khu vực Tử Vong Màn Che, mà công kích đa số cũng không trúng được mục tiêu nào.
+
+Ameerah đứng bên ngoài quan sát, lâu lâu khi thấy có con Molebear nào ở rìa của khu vực màn khói đen bao trùm thì sẽ lao lên, cho một cước vào đầu nó, sau đó nhanh chân lui lại chờ đợi cơ hội tiếp theo.
+
+Mọi chuyện diễn ra rất thuận lợi, Đình Tấn giải quyết xong con Molebear dưới hố cũng là lúc 3 con Molebear kia bị hành hạ gần chết, mỗi con chỉ còn lại nửa ống HP. 
+
+Nhất là con ở rìa khu vực của Ameerah, liên tục bị ăn ba, bốn cú đạp như trời giáng của nàng, làm lượng HP đã rất mỏng của nó chỉ một hai đòn của con Bộ Xương Chiến Sĩ liền có thể kết liễu sinh mệnh của nó.
+
+Nhanh chóng tung ra kỹ năng, đồng thời dùng tinh thần điều khiển Bộ Xương Chiến Sĩ, Đình Tấn cũng phải tiêu hao rất nhiều thuốc khôi phục. Đến khi HP thuốc trong ba lô chỉ còn lại 78 bình, cũng là lúc con Molebear cuối cùng ngã xuống.
+
+Lần này quá trình chiến đấu cứ ‘Hữu kinh vô hiểm’ mà vượt qua. Do Đình Tấn phải liên tục tiêu hao HP để duy trì đám Bộ Xương Chiến Sĩ nên kỹ năng Tái Tạo đã làm cho giới hạn HP của hắn tăng lên một đoạn dài. 
+
+Mà điểm kinh nghiệm từ năm con tinh anh cũng rất khả quan làm ống kinh nghiệm của Đình Tấn và Ameerah được lấp đầy một khoảng trống lớn.
+
+Hiện tại người chơi bình thường, nếu chuyên tâm tu luyện hơn 10 tiếng một ngày, lại có thêm trang bị tốt. Chắc có lẽ thuộc tính cũng chỉ ở khoảng 30 – 40 điểm, vì không phải ai cũng có bí tịch tu luyện thuộc tính tinh thần như Đình Tấn, cũng không phải bất cứ ai đều sử dụng điểm kỹ năng quý giá, thứ mà có được khi đạt đến cấp 10, tăng vào kỹ năng tu luyện của họ.
+
+Hơn nữa, bởi vì Đình Tấn có Bộ Xương Chiến Sĩ làm khiên thịt quá tốt, lại thêm sự chỉ huy hợp lý nên rất dễ dàng gây ra nguồn sát thương cực lớn. Cuộc chiến mới nhẹ nhõm như vậy vượt qua. 
+
+Nhiệm vụ này nếu giao cho người khác thật không biết phải cần bao nhiêu người mới có thể chống đỡ nổi những cú tát từ sáu con Molebear này, nói chi là đến việc dùng lượng sát thương nghèo nàng, chỉ bằng một phần mười của đám Bộ Xương Chiến Sĩ và Đình Tấn, đến giết nó. 
+
+Không biết phải dùng tới bao nhiêu thời gian, nhưng chắc chắn một điều là mấy người làm khiên thịt chặn ở phía trước sẽ chết sạch, trước khi bọn Molebear này ngã xuống.
+
+Cố bình tĩnh lại tâm tình trong người, Đình Tấn thu hồi triệu hoán chỉ chừa lại 1 tên Bộ Xương Chiến Sĩ cầm đèn. Dặn dò Ameerah xem xét xung quanh, còn hắn thì ngồi xuống uống thuốc cùng kiểm tra tiêu hao cùng thu hoạch lần này.
+
+Tiêu hao 22 bình HP thuốc cùng 18 bình MP thuốc.
+
+Thu hoạch 40 bạc, 9000 EXP, 165 HP hạn mức cao nhất
+
+Đình Tấn mỉm cười, tiêu hao thấp hơn nhiều so với thu hoạch. Chuyến đi này nếu thành công thì sẽ là một ngày thu hoạch lớn. Vừa đủ kinh nghiệm thăng lên 1 cấp, chỉ số cơ thể lại bước đi thêm được một đoạn dài.
+
+Khi HP cùng MP đã hồi đầy, Đình Tấn đứng lên tiếp tục triệu hồi ra hai tên Bộ Xương Chiến Sĩ, một trước một sau bảo hộ mình và Ameerah. Phía trước vẫn là tên Bộ Xương Chiến Sĩ cầm đèn kia dẫn đường.
+
+Càng đi về sau, không khí của khu vực này càng trở nên ẩm thấp, đồng thời độ dốc cũng trở nên lớn hơn. Đi một đoạn đường hơn 30 mét nữa, Đình Tấn bắt gặp một hồ nước. 
+
+Xung quanh khu vực này nếu tắt đèn thì chắc sẽ tối om om không thấy rõ năm ngón tay. Càng quan sát hắn càng cảm giác như có ai đó đang theo dõi hắn, làm cho hắn trong lòng cứ bồn chồn, bứt rứt.
+
+Trong lúc Đình Tấn đang quan sát chung quanh, dưới hồ nước một đôi mắt lập lòe ánh sáng cũng đang hướng lấy hắn quan sát. Như chờ đợi một khi hắn có sơ hở sẽ lập tức lao ra công kích.Bước nhanh ra khỏi thành, Đình Tấn và Ameerah theo chỉ dẫn nhiệm vụ, hướng về phía hầm mỏ sắt mà đi. Bọn họ không biết rằng mình thân phận mình đã bị bại lộ và đang lọt vào tầm mắt của một nhóm người.
+
+Sự tập trung của Đình Tấn bây giờ đều đang dồn vào kỹ năng cùng điểm thuộc tính của mình. Sau một quãng thời gian dài quan sát và sử dụng kỹ năng, hắn đã có nhiều ý nghĩ đã được chứng minh.
+
+Những thông tin về kỹ năng đều được hệ thống truyền trực tiếp vào đại não thông qua sóng điện. Đến khi vào game, người chơi sẽ có cảm giác như hắn đang được hệ thống điều khiển bản thân để sử dụng. 
+
+Thế nhưng sự thực không phải là như vậy. Bọn họ không biết rằng, thực chất bản thân họ cũng là nắm rõ cách sử dụng kỹ năng này, chỉ là vì lầm tưởng là do hệ thống làm ra cảm giác chân thực khi sử dụng kỹ năng mà thôi. 
+
+Chính điều này làm cho bọn họ xuất hiện một thói quen, bỏ mặt cho hệ thống vận hành toàn bộ quá trình sử dụng kỹ năng mà không tự chủ vận dụng theo như thông tin trong trí nhớ của mình giống như những gì Đình Tấn đã làm. 
+
+Vì vậy mà cho đến hiện tại, vẫn chưa có người chơi nào phát hiện ra bí mật về khả năng đồng bộ kỹ năng giữa game và hiện thực.
+
+Đình Tấn vẫn rất băn khoăn về chuyện đó, trong một thời gian dài. Thế nên sách kỹ năng Tử Vong Màn Che vẫn bị hắn tồn trữ lại mà không sử dụng ngay. Bởi hắn sợ, nếu một khi sử dụng thì sẽ chỉ nhận được một cường lực kỹ năng trong game chứ không phải ở thực tế. 
+
+Đây không phải là mục đích của Đình Tấn, vì game đối với hắn cũng chỉ là một môi trường để hắn luyện tập và tu luyện nhằm tăng lên tốc độ trưởng thành mà thôi. Còn thực lực ở hiện thực thì vẫn là điều quan trọng nhất, cần được ưu tiên hàng đầu.
+
+Hiện tại, đã suy đoán được chính xác 80% khả năng đồng bộ giữa kỹ năng này với hiện thực, mà không cần phải thoát game tu luyện rồi vào lại game, sử dụng một lần để kích hoạt, nên Đình Tấn không còn do dự hay tiếc nuối gì nữa.
+
+Hắn lập tức lấy sách kỹ năng "Tử Vong Màn Che" từ trong ba lô ra, rồi lựa chọn học tập.
+
+Keng! - Chúc mừng ngài đã học tập kỹ năng Tử vong màn che. Xin cố gắng chăm chỉ luyện tập.
+
+Tử vong màn che
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Dùng phù hiệu và chú ngữ, triệu hồi không khí hắc ám từ cõi chết. Đầu độc làm suy yếu và che mắt kẻ địch trong một khu vực nhất định. (Vong linh, hắc ám sinh vật không bị ảnh hưởng)
+
+Tiêu hao: 1MP/m vuông/giây
+
+Hiệu quả: 
+
+- 1/ Đầu độc giảm 10% + (Tinh thần *0.001)% thuộc tính kẻ địch, tầm nhìn giảm xuống 10% + (Tinh thần *0.01)% (Không thể chồng chất)
+
+- 2/ Triệu hồi hắc ám sinh vật đồng minh thuộc tính đề thăng 10% + (Tinh thần *0.01)%
+
+- 3/ Diện tích bao phủ (Tinh thần * 0.1) mét
+
+Với chỉ số thuộc tính hiện tại của Đình Tấn, kỹ năng Tử Vong Màn Che chỉ có thể bao trùm một khu vực gần 8m vuông. Suy yếu thuộc tính cùng với tầm nhìn của kẻ địch 10%, đồng thời làm gia tăng sức mạnh của đám vong linh lên 10%. 
+
+Hiệu quả kỹ năng này tương tự như "Nguyền Rủa Suy Yếu" nhưng nó đồng thời có thể làm gia tăng sức mạnh của vong linh nên lẽ dĩ nhiên cấp bậc phải cao hơn. 
+
+Nếu như kết hợp hai kỹ năng này lại với nhau, thì chẳng khác nào thông số thuộc tính của đối thủ vừa vào trận sẽ giảm mạnh xuống một phần năm. Với khả năng khống chế (debuff) thuộc tính trên diện rộng như vậy Đình Tấn dám chắc hắn có thể một mình đơn đấu một bầy Wolficore trong phòng thí nghiệm ngầm ngày hôm ấy.
+
+Điểm thuộc tính tự do khi tăng cấp, Đình Tấn đều lựa chọn tăng vào tinh thần, vì dù sao đó cũng là cơ sở cho khá nhiều kỹ năng của hắn.
+
+Ngoài ra, điểm thăng cấp của huy chương Lính Đánh Thuê đã từ 0 điểm nhảy lên đến 1550/32000 rồi. Khoảng cách thăng cấp còn một đoạn rất dài, thế nhưng Đình Tấn không hề nản chí bởi hắn biết mình đã dẫn trước người khác rất nhiều.
+
+Trên đường đi, suy nghĩ của Đình Tấn đều tập trung trên chỉ số thuộc tính và cách vận dụng kỹ năng sao cho hoàn mỹ nhất. Đồng thời, hắn cũng hướng về Ameerah ở bên cạnh, chỉ dẫn cho nàng rất nhiều kinh nghiệm chiến đấu.
+
+Từ EL thành thành đi đến khu hầm mỏ sắt này chỉ bằng một nửa đoạn đường mà hôm qua hai người phải đi, thế nên chỉ hơn 1 tiếng sau, hai người đã đến nơi mục tiêu chỉ định và đang đứng trước một cửa hang động nhân tạo rất lớn. 
+
+Hang động cao hơn 3 mét, bề ngang hơn 4 mét, được chống đỡ bằng những thanh gỗ xếp chồng lên nhau thành hình chữ U ngược, kéo dài đến tận sâu bên trong.
+
+Bên ngoài vắng vẻ không có một bóng người, Đình Tấn đứng quan sát một hồi, sau đó đưa ra quyết định triệu hồi 3 tên Bộ Xương Chiến Sĩ, lập thành đội hình tam giác, bao vây lấy hắn và Ameerah vào bên trong.
+
+Chuẩn bị xong xuôi, cả nhóm mới chậm rãi bước vào hang độc. Bên trong không khí âm trầm ẩm mốc, ánh đèn dầu lấp lóe làm cho bầu không khí càng có thêm một vẻ quỷ dị.
+
+Rất may là con đường bên trong hầm mỏ không có lối rẽ, nên hắn chỉ việc đi thẳng một mạch vào. Sau khi tiêu hao hơn 8 bình HP thuốc và 3 bình MP thuốc, cả nhóm rốt cục đi đến cuối con đường.
+
+Đình Tấn bước đến bên cạnh một tên Bộ Xương Chiến Sĩ rồi leo lên vai nó để có thể với lấy mấy cái đèn vẫn còn đang chiếu sáng, gắn trên nóc của đường hầm.
+
+Cầm trong tay một cái đèn, một cái còn lại thì hắn treo lên người một tên Bộ Xương Chiến Sĩ, rồi ra lệnh nó đi trước dò đường. 
+
+- Như vậy cũng được nữa hả?!
+
+Ở phía sau Ameerah há hốc mồm kinh ngạc, không nhịn được mà bật thốt ra một câu. Trước giờ, nàng chơi game cũng chưa từng nghĩ tới có thể cùng cách này để đi mở đường. Hôm nay trông thấy hành động của Đình Tấn thì không khỏi mở mang tầm mắt.
+
+Bất quá, càng đi vào sâu, bầu không khí càng trở nên âm u, đen tối hơn. Ameerah có chút sợ hãi, đi sát vào Đình Tấn. Từ đầu đến giờ, nàng có vẻ sợ hãi bóng tối nên hai tay vẫn bám chặt lấy cánh tay của hắn.
+
+Ánh đèn dầu chỉ chiếu sáng một vùng, bán kính không quá 5 mét, cho nên Đình Tấn phải luôn giữ khoảng cách với tên Bộ Xương Chiến Sĩ dò đường kia để phạm vi chiếu sáng luôn ở mức cao nhất, khoảng từ 8 – 10 mét. 
+
+Lúc này không gian dường như đã trở nên hẹp hơn, bề rộng cũng chỉ vừa đủ cho ba người dàn hàng ngang, đồng thời đường đi có vẻ như càng lúc càng đi xuống dốc.
+
+Ba tên Bộ Xương Chiến Sĩ được Đình Tấn mệnh lệnh thay đổi đội hình, xếp theo một hàng dọc. Hắn cùng với một tên Bộ Xương Chiến Sĩ phân chia ra hai người hai bên, kẹp lại Ameerah ở giữa để cho nàng đỡ sợ hãi. 
+
+Tuy rằng bề ngoài của Bộ Xương Chiến Sĩ trông cũng có chút kinh dị, nhất là màu xanh của ánh lửa linh hồn đang chập chờn, lấp lóe trong hốc mắt. Thế nhưng chắc do có tiếp xúc từ lâu nên Ameerah không cảm thấy sợ hãi với nó nhiều.
+
+‘Soạt soạt…’
+
+Tại thời điểm Đình Tấn tiêu hao đến bình HP thuốc thứ 12 thì rốt cục cũng có động tĩnh, một âm thanh sột soạt ở phía trước vang lên. 
+
+Điều này lập tức làm hắn lên tình thần cảnh giác, triệu hồi ra thêm hai tên Bộ Xương Chiến Sĩ để đề phòng, đồng thời ra mệnh lệnh cho tên Bộ Xương Chiến Sĩ có mang đèn đi cùng với một tên khác ra dò đường.
+
+Ở phía xa, khoảng cách có hơn 7 – 8 mét, một thân ảnh xuất hiện trong tầm nhìn của Đình Tấn. Một giống loài kì lạ mà hắn cũng chưa từng gặp qua, chỉ nghe nói và biết được thông qua sách vở.
+
+Molebear (Tinh anh)
+
+Đẳng cấp: 18
+
+HP: 1900/1900
+
+Kỹ năng: ẩn nấp, cắn xé, đào đất
+
+Giới thiệu: một chủng loại quỷ dị khó lường ở trong lòng đất, mang đặc điểm của loài chuột chũi nhưng lại có thân hình to lớn của loài gấu. Thường đào hố để bẫy con mồi. Sức mạnh rất lớn, nhưng thân thể chậm chạp và chỉ di chuyển nhanh trong lòng đất.
+
+Rất có khả năng, do bọn chúng sống ở trong lòng đất nên thính giác cùng thị giác không được tốt. Hai tên Bộ Xương Chiến Sĩ mặc dù đã đi đến gần sát bên, chỉ cách nó không đến 3 mét nhưng vẫn chưa có dấu hiệu bị phát hiện. 
+
+Lợi dụng điểm này, Đình Tấn ra lệnh cho hai tên Bộ Xương Chiến Sĩ dò đường đi vòng ra phía sau của con Molebear. Đồng thời, hắn cũng không quên triệu hồi ra thêm ba con Bộ Xương Chiến Sĩ nữa, đây là số lượng tối đa Bộ Xương Chiến Sĩ mà hắn có thể triệu hồi. 
+
+Ra hiệu cho Ameerah tiếp tục chờ đợi, Đình Tấn không chậm trễ chút nào vung pháp trượng tung ra kỹ năng với tốc độ nhanh nhất mà hắn có thể làm được.
+
+"Tử Vong Màn Che" 
+
+-190
+
+"Nguyền Rủa Suy Yếu" 
+
+-190
+
+"Cốt Thứ" 
+
+-102
+
+Một làn khói đen bỗng dưng không biết từ đâu xuất hiện, bao phủ khu vực 2 mét vuông xung quanh con Molebear làm cho tầm nhìn của nó đã yếu lại càng trở nên mù mịt hơn. Hơn nữa thuộc tính cũng bị giảm xuống làm nó không thể phát huy ra sức mạnh của mình.
+
+‘Chíttt…’
+
+Bị tấn công con Molebear rít lên dữ dội. Bất quá, tiếp đón nó lại là một loạt bảy thanh rìu lớn vung tới.
+
+-55 -56 -57 -104 -58 -59 -118
+
+"Cốt Thứ"
+
+-208 (Điểm yếu)
+
+Con Molebear chịu đòn hết lần này đến lần khác, nhưng lại không nhìn thấy được gì làm nó càng thêm nổi khùng, vung bừa móng vuốt, hướng về phía một con Bộ Xương Chiến Sĩ gần nhất mà tát ngang.
+
+‘Ầm’
+
+-120 (Đón đỡ)
+
+Tên Bộ Xương Chiến Sĩ vung khiên hướng lên phía trên đón đỡ làm lượng sát thương được giảm bớt lại 80%. Tuy vậy nhưng lực tác động từ cú tát của con Molebear lại không được giảm bớt đi. Cú tát làm nó phải khụy gối một chân xuống đập mạnh lên mặt đất bên dưới, cả cơ thể cũng bị đẩy lùi về sau hơn 1 mét có thừa. 
+
+Bất quá, một sinh vật đã chết thì làm sao biết sợ, nó không hề cảm giác đau đớn hay sợ hãi gì, ngay tức khắc xông lên cùng sáu tên đồng đội, tiếp tục lượt tấn công tiếp theo.
+
+-55 -110 -112 -53 -57 -55 -118
+
+"Cốt Thứ"
+
+-206 (Điểm Yếu)
+
+EXP +1800
+
+‘Rầm’
+
+‘Song quyền nan địch tứ thủ’, con Molebear tuy rằng sức mạnh rất lớn, thế nhưng nó chỉ lợi hại khi ở trong lòng đất mà không bị phát hiện. 
+
+Bảy tên Bộ Xương Chiến Sĩ cùng Đình Tấn liên thủ đã đủ để làm cho nó không kịp trở tay, huống chi bên cạnh vẫn còn có một tên bạo lực võ sư chưa tham chiến.
+
+Chợt, tại thời điểm con Molebear vừa ngã xuống cống nạp điểm kinh nghiệm cho Đình Tấn và Ameerah, thì mặt đất ngay dưới chân một tên Bộ Xương Chiến Sĩ bỗng nhiên bị sụp lún. 
+
+Con Bộ Xương Chiến Sĩ này lập tức bị rơi vào ngay xuống một cái hố. Chưa kịp hiểu chuyện gì xảy ra thì từ trong cái hố sâu kia lại chui ra một con Molebear khác, dùng móng vuốt liên tục tát mạnh vào thân tên Bộ Xương Chiến Sĩ bị rơi xuống hố.
+
+Đình Tấn nhận ra nguy hiểm đã đến thì không hề chần chờ gì, nhanh chóng tung ra kỹ năng bảo vệ mạng sống trước, phòng ngừa bị đột kích bất ngờ.
+
+"Cốt Giáp" (139)
+
+"Ngự Thuẫn Thuật" (236)
+
+Hắn cũng không quên quay sang dặn dò Ameerah:
+
+- Liên tục di chuyển, không được dừng lại. Khi cảm giác đất dưới chân mềm đi thì phải lập tức lao ra khỏi khu vực đó. FC20y7TL Rõ chưa?
+
+Ameerah nghiêm túc gật gật đầu, sau đó bắt đầu cất bước chạy vòng quanh khu vực này. 
+
+Thấy vậy, Đình Tấn cũng yên tâm đôi chút, ánh mắt bắt đầu chuyển dời đến hố có tên Bộ Xương Chiến Sĩ đang bị con Molebear đập tối tăm mặt mũi. Không chậm trễ nữa, hắn bắt đầu tung ra kỹ năng công kích con Molebear dưới hố.
+
+"Tử Vong Màn Che" 
+
+-190
+
+"Nguyền Rủa Suy Yếu" 
+
+-190
+
+"Cốt Thứ" 
+
+-321 (Chí Mạng)
+
+Cũng không quên ra lệnh cho con Bộ Xương Chiến Sĩ thủ vững, để nó co cụm cả người lại, chân khụy xuống, lưng dựa vào tường đất phía sau, giơ khiên đón đỡ từng đòn đánh như trời giáng của con Molebear
+
+"Sinh Mệnh Cứu Rỗi" 
+
++170 +170 +170
+
+"Cốt Thứ" 
+
+-303 (Chí Mạng)
+
+Vừa tung ra kỹ năng hồi máu thì khu vực xung quanh Đình Tấn 5 mét, ống HP của hai con Bộ Xương Chiến Sĩ lập tức được khôi phục một đoạn nhỏ. Tuy rằng không nhiều nhưng như vậy cũng đủ để cho con Bộ Xương Chiến Sĩ ở dưới hố chống đỡ công kích của con Molebear thêm được một đợt tấn công.
+
+Con Molebear ở dưới lòng đất cũng bị không gian chật hẹp làm cho không thể né tránh, liên tục nhận sát thương từ những kỹ năng công kích của Đình Tấn.
+
+EXP +1800
+
+Rốt cục sau sáu đòn "Cốt Thứ" Chí Mạng đến từ Đình Tấn, con Molebear kia cuối cùng cũng phải nhận mệnh, ngã xuống cống hiến điểm kinh nghiệm. 
+
+Đối diện nó, tên Bộ Xương Chiến Sĩ cũng đã là đèn cạn dầu, ống HP còn không đến 100 điểm. Đình Tấn sau khi giải quyết xong con Molebear thì liền giải trừ triệu hồi với tên Bộ Xương Chiến Sĩ dưới hố, sau đó lại triệu hồi ra một con khác.
+
+Trong khoảng thời gian này, xung quanh Đình Tấn đã liên tục xuất hiện 3 con Molebear. Chắc do đã có kinh nghiệm bị kẹt rồi lại bị hành hạ đến chết của con Molebear dưới hố kia, bọn chúng đều là ở trên vách tường lao ra công kích.
+
+Đình Tấn chỉ huy 6 tên Bộ Xương Chiến Sĩ xông lên, vây chặt lấy ba con Molebear này, "Tử Vong Màn Che" cũng được tung ra đến diện tích ảnh hưởng lớn nhất của nó, với gần 8 mét vuông, làm cho những con Molebear này rơi vào cục diện tối tăm mặt mũi, không thấy được kẻ địch. Lại thêm kỹ năng "Nguyền Rủa Suy Yếu" làm cho thuộc tính của nó bị giảm một đoạn dài.
+
+Lợi dụng điểm này, Đình Tấn chỉ huy cho sáu tên Bộ Xương Chiến Sĩ thay phiên nhau công kích, xong rồi thì lập tức lùi ra ngoài. Chiến thuật này làm bọn Molebear bị quấy rối đến không thể rời khỏi khu vực Tử Vong Màn Che, mà công kích đa số cũng không trúng được mục tiêu nào.
+
+Ameerah đứng bên ngoài quan sát, lâu lâu khi thấy có con Molebear nào ở rìa của khu vực màn khói đen bao trùm thì sẽ lao lên, cho một cước vào đầu nó, sau đó nhanh chân lui lại chờ đợi cơ hội tiếp theo.
+
+Mọi chuyện diễn ra rất thuận lợi, Đình Tấn giải quyết xong con Molebear dưới hố cũng là lúc 3 con Molebear kia bị hành hạ gần chết, mỗi con chỉ còn lại nửa ống HP. 
+
+Nhất là con ở rìa khu vực của Ameerah, liên tục bị ăn ba, bốn cú đạp như trời giáng của nàng, làm lượng HP đã rất mỏng của nó chỉ một hai đòn của con Bộ Xương Chiến Sĩ liền có thể kết liễu sinh mệnh của nó.
+
+Nhanh chóng tung ra kỹ năng, đồng thời dùng tinh thần điều khiển Bộ Xương Chiến Sĩ, Đình Tấn cũng phải tiêu hao rất nhiều thuốc khôi phục. Đến khi HP thuốc trong ba lô chỉ còn lại 78 bình, cũng là lúc con Molebear cuối cùng ngã xuống.
+
+Lần này quá trình chiến đấu cứ ‘Hữu kinh vô hiểm’ mà vượt qua. Do Đình Tấn phải liên tục tiêu hao HP để duy trì đám Bộ Xương Chiến Sĩ nên kỹ năng Tái Tạo đã làm cho giới hạn HP của hắn tăng lên một đoạn dài. 
+
+Mà điểm kinh nghiệm từ năm con tinh anh cũng rất khả quan làm ống kinh nghiệm của Đình Tấn và Ameerah được lấp đầy một khoảng trống lớn.
+
+Hiện tại người chơi bình thường, nếu chuyên tâm tu luyện hơn 10 tiếng một ngày, lại có thêm trang bị tốt. Chắc có lẽ thuộc tính cũng chỉ ở khoảng 30 – 40 điểm, vì không phải ai cũng có bí tịch tu luyện thuộc tính tinh thần như Đình Tấn, cũng không phải bất cứ ai đều sử dụng điểm kỹ năng quý giá, thứ mà có được khi đạt đến cấp 10, tăng vào kỹ năng tu luyện của họ.
+
+Hơn nữa, bởi vì Đình Tấn có Bộ Xương Chiến Sĩ làm khiên thịt quá tốt, lại thêm sự chỉ huy hợp lý nên rất dễ dàng gây ra nguồn sát thương cực lớn. Cuộc chiến mới nhẹ nhõm như vậy vượt qua. 
+
+Nhiệm vụ này nếu giao cho người khác thật không biết phải cần bao nhiêu người mới có thể chống đỡ nổi những cú tát từ sáu con Molebear này, nói chi là đến việc dùng lượng sát thương nghèo nàng, chỉ bằng một phần mười của đám Bộ Xương Chiến Sĩ và Đình Tấn, đến giết nó. 
+
+Không biết phải dùng tới bao nhiêu thời gian, nhưng chắc chắn một điều là mấy người làm khiên thịt chặn ở phía trước sẽ chết sạch, trước khi bọn Molebear này ngã xuống.
+
+Cố bình tĩnh lại tâm tình trong người, Đình Tấn thu hồi triệu hoán chỉ chừa lại 1 tên Bộ Xương Chiến Sĩ cầm đèn. Dặn dò Ameerah xem xét xung quanh, còn hắn thì ngồi xuống uống thuốc cùng kiểm tra tiêu hao cùng thu hoạch lần này.
+
+Tiêu hao 22 bình HP thuốc cùng 18 bình MP thuốc.
+
+Thu hoạch 40 bạc, 9000 EXP, 165 HP hạn mức cao nhất
+
+Đình Tấn mỉm cười, tiêu hao thấp hơn nhiều so với thu hoạch. Chuyến đi này nếu thành công thì sẽ là một ngày thu hoạch lớn. Vừa đủ kinh nghiệm thăng lên 1 cấp, chỉ số cơ thể lại bước đi thêm được một đoạn dài.
+
+Khi HP cùng MP đã hồi đầy, Đình Tấn đứng lên tiếp tục triệu hồi ra hai tên Bộ Xương Chiến Sĩ, một trước một sau bảo hộ mình và Ameerah. Phía trước vẫn là tên Bộ Xương Chiến Sĩ cầm đèn kia dẫn đường.
+
+Càng đi về sau, không khí của khu vực này càng trở nên ẩm thấp, đồng thời độ dốc cũng trở nên lớn hơn. Đi một đoạn đường hơn 30 mét nữa, Đình Tấn bắt gặp một hồ nước. 
+
+Xung quanh khu vực này nếu tắt đèn thì chắc sẽ tối om om không thấy rõ năm ngón tay. Càng quan sát hắn càng cảm giác như có ai đó đang theo dõi hắn, làm cho hắn trong lòng cứ bồn chồn, bứt rứt.
+
+Trong lúc Đình Tấn đang quan sát chung quanh, dưới hồ nước một đôi mắt lập lòe ánh sáng cũng đang hướng lấy hắn quan sát. Như chờ đợi một khi hắn có sơ hở sẽ lập tức lao ra công kích.Bước nhanh ra khỏi thành, Đình Tấn và Ameerah theo chỉ dẫn nhiệm vụ, hướng về phía hầm mỏ sắt mà đi. Bọn họ không biết rằng mình thân phận mình đã bị bại lộ và đang lọt vào tầm mắt của một nhóm người.
+
+Sự tập trung của Đình Tấn bây giờ đều đang dồn vào kỹ năng cùng điểm thuộc tính của mình. Sau một quãng thời gian dài quan sát và sử dụng kỹ năng, hắn đã có nhiều ý nghĩ đã được chứng minh.
+
+Những thông tin về kỹ năng đều được hệ thống truyền trực tiếp vào đại não thông qua sóng điện. Đến khi vào game, người chơi sẽ có cảm giác như hắn đang được hệ thống điều khiển bản thân để sử dụng. 
+
+Thế nhưng sự thực không phải là như vậy. Bọn họ không biết rằng, thực chất bản thân họ cũng là nắm rõ cách sử dụng kỹ năng này, chỉ là vì lầm tưởng là do hệ thống làm ra cảm giác chân thực khi sử dụng kỹ năng mà thôi. 
+
+Chính điều này làm cho bọn họ xuất hiện một thói quen, bỏ mặt cho hệ thống vận hành toàn bộ quá trình sử dụng kỹ năng mà không tự chủ vận dụng theo như thông tin trong trí nhớ của mình giống như những gì Đình Tấn đã làm. 
+
+Vì vậy mà cho đến hiện tại, vẫn chưa có người chơi nào phát hiện ra bí mật về khả năng đồng bộ kỹ năng giữa game và hiện thực.
+
+Đình Tấn vẫn rất băn khoăn về chuyện đó, trong một thời gian dài. Thế nên sách kỹ năng Tử Vong Màn Che vẫn bị hắn tồn trữ lại mà không sử dụng ngay. Bởi hắn sợ, nếu một khi sử dụng thì sẽ chỉ nhận được một cường lực kỹ năng trong game chứ không phải ở thực tế. 
+
+Đây không phải là mục đích của Đình Tấn, vì game đối với hắn cũng chỉ là một môi trường để hắn luyện tập và tu luyện nhằm tăng lên tốc độ trưởng thành mà thôi. Còn thực lực ở hiện thực thì vẫn là điều quan trọng nhất, cần được ưu tiên hàng đầu.
+
+Hiện tại, đã suy đoán được chính xác 80% khả năng đồng bộ giữa kỹ năng này với hiện thực, mà không cần phải thoát game tu luyện rồi vào lại game, sử dụng một lần để kích hoạt, nên Đình Tấn không còn do dự hay tiếc nuối gì nữa.
+
+Hắn lập tức lấy sách kỹ năng "Tử Vong Màn Che" từ trong ba lô ra, rồi lựa chọn học tập.
+
+Keng! - Chúc mừng ngài đã học tập kỹ năng Tử vong màn che. Xin cố gắng chăm chỉ luyện tập.
+
+Tử vong màn che
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Dùng phù hiệu và chú ngữ, triệu hồi không khí hắc ám từ cõi chết. Đầu độc làm suy yếu và che mắt kẻ địch trong một khu vực nhất định. (Vong linh, hắc ám sinh vật không bị ảnh hưởng)
+
+Tiêu hao: 1MP/m vuông/giây
+
+Hiệu quả: 
+
+- 1/ Đầu độc giảm 10% + (Tinh thần *0.001)% thuộc tính kẻ địch, tầm nhìn giảm xuống 10% + (Tinh thần *0.01)% (Không thể chồng chất)
+
+- 2/ Triệu hồi hắc ám sinh vật đồng minh thuộc tính đề thăng 10% + (Tinh thần *0.01)%
+
+- 3/ Diện tích bao phủ (Tinh thần * 0.1) mét
+
+Với chỉ số thuộc tính hiện tại của Đình Tấn, kỹ năng Tử Vong Màn Che chỉ có thể bao trùm một khu vực gần 8m vuông. Suy yếu thuộc tính cùng với tầm nhìn của kẻ địch 10%, đồng thời làm gia tăng sức mạnh của đám vong linh lên 10%. 
+
+Hiệu quả kỹ năng này tương tự như "Nguyền Rủa Suy Yếu" nhưng nó đồng thời có thể làm gia tăng sức mạnh của vong linh nên lẽ dĩ nhiên cấp bậc phải cao hơn. 
+
+Nếu như kết hợp hai kỹ năng này lại với nhau, thì chẳng khác nào thông số thuộc tính của đối thủ vừa vào trận sẽ giảm mạnh xuống một phần năm. Với khả năng khống chế (debuff) thuộc tính trên diện rộng như vậy Đình Tấn dám chắc hắn có thể một mình đơn đấu một bầy Wolficore trong phòng thí nghiệm ngầm ngày hôm ấy.
+
+Điểm thuộc tính tự do khi tăng cấp, Đình Tấn đều lựa chọn tăng vào tinh thần, vì dù sao đó cũng là cơ sở cho khá nhiều kỹ năng của hắn.
+
+Ngoài ra, điểm thăng cấp của huy chương Lính Đánh Thuê đã từ 0 điểm nhảy lên đến 1550/32000 rồi. Khoảng cách thăng cấp còn một đoạn rất dài, thế nhưng Đình Tấn không hề nản chí bởi hắn biết mình đã dẫn trước người khác rất nhiều.
+
+Trên đường đi, suy nghĩ của Đình Tấn đều tập trung trên chỉ số thuộc tính và cách vận dụng kỹ năng sao cho hoàn mỹ nhất. Đồng thời, hắn cũng hướng về Ameerah ở bên cạnh, chỉ dẫn cho nàng rất nhiều kinh nghiệm chiến đấu.
+
+Từ EL thành thành đi đến khu hầm mỏ sắt này chỉ bằng một nửa đoạn đường mà hôm qua hai người phải đi, thế nên chỉ hơn 1 tiếng sau, hai người đã đến nơi mục tiêu chỉ định và đang đứng trước một cửa hang động nhân tạo rất lớn. 
+
+Hang động cao hơn 3 mét, bề ngang hơn 4 mét, được chống đỡ bằng những thanh gỗ xếp chồng lên nhau thành hình chữ U ngược, kéo dài đến tận sâu bên trong.
+
+Bên ngoài vắng vẻ không có một bóng người, Đình Tấn đứng quan sát một hồi, sau đó đưa ra quyết định triệu hồi 3 tên Bộ Xương Chiến Sĩ, lập thành đội hình tam giác, bao vây lấy hắn và Ameerah vào bên trong.
+
+Chuẩn bị xong xuôi, cả nhóm mới chậm rãi bước vào hang độc. Bên trong không khí âm trầm ẩm mốc, ánh đèn dầu lấp lóe làm cho bầu không khí càng có thêm một vẻ quỷ dị.
+
+Rất may là con đường bên trong hầm mỏ không có lối rẽ, nên hắn chỉ việc đi thẳng một mạch vào. Sau khi tiêu hao hơn 8 bình HP thuốc và 3 bình MP thuốc, cả nhóm rốt cục đi đến cuối con đường.
+
+Đình Tấn bước đến bên cạnh một tên Bộ Xương Chiến Sĩ rồi leo lên vai nó để có thể với lấy mấy cái đèn vẫn còn đang chiếu sáng, gắn trên nóc của đường hầm.
+
+Cầm trong tay một cái đèn, một cái còn lại thì hắn treo lên người một tên Bộ Xương Chiến Sĩ, rồi ra lệnh nó đi trước dò đường. 
+
+- Như vậy cũng được nữa hả?!
+
+Ở phía sau Ameerah há hốc mồm kinh ngạc, không nhịn được mà bật thốt ra một câu. Trước giờ, nàng chơi game cũng chưa từng nghĩ tới có thể cùng cách này để đi mở đường. Hôm nay trông thấy hành động của Đình Tấn thì không khỏi mở mang tầm mắt.
+
+Bất quá, càng đi vào sâu, bầu không khí càng trở nên âm u, đen tối hơn. Ameerah có chút sợ hãi, đi sát vào Đình Tấn. Từ đầu đến giờ, nàng có vẻ sợ hãi bóng tối nên hai tay vẫn bám chặt lấy cánh tay của hắn.
+
+Ánh đèn dầu chỉ chiếu sáng một vùng, bán kính không quá 5 mét, cho nên Đình Tấn phải luôn giữ khoảng cách với tên Bộ Xương Chiến Sĩ dò đường kia để phạm vi chiếu sáng luôn ở mức cao nhất, khoảng từ 8 – 10 mét. 
+
+Lúc này không gian dường như đã trở nên hẹp hơn, bề rộng cũng chỉ vừa đủ cho ba người dàn hàng ngang, đồng thời đường đi có vẻ như càng lúc càng đi xuống dốc.
+
+Ba tên Bộ Xương Chiến Sĩ được Đình Tấn mệnh lệnh thay đổi đội hình, xếp theo một hàng dọc. Hắn cùng với một tên Bộ Xương Chiến Sĩ phân chia ra hai người hai bên, kẹp lại Ameerah ở giữa để cho nàng đỡ sợ hãi. 
+
+Tuy rằng bề ngoài của Bộ Xương Chiến Sĩ trông cũng có chút kinh dị, nhất là màu xanh của ánh lửa linh hồn đang chập chờn, lấp lóe trong hốc mắt. Thế nhưng chắc do có tiếp xúc từ lâu nên Ameerah không cảm thấy sợ hãi với nó nhiều.
+
+‘Soạt soạt…’
+
+Tại thời điểm Đình Tấn tiêu hao đến bình HP thuốc thứ 12 thì rốt cục cũng có động tĩnh, một âm thanh sột soạt ở phía trước vang lên. 
+
+Điều này lập tức làm hắn lên tình thần cảnh giác, triệu hồi ra thêm hai tên Bộ Xương Chiến Sĩ để đề phòng, đồng thời ra mệnh lệnh cho tên Bộ Xương Chiến Sĩ có mang đèn đi cùng với một tên khác ra dò đường.
+
+Ở phía xa, khoảng cách có hơn 7 – 8 mét, một thân ảnh xuất hiện trong tầm nhìn của Đình Tấn. Một giống loài kì lạ mà hắn cũng chưa từng gặp qua, chỉ nghe nói và biết được thông qua sách vở.
+
+Molebear (Tinh anh)
+
+Đẳng cấp: 18
+
+HP: 1900/1900
+
+Kỹ năng: ẩn nấp, cắn xé, đào đất
+
+Giới thiệu: một chủng loại quỷ dị khó lường ở trong lòng đất, mang đặc điểm của loài chuột chũi nhưng lại có thân hình to lớn của loài gấu. Thường đào hố để bẫy con mồi. Sức mạnh rất lớn, nhưng thân thể chậm chạp và chỉ di chuyển nhanh trong lòng đất.
+
+Rất có khả năng, do bọn chúng sống ở trong lòng đất nên thính giác cùng thị giác không được tốt. Hai tên Bộ Xương Chiến Sĩ mặc dù đã đi đến gần sát bên, chỉ cách nó không đến 3 mét nhưng vẫn chưa có dấu hiệu bị phát hiện. 
+
+Lợi dụng điểm này, Đình Tấn ra lệnh cho hai tên Bộ Xương Chiến Sĩ dò đường đi vòng ra phía sau của con Molebear. Đồng thời, hắn cũng không quên triệu hồi ra thêm ba con Bộ Xương Chiến Sĩ nữa, đây là số lượng tối đa Bộ Xương Chiến Sĩ mà hắn có thể triệu hồi. 
+
+Ra hiệu cho Ameerah tiếp tục chờ đợi, Đình Tấn không chậm trễ chút nào vung pháp trượng tung ra kỹ năng với tốc độ nhanh nhất mà hắn có thể làm được.
+
+"Tử Vong Màn Che" 
+
+-190
+
+"Nguyền Rủa Suy Yếu" 
+
+-190
+
+"Cốt Thứ" 
+
+-102
+
+Một làn khói đen bỗng dưng không biết từ đâu xuất hiện, bao phủ khu vực 2 mét vuông xung quanh con Molebear làm cho tầm nhìn của nó đã yếu lại càng trở nên mù mịt hơn. Hơn nữa thuộc tính cũng bị giảm xuống làm nó không thể phát huy ra sức mạnh của mình.
+
+‘Chíttt…’
+
+Bị tấn công con Molebear rít lên dữ dội. Bất quá, tiếp đón nó lại là một loạt bảy thanh rìu lớn vung tới.
+
+-55 -56 -57 -104 -58 -59 -118
+
+"Cốt Thứ"
+
+-208 (Điểm yếu)
+
+Con Molebear chịu đòn hết lần này đến lần khác, nhưng lại không nhìn thấy được gì làm nó càng thêm nổi khùng, vung bừa móng vuốt, hướng về phía một con Bộ Xương Chiến Sĩ gần nhất mà tát ngang.
+
+‘Ầm’
+
+-120 (Đón đỡ)
+
+Tên Bộ Xương Chiến Sĩ vung khiên hướng lên phía trên đón đỡ làm lượng sát thương được giảm bớt lại 80%. Tuy vậy nhưng lực tác động từ cú tát của con Molebear lại không được giảm bớt đi. Cú tát làm nó phải khụy gối một chân xuống đập mạnh lên mặt đất bên dưới, cả cơ thể cũng bị đẩy lùi về sau hơn 1 mét có thừa. 
+
+Bất quá, một sinh vật đã chết thì làm sao biết sợ, nó không hề cảm giác đau đớn hay sợ hãi gì, ngay tức khắc xông lên cùng sáu tên đồng đội, tiếp tục lượt tấn công tiếp theo.
+
+-55 -110 -112 -53 -57 -55 -118
+
+"Cốt Thứ"
+
+-206 (Điểm Yếu)
+
+EXP +1800
+
+‘Rầm’
+
+‘Song quyền nan địch tứ thủ’, con Molebear tuy rằng sức mạnh rất lớn, thế nhưng nó chỉ lợi hại khi ở trong lòng đất mà không bị phát hiện. 
+
+Bảy tên Bộ Xương Chiến Sĩ cùng Đình Tấn liên thủ đã đủ để làm cho nó không kịp trở tay, huống chi bên cạnh vẫn còn có một tên bạo lực võ sư chưa tham chiến.
+
+Chợt, tại thời điểm con Molebear vừa ngã xuống cống nạp điểm kinh nghiệm cho Đình Tấn và Ameerah, thì mặt đất ngay dưới chân một tên Bộ Xương Chiến Sĩ bỗng nhiên bị sụp lún. 
+
+Con Bộ Xương Chiến Sĩ này lập tức bị rơi vào ngay xuống một cái hố. Chưa kịp hiểu chuyện gì xảy ra thì từ trong cái hố sâu kia lại chui ra một con Molebear khác, dùng móng vuốt liên tục tát mạnh vào thân tên Bộ Xương Chiến Sĩ bị rơi xuống hố.
+
+Đình Tấn nhận ra nguy hiểm đã đến thì không hề chần chờ gì, nhanh chóng tung ra kỹ năng bảo vệ mạng sống trước, phòng ngừa bị đột kích bất ngờ.
+
+"Cốt Giáp" (139)
+
+"Ngự Thuẫn Thuật" (236)
+
+Hắn cũng không quên quay sang dặn dò Ameerah:
+
+- Liên tục di chuyển, không được dừng lại. Khi cảm giác đất dưới chân mềm đi thì phải lập tức lao ra khỏi khu vực đó. FC20y7TL Rõ chưa?
+
+Ameerah nghiêm túc gật gật đầu, sau đó bắt đầu cất bước chạy vòng quanh khu vực này. 
+
+Thấy vậy, Đình Tấn cũng yên tâm đôi chút, ánh mắt bắt đầu chuyển dời đến hố có tên Bộ Xương Chiến Sĩ đang bị con Molebear đập tối tăm mặt mũi. Không chậm trễ nữa, hắn bắt đầu tung ra kỹ năng công kích con Molebear dưới hố.
+
+"Tử Vong Màn Che" 
+
+-190
+
+"Nguyền Rủa Suy Yếu" 
+
+-190
+
+"Cốt Thứ" 
+
+-321 (Chí Mạng)
+
+Cũng không quên ra lệnh cho con Bộ Xương Chiến Sĩ thủ vững, để nó co cụm cả người lại, chân khụy xuống, lưng dựa vào tường đất phía sau, giơ khiên đón đỡ từng đòn đánh như trời giáng của con Molebear
+
+"Sinh Mệnh Cứu Rỗi" 
+
++170 +170 +170
+
+"Cốt Thứ" 
+
+-303 (Chí Mạng)
+
+Vừa tung ra kỹ năng hồi máu thì khu vực xung quanh Đình Tấn 5 mét, ống HP của hai con Bộ Xương Chiến Sĩ lập tức được khôi phục một đoạn nhỏ. Tuy rằng không nhiều nhưng như vậy cũng đủ để cho con Bộ Xương Chiến Sĩ ở dưới hố chống đỡ công kích của con Molebear thêm được một đợt tấn công.
+
+Con Molebear ở dưới lòng đất cũng bị không gian chật hẹp làm cho không thể né tránh, liên tục nhận sát thương từ những kỹ năng công kích của Đình Tấn.
+
+EXP +1800
+
+Rốt cục sau sáu đòn "Cốt Thứ" Chí Mạng đến từ Đình Tấn, con Molebear kia cuối cùng cũng phải nhận mệnh, ngã xuống cống hiến điểm kinh nghiệm. 
+
+Đối diện nó, tên Bộ Xương Chiến Sĩ cũng đã là đèn cạn dầu, ống HP còn không đến 100 điểm. Đình Tấn sau khi giải quyết xong con Molebear thì liền giải trừ triệu hồi với tên Bộ Xương Chiến Sĩ dưới hố, sau đó lại triệu hồi ra một con khác.
+
+Trong khoảng thời gian này, xung quanh Đình Tấn đã liên tục xuất hiện 3 con Molebear. Chắc do đã có kinh nghiệm bị kẹt rồi lại bị hành hạ đến chết của con Molebear dưới hố kia, bọn chúng đều là ở trên vách tường lao ra công kích.
+
+Đình Tấn chỉ huy 6 tên Bộ Xương Chiến Sĩ xông lên, vây chặt lấy ba con Molebear này, "Tử Vong Màn Che" cũng được tung ra đến diện tích ảnh hưởng lớn nhất của nó, với gần 8 mét vuông, làm cho những con Molebear này rơi vào cục diện tối tăm mặt mũi, không thấy được kẻ địch. Lại thêm kỹ năng "Nguyền Rủa Suy Yếu" làm cho thuộc tính của nó bị giảm một đoạn dài.
+
+Lợi dụng điểm này, Đình Tấn chỉ huy cho sáu tên Bộ Xương Chiến Sĩ thay phiên nhau công kích, xong rồi thì lập tức lùi ra ngoài. Chiến thuật này làm bọn Molebear bị quấy rối đến không thể rời khỏi khu vực Tử Vong Màn Che, mà công kích đa số cũng không trúng được mục tiêu nào.
+
+Ameerah đứng bên ngoài quan sát, lâu lâu khi thấy có con Molebear nào ở rìa của khu vực màn khói đen bao trùm thì sẽ lao lên, cho một cước vào đầu nó, sau đó nhanh chân lui lại chờ đợi cơ hội tiếp theo.
+
+Mọi chuyện diễn ra rất thuận lợi, Đình Tấn giải quyết xong con Molebear dưới hố cũng là lúc 3 con Molebear kia bị hành hạ gần chết, mỗi con chỉ còn lại nửa ống HP. 
+
+Nhất là con ở rìa khu vực của Ameerah, liên tục bị ăn ba, bốn cú đạp như trời giáng của nàng, làm lượng HP đã rất mỏng của nó chỉ một hai đòn của con Bộ Xương Chiến Sĩ liền có thể kết liễu sinh mệnh của nó.
+
+Nhanh chóng tung ra kỹ năng, đồng thời dùng tinh thần điều khiển Bộ Xương Chiến Sĩ, Đình Tấn cũng phải tiêu hao rất nhiều thuốc khôi phục. Đến khi HP thuốc trong ba lô chỉ còn lại 78 bình, cũng là lúc con Molebear cuối cùng ngã xuống.
+
+Lần này quá trình chiến đấu cứ ‘Hữu kinh vô hiểm’ mà vượt qua. Do Đình Tấn phải liên tục tiêu hao HP để duy trì đám Bộ Xương Chiến Sĩ nên kỹ năng Tái Tạo đã làm cho giới hạn HP của hắn tăng lên một đoạn dài. 
+
+Mà điểm kinh nghiệm từ năm con tinh anh cũng rất khả quan làm ống kinh nghiệm của Đình Tấn và Ameerah được lấp đầy một khoảng trống lớn.
+
+Hiện tại người chơi bình thường, nếu chuyên tâm tu luyện hơn 10 tiếng một ngày, lại có thêm trang bị tốt. Chắc có lẽ thuộc tính cũng chỉ ở khoảng 30 – 40 điểm, vì không phải ai cũng có bí tịch tu luyện thuộc tính tinh thần như Đình Tấn, cũng không phải bất cứ ai đều sử dụng điểm kỹ năng quý giá, thứ mà có được khi đạt đến cấp 10, tăng vào kỹ năng tu luyện của họ.
+
+Hơn nữa, bởi vì Đình Tấn có Bộ Xương Chiến Sĩ làm khiên thịt quá tốt, lại thêm sự chỉ huy hợp lý nên rất dễ dàng gây ra nguồn sát thương cực lớn. Cuộc chiến mới nhẹ nhõm như vậy vượt qua. 
+
+Nhiệm vụ này nếu giao cho người khác thật không biết phải cần bao nhiêu người mới có thể chống đỡ nổi những cú tát từ sáu con Molebear này, nói chi là đến việc dùng lượng sát thương nghèo nàng, chỉ bằng một phần mười của đám Bộ Xương Chiến Sĩ và Đình Tấn, đến giết nó. 
+
+Không biết phải dùng tới bao nhiêu thời gian, nhưng chắc chắn một điều là mấy người làm khiên thịt chặn ở phía trước sẽ chết sạch, trước khi bọn Molebear này ngã xuống.
+
+Cố bình tĩnh lại tâm tình trong người, Đình Tấn thu hồi triệu hoán chỉ chừa lại 1 tên Bộ Xương Chiến Sĩ cầm đèn. Dặn dò Ameerah xem xét xung quanh, còn hắn thì ngồi xuống uống thuốc cùng kiểm tra tiêu hao cùng thu hoạch lần này.
+
+Tiêu hao 22 bình HP thuốc cùng 18 bình MP thuốc.
+
+Thu hoạch 40 bạc, 9000 EXP, 165 HP hạn mức cao nhất
+
+Đình Tấn mỉm cười, tiêu hao thấp hơn nhiều so với thu hoạch. Chuyến đi này nếu thành công thì sẽ là một ngày thu hoạch lớn. Vừa đủ kinh nghiệm thăng lên 1 cấp, chỉ số cơ thể lại bước đi thêm được một đoạn dài.
+
+Khi HP cùng MP đã hồi đầy, Đình Tấn đứng lên tiếp tục triệu hồi ra hai tên Bộ Xương Chiến Sĩ, một trước một sau bảo hộ mình và Ameerah. Phía trước vẫn là tên Bộ Xương Chiến Sĩ cầm đèn kia dẫn đường.
+
+Càng đi về sau, không khí của khu vực này càng trở nên ẩm thấp, đồng thời độ dốc cũng trở nên lớn hơn. Đi một đoạn đường hơn 30 mét nữa, Đình Tấn bắt gặp một hồ nước. 
+
+Xung quanh khu vực này nếu tắt đèn thì chắc sẽ tối om om không thấy rõ năm ngón tay. Càng quan sát hắn càng cảm giác như có ai đó đang theo dõi hắn, làm cho hắn trong lòng cứ bồn chồn, bứt rứt.
+
+Trong lúc Đình Tấn đang quan sát chung quanh, dưới hồ nước một đôi mắt lập lòe ánh sáng cũng đang hướng lấy hắn quan sát. Như chờ đợi một khi hắn có sơ hở sẽ lập tức lao ra công kích.

@@ -1,0 +1,697 @@
+Năm phút sau, hai chỉ Sabaoth rốt cục bị giết chết.
+
+Lại để cho Trầm Dịch cảm thấy phiền muộn chính là, cái này hai chỉ Sabaoth vậy mà chỉ cấp ra một thanh phổ thông súng D cấp cùng một bả súng plasma DD cấp.
+
+Phải biết rằng lúc trước bị giết Sabaoth cho ra có lẽ hay là C cấp, hiện tại giết chết hai chỉ Sabaoth, cộng lại lại vẫn là một cái C cấp, thật sự làm cho người ta không nói được lời nào.
+
+Duy nhất đáng được ăn mừng chính là, bởi vì áp dụng thiếp thân cận chiến sách lược, cuối cùng đem hai bả BFG toàn bộ bảo lưu lại đến.
+
+"BFG-6000
+
+Phẩm chất: B cấp vũ khí năng lượng.
+
+Công kích thương tổn: 1000 điểm
+
+Phạm vi công kích: 9*9 mét
+
+Mỗi bay một mét được mở rộng một mét phạm vi công kích nhưng thương tổn giảm dần mỗi lần 100 điểm.
+
+Thương tổn năng lượng ăn mòn, đánh trúng mục tiêu sau tạo thành ăn mòn hiệu quả, mỗi giây thương tổn 20-100 điểm, tiếp tục ba giây.
+
+Công kích trước cần một giây thêm nhiệt thời gian, đạn năng lượng tốc độ phi hành trung đẳng, thời gian cool-down một phút đồng hồ.
+
+Hộp năng lượng sử dụng số lần 1/4, có thể bổ sung năng lượng.
+
+Sử dụng bản vũ khí cần lực lượng 88 điểm, Thương thuật dốc lòng chuyên gia cấp, người sử dụng vô pháp sử dụng bất luận cái gì viên đạn đặc thù cùng kỹ năng loại súng. Không phải xem xét vũ khí."
+
+. . .
+
+Cùng súng gia tốc plasma so sánh, BFG uy lực càng lớn, phạm vi càng rộng lớn, thêm nhiệt cùng thời gian cool-down ngắn hơn, chỗ thiếu hụt chính là chỉ có thể một lần bổ sung năng lượng chỉ có thể phóng ra bốn phát đạn năng lượng.
+
+Đây cũng là tất cả vũ khí năng lượng chỗ thiếu hụt tất nhiên, như thanh kia súng gia tốc plasma CC cấp, bổ sung năng lượng một lần chỉ có thể dùng ba lượt, súng gia tốc plasma loại cải tiến, bổ sung năng lượng một lần sau đến có thể sử dụng sáu lần, cũng đã thuộc về B cấp vũ khí.
+
+Cái thanh này BFG uy lực so súng gia tốc plasma loại cải tiến lớn hơn rất nhiều, thì khó trách muốn thiếu hai lần sử dụng.
+
+Cũng may chúng cũng có thể vận dụng điện lực bổ sung năng lượng, đến không phải không nên sử dụng máy bổ sung năng lượng. Chỉ là điện lực bổ sung năng lượng cũng có nó hạn chế, một lần bổ sung năng lượng thường thường cần vài giờ thời gian, bởi vậy giống như Doom nhiệm vụ như vậy, cơ bản tựu đừng hy vọng lộng điện lực bổ sung năng lượng.
+
+BFG tổng cộng có hai bả, Trầm Dịch lấy đi một bả, thuận tiện đem một cái khác đem trên mặt hộp năng lượng cũng gở xuống, cái kia trên mặt đồng dạng thừa tiếp theo sử dụng cơ hội, nói cách khác, Trầm Dịch hiện tại có thể sử dụng vũ khí này hai lần.
+
+Trừ chuyện đó ra, Trầm Dịch bọn hắn còn đã lấy được một ít vụn vặt tiểu chút chít, bất quá phần lớn không có quá nhiều giá trị, đến là Thần Ma tế phẩm lại để cho Trầm Dịch được vài kiện, tuy nhiên chỉ có thể đổi đến một hai điểm vinh quang, nhưng không chịu nổi có thể tích thiểu thành đa.
+
+Chính thức lại để cho Trầm Dịch tâm động, có lẽ hay là cái thanh kia súng plasma —— cái này hắn có hai bả.
+
+Lấy ra Horadric Cube, Trầm Dịch đem C cấp súng plasma cùng súng plasma DD cấp bỏ vào, đạt được nhắc nhở:
+
+"Vật phẩm độ đồng chất trăm phần trăm, hợp thành CC cấp vũ khí cần bổ sung điểm Huyết Tinh ba nghìn, phải chăng xác định dung hợp?"
+
+Cái này ba nghìn điểm chỉ dùng để đến đền bù tổn thất giá hàng chưa đủ, hợp thành thân mình cũng không có bổ sung thu phí, bởi vậy Trầm Dịch lập tức tiếp nhận: "Hợp thành!"
+
+"Hợp thành hoàn thành!"
+
+"Súng plasma
+
+Phẩm chất: CC cấp vũ khí năng lượng.
+
+Phóng ra tia plasma công kích mục tiêu.
+
+Tia plasma lực thương tổn: 200 điểm
+
+Phạm vi: 1*1 mét
+
+Xạ tốc: 1 phát / giây
+
+Vô pháp sử dụng bất luận cái gì viên đạn đặc thù cùng kỹ năng loại súng. Sử dụng số lần 25/50, có thể bổ sung năng lượng. Sử dụng bản vũ khí cần lực lượng 35 điểm, Thương thuật dốc lòng trụ cột."
+
+. . .
+
+Có lẽ là trong đó một bả súng plasma năng lượng dùng hết nguyên nhân, mới hợp thành súng chỉ có một nửa năng lượng.
+
+"Haby, súng này cho ngươi dùng." Trầm Dịch tiện tay đem súng vứt cho Haby.
+
+Tất cả triệu hoán binh sĩ đều kèm theo Thương thuật dốc lòng trụ cột, số ít ngắm bắn sở trường như Arians Thương thuật dốc lòng thậm chí còn cao hơn thượng vừa đến hai giai, bất quá lực lượng thuộc tính đạt tới tiêu chuẩn nhưng lại không nhiều lắm. Haby là trước mắt trong đội ngũ lực lượng gần với Ralph một cái, khó được còn có được Cách đấu dốc lòng, sử dụng súng này đến là phù hợp.
+
+"Ralph, ngươi dùng cái này." Trầm Dịch sau đó càng làm được từ Destroyer cái kia đem súng 6 nòng Gatling giao cho Ralph, cây súng này không có sử dụng yêu cầu, đến là chính thích hợp triệu hoán binh sĩ sử dụng: "Viên đạn không nhiều lắm rồi, tận lực bớt một chút dùng."
+
+Súng này không có hộp đạn vô tận, cho nên không phải nguy cấp thời gian, Trầm Dịch không muốn lấy ra dùng.
+
+Chứng kiến cái thanh này súng 6 nòng Gatling, Duke tròng mắt đều nhanh trừng đi ra: "Đó là Destroyer súng, hắn hiện tại người đâu này?"
+
+"Chết rồi." Trầm Dịch trả lời: "Ta vốn cho rằng có thể cứu ra hắn, đáng tiếc. . . Hắn bị cuốn hút."
+
+Hắn biết rõ Duke cùng Destroyer là một đôi bạn tốt, thời khắc này nhìn xem Duke thống khổ bộ dáng, Trầm Dịch vỗ vỗ đầu vai của hắn: "Người chết đã qua đời, người sống còn phải tiếp tục chiến đấu. Đi thôi, chúng ta còn có thật nhiều sự tình muốn làm."
+
+"Ta muốn giết sạch những kia ma quỷ!" Duke cắn răng nói.
+
+"Ta cam đoan ngươi sẽ có cơ hội này." Trầm Dịch ung dung trả lời.
+
+Lúc này phía trước chắn đường quái vật dĩ nhiên không nhiều lắm.
+
+Cánh thông đạo đột nhiên đã chạy tới hai bóng người, rõ ràng là hai gã mạo hiểm giả, hẳn là nghe được động tĩnh sau chạy tới. Phía sau bọn họ còn đi theo ba cái người bình thường, hẳn là bị bọn hắn cứu người gặp nạn.
+
+Chứng kiến một đoàn người sống sót, một người trong đó nhìn về phía trên trượt ở phía trong trượt khí gia hỏa vậy mà hưng phấn huýt sáo: "Nhiều như vậy người sống sót! Ta nói, bên kia bằng hữu, chia mấy cái cho chúng ta thế nào?"
+
+Kỳ thật hai người này chứng kiến một đoàn chiến sĩ thủ hộ ở bên, đến cũng chưa chắc có quá nhiều cách nghĩ, chỉ là bản năng muốn thử xem có thể hay không lao đến chỗ tốt.
+
+Không nghĩ tới Trầm Dịch lại sai lệch nghiêng đầu: "Hồng Lãng."
+
+Một giây sau Hồng Lãng đã lập tức liền xông ra ngoài, một phát bắt được cái kia nói chuyện mạo hiểm giả hét lớn: "Cút ngay!"
+
+Sau đó chỉ thấy người này giống như cái bóng cao su loại bay rồi đi ra ngoài, biến mất tại cuối thông đạo.
+
+Bên cạnh mạo hiểm giả ngẩn ngơ: "Ngươi. . . Ngươi. . ."
+
+Hồng Lãng tự nhiên hỏi: "Chính mình lăn có lẽ hay là lão tử động thủ?"
+
+Cái kia mạo hiểm giả nhìn xem Hồng Lãng, nhìn nhìn lại Hồng Lãng sau lưng một đám người, không nói hai lời, co chân bỏ chạy.
+
+Ngay tại hắn chạy đồng thời, cái kia ba gã người sống sót lại bị Hồng Lãng bắt lấy.
+
+Trầm Dịch bước đi tới nói: "Cái kia hai cái đồ vô dụng bảo vệ không là các ngươi, nếu như nguyện ý mà nói các ngươi có thể đi theo ta. Ta cam đoan các ngươi có thể còn sống sót, thẳng đến về nhà."
+
+Cái này ba gã người gặp nạn đối với lúc trước cái kia hai cái mạo hiểm giả độ tín nhiệm hiển nhiên không thể nói rất cao, lập tức đáp ứng.
+
+Cái kia hai gã mạo hiểm giả tại nhiệm vụ thời gian hơn phân nửa thời điểm mất đi bảo vệ mục tiêu, lập tức lâm vào nguy cơ. Còn muốn nếu không muốn đánh lén giáo huấn thời điểm, chỉ nghe Hồng Lãng cái kia hồng chung sóng lớn loại thanh âm dĩ nhiên vang lên:
+
+"Đội Đoạn Nhận chấp hành nhiệm vụ, thức thời toàn bộ xéo đi. Có người dám đánh chủ ý lên bọn ta, làm tốt trả giá thật nhiều chuẩn bị!"
+
+Cho nên nói người nếu là có thực lực, tựu tất nhiên hung hăng càn quấy. Hung hăng càn quấy sau lưng tuy sẽ khiến rất nhiều bất mãn, nhưng đồng thời cũng bỏ đi rất nhiều người ác ý ý niệm trong đầu, giảm bớt rất nhiều phiền toái. Mà đối với Trầm Dịch bọn hắn mà nói, nếu như không thể theo trên người địch nhân lấy được quá nhiều chỗ tốt, cái kia địch nhân có lẽ hay là càng ít càng tốt.
+
+Quả nhiên theo Hồng Lãng từng tiếng la lên, những kia rải rác mạo hiểm giả lại không người dám tới.
+
+Đội ngũ bắt đầu hướng về phòng thí nghiệm tốc độ cao nhất xuất phát.
+
+Kim Cương lúc này đã tại phòng thí nghiệm chờ —— hắn vốn là muốn đi tiếp viện Trầm Dịch, nhưng trên đường biết được bọn hắn đã muốn hoàn tất sau, tựu đi vòng đi trước bảo vệ phòng thí nghiệm.
+
+Đem người sống sót đưa phòng thí nghiệm, Trầm Dịch đẩy một bả John, đối với Samantha tiến sĩ nói: "Đệ đệ của ngươi ta cho ngươi mang đến."
+
+Samantha tiến lên ôm lấy John lại không buông tay.
+
+Văn chương nhắc nhở: ngươi hoàn thành Samantha tiến sĩ ủy thác, độ tín nhiệm tăng lên ba trăm điểm.
+
+Trầm Dịch đối với cái này đến không có hứng thú, chỉ là hỏi: "Ta xin nhờ sự tình thế nào?"
+
+Samantha trả lời ngay: "Tìm được rồi một vài vấn đề, nhưng là khuyết thiếu càng thêm kỹ càng cùng cụ thể thí nghiệm số liệu."
+
+Trầm Dịch tiện tay lấy ra một cái bình nhỏ ném cho Samantha: "Đây là Sarge máu huyết, hắn vô pháp tiếp nhận dược tề tiêm vào, dùng hắn và đệ đệ của ngươi huyết làm tiếp một lần lấy mẫu so với, lại từ binh lính của ta ở phía trong đem phù hợp ngươi cùng đệ đệ của ngươi đặc chủng chiến sĩ tìm ra."
+
+Samantha có chút giật mình tiếp nhận huyết dạng: "Các ngươi đụng phải Sarge? Làm sao ngươi biết Sarge không thể thừa nhận mà đệ đệ của ta có thể. . ."
+
+Trầm Dịch đã muốn phụ giúp Samantha trở lại chính mình đài công tác: "Ta không có quá nhiều thời gian với ngươi giải thích, nhưng ta cần ngươi mau chóng đem tinh lực của ngươi chuyên chú đến trên công tác. . . Lưu cho thời gian của chúng ta không nhiều lắm."
+
+Thời gian hoàn toàn chính xác không nhiều lắm rồi, lúc này đã muốn tiến vào đệ 3h.
+
+Mới một vòng quái vật sớm đã xuất hiện, đang nghiên cứu chỗ trung tùy ý hoành hành, khắp nơi đều có thể nghe được tiếng súng, tiếng gọi ầm ĩ, còn có tiếng cầu cứu.
+
+Theo quái vật số lượng gia tăng, chiến đấu cũng đang tại trở nên càng ngày càng kịch liệt.
+
+Ngẫu mà, có thể nghe được nhiều tiếng kêu thảm thiết, lại không biết là mạo hiểm giả, có lẽ hay là người gặp nạn.
+
+Samantha bận rộn công việc, đem một phần phần huyết dạng tiến hành so với.
+
+Thời gian tại từng phần từng phần chạy đi, phòng nghiên cứu trong nhưng lại khác thường yên tĩnh.
+
+Một phần của Trầm Dịch một phương người cố nhiên là toàn bộ yên tĩnh không nói lời nào, mà ngay cả Duke, John bọn hắn cũng chỉ là yên lặng nhìn xem, không nói một câu —— có một số việc trên đường đã muốn hiểu rõ qua rồi.
+
+Rốt cục, Samantha đem đầu tay huyết dịch hàng mẫu toàn bộ xử lý tốt.
+
+Nàng đem Trầm Dịch gọi vào bên người, chỉ vào hàng mẫu nói: "Tổng cộng 30 phần hàng mẫu, có năm phần vốn đã xác nhận có thể sử dụng thuốc nhiễm sắc thể. . . Có mười hai phần xác nhận vô pháp sử dụng. Còn lại thuộc về tiếp cận, vô pháp xác định hàng mẫu. Đương nhiên, đây hết thảy điều kiện tiên quyết là ta cùng đệ đệ của ta hoàn toàn chính xác có thể tiếp nhận thuốc nhiễm sắc thể tác dụng."
+
+Trầm Dịch lấy ra hàng mẫu đánh số danh tự nhìn thoáng qua, kêu lên: "Frost!"
+
+Frost đứng dậy.
+
+Cầm lấy một ống thuốc nhiễm sắc thể, Trầm Dịch nói: "Thật cao hứng ngươi trở thành kiểm tra đo lường vượt qua kiểm tra một thành viên, bất quá nói thực ra, vô luận là Samantha tiến sĩ có lẽ hay là ta, cũng không thể xác nhận tại trước mắt loại trạng thái này hạ tiến hành kiểm tra đo lường có hữu hiệu hay không. Xuất phát từ an toàn cân nhắc, ta quyết định do ngươi tới làm cái thứ nhất vật thí nghiệm."
+
+Thân là binh đoàn hàng không doanh trưởng, Frost ủng có một lần phục sinh cơ hội.
+
+Tại vô pháp xác định hữu hiệu dưới tình huống, Trầm Dịch chỉ có thể lựa chọn lại để cho Frost đến ưu tiên tiêm vào.
+
+Frost kính cái chào theo nghi thức quân đội: "Cái này là vinh hạnh của ta, trưởng quan."
+
+"Nguyện Thượng Đế phù hộ ngươi." Trầm Dịch lần đầu tiên nói một câu tín ngưỡng mà nói đem cái kia quản dược tề đưa vào Frost trong cơ thể.
+
+Frost chỉ cảm thấy trước mắt đột nhiên một mảnh mơ hồ, tầm mắt trở nên lờ mờ, thấy không rõ quanh thân hết thảy.
+
+Hắn lung lay vài cái thân thể, chỉ cảm thấy thân thể trầm trọng vô cùng, lại cũng vô pháp chèo chống té xuống.Năm phút sau, hai chỉ Sabaoth rốt cục bị giết chết.
+
+Lại để cho Trầm Dịch cảm thấy phiền muộn chính là, cái này hai chỉ Sabaoth vậy mà chỉ cấp ra một thanh phổ thông súng D cấp cùng một bả súng plasma DD cấp.
+
+Phải biết rằng lúc trước bị giết Sabaoth cho ra có lẽ hay là C cấp, hiện tại giết chết hai chỉ Sabaoth, cộng lại lại vẫn là một cái C cấp, thật sự làm cho người ta không nói được lời nào.
+
+Duy nhất đáng được ăn mừng chính là, bởi vì áp dụng thiếp thân cận chiến sách lược, cuối cùng đem hai bả BFG toàn bộ bảo lưu lại đến.
+
+"BFG-6000
+
+Phẩm chất: B cấp vũ khí năng lượng.
+
+Công kích thương tổn: 1000 điểm
+
+Phạm vi công kích: 9*9 mét
+
+Mỗi bay một mét được mở rộng một mét phạm vi công kích nhưng thương tổn giảm dần mỗi lần 100 điểm.
+
+Thương tổn năng lượng ăn mòn, đánh trúng mục tiêu sau tạo thành ăn mòn hiệu quả, mỗi giây thương tổn 20-100 điểm, tiếp tục ba giây.
+
+Công kích trước cần một giây thêm nhiệt thời gian, đạn năng lượng tốc độ phi hành trung đẳng, thời gian cool-down một phút đồng hồ.
+
+Hộp năng lượng sử dụng số lần 1/4, có thể bổ sung năng lượng.
+
+Sử dụng bản vũ khí cần lực lượng 88 điểm, Thương thuật dốc lòng chuyên gia cấp, người sử dụng vô pháp sử dụng bất luận cái gì viên đạn đặc thù cùng kỹ năng loại súng. Không phải xem xét vũ khí."
+
+. . .
+
+Cùng súng gia tốc plasma so sánh, BFG uy lực càng lớn, phạm vi càng rộng lớn, thêm nhiệt cùng thời gian cool-down ngắn hơn, chỗ thiếu hụt chính là chỉ có thể một lần bổ sung năng lượng chỉ có thể phóng ra bốn phát đạn năng lượng.
+
+Đây cũng là tất cả vũ khí năng lượng chỗ thiếu hụt tất nhiên, như thanh kia súng gia tốc plasma CC cấp, bổ sung năng lượng một lần chỉ có thể dùng ba lượt, súng gia tốc plasma loại cải tiến, bổ sung năng lượng một lần sau đến có thể sử dụng sáu lần, cũng đã thuộc về B cấp vũ khí.
+
+Cái thanh này BFG uy lực so súng gia tốc plasma loại cải tiến lớn hơn rất nhiều, thì khó trách muốn thiếu hai lần sử dụng.
+
+Cũng may chúng cũng có thể vận dụng điện lực bổ sung năng lượng, đến không phải không nên sử dụng máy bổ sung năng lượng. Chỉ là điện lực bổ sung năng lượng cũng có nó hạn chế, một lần bổ sung năng lượng thường thường cần vài giờ thời gian, bởi vậy giống như Doom nhiệm vụ như vậy, cơ bản tựu đừng hy vọng lộng điện lực bổ sung năng lượng.
+
+BFG tổng cộng có hai bả, Trầm Dịch lấy đi một bả, thuận tiện đem một cái khác đem trên mặt hộp năng lượng cũng gở xuống, cái kia trên mặt đồng dạng thừa tiếp theo sử dụng cơ hội, nói cách khác, Trầm Dịch hiện tại có thể sử dụng vũ khí này hai lần.
+
+Trừ chuyện đó ra, Trầm Dịch bọn hắn còn đã lấy được một ít vụn vặt tiểu chút chít, bất quá phần lớn không có quá nhiều giá trị, đến là Thần Ma tế phẩm lại để cho Trầm Dịch được vài kiện, tuy nhiên chỉ có thể đổi đến một hai điểm vinh quang, nhưng không chịu nổi có thể tích thiểu thành đa.
+
+Chính thức lại để cho Trầm Dịch tâm động, có lẽ hay là cái thanh kia súng plasma —— cái này hắn có hai bả.
+
+Lấy ra Horadric Cube, Trầm Dịch đem C cấp súng plasma cùng súng plasma DD cấp bỏ vào, đạt được nhắc nhở:
+
+"Vật phẩm độ đồng chất trăm phần trăm, hợp thành CC cấp vũ khí cần bổ sung điểm Huyết Tinh ba nghìn, phải chăng xác định dung hợp?"
+
+Cái này ba nghìn điểm chỉ dùng để đến đền bù tổn thất giá hàng chưa đủ, hợp thành thân mình cũng không có bổ sung thu phí, bởi vậy Trầm Dịch lập tức tiếp nhận: "Hợp thành!"
+
+"Hợp thành hoàn thành!"
+
+"Súng plasma
+
+Phẩm chất: CC cấp vũ khí năng lượng.
+
+Phóng ra tia plasma công kích mục tiêu.
+
+Tia plasma lực thương tổn: 200 điểm
+
+Phạm vi: 1*1 mét
+
+Xạ tốc: 1 phát / giây
+
+Vô pháp sử dụng bất luận cái gì viên đạn đặc thù cùng kỹ năng loại súng. Sử dụng số lần 25/50, có thể bổ sung năng lượng. Sử dụng bản vũ khí cần lực lượng 35 điểm, Thương thuật dốc lòng trụ cột."
+
+. . .
+
+Có lẽ là trong đó một bả súng plasma năng lượng dùng hết nguyên nhân, mới hợp thành súng chỉ có một nửa năng lượng.
+
+"Haby, súng này cho ngươi dùng." Trầm Dịch tiện tay đem súng vứt cho Haby.
+
+Tất cả triệu hoán binh sĩ đều kèm theo Thương thuật dốc lòng trụ cột, số ít ngắm bắn sở trường như Arians Thương thuật dốc lòng thậm chí còn cao hơn thượng vừa đến hai giai, bất quá lực lượng thuộc tính đạt tới tiêu chuẩn nhưng lại không nhiều lắm. Haby là trước mắt trong đội ngũ lực lượng gần với Ralph một cái, khó được còn có được Cách đấu dốc lòng, sử dụng súng này đến là phù hợp.
+
+"Ralph, ngươi dùng cái này." Trầm Dịch sau đó càng làm được từ Destroyer cái kia đem súng 6 nòng Gatling giao cho Ralph, cây súng này không có sử dụng yêu cầu, đến là chính thích hợp triệu hoán binh sĩ sử dụng: "Viên đạn không nhiều lắm rồi, tận lực bớt một chút dùng."
+
+Súng này không có hộp đạn vô tận, cho nên không phải nguy cấp thời gian, Trầm Dịch không muốn lấy ra dùng.
+
+Chứng kiến cái thanh này súng 6 nòng Gatling, Duke tròng mắt đều nhanh trừng đi ra: "Đó là Destroyer súng, hắn hiện tại người đâu này?"
+
+"Chết rồi." Trầm Dịch trả lời: "Ta vốn cho rằng có thể cứu ra hắn, đáng tiếc. . . Hắn bị cuốn hút."
+
+Hắn biết rõ Duke cùng Destroyer là một đôi bạn tốt, thời khắc này nhìn xem Duke thống khổ bộ dáng, Trầm Dịch vỗ vỗ đầu vai của hắn: "Người chết đã qua đời, người sống còn phải tiếp tục chiến đấu. Đi thôi, chúng ta còn có thật nhiều sự tình muốn làm."
+
+"Ta muốn giết sạch những kia ma quỷ!" Duke cắn răng nói.
+
+"Ta cam đoan ngươi sẽ có cơ hội này." Trầm Dịch ung dung trả lời.
+
+Lúc này phía trước chắn đường quái vật dĩ nhiên không nhiều lắm.
+
+Cánh thông đạo đột nhiên đã chạy tới hai bóng người, rõ ràng là hai gã mạo hiểm giả, hẳn là nghe được động tĩnh sau chạy tới. Phía sau bọn họ còn đi theo ba cái người bình thường, hẳn là bị bọn hắn cứu người gặp nạn.
+
+Chứng kiến một đoàn người sống sót, một người trong đó nhìn về phía trên trượt ở phía trong trượt khí gia hỏa vậy mà hưng phấn huýt sáo: "Nhiều như vậy người sống sót! Ta nói, bên kia bằng hữu, chia mấy cái cho chúng ta thế nào?"
+
+Kỳ thật hai người này chứng kiến một đoàn chiến sĩ thủ hộ ở bên, đến cũng chưa chắc có quá nhiều cách nghĩ, chỉ là bản năng muốn thử xem có thể hay không lao đến chỗ tốt.
+
+Không nghĩ tới Trầm Dịch lại sai lệch nghiêng đầu: "Hồng Lãng."
+
+Một giây sau Hồng Lãng đã lập tức liền xông ra ngoài, một phát bắt được cái kia nói chuyện mạo hiểm giả hét lớn: "Cút ngay!"
+
+Sau đó chỉ thấy người này giống như cái bóng cao su loại bay rồi đi ra ngoài, biến mất tại cuối thông đạo.
+
+Bên cạnh mạo hiểm giả ngẩn ngơ: "Ngươi. . . Ngươi. . ."
+
+Hồng Lãng tự nhiên hỏi: "Chính mình lăn có lẽ hay là lão tử động thủ?"
+
+Cái kia mạo hiểm giả nhìn xem Hồng Lãng, nhìn nhìn lại Hồng Lãng sau lưng một đám người, không nói hai lời, co chân bỏ chạy.
+
+Ngay tại hắn chạy đồng thời, cái kia ba gã người sống sót lại bị Hồng Lãng bắt lấy.
+
+Trầm Dịch bước đi tới nói: "Cái kia hai cái đồ vô dụng bảo vệ không là các ngươi, nếu như nguyện ý mà nói các ngươi có thể đi theo ta. Ta cam đoan các ngươi có thể còn sống sót, thẳng đến về nhà."
+
+Cái này ba gã người gặp nạn đối với lúc trước cái kia hai cái mạo hiểm giả độ tín nhiệm hiển nhiên không thể nói rất cao, lập tức đáp ứng.
+
+Cái kia hai gã mạo hiểm giả tại nhiệm vụ thời gian hơn phân nửa thời điểm mất đi bảo vệ mục tiêu, lập tức lâm vào nguy cơ. Còn muốn nếu không muốn đánh lén giáo huấn thời điểm, chỉ nghe Hồng Lãng cái kia hồng chung sóng lớn loại thanh âm dĩ nhiên vang lên:
+
+"Đội Đoạn Nhận chấp hành nhiệm vụ, thức thời toàn bộ xéo đi. Có người dám đánh chủ ý lên bọn ta, làm tốt trả giá thật nhiều chuẩn bị!"
+
+Cho nên nói người nếu là có thực lực, tựu tất nhiên hung hăng càn quấy. Hung hăng càn quấy sau lưng tuy sẽ khiến rất nhiều bất mãn, nhưng đồng thời cũng bỏ đi rất nhiều người ác ý ý niệm trong đầu, giảm bớt rất nhiều phiền toái. Mà đối với Trầm Dịch bọn hắn mà nói, nếu như không thể theo trên người địch nhân lấy được quá nhiều chỗ tốt, cái kia địch nhân có lẽ hay là càng ít càng tốt.
+
+Quả nhiên theo Hồng Lãng từng tiếng la lên, những kia rải rác mạo hiểm giả lại không người dám tới.
+
+Đội ngũ bắt đầu hướng về phòng thí nghiệm tốc độ cao nhất xuất phát.
+
+Kim Cương lúc này đã tại phòng thí nghiệm chờ —— hắn vốn là muốn đi tiếp viện Trầm Dịch, nhưng trên đường biết được bọn hắn đã muốn hoàn tất sau, tựu đi vòng đi trước bảo vệ phòng thí nghiệm.
+
+Đem người sống sót đưa phòng thí nghiệm, Trầm Dịch đẩy một bả John, đối với Samantha tiến sĩ nói: "Đệ đệ của ngươi ta cho ngươi mang đến."
+
+Samantha tiến lên ôm lấy John lại không buông tay.
+
+Văn chương nhắc nhở: ngươi hoàn thành Samantha tiến sĩ ủy thác, độ tín nhiệm tăng lên ba trăm điểm.
+
+Trầm Dịch đối với cái này đến không có hứng thú, chỉ là hỏi: "Ta xin nhờ sự tình thế nào?"
+
+Samantha trả lời ngay: "Tìm được rồi một vài vấn đề, nhưng là khuyết thiếu càng thêm kỹ càng cùng cụ thể thí nghiệm số liệu."
+
+Trầm Dịch tiện tay lấy ra một cái bình nhỏ ném cho Samantha: "Đây là Sarge máu huyết, hắn vô pháp tiếp nhận dược tề tiêm vào, dùng hắn và đệ đệ của ngươi huyết làm tiếp một lần lấy mẫu so với, lại từ binh lính của ta ở phía trong đem phù hợp ngươi cùng đệ đệ của ngươi đặc chủng chiến sĩ tìm ra."
+
+Samantha có chút giật mình tiếp nhận huyết dạng: "Các ngươi đụng phải Sarge? Làm sao ngươi biết Sarge không thể thừa nhận mà đệ đệ của ta có thể. . ."
+
+Trầm Dịch đã muốn phụ giúp Samantha trở lại chính mình đài công tác: "Ta không có quá nhiều thời gian với ngươi giải thích, nhưng ta cần ngươi mau chóng đem tinh lực của ngươi chuyên chú đến trên công tác. . . Lưu cho thời gian của chúng ta không nhiều lắm."
+
+Thời gian hoàn toàn chính xác không nhiều lắm rồi, lúc này đã muốn tiến vào đệ 3h.
+
+Mới một vòng quái vật sớm đã xuất hiện, đang nghiên cứu chỗ trung tùy ý hoành hành, khắp nơi đều có thể nghe được tiếng súng, tiếng gọi ầm ĩ, còn có tiếng cầu cứu.
+
+Theo quái vật số lượng gia tăng, chiến đấu cũng đang tại trở nên càng ngày càng kịch liệt.
+
+Ngẫu mà, có thể nghe được nhiều tiếng kêu thảm thiết, lại không biết là mạo hiểm giả, có lẽ hay là người gặp nạn.
+
+Samantha bận rộn công việc, đem một phần phần huyết dạng tiến hành so với.
+
+Thời gian tại từng phần từng phần chạy đi, phòng nghiên cứu trong nhưng lại khác thường yên tĩnh.
+
+Một phần của Trầm Dịch một phương người cố nhiên là toàn bộ yên tĩnh không nói lời nào, mà ngay cả Duke, John bọn hắn cũng chỉ là yên lặng nhìn xem, không nói một câu —— có một số việc trên đường đã muốn hiểu rõ qua rồi.
+
+Rốt cục, Samantha đem đầu tay huyết dịch hàng mẫu toàn bộ xử lý tốt.
+
+Nàng đem Trầm Dịch gọi vào bên người, chỉ vào hàng mẫu nói: "Tổng cộng 30 phần hàng mẫu, có năm phần vốn đã xác nhận có thể sử dụng thuốc nhiễm sắc thể. . . Có mười hai phần xác nhận vô pháp sử dụng. Còn lại thuộc về tiếp cận, vô pháp xác định hàng mẫu. Đương nhiên, đây hết thảy điều kiện tiên quyết là ta cùng đệ đệ của ta hoàn toàn chính xác có thể tiếp nhận thuốc nhiễm sắc thể tác dụng."
+
+Trầm Dịch lấy ra hàng mẫu đánh số danh tự nhìn thoáng qua, kêu lên: "Frost!"
+
+Frost đứng dậy.
+
+Cầm lấy một ống thuốc nhiễm sắc thể, Trầm Dịch nói: "Thật cao hứng ngươi trở thành kiểm tra đo lường vượt qua kiểm tra một thành viên, bất quá nói thực ra, vô luận là Samantha tiến sĩ có lẽ hay là ta, cũng không thể xác nhận tại trước mắt loại trạng thái này hạ tiến hành kiểm tra đo lường có hữu hiệu hay không. Xuất phát từ an toàn cân nhắc, ta quyết định do ngươi tới làm cái thứ nhất vật thí nghiệm."
+
+Thân là binh đoàn hàng không doanh trưởng, Frost ủng có một lần phục sinh cơ hội.
+
+Tại vô pháp xác định hữu hiệu dưới tình huống, Trầm Dịch chỉ có thể lựa chọn lại để cho Frost đến ưu tiên tiêm vào.
+
+Frost kính cái chào theo nghi thức quân đội: "Cái này là vinh hạnh của ta, trưởng quan."
+
+"Nguyện Thượng Đế phù hộ ngươi." Trầm Dịch lần đầu tiên nói một câu tín ngưỡng mà nói đem cái kia quản dược tề đưa vào Frost trong cơ thể.
+
+Frost chỉ cảm thấy trước mắt đột nhiên một mảnh mơ hồ, tầm mắt trở nên lờ mờ, thấy không rõ quanh thân hết thảy.
+
+Hắn lung lay vài cái thân thể, chỉ cảm thấy thân thể trầm trọng vô cùng, lại cũng vô pháp chèo chống té xuống.Năm phút sau, hai chỉ Sabaoth rốt cục bị giết chết.
+
+Lại để cho Trầm Dịch cảm thấy phiền muộn chính là, cái này hai chỉ Sabaoth vậy mà chỉ cấp ra một thanh phổ thông súng D cấp cùng một bả súng plasma DD cấp.
+
+Phải biết rằng lúc trước bị giết Sabaoth cho ra có lẽ hay là C cấp, hiện tại giết chết hai chỉ Sabaoth, cộng lại lại vẫn là một cái C cấp, thật sự làm cho người ta không nói được lời nào.
+
+Duy nhất đáng được ăn mừng chính là, bởi vì áp dụng thiếp thân cận chiến sách lược, cuối cùng đem hai bả BFG toàn bộ bảo lưu lại đến.
+
+"BFG-6000
+
+Phẩm chất: B cấp vũ khí năng lượng.
+
+Công kích thương tổn: 1000 điểm
+
+Phạm vi công kích: 9*9 mét
+
+Mỗi bay một mét được mở rộng một mét phạm vi công kích nhưng thương tổn giảm dần mỗi lần 100 điểm.
+
+Thương tổn năng lượng ăn mòn, đánh trúng mục tiêu sau tạo thành ăn mòn hiệu quả, mỗi giây thương tổn 20-100 điểm, tiếp tục ba giây.
+
+Công kích trước cần một giây thêm nhiệt thời gian, đạn năng lượng tốc độ phi hành trung đẳng, thời gian cool-down một phút đồng hồ.
+
+Hộp năng lượng sử dụng số lần 1/4, có thể bổ sung năng lượng.
+
+Sử dụng bản vũ khí cần lực lượng 88 điểm, Thương thuật dốc lòng chuyên gia cấp, người sử dụng vô pháp sử dụng bất luận cái gì viên đạn đặc thù cùng kỹ năng loại súng. Không phải xem xét vũ khí."
+
+. . .
+
+Cùng súng gia tốc plasma so sánh, BFG uy lực càng lớn, phạm vi càng rộng lớn, thêm nhiệt cùng thời gian cool-down ngắn hơn, chỗ thiếu hụt chính là chỉ có thể một lần bổ sung năng lượng chỉ có thể phóng ra bốn phát đạn năng lượng.
+
+Đây cũng là tất cả vũ khí năng lượng chỗ thiếu hụt tất nhiên, như thanh kia súng gia tốc plasma CC cấp, bổ sung năng lượng một lần chỉ có thể dùng ba lượt, súng gia tốc plasma loại cải tiến, bổ sung năng lượng một lần sau đến có thể sử dụng sáu lần, cũng đã thuộc về B cấp vũ khí.
+
+Cái thanh này BFG uy lực so súng gia tốc plasma loại cải tiến lớn hơn rất nhiều, thì khó trách muốn thiếu hai lần sử dụng.
+
+Cũng may chúng cũng có thể vận dụng điện lực bổ sung năng lượng, đến không phải không nên sử dụng máy bổ sung năng lượng. Chỉ là điện lực bổ sung năng lượng cũng có nó hạn chế, một lần bổ sung năng lượng thường thường cần vài giờ thời gian, bởi vậy giống như Doom nhiệm vụ như vậy, cơ bản tựu đừng hy vọng lộng điện lực bổ sung năng lượng.
+
+BFG tổng cộng có hai bả, Trầm Dịch lấy đi một bả, thuận tiện đem một cái khác đem trên mặt hộp năng lượng cũng gở xuống, cái kia trên mặt đồng dạng thừa tiếp theo sử dụng cơ hội, nói cách khác, Trầm Dịch hiện tại có thể sử dụng vũ khí này hai lần.
+
+Trừ chuyện đó ra, Trầm Dịch bọn hắn còn đã lấy được một ít vụn vặt tiểu chút chít, bất quá phần lớn không có quá nhiều giá trị, đến là Thần Ma tế phẩm lại để cho Trầm Dịch được vài kiện, tuy nhiên chỉ có thể đổi đến một hai điểm vinh quang, nhưng không chịu nổi có thể tích thiểu thành đa.
+
+Chính thức lại để cho Trầm Dịch tâm động, có lẽ hay là cái thanh kia súng plasma —— cái này hắn có hai bả.
+
+Lấy ra Horadric Cube, Trầm Dịch đem C cấp súng plasma cùng súng plasma DD cấp bỏ vào, đạt được nhắc nhở:
+
+"Vật phẩm độ đồng chất trăm phần trăm, hợp thành CC cấp vũ khí cần bổ sung điểm Huyết Tinh ba nghìn, phải chăng xác định dung hợp?"
+
+Cái này ba nghìn điểm chỉ dùng để đến đền bù tổn thất giá hàng chưa đủ, hợp thành thân mình cũng không có bổ sung thu phí, bởi vậy Trầm Dịch lập tức tiếp nhận: "Hợp thành!"
+
+"Hợp thành hoàn thành!"
+
+"Súng plasma
+
+Phẩm chất: CC cấp vũ khí năng lượng.
+
+Phóng ra tia plasma công kích mục tiêu.
+
+Tia plasma lực thương tổn: 200 điểm
+
+Phạm vi: 1*1 mét
+
+Xạ tốc: 1 phát / giây
+
+Vô pháp sử dụng bất luận cái gì viên đạn đặc thù cùng kỹ năng loại súng. Sử dụng số lần 25/50, có thể bổ sung năng lượng. Sử dụng bản vũ khí cần lực lượng 35 điểm, Thương thuật dốc lòng trụ cột."
+
+. . .
+
+Có lẽ là trong đó một bả súng plasma năng lượng dùng hết nguyên nhân, mới hợp thành súng chỉ có một nửa năng lượng.
+
+"Haby, súng này cho ngươi dùng." Trầm Dịch tiện tay đem súng vứt cho Haby.
+
+Tất cả triệu hoán binh sĩ đều kèm theo Thương thuật dốc lòng trụ cột, số ít ngắm bắn sở trường như Arians Thương thuật dốc lòng thậm chí còn cao hơn thượng vừa đến hai giai, bất quá lực lượng thuộc tính đạt tới tiêu chuẩn nhưng lại không nhiều lắm. Haby là trước mắt trong đội ngũ lực lượng gần với Ralph một cái, khó được còn có được Cách đấu dốc lòng, sử dụng súng này đến là phù hợp.
+
+"Ralph, ngươi dùng cái này." Trầm Dịch sau đó càng làm được từ Destroyer cái kia đem súng 6 nòng Gatling giao cho Ralph, cây súng này không có sử dụng yêu cầu, đến là chính thích hợp triệu hoán binh sĩ sử dụng: "Viên đạn không nhiều lắm rồi, tận lực bớt một chút dùng."
+
+Súng này không có hộp đạn vô tận, cho nên không phải nguy cấp thời gian, Trầm Dịch không muốn lấy ra dùng.
+
+Chứng kiến cái thanh này súng 6 nòng Gatling, Duke tròng mắt đều nhanh trừng đi ra: "Đó là Destroyer súng, hắn hiện tại người đâu này?"
+
+"Chết rồi." Trầm Dịch trả lời: "Ta vốn cho rằng có thể cứu ra hắn, đáng tiếc. . . Hắn bị cuốn hút."
+
+Hắn biết rõ Duke cùng Destroyer là một đôi bạn tốt, thời khắc này nhìn xem Duke thống khổ bộ dáng, Trầm Dịch vỗ vỗ đầu vai của hắn: "Người chết đã qua đời, người sống còn phải tiếp tục chiến đấu. Đi thôi, chúng ta còn có thật nhiều sự tình muốn làm."
+
+"Ta muốn giết sạch những kia ma quỷ!" Duke cắn răng nói.
+
+"Ta cam đoan ngươi sẽ có cơ hội này." Trầm Dịch ung dung trả lời.
+
+Lúc này phía trước chắn đường quái vật dĩ nhiên không nhiều lắm.
+
+Cánh thông đạo đột nhiên đã chạy tới hai bóng người, rõ ràng là hai gã mạo hiểm giả, hẳn là nghe được động tĩnh sau chạy tới. Phía sau bọn họ còn đi theo ba cái người bình thường, hẳn là bị bọn hắn cứu người gặp nạn.
+
+Chứng kiến một đoàn người sống sót, một người trong đó nhìn về phía trên trượt ở phía trong trượt khí gia hỏa vậy mà hưng phấn huýt sáo: "Nhiều như vậy người sống sót! Ta nói, bên kia bằng hữu, chia mấy cái cho chúng ta thế nào?"
+
+Kỳ thật hai người này chứng kiến một đoàn chiến sĩ thủ hộ ở bên, đến cũng chưa chắc có quá nhiều cách nghĩ, chỉ là bản năng muốn thử xem có thể hay không lao đến chỗ tốt.
+
+Không nghĩ tới Trầm Dịch lại sai lệch nghiêng đầu: "Hồng Lãng."
+
+Một giây sau Hồng Lãng đã lập tức liền xông ra ngoài, một phát bắt được cái kia nói chuyện mạo hiểm giả hét lớn: "Cút ngay!"
+
+Sau đó chỉ thấy người này giống như cái bóng cao su loại bay rồi đi ra ngoài, biến mất tại cuối thông đạo.
+
+Bên cạnh mạo hiểm giả ngẩn ngơ: "Ngươi. . . Ngươi. . ."
+
+Hồng Lãng tự nhiên hỏi: "Chính mình lăn có lẽ hay là lão tử động thủ?"
+
+Cái kia mạo hiểm giả nhìn xem Hồng Lãng, nhìn nhìn lại Hồng Lãng sau lưng một đám người, không nói hai lời, co chân bỏ chạy.
+
+Ngay tại hắn chạy đồng thời, cái kia ba gã người sống sót lại bị Hồng Lãng bắt lấy.
+
+Trầm Dịch bước đi tới nói: "Cái kia hai cái đồ vô dụng bảo vệ không là các ngươi, nếu như nguyện ý mà nói các ngươi có thể đi theo ta. Ta cam đoan các ngươi có thể còn sống sót, thẳng đến về nhà."
+
+Cái này ba gã người gặp nạn đối với lúc trước cái kia hai cái mạo hiểm giả độ tín nhiệm hiển nhiên không thể nói rất cao, lập tức đáp ứng.
+
+Cái kia hai gã mạo hiểm giả tại nhiệm vụ thời gian hơn phân nửa thời điểm mất đi bảo vệ mục tiêu, lập tức lâm vào nguy cơ. Còn muốn nếu không muốn đánh lén giáo huấn thời điểm, chỉ nghe Hồng Lãng cái kia hồng chung sóng lớn loại thanh âm dĩ nhiên vang lên:
+
+"Đội Đoạn Nhận chấp hành nhiệm vụ, thức thời toàn bộ xéo đi. Có người dám đánh chủ ý lên bọn ta, làm tốt trả giá thật nhiều chuẩn bị!"
+
+Cho nên nói người nếu là có thực lực, tựu tất nhiên hung hăng càn quấy. Hung hăng càn quấy sau lưng tuy sẽ khiến rất nhiều bất mãn, nhưng đồng thời cũng bỏ đi rất nhiều người ác ý ý niệm trong đầu, giảm bớt rất nhiều phiền toái. Mà đối với Trầm Dịch bọn hắn mà nói, nếu như không thể theo trên người địch nhân lấy được quá nhiều chỗ tốt, cái kia địch nhân có lẽ hay là càng ít càng tốt.
+
+Quả nhiên theo Hồng Lãng từng tiếng la lên, những kia rải rác mạo hiểm giả lại không người dám tới.
+
+Đội ngũ bắt đầu hướng về phòng thí nghiệm tốc độ cao nhất xuất phát.
+
+Kim Cương lúc này đã tại phòng thí nghiệm chờ —— hắn vốn là muốn đi tiếp viện Trầm Dịch, nhưng trên đường biết được bọn hắn đã muốn hoàn tất sau, tựu đi vòng đi trước bảo vệ phòng thí nghiệm.
+
+Đem người sống sót đưa phòng thí nghiệm, Trầm Dịch đẩy một bả John, đối với Samantha tiến sĩ nói: "Đệ đệ của ngươi ta cho ngươi mang đến."
+
+Samantha tiến lên ôm lấy John lại không buông tay.
+
+Văn chương nhắc nhở: ngươi hoàn thành Samantha tiến sĩ ủy thác, độ tín nhiệm tăng lên ba trăm điểm.
+
+Trầm Dịch đối với cái này đến không có hứng thú, chỉ là hỏi: "Ta xin nhờ sự tình thế nào?"
+
+Samantha trả lời ngay: "Tìm được rồi một vài vấn đề, nhưng là khuyết thiếu càng thêm kỹ càng cùng cụ thể thí nghiệm số liệu."
+
+Trầm Dịch tiện tay lấy ra một cái bình nhỏ ném cho Samantha: "Đây là Sarge máu huyết, hắn vô pháp tiếp nhận dược tề tiêm vào, dùng hắn và đệ đệ của ngươi huyết làm tiếp một lần lấy mẫu so với, lại từ binh lính của ta ở phía trong đem phù hợp ngươi cùng đệ đệ của ngươi đặc chủng chiến sĩ tìm ra."
+
+Samantha có chút giật mình tiếp nhận huyết dạng: "Các ngươi đụng phải Sarge? Làm sao ngươi biết Sarge không thể thừa nhận mà đệ đệ của ta có thể. . ."
+
+Trầm Dịch đã muốn phụ giúp Samantha trở lại chính mình đài công tác: "Ta không có quá nhiều thời gian với ngươi giải thích, nhưng ta cần ngươi mau chóng đem tinh lực của ngươi chuyên chú đến trên công tác. . . Lưu cho thời gian của chúng ta không nhiều lắm."
+
+Thời gian hoàn toàn chính xác không nhiều lắm rồi, lúc này đã muốn tiến vào đệ 3h.
+
+Mới một vòng quái vật sớm đã xuất hiện, đang nghiên cứu chỗ trung tùy ý hoành hành, khắp nơi đều có thể nghe được tiếng súng, tiếng gọi ầm ĩ, còn có tiếng cầu cứu.
+
+Theo quái vật số lượng gia tăng, chiến đấu cũng đang tại trở nên càng ngày càng kịch liệt.
+
+Ngẫu mà, có thể nghe được nhiều tiếng kêu thảm thiết, lại không biết là mạo hiểm giả, có lẽ hay là người gặp nạn.
+
+Samantha bận rộn công việc, đem một phần phần huyết dạng tiến hành so với.
+
+Thời gian tại từng phần từng phần chạy đi, phòng nghiên cứu trong nhưng lại khác thường yên tĩnh.
+
+Một phần của Trầm Dịch một phương người cố nhiên là toàn bộ yên tĩnh không nói lời nào, mà ngay cả Duke, John bọn hắn cũng chỉ là yên lặng nhìn xem, không nói một câu —— có một số việc trên đường đã muốn hiểu rõ qua rồi.
+
+Rốt cục, Samantha đem đầu tay huyết dịch hàng mẫu toàn bộ xử lý tốt.
+
+Nàng đem Trầm Dịch gọi vào bên người, chỉ vào hàng mẫu nói: "Tổng cộng 30 phần hàng mẫu, có năm phần vốn đã xác nhận có thể sử dụng thuốc nhiễm sắc thể. . . Có mười hai phần xác nhận vô pháp sử dụng. Còn lại thuộc về tiếp cận, vô pháp xác định hàng mẫu. Đương nhiên, đây hết thảy điều kiện tiên quyết là ta cùng đệ đệ của ta hoàn toàn chính xác có thể tiếp nhận thuốc nhiễm sắc thể tác dụng."
+
+Trầm Dịch lấy ra hàng mẫu đánh số danh tự nhìn thoáng qua, kêu lên: "Frost!"
+
+Frost đứng dậy.
+
+Cầm lấy một ống thuốc nhiễm sắc thể, Trầm Dịch nói: "Thật cao hứng ngươi trở thành kiểm tra đo lường vượt qua kiểm tra một thành viên, bất quá nói thực ra, vô luận là Samantha tiến sĩ có lẽ hay là ta, cũng không thể xác nhận tại trước mắt loại trạng thái này hạ tiến hành kiểm tra đo lường có hữu hiệu hay không. Xuất phát từ an toàn cân nhắc, ta quyết định do ngươi tới làm cái thứ nhất vật thí nghiệm."
+
+Thân là binh đoàn hàng không doanh trưởng, Frost ủng có một lần phục sinh cơ hội.
+
+Tại vô pháp xác định hữu hiệu dưới tình huống, Trầm Dịch chỉ có thể lựa chọn lại để cho Frost đến ưu tiên tiêm vào.
+
+Frost kính cái chào theo nghi thức quân đội: "Cái này là vinh hạnh của ta, trưởng quan."
+
+"Nguyện Thượng Đế phù hộ ngươi." Trầm Dịch lần đầu tiên nói một câu tín ngưỡng mà nói đem cái kia quản dược tề đưa vào Frost trong cơ thể.
+
+Frost chỉ cảm thấy trước mắt đột nhiên một mảnh mơ hồ, tầm mắt trở nên lờ mờ, thấy không rõ quanh thân hết thảy.
+
+Hắn lung lay vài cái thân thể, chỉ cảm thấy thân thể trầm trọng vô cùng, lại cũng vô pháp chèo chống té xuống.Năm phút sau, hai chỉ Sabaoth rốt cục bị giết chết.
+
+Lại để cho Trầm Dịch cảm thấy phiền muộn chính là, cái này hai chỉ Sabaoth vậy mà chỉ cấp ra một thanh phổ thông súng D cấp cùng một bả súng plasma DD cấp.
+
+Phải biết rằng lúc trước bị giết Sabaoth cho ra có lẽ hay là C cấp, hiện tại giết chết hai chỉ Sabaoth, cộng lại lại vẫn là một cái C cấp, thật sự làm cho người ta không nói được lời nào.
+
+Duy nhất đáng được ăn mừng chính là, bởi vì áp dụng thiếp thân cận chiến sách lược, cuối cùng đem hai bả BFG toàn bộ bảo lưu lại đến.
+
+"BFG-6000
+
+Phẩm chất: B cấp vũ khí năng lượng.
+
+Công kích thương tổn: 1000 điểm
+
+Phạm vi công kích: 9*9 mét
+
+Mỗi bay một mét được mở rộng một mét phạm vi công kích nhưng thương tổn giảm dần mỗi lần 100 điểm.
+
+Thương tổn năng lượng ăn mòn, đánh trúng mục tiêu sau tạo thành ăn mòn hiệu quả, mỗi giây thương tổn 20-100 điểm, tiếp tục ba giây.
+
+Công kích trước cần một giây thêm nhiệt thời gian, đạn năng lượng tốc độ phi hành trung đẳng, thời gian cool-down một phút đồng hồ.
+
+Hộp năng lượng sử dụng số lần 1/4, có thể bổ sung năng lượng.
+
+Sử dụng bản vũ khí cần lực lượng 88 điểm, Thương thuật dốc lòng chuyên gia cấp, người sử dụng vô pháp sử dụng bất luận cái gì viên đạn đặc thù cùng kỹ năng loại súng. Không phải xem xét vũ khí."
+
+. . .
+
+Cùng súng gia tốc plasma so sánh, BFG uy lực càng lớn, phạm vi càng rộng lớn, thêm nhiệt cùng thời gian cool-down ngắn hơn, chỗ thiếu hụt chính là chỉ có thể một lần bổ sung năng lượng chỉ có thể phóng ra bốn phát đạn năng lượng.
+
+Đây cũng là tất cả vũ khí năng lượng chỗ thiếu hụt tất nhiên, như thanh kia súng gia tốc plasma CC cấp, bổ sung năng lượng một lần chỉ có thể dùng ba lượt, súng gia tốc plasma loại cải tiến, bổ sung năng lượng một lần sau đến có thể sử dụng sáu lần, cũng đã thuộc về B cấp vũ khí.
+
+Cái thanh này BFG uy lực so súng gia tốc plasma loại cải tiến lớn hơn rất nhiều, thì khó trách muốn thiếu hai lần sử dụng.
+
+Cũng may chúng cũng có thể vận dụng điện lực bổ sung năng lượng, đến không phải không nên sử dụng máy bổ sung năng lượng. Chỉ là điện lực bổ sung năng lượng cũng có nó hạn chế, một lần bổ sung năng lượng thường thường cần vài giờ thời gian, bởi vậy giống như Doom nhiệm vụ như vậy, cơ bản tựu đừng hy vọng lộng điện lực bổ sung năng lượng.
+
+BFG tổng cộng có hai bả, Trầm Dịch lấy đi một bả, thuận tiện đem một cái khác đem trên mặt hộp năng lượng cũng gở xuống, cái kia trên mặt đồng dạng thừa tiếp theo sử dụng cơ hội, nói cách khác, Trầm Dịch hiện tại có thể sử dụng vũ khí này hai lần.
+
+Trừ chuyện đó ra, Trầm Dịch bọn hắn còn đã lấy được một ít vụn vặt tiểu chút chít, bất quá phần lớn không có quá nhiều giá trị, đến là Thần Ma tế phẩm lại để cho Trầm Dịch được vài kiện, tuy nhiên chỉ có thể đổi đến một hai điểm vinh quang, nhưng không chịu nổi có thể tích thiểu thành đa.
+
+Chính thức lại để cho Trầm Dịch tâm động, có lẽ hay là cái thanh kia súng plasma —— cái này hắn có hai bả.
+
+Lấy ra Horadric Cube, Trầm Dịch đem C cấp súng plasma cùng súng plasma DD cấp bỏ vào, đạt được nhắc nhở:
+
+"Vật phẩm độ đồng chất trăm phần trăm, hợp thành CC cấp vũ khí cần bổ sung điểm Huyết Tinh ba nghìn, phải chăng xác định dung hợp?"
+
+Cái này ba nghìn điểm chỉ dùng để đến đền bù tổn thất giá hàng chưa đủ, hợp thành thân mình cũng không có bổ sung thu phí, bởi vậy Trầm Dịch lập tức tiếp nhận: "Hợp thành!"
+
+"Hợp thành hoàn thành!"
+
+"Súng plasma
+
+Phẩm chất: CC cấp vũ khí năng lượng.
+
+Phóng ra tia plasma công kích mục tiêu.
+
+Tia plasma lực thương tổn: 200 điểm
+
+Phạm vi: 1*1 mét
+
+Xạ tốc: 1 phát / giây
+
+Vô pháp sử dụng bất luận cái gì viên đạn đặc thù cùng kỹ năng loại súng. Sử dụng số lần 25/50, có thể bổ sung năng lượng. Sử dụng bản vũ khí cần lực lượng 35 điểm, Thương thuật dốc lòng trụ cột."
+
+. . .
+
+Có lẽ là trong đó một bả súng plasma năng lượng dùng hết nguyên nhân, mới hợp thành súng chỉ có một nửa năng lượng.
+
+"Haby, súng này cho ngươi dùng." Trầm Dịch tiện tay đem súng vứt cho Haby.
+
+Tất cả triệu hoán binh sĩ đều kèm theo Thương thuật dốc lòng trụ cột, số ít ngắm bắn sở trường như Arians Thương thuật dốc lòng thậm chí còn cao hơn thượng vừa đến hai giai, bất quá lực lượng thuộc tính đạt tới tiêu chuẩn nhưng lại không nhiều lắm. Haby là trước mắt trong đội ngũ lực lượng gần với Ralph một cái, khó được còn có được Cách đấu dốc lòng, sử dụng súng này đến là phù hợp.
+
+"Ralph, ngươi dùng cái này." Trầm Dịch sau đó càng làm được từ Destroyer cái kia đem súng 6 nòng Gatling giao cho Ralph, cây súng này không có sử dụng yêu cầu, đến là chính thích hợp triệu hoán binh sĩ sử dụng: "Viên đạn không nhiều lắm rồi, tận lực bớt một chút dùng."
+
+Súng này không có hộp đạn vô tận, cho nên không phải nguy cấp thời gian, Trầm Dịch không muốn lấy ra dùng.
+
+Chứng kiến cái thanh này súng 6 nòng Gatling, Duke tròng mắt đều nhanh trừng đi ra: "Đó là Destroyer súng, hắn hiện tại người đâu này?"
+
+"Chết rồi." Trầm Dịch trả lời: "Ta vốn cho rằng có thể cứu ra hắn, đáng tiếc. . . Hắn bị cuốn hút."
+
+Hắn biết rõ Duke cùng Destroyer là một đôi bạn tốt, thời khắc này nhìn xem Duke thống khổ bộ dáng, Trầm Dịch vỗ vỗ đầu vai của hắn: "Người chết đã qua đời, người sống còn phải tiếp tục chiến đấu. Đi thôi, chúng ta còn có thật nhiều sự tình muốn làm."
+
+"Ta muốn giết sạch những kia ma quỷ!" Duke cắn răng nói.
+
+"Ta cam đoan ngươi sẽ có cơ hội này." Trầm Dịch ung dung trả lời.
+
+Lúc này phía trước chắn đường quái vật dĩ nhiên không nhiều lắm.
+
+Cánh thông đạo đột nhiên đã chạy tới hai bóng người, rõ ràng là hai gã mạo hiểm giả, hẳn là nghe được động tĩnh sau chạy tới. Phía sau bọn họ còn đi theo ba cái người bình thường, hẳn là bị bọn hắn cứu người gặp nạn.
+
+Chứng kiến một đoàn người sống sót, một người trong đó nhìn về phía trên trượt ở phía trong trượt khí gia hỏa vậy mà hưng phấn huýt sáo: "Nhiều như vậy người sống sót! Ta nói, bên kia bằng hữu, chia mấy cái cho chúng ta thế nào?"
+
+Kỳ thật hai người này chứng kiến một đoàn chiến sĩ thủ hộ ở bên, đến cũng chưa chắc có quá nhiều cách nghĩ, chỉ là bản năng muốn thử xem có thể hay không lao đến chỗ tốt.
+
+Không nghĩ tới Trầm Dịch lại sai lệch nghiêng đầu: "Hồng Lãng."
+
+Một giây sau Hồng Lãng đã lập tức liền xông ra ngoài, một phát bắt được cái kia nói chuyện mạo hiểm giả hét lớn: "Cút ngay!"
+
+Sau đó chỉ thấy người này giống như cái bóng cao su loại bay rồi đi ra ngoài, biến mất tại cuối thông đạo.
+
+Bên cạnh mạo hiểm giả ngẩn ngơ: "Ngươi. . . Ngươi. . ."
+
+Hồng Lãng tự nhiên hỏi: "Chính mình lăn có lẽ hay là lão tử động thủ?"
+
+Cái kia mạo hiểm giả nhìn xem Hồng Lãng, nhìn nhìn lại Hồng Lãng sau lưng một đám người, không nói hai lời, co chân bỏ chạy.
+
+Ngay tại hắn chạy đồng thời, cái kia ba gã người sống sót lại bị Hồng Lãng bắt lấy.
+
+Trầm Dịch bước đi tới nói: "Cái kia hai cái đồ vô dụng bảo vệ không là các ngươi, nếu như nguyện ý mà nói các ngươi có thể đi theo ta. Ta cam đoan các ngươi có thể còn sống sót, thẳng đến về nhà."
+
+Cái này ba gã người gặp nạn đối với lúc trước cái kia hai cái mạo hiểm giả độ tín nhiệm hiển nhiên không thể nói rất cao, lập tức đáp ứng.
+
+Cái kia hai gã mạo hiểm giả tại nhiệm vụ thời gian hơn phân nửa thời điểm mất đi bảo vệ mục tiêu, lập tức lâm vào nguy cơ. Còn muốn nếu không muốn đánh lén giáo huấn thời điểm, chỉ nghe Hồng Lãng cái kia hồng chung sóng lớn loại thanh âm dĩ nhiên vang lên:
+
+"Đội Đoạn Nhận chấp hành nhiệm vụ, thức thời toàn bộ xéo đi. Có người dám đánh chủ ý lên bọn ta, làm tốt trả giá thật nhiều chuẩn bị!"
+
+Cho nên nói người nếu là có thực lực, tựu tất nhiên hung hăng càn quấy. Hung hăng càn quấy sau lưng tuy sẽ khiến rất nhiều bất mãn, nhưng đồng thời cũng bỏ đi rất nhiều người ác ý ý niệm trong đầu, giảm bớt rất nhiều phiền toái. Mà đối với Trầm Dịch bọn hắn mà nói, nếu như không thể theo trên người địch nhân lấy được quá nhiều chỗ tốt, cái kia địch nhân có lẽ hay là càng ít càng tốt.
+
+Quả nhiên theo Hồng Lãng từng tiếng la lên, những kia rải rác mạo hiểm giả lại không người dám tới.
+
+Đội ngũ bắt đầu hướng về phòng thí nghiệm tốc độ cao nhất xuất phát.
+
+Kim Cương lúc này đã tại phòng thí nghiệm chờ —— hắn vốn là muốn đi tiếp viện Trầm Dịch, nhưng trên đường biết được bọn hắn đã muốn hoàn tất sau, tựu đi vòng đi trước bảo vệ phòng thí nghiệm.
+
+Đem người sống sót đưa phòng thí nghiệm, Trầm Dịch đẩy một bả John, đối với Samantha tiến sĩ nói: "Đệ đệ của ngươi ta cho ngươi mang đến."
+
+Samantha tiến lên ôm lấy John lại không buông tay.
+
+Văn chương nhắc nhở: ngươi hoàn thành Samantha tiến sĩ ủy thác, độ tín nhiệm tăng lên ba trăm điểm.
+
+Trầm Dịch đối với cái này đến không có hứng thú, chỉ là hỏi: "Ta xin nhờ sự tình thế nào?"
+
+Samantha trả lời ngay: "Tìm được rồi một vài vấn đề, nhưng là khuyết thiếu càng thêm kỹ càng cùng cụ thể thí nghiệm số liệu."
+
+Trầm Dịch tiện tay lấy ra một cái bình nhỏ ném cho Samantha: "Đây là Sarge máu huyết, hắn vô pháp tiếp nhận dược tề tiêm vào, dùng hắn và đệ đệ của ngươi huyết làm tiếp một lần lấy mẫu so với, lại từ binh lính của ta ở phía trong đem phù hợp ngươi cùng đệ đệ của ngươi đặc chủng chiến sĩ tìm ra."
+
+Samantha có chút giật mình tiếp nhận huyết dạng: "Các ngươi đụng phải Sarge? Làm sao ngươi biết Sarge không thể thừa nhận mà đệ đệ của ta có thể. . ."
+
+Trầm Dịch đã muốn phụ giúp Samantha trở lại chính mình đài công tác: "Ta không có quá nhiều thời gian với ngươi giải thích, nhưng ta cần ngươi mau chóng đem tinh lực của ngươi chuyên chú đến trên công tác. . . Lưu cho thời gian của chúng ta không nhiều lắm."
+
+Thời gian hoàn toàn chính xác không nhiều lắm rồi, lúc này đã muốn tiến vào đệ 3h.
+
+Mới một vòng quái vật sớm đã xuất hiện, đang nghiên cứu chỗ trung tùy ý hoành hành, khắp nơi đều có thể nghe được tiếng súng, tiếng gọi ầm ĩ, còn có tiếng cầu cứu.
+
+Theo quái vật số lượng gia tăng, chiến đấu cũng đang tại trở nên càng ngày càng kịch liệt.
+
+Ngẫu mà, có thể nghe được nhiều tiếng kêu thảm thiết, lại không biết là mạo hiểm giả, có lẽ hay là người gặp nạn.
+
+Samantha bận rộn công việc, đem một phần phần huyết dạng tiến hành so với.
+
+Thời gian tại từng phần từng phần chạy đi, phòng nghiên cứu trong nhưng lại khác thường yên tĩnh.
+
+Một phần của Trầm Dịch một phương người cố nhiên là toàn bộ yên tĩnh không nói lời nào, mà ngay cả Duke, John bọn hắn cũng chỉ là yên lặng nhìn xem, không nói một câu —— có một số việc trên đường đã muốn hiểu rõ qua rồi.
+
+Rốt cục, Samantha đem đầu tay huyết dịch hàng mẫu toàn bộ xử lý tốt.
+
+Nàng đem Trầm Dịch gọi vào bên người, chỉ vào hàng mẫu nói: "Tổng cộng 30 phần hàng mẫu, có năm phần vốn đã xác nhận có thể sử dụng thuốc nhiễm sắc thể. . . Có mười hai phần xác nhận vô pháp sử dụng. Còn lại thuộc về tiếp cận, vô pháp xác định hàng mẫu. Đương nhiên, đây hết thảy điều kiện tiên quyết là ta cùng đệ đệ của ta hoàn toàn chính xác có thể tiếp nhận thuốc nhiễm sắc thể tác dụng."
+
+Trầm Dịch lấy ra hàng mẫu đánh số danh tự nhìn thoáng qua, kêu lên: "Frost!"
+
+Frost đứng dậy.
+
+Cầm lấy một ống thuốc nhiễm sắc thể, Trầm Dịch nói: "Thật cao hứng ngươi trở thành kiểm tra đo lường vượt qua kiểm tra một thành viên, bất quá nói thực ra, vô luận là Samantha tiến sĩ có lẽ hay là ta, cũng không thể xác nhận tại trước mắt loại trạng thái này hạ tiến hành kiểm tra đo lường có hữu hiệu hay không. Xuất phát từ an toàn cân nhắc, ta quyết định do ngươi tới làm cái thứ nhất vật thí nghiệm."
+
+Thân là binh đoàn hàng không doanh trưởng, Frost ủng có một lần phục sinh cơ hội.
+
+Tại vô pháp xác định hữu hiệu dưới tình huống, Trầm Dịch chỉ có thể lựa chọn lại để cho Frost đến ưu tiên tiêm vào.
+
+Frost kính cái chào theo nghi thức quân đội: "Cái này là vinh hạnh của ta, trưởng quan."
+
+"Nguyện Thượng Đế phù hộ ngươi." Trầm Dịch lần đầu tiên nói một câu tín ngưỡng mà nói đem cái kia quản dược tề đưa vào Frost trong cơ thể.
+
+Frost chỉ cảm thấy trước mắt đột nhiên một mảnh mơ hồ, tầm mắt trở nên lờ mờ, thấy không rõ quanh thân hết thảy.
+
+Hắn lung lay vài cái thân thể, chỉ cảm thấy thân thể trầm trọng vô cùng, lại cũng vô pháp chèo chống té xuống.

@@ -1,0 +1,715 @@
+Chương 17: Bài toán ba vật thể
+
+
+
+Uông Diểu vừa mới rời khỏi trò chơi, điện thoại vang, là Đại Sử đánh tới, nói có chuyện khẩn cấp, làm hắn lập tức đến trọng án tổ văn phòng đi một chuyến, Uông Diểu nhìn xem biểu, đã là rạng sáng tam điểm. 
+
+Uông Diểu đi vào Đại Sử hỗn độn văn phòng khi, thấy nơi đó đã bị hắn trừu đến vân chưng sương mù vòng, khiến cho ở văn phòng trung một vị khác tuổi trẻ nữ cảnh không ngừng dùng ký lục bổn ở cái mũi trước vỗ. Đại Sử giới thiệu nói nàng kêu từ băng băng, máy tính chuyên gia, là tin tức an toàn bộ môn. Văn phòng trung người thứ ba lệnh Uông Diểu thực giật mình, cư nhiên là Thân Ngọc Phỉ trượng phu Ngụy Thành, tóc rối bời, hắn ngẩng đầu nhìn xem Uông Diểu ． giống như đã quên mất bọn họ đã gặp mặt. 
+
+"Ngượng ngùng quấy rầy, bất quá ta xem ngươi cũng không ngủ đi. Nơi này có một số việc nhi, còn không có hội báo tác chiến trung tâm, đại khái yêu cầu ngươi tham mưu tham mưu." Đại Sử đối Uông Diểu nói, sau đó chuyển hướng Ngụy Thành,"Ngươi nói đi." 
+
+"Ta nói rồi, ta sinh mệnh đã chịu uy hiếp." Ngụy Thành nói, trên mặt lại là một bộ đờ đẫn biểu tình. 
+
+"Từ đầu nói lên đi." 
+
+"Hảo, từ đầu nói, không cần chê ta phiền toái, ta gần nhất thật đúng là muốn tìm người ta nói nói chuyện……" Ngụy Thành nói quay đầu nhìn xem từ băng băng,"Không làm ghi chép gì đó sao?" 
+
+"Hiện tại không cần, trước kia không ai cùng ngươi nói chuyện?" Đại Sử không mất thời cơ hỏi. 
+
+"Cũng không phải. Ta lười đến nói, ta là cái lười nhác người." 
+
+Dưới là Ngụy Thành tự thuật: 
+
+Ta là cái lười nhác người, từ nhỏ chính là, trọ ở trường khi chén chưa bao giờ tẩy. Chăn chưa bao giờ giặt, đối cái gì đều nhấc không nổi hứng thú, lười đến học tập, thậm chí lười đến chơi, mỗi ngày mơ mơ màng màng mà không lý tưởng. Nhưng ta biết chính mình có một ít vượt qua thường nhân tài năng, tỷ như ngươi họa một cây tuyến, ta ở tuyến thượng đồng dạng nói, vị trí khẳng định ở 0. 618 trung tỉ lệ chỗ. Các bạn học nói ta thích hợp đương thợ mộc, nhưng ta cảm thấy đây là càng cao cấp tài năng, là đối số cùng hình một loại trực giác. Kỳ thật ta toán học cùng mặt khác chương trình học giống nhau, thành tích hỏng bét, ta lười đến suy luận, khảo thí khi liền đem chính mình đoán mò ra tới đáp án trực tiếp viết đi lên, cũng có thể đoán đúng 100%, nhưng như vậy lấy không được cao phân. 
+
+Cao nhị khi, một vị toán học lão sư chú ý tới ta, khi đó, trung học giáo viên trung chính là ngọa hổ tàng long,"Văn cách" trung rất nhiều có tài hoa người đều lưu lạc đến trung học đi dạy học, hắn chính là như vậy một người. Có một ngày tan học sau hắn đem ta lưu lại, ở bảng đen thượng viết mười mấy dãy số, làm ta trực tiếp viết ra chúng nó tính tổng công thức. Ta thực mau viết ra trong đó một bộ phận, trên cơ bản đều đúng, còn lại ta liếc mắt một cái liền nhìn ra là dãy phân kỳ. Lão sư lấy ra một quyển sách, là 《 Holmes tra án tập 》, hắn phiên đến một thiên, hình như là 《 chiếc nhẫn tình cờ 》 đi, có một đoạn đại ý là như thế này: Watson nhìn đến dưới lầu có cái quần áo bình thường người ở truyền tin, liền chỉ cấp Holmes xem, Holmes nói ngươi là chỉ cái kia xuất ngũ hải quân quân tào sao? Watson rất kỳ quái Holmes là như thế nào suy đoán ra thân phận của hắn, Holmes chính mình cũng không rõ ràng lắm, suy nghĩ nửa ngày mới lý ra trinh thám quá trình, xem người nọ tay, cử chỉ lạp từ từ. Hắn nói này không kỳ quái, người khác cũng rất khó nói ra bản thân là như thế nào suy đoán ra"2+2=4". 
+
+Lão sư khép lại thư đối ta nói: Ngươi chính là như vậy, ngươi suy luận quá nhanh, hơn nữa là bản năng, cho nên tự mình ý thức không đến. Hắn hỏi tiếp ta: Nhìn đến một chuỗi con số, ngươi có cái gì cảm giác? Ta là hỏi cảm giác. Ta nói bất luận cái gì con số tổ hợp đối với ta đều là một loại lập thể hình thể, ta đương nhiên nói không rõ cái gì con số là cái gì hình dạng, nhưng nó xác thật biểu hiện vì một loại hình thể. Kia nhìn đến hình hình học đâu? Lão sư truy vấn, ta nói cùng mặt trên tương phản, ở ta đầu chỗ sâu trong không có đồ hình, hết thảy đều hóa thành con số, tựa như ngươi để sát vào xem báo chí thượng ảnh chụp, đều là điểm nhỏ nhi ( đương nhiên hiện tại báo chí ảnh chụp không phải như vậy nhi ). 
+
+Lão sư nói ngươi thật sự rất có toán học thiên phú ． nhưng là, nhưng là…… Hắn nói thật nhiều cái nhưng là, qua lại đi tới, giống như ta là cái thực khó giải quyết đồ vật, không biết như thế nào xử lý dường như. Nhưng là ngươi này hào người sẽ không quý trọng chính mình thiên phú, hắn nói. Suy nghĩ hơn nửa ngày, hắn giống như từ bỏ, nói vậy ngươi liền đi tham gia tháng sau khu toán học thi đua đi, ta cũng không phụ đạo ngươi, đối với ngươi này hào người, uổng phí kính, chỉ là ngươi giải bài thi khi nhất định phải đem suy luận quá trình viết đi lên. Vì thế ta liền đi thi đua, từ khu vẫn luôn tái đi lên, tái đến Budapest Olympic toán học thi đua, tất cả đều là quán quân. Sau khi trở về đã bị một khu nhà nhất lưu đại học toán học hệ miễn thí tuyển chọn…… 
+
+Ta nói này đó các ngươi không phiền đi? A, hảo, kỳ thật muốn nói thanh mặt sau chuyện này, này đó vẫn là cần thiết nói. Cái kia cao trung lão sư nói đối với, ta sẽ không quý hiếm chính mình, khoa chính quy thạc mười tiến sĩ đều cà lơ phất phơ, nhưng cư nhiên đều lại đây. Vừa đến xã hội thượng, mới phát hiện chính mình là cái chính cống phế vật, trừ bỏ toán học gì cũng sẽ không, ở phức tạp nhân tế quan hệ trung ở vào nửa giấc ngủ trạng thái, càng hỗn càng thứ; sau lại đến đại học dạy học đi, cũng hỗn không đi xuống, dạy học thượng nghiêm túc không đứng dậy, ta ở bảng đen thượng viết một câu"Dễ dàng chứng minh", học sinh phía dưới phải mân mê nửa ngày, sau lại làm mạt vị đào thải, khóa cũng không đến dạy. Dừng ở đây, ta đối này hết thảy đều chán ghét, liền mang theo đơn giản hành lý đi phía nam một tòa núi sâu trung chùa miếu. 
+
+Nga, ta không phải đi xuất gia, ta lười đến xuất gia, chỉ là muốn tìm cái chân chính thanh tĩnh chỗ ở một trận nhi. Nơi đó trưởng lão là ta phụ thân một cái lão hữu, học vấn rất sâu, lại ở lúc tuổi già xuất gia, chiếu phụ thân nói đi, đến hắn tầng này thứ, cũng liền này một cái lộ. Vị kia trưởng lão thu lưu ta trụ hạ, ta đối hắn nói, muốn tìm cái thanh tĩnh bớt lo phương thức hỗn xong đời này tính. Trưởng lão nói, nơi này cũng không thanh tĩnh, là du lịch khu, dâng hương người cũng rất nhiều; đại ẩn ẩn với thị, muốn thanh tĩnh bớt lo, chính mình phải "không". Ta nói ta đủ "không", danh lợi với ta liền mây bay đều không tính là, ngươi trong miếu những cái đó tăng nhân đều so với ta có nhiều hơn phàm tâm. Trưởng lão lắc đầu: "Không" không phải vô, "Không" là một loại tồn tại, ngươi đắc dụng không loại này tồn tại lấp đầy chính mình. Lời này đối ta rất có dẫn dắt, sau lại ngẫm lại, này căn bản không phải Phật gia lý niệm, đảo giống hiện đại nào đó vật lý học lý luận. Trưởng lão cũng nói, hắn sẽ không cùng ta nói Phật, lý do cùng vị kia trung học lão sư giống nhau: Đối ta này hào người vô dụng. 
+
+Ngày đầu tiên buổi tối, ở chùa chiền trong phòng nhỏ ta ngủ không xem, không nghĩ tới này thế ngoại đào nguyên là như thế không thoải mái, đệm chăn đều ở sơn sương mù trung biến triều, giường ngạnh bang bang. Vì thế, vì thôi miên, ta liền ý đồ ấn trưởng lão nói như vậy, dùng"Không" tới bỏ thêm vào chính mình: Ta tại ý thức trung sáng tạo cái thứ nhất"Không" là bát ngát vũ trụ, trong đó cái gì đều không có, liền quang đều không có, trống trơn. Thực mau cảm thấy này trống không một vật vũ trụ căn bản không thể sử chính mình cảm thấy yên lặng, thân ở trong đó ngược lại sẽ cảm thấy một loại mạc danh nôn nóng bất an, có một loại rơi xuống nước giả tưởng tùy tiện bắt lấy chút thứ gì **. 
+
+Vì thế ta cấp chính mình tại đây vô hạn không gian trung sáng tạo một cái hình cầu, không lớn, có chất lượng hình cầu. Nhưng cảm giác cũng không có hảo lên, kia hình cầu huyền phù ở"Không" ở giữa ( đối với vô hạn không gian, bất luận cái gì một chỗ đều là ở giữa ), cái kia vũ trụ trung không có bất cứ thứ gì tác dụng với nó, nó cũng không có bất cứ thứ gì có thể tác dụng. Nó treo ở nơi đó, vĩnh viễn sẽ không làm chút nào vận động, vĩnh viễn sẽ không có chút nào biến hóa, thật là đối tử vong nhất đúng chỗ thuyết minh. 
+
+Ta sáng tạo cái thứ hai cầu, cùng nguyên lai cầu lớn nhỏ chất lượng bằng nhau, chúng nó mặt ngoài đều là phản xạ toàn phần kính mặt, cho nhau ánh đối phương giống, ánh trừ nó chính mình ở ngoài vũ trụ trung duy nhất một cái tồn tại. Nhưng tình huống cũng không có hảo bao nhiêu: Nếu cầu không có mới bắt đầu vận động, cũng chính là ta đệ nhất thúc đẩy, chúng nó thực mau sẽ bị từng người dẫn lực kéo đến một khối, sau đó hai cái cầu cho nhau dựa vào treo ở nơi đó vẫn không nhúc nhích, vẫn là một cái tử vong ký hiệu. Nếu có mới bắt đầu vận động thả không chạm vào nhau, chúng nó liền sẽ ở từng người dẫn lực dưới tác dụng lẫn nhau quay chung quanh đối phương xoay tròn, mặc kệ ngươi như thế nào khởi động lại, kia xoay tròn cuối cùng đều sẽ cố định xuống dưới, vĩnh viễn bất biến, tử vong vũ đạo. 
+
+Ta lại dẫn vào cái thứ ba hình cầu, tình huống đã xảy ra làm ta khiếp sợ biến hóa. Phía trước nói qua, bất luận cái gì đồ hình ở ta ý thức chỗ sâu trong đều là con số hóa, phía trước vô cầu, một cầu cùng nhị cầu vũ trụ biểu hiện vì một cái hoặc ít ỏi mấy cái miêu tả nó phương trình, giống vài miếng cuối mùa thu lá rụng. Nhưng này cái thứ ba hình cầu là điểm thượng"Không" chi vẽ rồng điểm mắt , tam cầu vũ trụ lập tức trở nên phức tạp lên, ba cái bị giao cho mới bắt đầu vận động hình cầu ở vũ trụ trung tiến hành phức tạp, tựa hồ vĩnh không lặp lại vận động, miêu tả phương trình như mưa to xuất hiện, không ngừng nghỉ. Ta cứ như vậy tiến vào mộng đẹp, tam cầu ở trong mộng vẫn luôn vũ đạo, vô quy luật vĩnh không lặp lại vũ đạo. Nhưng ở ta ý thức chỗ sâu trong, này vũ đạo là có tiết tấu, chỉ là lặp lại chu kỳ vô hạn trường mà thôi, cái này làm cho ta mê muội, ta muốn miêu tả ra cái này chu kỳ một bộ phận hoặc toàn bộ. 
+
+Ngày hôm sau ta vẫn luôn nghĩ đến kia ba cái ở"Không" trung vũ đạo cầu, tư tưởng chưa bao giờ có giống như vậy toàn công suất chuyển động quá, thế cho nên có tăng nhân hỏi trưởng lão ta tinh thần có phải hay không ra cái gì tật xấu, trưởng lão cười nói: Không có việc gì, hắn tìm được rồi không. Đúng vậy, ta tìm được rồi không, hiện tại ta có thể ẩn với thị, chính là đặt mình trong hi nhương trong đám người, ta nội tâm cũng là vô cùng thanh tĩnh. Ta lần đầu tiên hưởng thụ tới rồi toán học lạc thú, Tam Thể vấn đề ( chú: Ba cái chất lượng tương đồng hoặc gần vật thể ở lẫn nhau dẫn lực dưới tác dụng như thế nào vận động vấn đề, là cổ điển vật lý học kinh điển vấn đề, đối thiên thể vận động nghiên cứu có quan trọng ý nghĩa, tự mười sáu thế kỷ tới nay vẫn luôn đã chịu chú ý. Thụy Sĩ toán học gia Euler, nước Pháp toán học gia Joseph Lagrange, cùng với năm gần đây một ít mượn dùng với máy tính nghiên cứu học giả, đều tìm ra Tam Thể vấn đề nào đó đặc giải. ) vật lý nguyên lý thực đơn thuần, kỳ thật là một số học vấn đề. Lúc này, ta tựa như một cái nửa đời tìm hoa hỏi liễu phóng đãng giả đột nhiên cảm nhận được tình yêu. 
+
+"Ngươi không biết Poincare sao? ( chú: Mười chín thế kỷ nước Pháp toán học gia, từng chứng minh rồi Tam Thể vấn đề ở toán học thượng không thể giải, cũng từ Tam Thể vấn đề xuất phát, ở vi phân phương trình vấn đề thượng sáng tạo tân toán học phương pháp. )" Uông Diểu đánh gãy Ngụy Thành hỏi. 
+
+Lúc ấy không biết, học toán học không biết Poincare là không đúng, nhưng ta bất kính ngưỡng đại sư, chính mình cũng không nghĩ thành đại sư, cho nên không biết. Nhưng liền tính lúc ấy biết Poincare ta cũng sẽ tiếp tục đối Tam Thể vấn đề nghiên cứu. Toàn thế giới đều cho rằng người này chứng minh rồi Tam Thể vấn đề không thể giải, nhưng ta cảm thấy có thể là cái hiểu lầm, hắn chỉ là chứng minh rồi mới bắt đầu điều kiện mẫn cảm tính, chứng minh rồi Tam Thể hệ thống là một cái không thể tích phân hệ thống, nhưng mẫn cảm tính không phải là hoàn toàn không xác định, chỉ là loại này xác định tính bao hàm số lượng càng thêm thật lớn bất đồng hình thái, hiện tại phải làm chính là tìm được một loại tân phép tính. Lúc ấy ta lập tức nghĩ tới một thứ: Ngươi nghe nói qua ‘ Monte Carlo phương pháp ‘ sao? Nga, đó là một loại tính toán bất quy tắc đồ hình diện tích máy tính trình tự phép tính, cụ thể cách làm là ở phần mềm có ích đại lượng tiểu cầu tùy cơ đập kia khối bất quy tắc đồ hình, bị đánh trúng địa phương không hề lặp lại đả kích, như vậy, đạt tới nhất định số lượng sau, đồ hình sở hữu bộ phận liền sẽ đều bị đánh trúng một lần, lúc này thống kê đồ hình khu vực nội tiểu cầu số lượng, phải tới rồi đồ hình diện tích, đương nhiên, cầu càng nhỏ kết quả càng chính xác. 
+
+Loại này phương pháp tuy rằng đơn giản, lại triển lãm toán học trung một loại dùng tùy cơ cậy mạnh đối kháng chính xác logic tư tưởng phương pháp, một loại dùng số lượng được đến chất lượng tính toán tư tưởng. Đây là ta giải quyết Tam Thể vấn đề sách lược. 
+Ta nghiên cứu Tam Thể vận động bất luận cái gì một cái thời gian tiết diện, ở cái này tiết diện thượng, các cầu vận động véc-tơ có vô hạn tổ hợp, ta đem mỗi một loại tổ hợp coi như một loại cùng loại với sinh vật đồ vật, mấu chốt là muốn xác định một cái quy tắc: Loại nào tổ hợp vận hành xu thế là"Khỏe mạnh" cùng"Có lợi", loại nào là"Bất lợi" cùng"Có làm hại", làm người trước đạt được sinh tồn ưu thế, người sau tắc sinh ra sinh tồn khó khăn, ở tính toán trung cứ như vậy khôn sống mống chết, cuối cùng sinh tồn xuống dưới chính là đối Tam Thể tiếp theo tiết diện vận động trạng thái chính xác đoán trước. 
+
+"Thuật toán tiến hóa." Uông Diểu nói: 
+
+"Thỉnh ngươi tới vẫn là đúng rồi." Đại Sử đối Uông Diểu gật gật đầu. 
+
+Đúng vậy, ta là đến sau lại mới nghe nói cái này danh từ. Loại này phép tính đặc điểm chính là rộng lượng tính toán, tính toán lượng siêu cấp thật lớn, đối với Tam Thể vấn đề, hiện có máy tính là không được. Mà lúc ấy ta ở chùa miếu liền cái tính toán khí đều không có, chỉ có từ phòng thu chi thảo tới một quyển không sổ sách cùng một chi bút chì: Ta bắt đầu trên giấy thành lập toán học mô hình, này lượng công việc rất lớn, thực mau dùng xong rồi mười mấy không sổ sách, khiến cho quản trướng hòa thượng oán khí tận trời. Nhưng ở trưởng lão yêu cầu hạ, bọn họ vẫn là cho ta tìm tới càng nhiều giấy cùng bút. Ta đem viết tốt tính toán bản thảo phóng tới gối đầu phía dưới, phế bỏ liền ném tới trong viện lư hương trung. 
+
+Hôm nay chạng vạng, một vị nữ nhân trẻ tuổi đột nhiên xông vào ta trong phòng, đây là ta nơi này lần đầu tiên có nữ nhân tiến vào, nàng trong tay cầm mấy trương bên cạnh đốt trọi giấy, đó là ta vứt đi tính bản thảo. 
+
+"Bọn họ nói đây là ngươi, ngươi ở nghiên cứu Tam Thể vấn đề?" Nàng vội vàng hỏi, mắt to kính mặt sau cặp mắt kia giống trứ hỏa dường như. Người này làm ta thực khiếp sợ, ta chọn dùng thị phi thường quy toán học phương pháp, thả suy luận nhảy lên tính rất lớn, nàng thế nhưng có thể từ mấy trương phế tính bản thảo trông được ra nghiên cứu đối tượng, này toán học năng lực không giống bình thường. Đồng thời cũng có thể khẳng định, nàng cùng ta giống nhau, thực đầu nhập mà chú ý Tam Thể vấn đề. Ta đối tới này một du khách cùng khách hành hương cũng chưa cái gì ấn tượng tốt, những cái đó du khách căn bản không biết là tới nhìn cái gì, chỉ là đông chạy tây thoán mà chụp ảnh; mà những cái đó khách hành hương, nhìn qua phổ biến so du khách nghèo đến nhiều, đều ở vào một loại chết lặng trí lực ức chế trạng thái. Cái này cô nương lại bất đồng, rất có học giả khí chất, sau lại biết nàng là cùng đàn Nhật Bản du khách cùng nhau tới. 
+
+Không đợi ta trả lời, nàng lại nói:"Suy nghĩ của ngươi thật cao minh, chúng ta vẫn luôn đang tìm kiếm loại này phương pháp, đem Tam Thể vấn đề khó khăn chuyển hóa vì thật lớn tính toán lượng. Nhưng này yêu cầu rất lớn máy tính mới được." 
+
+"Đem toàn thế giới sở hữu đại kế tính cơ đều dùng tới cũng không được." Ta lời nói thật nói cho nàng. 
+
+"Nhưng ngươi dù sao cũng phải có một cái không có trở ngại nghiên cứu hoàn cảnh mới được, nơi này cái gì đều không có. Ta có thể cho ngươi có cơ hội sử dụng to lớn máy tính, còn có thể tặng cho ngươi một đài máy tính cỡ trung, sáng mai, chúng ta cùng nhau xuống núi." 
+
+Nàng chính là Thân Ngọc Phỉ, cùng hiện tại giống nhau, ngắn gọn mà **, nhưng so hiện tại phải có lực hấp dẫn. Ta trời sinh tính lãnh đạm, đối nữ tính, ta so chung quanh này đó hòa thượng càng không có hứng thú, nhưng nàng thực đặc thù, nàng kia nhất không nữ nhân vị nữ nhân vị hấp dẫn ta, dù sao ta cũng là cái người rảnh rỗi, liền lập tức đáp ứng rồi nàng. 
+
+Ban đêm, ta ngủ không được, khoác áo đi vào chùa chiền, xa xa mà, ở tối tăm triều đình thấy được Thân Ngọc Phỉ thân ảnh, nàng đang ở phật tượng trước thắp hương, nhất cử nhất động đều là thực dáng vóc tiều tụy. Ta nhẹ nhàng đi qua đi, đi đến triều đình ngạch cửa ngoại khi, nghe được nàng nhẹ giọng niệm ra một câu khẩn cầu: 
+
+"Phật tổ phù hộ Chúa tôi thoát ly khổ hải." 
+
+Ta cho rằng nghe lầm, nhưng nàng lại tụng ngâm một lần: 
+
+"Phật tổ phù hộ Chúa tôi thoát ly khổ hải." 
+
+Ta không hiểu bất luận cái gì tôn giáo cũng không có hứng thú, nhưng xác thật tưởng tượng không ra so này càng ly kỳ cầu nguyện, không khỏi buột miệng thốt ra:"Ngươi đang nói cái gì?!" 
+
+Thân Ngọc Phỉ chút nào không để ý đến ta tồn tại, vẫn cứ khép hờ hai mắt đôi tay hợp thành chữ thập, giống như đang nhìn nàng khẩn cầu theo thuốc lá lượn lờ lên tới Phật tổ nơi đó. Qua hảo một trận nhi, nàng mới mở to mắt chuyển hướng ta. 
+
+"Đi ngủ đi, ngày mai sớm chút đi." Nàng nói, cũng không thèm nhìn tới ta. 
+
+"Ngươi vừa rồi nói ‘Chúa tôi ‘, là ở Phật giáo sao?" Ta hỏi. 
+
+"Không ở." 
+
+"Kia……" 
+
+Thân Ngọc Phỉ không nói một lời, bước nhanh rời đi, ta chưa kịp hỏi lại cái gì. Ta nhất biến biến mặc niệm câu kia cầu nguyện, càng niệm càng cảm giác quái dị, sau lại có một loại nói không nên lời khủng bố cảm, vì thế bước nhanh đi đến trưởng lão chỗ ở, gõ khai hắn môn. 
+
+"Nếu có người khẩn cầu Phật tổ phù hộ một cái khác Chúa, đây là có chuyện gì đâu?" Ta hỏi, sau đó kỹ càng tỉ mỉ mà nói sự tình trải qua. 
+
+Trưởng lão yên lặng mà nhìn chính mình quyển sách trên tay, nhưng hiển nhiên không có đọc, mà là suy nghĩ ta nói sự, sau đó hắn nói:"Ngươi trước đi ra ngoài trong chốc lát, làm ta ngẫm lại." Ta xoay người đi ra môn đi, biết này thực không tầm thường. Trưởng lão học thức thâm hậu, giống nhau về tôn giáo, lịch sử cùng văn hóa vấn đề, hắn đều có thể không cần nghĩ ngợi mà lập tức trả lời. Ta ở ngoài cửa đợi có một cây thuốc lá thời gian, trưởng lão kêu ta trở về. 
+
+"Ta cảm giác chỉ có một loại khả năng." Hắn thần sắc nghiêm túc mà nói. 
+
+"Cái gì? Sẽ là cái gì đâu? Chẳng lẽ khả năng có loại này tôn giáo, nó chủ yêu cầu này giáo đồ khẩn cầu mặt khác tôn giáo chủ tới cứu vớt?" 
+
+"Nàng cái kia chủ, là chân thật tồn tại." 
+
+Lời này làm ta có chút mê hoặc:"Như vậy…… Phật tổ không tồn tại sao?" Lời vừa ra khỏi miệng ta lập tức phát giác thất lễ, chạy nhanh xin lỗi. 
+
+Trưởng lão chậm rãi xua xua tay nói:"Ta nói rồi, chúng ta chi gian nói không được Phật học, Phật tổ tồn tại là ngươi không thể đủ lý giải tồn tại; mà nàng nói chủ, này đây ngươi có thể lý giải phương thức tồn tại…… Về việc này, ta không năng lực nói cho ngươi càng nhiều, chỉ là khuyên ngươi, đừng cùng nàng đi." 
+
+"Vì cái gì?" 
+
+"Ta cũng chỉ là cảm giác, cảm thấy nàng sau lưng khả năng có một ít ngươi ta đều không thể tưởng tượng sự tình." 
+
+Ta đi ra trưởng lão môn, xuyên qua chùa chiền triều chính mình chỗ ở đi đến, này đêm là trăng tròn, ta ngẩng đầu nhìn xem mặt trăng, cảm giác đó là nhìn chằm chằm ta xem một con màu bạc quái mắt, ánh trăng mang theo một cổ âm trầm hàn khí. 
+
+Ngày hôm sau, ta còn là cùng Thân Ngọc Phỉ đi rồi -- tổng không thể ở chùa miếu vẫn luôn trụ đi xuống đi -- nhưng không nghĩ tới, kế tiếp mấy năm, ta quá thượng trong mộng tưởng sinh hoạt. Thân Ngọc Phỉ thực hiện nàng lời hứa, ta có được một đài máy tính cỡ trung cùng thoải mái hoàn cảnh, còn nhiều lần xuất ngoại đi sử dụng to lớn máy tính, không phải tiến hành cùng lúc sử dụng, mà là chiếm cứ toàn bộ CPU thời gian. 
+
+Nàng rất có tiền, ta không biết nàng đâu ra nhiều như vậy tiền. Sau lại chúng ta kết hôn, không nhiều ít tình yêu cùng **, chỉ là vì hai bên sinh hoạt phương tiện mà thôi, chúng ta đều có từng người việc cần hoàn thành. Với ta mà nói, về sau mấy năm có thể dùng một ngày tới hình dung, nhật tử ở trong bình tĩnh liền đi qua. Ở kia tràng biệt thự, ta y tới thân thủ cơm tới há mồm, chỉ cần chuyên chú với Tam Thể vấn đề nghiên cứu là đến nơi. Thân Ngọc Phỉ cũng không can thiệp ta sinh hoạt, gara có ta một chiếc xe, ta có thể mở ra nó đi bất luận cái gì địa phương, ta thậm chí dám khẳng định, chính mình mang một nữ nhân về nhà nàng đều không để bụng, nàng chỉ chú ý ta nghiên cứu. Chúng ta mỗi ngày duy nhất giao lưu nội dung chính là Tam Thể vấn đề, nàng mỗi ngày đều phải hiểu biết nghiên cứu tiến triển. 
+
+"Ngươi biết Thân Ngọc Phỉ còn làm chút khác cái gì sao?" Đại Sử hỏi. 
+
+"Còn không phải là cái kia ‘ Khoa Học Biên Giới ‘ sao, nàng cả ngày liền vội cái kia, mỗi ngày trong nhà đều tới rất nhiều người." 
+
+"Nàng không có kéo ngươi gia nhập học được sao?" 
+
+"Chưa từng có, nàng thậm chí không đối ta nói qua này đó, ta cũng không quan tâm, ta chính là như vậy cá nhân, không muốn quan tâm càng nhiều sự. Nàng cũng biết rõ điểm này, nói ta là cái không có bất luận cái gì sứ mệnh cảm lười nhác người, nơi đó không thích hợp ta, ngược lại sẽ quấy nhiễu ta nghiên cứu." 
+
+"Như vậy Tam Thể nghiên cứu có tiến triển sao?" Uông Diểu hỏi. 
+
+Lấy trước mắt trên thế giới cái này nghiên cứu lĩnh vực giống nhau trạng huống tới xem, tiến triển có thể nói là đột phá tính. Mấy năm trước, California đại học Richard · Montgomery cùng Paris thứ bảy đại học Santa · Cruz, Alain · Chenciner kia, còn có nước Pháp đo nghiên cứu cơ cấu nghiên cứu nhân viên, dùng một loại gọi là"Tới gần pháp" phép tính, tìm được rồi Tam Thể vận động một loại khả năng ổn định hình thái: Ở thích hợp mới bắt đầu điều kiện hạ, Tam Thể vận hành quỹ đạo đem hình thành một cái đầu đuôi hàm tiếp 8 hình chữ. Sau lại mọi người đều ham thích với tìm kiếm loại này đặc thù ổn định trạng thái, tìm được một cái liền mừng rỡ cùng cái gì dường như, cho tới bây giờ cũng chính là tìm được rồi ba bốn loại. Kỳ thật, ta dùng thuật toán tiến hóa đã tìm được rồi một trăm nhiều loại ổn định trạng thái, đem những cái đó quỹ đạo họa ra tới, cũng đủ làm một cái hậu hiện đại phái triển lãm tranh. Nhưng này không phải mục tiêu của ta, Tam Thể vấn đề chân chính giải quyết, là thành lập như vậy một loại toán học mô hình, khiến cho Tam Thể ở bất luận cái gì một cái thời gian tiết diện mới bắt đầu vận động véc-tơ đã biết khi, có thể chính xác đoán trước Tam Thể hệ thống về sau sở hữu vận động trạng thái. 
+
+Đây cũng là Thân Ngọc Phỉ khát vọng mục tiêu. 
+
+Nhưng bình tĩnh sinh hoạt đến ngày hôm qua liền kết thúc, ta gặp chuyện phiền toái. 
+
+"Đây là ngươi muốn báo án đi?" Đại Sử hỏi. 
+
+"Đúng vậy, ngày hôm qua có cái nam nhân tới điện thoại, nói nếu ta không lập tức đình chỉ Tam Thể gian đề nghiên cứu, liền giết ta." 
+
+"Người nọ là ai?" 
+
+"Không biết." 
+
+"Số điện thoại?" 
+
+"Không biết, ta cái kia điện thoại không có điện báo biểu hiện." 
+
+"Mặt khác có quan hệ tình huống đâu?" 
+
+"Không biết." 
+
+Đại Sử cười ném thuốc lá đầu,"Phía trước xả như vậy một đại thông, cuối cùng muốn báo liền này một câu cùng mấy cái không biết?" 
+
+"Ta không xả kia một đại thông, này một câu ngươi nghe hiểu được sao ngươi? Lại nói nếu là liền điểm này chuyện này ta cũng sẽ không tới, ta người này lười sao. Hôm nay ban đêm, nga, lúc ấy là nửa đêm, ta cũng không biết là ngày hôm qua vẫn là hôm nay, ta ngủ, mơ mơ màng màng cảm thấy trên mặt có lạnh lạnh đồ vật ở động, mở mắt ra thấy được Thân Ngọc Phỉ, thật làm ta sợ muốn chết." 
+
+"Nửa đêm ở trên giường nhìn đến lão bà ngươi có cái gì đáng sợ?" 
+
+"Nàng dùng cái loại này ánh mắt xem ta, chưa từng có quá cái loại này ánh mắt, bên ngoài hoa viên ánh đèn chiếu đến trên mặt nàng, nhìn qua giống quỷ dường như. Nàng trong tay cầm một cái đồ vật, là thương! Nàng khẩu súng x ở ta trên mặt cọ, nói ta cần thiết đem Tam Thể vấn đề nghiên cứu tiến hành đi xuống, bằng không cũng giết ta." 
+
+"Ân, có chút ý tứ." Đại Sử lại điểm thượng một điếu thuốc, vừa lòng gật gật đầu. 
+
+"Cái gì kêu có ý tứ? Các ngươi xem, ta không địa phương nhưng đi, mới đến tìm các ngươi." 
+
+"Ngươi đem nàng nói với ngươi lời nói chiếu nguyên dạng nói nói." 
+
+"Nàng là nói như vậy: Nếu Tam Thể vấn đề nghiên cứu thành công, ngươi đem trở thành chúa cứu thế; nếu hiện tại đình chỉ, ngươi chính là cái tội nhân. Nếu có cá nhân cứu vớt nhân loại hoặc hủy diệt nhân loại, vậy ngươi khả năng công tích cùng tội ác, đều đem vừa lúc là hắn gấp đôi." Đại Sử phun ra nồng đậm thuốc lá sương mù, nhìn chằm chằm Ngụy Thành nhìn hảo một trận nhi ． thẳng xem đến hắn có chút bất an, sau đó từ hỗn độn trên bàn kéo quá một cái vở, cầm lấy bút."Ngươi không phải phải làm ghi chép sao? Lặp lại một lần vừa rồi kia lời nói." 
+
+Ngụy Thành lặp lại một lần sau, Uông Diểu nói:"Lời này xác thật kỳ quái ． như thế nào vừa lúc là gấp đôi đâu?" 
+
+Ngụy Thành chớp chớp mắt đối Đại Sử nói:"Xem ra việc này rất nghiêm trọng? Lúc ta tới cái kia trực ban vừa thấy ta, khiến cho ta tới tìm ngươi, nguyên lai ta sớm tại nơi này treo lên hào." 
+
+Đại Sử gật gật đầu,"Hỏi lại một chuyện nhi: Ngươi cảm thấy lão bà ngươi kia chi thương là thật vậy chăng?" Nhìn đến Ngụy Thành không biết như thế nào trả lời, hắn lại nói,"Có thương mùi dầu sao?" 
+
+"Có, khẳng định có mùi dầu!" 
+
+"Kia hảo." Ngồi ở trên bàn Đại Sử nhảy xuống nói,"Cuối cùng tìm được một cái cơ hội, phi pháp kiềm giữ súng ống hiềm nghi, là cái miễn cưỡng nói được quá khứ điều tra lý do, thủ tục ngày mai lại bổ đi ． chúng ta đến lập tức hành động." Hắn chuyển hướng Uông Diểu nói,"Này còn phải vất vả ngươi đi theo đi lại tham mưu tham mưu." Sau đó hắn đối vẫn luôn không nói chuyện từ băng băng nói,"Tiểu từ, hiện tại chuyên án tổ trực ban chỉ có hai người, không đủ, biết các ngươi tin tức chỗ đều là kim chi ngọc diệp, nhưng hôm nay ngươi cái này chuyên gia đến ra lần này công việc bên ngoài." Từ băng băng thực nhanh lên gật đầu, nàng ước gì mau chút rời đi cái này thuốc lá sương mù hôi hổi địa phương. 
+
+Chấp hành lần này điều tra nhiệm vụ trừ bỏ Đại Sử cùng tiểu từ, còn có hai gã trực ban hình cảnh. Hơn nữa Uông Diểu cùng Ngụy Thành, một hàng sáu người phân thừa hai lượng xe cảnh sát, xuyên qua sáng sớm trước nhất hắc ám bóng đêm, sử hướng cái kia thành thị bên cạnh khu biệt thự. 
+
+Từ băng băng cùng Uông Diểu ngồi ở xếp sau, xe mới vừa khai, nàng liền nói khẽ với Uông Diểu nói:"Uông lão sư, ngươi ở 《 Tam Thể 》 trung uy vọng giá trị rất cao." 
+Trong thế giới hiện thực lại có người nhắc tới 《 Tam Thể 》, Uông Diểu một trận kích động, cảm giác chính mình cùng cái này xuyên cảnh phục nữ hài khoảng cách lập tức kéo gần lại. 
+
+"Ngươi cũng chơi?" 
+
+"Ta phụ trách giám thị cùng truy tung nó, khổ sai sự một cái." 
+
+Uông Diểu vội vàng mà nói:"Ngươi có thể hay không nói cho ta một ít về nó tình huống, ta thật sự rất muốn biết." 
+
+Nương ngoài cửa sổ xe thấu tiến mỏng manh ánh đèn, Uông Diểu nhìn đến từ băng băng thần bí mà cười. 
+
+"Chúng ta cũng muốn biết đâu, nhưng nó server ở ngoại cảnh, hệ thống cùng tường phòng cháy đều thực kín mít, không hảo tiến a. Hiện tại biết đến tình huống không nhiều lắm: Nó khẳng định thị phi doanh thu, trò chơi phần mềm trình độ rất cao, thậm chí có thể nói cao đến không bình thường, còn có trong đó tin tức lượng, ngài cũng biết, càng không bình thường, này chỗ nào giống một cái trò chơi a!" 
+
+"Phương diện này, có hay không cái gì……" Uông Diểu cẩn thận mà châm chước từ ngữ,"Giống như siêu tự nhiên dấu hiệu." 
+
+"Này chúng ta đảo cảm thấy không có, tham gia trò chơi này biên trình người rất nhiều, trải rộng thế giới các nơi, khai phá phương thức rất giống mấy năm trước hồng quá một trận nhi Linux, nhưng lần này, khẳng định sử dụng nào đó thực vượt mức quy định khai phá công cụ. Đến nỗi những cái đó tin tức, quỷ tài biết chúng nó là từ đâu nhi tới, kia cũng thật có chút…… Ngài nói siêu tự nhiên, bất quá chúng ta vẫn là tin tưởng sử đội câu kia danh ngôn, này hết thảy khẳng định đều là nhân vi. Chúng ta truy tung vẫn là thành công hiệu, thực mau sẽ có kết quả." 
+
+Cô nương rốt cuộc vẫn là bất lão luyện, cuối cùng những lời này sử Uông Diểu minh bạch nàng gạt chính mình rất nhiều."Hắn kia lời nói thành danh ngôn?" Uông Diểu nhìn xem phía trước lái xe Đại Sử nói. 
+
+Tới biệt thự khi trời còn chưa sáng, biệt thự thượng tầng có một phòng đèn sáng ． mặt khác cửa sổ đều hắc. Uông Diểu mới vừa đi xuống xe, lập tức nghe được trên lầu phát ra thanh âm, hợp với vài tiếng, như là thứ gì ở chụp tường. Mới vừa xuống xe Đại Sử nghe thế thanh âm sau lập tức cảnh giác lên, một chân đá văng hờ khép viện môn, lấy cùng hắn kia cường tráng thân hình không tương xứng nhanh nhẹn bay nhanh vọt vào biệt thự, hắn ba gã đồng sự theo sau theo vào. Uông Diểu cùng Ngụy Thành đi theo vào biệt thự, từ phòng khách lên lầu hai, đi vào kia gian mở ra môn đèn sáng phòng, đế giày"Bạch bạch" mà đạp ở đang ở hướng ra phía ngoài chảy xuôi vũng máu trung -- ngày đó ban đêm cũng là lúc này, Uông Diểu chính là ở cái này phòng nhìn đến Thân Ngọc Phỉ ở chơi 《 Tam Thể 》-- hiện tại, nàng nằm thẳng ở phòng ở giữa, trước ngực hai cái lỗ đạn còn ở dũng huyết, đệ tam viên viên đạn từ tả ấn đường lọt vào, khiến nàng toàn bộ mặt đều hồ ở huyết trung, ở cự nàng cách đó không xa, một chi súng lục ngâm ở huyết. 
+
+Uông Diểu tiến vào khi, chính đuổi kịp Đại Sử cùng hắn một vị nam đồng sự lao tới, vào đối diện một gian mở ra môn hắc đèn phòng, kia phòng cửa sổ mở rộng ra, Uông Diểu nghe được bên ngoài có ô tô phát động thanh âm. Một người nam cảnh sát bắt đầu gọi điện thoại, từ băng băng xa xa mà đứng ở một bên khẩn trương mà nhìn, nàng đại khái cùng Uông Diểu bọn họ giống nhau, cũng là lần đầu tiên nhìn thấy trận này mặt. Đại Sử thực mau trở lại, một bên khẩu súng cắm hồi trước ngực bộ trung, một bên đối cái kia gọi điện thoại đồng sự nói:"Màu đen Santana, chỉ có một người, xe hào thấy không rõ, làm cho bọn họ trọng điểm phong tỏa năm hoàn nhập khẩu, nãi nãi, khả năng muốn cho hắn lưu." Đại Sử nhìn quanh bốn phía, thấy được trên tường mấy cái lổ đạn, lại nhìn lướt qua trên mặt đất rơi rụng vỏ đạn, nói,"Đối phương khai năm thương, đánh trúng tam thương; nàng khai hai thương, cũng chưa trung." Sau đó ngồi xổm xuống cùng nam đồng sự cùng nhau kiểm nghiệm thi thể. Tiểu từ vẫn xa xa đứng, trộm nhìn đứng ở nàng bên cạnh Ngụy Thành liếc mắt một cái, Đại Sử cũng ngẩng đầu nhìn hắn liếc mắt một cái. Ngụy Thành trên mặt có một tia khiếp sợ, một tia bi ai, nhưng cũng gần là một tia mà thôi, hắn kia cố hữu đờ đẫn vẫn không có bị đánh vỡ, so với Uông Diểu tới, hắn trấn tĩnh nhiều. 
+
+"Ngươi giống như không sao cả a, người nọ có thể là tới giết ngươi." Đại Sử đối Ngụy Thành nói. 
+
+Ngụy Thành cư nhiên cười một chút, thê thảm cười."Ta có thể thế nào? Đến bây giờ, đối nàng ta kỳ thật là hoàn toàn không biết gì cả, ta không ngừng một lần khuyên nàng đem sinh hoạt quá đến đơn giản chút, nhưng…… Ai, ngẫm lại năm đó đêm đó trưởng lão khuyên ta nói đi." 
+
+Đại Sử đứng lên, đi đến Ngụy Thành trước mặt, móc ra thuốc lá tới điểm thượng một chi,"Ngươi tổng còn có chút tình huống không nói cho chúng ta biết đi?" 
+
+"Có một số việc, ta lười đến nói." 
+
+"Vậy ngươi hiện tại nhưng đến cần mẫn chút!" 
+
+Ngụy Thành nghĩ nghĩ nói:"Hôm nay, nga, là ngày hôm qua buổi chiều, nàng ở phòng khách cùng một người nam nhân cãi nhau, chính là cái kia Phan Hàn, trứ danh bảo vệ môi trường chủ nghĩa giả. Bọn họ trước kia cũng cãi nhau vài lần giá, dùng chính là Nhật ngữ, giống như sợ ta nghe được, nhưng ngày hôm qua bọn họ cái gì cũng không để ý, nói chính là tiếng Trung Quốc, ta nghe được vài câu." 
+
+"Ngươi tận lực ấn nguyên nói." 
+
+"Hảo đi. Phan Hàn nói: Chúng ta này đó mặt ngoài đi đến cùng nhau người, trên thực tế là ở vào hai cái cực đoan địch nhân! Thân Ngọc Phỉ nói: Đúng vậy, các ngươi nương chủ lực lượng phản đối nhân loại. Phan Hàn nói: Ngươi như vậy lý giải cũng không phải hoàn toàn không có đạo lý, chúng ta yêu cầu chủ buông xuống thế giới, trừng phạt những cái đó đã sớm nên đã chịu trừng phạt tội ác, mà ngươi ở ngăn cản loại này buông xuống, cho nên chúng ta thế bất lưỡng lập, các ngươi nếu là không ngừng ngăn, chúng ta sẽ làm các ngươi đình chỉ! Thân Ngọc Phỉ nói: Cho các ngươi này đó ma quỷ tiến người tổ chức, Thủ lĩnh thật mắt bị mù! Phan Hàn nói: Nói đến Thủ lĩnh, Thủ lĩnh là nào nhất phái? Phe đổ bộ vẫn là Phe cứu thế, ngươi nói được thanh? Phan Hàn lời này làm Thân Ngọc Phỉ trầm mặc hảo một trận nhi, sau đó hai người nói chuyện liền không lớn tiếng như vậy kịch liệt, ta cũng lại không nghe được." 
+
+"Trong điện thoại uy hiếp ngươi người kia, hắn thanh âm giống ai?" 
+
+"Ngươi là nói giống Phan Hàn sao? Không biết, lúc ấy thanh âm rất nhỏ, ta nghe không hiểu." 
+
+Lại có mấy lượng xe cảnh sát minh còi cảnh sát ngừng ở bên ngoài, một đám mang bao tay trắng cầm cameras cảnh sát đi lên lâu tới, biệt thự công việc lu bù lên. Đại Sử làm Uông Diểu đi về trước nghỉ ngơi, Uông Diểu đi đến kia gian có máy tính cỡ trung trong phòng tìm được rồi Ngụy Thành. 
+
+"Cái kia Tam Thể vấn đề thuật toán tiến hóa mô hình, ngài có thể hay không cho ta một phần điểm chính linh tinh đồ vật, ta tưởng ở…… Một cái trường hợp giới thiệu một chút, này yêu cầu thực đường đột, nếu không được liền tính." 
+
+Ngụy Thành lấy ra một cái ba tấc đĩa CD đưa cho Uông Diểu."Đều ở bên trong này, toàn bộ mô hình cùng phụ gia hồ sơ. Ngươi nếu là tưởng rất tốt với ta, liền dùng tên của mình đem nó phát biểu, kia thật giúp ta đại ân." 
+
+"Không không, sao có thể!" 
+
+Ngụy Thành chỉ vào Uông Diểu trong tay đĩa CD nói:"Uông giáo sư, kỳ thật trước kia ngươi tới thời điểm ta liền chú ý tới ngươi, ngươi là người tốt, có trách nhiệm tâm người tốt, cho nên, ta còn là khuyên ngươi ly thứ này xa chút, thế giới liền phải phát sinh đột biến, mỗi người có thể tận lực bình an mà tống cổ xong quãng đời còn lại, chính là rất may, khác không cần tưởng quá nhiều, dù sao vô dụng." 
+
+"Ngươi giống như còn biết càng nhiều sự?" 
+
+"Mỗi ngày cùng nàng ở bên nhau ． không có khả năng cái gì cũng không biết." 
+
+"Kia vì cái gì không nói cho cảnh sát đâu?" 
+
+Ngụy Thành khinh thường mà cười:"Xuy, cảnh sát tính cái chó má, thượng đế tới cũng chưa dùng, hiện tại toàn nhân loại đã tới rồi ‘ kêu trời thiên không đáp, kêu mà mà không ứng ‘ nông nỗi." 
+
+Ngụy Thành đứng ở dựa đông bên cửa sổ, ở thành thị cao lầu đàn mặt sau không trung nắng sớm sơ hiện, không biết vì cái gì, cái này làm cho Uông Diểu nghĩ tới mỗi lần tiến vào 《 Tam Thể 》 khi nhìn đến quỷ dị sáng sớm. 
+
+"Kỳ thật ta cũng không phải như vậy siêu thoát, mấy ngày nay đều là suốt đêm ngủ không được, buổi sáng lên từ nơi này nhìn đến mặt trời mọc khi, tổng cảm thấy là mặt trời lặn." Hắn chuyển hướng Uông Diểu, trầm mặc thật lâu sau sau nói,"Kỳ thật này hết thảy đều ở chỗ, thượng đế, hoặc nàng nói chủ, tự thân khó bảo toàn."Chương 17: Bài toán ba vật thể
+
+
+
+Uông Diểu vừa mới rời khỏi trò chơi, điện thoại vang, là Đại Sử đánh tới, nói có chuyện khẩn cấp, làm hắn lập tức đến trọng án tổ văn phòng đi một chuyến, Uông Diểu nhìn xem biểu, đã là rạng sáng tam điểm. 
+
+Uông Diểu đi vào Đại Sử hỗn độn văn phòng khi, thấy nơi đó đã bị hắn trừu đến vân chưng sương mù vòng, khiến cho ở văn phòng trung một vị khác tuổi trẻ nữ cảnh không ngừng dùng ký lục bổn ở cái mũi trước vỗ. Đại Sử giới thiệu nói nàng kêu từ băng băng, máy tính chuyên gia, là tin tức an toàn bộ môn. Văn phòng trung người thứ ba lệnh Uông Diểu thực giật mình, cư nhiên là Thân Ngọc Phỉ trượng phu Ngụy Thành, tóc rối bời, hắn ngẩng đầu nhìn xem Uông Diểu ． giống như đã quên mất bọn họ đã gặp mặt. 
+
+"Ngượng ngùng quấy rầy, bất quá ta xem ngươi cũng không ngủ đi. Nơi này có một số việc nhi, còn không có hội báo tác chiến trung tâm, đại khái yêu cầu ngươi tham mưu tham mưu." Đại Sử đối Uông Diểu nói, sau đó chuyển hướng Ngụy Thành,"Ngươi nói đi." 
+
+"Ta nói rồi, ta sinh mệnh đã chịu uy hiếp." Ngụy Thành nói, trên mặt lại là một bộ đờ đẫn biểu tình. 
+
+"Từ đầu nói lên đi." 
+
+"Hảo, từ đầu nói, không cần chê ta phiền toái, ta gần nhất thật đúng là muốn tìm người ta nói nói chuyện……" Ngụy Thành nói quay đầu nhìn xem từ băng băng,"Không làm ghi chép gì đó sao?" 
+
+"Hiện tại không cần, trước kia không ai cùng ngươi nói chuyện?" Đại Sử không mất thời cơ hỏi. 
+
+"Cũng không phải. Ta lười đến nói, ta là cái lười nhác người." 
+
+Dưới là Ngụy Thành tự thuật: 
+
+Ta là cái lười nhác người, từ nhỏ chính là, trọ ở trường khi chén chưa bao giờ tẩy. Chăn chưa bao giờ giặt, đối cái gì đều nhấc không nổi hứng thú, lười đến học tập, thậm chí lười đến chơi, mỗi ngày mơ mơ màng màng mà không lý tưởng. Nhưng ta biết chính mình có một ít vượt qua thường nhân tài năng, tỷ như ngươi họa một cây tuyến, ta ở tuyến thượng đồng dạng nói, vị trí khẳng định ở 0. 618 trung tỉ lệ chỗ. Các bạn học nói ta thích hợp đương thợ mộc, nhưng ta cảm thấy đây là càng cao cấp tài năng, là đối số cùng hình một loại trực giác. Kỳ thật ta toán học cùng mặt khác chương trình học giống nhau, thành tích hỏng bét, ta lười đến suy luận, khảo thí khi liền đem chính mình đoán mò ra tới đáp án trực tiếp viết đi lên, cũng có thể đoán đúng 100%, nhưng như vậy lấy không được cao phân. 
+
+Cao nhị khi, một vị toán học lão sư chú ý tới ta, khi đó, trung học giáo viên trung chính là ngọa hổ tàng long,"Văn cách" trung rất nhiều có tài hoa người đều lưu lạc đến trung học đi dạy học, hắn chính là như vậy một người. Có một ngày tan học sau hắn đem ta lưu lại, ở bảng đen thượng viết mười mấy dãy số, làm ta trực tiếp viết ra chúng nó tính tổng công thức. Ta thực mau viết ra trong đó một bộ phận, trên cơ bản đều đúng, còn lại ta liếc mắt một cái liền nhìn ra là dãy phân kỳ. Lão sư lấy ra một quyển sách, là 《 Holmes tra án tập 》, hắn phiên đến một thiên, hình như là 《 chiếc nhẫn tình cờ 》 đi, có một đoạn đại ý là như thế này: Watson nhìn đến dưới lầu có cái quần áo bình thường người ở truyền tin, liền chỉ cấp Holmes xem, Holmes nói ngươi là chỉ cái kia xuất ngũ hải quân quân tào sao? Watson rất kỳ quái Holmes là như thế nào suy đoán ra thân phận của hắn, Holmes chính mình cũng không rõ ràng lắm, suy nghĩ nửa ngày mới lý ra trinh thám quá trình, xem người nọ tay, cử chỉ lạp từ từ. Hắn nói này không kỳ quái, người khác cũng rất khó nói ra bản thân là như thế nào suy đoán ra"2+2=4". 
+
+Lão sư khép lại thư đối ta nói: Ngươi chính là như vậy, ngươi suy luận quá nhanh, hơn nữa là bản năng, cho nên tự mình ý thức không đến. Hắn hỏi tiếp ta: Nhìn đến một chuỗi con số, ngươi có cái gì cảm giác? Ta là hỏi cảm giác. Ta nói bất luận cái gì con số tổ hợp đối với ta đều là một loại lập thể hình thể, ta đương nhiên nói không rõ cái gì con số là cái gì hình dạng, nhưng nó xác thật biểu hiện vì một loại hình thể. Kia nhìn đến hình hình học đâu? Lão sư truy vấn, ta nói cùng mặt trên tương phản, ở ta đầu chỗ sâu trong không có đồ hình, hết thảy đều hóa thành con số, tựa như ngươi để sát vào xem báo chí thượng ảnh chụp, đều là điểm nhỏ nhi ( đương nhiên hiện tại báo chí ảnh chụp không phải như vậy nhi ). 
+
+Lão sư nói ngươi thật sự rất có toán học thiên phú ． nhưng là, nhưng là…… Hắn nói thật nhiều cái nhưng là, qua lại đi tới, giống như ta là cái thực khó giải quyết đồ vật, không biết như thế nào xử lý dường như. Nhưng là ngươi này hào người sẽ không quý trọng chính mình thiên phú, hắn nói. Suy nghĩ hơn nửa ngày, hắn giống như từ bỏ, nói vậy ngươi liền đi tham gia tháng sau khu toán học thi đua đi, ta cũng không phụ đạo ngươi, đối với ngươi này hào người, uổng phí kính, chỉ là ngươi giải bài thi khi nhất định phải đem suy luận quá trình viết đi lên. Vì thế ta liền đi thi đua, từ khu vẫn luôn tái đi lên, tái đến Budapest Olympic toán học thi đua, tất cả đều là quán quân. Sau khi trở về đã bị một khu nhà nhất lưu đại học toán học hệ miễn thí tuyển chọn…… 
+
+Ta nói này đó các ngươi không phiền đi? A, hảo, kỳ thật muốn nói thanh mặt sau chuyện này, này đó vẫn là cần thiết nói. Cái kia cao trung lão sư nói đối với, ta sẽ không quý hiếm chính mình, khoa chính quy thạc mười tiến sĩ đều cà lơ phất phơ, nhưng cư nhiên đều lại đây. Vừa đến xã hội thượng, mới phát hiện chính mình là cái chính cống phế vật, trừ bỏ toán học gì cũng sẽ không, ở phức tạp nhân tế quan hệ trung ở vào nửa giấc ngủ trạng thái, càng hỗn càng thứ; sau lại đến đại học dạy học đi, cũng hỗn không đi xuống, dạy học thượng nghiêm túc không đứng dậy, ta ở bảng đen thượng viết một câu"Dễ dàng chứng minh", học sinh phía dưới phải mân mê nửa ngày, sau lại làm mạt vị đào thải, khóa cũng không đến dạy. Dừng ở đây, ta đối này hết thảy đều chán ghét, liền mang theo đơn giản hành lý đi phía nam một tòa núi sâu trung chùa miếu. 
+
+Nga, ta không phải đi xuất gia, ta lười đến xuất gia, chỉ là muốn tìm cái chân chính thanh tĩnh chỗ ở một trận nhi. Nơi đó trưởng lão là ta phụ thân một cái lão hữu, học vấn rất sâu, lại ở lúc tuổi già xuất gia, chiếu phụ thân nói đi, đến hắn tầng này thứ, cũng liền này một cái lộ. Vị kia trưởng lão thu lưu ta trụ hạ, ta đối hắn nói, muốn tìm cái thanh tĩnh bớt lo phương thức hỗn xong đời này tính. Trưởng lão nói, nơi này cũng không thanh tĩnh, là du lịch khu, dâng hương người cũng rất nhiều; đại ẩn ẩn với thị, muốn thanh tĩnh bớt lo, chính mình phải "không". Ta nói ta đủ "không", danh lợi với ta liền mây bay đều không tính là, ngươi trong miếu những cái đó tăng nhân đều so với ta có nhiều hơn phàm tâm. Trưởng lão lắc đầu: "Không" không phải vô, "Không" là một loại tồn tại, ngươi đắc dụng không loại này tồn tại lấp đầy chính mình. Lời này đối ta rất có dẫn dắt, sau lại ngẫm lại, này căn bản không phải Phật gia lý niệm, đảo giống hiện đại nào đó vật lý học lý luận. Trưởng lão cũng nói, hắn sẽ không cùng ta nói Phật, lý do cùng vị kia trung học lão sư giống nhau: Đối ta này hào người vô dụng. 
+
+Ngày đầu tiên buổi tối, ở chùa chiền trong phòng nhỏ ta ngủ không xem, không nghĩ tới này thế ngoại đào nguyên là như thế không thoải mái, đệm chăn đều ở sơn sương mù trung biến triều, giường ngạnh bang bang. Vì thế, vì thôi miên, ta liền ý đồ ấn trưởng lão nói như vậy, dùng"Không" tới bỏ thêm vào chính mình: Ta tại ý thức trung sáng tạo cái thứ nhất"Không" là bát ngát vũ trụ, trong đó cái gì đều không có, liền quang đều không có, trống trơn. Thực mau cảm thấy này trống không một vật vũ trụ căn bản không thể sử chính mình cảm thấy yên lặng, thân ở trong đó ngược lại sẽ cảm thấy một loại mạc danh nôn nóng bất an, có một loại rơi xuống nước giả tưởng tùy tiện bắt lấy chút thứ gì **. 
+
+Vì thế ta cấp chính mình tại đây vô hạn không gian trung sáng tạo một cái hình cầu, không lớn, có chất lượng hình cầu. Nhưng cảm giác cũng không có hảo lên, kia hình cầu huyền phù ở"Không" ở giữa ( đối với vô hạn không gian, bất luận cái gì một chỗ đều là ở giữa ), cái kia vũ trụ trung không có bất cứ thứ gì tác dụng với nó, nó cũng không có bất cứ thứ gì có thể tác dụng. Nó treo ở nơi đó, vĩnh viễn sẽ không làm chút nào vận động, vĩnh viễn sẽ không có chút nào biến hóa, thật là đối tử vong nhất đúng chỗ thuyết minh. 
+
+Ta sáng tạo cái thứ hai cầu, cùng nguyên lai cầu lớn nhỏ chất lượng bằng nhau, chúng nó mặt ngoài đều là phản xạ toàn phần kính mặt, cho nhau ánh đối phương giống, ánh trừ nó chính mình ở ngoài vũ trụ trung duy nhất một cái tồn tại. Nhưng tình huống cũng không có hảo bao nhiêu: Nếu cầu không có mới bắt đầu vận động, cũng chính là ta đệ nhất thúc đẩy, chúng nó thực mau sẽ bị từng người dẫn lực kéo đến một khối, sau đó hai cái cầu cho nhau dựa vào treo ở nơi đó vẫn không nhúc nhích, vẫn là một cái tử vong ký hiệu. Nếu có mới bắt đầu vận động thả không chạm vào nhau, chúng nó liền sẽ ở từng người dẫn lực dưới tác dụng lẫn nhau quay chung quanh đối phương xoay tròn, mặc kệ ngươi như thế nào khởi động lại, kia xoay tròn cuối cùng đều sẽ cố định xuống dưới, vĩnh viễn bất biến, tử vong vũ đạo. 
+
+Ta lại dẫn vào cái thứ ba hình cầu, tình huống đã xảy ra làm ta khiếp sợ biến hóa. Phía trước nói qua, bất luận cái gì đồ hình ở ta ý thức chỗ sâu trong đều là con số hóa, phía trước vô cầu, một cầu cùng nhị cầu vũ trụ biểu hiện vì một cái hoặc ít ỏi mấy cái miêu tả nó phương trình, giống vài miếng cuối mùa thu lá rụng. Nhưng này cái thứ ba hình cầu là điểm thượng"Không" chi vẽ rồng điểm mắt , tam cầu vũ trụ lập tức trở nên phức tạp lên, ba cái bị giao cho mới bắt đầu vận động hình cầu ở vũ trụ trung tiến hành phức tạp, tựa hồ vĩnh không lặp lại vận động, miêu tả phương trình như mưa to xuất hiện, không ngừng nghỉ. Ta cứ như vậy tiến vào mộng đẹp, tam cầu ở trong mộng vẫn luôn vũ đạo, vô quy luật vĩnh không lặp lại vũ đạo. Nhưng ở ta ý thức chỗ sâu trong, này vũ đạo là có tiết tấu, chỉ là lặp lại chu kỳ vô hạn trường mà thôi, cái này làm cho ta mê muội, ta muốn miêu tả ra cái này chu kỳ một bộ phận hoặc toàn bộ. 
+
+Ngày hôm sau ta vẫn luôn nghĩ đến kia ba cái ở"Không" trung vũ đạo cầu, tư tưởng chưa bao giờ có giống như vậy toàn công suất chuyển động quá, thế cho nên có tăng nhân hỏi trưởng lão ta tinh thần có phải hay không ra cái gì tật xấu, trưởng lão cười nói: Không có việc gì, hắn tìm được rồi không. Đúng vậy, ta tìm được rồi không, hiện tại ta có thể ẩn với thị, chính là đặt mình trong hi nhương trong đám người, ta nội tâm cũng là vô cùng thanh tĩnh. Ta lần đầu tiên hưởng thụ tới rồi toán học lạc thú, Tam Thể vấn đề ( chú: Ba cái chất lượng tương đồng hoặc gần vật thể ở lẫn nhau dẫn lực dưới tác dụng như thế nào vận động vấn đề, là cổ điển vật lý học kinh điển vấn đề, đối thiên thể vận động nghiên cứu có quan trọng ý nghĩa, tự mười sáu thế kỷ tới nay vẫn luôn đã chịu chú ý. Thụy Sĩ toán học gia Euler, nước Pháp toán học gia Joseph Lagrange, cùng với năm gần đây một ít mượn dùng với máy tính nghiên cứu học giả, đều tìm ra Tam Thể vấn đề nào đó đặc giải. ) vật lý nguyên lý thực đơn thuần, kỳ thật là một số học vấn đề. Lúc này, ta tựa như một cái nửa đời tìm hoa hỏi liễu phóng đãng giả đột nhiên cảm nhận được tình yêu. 
+
+"Ngươi không biết Poincare sao? ( chú: Mười chín thế kỷ nước Pháp toán học gia, từng chứng minh rồi Tam Thể vấn đề ở toán học thượng không thể giải, cũng từ Tam Thể vấn đề xuất phát, ở vi phân phương trình vấn đề thượng sáng tạo tân toán học phương pháp. )" Uông Diểu đánh gãy Ngụy Thành hỏi. 
+
+Lúc ấy không biết, học toán học không biết Poincare là không đúng, nhưng ta bất kính ngưỡng đại sư, chính mình cũng không nghĩ thành đại sư, cho nên không biết. Nhưng liền tính lúc ấy biết Poincare ta cũng sẽ tiếp tục đối Tam Thể vấn đề nghiên cứu. Toàn thế giới đều cho rằng người này chứng minh rồi Tam Thể vấn đề không thể giải, nhưng ta cảm thấy có thể là cái hiểu lầm, hắn chỉ là chứng minh rồi mới bắt đầu điều kiện mẫn cảm tính, chứng minh rồi Tam Thể hệ thống là một cái không thể tích phân hệ thống, nhưng mẫn cảm tính không phải là hoàn toàn không xác định, chỉ là loại này xác định tính bao hàm số lượng càng thêm thật lớn bất đồng hình thái, hiện tại phải làm chính là tìm được một loại tân phép tính. Lúc ấy ta lập tức nghĩ tới một thứ: Ngươi nghe nói qua ‘ Monte Carlo phương pháp ‘ sao? Nga, đó là một loại tính toán bất quy tắc đồ hình diện tích máy tính trình tự phép tính, cụ thể cách làm là ở phần mềm có ích đại lượng tiểu cầu tùy cơ đập kia khối bất quy tắc đồ hình, bị đánh trúng địa phương không hề lặp lại đả kích, như vậy, đạt tới nhất định số lượng sau, đồ hình sở hữu bộ phận liền sẽ đều bị đánh trúng một lần, lúc này thống kê đồ hình khu vực nội tiểu cầu số lượng, phải tới rồi đồ hình diện tích, đương nhiên, cầu càng nhỏ kết quả càng chính xác. 
+
+Loại này phương pháp tuy rằng đơn giản, lại triển lãm toán học trung một loại dùng tùy cơ cậy mạnh đối kháng chính xác logic tư tưởng phương pháp, một loại dùng số lượng được đến chất lượng tính toán tư tưởng. Đây là ta giải quyết Tam Thể vấn đề sách lược. 
+Ta nghiên cứu Tam Thể vận động bất luận cái gì một cái thời gian tiết diện, ở cái này tiết diện thượng, các cầu vận động véc-tơ có vô hạn tổ hợp, ta đem mỗi một loại tổ hợp coi như một loại cùng loại với sinh vật đồ vật, mấu chốt là muốn xác định một cái quy tắc: Loại nào tổ hợp vận hành xu thế là"Khỏe mạnh" cùng"Có lợi", loại nào là"Bất lợi" cùng"Có làm hại", làm người trước đạt được sinh tồn ưu thế, người sau tắc sinh ra sinh tồn khó khăn, ở tính toán trung cứ như vậy khôn sống mống chết, cuối cùng sinh tồn xuống dưới chính là đối Tam Thể tiếp theo tiết diện vận động trạng thái chính xác đoán trước. 
+
+"Thuật toán tiến hóa." Uông Diểu nói: 
+
+"Thỉnh ngươi tới vẫn là đúng rồi." Đại Sử đối Uông Diểu gật gật đầu. 
+
+Đúng vậy, ta là đến sau lại mới nghe nói cái này danh từ. Loại này phép tính đặc điểm chính là rộng lượng tính toán, tính toán lượng siêu cấp thật lớn, đối với Tam Thể vấn đề, hiện có máy tính là không được. Mà lúc ấy ta ở chùa miếu liền cái tính toán khí đều không có, chỉ có từ phòng thu chi thảo tới một quyển không sổ sách cùng một chi bút chì: Ta bắt đầu trên giấy thành lập toán học mô hình, này lượng công việc rất lớn, thực mau dùng xong rồi mười mấy không sổ sách, khiến cho quản trướng hòa thượng oán khí tận trời. Nhưng ở trưởng lão yêu cầu hạ, bọn họ vẫn là cho ta tìm tới càng nhiều giấy cùng bút. Ta đem viết tốt tính toán bản thảo phóng tới gối đầu phía dưới, phế bỏ liền ném tới trong viện lư hương trung. 
+
+Hôm nay chạng vạng, một vị nữ nhân trẻ tuổi đột nhiên xông vào ta trong phòng, đây là ta nơi này lần đầu tiên có nữ nhân tiến vào, nàng trong tay cầm mấy trương bên cạnh đốt trọi giấy, đó là ta vứt đi tính bản thảo. 
+
+"Bọn họ nói đây là ngươi, ngươi ở nghiên cứu Tam Thể vấn đề?" Nàng vội vàng hỏi, mắt to kính mặt sau cặp mắt kia giống trứ hỏa dường như. Người này làm ta thực khiếp sợ, ta chọn dùng thị phi thường quy toán học phương pháp, thả suy luận nhảy lên tính rất lớn, nàng thế nhưng có thể từ mấy trương phế tính bản thảo trông được ra nghiên cứu đối tượng, này toán học năng lực không giống bình thường. Đồng thời cũng có thể khẳng định, nàng cùng ta giống nhau, thực đầu nhập mà chú ý Tam Thể vấn đề. Ta đối tới này một du khách cùng khách hành hương cũng chưa cái gì ấn tượng tốt, những cái đó du khách căn bản không biết là tới nhìn cái gì, chỉ là đông chạy tây thoán mà chụp ảnh; mà những cái đó khách hành hương, nhìn qua phổ biến so du khách nghèo đến nhiều, đều ở vào một loại chết lặng trí lực ức chế trạng thái. Cái này cô nương lại bất đồng, rất có học giả khí chất, sau lại biết nàng là cùng đàn Nhật Bản du khách cùng nhau tới. 
+
+Không đợi ta trả lời, nàng lại nói:"Suy nghĩ của ngươi thật cao minh, chúng ta vẫn luôn đang tìm kiếm loại này phương pháp, đem Tam Thể vấn đề khó khăn chuyển hóa vì thật lớn tính toán lượng. Nhưng này yêu cầu rất lớn máy tính mới được." 
+
+"Đem toàn thế giới sở hữu đại kế tính cơ đều dùng tới cũng không được." Ta lời nói thật nói cho nàng. 
+
+"Nhưng ngươi dù sao cũng phải có một cái không có trở ngại nghiên cứu hoàn cảnh mới được, nơi này cái gì đều không có. Ta có thể cho ngươi có cơ hội sử dụng to lớn máy tính, còn có thể tặng cho ngươi một đài máy tính cỡ trung, sáng mai, chúng ta cùng nhau xuống núi." 
+
+Nàng chính là Thân Ngọc Phỉ, cùng hiện tại giống nhau, ngắn gọn mà **, nhưng so hiện tại phải có lực hấp dẫn. Ta trời sinh tính lãnh đạm, đối nữ tính, ta so chung quanh này đó hòa thượng càng không có hứng thú, nhưng nàng thực đặc thù, nàng kia nhất không nữ nhân vị nữ nhân vị hấp dẫn ta, dù sao ta cũng là cái người rảnh rỗi, liền lập tức đáp ứng rồi nàng. 
+
+Ban đêm, ta ngủ không được, khoác áo đi vào chùa chiền, xa xa mà, ở tối tăm triều đình thấy được Thân Ngọc Phỉ thân ảnh, nàng đang ở phật tượng trước thắp hương, nhất cử nhất động đều là thực dáng vóc tiều tụy. Ta nhẹ nhàng đi qua đi, đi đến triều đình ngạch cửa ngoại khi, nghe được nàng nhẹ giọng niệm ra một câu khẩn cầu: 
+
+"Phật tổ phù hộ Chúa tôi thoát ly khổ hải." 
+
+Ta cho rằng nghe lầm, nhưng nàng lại tụng ngâm một lần: 
+
+"Phật tổ phù hộ Chúa tôi thoát ly khổ hải." 
+
+Ta không hiểu bất luận cái gì tôn giáo cũng không có hứng thú, nhưng xác thật tưởng tượng không ra so này càng ly kỳ cầu nguyện, không khỏi buột miệng thốt ra:"Ngươi đang nói cái gì?!" 
+
+Thân Ngọc Phỉ chút nào không để ý đến ta tồn tại, vẫn cứ khép hờ hai mắt đôi tay hợp thành chữ thập, giống như đang nhìn nàng khẩn cầu theo thuốc lá lượn lờ lên tới Phật tổ nơi đó. Qua hảo một trận nhi, nàng mới mở to mắt chuyển hướng ta. 
+
+"Đi ngủ đi, ngày mai sớm chút đi." Nàng nói, cũng không thèm nhìn tới ta. 
+
+"Ngươi vừa rồi nói ‘Chúa tôi ‘, là ở Phật giáo sao?" Ta hỏi. 
+
+"Không ở." 
+
+"Kia……" 
+
+Thân Ngọc Phỉ không nói một lời, bước nhanh rời đi, ta chưa kịp hỏi lại cái gì. Ta nhất biến biến mặc niệm câu kia cầu nguyện, càng niệm càng cảm giác quái dị, sau lại có một loại nói không nên lời khủng bố cảm, vì thế bước nhanh đi đến trưởng lão chỗ ở, gõ khai hắn môn. 
+
+"Nếu có người khẩn cầu Phật tổ phù hộ một cái khác Chúa, đây là có chuyện gì đâu?" Ta hỏi, sau đó kỹ càng tỉ mỉ mà nói sự tình trải qua. 
+
+Trưởng lão yên lặng mà nhìn chính mình quyển sách trên tay, nhưng hiển nhiên không có đọc, mà là suy nghĩ ta nói sự, sau đó hắn nói:"Ngươi trước đi ra ngoài trong chốc lát, làm ta ngẫm lại." Ta xoay người đi ra môn đi, biết này thực không tầm thường. Trưởng lão học thức thâm hậu, giống nhau về tôn giáo, lịch sử cùng văn hóa vấn đề, hắn đều có thể không cần nghĩ ngợi mà lập tức trả lời. Ta ở ngoài cửa đợi có một cây thuốc lá thời gian, trưởng lão kêu ta trở về. 
+
+"Ta cảm giác chỉ có một loại khả năng." Hắn thần sắc nghiêm túc mà nói. 
+
+"Cái gì? Sẽ là cái gì đâu? Chẳng lẽ khả năng có loại này tôn giáo, nó chủ yêu cầu này giáo đồ khẩn cầu mặt khác tôn giáo chủ tới cứu vớt?" 
+
+"Nàng cái kia chủ, là chân thật tồn tại." 
+
+Lời này làm ta có chút mê hoặc:"Như vậy…… Phật tổ không tồn tại sao?" Lời vừa ra khỏi miệng ta lập tức phát giác thất lễ, chạy nhanh xin lỗi. 
+
+Trưởng lão chậm rãi xua xua tay nói:"Ta nói rồi, chúng ta chi gian nói không được Phật học, Phật tổ tồn tại là ngươi không thể đủ lý giải tồn tại; mà nàng nói chủ, này đây ngươi có thể lý giải phương thức tồn tại…… Về việc này, ta không năng lực nói cho ngươi càng nhiều, chỉ là khuyên ngươi, đừng cùng nàng đi." 
+
+"Vì cái gì?" 
+
+"Ta cũng chỉ là cảm giác, cảm thấy nàng sau lưng khả năng có một ít ngươi ta đều không thể tưởng tượng sự tình." 
+
+Ta đi ra trưởng lão môn, xuyên qua chùa chiền triều chính mình chỗ ở đi đến, này đêm là trăng tròn, ta ngẩng đầu nhìn xem mặt trăng, cảm giác đó là nhìn chằm chằm ta xem một con màu bạc quái mắt, ánh trăng mang theo một cổ âm trầm hàn khí. 
+
+Ngày hôm sau, ta còn là cùng Thân Ngọc Phỉ đi rồi -- tổng không thể ở chùa miếu vẫn luôn trụ đi xuống đi -- nhưng không nghĩ tới, kế tiếp mấy năm, ta quá thượng trong mộng tưởng sinh hoạt. Thân Ngọc Phỉ thực hiện nàng lời hứa, ta có được một đài máy tính cỡ trung cùng thoải mái hoàn cảnh, còn nhiều lần xuất ngoại đi sử dụng to lớn máy tính, không phải tiến hành cùng lúc sử dụng, mà là chiếm cứ toàn bộ CPU thời gian. 
+
+Nàng rất có tiền, ta không biết nàng đâu ra nhiều như vậy tiền. Sau lại chúng ta kết hôn, không nhiều ít tình yêu cùng **, chỉ là vì hai bên sinh hoạt phương tiện mà thôi, chúng ta đều có từng người việc cần hoàn thành. Với ta mà nói, về sau mấy năm có thể dùng một ngày tới hình dung, nhật tử ở trong bình tĩnh liền đi qua. Ở kia tràng biệt thự, ta y tới thân thủ cơm tới há mồm, chỉ cần chuyên chú với Tam Thể vấn đề nghiên cứu là đến nơi. Thân Ngọc Phỉ cũng không can thiệp ta sinh hoạt, gara có ta một chiếc xe, ta có thể mở ra nó đi bất luận cái gì địa phương, ta thậm chí dám khẳng định, chính mình mang một nữ nhân về nhà nàng đều không để bụng, nàng chỉ chú ý ta nghiên cứu. Chúng ta mỗi ngày duy nhất giao lưu nội dung chính là Tam Thể vấn đề, nàng mỗi ngày đều phải hiểu biết nghiên cứu tiến triển. 
+
+"Ngươi biết Thân Ngọc Phỉ còn làm chút khác cái gì sao?" Đại Sử hỏi. 
+
+"Còn không phải là cái kia ‘ Khoa Học Biên Giới ‘ sao, nàng cả ngày liền vội cái kia, mỗi ngày trong nhà đều tới rất nhiều người." 
+
+"Nàng không có kéo ngươi gia nhập học được sao?" 
+
+"Chưa từng có, nàng thậm chí không đối ta nói qua này đó, ta cũng không quan tâm, ta chính là như vậy cá nhân, không muốn quan tâm càng nhiều sự. Nàng cũng biết rõ điểm này, nói ta là cái không có bất luận cái gì sứ mệnh cảm lười nhác người, nơi đó không thích hợp ta, ngược lại sẽ quấy nhiễu ta nghiên cứu." 
+
+"Như vậy Tam Thể nghiên cứu có tiến triển sao?" Uông Diểu hỏi. 
+
+Lấy trước mắt trên thế giới cái này nghiên cứu lĩnh vực giống nhau trạng huống tới xem, tiến triển có thể nói là đột phá tính. Mấy năm trước, California đại học Richard · Montgomery cùng Paris thứ bảy đại học Santa · Cruz, Alain · Chenciner kia, còn có nước Pháp đo nghiên cứu cơ cấu nghiên cứu nhân viên, dùng một loại gọi là"Tới gần pháp" phép tính, tìm được rồi Tam Thể vận động một loại khả năng ổn định hình thái: Ở thích hợp mới bắt đầu điều kiện hạ, Tam Thể vận hành quỹ đạo đem hình thành một cái đầu đuôi hàm tiếp 8 hình chữ. Sau lại mọi người đều ham thích với tìm kiếm loại này đặc thù ổn định trạng thái, tìm được một cái liền mừng rỡ cùng cái gì dường như, cho tới bây giờ cũng chính là tìm được rồi ba bốn loại. Kỳ thật, ta dùng thuật toán tiến hóa đã tìm được rồi một trăm nhiều loại ổn định trạng thái, đem những cái đó quỹ đạo họa ra tới, cũng đủ làm một cái hậu hiện đại phái triển lãm tranh. Nhưng này không phải mục tiêu của ta, Tam Thể vấn đề chân chính giải quyết, là thành lập như vậy một loại toán học mô hình, khiến cho Tam Thể ở bất luận cái gì một cái thời gian tiết diện mới bắt đầu vận động véc-tơ đã biết khi, có thể chính xác đoán trước Tam Thể hệ thống về sau sở hữu vận động trạng thái. 
+
+Đây cũng là Thân Ngọc Phỉ khát vọng mục tiêu. 
+
+Nhưng bình tĩnh sinh hoạt đến ngày hôm qua liền kết thúc, ta gặp chuyện phiền toái. 
+
+"Đây là ngươi muốn báo án đi?" Đại Sử hỏi. 
+
+"Đúng vậy, ngày hôm qua có cái nam nhân tới điện thoại, nói nếu ta không lập tức đình chỉ Tam Thể gian đề nghiên cứu, liền giết ta." 
+
+"Người nọ là ai?" 
+
+"Không biết." 
+
+"Số điện thoại?" 
+
+"Không biết, ta cái kia điện thoại không có điện báo biểu hiện." 
+
+"Mặt khác có quan hệ tình huống đâu?" 
+
+"Không biết." 
+
+Đại Sử cười ném thuốc lá đầu,"Phía trước xả như vậy một đại thông, cuối cùng muốn báo liền này một câu cùng mấy cái không biết?" 
+
+"Ta không xả kia một đại thông, này một câu ngươi nghe hiểu được sao ngươi? Lại nói nếu là liền điểm này chuyện này ta cũng sẽ không tới, ta người này lười sao. Hôm nay ban đêm, nga, lúc ấy là nửa đêm, ta cũng không biết là ngày hôm qua vẫn là hôm nay, ta ngủ, mơ mơ màng màng cảm thấy trên mặt có lạnh lạnh đồ vật ở động, mở mắt ra thấy được Thân Ngọc Phỉ, thật làm ta sợ muốn chết." 
+
+"Nửa đêm ở trên giường nhìn đến lão bà ngươi có cái gì đáng sợ?" 
+
+"Nàng dùng cái loại này ánh mắt xem ta, chưa từng có quá cái loại này ánh mắt, bên ngoài hoa viên ánh đèn chiếu đến trên mặt nàng, nhìn qua giống quỷ dường như. Nàng trong tay cầm một cái đồ vật, là thương! Nàng khẩu súng x ở ta trên mặt cọ, nói ta cần thiết đem Tam Thể vấn đề nghiên cứu tiến hành đi xuống, bằng không cũng giết ta." 
+
+"Ân, có chút ý tứ." Đại Sử lại điểm thượng một điếu thuốc, vừa lòng gật gật đầu. 
+
+"Cái gì kêu có ý tứ? Các ngươi xem, ta không địa phương nhưng đi, mới đến tìm các ngươi." 
+
+"Ngươi đem nàng nói với ngươi lời nói chiếu nguyên dạng nói nói." 
+
+"Nàng là nói như vậy: Nếu Tam Thể vấn đề nghiên cứu thành công, ngươi đem trở thành chúa cứu thế; nếu hiện tại đình chỉ, ngươi chính là cái tội nhân. Nếu có cá nhân cứu vớt nhân loại hoặc hủy diệt nhân loại, vậy ngươi khả năng công tích cùng tội ác, đều đem vừa lúc là hắn gấp đôi." Đại Sử phun ra nồng đậm thuốc lá sương mù, nhìn chằm chằm Ngụy Thành nhìn hảo một trận nhi ． thẳng xem đến hắn có chút bất an, sau đó từ hỗn độn trên bàn kéo quá một cái vở, cầm lấy bút."Ngươi không phải phải làm ghi chép sao? Lặp lại một lần vừa rồi kia lời nói." 
+
+Ngụy Thành lặp lại một lần sau, Uông Diểu nói:"Lời này xác thật kỳ quái ． như thế nào vừa lúc là gấp đôi đâu?" 
+
+Ngụy Thành chớp chớp mắt đối Đại Sử nói:"Xem ra việc này rất nghiêm trọng? Lúc ta tới cái kia trực ban vừa thấy ta, khiến cho ta tới tìm ngươi, nguyên lai ta sớm tại nơi này treo lên hào." 
+
+Đại Sử gật gật đầu,"Hỏi lại một chuyện nhi: Ngươi cảm thấy lão bà ngươi kia chi thương là thật vậy chăng?" Nhìn đến Ngụy Thành không biết như thế nào trả lời, hắn lại nói,"Có thương mùi dầu sao?" 
+
+"Có, khẳng định có mùi dầu!" 
+
+"Kia hảo." Ngồi ở trên bàn Đại Sử nhảy xuống nói,"Cuối cùng tìm được một cái cơ hội, phi pháp kiềm giữ súng ống hiềm nghi, là cái miễn cưỡng nói được quá khứ điều tra lý do, thủ tục ngày mai lại bổ đi ． chúng ta đến lập tức hành động." Hắn chuyển hướng Uông Diểu nói,"Này còn phải vất vả ngươi đi theo đi lại tham mưu tham mưu." Sau đó hắn đối vẫn luôn không nói chuyện từ băng băng nói,"Tiểu từ, hiện tại chuyên án tổ trực ban chỉ có hai người, không đủ, biết các ngươi tin tức chỗ đều là kim chi ngọc diệp, nhưng hôm nay ngươi cái này chuyên gia đến ra lần này công việc bên ngoài." Từ băng băng thực nhanh lên gật đầu, nàng ước gì mau chút rời đi cái này thuốc lá sương mù hôi hổi địa phương. 
+
+Chấp hành lần này điều tra nhiệm vụ trừ bỏ Đại Sử cùng tiểu từ, còn có hai gã trực ban hình cảnh. Hơn nữa Uông Diểu cùng Ngụy Thành, một hàng sáu người phân thừa hai lượng xe cảnh sát, xuyên qua sáng sớm trước nhất hắc ám bóng đêm, sử hướng cái kia thành thị bên cạnh khu biệt thự. 
+
+Từ băng băng cùng Uông Diểu ngồi ở xếp sau, xe mới vừa khai, nàng liền nói khẽ với Uông Diểu nói:"Uông lão sư, ngươi ở 《 Tam Thể 》 trung uy vọng giá trị rất cao." 
+Trong thế giới hiện thực lại có người nhắc tới 《 Tam Thể 》, Uông Diểu một trận kích động, cảm giác chính mình cùng cái này xuyên cảnh phục nữ hài khoảng cách lập tức kéo gần lại. 
+
+"Ngươi cũng chơi?" 
+
+"Ta phụ trách giám thị cùng truy tung nó, khổ sai sự một cái." 
+
+Uông Diểu vội vàng mà nói:"Ngươi có thể hay không nói cho ta một ít về nó tình huống, ta thật sự rất muốn biết." 
+
+Nương ngoài cửa sổ xe thấu tiến mỏng manh ánh đèn, Uông Diểu nhìn đến từ băng băng thần bí mà cười. 
+
+"Chúng ta cũng muốn biết đâu, nhưng nó server ở ngoại cảnh, hệ thống cùng tường phòng cháy đều thực kín mít, không hảo tiến a. Hiện tại biết đến tình huống không nhiều lắm: Nó khẳng định thị phi doanh thu, trò chơi phần mềm trình độ rất cao, thậm chí có thể nói cao đến không bình thường, còn có trong đó tin tức lượng, ngài cũng biết, càng không bình thường, này chỗ nào giống một cái trò chơi a!" 
+
+"Phương diện này, có hay không cái gì……" Uông Diểu cẩn thận mà châm chước từ ngữ,"Giống như siêu tự nhiên dấu hiệu." 
+
+"Này chúng ta đảo cảm thấy không có, tham gia trò chơi này biên trình người rất nhiều, trải rộng thế giới các nơi, khai phá phương thức rất giống mấy năm trước hồng quá một trận nhi Linux, nhưng lần này, khẳng định sử dụng nào đó thực vượt mức quy định khai phá công cụ. Đến nỗi những cái đó tin tức, quỷ tài biết chúng nó là từ đâu nhi tới, kia cũng thật có chút…… Ngài nói siêu tự nhiên, bất quá chúng ta vẫn là tin tưởng sử đội câu kia danh ngôn, này hết thảy khẳng định đều là nhân vi. Chúng ta truy tung vẫn là thành công hiệu, thực mau sẽ có kết quả." 
+
+Cô nương rốt cuộc vẫn là bất lão luyện, cuối cùng những lời này sử Uông Diểu minh bạch nàng gạt chính mình rất nhiều."Hắn kia lời nói thành danh ngôn?" Uông Diểu nhìn xem phía trước lái xe Đại Sử nói. 
+
+Tới biệt thự khi trời còn chưa sáng, biệt thự thượng tầng có một phòng đèn sáng ． mặt khác cửa sổ đều hắc. Uông Diểu mới vừa đi xuống xe, lập tức nghe được trên lầu phát ra thanh âm, hợp với vài tiếng, như là thứ gì ở chụp tường. Mới vừa xuống xe Đại Sử nghe thế thanh âm sau lập tức cảnh giác lên, một chân đá văng hờ khép viện môn, lấy cùng hắn kia cường tráng thân hình không tương xứng nhanh nhẹn bay nhanh vọt vào biệt thự, hắn ba gã đồng sự theo sau theo vào. Uông Diểu cùng Ngụy Thành đi theo vào biệt thự, từ phòng khách lên lầu hai, đi vào kia gian mở ra môn đèn sáng phòng, đế giày"Bạch bạch" mà đạp ở đang ở hướng ra phía ngoài chảy xuôi vũng máu trung -- ngày đó ban đêm cũng là lúc này, Uông Diểu chính là ở cái này phòng nhìn đến Thân Ngọc Phỉ ở chơi 《 Tam Thể 》-- hiện tại, nàng nằm thẳng ở phòng ở giữa, trước ngực hai cái lỗ đạn còn ở dũng huyết, đệ tam viên viên đạn từ tả ấn đường lọt vào, khiến nàng toàn bộ mặt đều hồ ở huyết trung, ở cự nàng cách đó không xa, một chi súng lục ngâm ở huyết. 
+
+Uông Diểu tiến vào khi, chính đuổi kịp Đại Sử cùng hắn một vị nam đồng sự lao tới, vào đối diện một gian mở ra môn hắc đèn phòng, kia phòng cửa sổ mở rộng ra, Uông Diểu nghe được bên ngoài có ô tô phát động thanh âm. Một người nam cảnh sát bắt đầu gọi điện thoại, từ băng băng xa xa mà đứng ở một bên khẩn trương mà nhìn, nàng đại khái cùng Uông Diểu bọn họ giống nhau, cũng là lần đầu tiên nhìn thấy trận này mặt. Đại Sử thực mau trở lại, một bên khẩu súng cắm hồi trước ngực bộ trung, một bên đối cái kia gọi điện thoại đồng sự nói:"Màu đen Santana, chỉ có một người, xe hào thấy không rõ, làm cho bọn họ trọng điểm phong tỏa năm hoàn nhập khẩu, nãi nãi, khả năng muốn cho hắn lưu." Đại Sử nhìn quanh bốn phía, thấy được trên tường mấy cái lổ đạn, lại nhìn lướt qua trên mặt đất rơi rụng vỏ đạn, nói,"Đối phương khai năm thương, đánh trúng tam thương; nàng khai hai thương, cũng chưa trung." Sau đó ngồi xổm xuống cùng nam đồng sự cùng nhau kiểm nghiệm thi thể. Tiểu từ vẫn xa xa đứng, trộm nhìn đứng ở nàng bên cạnh Ngụy Thành liếc mắt một cái, Đại Sử cũng ngẩng đầu nhìn hắn liếc mắt một cái. Ngụy Thành trên mặt có một tia khiếp sợ, một tia bi ai, nhưng cũng gần là một tia mà thôi, hắn kia cố hữu đờ đẫn vẫn không có bị đánh vỡ, so với Uông Diểu tới, hắn trấn tĩnh nhiều. 
+
+"Ngươi giống như không sao cả a, người nọ có thể là tới giết ngươi." Đại Sử đối Ngụy Thành nói. 
+
+Ngụy Thành cư nhiên cười một chút, thê thảm cười."Ta có thể thế nào? Đến bây giờ, đối nàng ta kỳ thật là hoàn toàn không biết gì cả, ta không ngừng một lần khuyên nàng đem sinh hoạt quá đến đơn giản chút, nhưng…… Ai, ngẫm lại năm đó đêm đó trưởng lão khuyên ta nói đi." 
+
+Đại Sử đứng lên, đi đến Ngụy Thành trước mặt, móc ra thuốc lá tới điểm thượng một chi,"Ngươi tổng còn có chút tình huống không nói cho chúng ta biết đi?" 
+
+"Có một số việc, ta lười đến nói." 
+
+"Vậy ngươi hiện tại nhưng đến cần mẫn chút!" 
+
+Ngụy Thành nghĩ nghĩ nói:"Hôm nay, nga, là ngày hôm qua buổi chiều, nàng ở phòng khách cùng một người nam nhân cãi nhau, chính là cái kia Phan Hàn, trứ danh bảo vệ môi trường chủ nghĩa giả. Bọn họ trước kia cũng cãi nhau vài lần giá, dùng chính là Nhật ngữ, giống như sợ ta nghe được, nhưng ngày hôm qua bọn họ cái gì cũng không để ý, nói chính là tiếng Trung Quốc, ta nghe được vài câu." 
+
+"Ngươi tận lực ấn nguyên nói." 
+
+"Hảo đi. Phan Hàn nói: Chúng ta này đó mặt ngoài đi đến cùng nhau người, trên thực tế là ở vào hai cái cực đoan địch nhân! Thân Ngọc Phỉ nói: Đúng vậy, các ngươi nương chủ lực lượng phản đối nhân loại. Phan Hàn nói: Ngươi như vậy lý giải cũng không phải hoàn toàn không có đạo lý, chúng ta yêu cầu chủ buông xuống thế giới, trừng phạt những cái đó đã sớm nên đã chịu trừng phạt tội ác, mà ngươi ở ngăn cản loại này buông xuống, cho nên chúng ta thế bất lưỡng lập, các ngươi nếu là không ngừng ngăn, chúng ta sẽ làm các ngươi đình chỉ! Thân Ngọc Phỉ nói: Cho các ngươi này đó ma quỷ tiến người tổ chức, Thủ lĩnh thật mắt bị mù! Phan Hàn nói: Nói đến Thủ lĩnh, Thủ lĩnh là nào nhất phái? Phe đổ bộ vẫn là Phe cứu thế, ngươi nói được thanh? Phan Hàn lời này làm Thân Ngọc Phỉ trầm mặc hảo một trận nhi, sau đó hai người nói chuyện liền không lớn tiếng như vậy kịch liệt, ta cũng lại không nghe được." 
+
+"Trong điện thoại uy hiếp ngươi người kia, hắn thanh âm giống ai?" 
+
+"Ngươi là nói giống Phan Hàn sao? Không biết, lúc ấy thanh âm rất nhỏ, ta nghe không hiểu." 
+
+Lại có mấy lượng xe cảnh sát minh còi cảnh sát ngừng ở bên ngoài, một đám mang bao tay trắng cầm cameras cảnh sát đi lên lâu tới, biệt thự công việc lu bù lên. Đại Sử làm Uông Diểu đi về trước nghỉ ngơi, Uông Diểu đi đến kia gian có máy tính cỡ trung trong phòng tìm được rồi Ngụy Thành. 
+
+"Cái kia Tam Thể vấn đề thuật toán tiến hóa mô hình, ngài có thể hay không cho ta một phần điểm chính linh tinh đồ vật, ta tưởng ở…… Một cái trường hợp giới thiệu một chút, này yêu cầu thực đường đột, nếu không được liền tính." 
+
+Ngụy Thành lấy ra một cái ba tấc đĩa CD đưa cho Uông Diểu."Đều ở bên trong này, toàn bộ mô hình cùng phụ gia hồ sơ. Ngươi nếu là tưởng rất tốt với ta, liền dùng tên của mình đem nó phát biểu, kia thật giúp ta đại ân." 
+
+"Không không, sao có thể!" 
+
+Ngụy Thành chỉ vào Uông Diểu trong tay đĩa CD nói:"Uông giáo sư, kỳ thật trước kia ngươi tới thời điểm ta liền chú ý tới ngươi, ngươi là người tốt, có trách nhiệm tâm người tốt, cho nên, ta còn là khuyên ngươi ly thứ này xa chút, thế giới liền phải phát sinh đột biến, mỗi người có thể tận lực bình an mà tống cổ xong quãng đời còn lại, chính là rất may, khác không cần tưởng quá nhiều, dù sao vô dụng." 
+
+"Ngươi giống như còn biết càng nhiều sự?" 
+
+"Mỗi ngày cùng nàng ở bên nhau ． không có khả năng cái gì cũng không biết." 
+
+"Kia vì cái gì không nói cho cảnh sát đâu?" 
+
+Ngụy Thành khinh thường mà cười:"Xuy, cảnh sát tính cái chó má, thượng đế tới cũng chưa dùng, hiện tại toàn nhân loại đã tới rồi ‘ kêu trời thiên không đáp, kêu mà mà không ứng ‘ nông nỗi." 
+
+Ngụy Thành đứng ở dựa đông bên cửa sổ, ở thành thị cao lầu đàn mặt sau không trung nắng sớm sơ hiện, không biết vì cái gì, cái này làm cho Uông Diểu nghĩ tới mỗi lần tiến vào 《 Tam Thể 》 khi nhìn đến quỷ dị sáng sớm. 
+
+"Kỳ thật ta cũng không phải như vậy siêu thoát, mấy ngày nay đều là suốt đêm ngủ không được, buổi sáng lên từ nơi này nhìn đến mặt trời mọc khi, tổng cảm thấy là mặt trời lặn." Hắn chuyển hướng Uông Diểu, trầm mặc thật lâu sau sau nói,"Kỳ thật này hết thảy đều ở chỗ, thượng đế, hoặc nàng nói chủ, tự thân khó bảo toàn."Chương 17: Bài toán ba vật thể
+
+
+
+Uông Diểu vừa mới rời khỏi trò chơi, điện thoại vang, là Đại Sử đánh tới, nói có chuyện khẩn cấp, làm hắn lập tức đến trọng án tổ văn phòng đi một chuyến, Uông Diểu nhìn xem biểu, đã là rạng sáng tam điểm. 
+
+Uông Diểu đi vào Đại Sử hỗn độn văn phòng khi, thấy nơi đó đã bị hắn trừu đến vân chưng sương mù vòng, khiến cho ở văn phòng trung một vị khác tuổi trẻ nữ cảnh không ngừng dùng ký lục bổn ở cái mũi trước vỗ. Đại Sử giới thiệu nói nàng kêu từ băng băng, máy tính chuyên gia, là tin tức an toàn bộ môn. Văn phòng trung người thứ ba lệnh Uông Diểu thực giật mình, cư nhiên là Thân Ngọc Phỉ trượng phu Ngụy Thành, tóc rối bời, hắn ngẩng đầu nhìn xem Uông Diểu ． giống như đã quên mất bọn họ đã gặp mặt. 
+
+"Ngượng ngùng quấy rầy, bất quá ta xem ngươi cũng không ngủ đi. Nơi này có một số việc nhi, còn không có hội báo tác chiến trung tâm, đại khái yêu cầu ngươi tham mưu tham mưu." Đại Sử đối Uông Diểu nói, sau đó chuyển hướng Ngụy Thành,"Ngươi nói đi." 
+
+"Ta nói rồi, ta sinh mệnh đã chịu uy hiếp." Ngụy Thành nói, trên mặt lại là một bộ đờ đẫn biểu tình. 
+
+"Từ đầu nói lên đi." 
+
+"Hảo, từ đầu nói, không cần chê ta phiền toái, ta gần nhất thật đúng là muốn tìm người ta nói nói chuyện……" Ngụy Thành nói quay đầu nhìn xem từ băng băng,"Không làm ghi chép gì đó sao?" 
+
+"Hiện tại không cần, trước kia không ai cùng ngươi nói chuyện?" Đại Sử không mất thời cơ hỏi. 
+
+"Cũng không phải. Ta lười đến nói, ta là cái lười nhác người." 
+
+Dưới là Ngụy Thành tự thuật: 
+
+Ta là cái lười nhác người, từ nhỏ chính là, trọ ở trường khi chén chưa bao giờ tẩy. Chăn chưa bao giờ giặt, đối cái gì đều nhấc không nổi hứng thú, lười đến học tập, thậm chí lười đến chơi, mỗi ngày mơ mơ màng màng mà không lý tưởng. Nhưng ta biết chính mình có một ít vượt qua thường nhân tài năng, tỷ như ngươi họa một cây tuyến, ta ở tuyến thượng đồng dạng nói, vị trí khẳng định ở 0. 618 trung tỉ lệ chỗ. Các bạn học nói ta thích hợp đương thợ mộc, nhưng ta cảm thấy đây là càng cao cấp tài năng, là đối số cùng hình một loại trực giác. Kỳ thật ta toán học cùng mặt khác chương trình học giống nhau, thành tích hỏng bét, ta lười đến suy luận, khảo thí khi liền đem chính mình đoán mò ra tới đáp án trực tiếp viết đi lên, cũng có thể đoán đúng 100%, nhưng như vậy lấy không được cao phân. 
+
+Cao nhị khi, một vị toán học lão sư chú ý tới ta, khi đó, trung học giáo viên trung chính là ngọa hổ tàng long,"Văn cách" trung rất nhiều có tài hoa người đều lưu lạc đến trung học đi dạy học, hắn chính là như vậy một người. Có một ngày tan học sau hắn đem ta lưu lại, ở bảng đen thượng viết mười mấy dãy số, làm ta trực tiếp viết ra chúng nó tính tổng công thức. Ta thực mau viết ra trong đó một bộ phận, trên cơ bản đều đúng, còn lại ta liếc mắt một cái liền nhìn ra là dãy phân kỳ. Lão sư lấy ra một quyển sách, là 《 Holmes tra án tập 》, hắn phiên đến một thiên, hình như là 《 chiếc nhẫn tình cờ 》 đi, có một đoạn đại ý là như thế này: Watson nhìn đến dưới lầu có cái quần áo bình thường người ở truyền tin, liền chỉ cấp Holmes xem, Holmes nói ngươi là chỉ cái kia xuất ngũ hải quân quân tào sao? Watson rất kỳ quái Holmes là như thế nào suy đoán ra thân phận của hắn, Holmes chính mình cũng không rõ ràng lắm, suy nghĩ nửa ngày mới lý ra trinh thám quá trình, xem người nọ tay, cử chỉ lạp từ từ. Hắn nói này không kỳ quái, người khác cũng rất khó nói ra bản thân là như thế nào suy đoán ra"2+2=4". 
+
+Lão sư khép lại thư đối ta nói: Ngươi chính là như vậy, ngươi suy luận quá nhanh, hơn nữa là bản năng, cho nên tự mình ý thức không đến. Hắn hỏi tiếp ta: Nhìn đến một chuỗi con số, ngươi có cái gì cảm giác? Ta là hỏi cảm giác. Ta nói bất luận cái gì con số tổ hợp đối với ta đều là một loại lập thể hình thể, ta đương nhiên nói không rõ cái gì con số là cái gì hình dạng, nhưng nó xác thật biểu hiện vì một loại hình thể. Kia nhìn đến hình hình học đâu? Lão sư truy vấn, ta nói cùng mặt trên tương phản, ở ta đầu chỗ sâu trong không có đồ hình, hết thảy đều hóa thành con số, tựa như ngươi để sát vào xem báo chí thượng ảnh chụp, đều là điểm nhỏ nhi ( đương nhiên hiện tại báo chí ảnh chụp không phải như vậy nhi ). 
+
+Lão sư nói ngươi thật sự rất có toán học thiên phú ． nhưng là, nhưng là…… Hắn nói thật nhiều cái nhưng là, qua lại đi tới, giống như ta là cái thực khó giải quyết đồ vật, không biết như thế nào xử lý dường như. Nhưng là ngươi này hào người sẽ không quý trọng chính mình thiên phú, hắn nói. Suy nghĩ hơn nửa ngày, hắn giống như từ bỏ, nói vậy ngươi liền đi tham gia tháng sau khu toán học thi đua đi, ta cũng không phụ đạo ngươi, đối với ngươi này hào người, uổng phí kính, chỉ là ngươi giải bài thi khi nhất định phải đem suy luận quá trình viết đi lên. Vì thế ta liền đi thi đua, từ khu vẫn luôn tái đi lên, tái đến Budapest Olympic toán học thi đua, tất cả đều là quán quân. Sau khi trở về đã bị một khu nhà nhất lưu đại học toán học hệ miễn thí tuyển chọn…… 
+
+Ta nói này đó các ngươi không phiền đi? A, hảo, kỳ thật muốn nói thanh mặt sau chuyện này, này đó vẫn là cần thiết nói. Cái kia cao trung lão sư nói đối với, ta sẽ không quý hiếm chính mình, khoa chính quy thạc mười tiến sĩ đều cà lơ phất phơ, nhưng cư nhiên đều lại đây. Vừa đến xã hội thượng, mới phát hiện chính mình là cái chính cống phế vật, trừ bỏ toán học gì cũng sẽ không, ở phức tạp nhân tế quan hệ trung ở vào nửa giấc ngủ trạng thái, càng hỗn càng thứ; sau lại đến đại học dạy học đi, cũng hỗn không đi xuống, dạy học thượng nghiêm túc không đứng dậy, ta ở bảng đen thượng viết một câu"Dễ dàng chứng minh", học sinh phía dưới phải mân mê nửa ngày, sau lại làm mạt vị đào thải, khóa cũng không đến dạy. Dừng ở đây, ta đối này hết thảy đều chán ghét, liền mang theo đơn giản hành lý đi phía nam một tòa núi sâu trung chùa miếu. 
+
+Nga, ta không phải đi xuất gia, ta lười đến xuất gia, chỉ là muốn tìm cái chân chính thanh tĩnh chỗ ở một trận nhi. Nơi đó trưởng lão là ta phụ thân một cái lão hữu, học vấn rất sâu, lại ở lúc tuổi già xuất gia, chiếu phụ thân nói đi, đến hắn tầng này thứ, cũng liền này một cái lộ. Vị kia trưởng lão thu lưu ta trụ hạ, ta đối hắn nói, muốn tìm cái thanh tĩnh bớt lo phương thức hỗn xong đời này tính. Trưởng lão nói, nơi này cũng không thanh tĩnh, là du lịch khu, dâng hương người cũng rất nhiều; đại ẩn ẩn với thị, muốn thanh tĩnh bớt lo, chính mình phải "không". Ta nói ta đủ "không", danh lợi với ta liền mây bay đều không tính là, ngươi trong miếu những cái đó tăng nhân đều so với ta có nhiều hơn phàm tâm. Trưởng lão lắc đầu: "Không" không phải vô, "Không" là một loại tồn tại, ngươi đắc dụng không loại này tồn tại lấp đầy chính mình. Lời này đối ta rất có dẫn dắt, sau lại ngẫm lại, này căn bản không phải Phật gia lý niệm, đảo giống hiện đại nào đó vật lý học lý luận. Trưởng lão cũng nói, hắn sẽ không cùng ta nói Phật, lý do cùng vị kia trung học lão sư giống nhau: Đối ta này hào người vô dụng. 
+
+Ngày đầu tiên buổi tối, ở chùa chiền trong phòng nhỏ ta ngủ không xem, không nghĩ tới này thế ngoại đào nguyên là như thế không thoải mái, đệm chăn đều ở sơn sương mù trung biến triều, giường ngạnh bang bang. Vì thế, vì thôi miên, ta liền ý đồ ấn trưởng lão nói như vậy, dùng"Không" tới bỏ thêm vào chính mình: Ta tại ý thức trung sáng tạo cái thứ nhất"Không" là bát ngát vũ trụ, trong đó cái gì đều không có, liền quang đều không có, trống trơn. Thực mau cảm thấy này trống không một vật vũ trụ căn bản không thể sử chính mình cảm thấy yên lặng, thân ở trong đó ngược lại sẽ cảm thấy một loại mạc danh nôn nóng bất an, có một loại rơi xuống nước giả tưởng tùy tiện bắt lấy chút thứ gì **. 
+
+Vì thế ta cấp chính mình tại đây vô hạn không gian trung sáng tạo một cái hình cầu, không lớn, có chất lượng hình cầu. Nhưng cảm giác cũng không có hảo lên, kia hình cầu huyền phù ở"Không" ở giữa ( đối với vô hạn không gian, bất luận cái gì một chỗ đều là ở giữa ), cái kia vũ trụ trung không có bất cứ thứ gì tác dụng với nó, nó cũng không có bất cứ thứ gì có thể tác dụng. Nó treo ở nơi đó, vĩnh viễn sẽ không làm chút nào vận động, vĩnh viễn sẽ không có chút nào biến hóa, thật là đối tử vong nhất đúng chỗ thuyết minh. 
+
+Ta sáng tạo cái thứ hai cầu, cùng nguyên lai cầu lớn nhỏ chất lượng bằng nhau, chúng nó mặt ngoài đều là phản xạ toàn phần kính mặt, cho nhau ánh đối phương giống, ánh trừ nó chính mình ở ngoài vũ trụ trung duy nhất một cái tồn tại. Nhưng tình huống cũng không có hảo bao nhiêu: Nếu cầu không có mới bắt đầu vận động, cũng chính là ta đệ nhất thúc đẩy, chúng nó thực mau sẽ bị từng người dẫn lực kéo đến một khối, sau đó hai cái cầu cho nhau dựa vào treo ở nơi đó vẫn không nhúc nhích, vẫn là một cái tử vong ký hiệu. Nếu có mới bắt đầu vận động thả không chạm vào nhau, chúng nó liền sẽ ở từng người dẫn lực dưới tác dụng lẫn nhau quay chung quanh đối phương xoay tròn, mặc kệ ngươi như thế nào khởi động lại, kia xoay tròn cuối cùng đều sẽ cố định xuống dưới, vĩnh viễn bất biến, tử vong vũ đạo. 
+
+Ta lại dẫn vào cái thứ ba hình cầu, tình huống đã xảy ra làm ta khiếp sợ biến hóa. Phía trước nói qua, bất luận cái gì đồ hình ở ta ý thức chỗ sâu trong đều là con số hóa, phía trước vô cầu, một cầu cùng nhị cầu vũ trụ biểu hiện vì một cái hoặc ít ỏi mấy cái miêu tả nó phương trình, giống vài miếng cuối mùa thu lá rụng. Nhưng này cái thứ ba hình cầu là điểm thượng"Không" chi vẽ rồng điểm mắt , tam cầu vũ trụ lập tức trở nên phức tạp lên, ba cái bị giao cho mới bắt đầu vận động hình cầu ở vũ trụ trung tiến hành phức tạp, tựa hồ vĩnh không lặp lại vận động, miêu tả phương trình như mưa to xuất hiện, không ngừng nghỉ. Ta cứ như vậy tiến vào mộng đẹp, tam cầu ở trong mộng vẫn luôn vũ đạo, vô quy luật vĩnh không lặp lại vũ đạo. Nhưng ở ta ý thức chỗ sâu trong, này vũ đạo là có tiết tấu, chỉ là lặp lại chu kỳ vô hạn trường mà thôi, cái này làm cho ta mê muội, ta muốn miêu tả ra cái này chu kỳ một bộ phận hoặc toàn bộ. 
+
+Ngày hôm sau ta vẫn luôn nghĩ đến kia ba cái ở"Không" trung vũ đạo cầu, tư tưởng chưa bao giờ có giống như vậy toàn công suất chuyển động quá, thế cho nên có tăng nhân hỏi trưởng lão ta tinh thần có phải hay không ra cái gì tật xấu, trưởng lão cười nói: Không có việc gì, hắn tìm được rồi không. Đúng vậy, ta tìm được rồi không, hiện tại ta có thể ẩn với thị, chính là đặt mình trong hi nhương trong đám người, ta nội tâm cũng là vô cùng thanh tĩnh. Ta lần đầu tiên hưởng thụ tới rồi toán học lạc thú, Tam Thể vấn đề ( chú: Ba cái chất lượng tương đồng hoặc gần vật thể ở lẫn nhau dẫn lực dưới tác dụng như thế nào vận động vấn đề, là cổ điển vật lý học kinh điển vấn đề, đối thiên thể vận động nghiên cứu có quan trọng ý nghĩa, tự mười sáu thế kỷ tới nay vẫn luôn đã chịu chú ý. Thụy Sĩ toán học gia Euler, nước Pháp toán học gia Joseph Lagrange, cùng với năm gần đây một ít mượn dùng với máy tính nghiên cứu học giả, đều tìm ra Tam Thể vấn đề nào đó đặc giải. ) vật lý nguyên lý thực đơn thuần, kỳ thật là một số học vấn đề. Lúc này, ta tựa như một cái nửa đời tìm hoa hỏi liễu phóng đãng giả đột nhiên cảm nhận được tình yêu. 
+
+"Ngươi không biết Poincare sao? ( chú: Mười chín thế kỷ nước Pháp toán học gia, từng chứng minh rồi Tam Thể vấn đề ở toán học thượng không thể giải, cũng từ Tam Thể vấn đề xuất phát, ở vi phân phương trình vấn đề thượng sáng tạo tân toán học phương pháp. )" Uông Diểu đánh gãy Ngụy Thành hỏi. 
+
+Lúc ấy không biết, học toán học không biết Poincare là không đúng, nhưng ta bất kính ngưỡng đại sư, chính mình cũng không nghĩ thành đại sư, cho nên không biết. Nhưng liền tính lúc ấy biết Poincare ta cũng sẽ tiếp tục đối Tam Thể vấn đề nghiên cứu. Toàn thế giới đều cho rằng người này chứng minh rồi Tam Thể vấn đề không thể giải, nhưng ta cảm thấy có thể là cái hiểu lầm, hắn chỉ là chứng minh rồi mới bắt đầu điều kiện mẫn cảm tính, chứng minh rồi Tam Thể hệ thống là một cái không thể tích phân hệ thống, nhưng mẫn cảm tính không phải là hoàn toàn không xác định, chỉ là loại này xác định tính bao hàm số lượng càng thêm thật lớn bất đồng hình thái, hiện tại phải làm chính là tìm được một loại tân phép tính. Lúc ấy ta lập tức nghĩ tới một thứ: Ngươi nghe nói qua ‘ Monte Carlo phương pháp ‘ sao? Nga, đó là một loại tính toán bất quy tắc đồ hình diện tích máy tính trình tự phép tính, cụ thể cách làm là ở phần mềm có ích đại lượng tiểu cầu tùy cơ đập kia khối bất quy tắc đồ hình, bị đánh trúng địa phương không hề lặp lại đả kích, như vậy, đạt tới nhất định số lượng sau, đồ hình sở hữu bộ phận liền sẽ đều bị đánh trúng một lần, lúc này thống kê đồ hình khu vực nội tiểu cầu số lượng, phải tới rồi đồ hình diện tích, đương nhiên, cầu càng nhỏ kết quả càng chính xác. 
+
+Loại này phương pháp tuy rằng đơn giản, lại triển lãm toán học trung một loại dùng tùy cơ cậy mạnh đối kháng chính xác logic tư tưởng phương pháp, một loại dùng số lượng được đến chất lượng tính toán tư tưởng. Đây là ta giải quyết Tam Thể vấn đề sách lược. 
+Ta nghiên cứu Tam Thể vận động bất luận cái gì một cái thời gian tiết diện, ở cái này tiết diện thượng, các cầu vận động véc-tơ có vô hạn tổ hợp, ta đem mỗi một loại tổ hợp coi như một loại cùng loại với sinh vật đồ vật, mấu chốt là muốn xác định một cái quy tắc: Loại nào tổ hợp vận hành xu thế là"Khỏe mạnh" cùng"Có lợi", loại nào là"Bất lợi" cùng"Có làm hại", làm người trước đạt được sinh tồn ưu thế, người sau tắc sinh ra sinh tồn khó khăn, ở tính toán trung cứ như vậy khôn sống mống chết, cuối cùng sinh tồn xuống dưới chính là đối Tam Thể tiếp theo tiết diện vận động trạng thái chính xác đoán trước. 
+
+"Thuật toán tiến hóa." Uông Diểu nói: 
+
+"Thỉnh ngươi tới vẫn là đúng rồi." Đại Sử đối Uông Diểu gật gật đầu. 
+
+Đúng vậy, ta là đến sau lại mới nghe nói cái này danh từ. Loại này phép tính đặc điểm chính là rộng lượng tính toán, tính toán lượng siêu cấp thật lớn, đối với Tam Thể vấn đề, hiện có máy tính là không được. Mà lúc ấy ta ở chùa miếu liền cái tính toán khí đều không có, chỉ có từ phòng thu chi thảo tới một quyển không sổ sách cùng một chi bút chì: Ta bắt đầu trên giấy thành lập toán học mô hình, này lượng công việc rất lớn, thực mau dùng xong rồi mười mấy không sổ sách, khiến cho quản trướng hòa thượng oán khí tận trời. Nhưng ở trưởng lão yêu cầu hạ, bọn họ vẫn là cho ta tìm tới càng nhiều giấy cùng bút. Ta đem viết tốt tính toán bản thảo phóng tới gối đầu phía dưới, phế bỏ liền ném tới trong viện lư hương trung. 
+
+Hôm nay chạng vạng, một vị nữ nhân trẻ tuổi đột nhiên xông vào ta trong phòng, đây là ta nơi này lần đầu tiên có nữ nhân tiến vào, nàng trong tay cầm mấy trương bên cạnh đốt trọi giấy, đó là ta vứt đi tính bản thảo. 
+
+"Bọn họ nói đây là ngươi, ngươi ở nghiên cứu Tam Thể vấn đề?" Nàng vội vàng hỏi, mắt to kính mặt sau cặp mắt kia giống trứ hỏa dường như. Người này làm ta thực khiếp sợ, ta chọn dùng thị phi thường quy toán học phương pháp, thả suy luận nhảy lên tính rất lớn, nàng thế nhưng có thể từ mấy trương phế tính bản thảo trông được ra nghiên cứu đối tượng, này toán học năng lực không giống bình thường. Đồng thời cũng có thể khẳng định, nàng cùng ta giống nhau, thực đầu nhập mà chú ý Tam Thể vấn đề. Ta đối tới này một du khách cùng khách hành hương cũng chưa cái gì ấn tượng tốt, những cái đó du khách căn bản không biết là tới nhìn cái gì, chỉ là đông chạy tây thoán mà chụp ảnh; mà những cái đó khách hành hương, nhìn qua phổ biến so du khách nghèo đến nhiều, đều ở vào một loại chết lặng trí lực ức chế trạng thái. Cái này cô nương lại bất đồng, rất có học giả khí chất, sau lại biết nàng là cùng đàn Nhật Bản du khách cùng nhau tới. 
+
+Không đợi ta trả lời, nàng lại nói:"Suy nghĩ của ngươi thật cao minh, chúng ta vẫn luôn đang tìm kiếm loại này phương pháp, đem Tam Thể vấn đề khó khăn chuyển hóa vì thật lớn tính toán lượng. Nhưng này yêu cầu rất lớn máy tính mới được." 
+
+"Đem toàn thế giới sở hữu đại kế tính cơ đều dùng tới cũng không được." Ta lời nói thật nói cho nàng. 
+
+"Nhưng ngươi dù sao cũng phải có một cái không có trở ngại nghiên cứu hoàn cảnh mới được, nơi này cái gì đều không có. Ta có thể cho ngươi có cơ hội sử dụng to lớn máy tính, còn có thể tặng cho ngươi một đài máy tính cỡ trung, sáng mai, chúng ta cùng nhau xuống núi." 
+
+Nàng chính là Thân Ngọc Phỉ, cùng hiện tại giống nhau, ngắn gọn mà **, nhưng so hiện tại phải có lực hấp dẫn. Ta trời sinh tính lãnh đạm, đối nữ tính, ta so chung quanh này đó hòa thượng càng không có hứng thú, nhưng nàng thực đặc thù, nàng kia nhất không nữ nhân vị nữ nhân vị hấp dẫn ta, dù sao ta cũng là cái người rảnh rỗi, liền lập tức đáp ứng rồi nàng. 
+
+Ban đêm, ta ngủ không được, khoác áo đi vào chùa chiền, xa xa mà, ở tối tăm triều đình thấy được Thân Ngọc Phỉ thân ảnh, nàng đang ở phật tượng trước thắp hương, nhất cử nhất động đều là thực dáng vóc tiều tụy. Ta nhẹ nhàng đi qua đi, đi đến triều đình ngạch cửa ngoại khi, nghe được nàng nhẹ giọng niệm ra một câu khẩn cầu: 
+
+"Phật tổ phù hộ Chúa tôi thoát ly khổ hải." 
+
+Ta cho rằng nghe lầm, nhưng nàng lại tụng ngâm một lần: 
+
+"Phật tổ phù hộ Chúa tôi thoát ly khổ hải." 
+
+Ta không hiểu bất luận cái gì tôn giáo cũng không có hứng thú, nhưng xác thật tưởng tượng không ra so này càng ly kỳ cầu nguyện, không khỏi buột miệng thốt ra:"Ngươi đang nói cái gì?!" 
+
+Thân Ngọc Phỉ chút nào không để ý đến ta tồn tại, vẫn cứ khép hờ hai mắt đôi tay hợp thành chữ thập, giống như đang nhìn nàng khẩn cầu theo thuốc lá lượn lờ lên tới Phật tổ nơi đó. Qua hảo một trận nhi, nàng mới mở to mắt chuyển hướng ta. 
+
+"Đi ngủ đi, ngày mai sớm chút đi." Nàng nói, cũng không thèm nhìn tới ta. 
+
+"Ngươi vừa rồi nói ‘Chúa tôi ‘, là ở Phật giáo sao?" Ta hỏi. 
+
+"Không ở." 
+
+"Kia……" 
+
+Thân Ngọc Phỉ không nói một lời, bước nhanh rời đi, ta chưa kịp hỏi lại cái gì. Ta nhất biến biến mặc niệm câu kia cầu nguyện, càng niệm càng cảm giác quái dị, sau lại có một loại nói không nên lời khủng bố cảm, vì thế bước nhanh đi đến trưởng lão chỗ ở, gõ khai hắn môn. 
+
+"Nếu có người khẩn cầu Phật tổ phù hộ một cái khác Chúa, đây là có chuyện gì đâu?" Ta hỏi, sau đó kỹ càng tỉ mỉ mà nói sự tình trải qua. 
+
+Trưởng lão yên lặng mà nhìn chính mình quyển sách trên tay, nhưng hiển nhiên không có đọc, mà là suy nghĩ ta nói sự, sau đó hắn nói:"Ngươi trước đi ra ngoài trong chốc lát, làm ta ngẫm lại." Ta xoay người đi ra môn đi, biết này thực không tầm thường. Trưởng lão học thức thâm hậu, giống nhau về tôn giáo, lịch sử cùng văn hóa vấn đề, hắn đều có thể không cần nghĩ ngợi mà lập tức trả lời. Ta ở ngoài cửa đợi có một cây thuốc lá thời gian, trưởng lão kêu ta trở về. 
+
+"Ta cảm giác chỉ có một loại khả năng." Hắn thần sắc nghiêm túc mà nói. 
+
+"Cái gì? Sẽ là cái gì đâu? Chẳng lẽ khả năng có loại này tôn giáo, nó chủ yêu cầu này giáo đồ khẩn cầu mặt khác tôn giáo chủ tới cứu vớt?" 
+
+"Nàng cái kia chủ, là chân thật tồn tại." 
+
+Lời này làm ta có chút mê hoặc:"Như vậy…… Phật tổ không tồn tại sao?" Lời vừa ra khỏi miệng ta lập tức phát giác thất lễ, chạy nhanh xin lỗi. 
+
+Trưởng lão chậm rãi xua xua tay nói:"Ta nói rồi, chúng ta chi gian nói không được Phật học, Phật tổ tồn tại là ngươi không thể đủ lý giải tồn tại; mà nàng nói chủ, này đây ngươi có thể lý giải phương thức tồn tại…… Về việc này, ta không năng lực nói cho ngươi càng nhiều, chỉ là khuyên ngươi, đừng cùng nàng đi." 
+
+"Vì cái gì?" 
+
+"Ta cũng chỉ là cảm giác, cảm thấy nàng sau lưng khả năng có một ít ngươi ta đều không thể tưởng tượng sự tình." 
+
+Ta đi ra trưởng lão môn, xuyên qua chùa chiền triều chính mình chỗ ở đi đến, này đêm là trăng tròn, ta ngẩng đầu nhìn xem mặt trăng, cảm giác đó là nhìn chằm chằm ta xem một con màu bạc quái mắt, ánh trăng mang theo một cổ âm trầm hàn khí. 
+
+Ngày hôm sau, ta còn là cùng Thân Ngọc Phỉ đi rồi -- tổng không thể ở chùa miếu vẫn luôn trụ đi xuống đi -- nhưng không nghĩ tới, kế tiếp mấy năm, ta quá thượng trong mộng tưởng sinh hoạt. Thân Ngọc Phỉ thực hiện nàng lời hứa, ta có được một đài máy tính cỡ trung cùng thoải mái hoàn cảnh, còn nhiều lần xuất ngoại đi sử dụng to lớn máy tính, không phải tiến hành cùng lúc sử dụng, mà là chiếm cứ toàn bộ CPU thời gian. 
+
+Nàng rất có tiền, ta không biết nàng đâu ra nhiều như vậy tiền. Sau lại chúng ta kết hôn, không nhiều ít tình yêu cùng **, chỉ là vì hai bên sinh hoạt phương tiện mà thôi, chúng ta đều có từng người việc cần hoàn thành. Với ta mà nói, về sau mấy năm có thể dùng một ngày tới hình dung, nhật tử ở trong bình tĩnh liền đi qua. Ở kia tràng biệt thự, ta y tới thân thủ cơm tới há mồm, chỉ cần chuyên chú với Tam Thể vấn đề nghiên cứu là đến nơi. Thân Ngọc Phỉ cũng không can thiệp ta sinh hoạt, gara có ta một chiếc xe, ta có thể mở ra nó đi bất luận cái gì địa phương, ta thậm chí dám khẳng định, chính mình mang một nữ nhân về nhà nàng đều không để bụng, nàng chỉ chú ý ta nghiên cứu. Chúng ta mỗi ngày duy nhất giao lưu nội dung chính là Tam Thể vấn đề, nàng mỗi ngày đều phải hiểu biết nghiên cứu tiến triển. 
+
+"Ngươi biết Thân Ngọc Phỉ còn làm chút khác cái gì sao?" Đại Sử hỏi. 
+
+"Còn không phải là cái kia ‘ Khoa Học Biên Giới ‘ sao, nàng cả ngày liền vội cái kia, mỗi ngày trong nhà đều tới rất nhiều người." 
+
+"Nàng không có kéo ngươi gia nhập học được sao?" 
+
+"Chưa từng có, nàng thậm chí không đối ta nói qua này đó, ta cũng không quan tâm, ta chính là như vậy cá nhân, không muốn quan tâm càng nhiều sự. Nàng cũng biết rõ điểm này, nói ta là cái không có bất luận cái gì sứ mệnh cảm lười nhác người, nơi đó không thích hợp ta, ngược lại sẽ quấy nhiễu ta nghiên cứu." 
+
+"Như vậy Tam Thể nghiên cứu có tiến triển sao?" Uông Diểu hỏi. 
+
+Lấy trước mắt trên thế giới cái này nghiên cứu lĩnh vực giống nhau trạng huống tới xem, tiến triển có thể nói là đột phá tính. Mấy năm trước, California đại học Richard · Montgomery cùng Paris thứ bảy đại học Santa · Cruz, Alain · Chenciner kia, còn có nước Pháp đo nghiên cứu cơ cấu nghiên cứu nhân viên, dùng một loại gọi là"Tới gần pháp" phép tính, tìm được rồi Tam Thể vận động một loại khả năng ổn định hình thái: Ở thích hợp mới bắt đầu điều kiện hạ, Tam Thể vận hành quỹ đạo đem hình thành một cái đầu đuôi hàm tiếp 8 hình chữ. Sau lại mọi người đều ham thích với tìm kiếm loại này đặc thù ổn định trạng thái, tìm được một cái liền mừng rỡ cùng cái gì dường như, cho tới bây giờ cũng chính là tìm được rồi ba bốn loại. Kỳ thật, ta dùng thuật toán tiến hóa đã tìm được rồi một trăm nhiều loại ổn định trạng thái, đem những cái đó quỹ đạo họa ra tới, cũng đủ làm một cái hậu hiện đại phái triển lãm tranh. Nhưng này không phải mục tiêu của ta, Tam Thể vấn đề chân chính giải quyết, là thành lập như vậy một loại toán học mô hình, khiến cho Tam Thể ở bất luận cái gì một cái thời gian tiết diện mới bắt đầu vận động véc-tơ đã biết khi, có thể chính xác đoán trước Tam Thể hệ thống về sau sở hữu vận động trạng thái. 
+
+Đây cũng là Thân Ngọc Phỉ khát vọng mục tiêu. 
+
+Nhưng bình tĩnh sinh hoạt đến ngày hôm qua liền kết thúc, ta gặp chuyện phiền toái. 
+
+"Đây là ngươi muốn báo án đi?" Đại Sử hỏi. 
+
+"Đúng vậy, ngày hôm qua có cái nam nhân tới điện thoại, nói nếu ta không lập tức đình chỉ Tam Thể gian đề nghiên cứu, liền giết ta." 
+
+"Người nọ là ai?" 
+
+"Không biết." 
+
+"Số điện thoại?" 
+
+"Không biết, ta cái kia điện thoại không có điện báo biểu hiện." 
+
+"Mặt khác có quan hệ tình huống đâu?" 
+
+"Không biết." 
+
+Đại Sử cười ném thuốc lá đầu,"Phía trước xả như vậy một đại thông, cuối cùng muốn báo liền này một câu cùng mấy cái không biết?" 
+
+"Ta không xả kia một đại thông, này một câu ngươi nghe hiểu được sao ngươi? Lại nói nếu là liền điểm này chuyện này ta cũng sẽ không tới, ta người này lười sao. Hôm nay ban đêm, nga, lúc ấy là nửa đêm, ta cũng không biết là ngày hôm qua vẫn là hôm nay, ta ngủ, mơ mơ màng màng cảm thấy trên mặt có lạnh lạnh đồ vật ở động, mở mắt ra thấy được Thân Ngọc Phỉ, thật làm ta sợ muốn chết." 
+
+"Nửa đêm ở trên giường nhìn đến lão bà ngươi có cái gì đáng sợ?" 
+
+"Nàng dùng cái loại này ánh mắt xem ta, chưa từng có quá cái loại này ánh mắt, bên ngoài hoa viên ánh đèn chiếu đến trên mặt nàng, nhìn qua giống quỷ dường như. Nàng trong tay cầm một cái đồ vật, là thương! Nàng khẩu súng x ở ta trên mặt cọ, nói ta cần thiết đem Tam Thể vấn đề nghiên cứu tiến hành đi xuống, bằng không cũng giết ta." 
+
+"Ân, có chút ý tứ." Đại Sử lại điểm thượng một điếu thuốc, vừa lòng gật gật đầu. 
+
+"Cái gì kêu có ý tứ? Các ngươi xem, ta không địa phương nhưng đi, mới đến tìm các ngươi." 
+
+"Ngươi đem nàng nói với ngươi lời nói chiếu nguyên dạng nói nói." 
+
+"Nàng là nói như vậy: Nếu Tam Thể vấn đề nghiên cứu thành công, ngươi đem trở thành chúa cứu thế; nếu hiện tại đình chỉ, ngươi chính là cái tội nhân. Nếu có cá nhân cứu vớt nhân loại hoặc hủy diệt nhân loại, vậy ngươi khả năng công tích cùng tội ác, đều đem vừa lúc là hắn gấp đôi." Đại Sử phun ra nồng đậm thuốc lá sương mù, nhìn chằm chằm Ngụy Thành nhìn hảo một trận nhi ． thẳng xem đến hắn có chút bất an, sau đó từ hỗn độn trên bàn kéo quá một cái vở, cầm lấy bút."Ngươi không phải phải làm ghi chép sao? Lặp lại một lần vừa rồi kia lời nói." 
+
+Ngụy Thành lặp lại một lần sau, Uông Diểu nói:"Lời này xác thật kỳ quái ． như thế nào vừa lúc là gấp đôi đâu?" 
+
+Ngụy Thành chớp chớp mắt đối Đại Sử nói:"Xem ra việc này rất nghiêm trọng? Lúc ta tới cái kia trực ban vừa thấy ta, khiến cho ta tới tìm ngươi, nguyên lai ta sớm tại nơi này treo lên hào." 
+
+Đại Sử gật gật đầu,"Hỏi lại một chuyện nhi: Ngươi cảm thấy lão bà ngươi kia chi thương là thật vậy chăng?" Nhìn đến Ngụy Thành không biết như thế nào trả lời, hắn lại nói,"Có thương mùi dầu sao?" 
+
+"Có, khẳng định có mùi dầu!" 
+
+"Kia hảo." Ngồi ở trên bàn Đại Sử nhảy xuống nói,"Cuối cùng tìm được một cái cơ hội, phi pháp kiềm giữ súng ống hiềm nghi, là cái miễn cưỡng nói được quá khứ điều tra lý do, thủ tục ngày mai lại bổ đi ． chúng ta đến lập tức hành động." Hắn chuyển hướng Uông Diểu nói,"Này còn phải vất vả ngươi đi theo đi lại tham mưu tham mưu." Sau đó hắn đối vẫn luôn không nói chuyện từ băng băng nói,"Tiểu từ, hiện tại chuyên án tổ trực ban chỉ có hai người, không đủ, biết các ngươi tin tức chỗ đều là kim chi ngọc diệp, nhưng hôm nay ngươi cái này chuyên gia đến ra lần này công việc bên ngoài." Từ băng băng thực nhanh lên gật đầu, nàng ước gì mau chút rời đi cái này thuốc lá sương mù hôi hổi địa phương. 
+
+Chấp hành lần này điều tra nhiệm vụ trừ bỏ Đại Sử cùng tiểu từ, còn có hai gã trực ban hình cảnh. Hơn nữa Uông Diểu cùng Ngụy Thành, một hàng sáu người phân thừa hai lượng xe cảnh sát, xuyên qua sáng sớm trước nhất hắc ám bóng đêm, sử hướng cái kia thành thị bên cạnh khu biệt thự. 
+
+Từ băng băng cùng Uông Diểu ngồi ở xếp sau, xe mới vừa khai, nàng liền nói khẽ với Uông Diểu nói:"Uông lão sư, ngươi ở 《 Tam Thể 》 trung uy vọng giá trị rất cao." 
+Trong thế giới hiện thực lại có người nhắc tới 《 Tam Thể 》, Uông Diểu một trận kích động, cảm giác chính mình cùng cái này xuyên cảnh phục nữ hài khoảng cách lập tức kéo gần lại. 
+
+"Ngươi cũng chơi?" 
+
+"Ta phụ trách giám thị cùng truy tung nó, khổ sai sự một cái." 
+
+Uông Diểu vội vàng mà nói:"Ngươi có thể hay không nói cho ta một ít về nó tình huống, ta thật sự rất muốn biết." 
+
+Nương ngoài cửa sổ xe thấu tiến mỏng manh ánh đèn, Uông Diểu nhìn đến từ băng băng thần bí mà cười. 
+
+"Chúng ta cũng muốn biết đâu, nhưng nó server ở ngoại cảnh, hệ thống cùng tường phòng cháy đều thực kín mít, không hảo tiến a. Hiện tại biết đến tình huống không nhiều lắm: Nó khẳng định thị phi doanh thu, trò chơi phần mềm trình độ rất cao, thậm chí có thể nói cao đến không bình thường, còn có trong đó tin tức lượng, ngài cũng biết, càng không bình thường, này chỗ nào giống một cái trò chơi a!" 
+
+"Phương diện này, có hay không cái gì……" Uông Diểu cẩn thận mà châm chước từ ngữ,"Giống như siêu tự nhiên dấu hiệu." 
+
+"Này chúng ta đảo cảm thấy không có, tham gia trò chơi này biên trình người rất nhiều, trải rộng thế giới các nơi, khai phá phương thức rất giống mấy năm trước hồng quá một trận nhi Linux, nhưng lần này, khẳng định sử dụng nào đó thực vượt mức quy định khai phá công cụ. Đến nỗi những cái đó tin tức, quỷ tài biết chúng nó là từ đâu nhi tới, kia cũng thật có chút…… Ngài nói siêu tự nhiên, bất quá chúng ta vẫn là tin tưởng sử đội câu kia danh ngôn, này hết thảy khẳng định đều là nhân vi. Chúng ta truy tung vẫn là thành công hiệu, thực mau sẽ có kết quả." 
+
+Cô nương rốt cuộc vẫn là bất lão luyện, cuối cùng những lời này sử Uông Diểu minh bạch nàng gạt chính mình rất nhiều."Hắn kia lời nói thành danh ngôn?" Uông Diểu nhìn xem phía trước lái xe Đại Sử nói. 
+
+Tới biệt thự khi trời còn chưa sáng, biệt thự thượng tầng có một phòng đèn sáng ． mặt khác cửa sổ đều hắc. Uông Diểu mới vừa đi xuống xe, lập tức nghe được trên lầu phát ra thanh âm, hợp với vài tiếng, như là thứ gì ở chụp tường. Mới vừa xuống xe Đại Sử nghe thế thanh âm sau lập tức cảnh giác lên, một chân đá văng hờ khép viện môn, lấy cùng hắn kia cường tráng thân hình không tương xứng nhanh nhẹn bay nhanh vọt vào biệt thự, hắn ba gã đồng sự theo sau theo vào. Uông Diểu cùng Ngụy Thành đi theo vào biệt thự, từ phòng khách lên lầu hai, đi vào kia gian mở ra môn đèn sáng phòng, đế giày"Bạch bạch" mà đạp ở đang ở hướng ra phía ngoài chảy xuôi vũng máu trung -- ngày đó ban đêm cũng là lúc này, Uông Diểu chính là ở cái này phòng nhìn đến Thân Ngọc Phỉ ở chơi 《 Tam Thể 》-- hiện tại, nàng nằm thẳng ở phòng ở giữa, trước ngực hai cái lỗ đạn còn ở dũng huyết, đệ tam viên viên đạn từ tả ấn đường lọt vào, khiến nàng toàn bộ mặt đều hồ ở huyết trung, ở cự nàng cách đó không xa, một chi súng lục ngâm ở huyết. 
+
+Uông Diểu tiến vào khi, chính đuổi kịp Đại Sử cùng hắn một vị nam đồng sự lao tới, vào đối diện một gian mở ra môn hắc đèn phòng, kia phòng cửa sổ mở rộng ra, Uông Diểu nghe được bên ngoài có ô tô phát động thanh âm. Một người nam cảnh sát bắt đầu gọi điện thoại, từ băng băng xa xa mà đứng ở một bên khẩn trương mà nhìn, nàng đại khái cùng Uông Diểu bọn họ giống nhau, cũng là lần đầu tiên nhìn thấy trận này mặt. Đại Sử thực mau trở lại, một bên khẩu súng cắm hồi trước ngực bộ trung, một bên đối cái kia gọi điện thoại đồng sự nói:"Màu đen Santana, chỉ có một người, xe hào thấy không rõ, làm cho bọn họ trọng điểm phong tỏa năm hoàn nhập khẩu, nãi nãi, khả năng muốn cho hắn lưu." Đại Sử nhìn quanh bốn phía, thấy được trên tường mấy cái lổ đạn, lại nhìn lướt qua trên mặt đất rơi rụng vỏ đạn, nói,"Đối phương khai năm thương, đánh trúng tam thương; nàng khai hai thương, cũng chưa trung." Sau đó ngồi xổm xuống cùng nam đồng sự cùng nhau kiểm nghiệm thi thể. Tiểu từ vẫn xa xa đứng, trộm nhìn đứng ở nàng bên cạnh Ngụy Thành liếc mắt một cái, Đại Sử cũng ngẩng đầu nhìn hắn liếc mắt một cái. Ngụy Thành trên mặt có một tia khiếp sợ, một tia bi ai, nhưng cũng gần là một tia mà thôi, hắn kia cố hữu đờ đẫn vẫn không có bị đánh vỡ, so với Uông Diểu tới, hắn trấn tĩnh nhiều. 
+
+"Ngươi giống như không sao cả a, người nọ có thể là tới giết ngươi." Đại Sử đối Ngụy Thành nói. 
+
+Ngụy Thành cư nhiên cười một chút, thê thảm cười."Ta có thể thế nào? Đến bây giờ, đối nàng ta kỳ thật là hoàn toàn không biết gì cả, ta không ngừng một lần khuyên nàng đem sinh hoạt quá đến đơn giản chút, nhưng…… Ai, ngẫm lại năm đó đêm đó trưởng lão khuyên ta nói đi." 
+
+Đại Sử đứng lên, đi đến Ngụy Thành trước mặt, móc ra thuốc lá tới điểm thượng một chi,"Ngươi tổng còn có chút tình huống không nói cho chúng ta biết đi?" 
+
+"Có một số việc, ta lười đến nói." 
+
+"Vậy ngươi hiện tại nhưng đến cần mẫn chút!" 
+
+Ngụy Thành nghĩ nghĩ nói:"Hôm nay, nga, là ngày hôm qua buổi chiều, nàng ở phòng khách cùng một người nam nhân cãi nhau, chính là cái kia Phan Hàn, trứ danh bảo vệ môi trường chủ nghĩa giả. Bọn họ trước kia cũng cãi nhau vài lần giá, dùng chính là Nhật ngữ, giống như sợ ta nghe được, nhưng ngày hôm qua bọn họ cái gì cũng không để ý, nói chính là tiếng Trung Quốc, ta nghe được vài câu." 
+
+"Ngươi tận lực ấn nguyên nói." 
+
+"Hảo đi. Phan Hàn nói: Chúng ta này đó mặt ngoài đi đến cùng nhau người, trên thực tế là ở vào hai cái cực đoan địch nhân! Thân Ngọc Phỉ nói: Đúng vậy, các ngươi nương chủ lực lượng phản đối nhân loại. Phan Hàn nói: Ngươi như vậy lý giải cũng không phải hoàn toàn không có đạo lý, chúng ta yêu cầu chủ buông xuống thế giới, trừng phạt những cái đó đã sớm nên đã chịu trừng phạt tội ác, mà ngươi ở ngăn cản loại này buông xuống, cho nên chúng ta thế bất lưỡng lập, các ngươi nếu là không ngừng ngăn, chúng ta sẽ làm các ngươi đình chỉ! Thân Ngọc Phỉ nói: Cho các ngươi này đó ma quỷ tiến người tổ chức, Thủ lĩnh thật mắt bị mù! Phan Hàn nói: Nói đến Thủ lĩnh, Thủ lĩnh là nào nhất phái? Phe đổ bộ vẫn là Phe cứu thế, ngươi nói được thanh? Phan Hàn lời này làm Thân Ngọc Phỉ trầm mặc hảo một trận nhi, sau đó hai người nói chuyện liền không lớn tiếng như vậy kịch liệt, ta cũng lại không nghe được." 
+
+"Trong điện thoại uy hiếp ngươi người kia, hắn thanh âm giống ai?" 
+
+"Ngươi là nói giống Phan Hàn sao? Không biết, lúc ấy thanh âm rất nhỏ, ta nghe không hiểu." 
+
+Lại có mấy lượng xe cảnh sát minh còi cảnh sát ngừng ở bên ngoài, một đám mang bao tay trắng cầm cameras cảnh sát đi lên lâu tới, biệt thự công việc lu bù lên. Đại Sử làm Uông Diểu đi về trước nghỉ ngơi, Uông Diểu đi đến kia gian có máy tính cỡ trung trong phòng tìm được rồi Ngụy Thành. 
+
+"Cái kia Tam Thể vấn đề thuật toán tiến hóa mô hình, ngài có thể hay không cho ta một phần điểm chính linh tinh đồ vật, ta tưởng ở…… Một cái trường hợp giới thiệu một chút, này yêu cầu thực đường đột, nếu không được liền tính." 
+
+Ngụy Thành lấy ra một cái ba tấc đĩa CD đưa cho Uông Diểu."Đều ở bên trong này, toàn bộ mô hình cùng phụ gia hồ sơ. Ngươi nếu là tưởng rất tốt với ta, liền dùng tên của mình đem nó phát biểu, kia thật giúp ta đại ân." 
+
+"Không không, sao có thể!" 
+
+Ngụy Thành chỉ vào Uông Diểu trong tay đĩa CD nói:"Uông giáo sư, kỳ thật trước kia ngươi tới thời điểm ta liền chú ý tới ngươi, ngươi là người tốt, có trách nhiệm tâm người tốt, cho nên, ta còn là khuyên ngươi ly thứ này xa chút, thế giới liền phải phát sinh đột biến, mỗi người có thể tận lực bình an mà tống cổ xong quãng đời còn lại, chính là rất may, khác không cần tưởng quá nhiều, dù sao vô dụng." 
+
+"Ngươi giống như còn biết càng nhiều sự?" 
+
+"Mỗi ngày cùng nàng ở bên nhau ． không có khả năng cái gì cũng không biết." 
+
+"Kia vì cái gì không nói cho cảnh sát đâu?" 
+
+Ngụy Thành khinh thường mà cười:"Xuy, cảnh sát tính cái chó má, thượng đế tới cũng chưa dùng, hiện tại toàn nhân loại đã tới rồi ‘ kêu trời thiên không đáp, kêu mà mà không ứng ‘ nông nỗi." 
+
+Ngụy Thành đứng ở dựa đông bên cửa sổ, ở thành thị cao lầu đàn mặt sau không trung nắng sớm sơ hiện, không biết vì cái gì, cái này làm cho Uông Diểu nghĩ tới mỗi lần tiến vào 《 Tam Thể 》 khi nhìn đến quỷ dị sáng sớm. 
+
+"Kỳ thật ta cũng không phải như vậy siêu thoát, mấy ngày nay đều là suốt đêm ngủ không được, buổi sáng lên từ nơi này nhìn đến mặt trời mọc khi, tổng cảm thấy là mặt trời lặn." Hắn chuyển hướng Uông Diểu, trầm mặc thật lâu sau sau nói,"Kỳ thật này hết thảy đều ở chỗ, thượng đế, hoặc nàng nói chủ, tự thân khó bảo toàn."

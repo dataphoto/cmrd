@@ -1,0 +1,117 @@
+Đệ 166 chương : ( bá đạo dương danh sân đấu )
+ 
+ 	Tiểu thuyết: Võng du chi Bá Thứ tác giả: Thỏ suy đoán
+ 
+ 	Này là phi thường tên bá đạo dương danh series nhiệm vụ, có ( bá đạo dương danh sân đấu ), ( bá đạo dương danh quốc chiến ), ( bá đạo dương danh bang hội chiến ), ( bá đạo dương danh luận võ đảo ) vân vân.
+ 
+ 	Mỗi cái series cũng có thể tiếp, nhưng cũng trong lúc đó đoạn bên trong chỉ có thể nắm giữ một cái đồng loại nhiệm vụ, nhận một người trong đó, liền không thể tiếp còn lại.
+ 
+ 	Cái này sân đấu nhiệm vụ nội dung càng là đơn giản sáng tỏ:
+ 
+ 	Một tuần bên trong, khiến cho ngươi sân đấu đếm đạt đến 10000 điểm.
+ 
+ 	Đối(đúng) một player bình thường, hoặc là bình thường trâu bò đại hào tới nói, một ngày đánh 100 lần sân đấu liền đủ đủ, hơn nữa còn đến bảo đảm thắng nhiều thua ít, thậm chí là thắng địa buổi diễn chiếm cứ tuyệt đại đa số, như vậy mới tương đương với là hiểu được kiếm lời, thu được thi đấu đếm giá trị, khoảng chừng có thể thoáng vượt qua đồng dạng đoạn thời gian bên trong dày đặc xoạt quái.
+ 
+ 	Nếu như đem lựa chọn võ đài gian phòng thời gian, thi đấu trước đếm ngược thời gian, cùng với gặp phải đối thủ khó dây dưa kéo dài lúc đối chiến cùng tính toán đi vào, này một trăm tràng sân đấu, khoảng chừng là năm trăm phút, hơn tám giờ.
+ 
+ 	Người bình thường ai có thể dễ dàng chịu đựng tám giờ chiến đấu —— thắng thua —— chiến đấu —— thắng thua
+ 
+ 	Tám giờ một hồi quốc chiến đều đánh xong.
+ 
+ 	Vì lẽ đó này một trăm tràng sân đấu thi đấu, cơ bản đều là các người chơi phân đoạn tiến hành, lời đầu tiên kỷ đánh một hồi, sau đó mua điểm hệ thống đồ ăn vặt ăn, tiến vào gian phòng của người khác quan chiến, xem là xem phim như thế giải trí, cùng thả lỏng đến gần như thời điểm lại chính mình lên sân khấu làm.
+ 
+ 	Mặc dù là như vậy, có thể một ngày hoàn thành một trăm tràng thi đấu player cũng tuyệt đối là số ít.
+ 
+ 	Bình thường thi đấu đại thể đều là không thêm quyền thi đấu, thắng một hồi thêm một phần, thua một hồi giảm một phần.
+ 
+ 	Còn có một loại là thêm quyền thi đấu, trận đầu +1 phân hoặc —1 phân, trận thứ hai +2 phân hoặc —2 phân, cứ thế mà suy ra, mãi cho đến thứ một trăm tràng, +100 phân hoặc —100 phân.
+ 
+ 	Trong lúc này, chỉ cần là ngươi vẫn thắng được đi, thì lại điểm sẽ một tấm dâng lên, mãi cho đến đệ 100 tràng mức cao nhất, lại sau này, mỗi thắng một hồi, đều là +100 phân, mà từ trận thứ hai thêm giảm 2 tách ra bắt đầu, mãi cho đến bất luận bao nhiêu tràng phía sau thêm giảm một trăm phân, trong thời gian này, chỉ cần ngươi thua một hồi, như vậy, thất bại được phụ điểm lập tức khóa chặt, sau đó chỉ cần thất bại, sẽ chụp hạn mức này điểm. Nhưng thua sau lại thắng, nhưng là từ +1 tách ra bắt đầu một lần nữa tính toán.
+ 
+ 	Tỷ như, ngươi liên tục thắng chín mươi chín tràng, hiện tại nếu như ở thắng một hồi, ngươi điểm sẽ trực tiếp tăng cường 100 phân, nhưng thứ một trăm tràng thời điểm ngươi thua hết, thì lại điểm sẽ giảm đi 100 phân, phía dưới một hồi, thắng, nhưng là +1 phân, lại thắng +2 phân, quy luật cùng trước tương đồng, thế nhưng giả thiết ngươi thua hết, thì lại sẽ trực tiếp —100 phân, bất luận ngươi là thắng một hồi sau liền thua trận một hồi, vẫn là liên tục thắng năm mươi tràng sau mới thua trận một hồi,
+ 
+ 	Đều là mỗi thua một hồi —100 phân.
+ 
+ 	Vì lẽ đó, thêm quyền thi đấu, nhưng là rất ít người sẽ bắt đầu dùng, bởi vì không thua nổi.
+ 
+ 	Bất kể là thêm quyền thi đấu vẫn là không thêm quyền thi đấu, hệ thống giả thiết đều là gần gũi điểm bên trong khu vực đối thủ tùy cơ, nói cách khác, ngươi căn bản không biết cái kế tiếp đối thủ sẽ là ra sao cấp độ thực lực, hắn điểm tuy rằng cùng ngươi không kém nhiều, thế nhưng thực lực nhưng rất khả năng đối với ngươi hình thành nghiền ép.
+ 
+ 	Mà Nhiếp Túng muốn chơi một vố lớn, hắn muốn ở trong vòng mấy tiếng để cho mình sân đấu đếm đột phá 10 ngàn!
+ 
+ 	Cái mục tiêu này vô cùng doạ người, coi như là thêm quyền thi đấu là hình thức đều không thể trợ giúp hắn đạt đến mục đích, thế nhưng, còn có loại thứ ba kinh người nhất điểm tích lũy phương pháp. . .
+ 
+ 	Sân đấu kiến trúc từ bên ngoài xem căn bản không lớn, nhưng cũng điêu khắc bảy đại nghề nghiệp pho tượng, mà một khi tiến vào sân đấu cửa lớn phía sau, thì lại thì tương đương với là tiến vào một loại cực lớn phó bản, hỗn loạn hệ thống không gian chồng chất kỹ thuật cao nhất bày ra, chính là sân đấu.
+ 
+ 	Nhiếp Túng đi vào, 2,3 phút sau, theo dõi hắn người cũng đi vào, nhưng cũng vô dụng, bởi vì hắn đi tới chính là một rộng lớn vô ngần không gian vũ trụ, từng toà từng toà hư không võ đài khác nào khảm nạm ở đen kịt trong bầu trời đêm chòm sao, tô điểm trên dưới phải trái bốn phương tám hướng.
+ 
+ 	Nhiếp Túng trước mặt nhảy ra ba cái nửa trong suốt lựa chọn khuông, phân biệt là:
+ 
+ 	( một mình đấu )
+ 
+ 	( đoàn chiến )
+ 
+ 	( đánh cuộc )
+ 
+ 	Hệ thống: Xin mời lựa chọn thi đấu phương thức.
+ 
+ 	Một mình đấu!
+ 
+ 	Ba cái khuông có hai cái biến mất, còn lại ( một mình đấu ), sau đó ở phía dưới lại sinh thành ba cái tân lựa chọn khuông:
+ 
+ 	( Tề quốc đối thủ )
+ 
+ 	( không phải Tề quốc đối thủ )
+ 
+ 	( thế giới đối thủ )
+ 
+ 	Hệ thống: Xin mời lựa chọn thi đấu đối thủ.
+ 
+ 	Thế giới đối thủ!
+ 
+ 	Ba cái khuông trung hai cái biến mất, lưu lại ( thế giới đối thủ ), phía dưới lại sinh thành ba cái lựa chọn khuông.
+ 
+ 	( truyền thống võ đài )
+ 
+ 	( đặc thù địa hình võ đài )
+ 
+ 	( tùy cơ )
+ 
+ 	Hệ thống: Xin mời lựa chọn võ đài loại hình.
+ 
+ 	Truyền thống võ đài!
+ 
+ 	Ba cái khuông biến mất hai cái, lưu lại ( truyền thống võ đài ), phía dưới vẫn như cũ sinh thành ba cái lựa chọn khuông.
+ 
+ 	( thêm quyền tích lũy )
+ 
+ 	( không thêm quyền tích lũy )
+ 
+ 	( cực đoan tích lũy )
+ 
+ 	Hệ thống: Xin mời lựa chọn điểm tích lũy phương thức.
+ 
+ 	Cực đoan tích lũy!
+ 
+ 	Hệ thống: Lựa chọn hoàn thành, căn cứ ngươi hiện nay sân đấu điểm, xuất chiến buổi diễn cùng với tỷ lệ thắng, ngươi cực đoan tích lũy bổ trợ trị số vì là 100, đạt đến cực đoan tích lũy hạn mức tối đa.
+ 
+ 	100 điểm! Rất tốt!
+ 
+ 	Nhiếp Túng muốn chính là hiệu quả này, đối(đúng) hiện tại Nhiếp Túng tới nói, bởi vì hắn chưa từng tới bao giờ sân đấu, vì lẽ đó sân đấu điểm là 0, xuất chiến buổi diễn là 0, tỷ lệ thắng vẫn là 0!
+ 
+ 	Đây chính là một loại nhất là cực đoan trạng thái, hệ thống sẽ tự động đem trạng thái như thế này phán định vì là là vừa bước lên sân đấu con đường bắt đầu lại từ đầu người mới, cũng chỉ có bắt đầu lại từ đầu người mới, mới có thể ở cực đoan điểm tích lũy trung được tối hạn mức tối đa tích lũy bổ trợ, chính là 100. ( )
+ 
+ 	Vậy thì mang ý nghĩa, Nhiếp Túng mỗi đánh thắng một cuộc tranh tài, liền có thể có được 100 điểm tích phân!
+ 
+ 	Ở tình huống bình thường, thắng một cuộc tranh tài là 1 điểm tích phân, thua một cuộc tranh tài là —1 điểm tích phân.
+ 
+ 	Cũng tức là nói, ở điểm cực đoan tích lũy đồng thời đến hạn mức tối đa tình huống, Nhiếp Túng đánh một trận thi đấu, thì tương đương với người khác đánh một trăm tràng!
+ 
+ 	Thế nhưng, hệ thống là không thể làm cho người ta dễ dàng như vậy một đêm phất nhanh cơ hội, thu hoạch lớn tất nhiên nương theo nguy hiểm to lớn, cái này nguy hiểm làm cho mười quốc trong sân đấu đã rất nhiều thiên không xuất hiện khởi động cực đoan tích lũy kẻ điên.
+ 
+ 	Một khi lựa chọn điểm cực đoan tích lũy, như vậy, chỉ cần Nhiếp Túng thua trận một cuộc tranh tài, trước hắn chiếm được tất cả điểm toàn bộ thanh linh!
+ 
+ 	Hơn nữa, cực đoan tích lũy một khi mở ra, liền không thể tùy tiện đình chỉ, mà là lấy mười tràng làm đơn vị, bất luận thành bại, ngươi nhất định phải đánh đủ mười tràng mới có thể tự chủ lựa chọn kết thúc tích lũy, bằng không đem không cách nào rời đi sân đấu, mà trong thời gian này, mặc dù player chơi xấu dùng logout để trốn tránh, hệ thống sẽ tự động cho player bù đắp còn lại chưa hoàn thành buổi diễn, đương nhiên, toàn bộ là lấy thất bại kết quả đến tính toán điểm.
+ 
+ 	Hơn nữa trong sân đấu có một thông dụng quy định, vậy thì là, nếu như điểm đạt đến —100 phân, liền tạm thời mất đi tiến vào sân đấu thi đấu tư cách, chờ đợi mỗi ngày hệ thống tự động cho ngươi tiêu một phần chầm chậm tốc độ lai sứ chính mình một lần nữa thu được tiến vào sân đấu thi đấu tư cách.
+ 
+ 	(ai, tuần sau lại là trần truồng mà chạy, chúng ta thu gom đếm một trực là ba ngàn sáu, cơ bản không tăng, có thể muốn muốn lấy được trang web cường đẩy, đến năm ngàn thu gom, người khác võng du thư thường thường rất dễ dàng đạt đến, phảng phất đối(đúng) chúng ta thư tới nói, thu gom này một hạng quá khó tăng lên, làm thật đáng buồn a! )

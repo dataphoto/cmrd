@@ -1,0 +1,349 @@
+Chương 587: Bạn trên mạng nhiệt nghị 
+ Converter Dzung Kiều cầu phiếu 
+
+	"Đừng, ta chính là một cái gọi là phế, đối với đặt tên những thứ này ta thật không phải, chú Lưu, chú hãy tha cho ta đi."Mưu Huy Dương nghe xong nhanh chóng phe phẩy tay nói.
+
+	"Tiểu Dương, cái này trường học mới với tình với lễ cũng hẳn do ngươi tới đặt tên, ngươi liền đừng từ chối, nhanh chóng muốn một cái vang dội tên chữ đi ra."Thay mặt hoa cúc cười nói.
+
+	"Chính phải chính phải, tiểu Dương nhanh, đừng ở vết mực!"Thôn ủy những người khác cùng với ở chung quanh bọn họ các hương thân cũng đi theo ồn ào lên đến.
+
+	"Các người đây là muốn ép gà trống đẻ trứng gà mái gáy à!"Mưu Huy Dương nghe mọi người lời nói sau đó, cười khổ nói.
+
+	"Tiểu Dương ngươi liền chớ khiêm nhường, nhanh chóng cho trường học mới muốn một cái tên đi."Thấy Mưu Huy Dương vậy tấm khổ mặt, Lưu Trung Nghĩa ở một bên vui tươi hớn hở cười nói.
+
+	"Ai, nếu mọi người muốn không trâu bắt chó đi cày, vậy ta liền bêu xấu, bất quá danh tự này nếu là lấy không được khá mọi người có thể đừng chê cười ta ha ha."Mưu Huy Dương nói.
+
+	"Ngươi liền đừng dài dòng nữa, ngươi nghĩ cái gì tên chữ nhanh chóng nói ra đi, đừng giống như một phụ nữ tựa như ma ma tức tức địa."Chữa trị bảo vệ chủ nhiệm chu toàn nói.
+
+	"Vậy cũng tốt, ta suy nghĩ hồi lâu, cũng chỉ nghĩ ra một cái tên, chính là long tường, các người nhìn chúng ta trường học mới liền kêu Long Tường, mọi người cảm thấy thế nào?"Mưu Huy Dương sau khi nói xong cười híp mắt nhìn mọi người.
+
+	/*Dzung Kiều : Long Tường=rồng bay lượn*/
+
+	"Ha ha, long tường cửu thiên , tốt, danh tự này ngụ ý không tệ, dễ nghe còn hào khí, sau này thôn chúng ta trường học liền kêu long tường." Lưu Trung Nghĩa ha ha cười lớn nói.
+
+	Chỉ như vậy còn đang kiến thiết ở giữa trường học chỉ như vậy bị đặt tên, những thứ này xây cất trường học tiền đều là các hương thân quyên hiến cho, bọn họ có quyền biết mình quyên đi ra ngoài tiền đều dùng ở địa phương nào.
+
+	Ở lúc trở về Mưu Huy Dương đề nghị, để cho trong thôn đem các thôn dân quyên hiến khoản tiền này, mỗi một khoản chi tiêu cũng làm ra một cái tỉ mỉ ghi chép, cũng đem sử dụng tình huống thiếp bảng công bố ra, để cho các hương thân cũng biết mình quyên đi ra ngoài tiền đều tốn ở địa phương nào.
+
+	"Tiểu Dương đề nghị này rất tốt, kế đỏ, lúc này thì có ngươi cùng hậu thôn trưởng phụ trách, đặc biệt thành lập một cái hóa đơn, đem khoản tiền này chi tiêu tình huống cặn kẽ thống kê xuống, cũng dùng đỏ thẫm giấy hướng toàn thôn tấm bảng công bố trí."Lưu giống nghe xong gật đầu đem chuyện này cho an bài xong.
+
+	"Tiểu Dương, trường học này đã bắt đầu động công, ngươi đáp ứng hỗ trợ tìm giáo viên sự việc, có thể không thể quên, nếu không sang năm mở lúc đi học, trong thôn tất cả trở về em bé cũng ngồi ở trong phòng học, lại không có giáo viên dạy giờ học mà nói, nếu là chuyện này lại để cho những cái kia du khách truyền lên đến lưới đi lên, vậy chúng ta thôn thì thật nổi danh, hề hề. . ."Lưu Trung Nghĩa hề hề cười nói.
+
+	Lưu Trung Nghĩa nói lời này cũng không phải là hù dọa người, lần này thôn Long Oa toàn thể thôn dân mình quyên tiền xây trường học rầm rộ, liền bị du khách chụp xuống tới truyền đến trên Net, đưa tới rất nhiều dân trên mạng nghị luận.
+
+	"Chú Lưu, chú cứ yên tâm đi, đến lúc đó nếu là ta không tìm được giáo viên, ở nhà chúng ta nghỉ ngơi vị kia có thể nói rồi muốn xuất thủ trợ giúp, lấy hắn năng lực chiêu nhiều ít giáo viên tới cũng không có vấn đề gì, đến lúc đó liền sợ chúng ta trường học quá nhỏ, không tiếp thụ nổi nhiều như vậy giáo viên đây."Mưu Huy Dương hề hề cười nói.
+
+	" Ừ, có ngươi lời này ta an tâm."Lưu Trung Nghĩa sau khi nói xong, đưa qua đầu thấp giọng hỏi: "Tiểu Dương, ta nghe nói bây giờ ở nhà ngươi nghỉ ngơi vị kia, từ tỉnh trưởng thấy hắn cũng tôn kính rất, hắn đến tột cùng là vị dạng gì nhân vật lớn à?"
+
+	"Chú Lưu, chú đừng để ý hắn là người nào, cũng không nên hỏi, dù sao ngươi chỉ cần biết nếu là hắn chịu hỗ trợ, mới vừa rồi ngươi nói những vấn đề kia liền không là vấn đề là được."Mưu Huy Dương thấp giọng trả lời.
+
+	"Tê, ta biết, sau này ta lại cũng không hỏi."Lưu Trung Nghĩa biết có một số việc biết, cũng không có ích lợi gì, nghe xong hít một hơi nói.
+
+	Minh ngày hôm qua không có lưu ý, mới vừa rồi nghe Lưu Trung Nghĩa nói xây cất trường học sự việc ở trên mạng đã đưa tới nhiệt nghị, Mưu Huy Dương về đến nhà cùng Triệu lão bọn họ lên tiếng chào sau đó, liền chui vào nhà của mình đem máy vi tính mở ra.
+
+	"Anh Dương, ta xem ngươi trở lại một cái liền trở về phòng, còn lấy vì có chuyện gì chứ? Không nghĩ tới ngươi đây là muốn chơi trò chơi."Lưu Hiểu Mai đi theo đi vào, cười tủm tỉm nói.
+
+	"Hiểu Mai, ta đây không phải là muốn chơi trò chơi, mới vừa rồi nghe chú Lưu nói thôn chúng ta xây trường học chuyện, ở trên mạng đưa tới các bạn trên mạng nhiệt nghị, ta liền muốn xem xem các bạn trên mạng cũng nói gì."Mưu Huy Dương đem Lưu Hiểu Mai kéo qua ở ngồi xuống bên người nói.
+
+	"Chuyện này ta tối ngày hôm qua lên Net thời điểm liền thấy, nói cái gì cũng có, ngươi nhìn nói không chừng còn biết chọc tức cành hông đây."Lưu Hiểu Mai vẫn do Mưu Huy Dương ôm mình eo nhỏ nói.
+
+	"Bây giờ lời bàn tự do mà! Bọn họ muốn nói cái gì đó là chuyện của bọn họ, ta liền muốn xem xem bọn họ cũng nói gì."Mưu Huy Dương một bên trả lời, trên tay thật nhanh điểm mở một cái hắn quen thuộc địa phương lớn nhất diễn đàn.
+
+	Tiến vào bên trong diễn đàn mặt vừa thấy, quả nhiên những cái kia các bạn trên mạng cái gì cũng nói, Mưu Huy Dương một cái một cái địa từ từ nhìn như.
+
+	"Liền thôn Long Oa vậy bị núi lớn bao bọc, cách nhau mười mấy dặm núi lớn ra mới có dân cư vùng đất xa xôi, trường học sửa lại tốt trừ mình hài tử trong thôn, chỗ khác người làm sao có thể đem đứa trẻ đưa đi bọn họ trường học đi học, cái này thuần túy chính là đang lãng phí."
+
+	"Đúng vậy, người thôn Long Oa ngu, vì nổi tiếng lại tốn nhiều như vậy tiền ở một cái núi ổ trong ổ sửa trường học, đến lúc đó trường học sửa xong chưa người đi đọc, xem bọn họ làm sao khóc."
+
+	"Cũng không thể như thế nói, không phải có một câu như vậy sao. Rượu này thơm không sợ ngõ hẻm sâu, chỉ cần thôn Long Oa trường học trường học chất lượng tốt, vẫn là có rất nhiều người nguyện ý đem đứa trẻ đưa đi nơi đó đi học."
+
+	"Đồng ý, ta nghe nói thôn Long Oa sinh thái hoàn cảnh giữ tốt vô cùng, nơi đó núi xanh nước trong, nếu là bọn nhỏ đi nơi đó đi học, cùng để cho đứa trẻ ở trong thành phố mỗi ngày hấp thu những cái kia bị ô nhiễm không tương so, ta cảm thấy để cho đứa trẻ đi nơi đó đi học, vẫn có thể hưởng thụ được tự nhiên dưỡng khí đi, cũng rất tốt."
+
+	"Comment trên, các người là chỉ biết kỳ nhiên không biết chuyện gì xảy ra, theo ta biết, trước mắt thôn Long Oa tiểu học liền đến một cái lớp 3 ba lớp cấp, lớp 3 trở lên học sinh cũng đến bọn họ trấn trên đi học, cũng không có ở thôn Long Oa bây giờ trường học liền đọc."
+
+	"Tại sao? ? Cầu giải trừ! !"
+
+	"Bởi vì vì thôn Long Oa trước kia chân thực quá nghèo, cộng thêm giao thông lại không tiện lợi, ra một lần thôn muốn mấy giờ không nói, còn làm cho người một thân đất vàng bụi bặm. Bởi vì nguyên nhân này, thượng cấp phân phát đến thôn Long Oa giáo viên, không có một cái có thể ở nơi đó nán lại một năm liền rối rít tìm quan hệ điều đi."
+
+	"Trước mắt, thôn Long Oa chỉ một cái thập niên 80 trong thôn ra học sinh cấp 3, mang ngoài ra một người sau đó đọc qua trường THPT người trong thôn, chống đỡ đến một cái lớp 3 ba lớp này cấp, nếu không thôn Long Oa những đứa trẻ kia, bảy tám tuổi phải chạy mười mấy dặm đường đến trấn trên đi học."
+
+	"Nha! Không nghĩ tới thôn Long Oa đứa trẻ trước kia đi học là gian nan như vậy à? Thật đáng thương!"Điều này hiển nhiên là một vị có mãnh liệt đồng tình tâm cô em nhắn lại.
+
+	"Thôn Long Oa trước kia điều kiện là đủ gian khổ, chính là những cái kia ở trong thôn đọc đến lớp 3 học sinh, thật là nhiều sau đó cũng thôi học. Bất quá bây giờ thôn Long Oa điều kiện và so với trước kia, có thể nói là xảy ra biến hóa long trời lỡ đất."
+
+	"Đều có những biến hóa? Nhanh chóng nói nghe một chút!"
+
+	"Đầu tiên, bây giờ thôn Long Oa vào thôn quốc lộ cũng tu thành chiều rộng hơn 6m mặt đường xi măng, trong thôn thôn dân thu vào cũng tăng cao không thiếu, hơn nữa thôn Long Oa hoàn cảnh quả thật không tệ, mọi người không có chuyện có thể đi xem xem, mặc dù trước mắt còn không có gì chuyện đùa hạng mục, nhưng đi hưởng thụ một chút đại tự nhiên cung cấp thiên nhiên dưỡng khí đi, hít thở một chút nơi đó không khí mát mẽ, xem xem thôn bốn phía nồng nặc kia thương thúy, cũng là rất tốt."
+
+	"Con bà nó, làm nửa ngày người anh em ngươi đây là đang vì thôn Long Oa làm quảng cáo à!"
+
+	" Đúng vậy, khinh bỉ ngươi!"
+
+	"Ngươi hẳn là người thôn Long Oa chứ ? Nếu không làm sao biết như thế rõ ràng?"
+
+	"Thận trọng nói rõ, ta chỉ là một người biết chuyện, không phải thôn Long Oa thôn dân, nhưng ta có một cái rất tốt bạn học là thôn Long Oa, ta đi thôn bọn họ chơi qua không ít lần, mới biết như thế cặn kẽ, hơn nữa ta nói những thứ này đều là thật, tuyệt không có lừa dối mọi người."
+
+	Mưu Huy Dương đem vị này miễn phí vì thôn Long Oa làm tuyên truyền người chụp chụp số ghi xuống, nghĩ đến sau này người này nếu tới thôn Long Oa, mình nhất định phải mời hắn uống rượu.
+
+	Hắn lại nhìn một chút trang web khác phía trên có liên quan thôn Long Oa tin tức, đối với quyên tiền xây trường học chuyện này, dân trên mạng cửa là bao biếm không đồng nhất, nhưng nói tổn lời người nhiều nhất.Chương 587: Bạn trên mạng nhiệt nghị 
+ Converter Dzung Kiều cầu phiếu 
+
+	"Đừng, ta chính là một cái gọi là phế, đối với đặt tên những thứ này ta thật không phải, chú Lưu, chú hãy tha cho ta đi."Mưu Huy Dương nghe xong nhanh chóng phe phẩy tay nói.
+
+	"Tiểu Dương, cái này trường học mới với tình với lễ cũng hẳn do ngươi tới đặt tên, ngươi liền đừng từ chối, nhanh chóng muốn một cái vang dội tên chữ đi ra."Thay mặt hoa cúc cười nói.
+
+	"Chính phải chính phải, tiểu Dương nhanh, đừng ở vết mực!"Thôn ủy những người khác cùng với ở chung quanh bọn họ các hương thân cũng đi theo ồn ào lên đến.
+
+	"Các người đây là muốn ép gà trống đẻ trứng gà mái gáy à!"Mưu Huy Dương nghe mọi người lời nói sau đó, cười khổ nói.
+
+	"Tiểu Dương ngươi liền chớ khiêm nhường, nhanh chóng cho trường học mới muốn một cái tên đi."Thấy Mưu Huy Dương vậy tấm khổ mặt, Lưu Trung Nghĩa ở một bên vui tươi hớn hở cười nói.
+
+	"Ai, nếu mọi người muốn không trâu bắt chó đi cày, vậy ta liền bêu xấu, bất quá danh tự này nếu là lấy không được khá mọi người có thể đừng chê cười ta ha ha."Mưu Huy Dương nói.
+
+	"Ngươi liền đừng dài dòng nữa, ngươi nghĩ cái gì tên chữ nhanh chóng nói ra đi, đừng giống như một phụ nữ tựa như ma ma tức tức địa."Chữa trị bảo vệ chủ nhiệm chu toàn nói.
+
+	"Vậy cũng tốt, ta suy nghĩ hồi lâu, cũng chỉ nghĩ ra một cái tên, chính là long tường, các người nhìn chúng ta trường học mới liền kêu Long Tường, mọi người cảm thấy thế nào?"Mưu Huy Dương sau khi nói xong cười híp mắt nhìn mọi người.
+
+	/*Dzung Kiều : Long Tường=rồng bay lượn*/
+
+	"Ha ha, long tường cửu thiên , tốt, danh tự này ngụ ý không tệ, dễ nghe còn hào khí, sau này thôn chúng ta trường học liền kêu long tường." Lưu Trung Nghĩa ha ha cười lớn nói.
+
+	Chỉ như vậy còn đang kiến thiết ở giữa trường học chỉ như vậy bị đặt tên, những thứ này xây cất trường học tiền đều là các hương thân quyên hiến cho, bọn họ có quyền biết mình quyên đi ra ngoài tiền đều dùng ở địa phương nào.
+
+	Ở lúc trở về Mưu Huy Dương đề nghị, để cho trong thôn đem các thôn dân quyên hiến khoản tiền này, mỗi một khoản chi tiêu cũng làm ra một cái tỉ mỉ ghi chép, cũng đem sử dụng tình huống thiếp bảng công bố ra, để cho các hương thân cũng biết mình quyên đi ra ngoài tiền đều tốn ở địa phương nào.
+
+	"Tiểu Dương đề nghị này rất tốt, kế đỏ, lúc này thì có ngươi cùng hậu thôn trưởng phụ trách, đặc biệt thành lập một cái hóa đơn, đem khoản tiền này chi tiêu tình huống cặn kẽ thống kê xuống, cũng dùng đỏ thẫm giấy hướng toàn thôn tấm bảng công bố trí."Lưu giống nghe xong gật đầu đem chuyện này cho an bài xong.
+
+	"Tiểu Dương, trường học này đã bắt đầu động công, ngươi đáp ứng hỗ trợ tìm giáo viên sự việc, có thể không thể quên, nếu không sang năm mở lúc đi học, trong thôn tất cả trở về em bé cũng ngồi ở trong phòng học, lại không có giáo viên dạy giờ học mà nói, nếu là chuyện này lại để cho những cái kia du khách truyền lên đến lưới đi lên, vậy chúng ta thôn thì thật nổi danh, hề hề. . ."Lưu Trung Nghĩa hề hề cười nói.
+
+	Lưu Trung Nghĩa nói lời này cũng không phải là hù dọa người, lần này thôn Long Oa toàn thể thôn dân mình quyên tiền xây trường học rầm rộ, liền bị du khách chụp xuống tới truyền đến trên Net, đưa tới rất nhiều dân trên mạng nghị luận.
+
+	"Chú Lưu, chú cứ yên tâm đi, đến lúc đó nếu là ta không tìm được giáo viên, ở nhà chúng ta nghỉ ngơi vị kia có thể nói rồi muốn xuất thủ trợ giúp, lấy hắn năng lực chiêu nhiều ít giáo viên tới cũng không có vấn đề gì, đến lúc đó liền sợ chúng ta trường học quá nhỏ, không tiếp thụ nổi nhiều như vậy giáo viên đây."Mưu Huy Dương hề hề cười nói.
+
+	" Ừ, có ngươi lời này ta an tâm."Lưu Trung Nghĩa sau khi nói xong, đưa qua đầu thấp giọng hỏi: "Tiểu Dương, ta nghe nói bây giờ ở nhà ngươi nghỉ ngơi vị kia, từ tỉnh trưởng thấy hắn cũng tôn kính rất, hắn đến tột cùng là vị dạng gì nhân vật lớn à?"
+
+	"Chú Lưu, chú đừng để ý hắn là người nào, cũng không nên hỏi, dù sao ngươi chỉ cần biết nếu là hắn chịu hỗ trợ, mới vừa rồi ngươi nói những vấn đề kia liền không là vấn đề là được."Mưu Huy Dương thấp giọng trả lời.
+
+	"Tê, ta biết, sau này ta lại cũng không hỏi."Lưu Trung Nghĩa biết có một số việc biết, cũng không có ích lợi gì, nghe xong hít một hơi nói.
+
+	Minh ngày hôm qua không có lưu ý, mới vừa rồi nghe Lưu Trung Nghĩa nói xây cất trường học sự việc ở trên mạng đã đưa tới nhiệt nghị, Mưu Huy Dương về đến nhà cùng Triệu lão bọn họ lên tiếng chào sau đó, liền chui vào nhà của mình đem máy vi tính mở ra.
+
+	"Anh Dương, ta xem ngươi trở lại một cái liền trở về phòng, còn lấy vì có chuyện gì chứ? Không nghĩ tới ngươi đây là muốn chơi trò chơi."Lưu Hiểu Mai đi theo đi vào, cười tủm tỉm nói.
+
+	"Hiểu Mai, ta đây không phải là muốn chơi trò chơi, mới vừa rồi nghe chú Lưu nói thôn chúng ta xây trường học chuyện, ở trên mạng đưa tới các bạn trên mạng nhiệt nghị, ta liền muốn xem xem các bạn trên mạng cũng nói gì."Mưu Huy Dương đem Lưu Hiểu Mai kéo qua ở ngồi xuống bên người nói.
+
+	"Chuyện này ta tối ngày hôm qua lên Net thời điểm liền thấy, nói cái gì cũng có, ngươi nhìn nói không chừng còn biết chọc tức cành hông đây."Lưu Hiểu Mai vẫn do Mưu Huy Dương ôm mình eo nhỏ nói.
+
+	"Bây giờ lời bàn tự do mà! Bọn họ muốn nói cái gì đó là chuyện của bọn họ, ta liền muốn xem xem bọn họ cũng nói gì."Mưu Huy Dương một bên trả lời, trên tay thật nhanh điểm mở một cái hắn quen thuộc địa phương lớn nhất diễn đàn.
+
+	Tiến vào bên trong diễn đàn mặt vừa thấy, quả nhiên những cái kia các bạn trên mạng cái gì cũng nói, Mưu Huy Dương một cái một cái địa từ từ nhìn như.
+
+	"Liền thôn Long Oa vậy bị núi lớn bao bọc, cách nhau mười mấy dặm núi lớn ra mới có dân cư vùng đất xa xôi, trường học sửa lại tốt trừ mình hài tử trong thôn, chỗ khác người làm sao có thể đem đứa trẻ đưa đi bọn họ trường học đi học, cái này thuần túy chính là đang lãng phí."
+
+	"Đúng vậy, người thôn Long Oa ngu, vì nổi tiếng lại tốn nhiều như vậy tiền ở một cái núi ổ trong ổ sửa trường học, đến lúc đó trường học sửa xong chưa người đi đọc, xem bọn họ làm sao khóc."
+
+	"Cũng không thể như thế nói, không phải có một câu như vậy sao. Rượu này thơm không sợ ngõ hẻm sâu, chỉ cần thôn Long Oa trường học trường học chất lượng tốt, vẫn là có rất nhiều người nguyện ý đem đứa trẻ đưa đi nơi đó đi học."
+
+	"Đồng ý, ta nghe nói thôn Long Oa sinh thái hoàn cảnh giữ tốt vô cùng, nơi đó núi xanh nước trong, nếu là bọn nhỏ đi nơi đó đi học, cùng để cho đứa trẻ ở trong thành phố mỗi ngày hấp thu những cái kia bị ô nhiễm không tương so, ta cảm thấy để cho đứa trẻ đi nơi đó đi học, vẫn có thể hưởng thụ được tự nhiên dưỡng khí đi, cũng rất tốt."
+
+	"Comment trên, các người là chỉ biết kỳ nhiên không biết chuyện gì xảy ra, theo ta biết, trước mắt thôn Long Oa tiểu học liền đến một cái lớp 3 ba lớp cấp, lớp 3 trở lên học sinh cũng đến bọn họ trấn trên đi học, cũng không có ở thôn Long Oa bây giờ trường học liền đọc."
+
+	"Tại sao? ? Cầu giải trừ! !"
+
+	"Bởi vì vì thôn Long Oa trước kia chân thực quá nghèo, cộng thêm giao thông lại không tiện lợi, ra một lần thôn muốn mấy giờ không nói, còn làm cho người một thân đất vàng bụi bặm. Bởi vì nguyên nhân này, thượng cấp phân phát đến thôn Long Oa giáo viên, không có một cái có thể ở nơi đó nán lại một năm liền rối rít tìm quan hệ điều đi."
+
+	"Trước mắt, thôn Long Oa chỉ một cái thập niên 80 trong thôn ra học sinh cấp 3, mang ngoài ra một người sau đó đọc qua trường THPT người trong thôn, chống đỡ đến một cái lớp 3 ba lớp này cấp, nếu không thôn Long Oa những đứa trẻ kia, bảy tám tuổi phải chạy mười mấy dặm đường đến trấn trên đi học."
+
+	"Nha! Không nghĩ tới thôn Long Oa đứa trẻ trước kia đi học là gian nan như vậy à? Thật đáng thương!"Điều này hiển nhiên là một vị có mãnh liệt đồng tình tâm cô em nhắn lại.
+
+	"Thôn Long Oa trước kia điều kiện là đủ gian khổ, chính là những cái kia ở trong thôn đọc đến lớp 3 học sinh, thật là nhiều sau đó cũng thôi học. Bất quá bây giờ thôn Long Oa điều kiện và so với trước kia, có thể nói là xảy ra biến hóa long trời lỡ đất."
+
+	"Đều có những biến hóa? Nhanh chóng nói nghe một chút!"
+
+	"Đầu tiên, bây giờ thôn Long Oa vào thôn quốc lộ cũng tu thành chiều rộng hơn 6m mặt đường xi măng, trong thôn thôn dân thu vào cũng tăng cao không thiếu, hơn nữa thôn Long Oa hoàn cảnh quả thật không tệ, mọi người không có chuyện có thể đi xem xem, mặc dù trước mắt còn không có gì chuyện đùa hạng mục, nhưng đi hưởng thụ một chút đại tự nhiên cung cấp thiên nhiên dưỡng khí đi, hít thở một chút nơi đó không khí mát mẽ, xem xem thôn bốn phía nồng nặc kia thương thúy, cũng là rất tốt."
+
+	"Con bà nó, làm nửa ngày người anh em ngươi đây là đang vì thôn Long Oa làm quảng cáo à!"
+
+	" Đúng vậy, khinh bỉ ngươi!"
+
+	"Ngươi hẳn là người thôn Long Oa chứ ? Nếu không làm sao biết như thế rõ ràng?"
+
+	"Thận trọng nói rõ, ta chỉ là một người biết chuyện, không phải thôn Long Oa thôn dân, nhưng ta có một cái rất tốt bạn học là thôn Long Oa, ta đi thôn bọn họ chơi qua không ít lần, mới biết như thế cặn kẽ, hơn nữa ta nói những thứ này đều là thật, tuyệt không có lừa dối mọi người."
+
+	Mưu Huy Dương đem vị này miễn phí vì thôn Long Oa làm tuyên truyền người chụp chụp số ghi xuống, nghĩ đến sau này người này nếu tới thôn Long Oa, mình nhất định phải mời hắn uống rượu.
+
+	Hắn lại nhìn một chút trang web khác phía trên có liên quan thôn Long Oa tin tức, đối với quyên tiền xây trường học chuyện này, dân trên mạng cửa là bao biếm không đồng nhất, nhưng nói tổn lời người nhiều nhất.Chương 587: Bạn trên mạng nhiệt nghị 
+ Converter Dzung Kiều cầu phiếu 
+
+	"Đừng, ta chính là một cái gọi là phế, đối với đặt tên những thứ này ta thật không phải, chú Lưu, chú hãy tha cho ta đi."Mưu Huy Dương nghe xong nhanh chóng phe phẩy tay nói.
+
+	"Tiểu Dương, cái này trường học mới với tình với lễ cũng hẳn do ngươi tới đặt tên, ngươi liền đừng từ chối, nhanh chóng muốn một cái vang dội tên chữ đi ra."Thay mặt hoa cúc cười nói.
+
+	"Chính phải chính phải, tiểu Dương nhanh, đừng ở vết mực!"Thôn ủy những người khác cùng với ở chung quanh bọn họ các hương thân cũng đi theo ồn ào lên đến.
+
+	"Các người đây là muốn ép gà trống đẻ trứng gà mái gáy à!"Mưu Huy Dương nghe mọi người lời nói sau đó, cười khổ nói.
+
+	"Tiểu Dương ngươi liền chớ khiêm nhường, nhanh chóng cho trường học mới muốn một cái tên đi."Thấy Mưu Huy Dương vậy tấm khổ mặt, Lưu Trung Nghĩa ở một bên vui tươi hớn hở cười nói.
+
+	"Ai, nếu mọi người muốn không trâu bắt chó đi cày, vậy ta liền bêu xấu, bất quá danh tự này nếu là lấy không được khá mọi người có thể đừng chê cười ta ha ha."Mưu Huy Dương nói.
+
+	"Ngươi liền đừng dài dòng nữa, ngươi nghĩ cái gì tên chữ nhanh chóng nói ra đi, đừng giống như một phụ nữ tựa như ma ma tức tức địa."Chữa trị bảo vệ chủ nhiệm chu toàn nói.
+
+	"Vậy cũng tốt, ta suy nghĩ hồi lâu, cũng chỉ nghĩ ra một cái tên, chính là long tường, các người nhìn chúng ta trường học mới liền kêu Long Tường, mọi người cảm thấy thế nào?"Mưu Huy Dương sau khi nói xong cười híp mắt nhìn mọi người.
+
+	/*Dzung Kiều : Long Tường=rồng bay lượn*/
+
+	"Ha ha, long tường cửu thiên , tốt, danh tự này ngụ ý không tệ, dễ nghe còn hào khí, sau này thôn chúng ta trường học liền kêu long tường." Lưu Trung Nghĩa ha ha cười lớn nói.
+
+	Chỉ như vậy còn đang kiến thiết ở giữa trường học chỉ như vậy bị đặt tên, những thứ này xây cất trường học tiền đều là các hương thân quyên hiến cho, bọn họ có quyền biết mình quyên đi ra ngoài tiền đều dùng ở địa phương nào.
+
+	Ở lúc trở về Mưu Huy Dương đề nghị, để cho trong thôn đem các thôn dân quyên hiến khoản tiền này, mỗi một khoản chi tiêu cũng làm ra một cái tỉ mỉ ghi chép, cũng đem sử dụng tình huống thiếp bảng công bố ra, để cho các hương thân cũng biết mình quyên đi ra ngoài tiền đều tốn ở địa phương nào.
+
+	"Tiểu Dương đề nghị này rất tốt, kế đỏ, lúc này thì có ngươi cùng hậu thôn trưởng phụ trách, đặc biệt thành lập một cái hóa đơn, đem khoản tiền này chi tiêu tình huống cặn kẽ thống kê xuống, cũng dùng đỏ thẫm giấy hướng toàn thôn tấm bảng công bố trí."Lưu giống nghe xong gật đầu đem chuyện này cho an bài xong.
+
+	"Tiểu Dương, trường học này đã bắt đầu động công, ngươi đáp ứng hỗ trợ tìm giáo viên sự việc, có thể không thể quên, nếu không sang năm mở lúc đi học, trong thôn tất cả trở về em bé cũng ngồi ở trong phòng học, lại không có giáo viên dạy giờ học mà nói, nếu là chuyện này lại để cho những cái kia du khách truyền lên đến lưới đi lên, vậy chúng ta thôn thì thật nổi danh, hề hề. . ."Lưu Trung Nghĩa hề hề cười nói.
+
+	Lưu Trung Nghĩa nói lời này cũng không phải là hù dọa người, lần này thôn Long Oa toàn thể thôn dân mình quyên tiền xây trường học rầm rộ, liền bị du khách chụp xuống tới truyền đến trên Net, đưa tới rất nhiều dân trên mạng nghị luận.
+
+	"Chú Lưu, chú cứ yên tâm đi, đến lúc đó nếu là ta không tìm được giáo viên, ở nhà chúng ta nghỉ ngơi vị kia có thể nói rồi muốn xuất thủ trợ giúp, lấy hắn năng lực chiêu nhiều ít giáo viên tới cũng không có vấn đề gì, đến lúc đó liền sợ chúng ta trường học quá nhỏ, không tiếp thụ nổi nhiều như vậy giáo viên đây."Mưu Huy Dương hề hề cười nói.
+
+	" Ừ, có ngươi lời này ta an tâm."Lưu Trung Nghĩa sau khi nói xong, đưa qua đầu thấp giọng hỏi: "Tiểu Dương, ta nghe nói bây giờ ở nhà ngươi nghỉ ngơi vị kia, từ tỉnh trưởng thấy hắn cũng tôn kính rất, hắn đến tột cùng là vị dạng gì nhân vật lớn à?"
+
+	"Chú Lưu, chú đừng để ý hắn là người nào, cũng không nên hỏi, dù sao ngươi chỉ cần biết nếu là hắn chịu hỗ trợ, mới vừa rồi ngươi nói những vấn đề kia liền không là vấn đề là được."Mưu Huy Dương thấp giọng trả lời.
+
+	"Tê, ta biết, sau này ta lại cũng không hỏi."Lưu Trung Nghĩa biết có một số việc biết, cũng không có ích lợi gì, nghe xong hít một hơi nói.
+
+	Minh ngày hôm qua không có lưu ý, mới vừa rồi nghe Lưu Trung Nghĩa nói xây cất trường học sự việc ở trên mạng đã đưa tới nhiệt nghị, Mưu Huy Dương về đến nhà cùng Triệu lão bọn họ lên tiếng chào sau đó, liền chui vào nhà của mình đem máy vi tính mở ra.
+
+	"Anh Dương, ta xem ngươi trở lại một cái liền trở về phòng, còn lấy vì có chuyện gì chứ? Không nghĩ tới ngươi đây là muốn chơi trò chơi."Lưu Hiểu Mai đi theo đi vào, cười tủm tỉm nói.
+
+	"Hiểu Mai, ta đây không phải là muốn chơi trò chơi, mới vừa rồi nghe chú Lưu nói thôn chúng ta xây trường học chuyện, ở trên mạng đưa tới các bạn trên mạng nhiệt nghị, ta liền muốn xem xem các bạn trên mạng cũng nói gì."Mưu Huy Dương đem Lưu Hiểu Mai kéo qua ở ngồi xuống bên người nói.
+
+	"Chuyện này ta tối ngày hôm qua lên Net thời điểm liền thấy, nói cái gì cũng có, ngươi nhìn nói không chừng còn biết chọc tức cành hông đây."Lưu Hiểu Mai vẫn do Mưu Huy Dương ôm mình eo nhỏ nói.
+
+	"Bây giờ lời bàn tự do mà! Bọn họ muốn nói cái gì đó là chuyện của bọn họ, ta liền muốn xem xem bọn họ cũng nói gì."Mưu Huy Dương một bên trả lời, trên tay thật nhanh điểm mở một cái hắn quen thuộc địa phương lớn nhất diễn đàn.
+
+	Tiến vào bên trong diễn đàn mặt vừa thấy, quả nhiên những cái kia các bạn trên mạng cái gì cũng nói, Mưu Huy Dương một cái một cái địa từ từ nhìn như.
+
+	"Liền thôn Long Oa vậy bị núi lớn bao bọc, cách nhau mười mấy dặm núi lớn ra mới có dân cư vùng đất xa xôi, trường học sửa lại tốt trừ mình hài tử trong thôn, chỗ khác người làm sao có thể đem đứa trẻ đưa đi bọn họ trường học đi học, cái này thuần túy chính là đang lãng phí."
+
+	"Đúng vậy, người thôn Long Oa ngu, vì nổi tiếng lại tốn nhiều như vậy tiền ở một cái núi ổ trong ổ sửa trường học, đến lúc đó trường học sửa xong chưa người đi đọc, xem bọn họ làm sao khóc."
+
+	"Cũng không thể như thế nói, không phải có một câu như vậy sao. Rượu này thơm không sợ ngõ hẻm sâu, chỉ cần thôn Long Oa trường học trường học chất lượng tốt, vẫn là có rất nhiều người nguyện ý đem đứa trẻ đưa đi nơi đó đi học."
+
+	"Đồng ý, ta nghe nói thôn Long Oa sinh thái hoàn cảnh giữ tốt vô cùng, nơi đó núi xanh nước trong, nếu là bọn nhỏ đi nơi đó đi học, cùng để cho đứa trẻ ở trong thành phố mỗi ngày hấp thu những cái kia bị ô nhiễm không tương so, ta cảm thấy để cho đứa trẻ đi nơi đó đi học, vẫn có thể hưởng thụ được tự nhiên dưỡng khí đi, cũng rất tốt."
+
+	"Comment trên, các người là chỉ biết kỳ nhiên không biết chuyện gì xảy ra, theo ta biết, trước mắt thôn Long Oa tiểu học liền đến một cái lớp 3 ba lớp cấp, lớp 3 trở lên học sinh cũng đến bọn họ trấn trên đi học, cũng không có ở thôn Long Oa bây giờ trường học liền đọc."
+
+	"Tại sao? ? Cầu giải trừ! !"
+
+	"Bởi vì vì thôn Long Oa trước kia chân thực quá nghèo, cộng thêm giao thông lại không tiện lợi, ra một lần thôn muốn mấy giờ không nói, còn làm cho người một thân đất vàng bụi bặm. Bởi vì nguyên nhân này, thượng cấp phân phát đến thôn Long Oa giáo viên, không có một cái có thể ở nơi đó nán lại một năm liền rối rít tìm quan hệ điều đi."
+
+	"Trước mắt, thôn Long Oa chỉ một cái thập niên 80 trong thôn ra học sinh cấp 3, mang ngoài ra một người sau đó đọc qua trường THPT người trong thôn, chống đỡ đến một cái lớp 3 ba lớp này cấp, nếu không thôn Long Oa những đứa trẻ kia, bảy tám tuổi phải chạy mười mấy dặm đường đến trấn trên đi học."
+
+	"Nha! Không nghĩ tới thôn Long Oa đứa trẻ trước kia đi học là gian nan như vậy à? Thật đáng thương!"Điều này hiển nhiên là một vị có mãnh liệt đồng tình tâm cô em nhắn lại.
+
+	"Thôn Long Oa trước kia điều kiện là đủ gian khổ, chính là những cái kia ở trong thôn đọc đến lớp 3 học sinh, thật là nhiều sau đó cũng thôi học. Bất quá bây giờ thôn Long Oa điều kiện và so với trước kia, có thể nói là xảy ra biến hóa long trời lỡ đất."
+
+	"Đều có những biến hóa? Nhanh chóng nói nghe một chút!"
+
+	"Đầu tiên, bây giờ thôn Long Oa vào thôn quốc lộ cũng tu thành chiều rộng hơn 6m mặt đường xi măng, trong thôn thôn dân thu vào cũng tăng cao không thiếu, hơn nữa thôn Long Oa hoàn cảnh quả thật không tệ, mọi người không có chuyện có thể đi xem xem, mặc dù trước mắt còn không có gì chuyện đùa hạng mục, nhưng đi hưởng thụ một chút đại tự nhiên cung cấp thiên nhiên dưỡng khí đi, hít thở một chút nơi đó không khí mát mẽ, xem xem thôn bốn phía nồng nặc kia thương thúy, cũng là rất tốt."
+
+	"Con bà nó, làm nửa ngày người anh em ngươi đây là đang vì thôn Long Oa làm quảng cáo à!"
+
+	" Đúng vậy, khinh bỉ ngươi!"
+
+	"Ngươi hẳn là người thôn Long Oa chứ ? Nếu không làm sao biết như thế rõ ràng?"
+
+	"Thận trọng nói rõ, ta chỉ là một người biết chuyện, không phải thôn Long Oa thôn dân, nhưng ta có một cái rất tốt bạn học là thôn Long Oa, ta đi thôn bọn họ chơi qua không ít lần, mới biết như thế cặn kẽ, hơn nữa ta nói những thứ này đều là thật, tuyệt không có lừa dối mọi người."
+
+	Mưu Huy Dương đem vị này miễn phí vì thôn Long Oa làm tuyên truyền người chụp chụp số ghi xuống, nghĩ đến sau này người này nếu tới thôn Long Oa, mình nhất định phải mời hắn uống rượu.
+
+	Hắn lại nhìn một chút trang web khác phía trên có liên quan thôn Long Oa tin tức, đối với quyên tiền xây trường học chuyện này, dân trên mạng cửa là bao biếm không đồng nhất, nhưng nói tổn lời người nhiều nhất.Chương 587: Bạn trên mạng nhiệt nghị 
+ Converter Dzung Kiều cầu phiếu 
+
+	"Đừng, ta chính là một cái gọi là phế, đối với đặt tên những thứ này ta thật không phải, chú Lưu, chú hãy tha cho ta đi."Mưu Huy Dương nghe xong nhanh chóng phe phẩy tay nói.
+
+	"Tiểu Dương, cái này trường học mới với tình với lễ cũng hẳn do ngươi tới đặt tên, ngươi liền đừng từ chối, nhanh chóng muốn một cái vang dội tên chữ đi ra."Thay mặt hoa cúc cười nói.
+
+	"Chính phải chính phải, tiểu Dương nhanh, đừng ở vết mực!"Thôn ủy những người khác cùng với ở chung quanh bọn họ các hương thân cũng đi theo ồn ào lên đến.
+
+	"Các người đây là muốn ép gà trống đẻ trứng gà mái gáy à!"Mưu Huy Dương nghe mọi người lời nói sau đó, cười khổ nói.
+
+	"Tiểu Dương ngươi liền chớ khiêm nhường, nhanh chóng cho trường học mới muốn một cái tên đi."Thấy Mưu Huy Dương vậy tấm khổ mặt, Lưu Trung Nghĩa ở một bên vui tươi hớn hở cười nói.
+
+	"Ai, nếu mọi người muốn không trâu bắt chó đi cày, vậy ta liền bêu xấu, bất quá danh tự này nếu là lấy không được khá mọi người có thể đừng chê cười ta ha ha."Mưu Huy Dương nói.
+
+	"Ngươi liền đừng dài dòng nữa, ngươi nghĩ cái gì tên chữ nhanh chóng nói ra đi, đừng giống như một phụ nữ tựa như ma ma tức tức địa."Chữa trị bảo vệ chủ nhiệm chu toàn nói.
+
+	"Vậy cũng tốt, ta suy nghĩ hồi lâu, cũng chỉ nghĩ ra một cái tên, chính là long tường, các người nhìn chúng ta trường học mới liền kêu Long Tường, mọi người cảm thấy thế nào?"Mưu Huy Dương sau khi nói xong cười híp mắt nhìn mọi người.
+
+	/*Dzung Kiều : Long Tường=rồng bay lượn*/
+
+	"Ha ha, long tường cửu thiên , tốt, danh tự này ngụ ý không tệ, dễ nghe còn hào khí, sau này thôn chúng ta trường học liền kêu long tường." Lưu Trung Nghĩa ha ha cười lớn nói.
+
+	Chỉ như vậy còn đang kiến thiết ở giữa trường học chỉ như vậy bị đặt tên, những thứ này xây cất trường học tiền đều là các hương thân quyên hiến cho, bọn họ có quyền biết mình quyên đi ra ngoài tiền đều dùng ở địa phương nào.
+
+	Ở lúc trở về Mưu Huy Dương đề nghị, để cho trong thôn đem các thôn dân quyên hiến khoản tiền này, mỗi một khoản chi tiêu cũng làm ra một cái tỉ mỉ ghi chép, cũng đem sử dụng tình huống thiếp bảng công bố ra, để cho các hương thân cũng biết mình quyên đi ra ngoài tiền đều tốn ở địa phương nào.
+
+	"Tiểu Dương đề nghị này rất tốt, kế đỏ, lúc này thì có ngươi cùng hậu thôn trưởng phụ trách, đặc biệt thành lập một cái hóa đơn, đem khoản tiền này chi tiêu tình huống cặn kẽ thống kê xuống, cũng dùng đỏ thẫm giấy hướng toàn thôn tấm bảng công bố trí."Lưu giống nghe xong gật đầu đem chuyện này cho an bài xong.
+
+	"Tiểu Dương, trường học này đã bắt đầu động công, ngươi đáp ứng hỗ trợ tìm giáo viên sự việc, có thể không thể quên, nếu không sang năm mở lúc đi học, trong thôn tất cả trở về em bé cũng ngồi ở trong phòng học, lại không có giáo viên dạy giờ học mà nói, nếu là chuyện này lại để cho những cái kia du khách truyền lên đến lưới đi lên, vậy chúng ta thôn thì thật nổi danh, hề hề. . ."Lưu Trung Nghĩa hề hề cười nói.
+
+	Lưu Trung Nghĩa nói lời này cũng không phải là hù dọa người, lần này thôn Long Oa toàn thể thôn dân mình quyên tiền xây trường học rầm rộ, liền bị du khách chụp xuống tới truyền đến trên Net, đưa tới rất nhiều dân trên mạng nghị luận.
+
+	"Chú Lưu, chú cứ yên tâm đi, đến lúc đó nếu là ta không tìm được giáo viên, ở nhà chúng ta nghỉ ngơi vị kia có thể nói rồi muốn xuất thủ trợ giúp, lấy hắn năng lực chiêu nhiều ít giáo viên tới cũng không có vấn đề gì, đến lúc đó liền sợ chúng ta trường học quá nhỏ, không tiếp thụ nổi nhiều như vậy giáo viên đây."Mưu Huy Dương hề hề cười nói.
+
+	" Ừ, có ngươi lời này ta an tâm."Lưu Trung Nghĩa sau khi nói xong, đưa qua đầu thấp giọng hỏi: "Tiểu Dương, ta nghe nói bây giờ ở nhà ngươi nghỉ ngơi vị kia, từ tỉnh trưởng thấy hắn cũng tôn kính rất, hắn đến tột cùng là vị dạng gì nhân vật lớn à?"
+
+	"Chú Lưu, chú đừng để ý hắn là người nào, cũng không nên hỏi, dù sao ngươi chỉ cần biết nếu là hắn chịu hỗ trợ, mới vừa rồi ngươi nói những vấn đề kia liền không là vấn đề là được."Mưu Huy Dương thấp giọng trả lời.
+
+	"Tê, ta biết, sau này ta lại cũng không hỏi."Lưu Trung Nghĩa biết có một số việc biết, cũng không có ích lợi gì, nghe xong hít một hơi nói.
+
+	Minh ngày hôm qua không có lưu ý, mới vừa rồi nghe Lưu Trung Nghĩa nói xây cất trường học sự việc ở trên mạng đã đưa tới nhiệt nghị, Mưu Huy Dương về đến nhà cùng Triệu lão bọn họ lên tiếng chào sau đó, liền chui vào nhà của mình đem máy vi tính mở ra.
+
+	"Anh Dương, ta xem ngươi trở lại một cái liền trở về phòng, còn lấy vì có chuyện gì chứ? Không nghĩ tới ngươi đây là muốn chơi trò chơi."Lưu Hiểu Mai đi theo đi vào, cười tủm tỉm nói.
+
+	"Hiểu Mai, ta đây không phải là muốn chơi trò chơi, mới vừa rồi nghe chú Lưu nói thôn chúng ta xây trường học chuyện, ở trên mạng đưa tới các bạn trên mạng nhiệt nghị, ta liền muốn xem xem các bạn trên mạng cũng nói gì."Mưu Huy Dương đem Lưu Hiểu Mai kéo qua ở ngồi xuống bên người nói.
+
+	"Chuyện này ta tối ngày hôm qua lên Net thời điểm liền thấy, nói cái gì cũng có, ngươi nhìn nói không chừng còn biết chọc tức cành hông đây."Lưu Hiểu Mai vẫn do Mưu Huy Dương ôm mình eo nhỏ nói.
+
+	"Bây giờ lời bàn tự do mà! Bọn họ muốn nói cái gì đó là chuyện của bọn họ, ta liền muốn xem xem bọn họ cũng nói gì."Mưu Huy Dương một bên trả lời, trên tay thật nhanh điểm mở một cái hắn quen thuộc địa phương lớn nhất diễn đàn.
+
+	Tiến vào bên trong diễn đàn mặt vừa thấy, quả nhiên những cái kia các bạn trên mạng cái gì cũng nói, Mưu Huy Dương một cái một cái địa từ từ nhìn như.
+
+	"Liền thôn Long Oa vậy bị núi lớn bao bọc, cách nhau mười mấy dặm núi lớn ra mới có dân cư vùng đất xa xôi, trường học sửa lại tốt trừ mình hài tử trong thôn, chỗ khác người làm sao có thể đem đứa trẻ đưa đi bọn họ trường học đi học, cái này thuần túy chính là đang lãng phí."
+
+	"Đúng vậy, người thôn Long Oa ngu, vì nổi tiếng lại tốn nhiều như vậy tiền ở một cái núi ổ trong ổ sửa trường học, đến lúc đó trường học sửa xong chưa người đi đọc, xem bọn họ làm sao khóc."
+
+	"Cũng không thể như thế nói, không phải có một câu như vậy sao. Rượu này thơm không sợ ngõ hẻm sâu, chỉ cần thôn Long Oa trường học trường học chất lượng tốt, vẫn là có rất nhiều người nguyện ý đem đứa trẻ đưa đi nơi đó đi học."
+
+	"Đồng ý, ta nghe nói thôn Long Oa sinh thái hoàn cảnh giữ tốt vô cùng, nơi đó núi xanh nước trong, nếu là bọn nhỏ đi nơi đó đi học, cùng để cho đứa trẻ ở trong thành phố mỗi ngày hấp thu những cái kia bị ô nhiễm không tương so, ta cảm thấy để cho đứa trẻ đi nơi đó đi học, vẫn có thể hưởng thụ được tự nhiên dưỡng khí đi, cũng rất tốt."
+
+	"Comment trên, các người là chỉ biết kỳ nhiên không biết chuyện gì xảy ra, theo ta biết, trước mắt thôn Long Oa tiểu học liền đến một cái lớp 3 ba lớp cấp, lớp 3 trở lên học sinh cũng đến bọn họ trấn trên đi học, cũng không có ở thôn Long Oa bây giờ trường học liền đọc."
+
+	"Tại sao? ? Cầu giải trừ! !"
+
+	"Bởi vì vì thôn Long Oa trước kia chân thực quá nghèo, cộng thêm giao thông lại không tiện lợi, ra một lần thôn muốn mấy giờ không nói, còn làm cho người một thân đất vàng bụi bặm. Bởi vì nguyên nhân này, thượng cấp phân phát đến thôn Long Oa giáo viên, không có một cái có thể ở nơi đó nán lại một năm liền rối rít tìm quan hệ điều đi."
+
+	"Trước mắt, thôn Long Oa chỉ một cái thập niên 80 trong thôn ra học sinh cấp 3, mang ngoài ra một người sau đó đọc qua trường THPT người trong thôn, chống đỡ đến một cái lớp 3 ba lớp này cấp, nếu không thôn Long Oa những đứa trẻ kia, bảy tám tuổi phải chạy mười mấy dặm đường đến trấn trên đi học."
+
+	"Nha! Không nghĩ tới thôn Long Oa đứa trẻ trước kia đi học là gian nan như vậy à? Thật đáng thương!"Điều này hiển nhiên là một vị có mãnh liệt đồng tình tâm cô em nhắn lại.
+
+	"Thôn Long Oa trước kia điều kiện là đủ gian khổ, chính là những cái kia ở trong thôn đọc đến lớp 3 học sinh, thật là nhiều sau đó cũng thôi học. Bất quá bây giờ thôn Long Oa điều kiện và so với trước kia, có thể nói là xảy ra biến hóa long trời lỡ đất."
+
+	"Đều có những biến hóa? Nhanh chóng nói nghe một chút!"
+
+	"Đầu tiên, bây giờ thôn Long Oa vào thôn quốc lộ cũng tu thành chiều rộng hơn 6m mặt đường xi măng, trong thôn thôn dân thu vào cũng tăng cao không thiếu, hơn nữa thôn Long Oa hoàn cảnh quả thật không tệ, mọi người không có chuyện có thể đi xem xem, mặc dù trước mắt còn không có gì chuyện đùa hạng mục, nhưng đi hưởng thụ một chút đại tự nhiên cung cấp thiên nhiên dưỡng khí đi, hít thở một chút nơi đó không khí mát mẽ, xem xem thôn bốn phía nồng nặc kia thương thúy, cũng là rất tốt."
+
+	"Con bà nó, làm nửa ngày người anh em ngươi đây là đang vì thôn Long Oa làm quảng cáo à!"
+
+	" Đúng vậy, khinh bỉ ngươi!"
+
+	"Ngươi hẳn là người thôn Long Oa chứ ? Nếu không làm sao biết như thế rõ ràng?"
+
+	"Thận trọng nói rõ, ta chỉ là một người biết chuyện, không phải thôn Long Oa thôn dân, nhưng ta có một cái rất tốt bạn học là thôn Long Oa, ta đi thôn bọn họ chơi qua không ít lần, mới biết như thế cặn kẽ, hơn nữa ta nói những thứ này đều là thật, tuyệt không có lừa dối mọi người."
+
+	Mưu Huy Dương đem vị này miễn phí vì thôn Long Oa làm tuyên truyền người chụp chụp số ghi xuống, nghĩ đến sau này người này nếu tới thôn Long Oa, mình nhất định phải mời hắn uống rượu.
+
+	Hắn lại nhìn một chút trang web khác phía trên có liên quan thôn Long Oa tin tức, đối với quyên tiền xây trường học chuyện này, dân trên mạng cửa là bao biếm không đồng nhất, nhưng nói tổn lời người nhiều nhất.

@@ -1,0 +1,309 @@
+Converter Dzung Kiều cầu phiếu
+  
+  	Núi Long Thủ bên trong không hề thiếu to lớn cổ thụ, cây cối bao trùm đặc biệt dày đặc, cho nên nếu so với phía ngoài đen sớm đi, buổi chiều hơn 6h, khi bọn hắn đi tới một con suối nước xếp thành đầm nước nhỏ chỗ, trong rừng mặt đã trở nên có chút tối.
+  
+  	Đầm nước này mặt nước ước chừng có chừng năm mươi mét chiều rộng, cùng một con đi dưới núi chảy tới giòng suối nhỏ nối liền chung một chỗ, hình thành một mảnh hiếm thấy đất trống mang, đầm nước bên trong cá thật đúng là không thiếu, cá chép, cá bạc, cá ngát. . . Hắn lại vẫn ở trong đầm nước phát hiện tế lân khuê.
+  
+  	Tế lân khuê tên khoa học gọi cá tế lân, là không thể có nhiều quý giá cá nước lạnh loại, nhìn trong đầm nước cá tế lân, Mưu Huy Dương nghĩ đến: Mình nhận thầu bãi hoang vắng đó không phải là có mấy cái mương sao, nếu có thể đem cái này cá tế lân ở mương bên trong nuôi dưỡng thành công, như vậy mình không phải là lại thêm hạng nhất thu vào sao?
+  
+  	/*Dzung Kiều : xem hình cá tế lân (họ cá hồi-Brachymystax lenok) */
+  
+  	Vì vậy hắn quyết định bắt một ít trong đầm nước cá tế lân nuôi tại không gian trong mương, dự định sau này ở bên ngoài nuôi dưỡng.
+  
+  	Mưu Huy Dương nhíu chặt mày, nhìn trong đầm nước bơi qua bơi lại các loại loại cá, trong lòng suy nghĩ muốn như thế nào mới có thể đem những cá này nắm lên tới, bỗng nhiên, hắn trong đầu linh quang chớp mắt, nghĩ tới mình bắt gà rừng lúc tình cảnh.
+  
+  	Vì vậy hắn tâm niệm vừa động, trong không gian cái gùi xuất hiện ở trong tay hắn, đem cái gùi dùng sợi dây cột chắc, sau đó đem dùng nước không gian ngâm ngâm qua lương khô bỏ vào cái gùi, đem chìm vào nước trong đầm.
+  
+  	Chẳng được bao lâu, trong đầm nước cá đều bắt đầu ủng hộ hay phản đối lâu chỗ bơi tới, thậm chí có càng ngày càng nhiều cá nhảy ra mặt nước, mang theo một chùm chuỗi nước, nhìn cái gùi phía trên rậm rạp chằng chịt du động các loại loại cá, thậm chí có một ít cá không kịp chờ đợi chui vào trong cái gùi giành giật ăn nước không gian ngâm ngâm qua lương khô.
+  
+  	Mưu Huy Dương thấy vậy nhanh chóng đem cái gùi xách lên, nhìn tràn đầy một cái gùi các loại loại cá, Mưu Huy Dương mang cái gùi tiến vào đến trong không gian, đem cá đổ vào trong mương, những cá kia vừa tiến vào đến trong mương lập tức vui sướng văng tứ tán.
+  
+  	Từ trong không gian đi ra, hắn lại dùng biện pháp giống vậy lại lấy mấy cái gùi cá sau đó, cái này nước trong đầm các loại loại cá hiện tại không gian trong mương cũng đã có, dùng để làm cá loại đã đủ, vì vậy hắn thì dừng lại.
+  
+  	Cùng Đại Lão Hắc cái ăn một cái một thước dài hơn cá tế lân, sau đó Mưu Huy Dương trở về chỗ cá tế lân món ăn ngon, mang Đại Lão Hắc tiến vào trong không gian.
+  
+  	Nhìn trong không gian chưa kịp trồng tất cả loại thuốc cây con xốc xếch tán lạc ở các nơi, Mưu Huy Dương lắc đầu một cái, như vậy bày cũng không phải biện pháp, coi như là mình sau khi ăn xong tiêu thực, hay là đem những thực vật kia cũng trồng đến cái này trong không gian, sau này mình phải dùng thời điểm cũng thuận lợi.
+  
+  	Mưu Huy Dương dùng đem tất cả thực vật cũng phân loại phân vùng địa tiến hành trồng, khi tất cả thực vật cũng tài hoàn sau đó, Mưu Huy Dương cảm thấy mình đầu bất tỉnh trầm trầm có chút choáng váng, hắn biết đây là tinh thần tiêu hao quá nhiều duyên cớ, cái này dùng ý niệm tài loại thực vật tốt thì tốt, chính là quá hao phí tinh thần lực.
+  
+  	Không nghĩ tới cái này núi Long Thủ bên trong trong thực vật lại phong phú như vậy, lúc này mới một ngày thời gian dược liệu, hoa cỏ, cây cối, lại liền đào được hơn một trăm loại , để cho hắn cảm thấy cao hứng chính là còn đào được mấy bụi dã hạnh, cùng cây mận miêu, hắn nhìn nguyên bản trống rỗng đất đen ở trên xuất hiện từng miếng màu xanh lá cây, cùng với trong mương du động cái loại loại cá, cảm đến không gian trở nên có tức giận cũng sinh động nhiều.
+  
+  	Đột nhiên, Mưu Huy Dương cảm giác được không gian thật giống như có chút nhỏ nhẹ chấn động, bao phủ tại không gian bốn phía sương mù bắt đầu hướng ra phía ngoài khuếch trương, dưới chân vùng đất đen cũng đang từ từ hướng ra phía ngoài duyên thân.
+  
+  	Lúc này, Đại Lão Hắc cũng phát hiện không gian biến hóa, hoảng sợ sủa điên cuồng mấy tiếng sau đó, chạy đến Mưu Huy Dương bên cạnh hỏi: "Lão đại, đây là thế nào, nơi này không phải là muốn sụp đi, lão đại ngươi đuổi mau dẫn ta đi ra ngoài đi."
+  
+  	Quân tử không đứng ở nguy tường dưới, mặc dù hắn không có cảm thấy không gian này biến hóa có nguy hiểm gì cảm giác, nhưng là hắn vẫn là mang Đại Lão Hắc ra không gian.
+  
+  	Làm từ không gian ra chó sói sau đó, liền nghe gặp một tiếng tiếng sói tru, xuyên thấu qua nhàn nhạt ánh trăng, hắn thấy được ở đầm nước mặt khác một cái choai choai chó sói trắng, tứ chi chặt chặt giọt bắt trên đất, cong lưng cả người lông dựng đứng lên, trong miệng phát ra ô ô uy hiếp thanh, 2 con xanh biếc mắt sói chặt chẽ nhìn chằm chằm trước mặt.
+  
+  	Mưu Huy Dương theo chó sói trắng ánh mắt nhìn sang, chỉ gặp cách chó sói trắng chỗ không xa, một cái có dài 3-4m so bát to còn to con trăn, thân trăn đè trên đất cỏ dại ở trên, đầu lâu thật cao nâng lên, hai ngón tay chiều rộng lưỡi rắn đưa ra miệng rắn mười mấy ly mét, ở trong không khí không ngừng lắc lư, trong miệng phát ra tê tê địa uy hiếp thanh đang cùng chó sói trắng chống cự.
+  
+  	Nhìn lẫn nhau chống cự một chó sói một mãng, Mưu Huy Dương cảm thấy thấy lạnh cả người từ đế cốt dâng lên, trên người bắp thịt cũng căng thẳng, mau mang Đại Lão Hắc núp ở phía sau một cây đại thụ mặt, hắn động một cái cũng không dám động, sợ mình không cẩn thận làm ra động tĩnh tới, mình liền sẽ trở thành cái này một chó sói một mãng trong miệng thực vậy.
+  
+  	Mưu Huy Dương từ phía sau cây hướng chó sói trắng nhìn lại, cái này chó sói trắng vẫn là một cái chưa có hoàn toàn lớn lên choai choai sói con, nó ngực hẹp hòi, tứ chi khoẻ mạnh tráng kiện có lực, toàn thân đều là màu trắng lông, giống như là nhu thuận màu trắng tơ lụa vậy, cái này chó sói nhìn như đẹp vô cùng, Mưu Huy Dương vừa thấy thích, muốn đem cái này chó sói trắng thu phục.
+  
+  	"Ngao. . ." Đột nhiên, vậy chó sói trắng phát ra một tiếng trường hào, thật chặt bắt trên đất tứ chi dùng sức đạp một cái, chó sói miệng há thật to, nanh sói trắng dày đặc ở ánh trăng trong lóe lên tia tia ánh sáng trắng
+  , toàn bộ thân thể hướng về phía trăn lớn lủi qua.
+  
+  	Lúc này vậy trăn lớn cũng động, chỉ gặp nó đuôi rắn ngăn lại, hướng về phía vọt nhào tới chó sói trắng quất tới.
+  
+  	Mắt thấy đuôi trăn lớn thì phải quất đến chó sói trắng trên người, nhưng gặp vậy chó sói trắng tứ chi dùng một chút lực, thân thể hướng bên cạnh vọt ra ngoài, lướt qua trăn lớn quất tới đuôi rắn tránh thoát cái này thế đại lực trầm một kích, hơn nữa đang cùng đuôi rắn giao thoa ngay tức thì, huy động sắc bén móng vuốt sói, ở đuôi rắn ở trên để lại một đạo thật sâu rãnh máu.
+  
+  	Trên người truyền tới đau đớn đem trăn lớn chọc giận, thân rắn một hồi nhanh chóng giãy giụa, vảy đang cùng mặt đất va chạm lúc phát ra một hồi xào xạt thanh âm, há to miệng, giống như một đạo mũi tên xanh biếc vậy hướng chó sói trắng nhào tới.
+  
+  	Con trăn hướng chó sói trắng nhào qua, vậy chó sói trắng gặp con trăn nhào tới cũng cũng không lui lại, mà ngao địa gào một tiếng, ở con trăn gần tới một khắc trước, chân sau dùng sức đạp một cái, toàn bộ chó sói người phóng lên cao gần 2m, từ con trăn trên đầu vọt qua, rơi vào thân con trăn ở giữa, sắc bén móng vuốt sói hung hãn ở thân con trăn ở trên một móng lấy xuống, vậy móng vuốt sói nhìn như hết sức sắc bén, chó sói trắng một trảo này tử đi xuống, miễn cưỡng thủng con trăn vậy bền bỉ mãng da, từ con trăn trên người mang theo nhất lưu máu bắn tung.
+  
+  	Đau đớn khiến cho con trăn hoàn toàn nổi giận, cái đuôi ngay tức thì từ phía sau quất ra, 'Phịch ' một tiếng, đuôi trăn lớn quất vào chó sói trắng trên người.
+  
+  	"Ngao ô."
+  
+  	Chó sói trắng không có tránh thoát con trăn bất thình lình một kích, phát ra một tiếng gào kêu đau, bị con trăn đuôi rắn quất bay ở đi ra ngoài.
+  
+  	"Bành " một tiếng, chó sói trắng bị con trăn cho tát bay chừng mười mét, té ở đầy đất cành khô lá rụng ở trên, mà con trăn rắn trên người vảy cũng bị chó sói trắng lấy xuống liền một mảnh, vảy xuống thịt đều bị lấy xuống liền mấy khối.
+  
+  	"Ngao ô. . ."
+  
+  	Chó sói trắng hiển nhiên bị trăn lớn cái này một cái đuôi quất không rõ, trên đất vùng vẫy mấy cái mới đứng lên, sau khi đứng dậy, chó sói trắng ngước nhìn trời lên mặt trăng, phát ra một tiếng thật dài tiếng kêu gào, theo chó sói trắng tiếng rú trở nên càng ngày càng cao ngang, trên người nó khí thế cũng theo đó trở nên càng ngày càng lớn mạnh đứng lên.
+  
+  	Tiếng rú rơi xuống chó sói trắng tứ chi phát lực giống như một mũi tên tựa như hướng về phía con trăn phóng tới, xem vậy linh hoạt hình dáng, thật giống như mới vừa rồi bị con trăn quất một cái cũng không có khiến nó bị thương tựa như, hành động một chút cũng không có chịu ảnh hưởng.
+  
+  	Theo chó sói trắng bắt đầu công kích con trăn cũng triển khai đánh trả, chỉ gặp vậy nguyên bản thật cao nâng lên đầu trăn há to miệng, hướng về phía chó sói trắng xông tới bóng người một hớp cắn.
+  
+  	Thấy con trăn há to miệng hướng mình cắn tới, đang chạy vào ở giữa chó sói trắng một cái chân trước ở con trăn đầu lưỡi phía dưới trên thân thể đẩy một cái, cả người lại tránh được con trăn vậy há lớn miệng to như chậu máu.
+  
+  	Đang cùng con trăn lần lượt thay nhau bây giờ, chỉ gặp chó sói trắng móng vuốt từ con trăn trên thân thể bảy tấc địa phương vạch qua, phát ra một hồi làm chua xót lòng người đâm thanh, nhưng là lần này lại không có phá vỡ con trăn vậy thật dầy vảy, chẳng qua là đem con trăn bảy tấc chỗ vảy lấy xuống liền mấy miếng.
+  
+  	"Mẹ ngươi, cái này chó sói trắng chỉ số thông minh không khỏi cũng có phần quá cao đi, không chỉ có biết kỷ xảo, lại vẫn biết đánh rắn đánh bảy tấc đạo lý, đây là muốn thành tinh tiết tấu à!" Thấy chó sói trắng động tác, Mưu Huy Dương cảm thấy vạn phần kinh ngạc, trong lòng mắng thầm.
+  
+  	Converter Dzung Kiều cầu ủng hộ bộ TA CÙNG ĐẠI THÁNH LÀ HUYNH ĐỆ nhéConverter Dzung Kiều cầu phiếu
+  
+  	Núi Long Thủ bên trong không hề thiếu to lớn cổ thụ, cây cối bao trùm đặc biệt dày đặc, cho nên nếu so với phía ngoài đen sớm đi, buổi chiều hơn 6h, khi bọn hắn đi tới một con suối nước xếp thành đầm nước nhỏ chỗ, trong rừng mặt đã trở nên có chút tối.
+  
+  	Đầm nước này mặt nước ước chừng có chừng năm mươi mét chiều rộng, cùng một con đi dưới núi chảy tới giòng suối nhỏ nối liền chung một chỗ, hình thành một mảnh hiếm thấy đất trống mang, đầm nước bên trong cá thật đúng là không thiếu, cá chép, cá bạc, cá ngát. . . Hắn lại vẫn ở trong đầm nước phát hiện tế lân khuê.
+  
+  	Tế lân khuê tên khoa học gọi cá tế lân, là không thể có nhiều quý giá cá nước lạnh loại, nhìn trong đầm nước cá tế lân, Mưu Huy Dương nghĩ đến: Mình nhận thầu bãi hoang vắng đó không phải là có mấy cái mương sao, nếu có thể đem cái này cá tế lân ở mương bên trong nuôi dưỡng thành công, như vậy mình không phải là lại thêm hạng nhất thu vào sao?
+  
+  	/*Dzung Kiều : xem hình cá tế lân (họ cá hồi-Brachymystax lenok) */
+  
+  	Vì vậy hắn quyết định bắt một ít trong đầm nước cá tế lân nuôi tại không gian trong mương, dự định sau này ở bên ngoài nuôi dưỡng.
+  
+  	Mưu Huy Dương nhíu chặt mày, nhìn trong đầm nước bơi qua bơi lại các loại loại cá, trong lòng suy nghĩ muốn như thế nào mới có thể đem những cá này nắm lên tới, bỗng nhiên, hắn trong đầu linh quang chớp mắt, nghĩ tới mình bắt gà rừng lúc tình cảnh.
+  
+  	Vì vậy hắn tâm niệm vừa động, trong không gian cái gùi xuất hiện ở trong tay hắn, đem cái gùi dùng sợi dây cột chắc, sau đó đem dùng nước không gian ngâm ngâm qua lương khô bỏ vào cái gùi, đem chìm vào nước trong đầm.
+  
+  	Chẳng được bao lâu, trong đầm nước cá đều bắt đầu ủng hộ hay phản đối lâu chỗ bơi tới, thậm chí có càng ngày càng nhiều cá nhảy ra mặt nước, mang theo một chùm chuỗi nước, nhìn cái gùi phía trên rậm rạp chằng chịt du động các loại loại cá, thậm chí có một ít cá không kịp chờ đợi chui vào trong cái gùi giành giật ăn nước không gian ngâm ngâm qua lương khô.
+  
+  	Mưu Huy Dương thấy vậy nhanh chóng đem cái gùi xách lên, nhìn tràn đầy một cái gùi các loại loại cá, Mưu Huy Dương mang cái gùi tiến vào đến trong không gian, đem cá đổ vào trong mương, những cá kia vừa tiến vào đến trong mương lập tức vui sướng văng tứ tán.
+  
+  	Từ trong không gian đi ra, hắn lại dùng biện pháp giống vậy lại lấy mấy cái gùi cá sau đó, cái này nước trong đầm các loại loại cá hiện tại không gian trong mương cũng đã có, dùng để làm cá loại đã đủ, vì vậy hắn thì dừng lại.
+  
+  	Cùng Đại Lão Hắc cái ăn một cái một thước dài hơn cá tế lân, sau đó Mưu Huy Dương trở về chỗ cá tế lân món ăn ngon, mang Đại Lão Hắc tiến vào trong không gian.
+  
+  	Nhìn trong không gian chưa kịp trồng tất cả loại thuốc cây con xốc xếch tán lạc ở các nơi, Mưu Huy Dương lắc đầu một cái, như vậy bày cũng không phải biện pháp, coi như là mình sau khi ăn xong tiêu thực, hay là đem những thực vật kia cũng trồng đến cái này trong không gian, sau này mình phải dùng thời điểm cũng thuận lợi.
+  
+  	Mưu Huy Dương dùng đem tất cả thực vật cũng phân loại phân vùng địa tiến hành trồng, khi tất cả thực vật cũng tài hoàn sau đó, Mưu Huy Dương cảm thấy mình đầu bất tỉnh trầm trầm có chút choáng váng, hắn biết đây là tinh thần tiêu hao quá nhiều duyên cớ, cái này dùng ý niệm tài loại thực vật tốt thì tốt, chính là quá hao phí tinh thần lực.
+  
+  	Không nghĩ tới cái này núi Long Thủ bên trong trong thực vật lại phong phú như vậy, lúc này mới một ngày thời gian dược liệu, hoa cỏ, cây cối, lại liền đào được hơn một trăm loại , để cho hắn cảm thấy cao hứng chính là còn đào được mấy bụi dã hạnh, cùng cây mận miêu, hắn nhìn nguyên bản trống rỗng đất đen ở trên xuất hiện từng miếng màu xanh lá cây, cùng với trong mương du động cái loại loại cá, cảm đến không gian trở nên có tức giận cũng sinh động nhiều.
+  
+  	Đột nhiên, Mưu Huy Dương cảm giác được không gian thật giống như có chút nhỏ nhẹ chấn động, bao phủ tại không gian bốn phía sương mù bắt đầu hướng ra phía ngoài khuếch trương, dưới chân vùng đất đen cũng đang từ từ hướng ra phía ngoài duyên thân.
+  
+  	Lúc này, Đại Lão Hắc cũng phát hiện không gian biến hóa, hoảng sợ sủa điên cuồng mấy tiếng sau đó, chạy đến Mưu Huy Dương bên cạnh hỏi: "Lão đại, đây là thế nào, nơi này không phải là muốn sụp đi, lão đại ngươi đuổi mau dẫn ta đi ra ngoài đi."
+  
+  	Quân tử không đứng ở nguy tường dưới, mặc dù hắn không có cảm thấy không gian này biến hóa có nguy hiểm gì cảm giác, nhưng là hắn vẫn là mang Đại Lão Hắc ra không gian.
+  
+  	Làm từ không gian ra chó sói sau đó, liền nghe gặp một tiếng tiếng sói tru, xuyên thấu qua nhàn nhạt ánh trăng, hắn thấy được ở đầm nước mặt khác một cái choai choai chó sói trắng, tứ chi chặt chặt giọt bắt trên đất, cong lưng cả người lông dựng đứng lên, trong miệng phát ra ô ô uy hiếp thanh, 2 con xanh biếc mắt sói chặt chẽ nhìn chằm chằm trước mặt.
+  
+  	Mưu Huy Dương theo chó sói trắng ánh mắt nhìn sang, chỉ gặp cách chó sói trắng chỗ không xa, một cái có dài 3-4m so bát to còn to con trăn, thân trăn đè trên đất cỏ dại ở trên, đầu lâu thật cao nâng lên, hai ngón tay chiều rộng lưỡi rắn đưa ra miệng rắn mười mấy ly mét, ở trong không khí không ngừng lắc lư, trong miệng phát ra tê tê địa uy hiếp thanh đang cùng chó sói trắng chống cự.
+  
+  	Nhìn lẫn nhau chống cự một chó sói một mãng, Mưu Huy Dương cảm thấy thấy lạnh cả người từ đế cốt dâng lên, trên người bắp thịt cũng căng thẳng, mau mang Đại Lão Hắc núp ở phía sau một cây đại thụ mặt, hắn động một cái cũng không dám động, sợ mình không cẩn thận làm ra động tĩnh tới, mình liền sẽ trở thành cái này một chó sói một mãng trong miệng thực vậy.
+  
+  	Mưu Huy Dương từ phía sau cây hướng chó sói trắng nhìn lại, cái này chó sói trắng vẫn là một cái chưa có hoàn toàn lớn lên choai choai sói con, nó ngực hẹp hòi, tứ chi khoẻ mạnh tráng kiện có lực, toàn thân đều là màu trắng lông, giống như là nhu thuận màu trắng tơ lụa vậy, cái này chó sói nhìn như đẹp vô cùng, Mưu Huy Dương vừa thấy thích, muốn đem cái này chó sói trắng thu phục.
+  
+  	"Ngao. . ." Đột nhiên, vậy chó sói trắng phát ra một tiếng trường hào, thật chặt bắt trên đất tứ chi dùng sức đạp một cái, chó sói miệng há thật to, nanh sói trắng dày đặc ở ánh trăng trong lóe lên tia tia ánh sáng trắng
+  , toàn bộ thân thể hướng về phía trăn lớn lủi qua.
+  
+  	Lúc này vậy trăn lớn cũng động, chỉ gặp nó đuôi rắn ngăn lại, hướng về phía vọt nhào tới chó sói trắng quất tới.
+  
+  	Mắt thấy đuôi trăn lớn thì phải quất đến chó sói trắng trên người, nhưng gặp vậy chó sói trắng tứ chi dùng một chút lực, thân thể hướng bên cạnh vọt ra ngoài, lướt qua trăn lớn quất tới đuôi rắn tránh thoát cái này thế đại lực trầm một kích, hơn nữa đang cùng đuôi rắn giao thoa ngay tức thì, huy động sắc bén móng vuốt sói, ở đuôi rắn ở trên để lại một đạo thật sâu rãnh máu.
+  
+  	Trên người truyền tới đau đớn đem trăn lớn chọc giận, thân rắn một hồi nhanh chóng giãy giụa, vảy đang cùng mặt đất va chạm lúc phát ra một hồi xào xạt thanh âm, há to miệng, giống như một đạo mũi tên xanh biếc vậy hướng chó sói trắng nhào tới.
+  
+  	Con trăn hướng chó sói trắng nhào qua, vậy chó sói trắng gặp con trăn nhào tới cũng cũng không lui lại, mà ngao địa gào một tiếng, ở con trăn gần tới một khắc trước, chân sau dùng sức đạp một cái, toàn bộ chó sói người phóng lên cao gần 2m, từ con trăn trên đầu vọt qua, rơi vào thân con trăn ở giữa, sắc bén móng vuốt sói hung hãn ở thân con trăn ở trên một móng lấy xuống, vậy móng vuốt sói nhìn như hết sức sắc bén, chó sói trắng một trảo này tử đi xuống, miễn cưỡng thủng con trăn vậy bền bỉ mãng da, từ con trăn trên người mang theo nhất lưu máu bắn tung.
+  
+  	Đau đớn khiến cho con trăn hoàn toàn nổi giận, cái đuôi ngay tức thì từ phía sau quất ra, 'Phịch ' một tiếng, đuôi trăn lớn quất vào chó sói trắng trên người.
+  
+  	"Ngao ô."
+  
+  	Chó sói trắng không có tránh thoát con trăn bất thình lình một kích, phát ra một tiếng gào kêu đau, bị con trăn đuôi rắn quất bay ở đi ra ngoài.
+  
+  	"Bành " một tiếng, chó sói trắng bị con trăn cho tát bay chừng mười mét, té ở đầy đất cành khô lá rụng ở trên, mà con trăn rắn trên người vảy cũng bị chó sói trắng lấy xuống liền một mảnh, vảy xuống thịt đều bị lấy xuống liền mấy khối.
+  
+  	"Ngao ô. . ."
+  
+  	Chó sói trắng hiển nhiên bị trăn lớn cái này một cái đuôi quất không rõ, trên đất vùng vẫy mấy cái mới đứng lên, sau khi đứng dậy, chó sói trắng ngước nhìn trời lên mặt trăng, phát ra một tiếng thật dài tiếng kêu gào, theo chó sói trắng tiếng rú trở nên càng ngày càng cao ngang, trên người nó khí thế cũng theo đó trở nên càng ngày càng lớn mạnh đứng lên.
+  
+  	Tiếng rú rơi xuống chó sói trắng tứ chi phát lực giống như một mũi tên tựa như hướng về phía con trăn phóng tới, xem vậy linh hoạt hình dáng, thật giống như mới vừa rồi bị con trăn quất một cái cũng không có khiến nó bị thương tựa như, hành động một chút cũng không có chịu ảnh hưởng.
+  
+  	Theo chó sói trắng bắt đầu công kích con trăn cũng triển khai đánh trả, chỉ gặp vậy nguyên bản thật cao nâng lên đầu trăn há to miệng, hướng về phía chó sói trắng xông tới bóng người một hớp cắn.
+  
+  	Thấy con trăn há to miệng hướng mình cắn tới, đang chạy vào ở giữa chó sói trắng một cái chân trước ở con trăn đầu lưỡi phía dưới trên thân thể đẩy một cái, cả người lại tránh được con trăn vậy há lớn miệng to như chậu máu.
+  
+  	Đang cùng con trăn lần lượt thay nhau bây giờ, chỉ gặp chó sói trắng móng vuốt từ con trăn trên thân thể bảy tấc địa phương vạch qua, phát ra một hồi làm chua xót lòng người đâm thanh, nhưng là lần này lại không có phá vỡ con trăn vậy thật dầy vảy, chẳng qua là đem con trăn bảy tấc chỗ vảy lấy xuống liền mấy miếng.
+  
+  	"Mẹ ngươi, cái này chó sói trắng chỉ số thông minh không khỏi cũng có phần quá cao đi, không chỉ có biết kỷ xảo, lại vẫn biết đánh rắn đánh bảy tấc đạo lý, đây là muốn thành tinh tiết tấu à!" Thấy chó sói trắng động tác, Mưu Huy Dương cảm thấy vạn phần kinh ngạc, trong lòng mắng thầm.
+  
+  	Converter Dzung Kiều cầu ủng hộ bộ TA CÙNG ĐẠI THÁNH LÀ HUYNH ĐỆ nhéConverter Dzung Kiều cầu phiếu
+  
+  	Núi Long Thủ bên trong không hề thiếu to lớn cổ thụ, cây cối bao trùm đặc biệt dày đặc, cho nên nếu so với phía ngoài đen sớm đi, buổi chiều hơn 6h, khi bọn hắn đi tới một con suối nước xếp thành đầm nước nhỏ chỗ, trong rừng mặt đã trở nên có chút tối.
+  
+  	Đầm nước này mặt nước ước chừng có chừng năm mươi mét chiều rộng, cùng một con đi dưới núi chảy tới giòng suối nhỏ nối liền chung một chỗ, hình thành một mảnh hiếm thấy đất trống mang, đầm nước bên trong cá thật đúng là không thiếu, cá chép, cá bạc, cá ngát. . . Hắn lại vẫn ở trong đầm nước phát hiện tế lân khuê.
+  
+  	Tế lân khuê tên khoa học gọi cá tế lân, là không thể có nhiều quý giá cá nước lạnh loại, nhìn trong đầm nước cá tế lân, Mưu Huy Dương nghĩ đến: Mình nhận thầu bãi hoang vắng đó không phải là có mấy cái mương sao, nếu có thể đem cái này cá tế lân ở mương bên trong nuôi dưỡng thành công, như vậy mình không phải là lại thêm hạng nhất thu vào sao?
+  
+  	/*Dzung Kiều : xem hình cá tế lân (họ cá hồi-Brachymystax lenok) */
+  
+  	Vì vậy hắn quyết định bắt một ít trong đầm nước cá tế lân nuôi tại không gian trong mương, dự định sau này ở bên ngoài nuôi dưỡng.
+  
+  	Mưu Huy Dương nhíu chặt mày, nhìn trong đầm nước bơi qua bơi lại các loại loại cá, trong lòng suy nghĩ muốn như thế nào mới có thể đem những cá này nắm lên tới, bỗng nhiên, hắn trong đầu linh quang chớp mắt, nghĩ tới mình bắt gà rừng lúc tình cảnh.
+  
+  	Vì vậy hắn tâm niệm vừa động, trong không gian cái gùi xuất hiện ở trong tay hắn, đem cái gùi dùng sợi dây cột chắc, sau đó đem dùng nước không gian ngâm ngâm qua lương khô bỏ vào cái gùi, đem chìm vào nước trong đầm.
+  
+  	Chẳng được bao lâu, trong đầm nước cá đều bắt đầu ủng hộ hay phản đối lâu chỗ bơi tới, thậm chí có càng ngày càng nhiều cá nhảy ra mặt nước, mang theo một chùm chuỗi nước, nhìn cái gùi phía trên rậm rạp chằng chịt du động các loại loại cá, thậm chí có một ít cá không kịp chờ đợi chui vào trong cái gùi giành giật ăn nước không gian ngâm ngâm qua lương khô.
+  
+  	Mưu Huy Dương thấy vậy nhanh chóng đem cái gùi xách lên, nhìn tràn đầy một cái gùi các loại loại cá, Mưu Huy Dương mang cái gùi tiến vào đến trong không gian, đem cá đổ vào trong mương, những cá kia vừa tiến vào đến trong mương lập tức vui sướng văng tứ tán.
+  
+  	Từ trong không gian đi ra, hắn lại dùng biện pháp giống vậy lại lấy mấy cái gùi cá sau đó, cái này nước trong đầm các loại loại cá hiện tại không gian trong mương cũng đã có, dùng để làm cá loại đã đủ, vì vậy hắn thì dừng lại.
+  
+  	Cùng Đại Lão Hắc cái ăn một cái một thước dài hơn cá tế lân, sau đó Mưu Huy Dương trở về chỗ cá tế lân món ăn ngon, mang Đại Lão Hắc tiến vào trong không gian.
+  
+  	Nhìn trong không gian chưa kịp trồng tất cả loại thuốc cây con xốc xếch tán lạc ở các nơi, Mưu Huy Dương lắc đầu một cái, như vậy bày cũng không phải biện pháp, coi như là mình sau khi ăn xong tiêu thực, hay là đem những thực vật kia cũng trồng đến cái này trong không gian, sau này mình phải dùng thời điểm cũng thuận lợi.
+  
+  	Mưu Huy Dương dùng đem tất cả thực vật cũng phân loại phân vùng địa tiến hành trồng, khi tất cả thực vật cũng tài hoàn sau đó, Mưu Huy Dương cảm thấy mình đầu bất tỉnh trầm trầm có chút choáng váng, hắn biết đây là tinh thần tiêu hao quá nhiều duyên cớ, cái này dùng ý niệm tài loại thực vật tốt thì tốt, chính là quá hao phí tinh thần lực.
+  
+  	Không nghĩ tới cái này núi Long Thủ bên trong trong thực vật lại phong phú như vậy, lúc này mới một ngày thời gian dược liệu, hoa cỏ, cây cối, lại liền đào được hơn một trăm loại , để cho hắn cảm thấy cao hứng chính là còn đào được mấy bụi dã hạnh, cùng cây mận miêu, hắn nhìn nguyên bản trống rỗng đất đen ở trên xuất hiện từng miếng màu xanh lá cây, cùng với trong mương du động cái loại loại cá, cảm đến không gian trở nên có tức giận cũng sinh động nhiều.
+  
+  	Đột nhiên, Mưu Huy Dương cảm giác được không gian thật giống như có chút nhỏ nhẹ chấn động, bao phủ tại không gian bốn phía sương mù bắt đầu hướng ra phía ngoài khuếch trương, dưới chân vùng đất đen cũng đang từ từ hướng ra phía ngoài duyên thân.
+  
+  	Lúc này, Đại Lão Hắc cũng phát hiện không gian biến hóa, hoảng sợ sủa điên cuồng mấy tiếng sau đó, chạy đến Mưu Huy Dương bên cạnh hỏi: "Lão đại, đây là thế nào, nơi này không phải là muốn sụp đi, lão đại ngươi đuổi mau dẫn ta đi ra ngoài đi."
+  
+  	Quân tử không đứng ở nguy tường dưới, mặc dù hắn không có cảm thấy không gian này biến hóa có nguy hiểm gì cảm giác, nhưng là hắn vẫn là mang Đại Lão Hắc ra không gian.
+  
+  	Làm từ không gian ra chó sói sau đó, liền nghe gặp một tiếng tiếng sói tru, xuyên thấu qua nhàn nhạt ánh trăng, hắn thấy được ở đầm nước mặt khác một cái choai choai chó sói trắng, tứ chi chặt chặt giọt bắt trên đất, cong lưng cả người lông dựng đứng lên, trong miệng phát ra ô ô uy hiếp thanh, 2 con xanh biếc mắt sói chặt chẽ nhìn chằm chằm trước mặt.
+  
+  	Mưu Huy Dương theo chó sói trắng ánh mắt nhìn sang, chỉ gặp cách chó sói trắng chỗ không xa, một cái có dài 3-4m so bát to còn to con trăn, thân trăn đè trên đất cỏ dại ở trên, đầu lâu thật cao nâng lên, hai ngón tay chiều rộng lưỡi rắn đưa ra miệng rắn mười mấy ly mét, ở trong không khí không ngừng lắc lư, trong miệng phát ra tê tê địa uy hiếp thanh đang cùng chó sói trắng chống cự.
+  
+  	Nhìn lẫn nhau chống cự một chó sói một mãng, Mưu Huy Dương cảm thấy thấy lạnh cả người từ đế cốt dâng lên, trên người bắp thịt cũng căng thẳng, mau mang Đại Lão Hắc núp ở phía sau một cây đại thụ mặt, hắn động một cái cũng không dám động, sợ mình không cẩn thận làm ra động tĩnh tới, mình liền sẽ trở thành cái này một chó sói một mãng trong miệng thực vậy.
+  
+  	Mưu Huy Dương từ phía sau cây hướng chó sói trắng nhìn lại, cái này chó sói trắng vẫn là một cái chưa có hoàn toàn lớn lên choai choai sói con, nó ngực hẹp hòi, tứ chi khoẻ mạnh tráng kiện có lực, toàn thân đều là màu trắng lông, giống như là nhu thuận màu trắng tơ lụa vậy, cái này chó sói nhìn như đẹp vô cùng, Mưu Huy Dương vừa thấy thích, muốn đem cái này chó sói trắng thu phục.
+  
+  	"Ngao. . ." Đột nhiên, vậy chó sói trắng phát ra một tiếng trường hào, thật chặt bắt trên đất tứ chi dùng sức đạp một cái, chó sói miệng há thật to, nanh sói trắng dày đặc ở ánh trăng trong lóe lên tia tia ánh sáng trắng
+  , toàn bộ thân thể hướng về phía trăn lớn lủi qua.
+  
+  	Lúc này vậy trăn lớn cũng động, chỉ gặp nó đuôi rắn ngăn lại, hướng về phía vọt nhào tới chó sói trắng quất tới.
+  
+  	Mắt thấy đuôi trăn lớn thì phải quất đến chó sói trắng trên người, nhưng gặp vậy chó sói trắng tứ chi dùng một chút lực, thân thể hướng bên cạnh vọt ra ngoài, lướt qua trăn lớn quất tới đuôi rắn tránh thoát cái này thế đại lực trầm một kích, hơn nữa đang cùng đuôi rắn giao thoa ngay tức thì, huy động sắc bén móng vuốt sói, ở đuôi rắn ở trên để lại một đạo thật sâu rãnh máu.
+  
+  	Trên người truyền tới đau đớn đem trăn lớn chọc giận, thân rắn một hồi nhanh chóng giãy giụa, vảy đang cùng mặt đất va chạm lúc phát ra một hồi xào xạt thanh âm, há to miệng, giống như một đạo mũi tên xanh biếc vậy hướng chó sói trắng nhào tới.
+  
+  	Con trăn hướng chó sói trắng nhào qua, vậy chó sói trắng gặp con trăn nhào tới cũng cũng không lui lại, mà ngao địa gào một tiếng, ở con trăn gần tới một khắc trước, chân sau dùng sức đạp một cái, toàn bộ chó sói người phóng lên cao gần 2m, từ con trăn trên đầu vọt qua, rơi vào thân con trăn ở giữa, sắc bén móng vuốt sói hung hãn ở thân con trăn ở trên một móng lấy xuống, vậy móng vuốt sói nhìn như hết sức sắc bén, chó sói trắng một trảo này tử đi xuống, miễn cưỡng thủng con trăn vậy bền bỉ mãng da, từ con trăn trên người mang theo nhất lưu máu bắn tung.
+  
+  	Đau đớn khiến cho con trăn hoàn toàn nổi giận, cái đuôi ngay tức thì từ phía sau quất ra, 'Phịch ' một tiếng, đuôi trăn lớn quất vào chó sói trắng trên người.
+  
+  	"Ngao ô."
+  
+  	Chó sói trắng không có tránh thoát con trăn bất thình lình một kích, phát ra một tiếng gào kêu đau, bị con trăn đuôi rắn quất bay ở đi ra ngoài.
+  
+  	"Bành " một tiếng, chó sói trắng bị con trăn cho tát bay chừng mười mét, té ở đầy đất cành khô lá rụng ở trên, mà con trăn rắn trên người vảy cũng bị chó sói trắng lấy xuống liền một mảnh, vảy xuống thịt đều bị lấy xuống liền mấy khối.
+  
+  	"Ngao ô. . ."
+  
+  	Chó sói trắng hiển nhiên bị trăn lớn cái này một cái đuôi quất không rõ, trên đất vùng vẫy mấy cái mới đứng lên, sau khi đứng dậy, chó sói trắng ngước nhìn trời lên mặt trăng, phát ra một tiếng thật dài tiếng kêu gào, theo chó sói trắng tiếng rú trở nên càng ngày càng cao ngang, trên người nó khí thế cũng theo đó trở nên càng ngày càng lớn mạnh đứng lên.
+  
+  	Tiếng rú rơi xuống chó sói trắng tứ chi phát lực giống như một mũi tên tựa như hướng về phía con trăn phóng tới, xem vậy linh hoạt hình dáng, thật giống như mới vừa rồi bị con trăn quất một cái cũng không có khiến nó bị thương tựa như, hành động một chút cũng không có chịu ảnh hưởng.
+  
+  	Theo chó sói trắng bắt đầu công kích con trăn cũng triển khai đánh trả, chỉ gặp vậy nguyên bản thật cao nâng lên đầu trăn há to miệng, hướng về phía chó sói trắng xông tới bóng người một hớp cắn.
+  
+  	Thấy con trăn há to miệng hướng mình cắn tới, đang chạy vào ở giữa chó sói trắng một cái chân trước ở con trăn đầu lưỡi phía dưới trên thân thể đẩy một cái, cả người lại tránh được con trăn vậy há lớn miệng to như chậu máu.
+  
+  	Đang cùng con trăn lần lượt thay nhau bây giờ, chỉ gặp chó sói trắng móng vuốt từ con trăn trên thân thể bảy tấc địa phương vạch qua, phát ra một hồi làm chua xót lòng người đâm thanh, nhưng là lần này lại không có phá vỡ con trăn vậy thật dầy vảy, chẳng qua là đem con trăn bảy tấc chỗ vảy lấy xuống liền mấy miếng.
+  
+  	"Mẹ ngươi, cái này chó sói trắng chỉ số thông minh không khỏi cũng có phần quá cao đi, không chỉ có biết kỷ xảo, lại vẫn biết đánh rắn đánh bảy tấc đạo lý, đây là muốn thành tinh tiết tấu à!" Thấy chó sói trắng động tác, Mưu Huy Dương cảm thấy vạn phần kinh ngạc, trong lòng mắng thầm.
+  
+  	Converter Dzung Kiều cầu ủng hộ bộ TA CÙNG ĐẠI THÁNH LÀ HUYNH ĐỆ nhéConverter Dzung Kiều cầu phiếu
+  
+  	Núi Long Thủ bên trong không hề thiếu to lớn cổ thụ, cây cối bao trùm đặc biệt dày đặc, cho nên nếu so với phía ngoài đen sớm đi, buổi chiều hơn 6h, khi bọn hắn đi tới một con suối nước xếp thành đầm nước nhỏ chỗ, trong rừng mặt đã trở nên có chút tối.
+  
+  	Đầm nước này mặt nước ước chừng có chừng năm mươi mét chiều rộng, cùng một con đi dưới núi chảy tới giòng suối nhỏ nối liền chung một chỗ, hình thành một mảnh hiếm thấy đất trống mang, đầm nước bên trong cá thật đúng là không thiếu, cá chép, cá bạc, cá ngát. . . Hắn lại vẫn ở trong đầm nước phát hiện tế lân khuê.
+  
+  	Tế lân khuê tên khoa học gọi cá tế lân, là không thể có nhiều quý giá cá nước lạnh loại, nhìn trong đầm nước cá tế lân, Mưu Huy Dương nghĩ đến: Mình nhận thầu bãi hoang vắng đó không phải là có mấy cái mương sao, nếu có thể đem cái này cá tế lân ở mương bên trong nuôi dưỡng thành công, như vậy mình không phải là lại thêm hạng nhất thu vào sao?
+  
+  	/*Dzung Kiều : xem hình cá tế lân (họ cá hồi-Brachymystax lenok) */
+  
+  	Vì vậy hắn quyết định bắt một ít trong đầm nước cá tế lân nuôi tại không gian trong mương, dự định sau này ở bên ngoài nuôi dưỡng.
+  
+  	Mưu Huy Dương nhíu chặt mày, nhìn trong đầm nước bơi qua bơi lại các loại loại cá, trong lòng suy nghĩ muốn như thế nào mới có thể đem những cá này nắm lên tới, bỗng nhiên, hắn trong đầu linh quang chớp mắt, nghĩ tới mình bắt gà rừng lúc tình cảnh.
+  
+  	Vì vậy hắn tâm niệm vừa động, trong không gian cái gùi xuất hiện ở trong tay hắn, đem cái gùi dùng sợi dây cột chắc, sau đó đem dùng nước không gian ngâm ngâm qua lương khô bỏ vào cái gùi, đem chìm vào nước trong đầm.
+  
+  	Chẳng được bao lâu, trong đầm nước cá đều bắt đầu ủng hộ hay phản đối lâu chỗ bơi tới, thậm chí có càng ngày càng nhiều cá nhảy ra mặt nước, mang theo một chùm chuỗi nước, nhìn cái gùi phía trên rậm rạp chằng chịt du động các loại loại cá, thậm chí có một ít cá không kịp chờ đợi chui vào trong cái gùi giành giật ăn nước không gian ngâm ngâm qua lương khô.
+  
+  	Mưu Huy Dương thấy vậy nhanh chóng đem cái gùi xách lên, nhìn tràn đầy một cái gùi các loại loại cá, Mưu Huy Dương mang cái gùi tiến vào đến trong không gian, đem cá đổ vào trong mương, những cá kia vừa tiến vào đến trong mương lập tức vui sướng văng tứ tán.
+  
+  	Từ trong không gian đi ra, hắn lại dùng biện pháp giống vậy lại lấy mấy cái gùi cá sau đó, cái này nước trong đầm các loại loại cá hiện tại không gian trong mương cũng đã có, dùng để làm cá loại đã đủ, vì vậy hắn thì dừng lại.
+  
+  	Cùng Đại Lão Hắc cái ăn một cái một thước dài hơn cá tế lân, sau đó Mưu Huy Dương trở về chỗ cá tế lân món ăn ngon, mang Đại Lão Hắc tiến vào trong không gian.
+  
+  	Nhìn trong không gian chưa kịp trồng tất cả loại thuốc cây con xốc xếch tán lạc ở các nơi, Mưu Huy Dương lắc đầu một cái, như vậy bày cũng không phải biện pháp, coi như là mình sau khi ăn xong tiêu thực, hay là đem những thực vật kia cũng trồng đến cái này trong không gian, sau này mình phải dùng thời điểm cũng thuận lợi.
+  
+  	Mưu Huy Dương dùng đem tất cả thực vật cũng phân loại phân vùng địa tiến hành trồng, khi tất cả thực vật cũng tài hoàn sau đó, Mưu Huy Dương cảm thấy mình đầu bất tỉnh trầm trầm có chút choáng váng, hắn biết đây là tinh thần tiêu hao quá nhiều duyên cớ, cái này dùng ý niệm tài loại thực vật tốt thì tốt, chính là quá hao phí tinh thần lực.
+  
+  	Không nghĩ tới cái này núi Long Thủ bên trong trong thực vật lại phong phú như vậy, lúc này mới một ngày thời gian dược liệu, hoa cỏ, cây cối, lại liền đào được hơn một trăm loại , để cho hắn cảm thấy cao hứng chính là còn đào được mấy bụi dã hạnh, cùng cây mận miêu, hắn nhìn nguyên bản trống rỗng đất đen ở trên xuất hiện từng miếng màu xanh lá cây, cùng với trong mương du động cái loại loại cá, cảm đến không gian trở nên có tức giận cũng sinh động nhiều.
+  
+  	Đột nhiên, Mưu Huy Dương cảm giác được không gian thật giống như có chút nhỏ nhẹ chấn động, bao phủ tại không gian bốn phía sương mù bắt đầu hướng ra phía ngoài khuếch trương, dưới chân vùng đất đen cũng đang từ từ hướng ra phía ngoài duyên thân.
+  
+  	Lúc này, Đại Lão Hắc cũng phát hiện không gian biến hóa, hoảng sợ sủa điên cuồng mấy tiếng sau đó, chạy đến Mưu Huy Dương bên cạnh hỏi: "Lão đại, đây là thế nào, nơi này không phải là muốn sụp đi, lão đại ngươi đuổi mau dẫn ta đi ra ngoài đi."
+  
+  	Quân tử không đứng ở nguy tường dưới, mặc dù hắn không có cảm thấy không gian này biến hóa có nguy hiểm gì cảm giác, nhưng là hắn vẫn là mang Đại Lão Hắc ra không gian.
+  
+  	Làm từ không gian ra chó sói sau đó, liền nghe gặp một tiếng tiếng sói tru, xuyên thấu qua nhàn nhạt ánh trăng, hắn thấy được ở đầm nước mặt khác một cái choai choai chó sói trắng, tứ chi chặt chặt giọt bắt trên đất, cong lưng cả người lông dựng đứng lên, trong miệng phát ra ô ô uy hiếp thanh, 2 con xanh biếc mắt sói chặt chẽ nhìn chằm chằm trước mặt.
+  
+  	Mưu Huy Dương theo chó sói trắng ánh mắt nhìn sang, chỉ gặp cách chó sói trắng chỗ không xa, một cái có dài 3-4m so bát to còn to con trăn, thân trăn đè trên đất cỏ dại ở trên, đầu lâu thật cao nâng lên, hai ngón tay chiều rộng lưỡi rắn đưa ra miệng rắn mười mấy ly mét, ở trong không khí không ngừng lắc lư, trong miệng phát ra tê tê địa uy hiếp thanh đang cùng chó sói trắng chống cự.
+  
+  	Nhìn lẫn nhau chống cự một chó sói một mãng, Mưu Huy Dương cảm thấy thấy lạnh cả người từ đế cốt dâng lên, trên người bắp thịt cũng căng thẳng, mau mang Đại Lão Hắc núp ở phía sau một cây đại thụ mặt, hắn động một cái cũng không dám động, sợ mình không cẩn thận làm ra động tĩnh tới, mình liền sẽ trở thành cái này một chó sói một mãng trong miệng thực vậy.
+  
+  	Mưu Huy Dương từ phía sau cây hướng chó sói trắng nhìn lại, cái này chó sói trắng vẫn là một cái chưa có hoàn toàn lớn lên choai choai sói con, nó ngực hẹp hòi, tứ chi khoẻ mạnh tráng kiện có lực, toàn thân đều là màu trắng lông, giống như là nhu thuận màu trắng tơ lụa vậy, cái này chó sói nhìn như đẹp vô cùng, Mưu Huy Dương vừa thấy thích, muốn đem cái này chó sói trắng thu phục.
+  
+  	"Ngao. . ." Đột nhiên, vậy chó sói trắng phát ra một tiếng trường hào, thật chặt bắt trên đất tứ chi dùng sức đạp một cái, chó sói miệng há thật to, nanh sói trắng dày đặc ở ánh trăng trong lóe lên tia tia ánh sáng trắng
+  , toàn bộ thân thể hướng về phía trăn lớn lủi qua.
+  
+  	Lúc này vậy trăn lớn cũng động, chỉ gặp nó đuôi rắn ngăn lại, hướng về phía vọt nhào tới chó sói trắng quất tới.
+  
+  	Mắt thấy đuôi trăn lớn thì phải quất đến chó sói trắng trên người, nhưng gặp vậy chó sói trắng tứ chi dùng một chút lực, thân thể hướng bên cạnh vọt ra ngoài, lướt qua trăn lớn quất tới đuôi rắn tránh thoát cái này thế đại lực trầm một kích, hơn nữa đang cùng đuôi rắn giao thoa ngay tức thì, huy động sắc bén móng vuốt sói, ở đuôi rắn ở trên để lại một đạo thật sâu rãnh máu.
+  
+  	Trên người truyền tới đau đớn đem trăn lớn chọc giận, thân rắn một hồi nhanh chóng giãy giụa, vảy đang cùng mặt đất va chạm lúc phát ra một hồi xào xạt thanh âm, há to miệng, giống như một đạo mũi tên xanh biếc vậy hướng chó sói trắng nhào tới.
+  
+  	Con trăn hướng chó sói trắng nhào qua, vậy chó sói trắng gặp con trăn nhào tới cũng cũng không lui lại, mà ngao địa gào một tiếng, ở con trăn gần tới một khắc trước, chân sau dùng sức đạp một cái, toàn bộ chó sói người phóng lên cao gần 2m, từ con trăn trên đầu vọt qua, rơi vào thân con trăn ở giữa, sắc bén móng vuốt sói hung hãn ở thân con trăn ở trên một móng lấy xuống, vậy móng vuốt sói nhìn như hết sức sắc bén, chó sói trắng một trảo này tử đi xuống, miễn cưỡng thủng con trăn vậy bền bỉ mãng da, từ con trăn trên người mang theo nhất lưu máu bắn tung.
+  
+  	Đau đớn khiến cho con trăn hoàn toàn nổi giận, cái đuôi ngay tức thì từ phía sau quất ra, 'Phịch ' một tiếng, đuôi trăn lớn quất vào chó sói trắng trên người.
+  
+  	"Ngao ô."
+  
+  	Chó sói trắng không có tránh thoát con trăn bất thình lình một kích, phát ra một tiếng gào kêu đau, bị con trăn đuôi rắn quất bay ở đi ra ngoài.
+  
+  	"Bành " một tiếng, chó sói trắng bị con trăn cho tát bay chừng mười mét, té ở đầy đất cành khô lá rụng ở trên, mà con trăn rắn trên người vảy cũng bị chó sói trắng lấy xuống liền một mảnh, vảy xuống thịt đều bị lấy xuống liền mấy khối.
+  
+  	"Ngao ô. . ."
+  
+  	Chó sói trắng hiển nhiên bị trăn lớn cái này một cái đuôi quất không rõ, trên đất vùng vẫy mấy cái mới đứng lên, sau khi đứng dậy, chó sói trắng ngước nhìn trời lên mặt trăng, phát ra một tiếng thật dài tiếng kêu gào, theo chó sói trắng tiếng rú trở nên càng ngày càng cao ngang, trên người nó khí thế cũng theo đó trở nên càng ngày càng lớn mạnh đứng lên.
+  
+  	Tiếng rú rơi xuống chó sói trắng tứ chi phát lực giống như một mũi tên tựa như hướng về phía con trăn phóng tới, xem vậy linh hoạt hình dáng, thật giống như mới vừa rồi bị con trăn quất một cái cũng không có khiến nó bị thương tựa như, hành động một chút cũng không có chịu ảnh hưởng.
+  
+  	Theo chó sói trắng bắt đầu công kích con trăn cũng triển khai đánh trả, chỉ gặp vậy nguyên bản thật cao nâng lên đầu trăn há to miệng, hướng về phía chó sói trắng xông tới bóng người một hớp cắn.
+  
+  	Thấy con trăn há to miệng hướng mình cắn tới, đang chạy vào ở giữa chó sói trắng một cái chân trước ở con trăn đầu lưỡi phía dưới trên thân thể đẩy một cái, cả người lại tránh được con trăn vậy há lớn miệng to như chậu máu.
+  
+  	Đang cùng con trăn lần lượt thay nhau bây giờ, chỉ gặp chó sói trắng móng vuốt từ con trăn trên thân thể bảy tấc địa phương vạch qua, phát ra một hồi làm chua xót lòng người đâm thanh, nhưng là lần này lại không có phá vỡ con trăn vậy thật dầy vảy, chẳng qua là đem con trăn bảy tấc chỗ vảy lấy xuống liền mấy miếng.
+  
+  	"Mẹ ngươi, cái này chó sói trắng chỉ số thông minh không khỏi cũng có phần quá cao đi, không chỉ có biết kỷ xảo, lại vẫn biết đánh rắn đánh bảy tấc đạo lý, đây là muốn thành tinh tiết tấu à!" Thấy chó sói trắng động tác, Mưu Huy Dương cảm thấy vạn phần kinh ngạc, trong lòng mắng thầm.
+  
+  	Converter Dzung Kiều cầu ủng hộ bộ TA CÙNG ĐẠI THÁNH LÀ HUYNH ĐỆ nhé

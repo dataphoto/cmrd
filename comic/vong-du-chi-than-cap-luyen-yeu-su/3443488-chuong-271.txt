@@ -1,0 +1,417 @@
+Chương 271:: Phong Thần bảng 
+ 
+ 	Hắc Phong, Viêm hổ cùng phích lịch bọ ngựa rất nhanh thanh quang tất cả hải tặc.
+ 
+ 	Giang Phong cưỡi tại hứa Phỉ Phỉ đám người trên thuyền hướng phía hắc thạch đá ngầm san hô chạy tới.
+ 
+ 	Hắc thạch đá ngầm san hô tại ngư ông đảo cách đó không xa, vừa vặn tiện đường.
+ 
+ 	Ngồi trên thuyền, hắn cùng hứa Phỉ Phỉ cùng Thủy Tộc một đám người tán gẫu.
+ 
+ 	Từ trong lúc nói chuyện với nhau hắn biết, hiện giai đoạn, Thần tộc thành thị chỉ còn lại chín tòa, cái khác 27 tòa thành thị đều bị chủng tộc khác chiếm lĩnh.
+ 
+ 	Nguyên bản trong thành thị Thần tộc NPC cũng thay máu, đổi thành từng cái chủng tộc NPC.
+ 
+ 	Bọn hắn nhận được nhiệm vụ, là một cái kiến thiết Nam Hải thành nhiệm vụ.
+ 
+ 	Cần phải đi hắc thạch đá ngầm san hô giết một chút hắc thạch quái, bạo hắc thủy thạch.
+ 
+ 	Thuyền tốc độ cũng không chậm, trên đường một đám người trò chuyện, rất nhanh liền chạy tới hắc thạch đá ngầm san hô.
+ 
+ 	Trên đường gặp được mấy con quái vật, bất quá đều bị bay trên không trung phích lịch bọ ngựa giải quyết.
+ 
+ 	Nhìn xem Giang Phong cái này ba cái dũng mãnh tiểu đệ, tất cả mọi người ở đây đều không ngừng hâm mộ.
+ 
+ 	Một lát sau, hắc thạch đá ngầm san hô đến.
+ 
+ 	Một cái thôn xóm lớn nhỏ hòn đảo.
+ 
+ 	"Hắc Phong Viêm hổ, hai người các ngươi giúp bọn hắn hoàn thành nhiệm vụ, sau đó tới tìm ta."
+ 
+ 	Đem hứa Phỉ Phỉ một đám người chơi cùng Thủy Tộc một đám người đưa đến hắc thạch đá ngầm san hô, hắn cưỡi yêu vân mang theo phích lịch bọ ngựa, nhanh chóng hướng phía ngư ông đảo bay đi.
+ 
+ 	"Phỉ Phỉ tỷ, vì cái gì Yêu Đế cùng trong video Yêu Đế dáng dấp không giống?"
+ 
+ 	Đương Giang Phong rời đi về sau, một cái so hứa Phỉ Phỉ niên kỷ còn nhỏ không ít nữ tử hỏi.
+ 
+ 	Hứa Phỉ Phỉ cười giải thích nói, " Yêu Đế thực lực phi thường cường đại, đoán chừng có được càng cải danh tự cùng dung mạo năng lực đi."
+ 
+ 	...
+ 
+ 	Ngư ông đảo, một chỗ điền viên phong cách đảo nhỏ.
+ 
+ 	Có núi có nước cùng quái vật, nhưng là cùng nhiều như vậy hòn đảo so ra, lại vô cùng không đáng chú ý.
+ 
+ 	Hắn nghĩ không ra lão ba là làm sao tìm được nơi này.
+ 
+ 	Phi hành tại hòn đảo trên không, hắn nhìn thấy ở vào trong đảo, có một gian nhà tranh.
+ 
+ 	Một cái lão giả râu bạc trắng cầm trong tay cần câu, ngồi tại nhà tranh trước một dòng sông bên cạnh, hài lòng câu lấy cá.
+ 
+ 	Khi hắn từ không trung hạ xuống tới thời điểm, một con rất an tĩnh cá phù bắt đầu chuyển động, tóe lên trận trận bọt nước.
+ 
+ 	"Ha ha, câu được nhiều năm như vậy, con cá rốt cục mắc câu rồi!"
+ 
+ 	Lão giả râu bạc trắng gặp đây, vô cùng hưng phấn, cần câu nhẹ nhàng kéo một phát, một đầu cá chép màu vàng treo tại to bằng ngón tay cái đinh phía trên.
+ 
+ 	Cái đinh thẳng tắp, nếu như đổi lại những người khác, khẳng định sẽ cảm thấy rất kỳ quái, kỳ quái vì cái gì như thế thô cái đinh vì cái gì có thể rớt xuống cá, mà lại câu được cá phẩm giai cũng không thấp.
+ 
+ 	Giang Phong gặp đây, mỉm cười, cũng không cảm thấy kỳ quái, đồng thời cũng xác định lão giả râu bạc trắng thân phận.
+ 
+ 	【  Khương Tử Nha 】: Thần cấp NPC
+ 
+ 	Giới thiệu: Phong Thần bảng người sở hữu.
+ 
+ 	HP: 4000
+ 
+ 	Lực công kích: 300
+ 
+ 	Lực phòng ngự: 100
+ 
+ 	...
+ 
+ 	Nhìn xem Khương Tử Nha thuộc tính, Giang Phong đi tới Khương Tử Nha bên cạnh.
+ 
+ 	"Ngươi đã đến."
+ 
+ 	Hắn còn chưa mở lời, Khương Tử Nha hơi mở miệng trước đạo, ngữ khí vô cùng bình thản, phảng phất sớm biết hắn sẽ đến.
+ 
+ 	"Ngươi biết ta muốn tới?" Giang Phong cười nhìn xem Khương Tử Nha.
+ 
+ 	"Tại ngươi diệt đi Thiên Cung thời điểm, ta liền biết, ngươi nhất định sẽ đi tìm tới."
+ 
+ 	Hả? Chẳng lẽ diệt đi Thiên Cung mới là phát động cái này nội dung nhiệm vụ mấu chốt?
+ 
+ 	Giang Phong nghe Khương Tử Nha, trong lòng nhịn không được thầm nghĩ.
+ 
+ 	"Lão già ta cũng không nói nhảm, hiện ở thế giới đại loạn, nhất là Ngân Nguyệt tinh cầu, càng là dân chúng lầm than, ngươi có được diệt thiên năng lực, chắc hẳn cũng có được thảo phạt Trụ Vương năng lực, chỉ là không biết ngươi nguyện ý tiếp nhận trọng trách này?" Khương Tử Nha nói.
+ 
+ 	Không phải trùng kiến Thiên Cung? Nguyên lai cái này nội dung nhiệm vụ cùng Ngân Nguyệt tinh cầu có quan hệ, còn muốn giết rơi Ngân Nguyệt tinh cầu Hoàng đế, xem ra nhiệm vụ này không đơn giản.
+ 
+ 	Giang Phong không nghĩ tới, nhiệm vụ này cũng không phải là chế tạo lần nữa Thiên Cung, mà là để hắn thảo phạt Trụ Vương.
+ 
+ 	Trụ Vương không cần phải nói, cũng hẳn là một cái đại BOSS, thực lực thậm chí không thua kém Ngọc Đế.
+ 
+ 	"Cụ thể ta nên làm như thế nào?" Giang Phong nhìn xem Khương Tử Nha dò hỏi.
+ 
+ 	"Phong thần, phạt trụ!" Khương Tử Nha chỉ nói bốn chữ.
+ 
+ 	【  đinh ~ hệ thống nhắc nhở 】: Có tiếp nhận hay không 'Phong Thần bảng' nội dung nhiệm vụ vòng thứ nhất 'Phong thần' nhiệm vụ?
+ 
+ 	"Tiếp nhận!"
+ 
+ 	Tiếp nhiệm vụ này về sau,
+ 
+ 	Hắn mở ra nhìn thoáng qua, lập tức chân mày cau lại.
+ 
+ 	Nguyên lai, người chơi đạt đến cấp 100 tiến hành tam chuyển về sau, hắn cần muốn tuyển chọn một số người, sắc phong bọn hắn có được cấp 100 Thần cấp NPC năng lực, phàm là được sách phong, toàn thuộc tính đều đem tăng lên 30%.
+ 
+ 	Nhưng là tiếp nhận sắc phong những người này, nhất định phải toàn bộ tham gia cùng hắn phạt trụ trận chiến đấu này.
+ 
+ 	"Đây là Phong Thần bảng, chỉ cần có người chơi đạt tới yêu cầu, ngươi liền có thể sắc phong, hết thảy chỉ có thể sắc phong 368 người, mời cẩn thận sử dụng những này sắc phong danh ngạch."
+ 
+ 	Khương Tử Nha nói, hắn chỗ câu đi lên đầu kia kim sắc cá chép, biến thành một cái kim hoàng sắc quyển trục, hắn đem kim sắc quyển trục đưa cho Giang Phong nói.
+ 
+ 	"Minh bạch."
+ 
+ 	Giang Phong tiếp nhận kim sắc quyển trục, tra nhìn lại.
+ 
+ 	【  Phong Thần bảng 】: Nhị phẩm Thánh khí
+ 
+ 	Thuộc tính: Có thể sắc phong 368 vị thần, sắc phong yêu cầu , đẳng cấp nhất định phải đạt tới cấp 100.
+ 
+ 	Trang bị yêu cầu: Yêu Đế
+ 
+ 	Lệnh Giang Phong có chút im lặng là, Phong Thần bảng thuộc tính vô cùng ít ỏi, chỉ có một câu, không có khác bất luận cái gì thuộc tính.
+ 
+ 	Đây chính là hắn nhìn thấy kiện thứ nhất Nhị phẩm Thánh khí, hắn không nghĩ tới một kiện Nhị phẩm Thánh khí như thế hố cha.
+ 
+ 	"Yêu Đế, hi vọng ngươi có thể hoàn thành nhiệm vụ này, lão phu tại Ngân Nguyệt chờ ngươi!"
+ 
+ 	Khương Tử Nha vừa dứt lời, hóa thành một đạo bạch quang biến mất không thấy gì nữa.
+ 
+ 	"Hiện giai đoạn người chơi phổ biến đẳng cấp mới cấp 75 tả hữu, khoảng cách cấp 100 còn có một đoạn thời gian, được rồi, về trước Yêu Đế cổ thành, cưới!"
+ 
+ 	Phong Thần bảng nhiệm vụ này, cần cấp 100 mới có thể đi làm, hiện giai đoạn không cách nào đi làm, hắn đành phải về trước Yêu Đế cổ thành.
+ 
+ 	Bởi vì, hắn hôm nay chuẩn bị hướng Lăng Phi Vũ cầu hôn, cưới Lăng Phi Vũ.
+ 
+ 	Phía trước rời đi Yêu Đế cổ thành thời điểm, hắn đã tìm rất nhiều người dặn dò một phen, đã bố trí xong hôn lễ hiện trường.
+ 
+ 	Mở ra đời thứ hai ký ức về sau, hắn liền rất mong muốn cưới Lăng Phi Vũ, hiện tại ngoại trừ tìm kiếm Đông Hoàng Chung mảnh vỡ bên ngoài, trên thân cũng không có những nhiệm vụ khác có thể làm, hắn chuẩn bị trước tiên đem Lăng Phi Vũ cho lấy về nhà.
+ 
+ 	Chờ Hắc Phong cùng Viêm hổ sau khi trở về, hắn đem Hắc Phong Viêm hổ thu vào Luyện Yêu Hồ bên trong, sử dụng về thành kỹ có thể trở về thành.
+ 
+ 	Về tới Yêu Đế cổ thành, hắn không có đi tìm Lăng Phi Vũ, mà là chạy tới điên tiến sĩ chỗ nhà ở bên trong,  dù sao hắn muốn trước xác nhận hết thảy chuẩn bị sẵn sàng về sau, lại đi tìm Lăng Phi Vũ.
+ 
+ 	"Điên tiến sĩ, chuẩn bị xong chưa?"
+ 
+ 	"Tốt!"
+ 
+ 	"Ta phải lớn, thất thải, lộng lẫy..."
+ 
+ 	"Lăn, lại TM phiền ta, tin hay không lão tử đánh chết ngươi!"
+ 
+ 	...
+ 
+ 	Tiệm may.
+ 
+ 	"Tang bà bà, ta muốn lễ phục làm xong không?"
+ 
+ 	"Ngay tại làm."
+ 
+ 	"Tang bà bà, nhanh lên a, trong vòng mười phút có thể làm tốt không?"
+ 
+ 	"Ngươi gấp cái gì mà gấp, ngươi cái ranh con, nhất định phải làm phức tạp như vậy quần áo, ta đã vài ngày không có khai trương làm ăn!"
+ 
+ 	...
+ 
+ 	Đỗ Khang tửu lâu.
+ 
+ 	"Đỗ ca, thịt rượu đều chuẩn bị kỹ càng không?"
+ 
+ 	"Nấc... Không sai biệt lắm."
+ 
+ 	"Nhanh lên, ta một khi cho ngươi giận sôi lệnh, trước tiên thịt rượu đúng chỗ!"
+ 
+ 	"Yên tâm đi."
+ 
+ 	...
+ 
+ 	Tiệm thuốc.
+ 
+ 	"Hoa bá, đan dược chuẩn bị thế nào?"
+ 
+ 	"Đã chuẩn bị xong."
+ 
+ 	"Thỏa!"
+ 
+ 	...
+ 
+ 	Đón lấy, Giang Phong lại đi tìm la Ba Khắc [Buck] cùng Viên Bình.
+ 
+ 	Đây chính là hắn lần thứ nhất kết hôn, mặc dù chỉ là trò chơi, nhưng là hắn lại vô cùng coi trọng.
+ 
+ 	Dù sao, hắn nhưng là ở trong game nhận biết Lăng Phi Vũ, ý nghĩa trọng đại.
+ 
+ 	Hắn giờ phút này vô cùng khẩn trương, vì chuẩn bị một thứ cuối cùng, hắn tiến vào tiệm thợ rèn chế tạo trong phòng.
+ 
+ 	Chuẩn bị tự tay vì Lăng Phi Vũ chế tạo một viên trò chơi đặc hữu chiếc nhẫn.
+ 
+ 	Vì chế tạo chiếc nhẫn này, hắn dùng đại náo thiên cung ban thưởng 3 điểm kịch bản điểm, đem chế tạo thuật tăng lên tới thần tôn cấp bậc.
+ 
+ 	Nói cách khác, chỉ cần vật liệu đúng chỗ, hắn rất có thể chế tạo ra một kiện siêu Thần khí.
+ 
+ 	PS: Nội dung nhiệm vụ tới tay, trước kết hôn, sau đó mang theo lão bà cùng một chỗ sóng... Cầu nguyệt phiếu! !
+ 
+ 	(tấu chương xong)
+ 
+ 	Xin nhớ kỹ quyển sách xuất ra đầu tiên vực tên: . 4 tiểu thuyết Internet bản điện thoại di động đọc địa chỉ Internet:Chương 271:: Phong Thần bảng 
+ 
+ 	Hắc Phong, Viêm hổ cùng phích lịch bọ ngựa rất nhanh thanh quang tất cả hải tặc.
+ 
+ 	Giang Phong cưỡi tại hứa Phỉ Phỉ đám người trên thuyền hướng phía hắc thạch đá ngầm san hô chạy tới.
+ 
+ 	Hắc thạch đá ngầm san hô tại ngư ông đảo cách đó không xa, vừa vặn tiện đường.
+ 
+ 	Ngồi trên thuyền, hắn cùng hứa Phỉ Phỉ cùng Thủy Tộc một đám người tán gẫu.
+ 
+ 	Từ trong lúc nói chuyện với nhau hắn biết, hiện giai đoạn, Thần tộc thành thị chỉ còn lại chín tòa, cái khác 27 tòa thành thị đều bị chủng tộc khác chiếm lĩnh.
+ 
+ 	Nguyên bản trong thành thị Thần tộc NPC cũng thay máu, đổi thành từng cái chủng tộc NPC.
+ 
+ 	Bọn hắn nhận được nhiệm vụ, là một cái kiến thiết Nam Hải thành nhiệm vụ.
+ 
+ 	Cần phải đi hắc thạch đá ngầm san hô giết một chút hắc thạch quái, bạo hắc thủy thạch.
+ 
+ 	Thuyền tốc độ cũng không chậm, trên đường một đám người trò chuyện, rất nhanh liền chạy tới hắc thạch đá ngầm san hô.
+ 
+ 	Trên đường gặp được mấy con quái vật, bất quá đều bị bay trên không trung phích lịch bọ ngựa giải quyết.
+ 
+ 	Nhìn xem Giang Phong cái này ba cái dũng mãnh tiểu đệ, tất cả mọi người ở đây đều không ngừng hâm mộ.
+ 
+ 	Một lát sau, hắc thạch đá ngầm san hô đến.
+ 
+ 	Một cái thôn xóm lớn nhỏ hòn đảo.
+ 
+ 	"Hắc Phong Viêm hổ, hai người các ngươi giúp bọn hắn hoàn thành nhiệm vụ, sau đó tới tìm ta."
+ 
+ 	Đem hứa Phỉ Phỉ một đám người chơi cùng Thủy Tộc một đám người đưa đến hắc thạch đá ngầm san hô, hắn cưỡi yêu vân mang theo phích lịch bọ ngựa, nhanh chóng hướng phía ngư ông đảo bay đi.
+ 
+ 	"Phỉ Phỉ tỷ, vì cái gì Yêu Đế cùng trong video Yêu Đế dáng dấp không giống?"
+ 
+ 	Đương Giang Phong rời đi về sau, một cái so hứa Phỉ Phỉ niên kỷ còn nhỏ không ít nữ tử hỏi.
+ 
+ 	Hứa Phỉ Phỉ cười giải thích nói, " Yêu Đế thực lực phi thường cường đại, đoán chừng có được càng cải danh tự cùng dung mạo năng lực đi."
+ 
+ 	...
+ 
+ 	Ngư ông đảo, một chỗ điền viên phong cách đảo nhỏ.
+ 
+ 	Có núi có nước cùng quái vật, nhưng là cùng nhiều như vậy hòn đảo so ra, lại vô cùng không đáng chú ý.
+ 
+ 	Hắn nghĩ không ra lão ba là làm sao tìm được nơi này.
+ 
+ 	Phi hành tại hòn đảo trên không, hắn nhìn thấy ở vào trong đảo, có một gian nhà tranh.
+ 
+ 	Một cái lão giả râu bạc trắng cầm trong tay cần câu, ngồi tại nhà tranh trước một dòng sông bên cạnh, hài lòng câu lấy cá.
+ 
+ 	Khi hắn từ không trung hạ xuống tới thời điểm, một con rất an tĩnh cá phù bắt đầu chuyển động, tóe lên trận trận bọt nước.
+ 
+ 	"Ha ha, câu được nhiều năm như vậy, con cá rốt cục mắc câu rồi!"
+ 
+ 	Lão giả râu bạc trắng gặp đây, vô cùng hưng phấn, cần câu nhẹ nhàng kéo một phát, một đầu cá chép màu vàng treo tại to bằng ngón tay cái đinh phía trên.
+ 
+ 	Cái đinh thẳng tắp, nếu như đổi lại những người khác, khẳng định sẽ cảm thấy rất kỳ quái, kỳ quái vì cái gì như thế thô cái đinh vì cái gì có thể rớt xuống cá, mà lại câu được cá phẩm giai cũng không thấp.
+ 
+ 	Giang Phong gặp đây, mỉm cười, cũng không cảm thấy kỳ quái, đồng thời cũng xác định lão giả râu bạc trắng thân phận.
+ 
+ 	【  Khương Tử Nha 】: Thần cấp NPC
+ 
+ 	Giới thiệu: Phong Thần bảng người sở hữu.
+ 
+ 	HP: 4000
+ 
+ 	Lực công kích: 300
+ 
+ 	Lực phòng ngự: 100
+ 
+ 	...
+ 
+ 	Nhìn xem Khương Tử Nha thuộc tính, Giang Phong đi tới Khương Tử Nha bên cạnh.
+ 
+ 	"Ngươi đã đến."
+ 
+ 	Hắn còn chưa mở lời, Khương Tử Nha hơi mở miệng trước đạo, ngữ khí vô cùng bình thản, phảng phất sớm biết hắn sẽ đến.
+ 
+ 	"Ngươi biết ta muốn tới?" Giang Phong cười nhìn xem Khương Tử Nha.
+ 
+ 	"Tại ngươi diệt đi Thiên Cung thời điểm, ta liền biết, ngươi nhất định sẽ đi tìm tới."
+ 
+ 	Hả? Chẳng lẽ diệt đi Thiên Cung mới là phát động cái này nội dung nhiệm vụ mấu chốt?
+ 
+ 	Giang Phong nghe Khương Tử Nha, trong lòng nhịn không được thầm nghĩ.
+ 
+ 	"Lão già ta cũng không nói nhảm, hiện ở thế giới đại loạn, nhất là Ngân Nguyệt tinh cầu, càng là dân chúng lầm than, ngươi có được diệt thiên năng lực, chắc hẳn cũng có được thảo phạt Trụ Vương năng lực, chỉ là không biết ngươi nguyện ý tiếp nhận trọng trách này?" Khương Tử Nha nói.
+ 
+ 	Không phải trùng kiến Thiên Cung? Nguyên lai cái này nội dung nhiệm vụ cùng Ngân Nguyệt tinh cầu có quan hệ, còn muốn giết rơi Ngân Nguyệt tinh cầu Hoàng đế, xem ra nhiệm vụ này không đơn giản.
+ 
+ 	Giang Phong không nghĩ tới, nhiệm vụ này cũng không phải là chế tạo lần nữa Thiên Cung, mà là để hắn thảo phạt Trụ Vương.
+ 
+ 	Trụ Vương không cần phải nói, cũng hẳn là một cái đại BOSS, thực lực thậm chí không thua kém Ngọc Đế.
+ 
+ 	"Cụ thể ta nên làm như thế nào?" Giang Phong nhìn xem Khương Tử Nha dò hỏi.
+ 
+ 	"Phong thần, phạt trụ!" Khương Tử Nha chỉ nói bốn chữ.
+ 
+ 	【  đinh ~ hệ thống nhắc nhở 】: Có tiếp nhận hay không 'Phong Thần bảng' nội dung nhiệm vụ vòng thứ nhất 'Phong thần' nhiệm vụ?
+ 
+ 	"Tiếp nhận!"
+ 
+ 	Tiếp nhiệm vụ này về sau,
+ 
+ 	Hắn mở ra nhìn thoáng qua, lập tức chân mày cau lại.
+ 
+ 	Nguyên lai, người chơi đạt đến cấp 100 tiến hành tam chuyển về sau, hắn cần muốn tuyển chọn một số người, sắc phong bọn hắn có được cấp 100 Thần cấp NPC năng lực, phàm là được sách phong, toàn thuộc tính đều đem tăng lên 30%.
+ 
+ 	Nhưng là tiếp nhận sắc phong những người này, nhất định phải toàn bộ tham gia cùng hắn phạt trụ trận chiến đấu này.
+ 
+ 	"Đây là Phong Thần bảng, chỉ cần có người chơi đạt tới yêu cầu, ngươi liền có thể sắc phong, hết thảy chỉ có thể sắc phong 368 người, mời cẩn thận sử dụng những này sắc phong danh ngạch."
+ 
+ 	Khương Tử Nha nói, hắn chỗ câu đi lên đầu kia kim sắc cá chép, biến thành một cái kim hoàng sắc quyển trục, hắn đem kim sắc quyển trục đưa cho Giang Phong nói.
+ 
+ 	"Minh bạch."
+ 
+ 	Giang Phong tiếp nhận kim sắc quyển trục, tra nhìn lại.
+ 
+ 	【  Phong Thần bảng 】: Nhị phẩm Thánh khí
+ 
+ 	Thuộc tính: Có thể sắc phong 368 vị thần, sắc phong yêu cầu , đẳng cấp nhất định phải đạt tới cấp 100.
+ 
+ 	Trang bị yêu cầu: Yêu Đế
+ 
+ 	Lệnh Giang Phong có chút im lặng là, Phong Thần bảng thuộc tính vô cùng ít ỏi, chỉ có một câu, không có khác bất luận cái gì thuộc tính.
+ 
+ 	Đây chính là hắn nhìn thấy kiện thứ nhất Nhị phẩm Thánh khí, hắn không nghĩ tới một kiện Nhị phẩm Thánh khí như thế hố cha.
+ 
+ 	"Yêu Đế, hi vọng ngươi có thể hoàn thành nhiệm vụ này, lão phu tại Ngân Nguyệt chờ ngươi!"
+ 
+ 	Khương Tử Nha vừa dứt lời, hóa thành một đạo bạch quang biến mất không thấy gì nữa.
+ 
+ 	"Hiện giai đoạn người chơi phổ biến đẳng cấp mới cấp 75 tả hữu, khoảng cách cấp 100 còn có một đoạn thời gian, được rồi, về trước Yêu Đế cổ thành, cưới!"
+ 
+ 	Phong Thần bảng nhiệm vụ này, cần cấp 100 mới có thể đi làm, hiện giai đoạn không cách nào đi làm, hắn đành phải về trước Yêu Đế cổ thành.
+ 
+ 	Bởi vì, hắn hôm nay chuẩn bị hướng Lăng Phi Vũ cầu hôn, cưới Lăng Phi Vũ.
+ 
+ 	Phía trước rời đi Yêu Đế cổ thành thời điểm, hắn đã tìm rất nhiều người dặn dò một phen, đã bố trí xong hôn lễ hiện trường.
+ 
+ 	Mở ra đời thứ hai ký ức về sau, hắn liền rất mong muốn cưới Lăng Phi Vũ, hiện tại ngoại trừ tìm kiếm Đông Hoàng Chung mảnh vỡ bên ngoài, trên thân cũng không có những nhiệm vụ khác có thể làm, hắn chuẩn bị trước tiên đem Lăng Phi Vũ cho lấy về nhà.
+ 
+ 	Chờ Hắc Phong cùng Viêm hổ sau khi trở về, hắn đem Hắc Phong Viêm hổ thu vào Luyện Yêu Hồ bên trong, sử dụng về thành kỹ có thể trở về thành.
+ 
+ 	Về tới Yêu Đế cổ thành, hắn không có đi tìm Lăng Phi Vũ, mà là chạy tới điên tiến sĩ chỗ nhà ở bên trong,  dù sao hắn muốn trước xác nhận hết thảy chuẩn bị sẵn sàng về sau, lại đi tìm Lăng Phi Vũ.
+ 
+ 	"Điên tiến sĩ, chuẩn bị xong chưa?"
+ 
+ 	"Tốt!"
+ 
+ 	"Ta phải lớn, thất thải, lộng lẫy..."
+ 
+ 	"Lăn, lại TM phiền ta, tin hay không lão tử đánh chết ngươi!"
+ 
+ 	...
+ 
+ 	Tiệm may.
+ 
+ 	"Tang bà bà, ta muốn lễ phục làm xong không?"
+ 
+ 	"Ngay tại làm."
+ 
+ 	"Tang bà bà, nhanh lên a, trong vòng mười phút có thể làm tốt không?"
+ 
+ 	"Ngươi gấp cái gì mà gấp, ngươi cái ranh con, nhất định phải làm phức tạp như vậy quần áo, ta đã vài ngày không có khai trương làm ăn!"
+ 
+ 	...
+ 
+ 	Đỗ Khang tửu lâu.
+ 
+ 	"Đỗ ca, thịt rượu đều chuẩn bị kỹ càng không?"
+ 
+ 	"Nấc... Không sai biệt lắm."
+ 
+ 	"Nhanh lên, ta một khi cho ngươi giận sôi lệnh, trước tiên thịt rượu đúng chỗ!"
+ 
+ 	"Yên tâm đi."
+ 
+ 	...
+ 
+ 	Tiệm thuốc.
+ 
+ 	"Hoa bá, đan dược chuẩn bị thế nào?"
+ 
+ 	"Đã chuẩn bị xong."
+ 
+ 	"Thỏa!"
+ 
+ 	...
+ 
+ 	Đón lấy, Giang Phong lại đi tìm la Ba Khắc [Buck] cùng Viên Bình.
+ 
+ 	Đây chính là hắn lần thứ nhất kết hôn, mặc dù chỉ là trò chơi, nhưng là hắn lại vô cùng coi trọng.
+ 
+ 	Dù sao, hắn nhưng là ở trong game nhận biết Lăng Phi Vũ, ý nghĩa trọng đại.
+ 
+ 	Hắn giờ phút này vô cùng khẩn trương, vì chuẩn bị một thứ cuối cùng, hắn tiến vào tiệm thợ rèn chế tạo trong phòng.
+ 
+ 	Chuẩn bị tự tay vì Lăng Phi Vũ chế tạo một viên trò chơi đặc hữu chiếc nhẫn.
+ 
+ 	Vì chế tạo chiếc nhẫn này, hắn dùng đại náo thiên cung ban thưởng 3 điểm kịch bản điểm, đem chế tạo thuật tăng lên tới thần tôn cấp bậc.
+ 
+ 	Nói cách khác, chỉ cần vật liệu đúng chỗ, hắn rất có thể chế tạo ra một kiện siêu Thần khí.
+ 
+ 	PS: Nội dung nhiệm vụ tới tay, trước kết hôn, sau đó mang theo lão bà cùng một chỗ sóng... Cầu nguyệt phiếu! !
+ 
+ 	(tấu chương xong)
+ 
+ 	Xin nhớ kỹ quyển sách xuất ra đầu tiên vực tên: . 4 tiểu thuyết Internet bản điện thoại di động đọc địa chỉ Internet:

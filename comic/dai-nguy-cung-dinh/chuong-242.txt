@@ -1,0 +1,107 @@
+Chương 242:: Túc thị đo lường tân quy
+ 
+ 	"Ps: Ai nói ta không muốn trả hết nợ nợ nần a, vấn đề là hai chương này tương đương khó tả a, chỉ là tra tìm tư liệu liền bỏ ra đại khái mã ba cái chương tiết thời gian, chớ nói chi là hoàn thiện cấu tứ, không chút nào khuếch đại nói, này một chương công trình lượng, tối thiểu cũng chống đỡ Chương 045:. Muốn không phải vì dán vào thực tế, thật không muốn viết loại này cần phải rõ ràng trị số chương tiết. "
+ 
+ 	———— trở xuống ————
+ 
+ 	Cái gọi là đo lường, chỉ chính là dùng cho đo vật thể dài ngắn, dung tích, nặng nhẹ gọi chung tiêu chuẩn. Trong đó, dùng cho đo dài ngắn dụng cụ xưng là " độ ", dùng cho trắc định tính toán dung tích bồn chứa xưng là " lượng ", mà trắc lượng vật thể nặng nhẹ công cụ, thì lại xưng là " hành ".
+ 
+ 	Mà hôm qua, Triệu Hoằng Nhuận đầu tiên xác định " độ " tiêu chuẩn, tuy rằng duyên dùng vẫn cứ là có từ lâu "1 trượng =10 thước =100 thốn =1000 phân " quy định, nhưng trên thực tế, bởi vì chính xác " một thước " tiêu chuẩn, bởi vậy, nó cùng Đại Ngụy trước kia chọn dùng cựu thước chế, là tồn tại nhất định sai biệt.
+ 
+ 	Mà ở quy phạm " độ " tiêu chuẩn sau, Triệu Hoằng Nhuận cũng không có thuận thế quy phạm tính toán dung tích " lượng ", mà là trước tiên lựa chọn trước tiên xác định " hành ", tức trọng lượng, bởi vì dưới cái nhìn của hắn, quy phạm tính toán dung tích " lượng " tiêu chuẩn này, là đo lường bên trong nhất làm cho hắn đau đầu.
+ 
+ 	Cho tới nói đến quy phạm trọng lượng đơn vị, Triệu Hoằng Nhuận đương nhiên sẽ không lựa chọn hắn trong ký ức " kilôgam " hoặc là " khắc ", vừa đến đó là hàng ngoại nhập, thứ hai, Ngụy người căn bản không có thể hiểu được cái gì gọi là " khắc ", bởi vậy, hắn vẫn cứ dự định chọn dùng chế độ cũ " hai " cùng " cân " làm trọng lượng cơ bản đơn vị, mà hắn muốn làm, chỉ là ở đây cơ sở càng thêm lấy quy phạm.
+ 
+ 	Cư Triệu Hoằng Nhuận biết, cổ nhân sớm nhất chọn dùng " lũy ", tức hạt kê vàng làm thực vật tiêu chuẩn, quy định " mười lũy làm một thù, hai mươi bốn thù vì là hai, mười sáu hai vì là cân ", nói một cách đơn giản, một cân ước bằng là 3840 hạt hạt kê vàng trọng lượng.
+ 
+ 	Thế nhưng lúc này, Triệu Hoằng Nhuận cũng không tính chọn dùng có từ lâu quy củ, nguyên nhân chính là ở, có từ lâu trọng lượng đơn vị đổi quá mức phức tạp, trói buộc, bất lợi cho tính toán.
+ 
+ 	Bởi vậy. Đang suy nghĩ sau một lúc. Triệu Hoằng Nhuận tuyển lựa Đại Ngụy cảnh nội càng ngày càng thông thường gạo làm thực vật cố định tiêu chuẩn.
+ 
+ 	Đầu tiên, hắn trước tiên gọi Dã Tạo Cục thợ thủ công môn, lợi dụng đơn giản nhất đòn bẩy cân bằng nguyên lý chế tác một con chất gỗ khay thiên bình cân, sau đó mang tới một con đầy đủ trang 240 hạt hạt thóc túi tiền. Trước tiên dùng thiên bình cân xưng ra này con túi tiền trọng lượng, dùng những kia gạo làm đo đơn vị.
+ 
+ 	Sau đó. Ở cái kia 240 hạt gạo bên trong trừ các loại  trùng với con kia túi tiền gạo, đến ra " lạng " trọng lượng.
+ 
+ 	Mà sau đó, Triệu Hoằng Nhuận cũng không có lựa chọn " một cân mười sáu hai " đổi phương thức. Bởi vì dưới cái nhìn của hắn, loại này phức tạp phương thức kế toán bất lợi cho ngày sau bọn họ Dã Tạo Cục tính toán rất nhiều lượng vật trọng lượng. Cũng bất lợi cho ngày khác sau đẩy ra mười thêm con số nhân chia, bởi vậy, Triệu Hoằng Nhuận quyết định. Đem " một cân " trọng lượng, cố định vì là " mười lạng ".
+ 
+ 	Loại này tân cân chế. Ngay hôm đó sau Dã Tạo Cục trước tiên chọn dùng " túc cân chế ", bởi lựa chọn chọn gạo ước so với hạt kê vàng trùng chừng gấp đôi, bởi vậy. Nghiêm nghị hai gần như tương đương với hai cựu hai, bất quá, bởi vì túc cân chế chọn dùng chính là thuật toán, bởi vậy, nghiêm nghị cân cũng không tới một cựu cân gấp ba.
+ 
+ 	Nhưng không thể phủ nhận, bất kể là ở túc cân chế tân quy hạ, bất kể là túc cân vẫn là túc hai, nếu so với có từ lâu cân lượng chế nặng hơn nhiều.
+ 
+ 	Có thể tiếc nuối chính là, người ở chỗ này, tuyệt đại đa số đều không có thể hiểu được Triệu Hoằng Nhuận vì sao lấy gạo làm cân nhắc vật, cũng không có thể hiểu được hắn vì sao đem cân lượng đổi quy định vì là gấp mười lần, mà cũng không phải là trước kia mười sáu lần.
+ 
+ 	Sau đó, Triệu Hoằng Nhuận lại quy phạm " quân " cùng " thạch " trọng lượng, quy định "1 thạch =10 quân =100 cân =1 ngàn lạng =1 vạn tiền = 100 ngàn thù ", ở cái này tân quy hạ, nghiêm nghị hai ước bằng cựu một lạng 2 lần, nghiêm nghị quân ước bằng cựu một quân 2/3, nhưng nghiêm nghị thạch thì lại ước bằng cựu một thạch 5/3.
+ 
+ 	" chú: Phụ cựu tân cân chế so sánh. Chú ý, đều là ước trị! ! "
+ 
+ 	" nguyên: Thù 0. 65 khắc, tiền 3. 7g, hai 15. 6g, cân 250g, quân 7500g, thạch 30000g "
+ 
+ 	" túc cân chế: Thù 0. 5 khắc, tiền 5g, hai 50g, cân 500g, quân 5000g, thạch 50000g "
+ 
+ 	Nói tóm lại, túc cân chế cùng cựu cân chế đổi có hiện ra khác biệt, thế nhưng, mười thêm con số đổi cũng hiển nhiên muốn so với có từ lâu cân lượng chế dễ dàng hơn nhiều, có thể nói là vừa xem hiểu ngay, nhưng tiếc nuối chính là, vẫn có không ít người đối với này mang trong lòng ý nghi ngờ.
+ 
+ 	Này không, Dã Tạo Cục cục thừa Vương Phủ ở mịt mờ khuyên bảo không có kết quả sau, cẩn thận từng li từng tí một nói rằng: "Điện hạ, bằng không, " tân cân chế " trước tiên ở ta Dã Tạo Cục sử dụng, tạm không đẩy hướng về trong triều lục bộ?"
+ 
+ 	"Vương cục thừa là đang lo lắng Hộ Bộ phản ứng?" Triệu Hoằng Nhuận hiển nhiên là nhìn thấu Vương Phủ tâm tư.
+ 
+ 	Ngẫm lại cũng là, phải biết Hộ Bộ chưởng quản Đại Ngụy toàn quốc kinh tế thể chế, mà trước kia thể chế, đều là chọn dùng " một cân mười sáu hai " cựu quy định, đồng thời, Đại Ngụy cảnh nội quốc dân phổ biến cũng quen rồi phương thức này, mà bây giờ, hắn Triệu Hoằng Nhuận đột nhiên lui ra " một cân mười lạng " tân quy định, tạm thời không nói có thể hay không gặp phải rất nhiều người phản đối, lại càng không diệu chính là, tân quy định một khi chảy vào thị trường, thế tất sẽ tạo thành Đại Ngụy trên thị trường hỗn loạn.
+ 
+ 	Thậm chí vô cùng có khả năng, có chút hắc tâm thương nhân sẽ lợi dụng tân cựu hai loại quy định đến giành tiền tài bất nghĩa, mà chuyện như vậy đến cuối cùng, tối chịu thiệt thường thường đều là không có quyền không có thế bình dân bách tính.
+ 
+ 	Nghĩ tới đây, Triệu Hoằng Nhuận đối với Vương Phủ cùng với chu vi vây xem tượng công môn nói: "Hay là chư vị không có thể hiểu được bản Vương vì sao làm ra quy định như thế, coi như là bản Vương tùy hứng, kể từ hôm nay, ta Dã Tạo Cục khí dùng nguyên lai cân lượng chế, mà chọn dùng tân quy định. . . . Bất quá, chính như vương cục thừa nói, bởi tân quy có thể dẫn đến quốc nội chợ hỗn loạn, bởi vậy, cân lượng tân quy tạm thời không hướng về lục bộ hai mươi bốn phổ biến, gần như chỉ ở ta Dã Tạo Cục đưa vào sử dụng."
+ 
+ 	Nói, Triệu Hoằng Nhuận lúc này Dã Tạo Cục các thợ rèn đi chế tạo chính xác " hai ", " cân ", " quân " các loại  quả cân (kiếp mã), yêu cầu chế tạo một hai, hai lạng, năm lạng, một cân, hai cân, năm cân, một quân, hai quân, năm quân các loại  đơn vị thiết đà, chế thành sau thích đáng bảo quản ở Dã Tạo Cục bên trong, làm ngày sau căn cứ.
+ 
+ 	Mà sau đó, Triệu Hoằng Nhuận liền quay đầu lại lập ra " lượng " tiêu chuẩn, tức dung tích tiêu chuẩn.
+ 
+ 	Ở Đại Ngụy, ở " dung tích " lập ra trên, tồn tại nhất định hỗn loạn, tỷ như thạch (dan), nó rõ ràng là trọng lượng đơn vị, thế nhưng cổ nhân rồi lại quy định "10 đấu =1 thạch ", thạch lại biến thành dung tích đơn vị, cảnh này khiến thời cổ dung tích cùng trọng lượng đơn vị xuất hiện không giống trình độ hỗn loạn.
+ 
+ 	Mà này, chính là Triệu Hoằng Nhuận hi vọng trừ tận gốc. Hắn muốn một cái càng thêm sáng tỏ dung tích đo đơn vị danh sách.
+ 
+ 	Cho tới dung tích hiện thực cân nhắc vật. Cổ nhân cho tới nay đều tuyển dụng mét làm cân nhắc tiêu chuẩn, thế nhưng Triệu Hoằng Nhuận cũng không có chọn dùng, hắn vẫn cứ quen thuộc với chọn dùng thủy, dù sao dùng gạo hoặc hạt kê vàng làm đo dung tích thực vật. Rất dễ dàng xuất hiện khác biệt, mà thủy thì lại có thể trình độ lớn nhất trên bảo đảm giảm thiểu khác biệt.
+ 
+ 	Đương nhiên. Nơi này nói tới thủy, chỉ chính là thường ôn hạ thuần thủy.
+ 
+ 	Vâng theo trong ký ức thủy mật độ lập ra phương thức, Triệu Hoằng Nhuận cũng dự định đem trọng lượng cùng dung tích đổi lợi dụng thuần thủy liên hệ tới: Đem có thể chứa đựng nghiêm nghị cân thuần thủy đơn vị dung tích. Quy định vì là thăng. " chú: Ước trị 0. 5L. "
+ 
+ 	Đồng thời quy định "1 chung (phủ)=10 hộc =100 đấu =1 ngàn thăng =1 vạn hợp ".
+ 
+ 	" chú: Bởi cổ nhân quen thuộc dùng gạo trắc lượng dung tích, mà gạo mật độ là 1. 8 mà thủy mật độ vì là 1. Bởi vậy, có thể coi là, túc thăng chế. Là trước kia cựu dung tích khoảng một nửa. "
+ 
+ 	Có thể khó liền khó ở, muốn rèn đúc ra một con có thể tinh chuẩn chứa đựng một tiền thưởng bồn chứa. Cũng không phải là như vậy dễ dàng. Như vậy loại đề, muốn chính xác chế tạo ra đại biểu chung, hộc, đấu, thăng, hợp những này đại diện cho túc thăng chế cơ chuẩn đơn vị lọ chứa, cũng không phải đơn giản như vậy. Dù cho là Triệu Hoằng Nhuận, cũng phải thông qua một phen phức tạp tính toán sau mới có thể thiết kế ra những kia bồn chứa.
+ 
+ 	Cũng may túc thăng chế dung tích hầu như đều là cựu thăng chế khoảng một nửa, bởi vậy, Dã Tạo Cục thợ thủ công môn ngã : cũng cũng có thể lấy này làm căn cứ, chế tạo ra Triệu Hoằng Nhuận yêu cầu tinh chuẩn bồn chứa.
+ 
+ 	Nhưng tương tự đạo lý, túc thăng chế đồng dạng không thích hợp ở trước mắt đẩy ra, dù sao " thăng chế " tối thường dùng với ở trên thị trường bán mễ lương, trên thị trường mễ lương bán ra, hiện nay vẫn cứ không dựa theo trọng lượng tính toán, mà là lấy thăng, đấu, hộc làm làm tiêu chuẩn, bởi vậy mới phải xuất hiện hắc tâm thương nhân lén lút chế tạo không hợp quy định tiểu hộc, dùng cho bán ra mễ lương, nhờ vào đó giành lãi kếch sù.
+ 
+ 	Vì ngăn chặn cái này hiện tượng, Triệu Hoằng Nhuận chuẩn bị ở ngày sau nghĩ biện pháp thay đổi Ngụy dân ở trên thị trường quen thuộc, bỏ qua đi dung tích đơn vị mà chọn dùng trọng lượng làm buôn bán mễ lương, ăn thịt các loại  sinh hoạt nhu phẩm cần thiết căn cứ, nói một cách đơn giản, chờ hắn ngày sau chuẩn bị kỹ càng đem tân đo lường đẩy hướng về thị trường thì, chuyện thứ nhất, chính là đẩy ra tân cân.
+ 
+ 	Mà hiện nay mà, bất luận túc cân vẫn là túc thăng, đều không thích hợp ở trước mắt đẩy hướng về thị trường, chỉ có thể tạm thời ở Dã Tạo Cục bên trong lưu thông, thế nhưng Triệu Hoằng Nhuận có thể dự kiến, hắn làm ra định tiêu chuẩn, đều sẽ từ từ bị tiếp thu, đồng thời từ từ thay thế được trước kia cựu đo lường.
+ 
+ 	Chỉ có điều, quá trình này cần thời gian nhất định cùng kiên trì, chỉ có thể tiến lên dần dần, nếu là mạnh mẽ đẩy ra, ngược lại sẽ làm cho Đại Ngụy kinh tế thị trường xuất hiện hỗn loạn.
+ 
+ 	Nhưng mặc kệ thế nào, Triệu Hoằng Nhuận làm ra định tân đo lường, tức Dã Tạo Cục thợ thủ công môn trong miệng xưng " túc thị đo lường tân quy ", cũng ngay đầu tiên bị đệ trình trên Ngụy thiên tử long án trên.
+ 
+ 	Nhìn cái kia đặt tại long án trên cái kia rất rất nhiều thiết đà, bồn chứa, tin tưởng Triệu Hoằng Nhuận nếu là ở đây, nhất định sẽ giật nảy cả mình, tuy rằng hắn chế tạo vài bộ sơ đại đo lường tiêu chuẩn, nhưng đều mệnh Dã Tạo Cục người nghiêm mật trông giữ, không nghĩ tới, nhưng vẫn bị nội thị giam người được một bộ.
+ 
+ 	Hơn nữa còn là Triệu Hoằng Nhuận tạm thời không dự định đẩy ra túc cân chế cùng túc thăng chế bồn chứa.
+ 
+ 	" hừ, vẫn tính thông minh, vẫn chưa đẩy hướng về triều chính, bất quá. . . Vì sao phải như vậy lập ra tiêu chuẩn đây? "
+ 
+ 	Ngụy thiên tử đầy hứng thú giơ một con một lạng thiết đà, chợt lại nhìn long án trên còn lại trọng lượng thiết đà, trong lòng suy tư.
+ 
+ 	"Này tựa hồ không giống như là dùng ở cân (cân đòn) trên quả cân. . ."
+ 
+ 	Ba vị bên trong thư đại thần cũng vây quanh, trung thư lệnh Lận Ngọc Dương càng là đầy hứng thú bốc lên một con có khắc " một lạng " chữ nhỏ thiết đà, âm thầm kinh ngạc với này con quả cân thợ khéo tinh xảo.
+ 
+ 	Mà từ bên, UU đọc sách ( www. uukanshu. com ) Ngu Tử Khải càng là kinh ngạc nhìn long án trên rất rất nhiều không giống quy cách thiết đà, lẩm bẩm nói rằng: "Một hai, hai lạng, năm lạng. . . Ồ?"
+ 
+ 	Hắn ngạc nhiên phát hiện, dùng này ba loại quy cách thiết đà, có thể nhanh và tiện tổ hợp, tính toán ra mười lạng bên trong hết thảy trọng lượng: "Một, hai vì là ba, hai hai vì là bốn, một năm vì là sáu, hai năm vì là bảy, một, hai năm vì là tám, hai hai năm vì là chín, năm năm vì là mười. . . Thú vị."
+ 
+ 	Nghe nói Ngu Tử Khải tự lẩm bẩm, Ngụy thiên tử cùng Lận Ngọc Dương các loại  người cũng hiểu được ý, đầy hứng thú ở trong lòng tính toán, kết quả vẫn đúng là như Ngu Tử Khải nói, xem xem thường mắt những kia thiết đà, tổ hợp sau càng bao tròn nghiêm nghị cân trong vòng hết thảy trọng lượng.
+ 
+ 	Điều này làm cho vốn là đối với cái kia cái gì " túc thị đo lường tân quy " cũng không phản đối Ngụy thiên tử, cũng từ từ cảm nhận được trong này nói bao hàm thâm ý.
+ 
+ 	Không thể phủ nhận, liền ngay cả Ngụy thiên tử cũng từ từ cảm giác được, tân quy muốn so với cựu quy chế nhanh và tiện nhiều, nhưng vấn đề ở chỗ, cựu quy ở Đại Ngụy truyền lưu mấy trăm năm, làm sao là một sớm một chiều sẽ bị tân quy thay thế.
+ 
+ 	Bất quá, dù vậy, Ngụy thiên tử vẫn cứ đối với Dã Tạo Cục tràn ngập chờ mong, hắn có linh cảm, ở con trai của hắn Triệu Hoằng Nhuận làm chủ Dã Tạo Cục sau, Dã Tạo Cục hay là thật là có khả năng xuất hiện lệnh thiên hạ liếc mắt to lớn thay đổi.

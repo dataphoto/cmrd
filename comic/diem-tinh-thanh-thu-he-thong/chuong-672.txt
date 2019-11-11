@@ -1,0 +1,304 @@
+Chương 672:
+ Converter Dzung Kiều cầu phiếu 
+
+	"Người ta tiểu Vĩ giúp nhà chúng ta nhiều như vậy bận bịu, chúng ta cũng chỉ có thể hết sức điểm này miên mỏng lực." Quan mẫu lời nói thành khẩn nói.
+
+	Từ lần đó đến thành phố Vọng Hải sau đó, bởi vì là Chương Tiểu Vĩ phần lớn thời gian đều đang bận rộn, cho nên chơi một đoạn thời gian, ở Chương Tiểu Vĩ chuẩn bị đi thành phố Vọng Hải thâu trước một ngày trở về.
+
+	Giống nhau lời mở đầu cả nước thu xem truyền hình vệ tinh Đông Hải cũng có thể thấy.
+
+	Mà ở trong truyền hình vệ tinh Đông Hải, Ngỗi Thiên lúc này đang khẩn trương ngồi ở số liệu ngành, cái này chính hắn cũng không nhớ cái này 2 tháng hắn tới bao nhiêu lần.
+
+	Có thể nói từ hắn lên chức sau này sợ rằng tới số lần đều không cái này 2 tháng nhiều.
+
+	"Ngỗi đài ngươi tới!" Phụ trách số liệu thấy hắn đến sân vội vàng đứng lên nói.
+
+	" Ừ, các ngươi ngồi, không cần như thế khẩn trương!" Hắn trong lòng đã sớm có Chương Tiểu Vĩ cho câu trả lời, cho nên cũng không khẩn trương.
+
+	Ngỗi Thiên nhìn một cái, phát hiện vậy đại biểu tần suất lượt xem dây đỏ tần suất lượt xem, chỉ là hơi có chút rất nhiều chập chờn, cũng không phải là rõ ràng như vậy, trong ánh mắt thoáng hiện thất vọng thần sắc.
+
+	Lúc này tần suất lượt xem ở bình thường một chút mấy, dĩ nhiên đây cũng là từ bọn họ truyền hình vệ tinh phát ra Chương Tiểu Vĩ kịch sau đó, một mực ổn định lại bình thường tần suất lượt xem, cho nên bây giờ đều là dùng cái này tần suất lượt xem để cân nhắc truyền hình vệ tinh tần suất lượt xem tình huống.
+
+	"Cát Huy, Cát Huy, ngươi mau tới xem, nhà chúng ta con gái lên ti vi!" Ở thủ đô nào đó bên trong phòng tôn, một chọi bốn hơn mười tuổi vợ chồng, nam đang bên trong phòng bếp nấu cơm, nữ chính là ở nhà dạy dỗ một cái sáu bảy tuổi đứa nhỏ làm bộ nghiệp, vừa nhìn ti vi, đột nhiên thấy bên trong ti vi trong đó một cô gái hô lớn.
+
+	"Ba, ba, mau tới xem à!" Đứa nhỏ nghe lời của mẹ, làm việc cũng không viết, quay đầu vừa thấy lớn tiếng nói?
+
+	"Ở nơi nào?" Cát Huy quần áo một văn kiện khăn choàng làm bếp cầm xẻng liền chạy ra.
+
+	"Nàng đứng ở nữ khách mời vị trí, hẳn chờ một chút còn biết cho nàng ống kính!"
+
+	"Cát Huy, nói tới nói lui, chúng ta cũng đã có ba năm không gặp qua con gái của chúng ta, nếu không năm nay ăn tết chúng ta đi trở về qua đi!" Người phụ nữ chính là động vật cảm tính, nói không chừng một khắc kia nghĩ tới điều gì thương cảm sự việc, thì sẽ không ngừng rơi lệ.
+
+	"Không nghĩ tới con gái đều giống như như thế đẹp, xem vậy trên sân khấu hai mươi bốn cô gái, căn bản không có nhà ta Cát Tình Nhiên đẹp được không."
+
+	"Tình Nhiên, liền chọn cái này." Đột nhiên cái đó người đàn ông gọi là Ôn Hoa lên đài, làm hắn sau khi tự giới thiệu mình xong, Cát Tình Nhiên mẹ đứng ở ti vi tiền lớn tiếng nói.
+
+	". . . !" Cát Tình Nhiên mẹ tủng lỗ mũi nói: "Cát Huy ngươi trong nồi vẫn còn ở làm thức ăn à?"
+
+	"À!" Cát Huy nghe lời của lão bà bên trong vội vàng vọt vào phòng bếp.
+
+	"Ta ở nhìn xa mặt trăng trên. . . !" Bên trong phòng bếp xuyên tới Cát Huy vậy vui thích giọng.
+
+	"Mẹ, chị tại sao phải đi làm cái đó tiết mục à?" Đứa nhỏ không biết hỏi, hắn cũng có ba năm không gặp qua chị, dĩ nhiên có lẽ coi như để cho hắn thấy hắn cũng không nhất định biết.
+
+	"Đứa trẻ cùng ngươi sau này lớn lên thì biết."
+
+	Lúc này truyền hình vệ tinh Đông Hải bình luận chức năng cũng là khải trước.
+
+	"Ta đi thấy cô đó ta liền muốn hô nàng lưỡng nhĩ ba tử!"
+
+	/*Dzung Kiều : không tra ra được ; 'ba tử '=chíp (từ ngữ phía Bắc TQ, con nít thường nói)*/
+
+	"Cô gái này tên gì, làm sao biết hỏi ngây thơ như vậy vấn đề, người ta ba mẹ không có ở đây trong nhà mình hiện tượng, khó khăn đến phải đi nhà ngươi sao?"
+
+	"Cái này kêu Hoàng San Du chính là đi, phỏng đoán tiết mục chủ sau này đều không ở sẽ có hắn hí."
+
+	"Cái này kêu Hoàng San Du rất tốt giải thích cái gì gọi là trước ninh ở BMW ở trên khóc, cũng không ở xe đạp ở trên cười."
+
+	Theo Hoàng San Du đoạn này g điểm phát hình, tình yêu liền liền nhìn tần suất lượt xem giống như xuất hiện đứt đoạn giống vậy đốt đốt.
+
+	"Hoàng San Du không có sai, có sai là xã hội này!"
+
+	Giống nhau mật thiết chú ý tình yêu liền liền nhìn còn có hữu duyên thiên lý tới gặp gỡ cùng nhân duyên ta tới dắt mấy trang web lớn.
+
+	Bọn họ không chú ý không được à, bởi vì là từ trang web Ngàn Dặm Nhân Duyên Đường Quanh Co tuyên bố cùng truyền hình vệ tinh Đông Hải hợp tác cử hành một cái tiết mục sau này, bọn họ mấy công ty lớn hội viên xuất hiện rõ ràng lộ vẻ giảm phụ.
+
+	Hội viên số lượng có hay không thiếu bọn họ không biết, dẫu sao hội viên đăng ký sau này lại không thể gạch bỏ.
+
+	Bất quá có một chút có thể biết được,
+
+	Vậy chính là có 30% hội viên gần đây nửa tháng không có ở lên trang web.
+
+	Tất cả đại sếp công ty cho dưới cờ quảng cáo ngành thả lời độc ác, nhất định phải làm một cái có ý nghĩa tiết mục hoàn toàn đánh lén trang web Ngàn Dặm Nhân Duyên Đường Quanh Co, không thể để cho cả nhà bọn họ độc quyền.
+
+	Cuối cùng tình yêu liền liền nhìn tần suất lượt xem cũng phá vỡ dự tính 2 điểm số không, đột phá 2 điểm lẻ một tần suất lượt xem, có thể nói là một cái tốt mở đầu.
+
+	Làm Mạnh Đào biết cái này tần suất lượt xem tình huống sau đó, cao hứng một thân một mình chạy đến bên trong nhà cầu khóc rất lâu, hắn một khắc kia kích động không cách nào lời nói.
+
+	Hắn biết hết thảy các thứ này đều là ai cho hắn, cho nên hắn cũng thề sau này cố gắng hết sức của mình để báo đáp Chương Tiểu Vĩ.
+
+	Ngô Huy cầm trong tay tần suất lượt xem báo biểu, thật lâu không thể buông xuống, hắn ở biển đông làm nhiều năm như vậy tổng đạo diễn, tất cả lớn nhỏ cảnh quay cũng đạo qua không thiếu, nhưng mà lần đó tần suất lượt xem có tốt như vậy.
+
+	Hắn một mực lấy làm cho này cái tiết mục không có gì chỗ có thể lấy, cho nên ở tiết mục trong hắn không có cho Chương Tiểu Vĩ kéo chân sau, nhưng là cũng không có dành cho bất kỳ chỉ điểm cùng trợ giúp.
+
+	Nếu như có sự giúp đỡ của hắn cùng chỉ điểm mà nói, hắn cho rằng cái này tiết mục có thể làm tốt hơn, dẫu sao Chương Tiểu Vĩ cho phương pháp còn là có thể được, chẳng qua là đâu ở đạo diễn loại này nghệ thuật thời điểm còn thiếu sót một ít hỏa hầu.
+
+	Hắn trong lòng cũng âm thầm hạ quyết tâm, nhất định giúp giúp Chương Tiểu Vĩ tốt hơn đưa cái này tiết mục làm xong.
+
+	Sáng sớm ngày thứ hai, Chương Tiểu Vĩ ngay tại truyền hình vệ tinh Đông Hải đài trưởng cùng tổng đạo diễn đưa mắt nhìn hạ ngồi lên trở về địa điểm xuất phát tàu cao tốc lần trước trình, nếu như không phải là vì cùng cậu Từ tụ họp một chút, hắn tối ngày hôm qua đi trở về.
+
+	Tần suất lượt xem hắn trong lòng cũng có phổ, hắn biết cái này tiết mục hắn đã có thể hoàn toàn buông tay, dẫu sao 2 điểm lẻ một tần suất lượt xem, phủ lên mình tổng giam chế tên chữ, chỉ cần Vương Huy không làm chết, cái này tiết mục cũng sẽ không ở thấp hơn hai giờ tần suất lượt xem.
+
+	Làm Ngỗi Thiên biết hắn không có ở đây tham dự thâu lúc này bày tỏ mình mãnh liệt yêu cầu, yêu cầu coi như Chương Tiểu Vĩ không tham dự thâu, nhưng là nhất định phải mỗi trận đều phải đến sân áp trận.
+
+	Chẳng qua là Chương Tiểu Vĩ cự tuyệt Ngỗi Thiên yêu cầu, dẫu sao vấn đề là hắn cũng không hiểu, hắn chỉ có thể đem khung làm xong, còn dư lại thì phải do nhân sĩ chuyên nghiệp tới làm.
+
+	Cái này tiết mục không giống phim truyền hình cùng điện ảnh, phim truyền hình cùng điện ảnh có thể hoàn toàn rập khuôn, nhưng là nghệ thuật lại bất đồng, nghệ thuật bên trong có thể sẽ xuất hiện các loại bất đồng tình trạng.
+
+	Nếu để cho hắn đạo diễn thời gian dài chút, hắn sợ sẽ bị người khác nhìn ra mình chính là một cái kẻ lỗ mãng, cho nên 2 trận là kết quả tốt nhất.
+
+	"Chương Tiểu Vĩ chính là chúng ta truyền hình vệ tinh Đông Hải cứu tinh à!" Nhìn vào đứng Chương Tiểu Vĩ hình bóng, Ngỗi Thiên đối với Ngô Huy nói.
+
+	"Đúng vậy, một bộ phim đem chúng ta truyền hình vệ tinh Đông Hải đẩy về phía trong nước trước mười, thật không dám tưởng tượng, nếu như chúng ta tiếp tục đưa cái này tình yêu liền liền xem làm đi xuống, chúng ta truyền hình vệ tinh Đông Hải có thể hay không chen vào trước năm!" Ngô Huy cảm thán nói.Chương 672:
+ Converter Dzung Kiều cầu phiếu 
+
+	"Người ta tiểu Vĩ giúp nhà chúng ta nhiều như vậy bận bịu, chúng ta cũng chỉ có thể hết sức điểm này miên mỏng lực." Quan mẫu lời nói thành khẩn nói.
+
+	Từ lần đó đến thành phố Vọng Hải sau đó, bởi vì là Chương Tiểu Vĩ phần lớn thời gian đều đang bận rộn, cho nên chơi một đoạn thời gian, ở Chương Tiểu Vĩ chuẩn bị đi thành phố Vọng Hải thâu trước một ngày trở về.
+
+	Giống nhau lời mở đầu cả nước thu xem truyền hình vệ tinh Đông Hải cũng có thể thấy.
+
+	Mà ở trong truyền hình vệ tinh Đông Hải, Ngỗi Thiên lúc này đang khẩn trương ngồi ở số liệu ngành, cái này chính hắn cũng không nhớ cái này 2 tháng hắn tới bao nhiêu lần.
+
+	Có thể nói từ hắn lên chức sau này sợ rằng tới số lần đều không cái này 2 tháng nhiều.
+
+	"Ngỗi đài ngươi tới!" Phụ trách số liệu thấy hắn đến sân vội vàng đứng lên nói.
+
+	" Ừ, các ngươi ngồi, không cần như thế khẩn trương!" Hắn trong lòng đã sớm có Chương Tiểu Vĩ cho câu trả lời, cho nên cũng không khẩn trương.
+
+	Ngỗi Thiên nhìn một cái, phát hiện vậy đại biểu tần suất lượt xem dây đỏ tần suất lượt xem, chỉ là hơi có chút rất nhiều chập chờn, cũng không phải là rõ ràng như vậy, trong ánh mắt thoáng hiện thất vọng thần sắc.
+
+	Lúc này tần suất lượt xem ở bình thường một chút mấy, dĩ nhiên đây cũng là từ bọn họ truyền hình vệ tinh phát ra Chương Tiểu Vĩ kịch sau đó, một mực ổn định lại bình thường tần suất lượt xem, cho nên bây giờ đều là dùng cái này tần suất lượt xem để cân nhắc truyền hình vệ tinh tần suất lượt xem tình huống.
+
+	"Cát Huy, Cát Huy, ngươi mau tới xem, nhà chúng ta con gái lên ti vi!" Ở thủ đô nào đó bên trong phòng tôn, một chọi bốn hơn mười tuổi vợ chồng, nam đang bên trong phòng bếp nấu cơm, nữ chính là ở nhà dạy dỗ một cái sáu bảy tuổi đứa nhỏ làm bộ nghiệp, vừa nhìn ti vi, đột nhiên thấy bên trong ti vi trong đó một cô gái hô lớn.
+
+	"Ba, ba, mau tới xem à!" Đứa nhỏ nghe lời của mẹ, làm việc cũng không viết, quay đầu vừa thấy lớn tiếng nói?
+
+	"Ở nơi nào?" Cát Huy quần áo một văn kiện khăn choàng làm bếp cầm xẻng liền chạy ra.
+
+	"Nàng đứng ở nữ khách mời vị trí, hẳn chờ một chút còn biết cho nàng ống kính!"
+
+	"Cát Huy, nói tới nói lui, chúng ta cũng đã có ba năm không gặp qua con gái của chúng ta, nếu không năm nay ăn tết chúng ta đi trở về qua đi!" Người phụ nữ chính là động vật cảm tính, nói không chừng một khắc kia nghĩ tới điều gì thương cảm sự việc, thì sẽ không ngừng rơi lệ.
+
+	"Không nghĩ tới con gái đều giống như như thế đẹp, xem vậy trên sân khấu hai mươi bốn cô gái, căn bản không có nhà ta Cát Tình Nhiên đẹp được không."
+
+	"Tình Nhiên, liền chọn cái này." Đột nhiên cái đó người đàn ông gọi là Ôn Hoa lên đài, làm hắn sau khi tự giới thiệu mình xong, Cát Tình Nhiên mẹ đứng ở ti vi tiền lớn tiếng nói.
+
+	". . . !" Cát Tình Nhiên mẹ tủng lỗ mũi nói: "Cát Huy ngươi trong nồi vẫn còn ở làm thức ăn à?"
+
+	"À!" Cát Huy nghe lời của lão bà bên trong vội vàng vọt vào phòng bếp.
+
+	"Ta ở nhìn xa mặt trăng trên. . . !" Bên trong phòng bếp xuyên tới Cát Huy vậy vui thích giọng.
+
+	"Mẹ, chị tại sao phải đi làm cái đó tiết mục à?" Đứa nhỏ không biết hỏi, hắn cũng có ba năm không gặp qua chị, dĩ nhiên có lẽ coi như để cho hắn thấy hắn cũng không nhất định biết.
+
+	"Đứa trẻ cùng ngươi sau này lớn lên thì biết."
+
+	Lúc này truyền hình vệ tinh Đông Hải bình luận chức năng cũng là khải trước.
+
+	"Ta đi thấy cô đó ta liền muốn hô nàng lưỡng nhĩ ba tử!"
+
+	/*Dzung Kiều : không tra ra được ; 'ba tử '=chíp (từ ngữ phía Bắc TQ, con nít thường nói)*/
+
+	"Cô gái này tên gì, làm sao biết hỏi ngây thơ như vậy vấn đề, người ta ba mẹ không có ở đây trong nhà mình hiện tượng, khó khăn đến phải đi nhà ngươi sao?"
+
+	"Cái này kêu Hoàng San Du chính là đi, phỏng đoán tiết mục chủ sau này đều không ở sẽ có hắn hí."
+
+	"Cái này kêu Hoàng San Du rất tốt giải thích cái gì gọi là trước ninh ở BMW ở trên khóc, cũng không ở xe đạp ở trên cười."
+
+	Theo Hoàng San Du đoạn này g điểm phát hình, tình yêu liền liền nhìn tần suất lượt xem giống như xuất hiện đứt đoạn giống vậy đốt đốt.
+
+	"Hoàng San Du không có sai, có sai là xã hội này!"
+
+	Giống nhau mật thiết chú ý tình yêu liền liền nhìn còn có hữu duyên thiên lý tới gặp gỡ cùng nhân duyên ta tới dắt mấy trang web lớn.
+
+	Bọn họ không chú ý không được à, bởi vì là từ trang web Ngàn Dặm Nhân Duyên Đường Quanh Co tuyên bố cùng truyền hình vệ tinh Đông Hải hợp tác cử hành một cái tiết mục sau này, bọn họ mấy công ty lớn hội viên xuất hiện rõ ràng lộ vẻ giảm phụ.
+
+	Hội viên số lượng có hay không thiếu bọn họ không biết, dẫu sao hội viên đăng ký sau này lại không thể gạch bỏ.
+
+	Bất quá có một chút có thể biết được,
+
+	Vậy chính là có 30% hội viên gần đây nửa tháng không có ở lên trang web.
+
+	Tất cả đại sếp công ty cho dưới cờ quảng cáo ngành thả lời độc ác, nhất định phải làm một cái có ý nghĩa tiết mục hoàn toàn đánh lén trang web Ngàn Dặm Nhân Duyên Đường Quanh Co, không thể để cho cả nhà bọn họ độc quyền.
+
+	Cuối cùng tình yêu liền liền nhìn tần suất lượt xem cũng phá vỡ dự tính 2 điểm số không, đột phá 2 điểm lẻ một tần suất lượt xem, có thể nói là một cái tốt mở đầu.
+
+	Làm Mạnh Đào biết cái này tần suất lượt xem tình huống sau đó, cao hứng một thân một mình chạy đến bên trong nhà cầu khóc rất lâu, hắn một khắc kia kích động không cách nào lời nói.
+
+	Hắn biết hết thảy các thứ này đều là ai cho hắn, cho nên hắn cũng thề sau này cố gắng hết sức của mình để báo đáp Chương Tiểu Vĩ.
+
+	Ngô Huy cầm trong tay tần suất lượt xem báo biểu, thật lâu không thể buông xuống, hắn ở biển đông làm nhiều năm như vậy tổng đạo diễn, tất cả lớn nhỏ cảnh quay cũng đạo qua không thiếu, nhưng mà lần đó tần suất lượt xem có tốt như vậy.
+
+	Hắn một mực lấy làm cho này cái tiết mục không có gì chỗ có thể lấy, cho nên ở tiết mục trong hắn không có cho Chương Tiểu Vĩ kéo chân sau, nhưng là cũng không có dành cho bất kỳ chỉ điểm cùng trợ giúp.
+
+	Nếu như có sự giúp đỡ của hắn cùng chỉ điểm mà nói, hắn cho rằng cái này tiết mục có thể làm tốt hơn, dẫu sao Chương Tiểu Vĩ cho phương pháp còn là có thể được, chẳng qua là đâu ở đạo diễn loại này nghệ thuật thời điểm còn thiếu sót một ít hỏa hầu.
+
+	Hắn trong lòng cũng âm thầm hạ quyết tâm, nhất định giúp giúp Chương Tiểu Vĩ tốt hơn đưa cái này tiết mục làm xong.
+
+	Sáng sớm ngày thứ hai, Chương Tiểu Vĩ ngay tại truyền hình vệ tinh Đông Hải đài trưởng cùng tổng đạo diễn đưa mắt nhìn hạ ngồi lên trở về địa điểm xuất phát tàu cao tốc lần trước trình, nếu như không phải là vì cùng cậu Từ tụ họp một chút, hắn tối ngày hôm qua đi trở về.
+
+	Tần suất lượt xem hắn trong lòng cũng có phổ, hắn biết cái này tiết mục hắn đã có thể hoàn toàn buông tay, dẫu sao 2 điểm lẻ một tần suất lượt xem, phủ lên mình tổng giam chế tên chữ, chỉ cần Vương Huy không làm chết, cái này tiết mục cũng sẽ không ở thấp hơn hai giờ tần suất lượt xem.
+
+	Làm Ngỗi Thiên biết hắn không có ở đây tham dự thâu lúc này bày tỏ mình mãnh liệt yêu cầu, yêu cầu coi như Chương Tiểu Vĩ không tham dự thâu, nhưng là nhất định phải mỗi trận đều phải đến sân áp trận.
+
+	Chẳng qua là Chương Tiểu Vĩ cự tuyệt Ngỗi Thiên yêu cầu, dẫu sao vấn đề là hắn cũng không hiểu, hắn chỉ có thể đem khung làm xong, còn dư lại thì phải do nhân sĩ chuyên nghiệp tới làm.
+
+	Cái này tiết mục không giống phim truyền hình cùng điện ảnh, phim truyền hình cùng điện ảnh có thể hoàn toàn rập khuôn, nhưng là nghệ thuật lại bất đồng, nghệ thuật bên trong có thể sẽ xuất hiện các loại bất đồng tình trạng.
+
+	Nếu để cho hắn đạo diễn thời gian dài chút, hắn sợ sẽ bị người khác nhìn ra mình chính là một cái kẻ lỗ mãng, cho nên 2 trận là kết quả tốt nhất.
+
+	"Chương Tiểu Vĩ chính là chúng ta truyền hình vệ tinh Đông Hải cứu tinh à!" Nhìn vào đứng Chương Tiểu Vĩ hình bóng, Ngỗi Thiên đối với Ngô Huy nói.
+
+	"Đúng vậy, một bộ phim đem chúng ta truyền hình vệ tinh Đông Hải đẩy về phía trong nước trước mười, thật không dám tưởng tượng, nếu như chúng ta tiếp tục đưa cái này tình yêu liền liền xem làm đi xuống, chúng ta truyền hình vệ tinh Đông Hải có thể hay không chen vào trước năm!" Ngô Huy cảm thán nói.Chương 672:
+ Converter Dzung Kiều cầu phiếu 
+
+	"Người ta tiểu Vĩ giúp nhà chúng ta nhiều như vậy bận bịu, chúng ta cũng chỉ có thể hết sức điểm này miên mỏng lực." Quan mẫu lời nói thành khẩn nói.
+
+	Từ lần đó đến thành phố Vọng Hải sau đó, bởi vì là Chương Tiểu Vĩ phần lớn thời gian đều đang bận rộn, cho nên chơi một đoạn thời gian, ở Chương Tiểu Vĩ chuẩn bị đi thành phố Vọng Hải thâu trước một ngày trở về.
+
+	Giống nhau lời mở đầu cả nước thu xem truyền hình vệ tinh Đông Hải cũng có thể thấy.
+
+	Mà ở trong truyền hình vệ tinh Đông Hải, Ngỗi Thiên lúc này đang khẩn trương ngồi ở số liệu ngành, cái này chính hắn cũng không nhớ cái này 2 tháng hắn tới bao nhiêu lần.
+
+	Có thể nói từ hắn lên chức sau này sợ rằng tới số lần đều không cái này 2 tháng nhiều.
+
+	"Ngỗi đài ngươi tới!" Phụ trách số liệu thấy hắn đến sân vội vàng đứng lên nói.
+
+	" Ừ, các ngươi ngồi, không cần như thế khẩn trương!" Hắn trong lòng đã sớm có Chương Tiểu Vĩ cho câu trả lời, cho nên cũng không khẩn trương.
+
+	Ngỗi Thiên nhìn một cái, phát hiện vậy đại biểu tần suất lượt xem dây đỏ tần suất lượt xem, chỉ là hơi có chút rất nhiều chập chờn, cũng không phải là rõ ràng như vậy, trong ánh mắt thoáng hiện thất vọng thần sắc.
+
+	Lúc này tần suất lượt xem ở bình thường một chút mấy, dĩ nhiên đây cũng là từ bọn họ truyền hình vệ tinh phát ra Chương Tiểu Vĩ kịch sau đó, một mực ổn định lại bình thường tần suất lượt xem, cho nên bây giờ đều là dùng cái này tần suất lượt xem để cân nhắc truyền hình vệ tinh tần suất lượt xem tình huống.
+
+	"Cát Huy, Cát Huy, ngươi mau tới xem, nhà chúng ta con gái lên ti vi!" Ở thủ đô nào đó bên trong phòng tôn, một chọi bốn hơn mười tuổi vợ chồng, nam đang bên trong phòng bếp nấu cơm, nữ chính là ở nhà dạy dỗ một cái sáu bảy tuổi đứa nhỏ làm bộ nghiệp, vừa nhìn ti vi, đột nhiên thấy bên trong ti vi trong đó một cô gái hô lớn.
+
+	"Ba, ba, mau tới xem à!" Đứa nhỏ nghe lời của mẹ, làm việc cũng không viết, quay đầu vừa thấy lớn tiếng nói?
+
+	"Ở nơi nào?" Cát Huy quần áo một văn kiện khăn choàng làm bếp cầm xẻng liền chạy ra.
+
+	"Nàng đứng ở nữ khách mời vị trí, hẳn chờ một chút còn biết cho nàng ống kính!"
+
+	"Cát Huy, nói tới nói lui, chúng ta cũng đã có ba năm không gặp qua con gái của chúng ta, nếu không năm nay ăn tết chúng ta đi trở về qua đi!" Người phụ nữ chính là động vật cảm tính, nói không chừng một khắc kia nghĩ tới điều gì thương cảm sự việc, thì sẽ không ngừng rơi lệ.
+
+	"Không nghĩ tới con gái đều giống như như thế đẹp, xem vậy trên sân khấu hai mươi bốn cô gái, căn bản không có nhà ta Cát Tình Nhiên đẹp được không."
+
+	"Tình Nhiên, liền chọn cái này." Đột nhiên cái đó người đàn ông gọi là Ôn Hoa lên đài, làm hắn sau khi tự giới thiệu mình xong, Cát Tình Nhiên mẹ đứng ở ti vi tiền lớn tiếng nói.
+
+	". . . !" Cát Tình Nhiên mẹ tủng lỗ mũi nói: "Cát Huy ngươi trong nồi vẫn còn ở làm thức ăn à?"
+
+	"À!" Cát Huy nghe lời của lão bà bên trong vội vàng vọt vào phòng bếp.
+
+	"Ta ở nhìn xa mặt trăng trên. . . !" Bên trong phòng bếp xuyên tới Cát Huy vậy vui thích giọng.
+
+	"Mẹ, chị tại sao phải đi làm cái đó tiết mục à?" Đứa nhỏ không biết hỏi, hắn cũng có ba năm không gặp qua chị, dĩ nhiên có lẽ coi như để cho hắn thấy hắn cũng không nhất định biết.
+
+	"Đứa trẻ cùng ngươi sau này lớn lên thì biết."
+
+	Lúc này truyền hình vệ tinh Đông Hải bình luận chức năng cũng là khải trước.
+
+	"Ta đi thấy cô đó ta liền muốn hô nàng lưỡng nhĩ ba tử!"
+
+	/*Dzung Kiều : không tra ra được ; 'ba tử '=chíp (từ ngữ phía Bắc TQ, con nít thường nói)*/
+
+	"Cô gái này tên gì, làm sao biết hỏi ngây thơ như vậy vấn đề, người ta ba mẹ không có ở đây trong nhà mình hiện tượng, khó khăn đến phải đi nhà ngươi sao?"
+
+	"Cái này kêu Hoàng San Du chính là đi, phỏng đoán tiết mục chủ sau này đều không ở sẽ có hắn hí."
+
+	"Cái này kêu Hoàng San Du rất tốt giải thích cái gì gọi là trước ninh ở BMW ở trên khóc, cũng không ở xe đạp ở trên cười."
+
+	Theo Hoàng San Du đoạn này g điểm phát hình, tình yêu liền liền nhìn tần suất lượt xem giống như xuất hiện đứt đoạn giống vậy đốt đốt.
+
+	"Hoàng San Du không có sai, có sai là xã hội này!"
+
+	Giống nhau mật thiết chú ý tình yêu liền liền nhìn còn có hữu duyên thiên lý tới gặp gỡ cùng nhân duyên ta tới dắt mấy trang web lớn.
+
+	Bọn họ không chú ý không được à, bởi vì là từ trang web Ngàn Dặm Nhân Duyên Đường Quanh Co tuyên bố cùng truyền hình vệ tinh Đông Hải hợp tác cử hành một cái tiết mục sau này, bọn họ mấy công ty lớn hội viên xuất hiện rõ ràng lộ vẻ giảm phụ.
+
+	Hội viên số lượng có hay không thiếu bọn họ không biết, dẫu sao hội viên đăng ký sau này lại không thể gạch bỏ.
+
+	Bất quá có một chút có thể biết được,
+
+	Vậy chính là có 30% hội viên gần đây nửa tháng không có ở lên trang web.
+
+	Tất cả đại sếp công ty cho dưới cờ quảng cáo ngành thả lời độc ác, nhất định phải làm một cái có ý nghĩa tiết mục hoàn toàn đánh lén trang web Ngàn Dặm Nhân Duyên Đường Quanh Co, không thể để cho cả nhà bọn họ độc quyền.
+
+	Cuối cùng tình yêu liền liền nhìn tần suất lượt xem cũng phá vỡ dự tính 2 điểm số không, đột phá 2 điểm lẻ một tần suất lượt xem, có thể nói là một cái tốt mở đầu.
+
+	Làm Mạnh Đào biết cái này tần suất lượt xem tình huống sau đó, cao hứng một thân một mình chạy đến bên trong nhà cầu khóc rất lâu, hắn một khắc kia kích động không cách nào lời nói.
+
+	Hắn biết hết thảy các thứ này đều là ai cho hắn, cho nên hắn cũng thề sau này cố gắng hết sức của mình để báo đáp Chương Tiểu Vĩ.
+
+	Ngô Huy cầm trong tay tần suất lượt xem báo biểu, thật lâu không thể buông xuống, hắn ở biển đông làm nhiều năm như vậy tổng đạo diễn, tất cả lớn nhỏ cảnh quay cũng đạo qua không thiếu, nhưng mà lần đó tần suất lượt xem có tốt như vậy.
+
+	Hắn một mực lấy làm cho này cái tiết mục không có gì chỗ có thể lấy, cho nên ở tiết mục trong hắn không có cho Chương Tiểu Vĩ kéo chân sau, nhưng là cũng không có dành cho bất kỳ chỉ điểm cùng trợ giúp.
+
+	Nếu như có sự giúp đỡ của hắn cùng chỉ điểm mà nói, hắn cho rằng cái này tiết mục có thể làm tốt hơn, dẫu sao Chương Tiểu Vĩ cho phương pháp còn là có thể được, chẳng qua là đâu ở đạo diễn loại này nghệ thuật thời điểm còn thiếu sót một ít hỏa hầu.
+
+	Hắn trong lòng cũng âm thầm hạ quyết tâm, nhất định giúp giúp Chương Tiểu Vĩ tốt hơn đưa cái này tiết mục làm xong.
+
+	Sáng sớm ngày thứ hai, Chương Tiểu Vĩ ngay tại truyền hình vệ tinh Đông Hải đài trưởng cùng tổng đạo diễn đưa mắt nhìn hạ ngồi lên trở về địa điểm xuất phát tàu cao tốc lần trước trình, nếu như không phải là vì cùng cậu Từ tụ họp một chút, hắn tối ngày hôm qua đi trở về.
+
+	Tần suất lượt xem hắn trong lòng cũng có phổ, hắn biết cái này tiết mục hắn đã có thể hoàn toàn buông tay, dẫu sao 2 điểm lẻ một tần suất lượt xem, phủ lên mình tổng giam chế tên chữ, chỉ cần Vương Huy không làm chết, cái này tiết mục cũng sẽ không ở thấp hơn hai giờ tần suất lượt xem.
+
+	Làm Ngỗi Thiên biết hắn không có ở đây tham dự thâu lúc này bày tỏ mình mãnh liệt yêu cầu, yêu cầu coi như Chương Tiểu Vĩ không tham dự thâu, nhưng là nhất định phải mỗi trận đều phải đến sân áp trận.
+
+	Chẳng qua là Chương Tiểu Vĩ cự tuyệt Ngỗi Thiên yêu cầu, dẫu sao vấn đề là hắn cũng không hiểu, hắn chỉ có thể đem khung làm xong, còn dư lại thì phải do nhân sĩ chuyên nghiệp tới làm.
+
+	Cái này tiết mục không giống phim truyền hình cùng điện ảnh, phim truyền hình cùng điện ảnh có thể hoàn toàn rập khuôn, nhưng là nghệ thuật lại bất đồng, nghệ thuật bên trong có thể sẽ xuất hiện các loại bất đồng tình trạng.
+
+	Nếu để cho hắn đạo diễn thời gian dài chút, hắn sợ sẽ bị người khác nhìn ra mình chính là một cái kẻ lỗ mãng, cho nên 2 trận là kết quả tốt nhất.
+
+	"Chương Tiểu Vĩ chính là chúng ta truyền hình vệ tinh Đông Hải cứu tinh à!" Nhìn vào đứng Chương Tiểu Vĩ hình bóng, Ngỗi Thiên đối với Ngô Huy nói.
+
+	"Đúng vậy, một bộ phim đem chúng ta truyền hình vệ tinh Đông Hải đẩy về phía trong nước trước mười, thật không dám tưởng tượng, nếu như chúng ta tiếp tục đưa cái này tình yêu liền liền xem làm đi xuống, chúng ta truyền hình vệ tinh Đông Hải có thể hay không chen vào trước năm!" Ngô Huy cảm thán nói.

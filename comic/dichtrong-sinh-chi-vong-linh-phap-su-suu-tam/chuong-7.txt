@@ -1,0 +1,679 @@
+Keng! – Phát hiện người chơi tự chủ sử dụng kỹ năng “Triệu hoán Bộ xương chiến sĩ”, kỹ năng sẽ được tự động thêm vào.
+
+Chúc mừng ngài học được kỹ năng “Triệu hoán Bộ xương chiến sĩ”.
+
+Keng! – Chúc mừng ngài là người thứ hai học được kỹ năng. Tặng thưởng EXP + 800, điểm kỹ năng +1, túi bí kíp 1 phần.
+
+Keng! - Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 5 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Đình Tấn ngửa mặt lên trời cuồng tiếu. Từ bất ngờ này đến ngạc nhiên khác làm Đình Tấn trái tim khó kìm nén được sự kích động. Có được kỹ năng, có được sức mạnh, có được Anh Hùng trợ giúp tương lai của hắn có nhiều hơn nắm chắc.
+
+Liền tay gọi ra giao diện bảng kỹ năng. Lại một kỹ năng biểu tượng là hình ảnh thu nhỏ của Bộ xương chiến sĩ đứng nghiêng người xuất hiện ở ô đầu tiên cột bên trái. Tay run run, Đình Tấn bấm chọn vào biểu tượng đó trên giao diện.
+
+Triệu hồi: Bộ xương chiến sĩ
+
+Đẳng cấp: Hạ cấp
+
+Giới thiệu: Triệu hồi vong linh sinh vật Bộ xương chiến sĩ trợ giúp chiến đấu. Với ý thức và bản năng chiến đấu của một tên cường đại chiến sĩ, sức mạnh của một con quái thú và ý chí không sợ chết của sinh vật vong linh.
+
+Tiêu hao ma pháp: 45MP (Kéo dài tiêu hao 15MP/s)
+
+Hiệu quả:
+
+HP = Thể chất người triệu hồi x 25
+
+Sát thương vật lý thấp nhất = Tinh thần người triệu hồi
+
+Sát thương vật lý cao nhất = Tinh thần người triệu hồi x 1.1
+
+Phòng thủ vật lý = Sức mạnh người triệu hồi x 0.1
+
+Phòng thủ ma pháp = Tinh thần người triệu hồi x 0.05
+
+Số lượng triệu hồi cao nhất = Tinh thần người triệu hồi / 10
+
+Chỉ nhìn qua bề ngoài, Đình Tấn đã thấy con Bộ xương chiến sĩ này quả thật là “Tàn khốc đến ngây ngốc”. Bỏ xa mấy con phố những tên Bộ xương chiến sĩ rách rưới, ốm yếu trước kia hắn triệu hồi ra đến. Nhưng xem xong bảng kỹ năng, hắn quả thật muốn thét dài lên giải toả ra niềm kích động trong lòng.
+
+Bởi vì đây không chỉ là game, đây chính là dựa vào thông số đo lường trên thực tế mà làm ra game. Những kỹ năng này đều là có thật, mà họ, hàng nghìn nhà khoa học gia mà mỗi người so về độ thông minh đều không thấp hơn thậm chí có thể miểu sát hắn, phải bỏ ra gần 6 năm nghiên cứu để làm ra nó. Hắn đã hiểu ra, trước kia 2 năm tu luyện, hắn chỉ mới vừa là một tên học đồ thôi. Những thứ hắn mày mò mà học được đó, chưa bằng chỉ là một phần nhỏ của kho tàng trong bí tịch mà hắn phát hiện được.
+
+Hắn dám chắc rằng, chỉ một tên Bộ xương chiến sĩ này thôi cũng đủ chém giết với 6 tên Bộ xương chiến sĩ trước kia của hắn. Điều kiện để triệu hồi cũng quá hà khắc đi. Đình Tấn phải hoàn mỹ vẽ kí hiệu không được phép sai sót nào, chú ngữ cũng phải đọc theo một ngữ điệu chuẩn xác.
+
+Nghĩ lại những ký hiệu trước kia hắn vẽ hay cách đọc chú ngữ. Đình Tấn cảm khái lắc đầu thở dài. Nhưng lập tức hắn liền cổ vũ tinh thần chính mình:
+
+- Ta hôm nay làm được, ngay mai, ta có thể tiến bộ thêm một bước dài. Ta không tin với năng lực cùng sự cố gắng của mình mà lại không thể đi đến đỉnh phong.
+
+Chợt một trận choáng váng truyền đến đầu Đình Tấn. Hai mắt hoa lên, đầu nặng trịch. Đình Tấn loạn choạng, lấy lại thăng bằng đứng vững. Mặt mờ mịt không hiểu nguyên do.
+
+Ngay khi ánh mắt nhìn đến Bộ xương chiến sĩ đang đứng im bất động đưa lưng về phía mình, Đình Tấn kiểm tra lại thanh MP: 46/408. Chỉ còn một phần mười. Đình Tấn vội vàng giải trừ triệu hồi Bộ xương chiến sĩ, một vòng xoáy đen ngòm xuất hiện dưới chân Bộ xương chiến sĩ nhanh chóng hút nó vào.
+
+Đặt mông ngồi xuống đất nghỉ ngơi hồi phục MP, Đình Tấn tự trách bản thân thật sơ xuất. Chỉ vì quá kích động, hắn quên mất kỹ năng triệu hồi phải liên tục tiêu hao tinh thần lực để duy trì chống đỡ.
+
+Trong lúc nghỉ ngơi, Đình Tấn mở ra bảng thuộc tính kiểm tra thành quả hơn 4 giờ vừa qua:
+
+Tính danh: Đình Tấn (Hiển thị)
+
+Biệt danh: The Dawn (Ẩn)
+
+Tuổi: 23
+
+Chức nghiệp: Chưa chọn
+
+---- Thông số ----
+
+Lực lượng: 24
+
+Nhanh nhẹn: 20 
+
+Thể lực: 23
+
+Tinh thần: 34
+
+Điểm tự do: 5
+
+---- Chi tiết ----
+
+Level: 6
+
+HP: 460/460 (+0.69/s) 
+
+MP: 408/408 (+1.36/s)
+
+EXP: 540/1300
+
+Tốc độ tấn công: 0.9 lần/s 
+
+Tốc độ di chuyển: 2.2 m/s
+
+Sát thương vật lý: 24 – 32
+
+Sát thương phép thuật: 34 – 43
+
+Phòng thủ vật lý: 5.2
+
+Phòng thủ pháp thuật: 5.1
+
+Phụ trọng: 9/41kg (Cơ bản 5kg)
+
+May mắn: 0
+
+Thiên phú: 7
+
+Hiện tại bình quân đẳng cấp người chơi đều ở 2 – 3 cấp, một số nhóm người chơi chuyên nghiệp ở thời điểm hiện tại như Hoả Long, Xcalibur, DemonHunter… có thể nhỉnh hơn 1 – 2 cấp nữa. Đình Tấn một độc hành người chơi, nếu như không có kỹ thuật hay không ngộ được cách áp dụng kỹ năng ở hiện thực vào game thì có lẽ giờ đây hắn cũng chỉ quanh quẩn ở level 2 – 3.
+
+Đẳng cấp tăng cao đến hiện tại, ngoài trang bị một vũ khí cùng một chiếc Áo giáp tân thủ. Đình Tấn vẫn chưa có động chạm gì đến điểm chỉ số. Hắn muốn làm thêm một thử nghiệm, liệu tăng điểm chỉ số ở trong game thì hiện thực có thể gia tăng theo hay không? Thế nhưng hiện tại hắn vẫn chưa có cách nào để phán đoán hay phân biệt được cường độ tinh thần của mình. 
+
+Đình Tấn từng nghĩ đến việc triệu hồi Bộ xương chiến sĩ rồi tính giờ, thế nhưng điều này cũng không khả thi cho lắm vì hắn là ở tại một khu chung cư. Nếu triệu hồi hắn không bảo đảm sẽ xuất hiện dị tượng hoặc xung quanh lỡ có ai nhìn thấy hay không. Đình Tấn không muốn bị người bắt mang về một phòng thí nghiệm nào đó mổ xẻ, tra hỏi suốt 24/7.
+
+Liền Đình Tấn quyết định, sau này sẽ thử nghiệm sau. Hiện tại phải tăng lên thực lực tìm kiếm tiên cơ cho mình. Qua 2 giờ thử nghiệm Đình Tấn nhận ra rằng Anh Hùng chính là một bảo tàng mà những vị khoa học gia vĩ đại ấy tạo ra cho loài người. Hắn phải thật tốt lợi dụng được nó thực hiện mục tiêu của mình.
+
+Dùng 3 điểm tự do thêm vào tinh thần, hắn muốn mình có thể duy trì Bộ xương chiến sĩ tồn tại được lâu hơn. Đồng thời trong tâm trí hắn vẫn mơ tưởng có một ngày hắn đứng trên tường thành chỉ huy nghìn vạn quân đoàn vong linh chiến đấu với những con quái thú kinh khủng.
+
+Còn lại 2 điểm, Đình Tấn muốn giữ lại một chút phòng ngừa khi cần thiết. Nếu bất ngờ phát hiện cách đo lường tinh thần lực, hắn không ngại dùng ngay đến thí nghiệm.
+
+Ngay khi tăng lên 3 điểm tinh thần. Đình Tấn trong đầu truyền ra một trận mát mẻ, tê dại mà hắn cũng không nhịn được “Hư…” lên một tiếng.
+
+---- Thông số ----
+
+Lực lượng: 24
+
+Nhanh nhẹn: 20 
+
+Thể lực: 23
+
+Tinh thần: 37
+
+Điểm tự do: 2
+
+---- Chi tiết ----
+
+Level: 6
+
+HP: 460/460 (+0.69/s)
+
+MP: 444/444 (+1.48/s)
+
+EXP: 540/1300
+
+Tốc độ tấn công: 0.9 lần/s 
+
+Tốc d6T9dKnZ độ di chuyển: 2.2 m/s
+
+Sát thương vật lý: 24 – 32
+
+Sát thương phép thuật: 37 – 46
+
+Phòng thủ vật lý: 5.2
+
+Phòng thủ pháp thuật: 5.6
+
+Phụ trọng: 9/41kg (Cơ bản 5kg)
+
+May mắn: 0
+
+Thiên phú: 7
+
+Điểm chỉ số cũng không có quá nhiều thay đổi, Đình Tấn ngồi tại chỗ nghỉ ngơi phục hồi lại MP. Ngồi tại chỗ một hồi, tiện tay Đình Tấn bật lên giao diện balô. Bất chợt hắn phát hiện trong balô nhiều hơn hai túi vải. Lại nhớ đến khi hắn sử dụng được 2 kỹ năng, hệ thống có thưởng cho 2 phần túi bí kíp. 
+
+Tò mò Đình Tấn lựa chọn lấy ra xem xét. 
+
+Túi bí kíp 
+
+Chất lượng: Đặc biệt
+
+Yêu cầu: Không
+
+Vật phẩm thưởng cho chỉ có cơ hội đạt được khi làm nhiệm vụ. Mở ra sẽ được một phần ngẫu nhiên bí tịch.
+
+Ngạc nhiên, Đình Tấn không ngờ lại có thể nhận thưởng được đồ vật này. Hắn không biết liệu cho kỹ năng có thể hay không sử dụng ở ngoài hiện thực?
+
+Đình Tấn mở ra túi, hệ thống xuất hiện một vòng xoay. Vòng tròn không lớn đường kính chỉ gần 1m. Có khoảng 15 quyển sách đủ màu sắc nằm đều trên vòng tròn. Ở giữa có một nút tròn “Bắt đầu” được ghi lên phía trên bên cạnh là hình một mũi tên. Đình Tấn không do dự nhanh tay bấm chọn.
+
+Vòng xoay bắt đầu gia tốc, Đình Tấn trong lòng hồi hộp không biết sẽ chọn trúng được cái gì đây. Hầu như không tốn thời gian bao lâu, vòng xoay bắt đầu giảm tốc khá nhanh. Sau đó chầm chậm dừng lại, mũi tên hướng ngay một quyển sách chỉ đến.
+
+Âm thanh từ hệ thống vang lên nhắc nhở Đình Tấn:
+
+Keng! - Nhặt được Sách kỹ năng Cơ bắp cường hoá.
+
+Vội vàng mở balô ra xem, một quyển sách dầy cộm nằm trong balô. Đình Tấn lấy ra kiểm tra, bề ngoài quyển sách được bọc lại bằng một loại da dày, bóng loáng màu nâu đen không biết của động vật nào. Bốn góc dùng kim loại, khắc hoa văn giữ chặt lớp da. Tổng cộng chưa đến 20 trang nhưng rất dày đa phần do bìa da ở ngoài.
+
+Lật ra xem, quả thật cảm giác như Đình Tấn đang đọc sách ở hiện thực không khác mấy. Trang giấy màu vàng ố, cũ kỹ không biết từ niên đại nào. Màu mực đen tuyền, in rõ từng chữ latin theo phong cách cổ. Một vài trang có vài hình ảnh con người minh hoạ tư thế luyện tập. 
+
+Nghe tên Đình Tấn cũng đoán được đại khái sơ sơ nội dung. Đình Tấn bắt đầu xem miêu tả:
+
+- Cơ bắp cường hoá (Kỹ năng tu luyện)
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Phương thức tu luyện cơ bắp, cường hoá thể chất hiệu quả.
+
+Tiêu hao: không
+
+Hiệu quả: Hoàn thành một vòng tập luyện sẽ cường hoá 1 điểm thể lực cùng 1 điểm sức mạnh. Mỗi ngày giới hạn 5 lần. Thể chất vượt quá 150 điểm hiệu lực sẽ giảm đi 50%.
+
+Đình Tấn hơi thất vọng. Nếu mở được kỹ năng cường hoá tinh thần, đó mới là đối với hắn có đại trợ giúp. Cơ bắp này… Bất chợt Đình Tấn nghĩ ngay đến Terrell. 
+
+Đúng vậy, kế hoạch sắp tới của hắn sẽ là đi tìm Terrell. Lưu lại sau này Terrell chắc chắn có đại trợ giúp cho hắn. Cũng xem như là quà gặp mặt dụ dỗ hắn. Đình Tấn trong lòng thầm mỉm cười. Đã có quyết định, Đình Tấn cất đi quyển kỹ năng này vào balô. Sau đó lựa chọn mở ra túi bí kíp còn lại.
+
+Vòng tròn bắt đầu xoay quanh, một lúc sau. Một quyển sách nhỏ bí tịch lại xuất hiện ngay mũi tên. Âm thanh hệ thống không quên nhắc nhở Đình Tấn.
+
+Keng! – Nhặt được kỹ năng Tử vong màn che.
+
+Lấy ra quyển sách nhìn sơ qua, cũng khá giống với quyển kỹ năng trước đó. Tuy nhiên bìa da bên ngoài lần này lại là màu xám, trên bìa có khắc lấy một biểu tượng màn sương. Viền bốn góc kim loại bạc làm nó trông có vẻ cao cấp hơn hẳn Cơ bắp cường hoá một cấp bậc. Đồng thời cũng dày hơn Cơ bắp cường hoá một phân, lật xem kỹ thì có 34 trang đều nhau.
+
+Tử vong màn che
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Dùng phù hiệu và chú ngữ, triệu hồi không khí hắc ám từ dị không gian vong linh. Đầu độc làm suy yếu và che mắt kẻ địch trong một khu vực nhất định. (Vong linh, hắc ám sinh vật không bị ảnh hưởng)
+
+Tiêu hao: 1MP/m2/giây
+
+Hiệu quả: 
+
+- 1/ Đầu độc giảm 10% + (Tinh thần *0.001)% thuộc tính kẻ địch, tầm nhìn giảm xuống 10% + (Tinh thần *0.01)%
+
+- 2/ Triệu hồi hắc ám sinh vật đồng minh thuộc tính đề thăng 10% + (Tinh thần *0.01)%
+
+- 3/ Diện tích bao phủ (Tinh thần * 0.1) mét
+
+- Phụ trợ kỹ năng?!
+
+Xem xong giới thiệu kỹ năng, Đình Tấn trong lòng nghi vấn cùng ngạc nhiên. Không ngờ lại có thể bắt được một kỹ năng như vậy. Hắn tuy học triệu hồi sư chức nghiệp nhiều kỹ năng, nhưng đa số là triệu hồi sinh vật.
+
+- Triệu hồi “không khí”?! Cái này nghe có vẻ mới nha.
+
+Đình Tấn mỉm cười suy nghĩ, kỹ năng này tuy không có lực sát thương nhưng nếu phụ trợ cho vong linh đại quân của hắn sau này. Đây quả thật có thể nói là đo ni đóng giày cho hắn mà. Thỏa mãn, Đình Tấn lựa chọn học kỹ năng này ngay.
+
+Bất quá, vừa giơ tay lên lựa chọn học tập nhưng đột nhiên có gì đó loé lên trong đầu Đình Tấn làm hắn khựng tay lại giữa không trung.Keng! – Phát hiện người chơi tự chủ sử dụng kỹ năng “Triệu hoán Bộ xương chiến sĩ”, kỹ năng sẽ được tự động thêm vào.
+
+Chúc mừng ngài học được kỹ năng “Triệu hoán Bộ xương chiến sĩ”.
+
+Keng! – Chúc mừng ngài là người thứ hai học được kỹ năng. Tặng thưởng EXP + 800, điểm kỹ năng +1, túi bí kíp 1 phần.
+
+Keng! - Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 5 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Đình Tấn ngửa mặt lên trời cuồng tiếu. Từ bất ngờ này đến ngạc nhiên khác làm Đình Tấn trái tim khó kìm nén được sự kích động. Có được kỹ năng, có được sức mạnh, có được Anh Hùng trợ giúp tương lai của hắn có nhiều hơn nắm chắc.
+
+Liền tay gọi ra giao diện bảng kỹ năng. Lại một kỹ năng biểu tượng là hình ảnh thu nhỏ của Bộ xương chiến sĩ đứng nghiêng người xuất hiện ở ô đầu tiên cột bên trái. Tay run run, Đình Tấn bấm chọn vào biểu tượng đó trên giao diện.
+
+Triệu hồi: Bộ xương chiến sĩ
+
+Đẳng cấp: Hạ cấp
+
+Giới thiệu: Triệu hồi vong linh sinh vật Bộ xương chiến sĩ trợ giúp chiến đấu. Với ý thức và bản năng chiến đấu của một tên cường đại chiến sĩ, sức mạnh của một con quái thú và ý chí không sợ chết của sinh vật vong linh.
+
+Tiêu hao ma pháp: 45MP (Kéo dài tiêu hao 15MP/s)
+
+Hiệu quả:
+
+HP = Thể chất người triệu hồi x 25
+
+Sát thương vật lý thấp nhất = Tinh thần người triệu hồi
+
+Sát thương vật lý cao nhất = Tinh thần người triệu hồi x 1.1
+
+Phòng thủ vật lý = Sức mạnh người triệu hồi x 0.1
+
+Phòng thủ ma pháp = Tinh thần người triệu hồi x 0.05
+
+Số lượng triệu hồi cao nhất = Tinh thần người triệu hồi / 10
+
+Chỉ nhìn qua bề ngoài, Đình Tấn đã thấy con Bộ xương chiến sĩ này quả thật là “Tàn khốc đến ngây ngốc”. Bỏ xa mấy con phố những tên Bộ xương chiến sĩ rách rưới, ốm yếu trước kia hắn triệu hồi ra đến. Nhưng xem xong bảng kỹ năng, hắn quả thật muốn thét dài lên giải toả ra niềm kích động trong lòng.
+
+Bởi vì đây không chỉ là game, đây chính là dựa vào thông số đo lường trên thực tế mà làm ra game. Những kỹ năng này đều là có thật, mà họ, hàng nghìn nhà khoa học gia mà mỗi người so về độ thông minh đều không thấp hơn thậm chí có thể miểu sát hắn, phải bỏ ra gần 6 năm nghiên cứu để làm ra nó. Hắn đã hiểu ra, trước kia 2 năm tu luyện, hắn chỉ mới vừa là một tên học đồ thôi. Những thứ hắn mày mò mà học được đó, chưa bằng chỉ là một phần nhỏ của kho tàng trong bí tịch mà hắn phát hiện được.
+
+Hắn dám chắc rằng, chỉ một tên Bộ xương chiến sĩ này thôi cũng đủ chém giết với 6 tên Bộ xương chiến sĩ trước kia của hắn. Điều kiện để triệu hồi cũng quá hà khắc đi. Đình Tấn phải hoàn mỹ vẽ kí hiệu không được phép sai sót nào, chú ngữ cũng phải đọc theo một ngữ điệu chuẩn xác.
+
+Nghĩ lại những ký hiệu trước kia hắn vẽ hay cách đọc chú ngữ. Đình Tấn cảm khái lắc đầu thở dài. Nhưng lập tức hắn liền cổ vũ tinh thần chính mình:
+
+- Ta hôm nay làm được, ngay mai, ta có thể tiến bộ thêm một bước dài. Ta không tin với năng lực cùng sự cố gắng của mình mà lại không thể đi đến đỉnh phong.
+
+Chợt một trận choáng váng truyền đến đầu Đình Tấn. Hai mắt hoa lên, đầu nặng trịch. Đình Tấn loạn choạng, lấy lại thăng bằng đứng vững. Mặt mờ mịt không hiểu nguyên do.
+
+Ngay khi ánh mắt nhìn đến Bộ xương chiến sĩ đang đứng im bất động đưa lưng về phía mình, Đình Tấn kiểm tra lại thanh MP: 46/408. Chỉ còn một phần mười. Đình Tấn vội vàng giải trừ triệu hồi Bộ xương chiến sĩ, một vòng xoáy đen ngòm xuất hiện dưới chân Bộ xương chiến sĩ nhanh chóng hút nó vào.
+
+Đặt mông ngồi xuống đất nghỉ ngơi hồi phục MP, Đình Tấn tự trách bản thân thật sơ xuất. Chỉ vì quá kích động, hắn quên mất kỹ năng triệu hồi phải liên tục tiêu hao tinh thần lực để duy trì chống đỡ.
+
+Trong lúc nghỉ ngơi, Đình Tấn mở ra bảng thuộc tính kiểm tra thành quả hơn 4 giờ vừa qua:
+
+Tính danh: Đình Tấn (Hiển thị)
+
+Biệt danh: The Dawn (Ẩn)
+
+Tuổi: 23
+
+Chức nghiệp: Chưa chọn
+
+---- Thông số ----
+
+Lực lượng: 24
+
+Nhanh nhẹn: 20 
+
+Thể lực: 23
+
+Tinh thần: 34
+
+Điểm tự do: 5
+
+---- Chi tiết ----
+
+Level: 6
+
+HP: 460/460 (+0.69/s) 
+
+MP: 408/408 (+1.36/s)
+
+EXP: 540/1300
+
+Tốc độ tấn công: 0.9 lần/s 
+
+Tốc độ di chuyển: 2.2 m/s
+
+Sát thương vật lý: 24 – 32
+
+Sát thương phép thuật: 34 – 43
+
+Phòng thủ vật lý: 5.2
+
+Phòng thủ pháp thuật: 5.1
+
+Phụ trọng: 9/41kg (Cơ bản 5kg)
+
+May mắn: 0
+
+Thiên phú: 7
+
+Hiện tại bình quân đẳng cấp người chơi đều ở 2 – 3 cấp, một số nhóm người chơi chuyên nghiệp ở thời điểm hiện tại như Hoả Long, Xcalibur, DemonHunter… có thể nhỉnh hơn 1 – 2 cấp nữa. Đình Tấn một độc hành người chơi, nếu như không có kỹ thuật hay không ngộ được cách áp dụng kỹ năng ở hiện thực vào game thì có lẽ giờ đây hắn cũng chỉ quanh quẩn ở level 2 – 3.
+
+Đẳng cấp tăng cao đến hiện tại, ngoài trang bị một vũ khí cùng một chiếc Áo giáp tân thủ. Đình Tấn vẫn chưa có động chạm gì đến điểm chỉ số. Hắn muốn làm thêm một thử nghiệm, liệu tăng điểm chỉ số ở trong game thì hiện thực có thể gia tăng theo hay không? Thế nhưng hiện tại hắn vẫn chưa có cách nào để phán đoán hay phân biệt được cường độ tinh thần của mình. 
+
+Đình Tấn từng nghĩ đến việc triệu hồi Bộ xương chiến sĩ rồi tính giờ, thế nhưng điều này cũng không khả thi cho lắm vì hắn là ở tại một khu chung cư. Nếu triệu hồi hắn không bảo đảm sẽ xuất hiện dị tượng hoặc xung quanh lỡ có ai nhìn thấy hay không. Đình Tấn không muốn bị người bắt mang về một phòng thí nghiệm nào đó mổ xẻ, tra hỏi suốt 24/7.
+
+Liền Đình Tấn quyết định, sau này sẽ thử nghiệm sau. Hiện tại phải tăng lên thực lực tìm kiếm tiên cơ cho mình. Qua 2 giờ thử nghiệm Đình Tấn nhận ra rằng Anh Hùng chính là một bảo tàng mà những vị khoa học gia vĩ đại ấy tạo ra cho loài người. Hắn phải thật tốt lợi dụng được nó thực hiện mục tiêu của mình.
+
+Dùng 3 điểm tự do thêm vào tinh thần, hắn muốn mình có thể duy trì Bộ xương chiến sĩ tồn tại được lâu hơn. Đồng thời trong tâm trí hắn vẫn mơ tưởng có một ngày hắn đứng trên tường thành chỉ huy nghìn vạn quân đoàn vong linh chiến đấu với những con quái thú kinh khủng.
+
+Còn lại 2 điểm, Đình Tấn muốn giữ lại một chút phòng ngừa khi cần thiết. Nếu bất ngờ phát hiện cách đo lường tinh thần lực, hắn không ngại dùng ngay đến thí nghiệm.
+
+Ngay khi tăng lên 3 điểm tinh thần. Đình Tấn trong đầu truyền ra một trận mát mẻ, tê dại mà hắn cũng không nhịn được “Hư…” lên một tiếng.
+
+---- Thông số ----
+
+Lực lượng: 24
+
+Nhanh nhẹn: 20 
+
+Thể lực: 23
+
+Tinh thần: 37
+
+Điểm tự do: 2
+
+---- Chi tiết ----
+
+Level: 6
+
+HP: 460/460 (+0.69/s)
+
+MP: 444/444 (+1.48/s)
+
+EXP: 540/1300
+
+Tốc độ tấn công: 0.9 lần/s 
+
+Tốc d6T9dKnZ độ di chuyển: 2.2 m/s
+
+Sát thương vật lý: 24 – 32
+
+Sát thương phép thuật: 37 – 46
+
+Phòng thủ vật lý: 5.2
+
+Phòng thủ pháp thuật: 5.6
+
+Phụ trọng: 9/41kg (Cơ bản 5kg)
+
+May mắn: 0
+
+Thiên phú: 7
+
+Điểm chỉ số cũng không có quá nhiều thay đổi, Đình Tấn ngồi tại chỗ nghỉ ngơi phục hồi lại MP. Ngồi tại chỗ một hồi, tiện tay Đình Tấn bật lên giao diện balô. Bất chợt hắn phát hiện trong balô nhiều hơn hai túi vải. Lại nhớ đến khi hắn sử dụng được 2 kỹ năng, hệ thống có thưởng cho 2 phần túi bí kíp. 
+
+Tò mò Đình Tấn lựa chọn lấy ra xem xét. 
+
+Túi bí kíp 
+
+Chất lượng: Đặc biệt
+
+Yêu cầu: Không
+
+Vật phẩm thưởng cho chỉ có cơ hội đạt được khi làm nhiệm vụ. Mở ra sẽ được một phần ngẫu nhiên bí tịch.
+
+Ngạc nhiên, Đình Tấn không ngờ lại có thể nhận thưởng được đồ vật này. Hắn không biết liệu cho kỹ năng có thể hay không sử dụng ở ngoài hiện thực?
+
+Đình Tấn mở ra túi, hệ thống xuất hiện một vòng xoay. Vòng tròn không lớn đường kính chỉ gần 1m. Có khoảng 15 quyển sách đủ màu sắc nằm đều trên vòng tròn. Ở giữa có một nút tròn “Bắt đầu” được ghi lên phía trên bên cạnh là hình một mũi tên. Đình Tấn không do dự nhanh tay bấm chọn.
+
+Vòng xoay bắt đầu gia tốc, Đình Tấn trong lòng hồi hộp không biết sẽ chọn trúng được cái gì đây. Hầu như không tốn thời gian bao lâu, vòng xoay bắt đầu giảm tốc khá nhanh. Sau đó chầm chậm dừng lại, mũi tên hướng ngay một quyển sách chỉ đến.
+
+Âm thanh từ hệ thống vang lên nhắc nhở Đình Tấn:
+
+Keng! - Nhặt được Sách kỹ năng Cơ bắp cường hoá.
+
+Vội vàng mở balô ra xem, một quyển sách dầy cộm nằm trong balô. Đình Tấn lấy ra kiểm tra, bề ngoài quyển sách được bọc lại bằng một loại da dày, bóng loáng màu nâu đen không biết của động vật nào. Bốn góc dùng kim loại, khắc hoa văn giữ chặt lớp da. Tổng cộng chưa đến 20 trang nhưng rất dày đa phần do bìa da ở ngoài.
+
+Lật ra xem, quả thật cảm giác như Đình Tấn đang đọc sách ở hiện thực không khác mấy. Trang giấy màu vàng ố, cũ kỹ không biết từ niên đại nào. Màu mực đen tuyền, in rõ từng chữ latin theo phong cách cổ. Một vài trang có vài hình ảnh con người minh hoạ tư thế luyện tập. 
+
+Nghe tên Đình Tấn cũng đoán được đại khái sơ sơ nội dung. Đình Tấn bắt đầu xem miêu tả:
+
+- Cơ bắp cường hoá (Kỹ năng tu luyện)
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Phương thức tu luyện cơ bắp, cường hoá thể chất hiệu quả.
+
+Tiêu hao: không
+
+Hiệu quả: Hoàn thành một vòng tập luyện sẽ cường hoá 1 điểm thể lực cùng 1 điểm sức mạnh. Mỗi ngày giới hạn 5 lần. Thể chất vượt quá 150 điểm hiệu lực sẽ giảm đi 50%.
+
+Đình Tấn hơi thất vọng. Nếu mở được kỹ năng cường hoá tinh thần, đó mới là đối với hắn có đại trợ giúp. Cơ bắp này… Bất chợt Đình Tấn nghĩ ngay đến Terrell. 
+
+Đúng vậy, kế hoạch sắp tới của hắn sẽ là đi tìm Terrell. Lưu lại sau này Terrell chắc chắn có đại trợ giúp cho hắn. Cũng xem như là quà gặp mặt dụ dỗ hắn. Đình Tấn trong lòng thầm mỉm cười. Đã có quyết định, Đình Tấn cất đi quyển kỹ năng này vào balô. Sau đó lựa chọn mở ra túi bí kíp còn lại.
+
+Vòng tròn bắt đầu xoay quanh, một lúc sau. Một quyển sách nhỏ bí tịch lại xuất hiện ngay mũi tên. Âm thanh hệ thống không quên nhắc nhở Đình Tấn.
+
+Keng! – Nhặt được kỹ năng Tử vong màn che.
+
+Lấy ra quyển sách nhìn sơ qua, cũng khá giống với quyển kỹ năng trước đó. Tuy nhiên bìa da bên ngoài lần này lại là màu xám, trên bìa có khắc lấy một biểu tượng màn sương. Viền bốn góc kim loại bạc làm nó trông có vẻ cao cấp hơn hẳn Cơ bắp cường hoá một cấp bậc. Đồng thời cũng dày hơn Cơ bắp cường hoá một phân, lật xem kỹ thì có 34 trang đều nhau.
+
+Tử vong màn che
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Dùng phù hiệu và chú ngữ, triệu hồi không khí hắc ám từ dị không gian vong linh. Đầu độc làm suy yếu và che mắt kẻ địch trong một khu vực nhất định. (Vong linh, hắc ám sinh vật không bị ảnh hưởng)
+
+Tiêu hao: 1MP/m2/giây
+
+Hiệu quả: 
+
+- 1/ Đầu độc giảm 10% + (Tinh thần *0.001)% thuộc tính kẻ địch, tầm nhìn giảm xuống 10% + (Tinh thần *0.01)%
+
+- 2/ Triệu hồi hắc ám sinh vật đồng minh thuộc tính đề thăng 10% + (Tinh thần *0.01)%
+
+- 3/ Diện tích bao phủ (Tinh thần * 0.1) mét
+
+- Phụ trợ kỹ năng?!
+
+Xem xong giới thiệu kỹ năng, Đình Tấn trong lòng nghi vấn cùng ngạc nhiên. Không ngờ lại có thể bắt được một kỹ năng như vậy. Hắn tuy học triệu hồi sư chức nghiệp nhiều kỹ năng, nhưng đa số là triệu hồi sinh vật.
+
+- Triệu hồi “không khí”?! Cái này nghe có vẻ mới nha.
+
+Đình Tấn mỉm cười suy nghĩ, kỹ năng này tuy không có lực sát thương nhưng nếu phụ trợ cho vong linh đại quân của hắn sau này. Đây quả thật có thể nói là đo ni đóng giày cho hắn mà. Thỏa mãn, Đình Tấn lựa chọn học kỹ năng này ngay.
+
+Bất quá, vừa giơ tay lên lựa chọn học tập nhưng đột nhiên có gì đó loé lên trong đầu Đình Tấn làm hắn khựng tay lại giữa không trung.Keng! – Phát hiện người chơi tự chủ sử dụng kỹ năng “Triệu hoán Bộ xương chiến sĩ”, kỹ năng sẽ được tự động thêm vào.
+
+Chúc mừng ngài học được kỹ năng “Triệu hoán Bộ xương chiến sĩ”.
+
+Keng! – Chúc mừng ngài là người thứ hai học được kỹ năng. Tặng thưởng EXP + 800, điểm kỹ năng +1, túi bí kíp 1 phần.
+
+Keng! - Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 5 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Đình Tấn ngửa mặt lên trời cuồng tiếu. Từ bất ngờ này đến ngạc nhiên khác làm Đình Tấn trái tim khó kìm nén được sự kích động. Có được kỹ năng, có được sức mạnh, có được Anh Hùng trợ giúp tương lai của hắn có nhiều hơn nắm chắc.
+
+Liền tay gọi ra giao diện bảng kỹ năng. Lại một kỹ năng biểu tượng là hình ảnh thu nhỏ của Bộ xương chiến sĩ đứng nghiêng người xuất hiện ở ô đầu tiên cột bên trái. Tay run run, Đình Tấn bấm chọn vào biểu tượng đó trên giao diện.
+
+Triệu hồi: Bộ xương chiến sĩ
+
+Đẳng cấp: Hạ cấp
+
+Giới thiệu: Triệu hồi vong linh sinh vật Bộ xương chiến sĩ trợ giúp chiến đấu. Với ý thức và bản năng chiến đấu của một tên cường đại chiến sĩ, sức mạnh của một con quái thú và ý chí không sợ chết của sinh vật vong linh.
+
+Tiêu hao ma pháp: 45MP (Kéo dài tiêu hao 15MP/s)
+
+Hiệu quả:
+
+HP = Thể chất người triệu hồi x 25
+
+Sát thương vật lý thấp nhất = Tinh thần người triệu hồi
+
+Sát thương vật lý cao nhất = Tinh thần người triệu hồi x 1.1
+
+Phòng thủ vật lý = Sức mạnh người triệu hồi x 0.1
+
+Phòng thủ ma pháp = Tinh thần người triệu hồi x 0.05
+
+Số lượng triệu hồi cao nhất = Tinh thần người triệu hồi / 10
+
+Chỉ nhìn qua bề ngoài, Đình Tấn đã thấy con Bộ xương chiến sĩ này quả thật là “Tàn khốc đến ngây ngốc”. Bỏ xa mấy con phố những tên Bộ xương chiến sĩ rách rưới, ốm yếu trước kia hắn triệu hồi ra đến. Nhưng xem xong bảng kỹ năng, hắn quả thật muốn thét dài lên giải toả ra niềm kích động trong lòng.
+
+Bởi vì đây không chỉ là game, đây chính là dựa vào thông số đo lường trên thực tế mà làm ra game. Những kỹ năng này đều là có thật, mà họ, hàng nghìn nhà khoa học gia mà mỗi người so về độ thông minh đều không thấp hơn thậm chí có thể miểu sát hắn, phải bỏ ra gần 6 năm nghiên cứu để làm ra nó. Hắn đã hiểu ra, trước kia 2 năm tu luyện, hắn chỉ mới vừa là một tên học đồ thôi. Những thứ hắn mày mò mà học được đó, chưa bằng chỉ là một phần nhỏ của kho tàng trong bí tịch mà hắn phát hiện được.
+
+Hắn dám chắc rằng, chỉ một tên Bộ xương chiến sĩ này thôi cũng đủ chém giết với 6 tên Bộ xương chiến sĩ trước kia của hắn. Điều kiện để triệu hồi cũng quá hà khắc đi. Đình Tấn phải hoàn mỹ vẽ kí hiệu không được phép sai sót nào, chú ngữ cũng phải đọc theo một ngữ điệu chuẩn xác.
+
+Nghĩ lại những ký hiệu trước kia hắn vẽ hay cách đọc chú ngữ. Đình Tấn cảm khái lắc đầu thở dài. Nhưng lập tức hắn liền cổ vũ tinh thần chính mình:
+
+- Ta hôm nay làm được, ngay mai, ta có thể tiến bộ thêm một bước dài. Ta không tin với năng lực cùng sự cố gắng của mình mà lại không thể đi đến đỉnh phong.
+
+Chợt một trận choáng váng truyền đến đầu Đình Tấn. Hai mắt hoa lên, đầu nặng trịch. Đình Tấn loạn choạng, lấy lại thăng bằng đứng vững. Mặt mờ mịt không hiểu nguyên do.
+
+Ngay khi ánh mắt nhìn đến Bộ xương chiến sĩ đang đứng im bất động đưa lưng về phía mình, Đình Tấn kiểm tra lại thanh MP: 46/408. Chỉ còn một phần mười. Đình Tấn vội vàng giải trừ triệu hồi Bộ xương chiến sĩ, một vòng xoáy đen ngòm xuất hiện dưới chân Bộ xương chiến sĩ nhanh chóng hút nó vào.
+
+Đặt mông ngồi xuống đất nghỉ ngơi hồi phục MP, Đình Tấn tự trách bản thân thật sơ xuất. Chỉ vì quá kích động, hắn quên mất kỹ năng triệu hồi phải liên tục tiêu hao tinh thần lực để duy trì chống đỡ.
+
+Trong lúc nghỉ ngơi, Đình Tấn mở ra bảng thuộc tính kiểm tra thành quả hơn 4 giờ vừa qua:
+
+Tính danh: Đình Tấn (Hiển thị)
+
+Biệt danh: The Dawn (Ẩn)
+
+Tuổi: 23
+
+Chức nghiệp: Chưa chọn
+
+---- Thông số ----
+
+Lực lượng: 24
+
+Nhanh nhẹn: 20 
+
+Thể lực: 23
+
+Tinh thần: 34
+
+Điểm tự do: 5
+
+---- Chi tiết ----
+
+Level: 6
+
+HP: 460/460 (+0.69/s) 
+
+MP: 408/408 (+1.36/s)
+
+EXP: 540/1300
+
+Tốc độ tấn công: 0.9 lần/s 
+
+Tốc độ di chuyển: 2.2 m/s
+
+Sát thương vật lý: 24 – 32
+
+Sát thương phép thuật: 34 – 43
+
+Phòng thủ vật lý: 5.2
+
+Phòng thủ pháp thuật: 5.1
+
+Phụ trọng: 9/41kg (Cơ bản 5kg)
+
+May mắn: 0
+
+Thiên phú: 7
+
+Hiện tại bình quân đẳng cấp người chơi đều ở 2 – 3 cấp, một số nhóm người chơi chuyên nghiệp ở thời điểm hiện tại như Hoả Long, Xcalibur, DemonHunter… có thể nhỉnh hơn 1 – 2 cấp nữa. Đình Tấn một độc hành người chơi, nếu như không có kỹ thuật hay không ngộ được cách áp dụng kỹ năng ở hiện thực vào game thì có lẽ giờ đây hắn cũng chỉ quanh quẩn ở level 2 – 3.
+
+Đẳng cấp tăng cao đến hiện tại, ngoài trang bị một vũ khí cùng một chiếc Áo giáp tân thủ. Đình Tấn vẫn chưa có động chạm gì đến điểm chỉ số. Hắn muốn làm thêm một thử nghiệm, liệu tăng điểm chỉ số ở trong game thì hiện thực có thể gia tăng theo hay không? Thế nhưng hiện tại hắn vẫn chưa có cách nào để phán đoán hay phân biệt được cường độ tinh thần của mình. 
+
+Đình Tấn từng nghĩ đến việc triệu hồi Bộ xương chiến sĩ rồi tính giờ, thế nhưng điều này cũng không khả thi cho lắm vì hắn là ở tại một khu chung cư. Nếu triệu hồi hắn không bảo đảm sẽ xuất hiện dị tượng hoặc xung quanh lỡ có ai nhìn thấy hay không. Đình Tấn không muốn bị người bắt mang về một phòng thí nghiệm nào đó mổ xẻ, tra hỏi suốt 24/7.
+
+Liền Đình Tấn quyết định, sau này sẽ thử nghiệm sau. Hiện tại phải tăng lên thực lực tìm kiếm tiên cơ cho mình. Qua 2 giờ thử nghiệm Đình Tấn nhận ra rằng Anh Hùng chính là một bảo tàng mà những vị khoa học gia vĩ đại ấy tạo ra cho loài người. Hắn phải thật tốt lợi dụng được nó thực hiện mục tiêu của mình.
+
+Dùng 3 điểm tự do thêm vào tinh thần, hắn muốn mình có thể duy trì Bộ xương chiến sĩ tồn tại được lâu hơn. Đồng thời trong tâm trí hắn vẫn mơ tưởng có một ngày hắn đứng trên tường thành chỉ huy nghìn vạn quân đoàn vong linh chiến đấu với những con quái thú kinh khủng.
+
+Còn lại 2 điểm, Đình Tấn muốn giữ lại một chút phòng ngừa khi cần thiết. Nếu bất ngờ phát hiện cách đo lường tinh thần lực, hắn không ngại dùng ngay đến thí nghiệm.
+
+Ngay khi tăng lên 3 điểm tinh thần. Đình Tấn trong đầu truyền ra một trận mát mẻ, tê dại mà hắn cũng không nhịn được “Hư…” lên một tiếng.
+
+---- Thông số ----
+
+Lực lượng: 24
+
+Nhanh nhẹn: 20 
+
+Thể lực: 23
+
+Tinh thần: 37
+
+Điểm tự do: 2
+
+---- Chi tiết ----
+
+Level: 6
+
+HP: 460/460 (+0.69/s)
+
+MP: 444/444 (+1.48/s)
+
+EXP: 540/1300
+
+Tốc độ tấn công: 0.9 lần/s 
+
+Tốc d6T9dKnZ độ di chuyển: 2.2 m/s
+
+Sát thương vật lý: 24 – 32
+
+Sát thương phép thuật: 37 – 46
+
+Phòng thủ vật lý: 5.2
+
+Phòng thủ pháp thuật: 5.6
+
+Phụ trọng: 9/41kg (Cơ bản 5kg)
+
+May mắn: 0
+
+Thiên phú: 7
+
+Điểm chỉ số cũng không có quá nhiều thay đổi, Đình Tấn ngồi tại chỗ nghỉ ngơi phục hồi lại MP. Ngồi tại chỗ một hồi, tiện tay Đình Tấn bật lên giao diện balô. Bất chợt hắn phát hiện trong balô nhiều hơn hai túi vải. Lại nhớ đến khi hắn sử dụng được 2 kỹ năng, hệ thống có thưởng cho 2 phần túi bí kíp. 
+
+Tò mò Đình Tấn lựa chọn lấy ra xem xét. 
+
+Túi bí kíp 
+
+Chất lượng: Đặc biệt
+
+Yêu cầu: Không
+
+Vật phẩm thưởng cho chỉ có cơ hội đạt được khi làm nhiệm vụ. Mở ra sẽ được một phần ngẫu nhiên bí tịch.
+
+Ngạc nhiên, Đình Tấn không ngờ lại có thể nhận thưởng được đồ vật này. Hắn không biết liệu cho kỹ năng có thể hay không sử dụng ở ngoài hiện thực?
+
+Đình Tấn mở ra túi, hệ thống xuất hiện một vòng xoay. Vòng tròn không lớn đường kính chỉ gần 1m. Có khoảng 15 quyển sách đủ màu sắc nằm đều trên vòng tròn. Ở giữa có một nút tròn “Bắt đầu” được ghi lên phía trên bên cạnh là hình một mũi tên. Đình Tấn không do dự nhanh tay bấm chọn.
+
+Vòng xoay bắt đầu gia tốc, Đình Tấn trong lòng hồi hộp không biết sẽ chọn trúng được cái gì đây. Hầu như không tốn thời gian bao lâu, vòng xoay bắt đầu giảm tốc khá nhanh. Sau đó chầm chậm dừng lại, mũi tên hướng ngay một quyển sách chỉ đến.
+
+Âm thanh từ hệ thống vang lên nhắc nhở Đình Tấn:
+
+Keng! - Nhặt được Sách kỹ năng Cơ bắp cường hoá.
+
+Vội vàng mở balô ra xem, một quyển sách dầy cộm nằm trong balô. Đình Tấn lấy ra kiểm tra, bề ngoài quyển sách được bọc lại bằng một loại da dày, bóng loáng màu nâu đen không biết của động vật nào. Bốn góc dùng kim loại, khắc hoa văn giữ chặt lớp da. Tổng cộng chưa đến 20 trang nhưng rất dày đa phần do bìa da ở ngoài.
+
+Lật ra xem, quả thật cảm giác như Đình Tấn đang đọc sách ở hiện thực không khác mấy. Trang giấy màu vàng ố, cũ kỹ không biết từ niên đại nào. Màu mực đen tuyền, in rõ từng chữ latin theo phong cách cổ. Một vài trang có vài hình ảnh con người minh hoạ tư thế luyện tập. 
+
+Nghe tên Đình Tấn cũng đoán được đại khái sơ sơ nội dung. Đình Tấn bắt đầu xem miêu tả:
+
+- Cơ bắp cường hoá (Kỹ năng tu luyện)
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Phương thức tu luyện cơ bắp, cường hoá thể chất hiệu quả.
+
+Tiêu hao: không
+
+Hiệu quả: Hoàn thành một vòng tập luyện sẽ cường hoá 1 điểm thể lực cùng 1 điểm sức mạnh. Mỗi ngày giới hạn 5 lần. Thể chất vượt quá 150 điểm hiệu lực sẽ giảm đi 50%.
+
+Đình Tấn hơi thất vọng. Nếu mở được kỹ năng cường hoá tinh thần, đó mới là đối với hắn có đại trợ giúp. Cơ bắp này… Bất chợt Đình Tấn nghĩ ngay đến Terrell. 
+
+Đúng vậy, kế hoạch sắp tới của hắn sẽ là đi tìm Terrell. Lưu lại sau này Terrell chắc chắn có đại trợ giúp cho hắn. Cũng xem như là quà gặp mặt dụ dỗ hắn. Đình Tấn trong lòng thầm mỉm cười. Đã có quyết định, Đình Tấn cất đi quyển kỹ năng này vào balô. Sau đó lựa chọn mở ra túi bí kíp còn lại.
+
+Vòng tròn bắt đầu xoay quanh, một lúc sau. Một quyển sách nhỏ bí tịch lại xuất hiện ngay mũi tên. Âm thanh hệ thống không quên nhắc nhở Đình Tấn.
+
+Keng! – Nhặt được kỹ năng Tử vong màn che.
+
+Lấy ra quyển sách nhìn sơ qua, cũng khá giống với quyển kỹ năng trước đó. Tuy nhiên bìa da bên ngoài lần này lại là màu xám, trên bìa có khắc lấy một biểu tượng màn sương. Viền bốn góc kim loại bạc làm nó trông có vẻ cao cấp hơn hẳn Cơ bắp cường hoá một cấp bậc. Đồng thời cũng dày hơn Cơ bắp cường hoá một phân, lật xem kỹ thì có 34 trang đều nhau.
+
+Tử vong màn che
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Dùng phù hiệu và chú ngữ, triệu hồi không khí hắc ám từ dị không gian vong linh. Đầu độc làm suy yếu và che mắt kẻ địch trong một khu vực nhất định. (Vong linh, hắc ám sinh vật không bị ảnh hưởng)
+
+Tiêu hao: 1MP/m2/giây
+
+Hiệu quả: 
+
+- 1/ Đầu độc giảm 10% + (Tinh thần *0.001)% thuộc tính kẻ địch, tầm nhìn giảm xuống 10% + (Tinh thần *0.01)%
+
+- 2/ Triệu hồi hắc ám sinh vật đồng minh thuộc tính đề thăng 10% + (Tinh thần *0.01)%
+
+- 3/ Diện tích bao phủ (Tinh thần * 0.1) mét
+
+- Phụ trợ kỹ năng?!
+
+Xem xong giới thiệu kỹ năng, Đình Tấn trong lòng nghi vấn cùng ngạc nhiên. Không ngờ lại có thể bắt được một kỹ năng như vậy. Hắn tuy học triệu hồi sư chức nghiệp nhiều kỹ năng, nhưng đa số là triệu hồi sinh vật.
+
+- Triệu hồi “không khí”?! Cái này nghe có vẻ mới nha.
+
+Đình Tấn mỉm cười suy nghĩ, kỹ năng này tuy không có lực sát thương nhưng nếu phụ trợ cho vong linh đại quân của hắn sau này. Đây quả thật có thể nói là đo ni đóng giày cho hắn mà. Thỏa mãn, Đình Tấn lựa chọn học kỹ năng này ngay.
+
+Bất quá, vừa giơ tay lên lựa chọn học tập nhưng đột nhiên có gì đó loé lên trong đầu Đình Tấn làm hắn khựng tay lại giữa không trung.

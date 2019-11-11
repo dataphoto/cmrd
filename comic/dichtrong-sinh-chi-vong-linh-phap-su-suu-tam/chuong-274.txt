@@ -1,0 +1,337 @@
+Cách làm của những công ty này tuy rằng có thể tạm thời ngăn chặn người dùng tải ứng dụng từ kho phần mềm mà bọn họ cung cấp, thế nhưng điều đó cũng không thể áp dụng dài lâu được. 
+
+Bởi vì lúc nào cũng sẽ có một số chuyên gia tìm ra cách lách luật, sau đó tạo ra một phương pháp đơn giản nhất để thực hiện và chia sẻ rộng rãi cho mọi người, còn việc tính phí hay không thì nói sau.
+
+Chính vì điều đó mà những công ty công nghệ và phần mềm lớn này bắt đầu dời ánh mắt về phía tập đoàn [The Alliance].
+
+…
+
+Sau khi buổi đấu giá đã kết thúc được hơn 6 tiếng, thì ánh mặt trời cũng bắt đầu ló dạng ở trong thế giới Anh Hùng.
+
+Tại USA thành, trong một căn nhà cao 6 tầng được thuê mướn làm văn phòng cho công ty Apple, một người đàn ông trung niên đeo kính, hiện tại vẫn còn đang vò đầu, bứt tai để tìm cách giải quyết vấn đề về sự xuất hiện đột ngột của Ba Đậu Đậu.
+
+Hắn ta chỉ khoảng chừng 50 tuổi, đầu hơi hói với gương mặt già hơn đến gần 20 năm, so với tuổi tác thật của mình. Chắc có lẽ là do áp lực công việc kinh doanh quá lớn làm hắn bị lão hóa nhanh hơn.
+
+‘Reng reng…’
+
+Âm thanh tiếng chuông điện thoại vang lên bên tai, cắt ngang dòng suy nghĩ của hắn. 
+
+- “Thế nào rồi? Đã tìm ra được manh mối gì chưa?”
+
+Vội vàng đưa tay áp lên má nghe máy, câu đầu tiên hắn hỏi vẫn là câu nói mà trước đó hắn đã hỏi qua rất nhiều lần.
+
+- “Xin lỗi ngài Steve Cook. Chúng ta đã cố hết sức rồi nhưng chỉ mới vượt qua được lớp tường lửa thứ nhất thôi. Không biết đối phương có tổng cộng bao nhiêu lớp tường lửa nhưng mà trước mắt thì chúng ta đã bó tay với bức tường thứ hai này rồi.
+
+Còn cái phần mềm trí tuệ nhân tạo kia thì giống hệt như là được lập trình bằng một loại ngôn ngữ hoàn toàn mới vậy. Không hề có một điểm tương tự với bất cứ ngôn ngữ lập trình hiện hành nào ở thời điểm hiện tại. Muốn chúng ta hoàn toàn giải mã ra được thuật toán hoạt động của nó thì chắc phải tiêu tốn không dưới 8 tháng đâu thưa ngài.”
+
+Một giọng nói khàn khàn vang lên bên tai của người đàn ông trung niên tên Steve Cook này.
+
+Nghe trong giọng nói của đối phương dường như hơi sa sút, Steve Cook lập tức hiểu ra ngay tập đoàn [The Alliance] mới được thành lập không lâu này cũng không phải đơn giản như hắn vẫn tưởng tượng.
+
+Hắn ta nhanh chóng trấn an người ở phía bên kia đầu dây điện thoại.
+
+- “Không sao các ngươi cứ tiếp tục làm đi, chỉ cần tìm ra được thuật toán hoạt động của bộ phần mềm đó là được, ta có thể chi thêm gấp đôi tiền công...”
+
+Nhưng không chờ cho Steve Cook nói xong thì người kia đã chen lời, cắt ngang.
+
+- “Thú thật với ngài, lúc chúng ta tấn công vào lớp tường lửa thứ nhất, bọn họ còn không thèm ra tay làm ra bất cứ hành động phòng thủ nào nữa. Khởi đầu chúng ta rất muốn cho đám kiêu ngạo đó một bài học vì khinh địch, nhưng mà đến giờ ta mới hiểu, thực lực và trình độ kỹ thuật của đôi bên chênh lệch quá lớn.
+
+Người trong đội của ta đã hết cách rồi, nên sau khi thống nhất với cả đội thì ta gọi đến đây là để nói với ngài rằng, chúng ta muốn từ bỏ yêu cầu của ngài. 
+
+Một hồi nữa sẽ có người chuyển khoản lại toàn bộ số tiền mà ngài đã chuyển khoản trước đó, xem như lần này chúng ta làm việc miễn phí cho ngài.”
+
+Nói đoạn, người kia cũng không chờ cho Steve Cook có bất cứ phản ứng nào, lập tức cắt đứt kết nối điện thoại.
+
+Điều đó không khỏi làm cho Steve Cook có chút thẫn thờ nhìn vào hình chiếu giả lập giao diện của điện thoại trên lòng bàn tay mình.
+
+Người mà Steve Cook vừa nói chuyện chính là thủ lĩnh của băng [Mũ đen nước Mỹ] (Black Hat USA), một băng nhóm hacker tội phạm nổi tiếng trong thế giới ngầm của mạng internet của nước Mỹ. 
+
+Hắn và đồng bọn đã thành công đánh sập rất nhiều máy chủ của những công ty lớn, thậm chí bọn họ còn kiêu ngạo đến nỗi tấn công vào những ngân hàng lớn xuyên quốc gia cũng để trộm cắp một số tiền rất lớn.
+
+Vì không muốn liên lụy đến tập đoàn Apple, Steve Cook đã phải thuê mướn những người hacker này để tấn công vào máy chủ lưu trữ dữ liệu của Ba Đậu Đậu để ăn trộm thông tin. 
+
+Đồng thời cũng thực hiện công việc phân tích và giải mã gói phần mềm được cài đặt trên các thiết bị điện tử, để tìm ra được thuật toán hoạt động của bộ phần mềm trí tuệ nhân tạo này.
+
+Vậy mà không ngờ, một băng nhóm có thực lực mạnh mẽ và kiêu ngạo đến như vậy lại có thể thốt ra một câu ‘Thực lực chênh lệch quá lớn’. 
+
+Chẳng những thế mà bọn họ còn tình nguyện làm việc không công nữa, thì Steve Cook đã đủ hiểu được mình đã rơi vào trong một ngõ cụt không có phương hướng giải quyết.
+
+Thở dài một hơi, Steve Cook tắt đi điện thoại, hai tay ôm trán, trầm lặng suy nghĩ phương hướng giải quyết trước mắt.
+
+Một hồi lâu sau đó, dường như đã đưa ra quyết định cuối cùng, Steve Cook mở ra điện thoại, gọi cho thư ký của mình.
+
+- “Sắp xếp cho ta một cuộc hẹn với CEO của tập đoàn [The Alliance].”
+
+- “Vâng!”
+
+Chờ cho bên kia truyền ra tiếng trả lời của một cô gái, Steve Cook lập tức cúp máy rồi bắt đầu mở ra máy tính, tìm kiếm tất cả thông tin về tập đoàn [The Alliance] này.
+
+…
+
+Cùng lúc đó, ở những khu vực thành thị khác trong thế giới Anh Hùng cũng bắt đầu trở nên nhộn nhịp hơn, vì thời điểm hiện tại chính là giờ bắt đầu đi làm của những văn phòng công ty đã được chuyển dời vào game.
+
+Bất quá, cũng có một số người cả đêm không ngủ giống như trường hợp của Steve Cook. Một số ít trong những người này chính là giám đốc điều hành của các công ty công nghệ và phần mềm lớn, nổi tiếng trên thế giới.
+
+Tình thế của bọn họ đều giống hệt như Steve Cook, bởi vì sự xuất hiện bất thình lình của Ba Đậu Đậu mà làm cho cả tập đoàn bị rối loạn cả lên. Không ai biết nó từ đâu ra, cũng không ai biết là nó do ai khởi tạo hay nghiên cứu. Cứ như nó bỗng nhiên từ trên trời rơi xuống vậy.
+
+Chính vì sự đột ngột này mới làm cho bọn họ không kịp trở tay, tìm ra phương án giải quyết tối ưu. Một số người có thực lực mạnh mẽ như tập đoàn IBM, Samsung, Tencent đã thuê mướn hacker như Steve Cook hòng tìm bí mật của đối phương.
+
+Nhưng tất cả đều chỉ có một kết quả là thất bại thảm hại. Điều này làm cho phần lớn những tập đoàn này bắt đầu thay đổi thái độ, muốn tìm ra phương án giải quyết khác thay vì dùng thực lực trong chuyên ngành khoa học, kỹ thuật và công nghệ cao của bọn họ.
+
+Một vài người giống như Steve Cook, lựa chọn phương án giải quyết là liên hệ với người quản lý của [The Alliance] để thử bàn bạc phương án hợp tác cùng có lợi cho đôi bên.
+
+Số khác lại lựa chọn cách tiêu cực hơn, chính là vẫn tiếp tục sử dụng thủ đoạn công kích mạng lưới máy chủ của tập đoàn [The Alliance] nhằm ăn trộm thông tin và dữ liệu, tìm ra bí mật của Ba Đậu Đậu.
+
+Khả năng thành công của thủ đoạn trộm cướp này tuy rằng đã được báo trước là không cao, nhưng những người chủ quản tập đoàn đều tin chắc chỉ cần tập trung nhiều nhân lực hơn thì nhất định sẽ có thể làm được.
+
+Thực ra bọn họ không phải là không muốn hợp tác với [The Alliance], nhưng mà dù sao thì hiện tại, Ba Đậu Đậu vẫn còn chưa chính thức được tung ra thị trường. Cho nên bây giờ vẫn còn có cơ hội, thì những người này đều muốn thử một lần.
+
+Nếu quả thật có thể tìm ra bí mật trong bộ phần mềm trí tuệ nhân tạo này, bọn họ hoàn toàn có thể tự lập phát triển mà không cần phải chia chác lợi nhuận cho bất cứ ai.
+
+Thế mới nói, tiền tài có thể làm che mờ đi tầm nhìn của con người, dù rằng kẻ đó thông thái đến đâu đi chăng nữa.
+
+…
+
+Bất quá, những chuyện này Đình Tấn đều không hề hay biết gì. Vì lúc này hắn đang tập luyện để thi triển ra kỹ năng "Vận Phong Thuật" sau một đêm dài ròng rã ngồi nghiên cứu.
+
+Bởi vì trong game, khi tiến vào khu vực thành thị an toàn, ngoại trừ kỹ năng tu luyện thì người chơi không được phép sử dụng bất cứ kỹ năng nào khác nữa. Chính vì vậy mà Đình Tấn chỉ có thể chờ đợi cho trời sáng rồi nhanh chóng chuồn ra ngoài thành để thử nghiệm.
+
+Quả thực, mọi chuyện đều giống như người xưa thường nói, ‘Có học thì phải có hành’ mà học lý thuyết thì bao giờ cũng dễ dàng hơn là mang ra ngoài thực hành.
+
+Đình Tấn đã thử triệu hồi "Vận Phong Thuật" hơn 2 giờ đồng hồ mà vẫn chưa thể cảm nhận được cái nguyên tố thuộc tính [Phong] như trong bí kíp đã nói.
+
+Bỏ ra hơn 15 phút để cẩn thận nhớ lại từng câu chữ trong bí kíp đã nói, hắn lại bắt đầu một vòng mới thử triệu hồi kỹ năng "Vận Phong Thuật".
+
+Nhắm mắt, hít sâu một hơi, Đình Tấn dựa theo như những gì đã làm với "Bộc Lôi Thuật" để chậm rãi cảm nhận nguyên tố thuộc tính [Phong] trong không khí đang chảy vào TGqYcye khí quản của mình.
+
+‘Vù vù…’
+
+Một cơn gió thổi nhẹ qua người, tốc bay lên áo khoác và quần áo bên ngoài của hắn. Bất chợt, dường như nắm bắt được cái gì đó từ cơn gió kia, Đình Tấn vội vàng phóng ra tinh thần của mình, truy đuổi theo cơn gió đó.
+
+Keng! – Phát hiện người chơi tự chủ sử dụng kỹ năng "Vận Phong Thuật", kỹ năng sẽ được tự động thêm vào.
+
+Chúc mừng, ngài học được kỹ năng "Vận Phong Thuật". Xin chăm chỉ tu luyện tăng cường thực lực.Cách làm của những công ty này tuy rằng có thể tạm thời ngăn chặn người dùng tải ứng dụng từ kho phần mềm mà bọn họ cung cấp, thế nhưng điều đó cũng không thể áp dụng dài lâu được. 
+
+Bởi vì lúc nào cũng sẽ có một số chuyên gia tìm ra cách lách luật, sau đó tạo ra một phương pháp đơn giản nhất để thực hiện và chia sẻ rộng rãi cho mọi người, còn việc tính phí hay không thì nói sau.
+
+Chính vì điều đó mà những công ty công nghệ và phần mềm lớn này bắt đầu dời ánh mắt về phía tập đoàn [The Alliance].
+
+…
+
+Sau khi buổi đấu giá đã kết thúc được hơn 6 tiếng, thì ánh mặt trời cũng bắt đầu ló dạng ở trong thế giới Anh Hùng.
+
+Tại USA thành, trong một căn nhà cao 6 tầng được thuê mướn làm văn phòng cho công ty Apple, một người đàn ông trung niên đeo kính, hiện tại vẫn còn đang vò đầu, bứt tai để tìm cách giải quyết vấn đề về sự xuất hiện đột ngột của Ba Đậu Đậu.
+
+Hắn ta chỉ khoảng chừng 50 tuổi, đầu hơi hói với gương mặt già hơn đến gần 20 năm, so với tuổi tác thật của mình. Chắc có lẽ là do áp lực công việc kinh doanh quá lớn làm hắn bị lão hóa nhanh hơn.
+
+‘Reng reng…’
+
+Âm thanh tiếng chuông điện thoại vang lên bên tai, cắt ngang dòng suy nghĩ của hắn. 
+
+- “Thế nào rồi? Đã tìm ra được manh mối gì chưa?”
+
+Vội vàng đưa tay áp lên má nghe máy, câu đầu tiên hắn hỏi vẫn là câu nói mà trước đó hắn đã hỏi qua rất nhiều lần.
+
+- “Xin lỗi ngài Steve Cook. Chúng ta đã cố hết sức rồi nhưng chỉ mới vượt qua được lớp tường lửa thứ nhất thôi. Không biết đối phương có tổng cộng bao nhiêu lớp tường lửa nhưng mà trước mắt thì chúng ta đã bó tay với bức tường thứ hai này rồi.
+
+Còn cái phần mềm trí tuệ nhân tạo kia thì giống hệt như là được lập trình bằng một loại ngôn ngữ hoàn toàn mới vậy. Không hề có một điểm tương tự với bất cứ ngôn ngữ lập trình hiện hành nào ở thời điểm hiện tại. Muốn chúng ta hoàn toàn giải mã ra được thuật toán hoạt động của nó thì chắc phải tiêu tốn không dưới 8 tháng đâu thưa ngài.”
+
+Một giọng nói khàn khàn vang lên bên tai của người đàn ông trung niên tên Steve Cook này.
+
+Nghe trong giọng nói của đối phương dường như hơi sa sút, Steve Cook lập tức hiểu ra ngay tập đoàn [The Alliance] mới được thành lập không lâu này cũng không phải đơn giản như hắn vẫn tưởng tượng.
+
+Hắn ta nhanh chóng trấn an người ở phía bên kia đầu dây điện thoại.
+
+- “Không sao các ngươi cứ tiếp tục làm đi, chỉ cần tìm ra được thuật toán hoạt động của bộ phần mềm đó là được, ta có thể chi thêm gấp đôi tiền công...”
+
+Nhưng không chờ cho Steve Cook nói xong thì người kia đã chen lời, cắt ngang.
+
+- “Thú thật với ngài, lúc chúng ta tấn công vào lớp tường lửa thứ nhất, bọn họ còn không thèm ra tay làm ra bất cứ hành động phòng thủ nào nữa. Khởi đầu chúng ta rất muốn cho đám kiêu ngạo đó một bài học vì khinh địch, nhưng mà đến giờ ta mới hiểu, thực lực và trình độ kỹ thuật của đôi bên chênh lệch quá lớn.
+
+Người trong đội của ta đã hết cách rồi, nên sau khi thống nhất với cả đội thì ta gọi đến đây là để nói với ngài rằng, chúng ta muốn từ bỏ yêu cầu của ngài. 
+
+Một hồi nữa sẽ có người chuyển khoản lại toàn bộ số tiền mà ngài đã chuyển khoản trước đó, xem như lần này chúng ta làm việc miễn phí cho ngài.”
+
+Nói đoạn, người kia cũng không chờ cho Steve Cook có bất cứ phản ứng nào, lập tức cắt đứt kết nối điện thoại.
+
+Điều đó không khỏi làm cho Steve Cook có chút thẫn thờ nhìn vào hình chiếu giả lập giao diện của điện thoại trên lòng bàn tay mình.
+
+Người mà Steve Cook vừa nói chuyện chính là thủ lĩnh của băng [Mũ đen nước Mỹ] (Black Hat USA), một băng nhóm hacker tội phạm nổi tiếng trong thế giới ngầm của mạng internet của nước Mỹ. 
+
+Hắn và đồng bọn đã thành công đánh sập rất nhiều máy chủ của những công ty lớn, thậm chí bọn họ còn kiêu ngạo đến nỗi tấn công vào những ngân hàng lớn xuyên quốc gia cũng để trộm cắp một số tiền rất lớn.
+
+Vì không muốn liên lụy đến tập đoàn Apple, Steve Cook đã phải thuê mướn những người hacker này để tấn công vào máy chủ lưu trữ dữ liệu của Ba Đậu Đậu để ăn trộm thông tin. 
+
+Đồng thời cũng thực hiện công việc phân tích và giải mã gói phần mềm được cài đặt trên các thiết bị điện tử, để tìm ra được thuật toán hoạt động của bộ phần mềm trí tuệ nhân tạo này.
+
+Vậy mà không ngờ, một băng nhóm có thực lực mạnh mẽ và kiêu ngạo đến như vậy lại có thể thốt ra một câu ‘Thực lực chênh lệch quá lớn’. 
+
+Chẳng những thế mà bọn họ còn tình nguyện làm việc không công nữa, thì Steve Cook đã đủ hiểu được mình đã rơi vào trong một ngõ cụt không có phương hướng giải quyết.
+
+Thở dài một hơi, Steve Cook tắt đi điện thoại, hai tay ôm trán, trầm lặng suy nghĩ phương hướng giải quyết trước mắt.
+
+Một hồi lâu sau đó, dường như đã đưa ra quyết định cuối cùng, Steve Cook mở ra điện thoại, gọi cho thư ký của mình.
+
+- “Sắp xếp cho ta một cuộc hẹn với CEO của tập đoàn [The Alliance].”
+
+- “Vâng!”
+
+Chờ cho bên kia truyền ra tiếng trả lời của một cô gái, Steve Cook lập tức cúp máy rồi bắt đầu mở ra máy tính, tìm kiếm tất cả thông tin về tập đoàn [The Alliance] này.
+
+…
+
+Cùng lúc đó, ở những khu vực thành thị khác trong thế giới Anh Hùng cũng bắt đầu trở nên nhộn nhịp hơn, vì thời điểm hiện tại chính là giờ bắt đầu đi làm của những văn phòng công ty đã được chuyển dời vào game.
+
+Bất quá, cũng có một số người cả đêm không ngủ giống như trường hợp của Steve Cook. Một số ít trong những người này chính là giám đốc điều hành của các công ty công nghệ và phần mềm lớn, nổi tiếng trên thế giới.
+
+Tình thế của bọn họ đều giống hệt như Steve Cook, bởi vì sự xuất hiện bất thình lình của Ba Đậu Đậu mà làm cho cả tập đoàn bị rối loạn cả lên. Không ai biết nó từ đâu ra, cũng không ai biết là nó do ai khởi tạo hay nghiên cứu. Cứ như nó bỗng nhiên từ trên trời rơi xuống vậy.
+
+Chính vì sự đột ngột này mới làm cho bọn họ không kịp trở tay, tìm ra phương án giải quyết tối ưu. Một số người có thực lực mạnh mẽ như tập đoàn IBM, Samsung, Tencent đã thuê mướn hacker như Steve Cook hòng tìm bí mật của đối phương.
+
+Nhưng tất cả đều chỉ có một kết quả là thất bại thảm hại. Điều này làm cho phần lớn những tập đoàn này bắt đầu thay đổi thái độ, muốn tìm ra phương án giải quyết khác thay vì dùng thực lực trong chuyên ngành khoa học, kỹ thuật và công nghệ cao của bọn họ.
+
+Một vài người giống như Steve Cook, lựa chọn phương án giải quyết là liên hệ với người quản lý của [The Alliance] để thử bàn bạc phương án hợp tác cùng có lợi cho đôi bên.
+
+Số khác lại lựa chọn cách tiêu cực hơn, chính là vẫn tiếp tục sử dụng thủ đoạn công kích mạng lưới máy chủ của tập đoàn [The Alliance] nhằm ăn trộm thông tin và dữ liệu, tìm ra bí mật của Ba Đậu Đậu.
+
+Khả năng thành công của thủ đoạn trộm cướp này tuy rằng đã được báo trước là không cao, nhưng những người chủ quản tập đoàn đều tin chắc chỉ cần tập trung nhiều nhân lực hơn thì nhất định sẽ có thể làm được.
+
+Thực ra bọn họ không phải là không muốn hợp tác với [The Alliance], nhưng mà dù sao thì hiện tại, Ba Đậu Đậu vẫn còn chưa chính thức được tung ra thị trường. Cho nên bây giờ vẫn còn có cơ hội, thì những người này đều muốn thử một lần.
+
+Nếu quả thật có thể tìm ra bí mật trong bộ phần mềm trí tuệ nhân tạo này, bọn họ hoàn toàn có thể tự lập phát triển mà không cần phải chia chác lợi nhuận cho bất cứ ai.
+
+Thế mới nói, tiền tài có thể làm che mờ đi tầm nhìn của con người, dù rằng kẻ đó thông thái đến đâu đi chăng nữa.
+
+…
+
+Bất quá, những chuyện này Đình Tấn đều không hề hay biết gì. Vì lúc này hắn đang tập luyện để thi triển ra kỹ năng "Vận Phong Thuật" sau một đêm dài ròng rã ngồi nghiên cứu.
+
+Bởi vì trong game, khi tiến vào khu vực thành thị an toàn, ngoại trừ kỹ năng tu luyện thì người chơi không được phép sử dụng bất cứ kỹ năng nào khác nữa. Chính vì vậy mà Đình Tấn chỉ có thể chờ đợi cho trời sáng rồi nhanh chóng chuồn ra ngoài thành để thử nghiệm.
+
+Quả thực, mọi chuyện đều giống như người xưa thường nói, ‘Có học thì phải có hành’ mà học lý thuyết thì bao giờ cũng dễ dàng hơn là mang ra ngoài thực hành.
+
+Đình Tấn đã thử triệu hồi "Vận Phong Thuật" hơn 2 giờ đồng hồ mà vẫn chưa thể cảm nhận được cái nguyên tố thuộc tính [Phong] như trong bí kíp đã nói.
+
+Bỏ ra hơn 15 phút để cẩn thận nhớ lại từng câu chữ trong bí kíp đã nói, hắn lại bắt đầu một vòng mới thử triệu hồi kỹ năng "Vận Phong Thuật".
+
+Nhắm mắt, hít sâu một hơi, Đình Tấn dựa theo như những gì đã làm với "Bộc Lôi Thuật" để chậm rãi cảm nhận nguyên tố thuộc tính [Phong] trong không khí đang chảy vào TGqYcye khí quản của mình.
+
+‘Vù vù…’
+
+Một cơn gió thổi nhẹ qua người, tốc bay lên áo khoác và quần áo bên ngoài của hắn. Bất chợt, dường như nắm bắt được cái gì đó từ cơn gió kia, Đình Tấn vội vàng phóng ra tinh thần của mình, truy đuổi theo cơn gió đó.
+
+Keng! – Phát hiện người chơi tự chủ sử dụng kỹ năng "Vận Phong Thuật", kỹ năng sẽ được tự động thêm vào.
+
+Chúc mừng, ngài học được kỹ năng "Vận Phong Thuật". Xin chăm chỉ tu luyện tăng cường thực lực.Cách làm của những công ty này tuy rằng có thể tạm thời ngăn chặn người dùng tải ứng dụng từ kho phần mềm mà bọn họ cung cấp, thế nhưng điều đó cũng không thể áp dụng dài lâu được. 
+
+Bởi vì lúc nào cũng sẽ có một số chuyên gia tìm ra cách lách luật, sau đó tạo ra một phương pháp đơn giản nhất để thực hiện và chia sẻ rộng rãi cho mọi người, còn việc tính phí hay không thì nói sau.
+
+Chính vì điều đó mà những công ty công nghệ và phần mềm lớn này bắt đầu dời ánh mắt về phía tập đoàn [The Alliance].
+
+…
+
+Sau khi buổi đấu giá đã kết thúc được hơn 6 tiếng, thì ánh mặt trời cũng bắt đầu ló dạng ở trong thế giới Anh Hùng.
+
+Tại USA thành, trong một căn nhà cao 6 tầng được thuê mướn làm văn phòng cho công ty Apple, một người đàn ông trung niên đeo kính, hiện tại vẫn còn đang vò đầu, bứt tai để tìm cách giải quyết vấn đề về sự xuất hiện đột ngột của Ba Đậu Đậu.
+
+Hắn ta chỉ khoảng chừng 50 tuổi, đầu hơi hói với gương mặt già hơn đến gần 20 năm, so với tuổi tác thật của mình. Chắc có lẽ là do áp lực công việc kinh doanh quá lớn làm hắn bị lão hóa nhanh hơn.
+
+‘Reng reng…’
+
+Âm thanh tiếng chuông điện thoại vang lên bên tai, cắt ngang dòng suy nghĩ của hắn. 
+
+- “Thế nào rồi? Đã tìm ra được manh mối gì chưa?”
+
+Vội vàng đưa tay áp lên má nghe máy, câu đầu tiên hắn hỏi vẫn là câu nói mà trước đó hắn đã hỏi qua rất nhiều lần.
+
+- “Xin lỗi ngài Steve Cook. Chúng ta đã cố hết sức rồi nhưng chỉ mới vượt qua được lớp tường lửa thứ nhất thôi. Không biết đối phương có tổng cộng bao nhiêu lớp tường lửa nhưng mà trước mắt thì chúng ta đã bó tay với bức tường thứ hai này rồi.
+
+Còn cái phần mềm trí tuệ nhân tạo kia thì giống hệt như là được lập trình bằng một loại ngôn ngữ hoàn toàn mới vậy. Không hề có một điểm tương tự với bất cứ ngôn ngữ lập trình hiện hành nào ở thời điểm hiện tại. Muốn chúng ta hoàn toàn giải mã ra được thuật toán hoạt động của nó thì chắc phải tiêu tốn không dưới 8 tháng đâu thưa ngài.”
+
+Một giọng nói khàn khàn vang lên bên tai của người đàn ông trung niên tên Steve Cook này.
+
+Nghe trong giọng nói của đối phương dường như hơi sa sút, Steve Cook lập tức hiểu ra ngay tập đoàn [The Alliance] mới được thành lập không lâu này cũng không phải đơn giản như hắn vẫn tưởng tượng.
+
+Hắn ta nhanh chóng trấn an người ở phía bên kia đầu dây điện thoại.
+
+- “Không sao các ngươi cứ tiếp tục làm đi, chỉ cần tìm ra được thuật toán hoạt động của bộ phần mềm đó là được, ta có thể chi thêm gấp đôi tiền công...”
+
+Nhưng không chờ cho Steve Cook nói xong thì người kia đã chen lời, cắt ngang.
+
+- “Thú thật với ngài, lúc chúng ta tấn công vào lớp tường lửa thứ nhất, bọn họ còn không thèm ra tay làm ra bất cứ hành động phòng thủ nào nữa. Khởi đầu chúng ta rất muốn cho đám kiêu ngạo đó một bài học vì khinh địch, nhưng mà đến giờ ta mới hiểu, thực lực và trình độ kỹ thuật của đôi bên chênh lệch quá lớn.
+
+Người trong đội của ta đã hết cách rồi, nên sau khi thống nhất với cả đội thì ta gọi đến đây là để nói với ngài rằng, chúng ta muốn từ bỏ yêu cầu của ngài. 
+
+Một hồi nữa sẽ có người chuyển khoản lại toàn bộ số tiền mà ngài đã chuyển khoản trước đó, xem như lần này chúng ta làm việc miễn phí cho ngài.”
+
+Nói đoạn, người kia cũng không chờ cho Steve Cook có bất cứ phản ứng nào, lập tức cắt đứt kết nối điện thoại.
+
+Điều đó không khỏi làm cho Steve Cook có chút thẫn thờ nhìn vào hình chiếu giả lập giao diện của điện thoại trên lòng bàn tay mình.
+
+Người mà Steve Cook vừa nói chuyện chính là thủ lĩnh của băng [Mũ đen nước Mỹ] (Black Hat USA), một băng nhóm hacker tội phạm nổi tiếng trong thế giới ngầm của mạng internet của nước Mỹ. 
+
+Hắn và đồng bọn đã thành công đánh sập rất nhiều máy chủ của những công ty lớn, thậm chí bọn họ còn kiêu ngạo đến nỗi tấn công vào những ngân hàng lớn xuyên quốc gia cũng để trộm cắp một số tiền rất lớn.
+
+Vì không muốn liên lụy đến tập đoàn Apple, Steve Cook đã phải thuê mướn những người hacker này để tấn công vào máy chủ lưu trữ dữ liệu của Ba Đậu Đậu để ăn trộm thông tin. 
+
+Đồng thời cũng thực hiện công việc phân tích và giải mã gói phần mềm được cài đặt trên các thiết bị điện tử, để tìm ra được thuật toán hoạt động của bộ phần mềm trí tuệ nhân tạo này.
+
+Vậy mà không ngờ, một băng nhóm có thực lực mạnh mẽ và kiêu ngạo đến như vậy lại có thể thốt ra một câu ‘Thực lực chênh lệch quá lớn’. 
+
+Chẳng những thế mà bọn họ còn tình nguyện làm việc không công nữa, thì Steve Cook đã đủ hiểu được mình đã rơi vào trong một ngõ cụt không có phương hướng giải quyết.
+
+Thở dài một hơi, Steve Cook tắt đi điện thoại, hai tay ôm trán, trầm lặng suy nghĩ phương hướng giải quyết trước mắt.
+
+Một hồi lâu sau đó, dường như đã đưa ra quyết định cuối cùng, Steve Cook mở ra điện thoại, gọi cho thư ký của mình.
+
+- “Sắp xếp cho ta một cuộc hẹn với CEO của tập đoàn [The Alliance].”
+
+- “Vâng!”
+
+Chờ cho bên kia truyền ra tiếng trả lời của một cô gái, Steve Cook lập tức cúp máy rồi bắt đầu mở ra máy tính, tìm kiếm tất cả thông tin về tập đoàn [The Alliance] này.
+
+…
+
+Cùng lúc đó, ở những khu vực thành thị khác trong thế giới Anh Hùng cũng bắt đầu trở nên nhộn nhịp hơn, vì thời điểm hiện tại chính là giờ bắt đầu đi làm của những văn phòng công ty đã được chuyển dời vào game.
+
+Bất quá, cũng có một số người cả đêm không ngủ giống như trường hợp của Steve Cook. Một số ít trong những người này chính là giám đốc điều hành của các công ty công nghệ và phần mềm lớn, nổi tiếng trên thế giới.
+
+Tình thế của bọn họ đều giống hệt như Steve Cook, bởi vì sự xuất hiện bất thình lình của Ba Đậu Đậu mà làm cho cả tập đoàn bị rối loạn cả lên. Không ai biết nó từ đâu ra, cũng không ai biết là nó do ai khởi tạo hay nghiên cứu. Cứ như nó bỗng nhiên từ trên trời rơi xuống vậy.
+
+Chính vì sự đột ngột này mới làm cho bọn họ không kịp trở tay, tìm ra phương án giải quyết tối ưu. Một số người có thực lực mạnh mẽ như tập đoàn IBM, Samsung, Tencent đã thuê mướn hacker như Steve Cook hòng tìm bí mật của đối phương.
+
+Nhưng tất cả đều chỉ có một kết quả là thất bại thảm hại. Điều này làm cho phần lớn những tập đoàn này bắt đầu thay đổi thái độ, muốn tìm ra phương án giải quyết khác thay vì dùng thực lực trong chuyên ngành khoa học, kỹ thuật và công nghệ cao của bọn họ.
+
+Một vài người giống như Steve Cook, lựa chọn phương án giải quyết là liên hệ với người quản lý của [The Alliance] để thử bàn bạc phương án hợp tác cùng có lợi cho đôi bên.
+
+Số khác lại lựa chọn cách tiêu cực hơn, chính là vẫn tiếp tục sử dụng thủ đoạn công kích mạng lưới máy chủ của tập đoàn [The Alliance] nhằm ăn trộm thông tin và dữ liệu, tìm ra bí mật của Ba Đậu Đậu.
+
+Khả năng thành công của thủ đoạn trộm cướp này tuy rằng đã được báo trước là không cao, nhưng những người chủ quản tập đoàn đều tin chắc chỉ cần tập trung nhiều nhân lực hơn thì nhất định sẽ có thể làm được.
+
+Thực ra bọn họ không phải là không muốn hợp tác với [The Alliance], nhưng mà dù sao thì hiện tại, Ba Đậu Đậu vẫn còn chưa chính thức được tung ra thị trường. Cho nên bây giờ vẫn còn có cơ hội, thì những người này đều muốn thử một lần.
+
+Nếu quả thật có thể tìm ra bí mật trong bộ phần mềm trí tuệ nhân tạo này, bọn họ hoàn toàn có thể tự lập phát triển mà không cần phải chia chác lợi nhuận cho bất cứ ai.
+
+Thế mới nói, tiền tài có thể làm che mờ đi tầm nhìn của con người, dù rằng kẻ đó thông thái đến đâu đi chăng nữa.
+
+…
+
+Bất quá, những chuyện này Đình Tấn đều không hề hay biết gì. Vì lúc này hắn đang tập luyện để thi triển ra kỹ năng "Vận Phong Thuật" sau một đêm dài ròng rã ngồi nghiên cứu.
+
+Bởi vì trong game, khi tiến vào khu vực thành thị an toàn, ngoại trừ kỹ năng tu luyện thì người chơi không được phép sử dụng bất cứ kỹ năng nào khác nữa. Chính vì vậy mà Đình Tấn chỉ có thể chờ đợi cho trời sáng rồi nhanh chóng chuồn ra ngoài thành để thử nghiệm.
+
+Quả thực, mọi chuyện đều giống như người xưa thường nói, ‘Có học thì phải có hành’ mà học lý thuyết thì bao giờ cũng dễ dàng hơn là mang ra ngoài thực hành.
+
+Đình Tấn đã thử triệu hồi "Vận Phong Thuật" hơn 2 giờ đồng hồ mà vẫn chưa thể cảm nhận được cái nguyên tố thuộc tính [Phong] như trong bí kíp đã nói.
+
+Bỏ ra hơn 15 phút để cẩn thận nhớ lại từng câu chữ trong bí kíp đã nói, hắn lại bắt đầu một vòng mới thử triệu hồi kỹ năng "Vận Phong Thuật".
+
+Nhắm mắt, hít sâu một hơi, Đình Tấn dựa theo như những gì đã làm với "Bộc Lôi Thuật" để chậm rãi cảm nhận nguyên tố thuộc tính [Phong] trong không khí đang chảy vào TGqYcye khí quản của mình.
+
+‘Vù vù…’
+
+Một cơn gió thổi nhẹ qua người, tốc bay lên áo khoác và quần áo bên ngoài của hắn. Bất chợt, dường như nắm bắt được cái gì đó từ cơn gió kia, Đình Tấn vội vàng phóng ra tinh thần của mình, truy đuổi theo cơn gió đó.
+
+Keng! – Phát hiện người chơi tự chủ sử dụng kỹ năng "Vận Phong Thuật", kỹ năng sẽ được tự động thêm vào.
+
+Chúc mừng, ngài học được kỹ năng "Vận Phong Thuật". Xin chăm chỉ tu luyện tăng cường thực lực.

@@ -1,0 +1,525 @@
+Chương 3: Trả tiền vô liêm sỉ
+ 
+ 	Vui vẻ Lý Hoài Lâm lần nữa đi tới Tân Thủ Thôn thôn trưởng trước mặt của , hiện tại Lý Hoài Lâm tâm tình tốt , nhìn cái này Hôi Hồ tử lão đầu cũng hơi chút cảm thấy có chút nổi bật lên vẻ dễ thương .
+ 
+ 	"Lão đầu , nhiệm vụ của ngươi ta hoàn thành ." Lý Hoài Lâm vui vẻ nói ra .
+ 
+ 	"Tương lai dũng sĩ , ngươi quả nhiên không phụ ta chờ mong , vết thương chứng kiến của ngươi anh dũng , đây là của ngươi này ban thưởng ." Hôi Hồ tử thôn trưởng liên miên bất tận hồi đáp .
+ 
+ 	Gợi ý của hệ thống: Hoàn thành cấp E nhiệm vụ , tiêu diệt màu đen Slime , khấu trừ kinh nghiệm 200 , khấu trừ tiền đồng 10 .
+ 
+ 	"Chà mẹ nó !" Lý Hoài Lâm trong nháy mắt sụp đổ , vì cái gì nộp nhiệm vụ còn phải khấu trừ 200 kinh nghiệm 10 khối tiền đồng ah . Nhìn nhìn kinh nghiệm của mình đầu quả nhiên biến thành -250 :500 , trong ba lô vốn đánh Slime nhặt được 13 cá tiền đồng , hiện tại biến thành 3 cá rồi.
+ 
+ 	Kinh nghiệm ngược lại là được rồi, phản chính tự mình cũng là chịu , hơn nữa chết mấy lần sẽ trở lại rồi, số tiền này liền khó chịu a, mình thật vất vả có mấy đồng tiền , dễ dàng ấy ư, thoáng cái lấy đi 10 cá .
+ 
+ 	"Tinh trùng lên não , rõ ràng đoạt lão tử tiền !" Lý Hoài Lâm cũng không quản đối phương là NPC vẫn là cái gì , trực tiếp một tay xách ở thôn trưởng cổ áo của , "Trả tiền , vô liêm sỉ !"
+ 
+ 	"Chuyện gì xảy ra?" Chung quanh một vòng mới tân thủ ngoạn gia cũng có chút kỳ quái , bọn họ đều còn chuẩn bị nhận nhiệm vụ đâu rồi, không nghĩ tới bên này có một người chơi giống như muốn đánh thôn trưởng tự đắc , có chút kỳ quái vây quanh .
+ 
+ 	Bên này thôn trưởng đến lúc đó không chút hoang mang đấy, tiếp tục lặp lại lời của mình: "Dũng sĩ , ta bên này tạm thời đã không có nhiệm vụ cho ngươi , bất quá ta nghe nói người trong thôn thợ rèn cùng thợ may giống như cần muốn giúp đỡ , ngươi có thể cùng bọn hắn nói chuyện ."
+ 
+ 	"Đàm con em ngươi a, trả ta tiền ." Lý Hoài Lâm tiếp tục lôi kéo thôn trưởng cổ áo của nói nói: " nếu không đưa ta đánh ngươi ah ."
+ 
+ 	"Hắn giống như muốn đánh thôn trưởng a, chuyện gì xảy ra?" Bên cạnh vây xem người chơi cũng là có chút điểm kỳ quái .
+ 
+ 	"Ha ha , ngươi này liền không hiểu được đi." Một bên một cái người chơi giống như đã minh bạch cái gì , bắt đầu tự thẳng phân tích mà bắt đầu..., "《 Vinh Diệu Chi Tâm 》 nhưng là có ẩn tàng nhiệm vụ đấy, ngươi xem một chút game thủ này , hắn nhất định là muốn tiếp thôn trưởng ẩn tàng nhiệm vụ , cho nên lại nghĩ biện pháp thử ."
+ 
+ 	"Há, là như thế này ah ." Chung quanh người chơi gật gật đầu , rõ ràng đã tiếp nhận cái này giải thích .
+ 
+ 	"Stop đê.. ..." Theo một tiếng khinh thường thanh âm , mười cái người chơi theo phía sau bọn họ đi ra , này mười cái Vạn gia xem xét tựu là cùng nhau chơi đùa đấy, hơn nữa mặc dù chỉ là tại Tân Thủ Thôn , nhưng là trên người bọn họ trang bị đầy đủ hết , dẫn đầu là một 30 tuổi trở ra nam tử trung niên , trên người của hắn khôi giáp hiện ra nhàn nhạt màu xanh , lại là một kiện Thanh Đồng trang bị , tại Tân Thủ Thôn có thể [cầm] bắt được Thanh Đồng trang bị người chơi , nhất định là công hội người chơi , công hội cùng một chỗ đánh cho BOSS mới có thể cầm được Thanh Đồng trang bị đấy, người bình thường muốn từ nhỏ quái ra Thanh Đồng trang , tỷ lệ quá xa vời .
+ 
+ 	"Là hắn như vậy còn muốn gây ra ẩn tàng nhiệm vụ , nói đùa sao , chúng ta Linh Giới Công Hội nhiều người như vậy , biện pháp gì đều thử qua , cũng không còn gây ra cái gì ẩn tàng nhiệm vụ ." Dẫn đầu nam nhân nói , "Các ngươi chờ xem kịch vui đi, này tân thủ thôn thôn trưởng dường như là level 30 trở lên NPC , nhân vật mới thoáng một phát giây một cái , các ngươi tựu đợi đến hắn bị giây đi."
+ 
+ 	"Linh Giới Công Hội đấy..." Người chung quanh rối loạn tưng bừng , bất quá lập tức đều tin người nam nhân này nói lời , bởi vì Linh Giới Công Hội công tín lực , đó là thật thật đấy.
+ 
+ 	"Ngươi lại cùng lão tử thư xác nhận , ta thật sự đánh ngươi ah ." Bên này Lý Hoài Lâm không có chú ý sau lưng người vây xem , tiếp tục uy hiếp thôn trưởng .
+ 
+ 	"Dũng sĩ , ta bên này tạm thời đã không có nhiệm vụ cho ngươi ..." Hôi Hồ tử thôn trưởng quả nhiên vẫn là chỉ biết nói hai câu , không có gì ngoài ý muốn .
+ 
+ 	"Cho thể diện mà không cần ." Lý Hoài Lâm không nói hai lời , giơ lên nảy sinh tay phải của mình , đối với thôn trưởng mặt của tựu là một quyền .
+ 
+ 	-2
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 20 . Trước mắt độ thiện cảm , thân mật .
+ 
+ 	"Chà mẹ nó !" Lý Hoài Lâm bị gợi ý của hệ thống lần nữa chấn kinh rồi .
+ 
+ 	"Hắn thật sự công kích ah !" Người chung quanh lập tức náo nhiệt , mỗi một cái đều là chờ xem kịch vui biểu lộ .
+ 
+ 	Một giây đồng hồ trôi qua , hai giây trôi qua , rất nhanh mười giây đồng hồ đã trôi qua rồi , tràng diện rất yên tĩnh , không có cái gì phát sinh , rất nhanh sẽ có người phát hiện không đúng .
+ 
+ 	"Chuyện gì xảy ra? Như thế nào thôn trưởng không trả kích à?" Một cái người chơi hỏi.
+ 
+ 	"Đúng vậy , ta tận mắt thấy có người công kích thôn trưởng bị miểu sát đó a , vì cái gì thôn trưởng không đánh trả ah ."
+ 
+ 	Bên này Linh Giới Công Hội nhân cũng là ngây ngẩn cả người , đây là WTF .
+ 
+ 	Sau đó tình huống càng làm cho người sụp đổ , vốn vị trưởng thôn này đối đãi cái kia người chơi còn là một bộ giày bản mặt , hoàn toàn không lộ vẻ gì đấy, nhưng là đã trúng một quyền về sau , rõ ràng còn mang tới một cổ dáng tươi cười .
+ 
+ 	"Dũng sĩ , là ngươi a, trông thấy ngươi thật tốt quá , ta nghe nói thợ rèn cùng thợ may có nhiệm vụ muốn giao cho ngươi , có thể làm phiền ngươi đi xem sao?" Thôn trưởng một bên mỉm cười vừa hướng Lý Hoài Lâm nói ra .
+ 
+ 	"Chà mẹ nó , người thôn trưởng này bị coi thường sao? Người khác đánh hắn hắn còn khuôn mặt tươi cười đón chào đấy, là có bệnh sao?" Chung quanh người chơi thật sự không bình tĩnh .
+ 
+ 	Bên này Lý Hoài Lâm hơi chút chấn động kinh ngạc một chút , bất quá lập tức liền hiểu rõ chuyện gì xảy ra , bản đến hảo cảm của mình độ là muốn khấu trừ đấy, nhưng là hiện tại biến thành gia tăng lên , gia tăng 20 điểm về sau liền biến thành thân mật rồi, trách không được thôn trưởng đột nhiên liền khuôn mặt tươi cười nghênh đón .
+ 
+ 	"Thật sự là đủ bị coi thường NPC , xem ở ngươi đã đoạt ta 10 khối tiền tiền đồng phần lên, ta liền nhiều đánh ngươi vài cái đi." Lý Hoài Lâm nói xong cũng tái khởi giữ chặt thôn trưởng cổ áo của , tay phải mở ra đối với thôn trưởng mặt của lớn tát tai tựu là "BA~" hạ xuống, đánh chính là chung quanh người chơi đều cảm giác mặt có đau một chút .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 15 . Trước mắt độ thiện cảm , thân mật .
+ 
+ 	"Ngọa tào , hắn lại đánh cho !" Chung quanh lại là một tràng thốt lên .
+ 
+ 	"Dứt khoát đánh cho thoải mái đi." Lý Hoài Lâm càng đánh càng hăng say , rõ ràng đều nghiện rồi , cầm lên thôn trưởng cạch cạch chợt vỗ .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 12 . Trước mắt độ thiện cảm , tôn kính .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 10 . Trước mắt độ thiện cảm , tôn kính .
+ 
+ 	...
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 3 . Trước mắt độ thiện cảm , sùng bái .
+ 
+ 	Liền phách mười cái cái tát , Lý Hoài Lâm rốt cục sướng rồi , tổng cộng vuốt ve 40 chút huyết , độ thiện cảm cũng đã tăng tới không nên lại tăng , đều sùng bái .
+ 
+ 	Chung quanh một vòng người chơi cũng đều thấy choáng , hoàn toàn không biết rõ làm sao phản ứng , mà ngay cả Linh Giới Công Hội mấy người cũng là ngây ngốc nhìn xem Lý Hoài Lâm .
+ 
+ 	"Tốt rồi , ta đánh sướng rồi , 10 khối tiền xem như cho ngươi xem thầy thuốc , không cần thối lại ." Lý Hoài Lâm vỗ vỗ tay , hài lòng nói .
+ 
+ 	Không nghĩ tới chính là , bên này Lý Hoài Lâm vừa mới buông tay ra , bên này một mực không có phản ánh thôn trưởng đột nhiên kéo lại Lý Hoài Lâm hai tay , dọa Lý Hoài Lâm nhảy dựng .
+ 
+ 	"Vĩ đại dũng sĩ a, ta rốt cục lại trông thấy ngươi rồi , ngươi anh dũng ứng với đã bị toàn thế giới ca ngợi , ngươi chiến tích cần phải bị điêu khắc tại phía trên tòa thánh điện ." Vị trưởng thôn này kích động vạn phần nói ra , lóe lên từ ánh mắt chính là tràn đầy cúng bái ý .
+ 
+ 	"Ừ ." Lý Hoài Lâm thoả mãn gật đầu , "Lão đầu tử nói không sai , không uổng công ta đánh ngươi đánh cho như vậy hạnh khổ ."
+ 
+ 	"Chà mẹ nó ." Chung quanh người chơi đều nhìn ngây người , thằng này có cái gì anh dũng , có cái gì chiến tích a, chẳng lẽ là dẫn ngươi đánh mười cái cái tát chiến tích ah .
+ 
+ 	"Đúng rồi dũng sĩ , lại nói tiếp ta còn có một cái ẩn núp nhiệm vụ muốn nhờ ngươi hoàn thành ." Bên này Hôi Hồ tử thôn trưởng như cũ là tự thẳng nói .
+ 
+ 	Gợi ý của hệ thống: Tân Thủ Thôn thôn trưởng tuyên bố cấp AA ẩn tàng nhiệm vụ , tội ác ngọn nguồn . Có tiếp nhận hay không .
+ 
+ 	"Tiếp nhận con em ngươi a, biến, hay không ." Lý Hoài Lâm lại càng hoảng sợ , nhiệm vụ này tuy nhiên không biết ban thưởng là cái gì , nhưng là chỉ xem cái này cấp AA liền biết không tốt chơi , vạn nhất ban thưởng mấy vạn kinh nghiệm , vậy mình liền thảm rồi , dựa theo hiện tại kinh nghiệm của mình , chết đến vài đủ không thể đem kinh nghiệm trả hết nợ .
+ 
+ 	"Chà mẹ nó , thôn trưởng thật sự tuyên bố ẩn tàng nhiệm vụ rồi!" Chung quanh người chơi lập tức kích động .
+ 
+ 	"Các ngươi nghe được không , thằng này rõ ràng cự tuyệt !" Cái khác người chơi lập tức nói ra .
+ 
+ 	"Quá ngưu , ta đã nhìn ngây người ."
+ 
+ 	"Dũng sĩ ngươi thật sự không suy tính một chút sao? Nhiệm vụ ban thưởng nhất định sẽ làm cho ngươi hài lòng ." Hôi Hồ tử thôn trưởng chứng kiến Lý Hoài Lâm cự tuyệt , hỏi lần nữa .
+ 
+ 	"Ta ..." Lý Hoài Lâm đương nhiên là muốn cự tuyệt , nhưng là vừa vặn muốn lần nữa cự tuyệt , đột nhiên có một con tay theo phía sau của hắn đáp ở bờ vai của hắn .
+ 
+ 	"Đợi một chút bằng hữu ."
+ 
+ 	Một thanh âm từ phía sau truyền đến , Lý Hoài Lâm quay đầu , phát hiện vừa mới mấy cái Linh Giới Công Hội nhân liền đứng ở hắn sau lưng , dẫn đầu cái kia chừng 30 tuổi đại thúc ngăn cản hắn mà nói .
+ 
+ 	"Có việc? Ta biết các ngươi?" Lý Hoài Lâm có chút kỳ quái , hắn vừa mới vào xem chụp thôn trưởng , cũng không còn chú ý tới người chung quanh đối thoại , cho nên cũng không biết mấy người này là Linh Giới Công Hội đấy.
+ 
+ 	"Ta là Linh Giới Công Hội phó hội trưởng , Dạ Hàng , mấy vị này là dưới tay của ta ." Bên này Dạ Hàng tự giới thiệu mình .
+ 
+ 	"Linh Giới Công Hội ..." Lý Hoài Lâm ánh mắt hơi chút co rút lại một chút , cái này Linh Giới Công Hội thật là một cái đại công hội , trước khi mình đùa này mấy khoản Võng Du , cũng đều có Linh Giới Công Hội , hơn nữa từng cái Võng Du công hội bài danh đều ít nhất xếp hạng thứ ba , 《 Vinh Diệu Chi Tâm 》 khai mở về sau , hắn tự nhiên cũng nghĩ đến mặt khác Võng Du đại công hội sẽ vào ở , nhưng là không nghĩ tới lại nhanh như vậy , chẳng lẽ mặt khác Võng Du lớn như vậy tư nguyên cùng thị trường đều buông tha cho à.
+ 
+ 	Nghĩ cách tại trong đầu dạo qua một vòng , bất quá Lý Hoài Lâm không có biểu hiện ra ngoài , cười cười trả lời , "Ta một mình người chơi , Ý Chí Nhược Lâm , các ngươi có thể bảo ta Hoài Lâm ."
+ 
+ 	"Hoài Lâm chào ngươi." Dạ Hàng rất lễ phép nói nói: " ta vừa vặn muốn gặp lại ngươi cự tuyệt ẩn tàng nhiệm vụ , có thể hay không nói cho ta biết vì cái gì?" Dạ Hàng cũng là rất kỳ quái , người bình thường tìm khắp nơi ẩn tàng nhiệm vụ , vì cái gì thằng này không cần suy nghĩ liền đem khối này bánh kem lớn vứt .
+ 
+ 	"Há, ta nhìn thấy nhiệm vụ này là một cấp AA nhiệm vụ , ta cảm thấy được không có gì đem ta hoàn thành , lãng phí nhiều thời gian như vậy còn không bằng luyện thật giỏi cấp ." Lý Hoài Lâm đương nhiên sẽ không ngốc đến nói mình sẽ khấu trừ kinh nghiệm , dù sao mình còn là phi pháp lên đất liền (*đăng nhập) đấy, nếu như bị phát hiện không chừng cũng bị phong hào .
+ 
+ 	"Há, là như thế này ." Dạ Hàng gật gật đầu , vừa mới Lý Hoài Lâm cũng nói hắn là một mình người chơi rồi, hơn nữa nhìn hắn trang bị cũng là người mới trang bị , đoán chừng cũng không cách nào hoàn thành nhiệm vụ , cũng là có đạo lý , "Bất quá chúng ta Linh Giới Công Hội đối với nhiệm vụ này rất có hứng thú , không biết có thể không nhường cho chúng ta?"
+ 
+ 	"Hả?" Lý Hoài Lâm mỉm cười , "Khách tới cửa rồi hả?"
+ 
+ 
+         Chương trình ủng hộ Thương hiệu Việt của Tàng Thư ViệnChương 3: Trả tiền vô liêm sỉ
+ 
+ 	Vui vẻ Lý Hoài Lâm lần nữa đi tới Tân Thủ Thôn thôn trưởng trước mặt của , hiện tại Lý Hoài Lâm tâm tình tốt , nhìn cái này Hôi Hồ tử lão đầu cũng hơi chút cảm thấy có chút nổi bật lên vẻ dễ thương .
+ 
+ 	"Lão đầu , nhiệm vụ của ngươi ta hoàn thành ." Lý Hoài Lâm vui vẻ nói ra .
+ 
+ 	"Tương lai dũng sĩ , ngươi quả nhiên không phụ ta chờ mong , vết thương chứng kiến của ngươi anh dũng , đây là của ngươi này ban thưởng ." Hôi Hồ tử thôn trưởng liên miên bất tận hồi đáp .
+ 
+ 	Gợi ý của hệ thống: Hoàn thành cấp E nhiệm vụ , tiêu diệt màu đen Slime , khấu trừ kinh nghiệm 200 , khấu trừ tiền đồng 10 .
+ 
+ 	"Chà mẹ nó !" Lý Hoài Lâm trong nháy mắt sụp đổ , vì cái gì nộp nhiệm vụ còn phải khấu trừ 200 kinh nghiệm 10 khối tiền đồng ah . Nhìn nhìn kinh nghiệm của mình đầu quả nhiên biến thành -250 :500 , trong ba lô vốn đánh Slime nhặt được 13 cá tiền đồng , hiện tại biến thành 3 cá rồi.
+ 
+ 	Kinh nghiệm ngược lại là được rồi, phản chính tự mình cũng là chịu , hơn nữa chết mấy lần sẽ trở lại rồi, số tiền này liền khó chịu a, mình thật vất vả có mấy đồng tiền , dễ dàng ấy ư, thoáng cái lấy đi 10 cá .
+ 
+ 	"Tinh trùng lên não , rõ ràng đoạt lão tử tiền !" Lý Hoài Lâm cũng không quản đối phương là NPC vẫn là cái gì , trực tiếp một tay xách ở thôn trưởng cổ áo của , "Trả tiền , vô liêm sỉ !"
+ 
+ 	"Chuyện gì xảy ra?" Chung quanh một vòng mới tân thủ ngoạn gia cũng có chút kỳ quái , bọn họ đều còn chuẩn bị nhận nhiệm vụ đâu rồi, không nghĩ tới bên này có một người chơi giống như muốn đánh thôn trưởng tự đắc , có chút kỳ quái vây quanh .
+ 
+ 	Bên này thôn trưởng đến lúc đó không chút hoang mang đấy, tiếp tục lặp lại lời của mình: "Dũng sĩ , ta bên này tạm thời đã không có nhiệm vụ cho ngươi , bất quá ta nghe nói người trong thôn thợ rèn cùng thợ may giống như cần muốn giúp đỡ , ngươi có thể cùng bọn hắn nói chuyện ."
+ 
+ 	"Đàm con em ngươi a, trả ta tiền ." Lý Hoài Lâm tiếp tục lôi kéo thôn trưởng cổ áo của nói nói: " nếu không đưa ta đánh ngươi ah ."
+ 
+ 	"Hắn giống như muốn đánh thôn trưởng a, chuyện gì xảy ra?" Bên cạnh vây xem người chơi cũng là có chút điểm kỳ quái .
+ 
+ 	"Ha ha , ngươi này liền không hiểu được đi." Một bên một cái người chơi giống như đã minh bạch cái gì , bắt đầu tự thẳng phân tích mà bắt đầu..., "《 Vinh Diệu Chi Tâm 》 nhưng là có ẩn tàng nhiệm vụ đấy, ngươi xem một chút game thủ này , hắn nhất định là muốn tiếp thôn trưởng ẩn tàng nhiệm vụ , cho nên lại nghĩ biện pháp thử ."
+ 
+ 	"Há, là như thế này ah ." Chung quanh người chơi gật gật đầu , rõ ràng đã tiếp nhận cái này giải thích .
+ 
+ 	"Stop đê.. ..." Theo một tiếng khinh thường thanh âm , mười cái người chơi theo phía sau bọn họ đi ra , này mười cái Vạn gia xem xét tựu là cùng nhau chơi đùa đấy, hơn nữa mặc dù chỉ là tại Tân Thủ Thôn , nhưng là trên người bọn họ trang bị đầy đủ hết , dẫn đầu là một 30 tuổi trở ra nam tử trung niên , trên người của hắn khôi giáp hiện ra nhàn nhạt màu xanh , lại là một kiện Thanh Đồng trang bị , tại Tân Thủ Thôn có thể [cầm] bắt được Thanh Đồng trang bị người chơi , nhất định là công hội người chơi , công hội cùng một chỗ đánh cho BOSS mới có thể cầm được Thanh Đồng trang bị đấy, người bình thường muốn từ nhỏ quái ra Thanh Đồng trang , tỷ lệ quá xa vời .
+ 
+ 	"Là hắn như vậy còn muốn gây ra ẩn tàng nhiệm vụ , nói đùa sao , chúng ta Linh Giới Công Hội nhiều người như vậy , biện pháp gì đều thử qua , cũng không còn gây ra cái gì ẩn tàng nhiệm vụ ." Dẫn đầu nam nhân nói , "Các ngươi chờ xem kịch vui đi, này tân thủ thôn thôn trưởng dường như là level 30 trở lên NPC , nhân vật mới thoáng một phát giây một cái , các ngươi tựu đợi đến hắn bị giây đi."
+ 
+ 	"Linh Giới Công Hội đấy..." Người chung quanh rối loạn tưng bừng , bất quá lập tức đều tin người nam nhân này nói lời , bởi vì Linh Giới Công Hội công tín lực , đó là thật thật đấy.
+ 
+ 	"Ngươi lại cùng lão tử thư xác nhận , ta thật sự đánh ngươi ah ." Bên này Lý Hoài Lâm không có chú ý sau lưng người vây xem , tiếp tục uy hiếp thôn trưởng .
+ 
+ 	"Dũng sĩ , ta bên này tạm thời đã không có nhiệm vụ cho ngươi ..." Hôi Hồ tử thôn trưởng quả nhiên vẫn là chỉ biết nói hai câu , không có gì ngoài ý muốn .
+ 
+ 	"Cho thể diện mà không cần ." Lý Hoài Lâm không nói hai lời , giơ lên nảy sinh tay phải của mình , đối với thôn trưởng mặt của tựu là một quyền .
+ 
+ 	-2
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 20 . Trước mắt độ thiện cảm , thân mật .
+ 
+ 	"Chà mẹ nó !" Lý Hoài Lâm bị gợi ý của hệ thống lần nữa chấn kinh rồi .
+ 
+ 	"Hắn thật sự công kích ah !" Người chung quanh lập tức náo nhiệt , mỗi một cái đều là chờ xem kịch vui biểu lộ .
+ 
+ 	Một giây đồng hồ trôi qua , hai giây trôi qua , rất nhanh mười giây đồng hồ đã trôi qua rồi , tràng diện rất yên tĩnh , không có cái gì phát sinh , rất nhanh sẽ có người phát hiện không đúng .
+ 
+ 	"Chuyện gì xảy ra? Như thế nào thôn trưởng không trả kích à?" Một cái người chơi hỏi.
+ 
+ 	"Đúng vậy , ta tận mắt thấy có người công kích thôn trưởng bị miểu sát đó a , vì cái gì thôn trưởng không đánh trả ah ."
+ 
+ 	Bên này Linh Giới Công Hội nhân cũng là ngây ngẩn cả người , đây là WTF .
+ 
+ 	Sau đó tình huống càng làm cho người sụp đổ , vốn vị trưởng thôn này đối đãi cái kia người chơi còn là một bộ giày bản mặt , hoàn toàn không lộ vẻ gì đấy, nhưng là đã trúng một quyền về sau , rõ ràng còn mang tới một cổ dáng tươi cười .
+ 
+ 	"Dũng sĩ , là ngươi a, trông thấy ngươi thật tốt quá , ta nghe nói thợ rèn cùng thợ may có nhiệm vụ muốn giao cho ngươi , có thể làm phiền ngươi đi xem sao?" Thôn trưởng một bên mỉm cười vừa hướng Lý Hoài Lâm nói ra .
+ 
+ 	"Chà mẹ nó , người thôn trưởng này bị coi thường sao? Người khác đánh hắn hắn còn khuôn mặt tươi cười đón chào đấy, là có bệnh sao?" Chung quanh người chơi thật sự không bình tĩnh .
+ 
+ 	Bên này Lý Hoài Lâm hơi chút chấn động kinh ngạc một chút , bất quá lập tức liền hiểu rõ chuyện gì xảy ra , bản đến hảo cảm của mình độ là muốn khấu trừ đấy, nhưng là hiện tại biến thành gia tăng lên , gia tăng 20 điểm về sau liền biến thành thân mật rồi, trách không được thôn trưởng đột nhiên liền khuôn mặt tươi cười nghênh đón .
+ 
+ 	"Thật sự là đủ bị coi thường NPC , xem ở ngươi đã đoạt ta 10 khối tiền tiền đồng phần lên, ta liền nhiều đánh ngươi vài cái đi." Lý Hoài Lâm nói xong cũng tái khởi giữ chặt thôn trưởng cổ áo của , tay phải mở ra đối với thôn trưởng mặt của lớn tát tai tựu là "BA~" hạ xuống, đánh chính là chung quanh người chơi đều cảm giác mặt có đau một chút .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 15 . Trước mắt độ thiện cảm , thân mật .
+ 
+ 	"Ngọa tào , hắn lại đánh cho !" Chung quanh lại là một tràng thốt lên .
+ 
+ 	"Dứt khoát đánh cho thoải mái đi." Lý Hoài Lâm càng đánh càng hăng say , rõ ràng đều nghiện rồi , cầm lên thôn trưởng cạch cạch chợt vỗ .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 12 . Trước mắt độ thiện cảm , tôn kính .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 10 . Trước mắt độ thiện cảm , tôn kính .
+ 
+ 	...
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 3 . Trước mắt độ thiện cảm , sùng bái .
+ 
+ 	Liền phách mười cái cái tát , Lý Hoài Lâm rốt cục sướng rồi , tổng cộng vuốt ve 40 chút huyết , độ thiện cảm cũng đã tăng tới không nên lại tăng , đều sùng bái .
+ 
+ 	Chung quanh một vòng người chơi cũng đều thấy choáng , hoàn toàn không biết rõ làm sao phản ứng , mà ngay cả Linh Giới Công Hội mấy người cũng là ngây ngốc nhìn xem Lý Hoài Lâm .
+ 
+ 	"Tốt rồi , ta đánh sướng rồi , 10 khối tiền xem như cho ngươi xem thầy thuốc , không cần thối lại ." Lý Hoài Lâm vỗ vỗ tay , hài lòng nói .
+ 
+ 	Không nghĩ tới chính là , bên này Lý Hoài Lâm vừa mới buông tay ra , bên này một mực không có phản ánh thôn trưởng đột nhiên kéo lại Lý Hoài Lâm hai tay , dọa Lý Hoài Lâm nhảy dựng .
+ 
+ 	"Vĩ đại dũng sĩ a, ta rốt cục lại trông thấy ngươi rồi , ngươi anh dũng ứng với đã bị toàn thế giới ca ngợi , ngươi chiến tích cần phải bị điêu khắc tại phía trên tòa thánh điện ." Vị trưởng thôn này kích động vạn phần nói ra , lóe lên từ ánh mắt chính là tràn đầy cúng bái ý .
+ 
+ 	"Ừ ." Lý Hoài Lâm thoả mãn gật đầu , "Lão đầu tử nói không sai , không uổng công ta đánh ngươi đánh cho như vậy hạnh khổ ."
+ 
+ 	"Chà mẹ nó ." Chung quanh người chơi đều nhìn ngây người , thằng này có cái gì anh dũng , có cái gì chiến tích a, chẳng lẽ là dẫn ngươi đánh mười cái cái tát chiến tích ah .
+ 
+ 	"Đúng rồi dũng sĩ , lại nói tiếp ta còn có một cái ẩn núp nhiệm vụ muốn nhờ ngươi hoàn thành ." Bên này Hôi Hồ tử thôn trưởng như cũ là tự thẳng nói .
+ 
+ 	Gợi ý của hệ thống: Tân Thủ Thôn thôn trưởng tuyên bố cấp AA ẩn tàng nhiệm vụ , tội ác ngọn nguồn . Có tiếp nhận hay không .
+ 
+ 	"Tiếp nhận con em ngươi a, biến, hay không ." Lý Hoài Lâm lại càng hoảng sợ , nhiệm vụ này tuy nhiên không biết ban thưởng là cái gì , nhưng là chỉ xem cái này cấp AA liền biết không tốt chơi , vạn nhất ban thưởng mấy vạn kinh nghiệm , vậy mình liền thảm rồi , dựa theo hiện tại kinh nghiệm của mình , chết đến vài đủ không thể đem kinh nghiệm trả hết nợ .
+ 
+ 	"Chà mẹ nó , thôn trưởng thật sự tuyên bố ẩn tàng nhiệm vụ rồi!" Chung quanh người chơi lập tức kích động .
+ 
+ 	"Các ngươi nghe được không , thằng này rõ ràng cự tuyệt !" Cái khác người chơi lập tức nói ra .
+ 
+ 	"Quá ngưu , ta đã nhìn ngây người ."
+ 
+ 	"Dũng sĩ ngươi thật sự không suy tính một chút sao? Nhiệm vụ ban thưởng nhất định sẽ làm cho ngươi hài lòng ." Hôi Hồ tử thôn trưởng chứng kiến Lý Hoài Lâm cự tuyệt , hỏi lần nữa .
+ 
+ 	"Ta ..." Lý Hoài Lâm đương nhiên là muốn cự tuyệt , nhưng là vừa vặn muốn lần nữa cự tuyệt , đột nhiên có một con tay theo phía sau của hắn đáp ở bờ vai của hắn .
+ 
+ 	"Đợi một chút bằng hữu ."
+ 
+ 	Một thanh âm từ phía sau truyền đến , Lý Hoài Lâm quay đầu , phát hiện vừa mới mấy cái Linh Giới Công Hội nhân liền đứng ở hắn sau lưng , dẫn đầu cái kia chừng 30 tuổi đại thúc ngăn cản hắn mà nói .
+ 
+ 	"Có việc? Ta biết các ngươi?" Lý Hoài Lâm có chút kỳ quái , hắn vừa mới vào xem chụp thôn trưởng , cũng không còn chú ý tới người chung quanh đối thoại , cho nên cũng không biết mấy người này là Linh Giới Công Hội đấy.
+ 
+ 	"Ta là Linh Giới Công Hội phó hội trưởng , Dạ Hàng , mấy vị này là dưới tay của ta ." Bên này Dạ Hàng tự giới thiệu mình .
+ 
+ 	"Linh Giới Công Hội ..." Lý Hoài Lâm ánh mắt hơi chút co rút lại một chút , cái này Linh Giới Công Hội thật là một cái đại công hội , trước khi mình đùa này mấy khoản Võng Du , cũng đều có Linh Giới Công Hội , hơn nữa từng cái Võng Du công hội bài danh đều ít nhất xếp hạng thứ ba , 《 Vinh Diệu Chi Tâm 》 khai mở về sau , hắn tự nhiên cũng nghĩ đến mặt khác Võng Du đại công hội sẽ vào ở , nhưng là không nghĩ tới lại nhanh như vậy , chẳng lẽ mặt khác Võng Du lớn như vậy tư nguyên cùng thị trường đều buông tha cho à.
+ 
+ 	Nghĩ cách tại trong đầu dạo qua một vòng , bất quá Lý Hoài Lâm không có biểu hiện ra ngoài , cười cười trả lời , "Ta một mình người chơi , Ý Chí Nhược Lâm , các ngươi có thể bảo ta Hoài Lâm ."
+ 
+ 	"Hoài Lâm chào ngươi." Dạ Hàng rất lễ phép nói nói: " ta vừa vặn muốn gặp lại ngươi cự tuyệt ẩn tàng nhiệm vụ , có thể hay không nói cho ta biết vì cái gì?" Dạ Hàng cũng là rất kỳ quái , người bình thường tìm khắp nơi ẩn tàng nhiệm vụ , vì cái gì thằng này không cần suy nghĩ liền đem khối này bánh kem lớn vứt .
+ 
+ 	"Há, ta nhìn thấy nhiệm vụ này là một cấp AA nhiệm vụ , ta cảm thấy được không có gì đem ta hoàn thành , lãng phí nhiều thời gian như vậy còn không bằng luyện thật giỏi cấp ." Lý Hoài Lâm đương nhiên sẽ không ngốc đến nói mình sẽ khấu trừ kinh nghiệm , dù sao mình còn là phi pháp lên đất liền (*đăng nhập) đấy, nếu như bị phát hiện không chừng cũng bị phong hào .
+ 
+ 	"Há, là như thế này ." Dạ Hàng gật gật đầu , vừa mới Lý Hoài Lâm cũng nói hắn là một mình người chơi rồi, hơn nữa nhìn hắn trang bị cũng là người mới trang bị , đoán chừng cũng không cách nào hoàn thành nhiệm vụ , cũng là có đạo lý , "Bất quá chúng ta Linh Giới Công Hội đối với nhiệm vụ này rất có hứng thú , không biết có thể không nhường cho chúng ta?"
+ 
+ 	"Hả?" Lý Hoài Lâm mỉm cười , "Khách tới cửa rồi hả?"
+ 
+ 
+         Chương trình ủng hộ Thương hiệu Việt của Tàng Thư ViệnChương 3: Trả tiền vô liêm sỉ
+ 
+ 	Vui vẻ Lý Hoài Lâm lần nữa đi tới Tân Thủ Thôn thôn trưởng trước mặt của , hiện tại Lý Hoài Lâm tâm tình tốt , nhìn cái này Hôi Hồ tử lão đầu cũng hơi chút cảm thấy có chút nổi bật lên vẻ dễ thương .
+ 
+ 	"Lão đầu , nhiệm vụ của ngươi ta hoàn thành ." Lý Hoài Lâm vui vẻ nói ra .
+ 
+ 	"Tương lai dũng sĩ , ngươi quả nhiên không phụ ta chờ mong , vết thương chứng kiến của ngươi anh dũng , đây là của ngươi này ban thưởng ." Hôi Hồ tử thôn trưởng liên miên bất tận hồi đáp .
+ 
+ 	Gợi ý của hệ thống: Hoàn thành cấp E nhiệm vụ , tiêu diệt màu đen Slime , khấu trừ kinh nghiệm 200 , khấu trừ tiền đồng 10 .
+ 
+ 	"Chà mẹ nó !" Lý Hoài Lâm trong nháy mắt sụp đổ , vì cái gì nộp nhiệm vụ còn phải khấu trừ 200 kinh nghiệm 10 khối tiền đồng ah . Nhìn nhìn kinh nghiệm của mình đầu quả nhiên biến thành -250 :500 , trong ba lô vốn đánh Slime nhặt được 13 cá tiền đồng , hiện tại biến thành 3 cá rồi.
+ 
+ 	Kinh nghiệm ngược lại là được rồi, phản chính tự mình cũng là chịu , hơn nữa chết mấy lần sẽ trở lại rồi, số tiền này liền khó chịu a, mình thật vất vả có mấy đồng tiền , dễ dàng ấy ư, thoáng cái lấy đi 10 cá .
+ 
+ 	"Tinh trùng lên não , rõ ràng đoạt lão tử tiền !" Lý Hoài Lâm cũng không quản đối phương là NPC vẫn là cái gì , trực tiếp một tay xách ở thôn trưởng cổ áo của , "Trả tiền , vô liêm sỉ !"
+ 
+ 	"Chuyện gì xảy ra?" Chung quanh một vòng mới tân thủ ngoạn gia cũng có chút kỳ quái , bọn họ đều còn chuẩn bị nhận nhiệm vụ đâu rồi, không nghĩ tới bên này có một người chơi giống như muốn đánh thôn trưởng tự đắc , có chút kỳ quái vây quanh .
+ 
+ 	Bên này thôn trưởng đến lúc đó không chút hoang mang đấy, tiếp tục lặp lại lời của mình: "Dũng sĩ , ta bên này tạm thời đã không có nhiệm vụ cho ngươi , bất quá ta nghe nói người trong thôn thợ rèn cùng thợ may giống như cần muốn giúp đỡ , ngươi có thể cùng bọn hắn nói chuyện ."
+ 
+ 	"Đàm con em ngươi a, trả ta tiền ." Lý Hoài Lâm tiếp tục lôi kéo thôn trưởng cổ áo của nói nói: " nếu không đưa ta đánh ngươi ah ."
+ 
+ 	"Hắn giống như muốn đánh thôn trưởng a, chuyện gì xảy ra?" Bên cạnh vây xem người chơi cũng là có chút điểm kỳ quái .
+ 
+ 	"Ha ha , ngươi này liền không hiểu được đi." Một bên một cái người chơi giống như đã minh bạch cái gì , bắt đầu tự thẳng phân tích mà bắt đầu..., "《 Vinh Diệu Chi Tâm 》 nhưng là có ẩn tàng nhiệm vụ đấy, ngươi xem một chút game thủ này , hắn nhất định là muốn tiếp thôn trưởng ẩn tàng nhiệm vụ , cho nên lại nghĩ biện pháp thử ."
+ 
+ 	"Há, là như thế này ah ." Chung quanh người chơi gật gật đầu , rõ ràng đã tiếp nhận cái này giải thích .
+ 
+ 	"Stop đê.. ..." Theo một tiếng khinh thường thanh âm , mười cái người chơi theo phía sau bọn họ đi ra , này mười cái Vạn gia xem xét tựu là cùng nhau chơi đùa đấy, hơn nữa mặc dù chỉ là tại Tân Thủ Thôn , nhưng là trên người bọn họ trang bị đầy đủ hết , dẫn đầu là một 30 tuổi trở ra nam tử trung niên , trên người của hắn khôi giáp hiện ra nhàn nhạt màu xanh , lại là một kiện Thanh Đồng trang bị , tại Tân Thủ Thôn có thể [cầm] bắt được Thanh Đồng trang bị người chơi , nhất định là công hội người chơi , công hội cùng một chỗ đánh cho BOSS mới có thể cầm được Thanh Đồng trang bị đấy, người bình thường muốn từ nhỏ quái ra Thanh Đồng trang , tỷ lệ quá xa vời .
+ 
+ 	"Là hắn như vậy còn muốn gây ra ẩn tàng nhiệm vụ , nói đùa sao , chúng ta Linh Giới Công Hội nhiều người như vậy , biện pháp gì đều thử qua , cũng không còn gây ra cái gì ẩn tàng nhiệm vụ ." Dẫn đầu nam nhân nói , "Các ngươi chờ xem kịch vui đi, này tân thủ thôn thôn trưởng dường như là level 30 trở lên NPC , nhân vật mới thoáng một phát giây một cái , các ngươi tựu đợi đến hắn bị giây đi."
+ 
+ 	"Linh Giới Công Hội đấy..." Người chung quanh rối loạn tưng bừng , bất quá lập tức đều tin người nam nhân này nói lời , bởi vì Linh Giới Công Hội công tín lực , đó là thật thật đấy.
+ 
+ 	"Ngươi lại cùng lão tử thư xác nhận , ta thật sự đánh ngươi ah ." Bên này Lý Hoài Lâm không có chú ý sau lưng người vây xem , tiếp tục uy hiếp thôn trưởng .
+ 
+ 	"Dũng sĩ , ta bên này tạm thời đã không có nhiệm vụ cho ngươi ..." Hôi Hồ tử thôn trưởng quả nhiên vẫn là chỉ biết nói hai câu , không có gì ngoài ý muốn .
+ 
+ 	"Cho thể diện mà không cần ." Lý Hoài Lâm không nói hai lời , giơ lên nảy sinh tay phải của mình , đối với thôn trưởng mặt của tựu là một quyền .
+ 
+ 	-2
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 20 . Trước mắt độ thiện cảm , thân mật .
+ 
+ 	"Chà mẹ nó !" Lý Hoài Lâm bị gợi ý của hệ thống lần nữa chấn kinh rồi .
+ 
+ 	"Hắn thật sự công kích ah !" Người chung quanh lập tức náo nhiệt , mỗi một cái đều là chờ xem kịch vui biểu lộ .
+ 
+ 	Một giây đồng hồ trôi qua , hai giây trôi qua , rất nhanh mười giây đồng hồ đã trôi qua rồi , tràng diện rất yên tĩnh , không có cái gì phát sinh , rất nhanh sẽ có người phát hiện không đúng .
+ 
+ 	"Chuyện gì xảy ra? Như thế nào thôn trưởng không trả kích à?" Một cái người chơi hỏi.
+ 
+ 	"Đúng vậy , ta tận mắt thấy có người công kích thôn trưởng bị miểu sát đó a , vì cái gì thôn trưởng không đánh trả ah ."
+ 
+ 	Bên này Linh Giới Công Hội nhân cũng là ngây ngẩn cả người , đây là WTF .
+ 
+ 	Sau đó tình huống càng làm cho người sụp đổ , vốn vị trưởng thôn này đối đãi cái kia người chơi còn là một bộ giày bản mặt , hoàn toàn không lộ vẻ gì đấy, nhưng là đã trúng một quyền về sau , rõ ràng còn mang tới một cổ dáng tươi cười .
+ 
+ 	"Dũng sĩ , là ngươi a, trông thấy ngươi thật tốt quá , ta nghe nói thợ rèn cùng thợ may có nhiệm vụ muốn giao cho ngươi , có thể làm phiền ngươi đi xem sao?" Thôn trưởng một bên mỉm cười vừa hướng Lý Hoài Lâm nói ra .
+ 
+ 	"Chà mẹ nó , người thôn trưởng này bị coi thường sao? Người khác đánh hắn hắn còn khuôn mặt tươi cười đón chào đấy, là có bệnh sao?" Chung quanh người chơi thật sự không bình tĩnh .
+ 
+ 	Bên này Lý Hoài Lâm hơi chút chấn động kinh ngạc một chút , bất quá lập tức liền hiểu rõ chuyện gì xảy ra , bản đến hảo cảm của mình độ là muốn khấu trừ đấy, nhưng là hiện tại biến thành gia tăng lên , gia tăng 20 điểm về sau liền biến thành thân mật rồi, trách không được thôn trưởng đột nhiên liền khuôn mặt tươi cười nghênh đón .
+ 
+ 	"Thật sự là đủ bị coi thường NPC , xem ở ngươi đã đoạt ta 10 khối tiền tiền đồng phần lên, ta liền nhiều đánh ngươi vài cái đi." Lý Hoài Lâm nói xong cũng tái khởi giữ chặt thôn trưởng cổ áo của , tay phải mở ra đối với thôn trưởng mặt của lớn tát tai tựu là "BA~" hạ xuống, đánh chính là chung quanh người chơi đều cảm giác mặt có đau một chút .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 15 . Trước mắt độ thiện cảm , thân mật .
+ 
+ 	"Ngọa tào , hắn lại đánh cho !" Chung quanh lại là một tràng thốt lên .
+ 
+ 	"Dứt khoát đánh cho thoải mái đi." Lý Hoài Lâm càng đánh càng hăng say , rõ ràng đều nghiện rồi , cầm lên thôn trưởng cạch cạch chợt vỗ .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 12 . Trước mắt độ thiện cảm , tôn kính .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 10 . Trước mắt độ thiện cảm , tôn kính .
+ 
+ 	...
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 3 . Trước mắt độ thiện cảm , sùng bái .
+ 
+ 	Liền phách mười cái cái tát , Lý Hoài Lâm rốt cục sướng rồi , tổng cộng vuốt ve 40 chút huyết , độ thiện cảm cũng đã tăng tới không nên lại tăng , đều sùng bái .
+ 
+ 	Chung quanh một vòng người chơi cũng đều thấy choáng , hoàn toàn không biết rõ làm sao phản ứng , mà ngay cả Linh Giới Công Hội mấy người cũng là ngây ngốc nhìn xem Lý Hoài Lâm .
+ 
+ 	"Tốt rồi , ta đánh sướng rồi , 10 khối tiền xem như cho ngươi xem thầy thuốc , không cần thối lại ." Lý Hoài Lâm vỗ vỗ tay , hài lòng nói .
+ 
+ 	Không nghĩ tới chính là , bên này Lý Hoài Lâm vừa mới buông tay ra , bên này một mực không có phản ánh thôn trưởng đột nhiên kéo lại Lý Hoài Lâm hai tay , dọa Lý Hoài Lâm nhảy dựng .
+ 
+ 	"Vĩ đại dũng sĩ a, ta rốt cục lại trông thấy ngươi rồi , ngươi anh dũng ứng với đã bị toàn thế giới ca ngợi , ngươi chiến tích cần phải bị điêu khắc tại phía trên tòa thánh điện ." Vị trưởng thôn này kích động vạn phần nói ra , lóe lên từ ánh mắt chính là tràn đầy cúng bái ý .
+ 
+ 	"Ừ ." Lý Hoài Lâm thoả mãn gật đầu , "Lão đầu tử nói không sai , không uổng công ta đánh ngươi đánh cho như vậy hạnh khổ ."
+ 
+ 	"Chà mẹ nó ." Chung quanh người chơi đều nhìn ngây người , thằng này có cái gì anh dũng , có cái gì chiến tích a, chẳng lẽ là dẫn ngươi đánh mười cái cái tát chiến tích ah .
+ 
+ 	"Đúng rồi dũng sĩ , lại nói tiếp ta còn có một cái ẩn núp nhiệm vụ muốn nhờ ngươi hoàn thành ." Bên này Hôi Hồ tử thôn trưởng như cũ là tự thẳng nói .
+ 
+ 	Gợi ý của hệ thống: Tân Thủ Thôn thôn trưởng tuyên bố cấp AA ẩn tàng nhiệm vụ , tội ác ngọn nguồn . Có tiếp nhận hay không .
+ 
+ 	"Tiếp nhận con em ngươi a, biến, hay không ." Lý Hoài Lâm lại càng hoảng sợ , nhiệm vụ này tuy nhiên không biết ban thưởng là cái gì , nhưng là chỉ xem cái này cấp AA liền biết không tốt chơi , vạn nhất ban thưởng mấy vạn kinh nghiệm , vậy mình liền thảm rồi , dựa theo hiện tại kinh nghiệm của mình , chết đến vài đủ không thể đem kinh nghiệm trả hết nợ .
+ 
+ 	"Chà mẹ nó , thôn trưởng thật sự tuyên bố ẩn tàng nhiệm vụ rồi!" Chung quanh người chơi lập tức kích động .
+ 
+ 	"Các ngươi nghe được không , thằng này rõ ràng cự tuyệt !" Cái khác người chơi lập tức nói ra .
+ 
+ 	"Quá ngưu , ta đã nhìn ngây người ."
+ 
+ 	"Dũng sĩ ngươi thật sự không suy tính một chút sao? Nhiệm vụ ban thưởng nhất định sẽ làm cho ngươi hài lòng ." Hôi Hồ tử thôn trưởng chứng kiến Lý Hoài Lâm cự tuyệt , hỏi lần nữa .
+ 
+ 	"Ta ..." Lý Hoài Lâm đương nhiên là muốn cự tuyệt , nhưng là vừa vặn muốn lần nữa cự tuyệt , đột nhiên có một con tay theo phía sau của hắn đáp ở bờ vai của hắn .
+ 
+ 	"Đợi một chút bằng hữu ."
+ 
+ 	Một thanh âm từ phía sau truyền đến , Lý Hoài Lâm quay đầu , phát hiện vừa mới mấy cái Linh Giới Công Hội nhân liền đứng ở hắn sau lưng , dẫn đầu cái kia chừng 30 tuổi đại thúc ngăn cản hắn mà nói .
+ 
+ 	"Có việc? Ta biết các ngươi?" Lý Hoài Lâm có chút kỳ quái , hắn vừa mới vào xem chụp thôn trưởng , cũng không còn chú ý tới người chung quanh đối thoại , cho nên cũng không biết mấy người này là Linh Giới Công Hội đấy.
+ 
+ 	"Ta là Linh Giới Công Hội phó hội trưởng , Dạ Hàng , mấy vị này là dưới tay của ta ." Bên này Dạ Hàng tự giới thiệu mình .
+ 
+ 	"Linh Giới Công Hội ..." Lý Hoài Lâm ánh mắt hơi chút co rút lại một chút , cái này Linh Giới Công Hội thật là một cái đại công hội , trước khi mình đùa này mấy khoản Võng Du , cũng đều có Linh Giới Công Hội , hơn nữa từng cái Võng Du công hội bài danh đều ít nhất xếp hạng thứ ba , 《 Vinh Diệu Chi Tâm 》 khai mở về sau , hắn tự nhiên cũng nghĩ đến mặt khác Võng Du đại công hội sẽ vào ở , nhưng là không nghĩ tới lại nhanh như vậy , chẳng lẽ mặt khác Võng Du lớn như vậy tư nguyên cùng thị trường đều buông tha cho à.
+ 
+ 	Nghĩ cách tại trong đầu dạo qua một vòng , bất quá Lý Hoài Lâm không có biểu hiện ra ngoài , cười cười trả lời , "Ta một mình người chơi , Ý Chí Nhược Lâm , các ngươi có thể bảo ta Hoài Lâm ."
+ 
+ 	"Hoài Lâm chào ngươi." Dạ Hàng rất lễ phép nói nói: " ta vừa vặn muốn gặp lại ngươi cự tuyệt ẩn tàng nhiệm vụ , có thể hay không nói cho ta biết vì cái gì?" Dạ Hàng cũng là rất kỳ quái , người bình thường tìm khắp nơi ẩn tàng nhiệm vụ , vì cái gì thằng này không cần suy nghĩ liền đem khối này bánh kem lớn vứt .
+ 
+ 	"Há, ta nhìn thấy nhiệm vụ này là một cấp AA nhiệm vụ , ta cảm thấy được không có gì đem ta hoàn thành , lãng phí nhiều thời gian như vậy còn không bằng luyện thật giỏi cấp ." Lý Hoài Lâm đương nhiên sẽ không ngốc đến nói mình sẽ khấu trừ kinh nghiệm , dù sao mình còn là phi pháp lên đất liền (*đăng nhập) đấy, nếu như bị phát hiện không chừng cũng bị phong hào .
+ 
+ 	"Há, là như thế này ." Dạ Hàng gật gật đầu , vừa mới Lý Hoài Lâm cũng nói hắn là một mình người chơi rồi, hơn nữa nhìn hắn trang bị cũng là người mới trang bị , đoán chừng cũng không cách nào hoàn thành nhiệm vụ , cũng là có đạo lý , "Bất quá chúng ta Linh Giới Công Hội đối với nhiệm vụ này rất có hứng thú , không biết có thể không nhường cho chúng ta?"
+ 
+ 	"Hả?" Lý Hoài Lâm mỉm cười , "Khách tới cửa rồi hả?"
+ 
+ 
+         Chương trình ủng hộ Thương hiệu Việt của Tàng Thư ViệnChương 3: Trả tiền vô liêm sỉ
+ 
+ 	Vui vẻ Lý Hoài Lâm lần nữa đi tới Tân Thủ Thôn thôn trưởng trước mặt của , hiện tại Lý Hoài Lâm tâm tình tốt , nhìn cái này Hôi Hồ tử lão đầu cũng hơi chút cảm thấy có chút nổi bật lên vẻ dễ thương .
+ 
+ 	"Lão đầu , nhiệm vụ của ngươi ta hoàn thành ." Lý Hoài Lâm vui vẻ nói ra .
+ 
+ 	"Tương lai dũng sĩ , ngươi quả nhiên không phụ ta chờ mong , vết thương chứng kiến của ngươi anh dũng , đây là của ngươi này ban thưởng ." Hôi Hồ tử thôn trưởng liên miên bất tận hồi đáp .
+ 
+ 	Gợi ý của hệ thống: Hoàn thành cấp E nhiệm vụ , tiêu diệt màu đen Slime , khấu trừ kinh nghiệm 200 , khấu trừ tiền đồng 10 .
+ 
+ 	"Chà mẹ nó !" Lý Hoài Lâm trong nháy mắt sụp đổ , vì cái gì nộp nhiệm vụ còn phải khấu trừ 200 kinh nghiệm 10 khối tiền đồng ah . Nhìn nhìn kinh nghiệm của mình đầu quả nhiên biến thành -250 :500 , trong ba lô vốn đánh Slime nhặt được 13 cá tiền đồng , hiện tại biến thành 3 cá rồi.
+ 
+ 	Kinh nghiệm ngược lại là được rồi, phản chính tự mình cũng là chịu , hơn nữa chết mấy lần sẽ trở lại rồi, số tiền này liền khó chịu a, mình thật vất vả có mấy đồng tiền , dễ dàng ấy ư, thoáng cái lấy đi 10 cá .
+ 
+ 	"Tinh trùng lên não , rõ ràng đoạt lão tử tiền !" Lý Hoài Lâm cũng không quản đối phương là NPC vẫn là cái gì , trực tiếp một tay xách ở thôn trưởng cổ áo của , "Trả tiền , vô liêm sỉ !"
+ 
+ 	"Chuyện gì xảy ra?" Chung quanh một vòng mới tân thủ ngoạn gia cũng có chút kỳ quái , bọn họ đều còn chuẩn bị nhận nhiệm vụ đâu rồi, không nghĩ tới bên này có một người chơi giống như muốn đánh thôn trưởng tự đắc , có chút kỳ quái vây quanh .
+ 
+ 	Bên này thôn trưởng đến lúc đó không chút hoang mang đấy, tiếp tục lặp lại lời của mình: "Dũng sĩ , ta bên này tạm thời đã không có nhiệm vụ cho ngươi , bất quá ta nghe nói người trong thôn thợ rèn cùng thợ may giống như cần muốn giúp đỡ , ngươi có thể cùng bọn hắn nói chuyện ."
+ 
+ 	"Đàm con em ngươi a, trả ta tiền ." Lý Hoài Lâm tiếp tục lôi kéo thôn trưởng cổ áo của nói nói: " nếu không đưa ta đánh ngươi ah ."
+ 
+ 	"Hắn giống như muốn đánh thôn trưởng a, chuyện gì xảy ra?" Bên cạnh vây xem người chơi cũng là có chút điểm kỳ quái .
+ 
+ 	"Ha ha , ngươi này liền không hiểu được đi." Một bên một cái người chơi giống như đã minh bạch cái gì , bắt đầu tự thẳng phân tích mà bắt đầu..., "《 Vinh Diệu Chi Tâm 》 nhưng là có ẩn tàng nhiệm vụ đấy, ngươi xem một chút game thủ này , hắn nhất định là muốn tiếp thôn trưởng ẩn tàng nhiệm vụ , cho nên lại nghĩ biện pháp thử ."
+ 
+ 	"Há, là như thế này ah ." Chung quanh người chơi gật gật đầu , rõ ràng đã tiếp nhận cái này giải thích .
+ 
+ 	"Stop đê.. ..." Theo một tiếng khinh thường thanh âm , mười cái người chơi theo phía sau bọn họ đi ra , này mười cái Vạn gia xem xét tựu là cùng nhau chơi đùa đấy, hơn nữa mặc dù chỉ là tại Tân Thủ Thôn , nhưng là trên người bọn họ trang bị đầy đủ hết , dẫn đầu là một 30 tuổi trở ra nam tử trung niên , trên người của hắn khôi giáp hiện ra nhàn nhạt màu xanh , lại là một kiện Thanh Đồng trang bị , tại Tân Thủ Thôn có thể [cầm] bắt được Thanh Đồng trang bị người chơi , nhất định là công hội người chơi , công hội cùng một chỗ đánh cho BOSS mới có thể cầm được Thanh Đồng trang bị đấy, người bình thường muốn từ nhỏ quái ra Thanh Đồng trang , tỷ lệ quá xa vời .
+ 
+ 	"Là hắn như vậy còn muốn gây ra ẩn tàng nhiệm vụ , nói đùa sao , chúng ta Linh Giới Công Hội nhiều người như vậy , biện pháp gì đều thử qua , cũng không còn gây ra cái gì ẩn tàng nhiệm vụ ." Dẫn đầu nam nhân nói , "Các ngươi chờ xem kịch vui đi, này tân thủ thôn thôn trưởng dường như là level 30 trở lên NPC , nhân vật mới thoáng một phát giây một cái , các ngươi tựu đợi đến hắn bị giây đi."
+ 
+ 	"Linh Giới Công Hội đấy..." Người chung quanh rối loạn tưng bừng , bất quá lập tức đều tin người nam nhân này nói lời , bởi vì Linh Giới Công Hội công tín lực , đó là thật thật đấy.
+ 
+ 	"Ngươi lại cùng lão tử thư xác nhận , ta thật sự đánh ngươi ah ." Bên này Lý Hoài Lâm không có chú ý sau lưng người vây xem , tiếp tục uy hiếp thôn trưởng .
+ 
+ 	"Dũng sĩ , ta bên này tạm thời đã không có nhiệm vụ cho ngươi ..." Hôi Hồ tử thôn trưởng quả nhiên vẫn là chỉ biết nói hai câu , không có gì ngoài ý muốn .
+ 
+ 	"Cho thể diện mà không cần ." Lý Hoài Lâm không nói hai lời , giơ lên nảy sinh tay phải của mình , đối với thôn trưởng mặt của tựu là một quyền .
+ 
+ 	-2
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 20 . Trước mắt độ thiện cảm , thân mật .
+ 
+ 	"Chà mẹ nó !" Lý Hoài Lâm bị gợi ý của hệ thống lần nữa chấn kinh rồi .
+ 
+ 	"Hắn thật sự công kích ah !" Người chung quanh lập tức náo nhiệt , mỗi một cái đều là chờ xem kịch vui biểu lộ .
+ 
+ 	Một giây đồng hồ trôi qua , hai giây trôi qua , rất nhanh mười giây đồng hồ đã trôi qua rồi , tràng diện rất yên tĩnh , không có cái gì phát sinh , rất nhanh sẽ có người phát hiện không đúng .
+ 
+ 	"Chuyện gì xảy ra? Như thế nào thôn trưởng không trả kích à?" Một cái người chơi hỏi.
+ 
+ 	"Đúng vậy , ta tận mắt thấy có người công kích thôn trưởng bị miểu sát đó a , vì cái gì thôn trưởng không đánh trả ah ."
+ 
+ 	Bên này Linh Giới Công Hội nhân cũng là ngây ngẩn cả người , đây là WTF .
+ 
+ 	Sau đó tình huống càng làm cho người sụp đổ , vốn vị trưởng thôn này đối đãi cái kia người chơi còn là một bộ giày bản mặt , hoàn toàn không lộ vẻ gì đấy, nhưng là đã trúng một quyền về sau , rõ ràng còn mang tới một cổ dáng tươi cười .
+ 
+ 	"Dũng sĩ , là ngươi a, trông thấy ngươi thật tốt quá , ta nghe nói thợ rèn cùng thợ may có nhiệm vụ muốn giao cho ngươi , có thể làm phiền ngươi đi xem sao?" Thôn trưởng một bên mỉm cười vừa hướng Lý Hoài Lâm nói ra .
+ 
+ 	"Chà mẹ nó , người thôn trưởng này bị coi thường sao? Người khác đánh hắn hắn còn khuôn mặt tươi cười đón chào đấy, là có bệnh sao?" Chung quanh người chơi thật sự không bình tĩnh .
+ 
+ 	Bên này Lý Hoài Lâm hơi chút chấn động kinh ngạc một chút , bất quá lập tức liền hiểu rõ chuyện gì xảy ra , bản đến hảo cảm của mình độ là muốn khấu trừ đấy, nhưng là hiện tại biến thành gia tăng lên , gia tăng 20 điểm về sau liền biến thành thân mật rồi, trách không được thôn trưởng đột nhiên liền khuôn mặt tươi cười nghênh đón .
+ 
+ 	"Thật sự là đủ bị coi thường NPC , xem ở ngươi đã đoạt ta 10 khối tiền tiền đồng phần lên, ta liền nhiều đánh ngươi vài cái đi." Lý Hoài Lâm nói xong cũng tái khởi giữ chặt thôn trưởng cổ áo của , tay phải mở ra đối với thôn trưởng mặt của lớn tát tai tựu là "BA~" hạ xuống, đánh chính là chung quanh người chơi đều cảm giác mặt có đau một chút .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 15 . Trước mắt độ thiện cảm , thân mật .
+ 
+ 	"Ngọa tào , hắn lại đánh cho !" Chung quanh lại là một tràng thốt lên .
+ 
+ 	"Dứt khoát đánh cho thoải mái đi." Lý Hoài Lâm càng đánh càng hăng say , rõ ràng đều nghiện rồi , cầm lên thôn trưởng cạch cạch chợt vỗ .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 12 . Trước mắt độ thiện cảm , tôn kính .
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 10 . Trước mắt độ thiện cảm , tôn kính .
+ 
+ 	...
+ 
+ 	Gợi ý của hệ thống: Bởi vì ngươi công kích nhân vật mới thôn thôn trưởng , nhân vật mới thôn thôn trưởng đối với hảo cảm của ngươi độ bay lên 3 . Trước mắt độ thiện cảm , sùng bái .
+ 
+ 	Liền phách mười cái cái tát , Lý Hoài Lâm rốt cục sướng rồi , tổng cộng vuốt ve 40 chút huyết , độ thiện cảm cũng đã tăng tới không nên lại tăng , đều sùng bái .
+ 
+ 	Chung quanh một vòng người chơi cũng đều thấy choáng , hoàn toàn không biết rõ làm sao phản ứng , mà ngay cả Linh Giới Công Hội mấy người cũng là ngây ngốc nhìn xem Lý Hoài Lâm .
+ 
+ 	"Tốt rồi , ta đánh sướng rồi , 10 khối tiền xem như cho ngươi xem thầy thuốc , không cần thối lại ." Lý Hoài Lâm vỗ vỗ tay , hài lòng nói .
+ 
+ 	Không nghĩ tới chính là , bên này Lý Hoài Lâm vừa mới buông tay ra , bên này một mực không có phản ánh thôn trưởng đột nhiên kéo lại Lý Hoài Lâm hai tay , dọa Lý Hoài Lâm nhảy dựng .
+ 
+ 	"Vĩ đại dũng sĩ a, ta rốt cục lại trông thấy ngươi rồi , ngươi anh dũng ứng với đã bị toàn thế giới ca ngợi , ngươi chiến tích cần phải bị điêu khắc tại phía trên tòa thánh điện ." Vị trưởng thôn này kích động vạn phần nói ra , lóe lên từ ánh mắt chính là tràn đầy cúng bái ý .
+ 
+ 	"Ừ ." Lý Hoài Lâm thoả mãn gật đầu , "Lão đầu tử nói không sai , không uổng công ta đánh ngươi đánh cho như vậy hạnh khổ ."
+ 
+ 	"Chà mẹ nó ." Chung quanh người chơi đều nhìn ngây người , thằng này có cái gì anh dũng , có cái gì chiến tích a, chẳng lẽ là dẫn ngươi đánh mười cái cái tát chiến tích ah .
+ 
+ 	"Đúng rồi dũng sĩ , lại nói tiếp ta còn có một cái ẩn núp nhiệm vụ muốn nhờ ngươi hoàn thành ." Bên này Hôi Hồ tử thôn trưởng như cũ là tự thẳng nói .
+ 
+ 	Gợi ý của hệ thống: Tân Thủ Thôn thôn trưởng tuyên bố cấp AA ẩn tàng nhiệm vụ , tội ác ngọn nguồn . Có tiếp nhận hay không .
+ 
+ 	"Tiếp nhận con em ngươi a, biến, hay không ." Lý Hoài Lâm lại càng hoảng sợ , nhiệm vụ này tuy nhiên không biết ban thưởng là cái gì , nhưng là chỉ xem cái này cấp AA liền biết không tốt chơi , vạn nhất ban thưởng mấy vạn kinh nghiệm , vậy mình liền thảm rồi , dựa theo hiện tại kinh nghiệm của mình , chết đến vài đủ không thể đem kinh nghiệm trả hết nợ .
+ 
+ 	"Chà mẹ nó , thôn trưởng thật sự tuyên bố ẩn tàng nhiệm vụ rồi!" Chung quanh người chơi lập tức kích động .
+ 
+ 	"Các ngươi nghe được không , thằng này rõ ràng cự tuyệt !" Cái khác người chơi lập tức nói ra .
+ 
+ 	"Quá ngưu , ta đã nhìn ngây người ."
+ 
+ 	"Dũng sĩ ngươi thật sự không suy tính một chút sao? Nhiệm vụ ban thưởng nhất định sẽ làm cho ngươi hài lòng ." Hôi Hồ tử thôn trưởng chứng kiến Lý Hoài Lâm cự tuyệt , hỏi lần nữa .
+ 
+ 	"Ta ..." Lý Hoài Lâm đương nhiên là muốn cự tuyệt , nhưng là vừa vặn muốn lần nữa cự tuyệt , đột nhiên có một con tay theo phía sau của hắn đáp ở bờ vai của hắn .
+ 
+ 	"Đợi một chút bằng hữu ."
+ 
+ 	Một thanh âm từ phía sau truyền đến , Lý Hoài Lâm quay đầu , phát hiện vừa mới mấy cái Linh Giới Công Hội nhân liền đứng ở hắn sau lưng , dẫn đầu cái kia chừng 30 tuổi đại thúc ngăn cản hắn mà nói .
+ 
+ 	"Có việc? Ta biết các ngươi?" Lý Hoài Lâm có chút kỳ quái , hắn vừa mới vào xem chụp thôn trưởng , cũng không còn chú ý tới người chung quanh đối thoại , cho nên cũng không biết mấy người này là Linh Giới Công Hội đấy.
+ 
+ 	"Ta là Linh Giới Công Hội phó hội trưởng , Dạ Hàng , mấy vị này là dưới tay của ta ." Bên này Dạ Hàng tự giới thiệu mình .
+ 
+ 	"Linh Giới Công Hội ..." Lý Hoài Lâm ánh mắt hơi chút co rút lại một chút , cái này Linh Giới Công Hội thật là một cái đại công hội , trước khi mình đùa này mấy khoản Võng Du , cũng đều có Linh Giới Công Hội , hơn nữa từng cái Võng Du công hội bài danh đều ít nhất xếp hạng thứ ba , 《 Vinh Diệu Chi Tâm 》 khai mở về sau , hắn tự nhiên cũng nghĩ đến mặt khác Võng Du đại công hội sẽ vào ở , nhưng là không nghĩ tới lại nhanh như vậy , chẳng lẽ mặt khác Võng Du lớn như vậy tư nguyên cùng thị trường đều buông tha cho à.
+ 
+ 	Nghĩ cách tại trong đầu dạo qua một vòng , bất quá Lý Hoài Lâm không có biểu hiện ra ngoài , cười cười trả lời , "Ta một mình người chơi , Ý Chí Nhược Lâm , các ngươi có thể bảo ta Hoài Lâm ."
+ 
+ 	"Hoài Lâm chào ngươi." Dạ Hàng rất lễ phép nói nói: " ta vừa vặn muốn gặp lại ngươi cự tuyệt ẩn tàng nhiệm vụ , có thể hay không nói cho ta biết vì cái gì?" Dạ Hàng cũng là rất kỳ quái , người bình thường tìm khắp nơi ẩn tàng nhiệm vụ , vì cái gì thằng này không cần suy nghĩ liền đem khối này bánh kem lớn vứt .
+ 
+ 	"Há, ta nhìn thấy nhiệm vụ này là một cấp AA nhiệm vụ , ta cảm thấy được không có gì đem ta hoàn thành , lãng phí nhiều thời gian như vậy còn không bằng luyện thật giỏi cấp ." Lý Hoài Lâm đương nhiên sẽ không ngốc đến nói mình sẽ khấu trừ kinh nghiệm , dù sao mình còn là phi pháp lên đất liền (*đăng nhập) đấy, nếu như bị phát hiện không chừng cũng bị phong hào .
+ 
+ 	"Há, là như thế này ." Dạ Hàng gật gật đầu , vừa mới Lý Hoài Lâm cũng nói hắn là một mình người chơi rồi, hơn nữa nhìn hắn trang bị cũng là người mới trang bị , đoán chừng cũng không cách nào hoàn thành nhiệm vụ , cũng là có đạo lý , "Bất quá chúng ta Linh Giới Công Hội đối với nhiệm vụ này rất có hứng thú , không biết có thể không nhường cho chúng ta?"
+ 
+ 	"Hả?" Lý Hoài Lâm mỉm cười , "Khách tới cửa rồi hả?"
+ 
+ 
+         Chương trình ủng hộ Thương hiệu Việt của Tàng Thư Viện

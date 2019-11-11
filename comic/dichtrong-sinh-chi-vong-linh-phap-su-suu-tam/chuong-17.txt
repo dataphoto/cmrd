@@ -1,0 +1,601 @@
+Ngay khi Đình Tấn đang cảm khái, ở một đại sảnh chức nghiệp trong một thành khác, một tên thanh niên mang gương mặt góc cạnh điển trai điển hình phương tây, đầu tóc cắt ngắn được chải vuốt chỉnh tề. Mắt loé ra từng tia sát lạnh, giọng nghiến răng đầy căm tức:
+
+- Khốn kiếp, lại là hai tên này, lại là hạng ba. 50 người suốt một đêm thay phiên nhau đánh kinh nghiệm lại không thể so lại với 2 tên này. Khốn kiếp thật!!! Đừng để ta tìm thấy các ngươi, nếu không gia nhập làm thủ hạ của ta thì các ngươi chết chắc rồi.
+
+Nói xong, hậm hực quay đầu hướng bên ngoài bước đi. Tên người chơi này ắt hẳn là The King như hệ thống đã thông cáo.
+
+Đình Tấn lúc này đang ở bên cạnh Ameerah, hai người ngồi ngoài bậc thềm đại sảnh mở bảng kỹ năng cùng thông số mà kiểm tra. Thông số nhân vật không có thay đổi gì, chỉ riêng phần chức nghiệp lại thêm ra:
+
+Tính danh: Đình Tấn (Hiển thị)
+
+Biệt danh: The Dawn (Hiển thị)
+
+Tuổi: 23
+
+Chức nghiệp: 
+
+Vong linh ma pháp sư (Chức nghiệp ẩn) (Chi tiết)
+
+Đình Tấn ngạc nhiên thốt lên:
+
+- Lại là chức nghiệp ẩn?! Không hổ là người đầu tiên, lợi thế càng nhiều.
+
+Bấm chọn vào chi tiết, kiểm tra xem có thông tin gì về chức nghiệp này không. Bảng hệ thống cũng nhanh chóng hiển thị ra trước mắt Đình Tấn:
+
+Vong linh ma pháp sư (Chức nghiệp ẩn)
+
+Giới thiệu: Một nhóm ma pháp sư luôn ẩn tại phía sau sự huy hoàng và tôn quý mà đáng lẽ ra bọn họ phải có được. Dùng sức mạnh và sinh mệnh của mình bảo vệ cho nhân loại, thế nhưng bọn họ luôn bị kì thị và khinh bỉ vì cách mà mình triệu hồi những kẻ đã chết để chiến đấu.
+
+Vong linh ma pháp sư là những người dùng sinh mệnh và tinh thần của mình làm trung gian giao lưu giữa hai thế giới giữa cõi chết và hiện thực, dùng những thứ từ cõi chết mang về bên cạnh, chiến đấu thay cho bọn họ.
+
+Kỹ năng chức nghiệp:
+
+[Sinh Mệnh Hiến Tế]
+
+Giới thiệu: Khi ngươi chiến đấu đã đến cực hạn tinh thần chịu đựng, hãy dùng sinh mệnh của mình. Thiêu đốt nó lên đi, dùng nó để giết chết kẻ địch của mình.
+
+Hiệu quả: Dùng HP để thay thế cho MP khi sử dụng kỹ năng. Mức qui đổi 1:5 (1 HP = 5 MP)
+
+Điều đầu tiên khi thấy hiệu quả này, Đình Tấn chỉ có một ý nghĩ “Mang ra hiện thực” thế nhưng nghĩ kỹ lại, hắn liền bỏ qua ý tưởng này.
+
+Dù sao Sinh mệnh lực không phải là điều nói chơi, nếu có thể hồi phục thì không sao nhưng nếu không thể hồi phục thì mất nhiều hơn được. 
+
+Ở trong game có thuốc HP, chết đi có thể FRZwe9jK lại phục sinh, thiệt hại nhiều lắm cũng chỉ là mất đi 1 cấp. Nhưng ở hiện thực không nên đùa giỡn với sinh mệnh của mình.
+
+- Thôi, nếu sau này có cơ hội sẽ nghiên cứu sau. – Đình Tấn lắc đầu không xoắn xuýt chuyện này nữa.
+
+Sau đó lại đưa mắt về bảng hệ thống kỹ năng, kiểm tra ba kỹ năng vừa được học.
+
+Nguyền rủa suy nhược
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Nguyền rủa cùng là một trong những học thuật của vong linh ma pháp sư, suy yếu sức mạnh của kẻ địch.
+
+Tiêu hao: [Điểm tinh thần] MP
+
+Hiệu quả: Giảm thuộc tính của kẻ địch 10%, giảm tốc độ di chuyển cùng tấn công 20% tồn tại trong 15 giây. (Không thể chồng chất)
+
+Cốt giáp
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Triệu hồi xương cốt từ cõi chết hình thành tấm khiên, vây quanh tự động phòng thủ bảo vệ cho vong linh pháp sư khỏi nguy hiểm.
+
+Tiêu hao: [Điểm tinh thần*2] MP
+
+Hiệu quả: Hình thành 5 tấm khiên, mỗi tấm chống đỡ [50 + Điểm tinh thần] HP, duy trì trong 60 giây. Không thế liên tục sử dụng trong 5 phút nếu cưỡng chế sử dụng sẽ tiêu hao gấp 5 lần.
+
+Cốt thứ 
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Triệu hồi một thanh xương cốt từ hư không, tấn công bất ngờ kẻ địch.
+
+Tiêu hao: 40 MP
+
+Hiệu quả: 150% sát thương phép
+
+Kỹ năng mới rất hiệu quả và cường lực. Thế nhưng với một chức nghiệp ẩn như Đình Tấn kỹ năng mới cũng khá là không liên quan đến việc triệu hoán đây. Hay phải chăng kỹ năng triệu hoán cùng minh tưởng thuật đã có nên hệ thống không học tập tiếp nữa. Nếu không có triệu hoán Bộ Xương Chiến Sĩ Đình Tấn không biết phải hình dung cảnh mình sẽ chiến đấu ra sao nữa.
+
+Chợt nhìn thấy ngay góc bảng kỹ năng có hiển thị một con số 4. Đình Tấn tò mò suy nghĩ một chút, hắn quay lại hướng giáo viên của mình thỉnh giáo thử một chút. Đình Tấn tiến lại tên Giáo Viên Triệu Hồn Sư cúi người hỏi:
+
+- Thưa giáo viên, ta có một thắc mắc không biết người có thể hướng ta giải thích không?
+
+- Nói – Giọng hắn khàn khàn, ngắn gọn trả lời.
+
+- Ta không biết sử dụng điểm kỹ năng làm gì, muốn hướng ngài cầu giải đáp. – Đình Tấn vẫn lễ phép nói.
+
+- Sử dụng điểm kỹ năng giao diện ở ta nơi này. Ngươi có thể nâng cấp kỹ năng lên một tầm cao mới. 
+
+Vần là giọng nói khàn khàn của tên Giáo Viên Triệu Hồn Sư. Thế nhưng được đáp án Đình Tấn vui vẻ lên. Nâng cấp lên, quả thật là niềm vui lớn với Đình Tấn. Hắn 3 lần kích hoạt tự chủ kỹ năng, lại thêm một lần thăng cấp 10 tổng cộng được 4 điểm kỹ năng. Điều đó có nghĩa hắn có thế thăng cấp 4 kỹ năng, hoặc một lần thăng liên tục 1 kỹ năng lên một cấp bậc cực kinh khủng. Lập tức nói điều này với Ameerah đang đứng bên cạnh, đuổi nàng đi về với giáo sư của mình. Sau đó không chậm trễ, Đình Tấn mở ra giao diện hệ thống chọn Giao dịch với tên Giáo Viên Triệu Hồn Sư.
+
+Giao diện giao dịch cũng giống như giao diện kỹ năng thế nhưng ở cuối ô kỹ năng lại có thêm một dấu cộng. Đình Tấn thấy minh tưởng thuật đã có dấu cộng hắn lập tức chọn vào không do dự. Hệ thống liền hiển thị một thông tin cho Đình Tấn:
+
+Ngài xác nhận nâng cấp kỹ năng Trung cấp Minh Tưởng Thuật lên Đại Minh Tưởng Thuật chứ?
+
+Điều kiện: 
+
+- Cấp 40 (Chưa thoả mãn) 
+
+- 1 điểm kỹ năng (Thoã mãn)
+
+[Quay lại]
+
+Ngạc nhiên một hồi, Đình Tấn không biết khi nào Minh Tưởng Thuật của hắn đã biến thành Trung cấp Minh Tưởng Thuật. Lập tức kiểm tra lại bảng kỹ năng. Đập vào mắt Đình Tấn ngay vị trí Minh Tưởng Thuật trong bảng kỹ năng, hình ảnh biểu tượng từ màu xanh trước kia liền thay đổi thành màu đỏ:
+
+Trung cấp Minh Tưởng Thuật
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Một cách đồng bộ tần số sóng điện não với môi trường. Giúp đại não càng linh hoạt hơn, được bồi bổ và hấp thu chất dinh dưỡng trong môi trường. Gia tăng cường độ tinh thần, khả năng tư duy.
+
+Tiêu hao: không
+
+Hiệu quả: Mỗi giờ tu luyện gia tăng 3 điểm tinh thần. Lượt tu luyện không tròn một giờ sẽ không gia tăng t huộc tính.
+
+Đồng bộ hiện thực: Gia tăng 3 điểm với người dùng cabin, 1,5 điểm với người dùng mũ game (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+Đình Tấn ánh mắt sáng lên, đúng vậy. Hắn đã học vậy thì chắn chắn là được nâng cấp lên. Liền xoay qua kiểm tra lại kỹ năng triệu hoán Bộ Xương Chiến Sĩ:
+
+Triêu hoán: Trung cấp Bộ xương chiến sĩ
+
+Đẳng cấp: Trung cấp
+
+Giới thiệu: Triêu hồi vong linh sinh vật Bộ xương chiến sĩ trợ giúp chiến đấu với ý thức của một tên chiến sĩ, sức mạnh của một con quái thú và ý chí không sợ chết của sinh vật vong linh.
+
+Tiêu hao ma pháp: 45 MP (Kéo dài tiêu hao 15MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 30
+
+Sát thương vật lý thấp nhất = [Điểm Tinh thần] 1,1
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1,2
+
+Phòng thủ vật lý = [Điểm Sức mạnh] x 0.2
+
+Phòng thủ ma pháp = [Điểm Tinh thần] x 0.1
+
+Số lượng triệu hồi cao nhất = [Đểm Tinh thần] / 9 
+
+Đồng bộ hoá hiện thực: hiệu quả không đổi, tiêu hao không đổi. Độ chuẩn xác thông số 90%. Hệ thống sẽ khoá DNA của ngài nếu có tố cáo ngài phạm tội từ phía chính phủ. Xin hãy cẩn thận sử dụng. (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+Khoẻ miệng cong lên một vòng mỉm cười, Đình Tấn thật không ngờ có chuyện tốt như vậy mà hắn lại không để ý. Số lượng Bộ Xương Chiến Sĩ được tăng cao lên 10% chất lượng cũng được tăng cao. Đặc biệt hơn là Minh Tưởng Thuật tốc độ tu luyện sẽ gia tăng 50% thực lực của hắn lại tăng mạnh một vòng. Trong lòng vui vẻ Đình Tấn lại bật giao dịch với NPC Triệu Hồn Sư. Nhưng nhớ lại điều kiện để nâng cấp lên cấp tiếp theo là đẳng cấp 40. Điều này cũng làm hắn hơi nôn nao.
+
+Được rồi, 40 cấp thì 40 cấp. Hắn cũng không tiếc nuối mấy. Dù sao kỹ năng này cũng đã miễn phí nâng lên Trung cấp, không nên quá tham lam. Đình Tấn liền quay lại nhìn những kỹ năng khác. Bộ Xương Chiến Sĩ kỹ năng hiệu quả nhất với Đình Tấn bây giờ. Mặc dù phía sau còn có những triệu hoán khác nhưng hiện tại hoặc giả sử sau này Bộ Xương Chiến Sĩ hiệu quả vẫn là hữu dụng. Đình Tấn muốn thử xem có thể tiếp tục nâng cấp lên tiếp không.
+
+Ngài xác nhận nâng cấp kỹ năng Trung cấp Bộ Xương Chiến Sĩ lên Cao cấp Bộ Xương Chiến Sĩ chứ?
+
+Điều kiện: 
+
+- Cấp 40 (Thoả mãn) 
+
+- 1 điểm kỹ năng (Thoã mãn)
+
+[Quay lại]
+
+- 2 kỹ năng trung cấp muốn thăng lên thượng cấp đều phải chờ đến level 40, đây ắt hắn là một cột mốc khác. 
+
+Đình Tấn khoanh tay suy nghĩ. Có 4 điểm kỹ năng Đình Tấn suy tính nếu mỗi 10 cấp sẽ cho một điểm vậy chi 30 câp hắn chỉ có 6 điểm kỹ năng. Nếu có kỹ năng mới hắn phải dự trù điểm kỹ năng để có thể nâng cấp lên. Hơn nữa hắn muốn chuyển chức chiến sĩ, vậy nên hắn cần dự trù thêm rất nhiều điểm kỹ năng nữa cho những hữu dụng kỹ năng. Mặc dù không biết có thể sử dụng ngoài hiện thực những kỹ năng này không nhưng chắc chắn hắn đều muốn thử một lần. 
+
+Vậy là Đình Tấn quyết định chỉ nâng với Cốt Giáp, bảo vệ sinh mệnh an toàn là trên hết. Những kĩ năng khác cũng không quá hữu dụng với hắn ở thời điểm hiện tại. Đã có quyết định Đình Tấn không do dự nữa sử dụng điểm kỹ năng vào Cốt Giáp:
+
+Ngài xác nhận nâng cấp kỹ năng Cốt Giáp lên Trung cấp Cốt Giáp chứ?
+
+Điều kiện: 
+
+- Cấp 10 (Thoả mãn) 
+
+- 1 điểm kỹ năng (Thoã mãn)
+
+[Xác nhận] [Quay lại]
+
+Lựa chọn xác nhận, Đình Tấn không có gì để do dự. Xong tất cả Đình Tấn lại kiểm tra kỹ năng một lần nữa, nắm giữ chính mình kỹ năng để có một phán đoán chính xác nhất.
+
+Trung cấp Cốt giáp
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Triệu hồi xương cốt từ cơi chết h́ình thành tấm khiên, vây quanh bảo vệ cho vong linh pháp sư khỏi nguy hiểm.
+
+Tiêu hao: [Điểm tinh thần] MP
+
+Hiệu quả: Hình thành 6 tấm khiên, mỗi tấm khiên có thể chống đỡ (100 + Điểm tinh thần) HP. Duy trì [60 + Điểm tinh thần] giây. Không thế liên tục sử dụng trong 4 phút nếu cưỡng chế sử dụng sẽ tiêu hao gấp 4 lần.
+
+Kỹ năng cường lực là một chuyện đã làm Đình Tấn cảm thấy hạnh phúc, thế nhưng nhìn lấy triệu hoán Bộ Xương Chiến Sĩ đồng bộ hoá hiện thực làm Đình Tấn càng kích động hơn. Điều đó cho thấy suy đoán của hắn là chính xác. Kỹ năng học tập trong game sẽ là hình thái chuẩn cho ở hiện thực. Mặc dù trước kia hắn có thể triệu hoán ra được Bộ Xương Chiến Sĩ thế nhưng bọn chúng quá yếu. Điều đó cho thấy hắn cần phải chăm chỉ khắc khổ tu luyện nhiều hơn vì vẫn còn rất nhiều thứ phía cần hắn đi chinh phục.
+
+Còn bị tố cáo, hắn không sợ. Dù sao hắn sẽ không sử dụng mấy kỹ năng đó cho mục đích riêng. Trừ phi có người hướng hắn mà tới. Hơn nữa trí não cũng tự nhận biết được tình huống. Tự vệ mà ngộ sát chắc hẳn sẽ không phạt nặng như vậy.
+
+Ameerah lúc này cũng đã nâng cấp xong. Đình Tấn trước đó đã hướng nàng khuyến khích nâng lên kỹ năng tu luyện Dẻo dai cường hoá đầu tiên, nếu không thể thì thay thành kỹ năng chức nghiệp nàng cho thấy phù hợp nhất. 
+
+Hắn chỉ có thể hướng nàng chỉ dạy kĩ xảo chiến đấu hoặc hướng đi tu luyện. Còn phong cách chiến đấu, hắn không muốn xen vào vì đó là sự phát triển của riêng nàng. Nàng phải tự tìm ra một lối đi riêng cho mình.
+
+Đã hoàn thành nâng cấp, còn chừa lại đến 3 điểm kỹ năng. Đình Tấn tiến tới tên NPC Chiến Sĩ ở bên trái ngoài cùng. Người mặc trọng giáp, đội mũ giáp bao trùm cả gương mặt, lưng đeo đại kiếm trông như một gã khổng lồ. Tiến lại gần ngước lên nhìn tên NPC cao hơn mình đến 1 cái đầu này, Đình Tấn không nhanh không chậm nói:
+
+- Xin chào giáo viên, xin cho ta được chuyển chức Chiến Sĩ.
+
+Tên NPC Chiến sĩ cúi đầu nhìn Đình Tấn, chậm rãi lắc đầu giọng ồm ồm vang vọng cả đại sảnh:
+
+- Ngươi không thích hợp. Ta có thể cho ngươi sức mạnh, thế nhưng không thể đưa ngươi đến đỉnh cao. Linh Mục, mới là người ngươi cần tìm. Đi đi chàng trai trẻ.Ngay khi Đình Tấn đang cảm khái, ở một đại sảnh chức nghiệp trong một thành khác, một tên thanh niên mang gương mặt góc cạnh điển trai điển hình phương tây, đầu tóc cắt ngắn được chải vuốt chỉnh tề. Mắt loé ra từng tia sát lạnh, giọng nghiến răng đầy căm tức:
+
+- Khốn kiếp, lại là hai tên này, lại là hạng ba. 50 người suốt một đêm thay phiên nhau đánh kinh nghiệm lại không thể so lại với 2 tên này. Khốn kiếp thật!!! Đừng để ta tìm thấy các ngươi, nếu không gia nhập làm thủ hạ của ta thì các ngươi chết chắc rồi.
+
+Nói xong, hậm hực quay đầu hướng bên ngoài bước đi. Tên người chơi này ắt hẳn là The King như hệ thống đã thông cáo.
+
+Đình Tấn lúc này đang ở bên cạnh Ameerah, hai người ngồi ngoài bậc thềm đại sảnh mở bảng kỹ năng cùng thông số mà kiểm tra. Thông số nhân vật không có thay đổi gì, chỉ riêng phần chức nghiệp lại thêm ra:
+
+Tính danh: Đình Tấn (Hiển thị)
+
+Biệt danh: The Dawn (Hiển thị)
+
+Tuổi: 23
+
+Chức nghiệp: 
+
+Vong linh ma pháp sư (Chức nghiệp ẩn) (Chi tiết)
+
+Đình Tấn ngạc nhiên thốt lên:
+
+- Lại là chức nghiệp ẩn?! Không hổ là người đầu tiên, lợi thế càng nhiều.
+
+Bấm chọn vào chi tiết, kiểm tra xem có thông tin gì về chức nghiệp này không. Bảng hệ thống cũng nhanh chóng hiển thị ra trước mắt Đình Tấn:
+
+Vong linh ma pháp sư (Chức nghiệp ẩn)
+
+Giới thiệu: Một nhóm ma pháp sư luôn ẩn tại phía sau sự huy hoàng và tôn quý mà đáng lẽ ra bọn họ phải có được. Dùng sức mạnh và sinh mệnh của mình bảo vệ cho nhân loại, thế nhưng bọn họ luôn bị kì thị và khinh bỉ vì cách mà mình triệu hồi những kẻ đã chết để chiến đấu.
+
+Vong linh ma pháp sư là những người dùng sinh mệnh và tinh thần của mình làm trung gian giao lưu giữa hai thế giới giữa cõi chết và hiện thực, dùng những thứ từ cõi chết mang về bên cạnh, chiến đấu thay cho bọn họ.
+
+Kỹ năng chức nghiệp:
+
+[Sinh Mệnh Hiến Tế]
+
+Giới thiệu: Khi ngươi chiến đấu đã đến cực hạn tinh thần chịu đựng, hãy dùng sinh mệnh của mình. Thiêu đốt nó lên đi, dùng nó để giết chết kẻ địch của mình.
+
+Hiệu quả: Dùng HP để thay thế cho MP khi sử dụng kỹ năng. Mức qui đổi 1:5 (1 HP = 5 MP)
+
+Điều đầu tiên khi thấy hiệu quả này, Đình Tấn chỉ có một ý nghĩ “Mang ra hiện thực” thế nhưng nghĩ kỹ lại, hắn liền bỏ qua ý tưởng này.
+
+Dù sao Sinh mệnh lực không phải là điều nói chơi, nếu có thể hồi phục thì không sao nhưng nếu không thể hồi phục thì mất nhiều hơn được. 
+
+Ở trong game có thuốc HP, chết đi có thể FRZwe9jK lại phục sinh, thiệt hại nhiều lắm cũng chỉ là mất đi 1 cấp. Nhưng ở hiện thực không nên đùa giỡn với sinh mệnh của mình.
+
+- Thôi, nếu sau này có cơ hội sẽ nghiên cứu sau. – Đình Tấn lắc đầu không xoắn xuýt chuyện này nữa.
+
+Sau đó lại đưa mắt về bảng hệ thống kỹ năng, kiểm tra ba kỹ năng vừa được học.
+
+Nguyền rủa suy nhược
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Nguyền rủa cùng là một trong những học thuật của vong linh ma pháp sư, suy yếu sức mạnh của kẻ địch.
+
+Tiêu hao: [Điểm tinh thần] MP
+
+Hiệu quả: Giảm thuộc tính của kẻ địch 10%, giảm tốc độ di chuyển cùng tấn công 20% tồn tại trong 15 giây. (Không thể chồng chất)
+
+Cốt giáp
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Triệu hồi xương cốt từ cõi chết hình thành tấm khiên, vây quanh tự động phòng thủ bảo vệ cho vong linh pháp sư khỏi nguy hiểm.
+
+Tiêu hao: [Điểm tinh thần*2] MP
+
+Hiệu quả: Hình thành 5 tấm khiên, mỗi tấm chống đỡ [50 + Điểm tinh thần] HP, duy trì trong 60 giây. Không thế liên tục sử dụng trong 5 phút nếu cưỡng chế sử dụng sẽ tiêu hao gấp 5 lần.
+
+Cốt thứ 
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Triệu hồi một thanh xương cốt từ hư không, tấn công bất ngờ kẻ địch.
+
+Tiêu hao: 40 MP
+
+Hiệu quả: 150% sát thương phép
+
+Kỹ năng mới rất hiệu quả và cường lực. Thế nhưng với một chức nghiệp ẩn như Đình Tấn kỹ năng mới cũng khá là không liên quan đến việc triệu hoán đây. Hay phải chăng kỹ năng triệu hoán cùng minh tưởng thuật đã có nên hệ thống không học tập tiếp nữa. Nếu không có triệu hoán Bộ Xương Chiến Sĩ Đình Tấn không biết phải hình dung cảnh mình sẽ chiến đấu ra sao nữa.
+
+Chợt nhìn thấy ngay góc bảng kỹ năng có hiển thị một con số 4. Đình Tấn tò mò suy nghĩ một chút, hắn quay lại hướng giáo viên của mình thỉnh giáo thử một chút. Đình Tấn tiến lại tên Giáo Viên Triệu Hồn Sư cúi người hỏi:
+
+- Thưa giáo viên, ta có một thắc mắc không biết người có thể hướng ta giải thích không?
+
+- Nói – Giọng hắn khàn khàn, ngắn gọn trả lời.
+
+- Ta không biết sử dụng điểm kỹ năng làm gì, muốn hướng ngài cầu giải đáp. – Đình Tấn vẫn lễ phép nói.
+
+- Sử dụng điểm kỹ năng giao diện ở ta nơi này. Ngươi có thể nâng cấp kỹ năng lên một tầm cao mới. 
+
+Vần là giọng nói khàn khàn của tên Giáo Viên Triệu Hồn Sư. Thế nhưng được đáp án Đình Tấn vui vẻ lên. Nâng cấp lên, quả thật là niềm vui lớn với Đình Tấn. Hắn 3 lần kích hoạt tự chủ kỹ năng, lại thêm một lần thăng cấp 10 tổng cộng được 4 điểm kỹ năng. Điều đó có nghĩa hắn có thế thăng cấp 4 kỹ năng, hoặc một lần thăng liên tục 1 kỹ năng lên một cấp bậc cực kinh khủng. Lập tức nói điều này với Ameerah đang đứng bên cạnh, đuổi nàng đi về với giáo sư của mình. Sau đó không chậm trễ, Đình Tấn mở ra giao diện hệ thống chọn Giao dịch với tên Giáo Viên Triệu Hồn Sư.
+
+Giao diện giao dịch cũng giống như giao diện kỹ năng thế nhưng ở cuối ô kỹ năng lại có thêm một dấu cộng. Đình Tấn thấy minh tưởng thuật đã có dấu cộng hắn lập tức chọn vào không do dự. Hệ thống liền hiển thị một thông tin cho Đình Tấn:
+
+Ngài xác nhận nâng cấp kỹ năng Trung cấp Minh Tưởng Thuật lên Đại Minh Tưởng Thuật chứ?
+
+Điều kiện: 
+
+- Cấp 40 (Chưa thoả mãn) 
+
+- 1 điểm kỹ năng (Thoã mãn)
+
+[Quay lại]
+
+Ngạc nhiên một hồi, Đình Tấn không biết khi nào Minh Tưởng Thuật của hắn đã biến thành Trung cấp Minh Tưởng Thuật. Lập tức kiểm tra lại bảng kỹ năng. Đập vào mắt Đình Tấn ngay vị trí Minh Tưởng Thuật trong bảng kỹ năng, hình ảnh biểu tượng từ màu xanh trước kia liền thay đổi thành màu đỏ:
+
+Trung cấp Minh Tưởng Thuật
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Một cách đồng bộ tần số sóng điện não với môi trường. Giúp đại não càng linh hoạt hơn, được bồi bổ và hấp thu chất dinh dưỡng trong môi trường. Gia tăng cường độ tinh thần, khả năng tư duy.
+
+Tiêu hao: không
+
+Hiệu quả: Mỗi giờ tu luyện gia tăng 3 điểm tinh thần. Lượt tu luyện không tròn một giờ sẽ không gia tăng t huộc tính.
+
+Đồng bộ hiện thực: Gia tăng 3 điểm với người dùng cabin, 1,5 điểm với người dùng mũ game (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+Đình Tấn ánh mắt sáng lên, đúng vậy. Hắn đã học vậy thì chắn chắn là được nâng cấp lên. Liền xoay qua kiểm tra lại kỹ năng triệu hoán Bộ Xương Chiến Sĩ:
+
+Triêu hoán: Trung cấp Bộ xương chiến sĩ
+
+Đẳng cấp: Trung cấp
+
+Giới thiệu: Triêu hồi vong linh sinh vật Bộ xương chiến sĩ trợ giúp chiến đấu với ý thức của một tên chiến sĩ, sức mạnh của một con quái thú và ý chí không sợ chết của sinh vật vong linh.
+
+Tiêu hao ma pháp: 45 MP (Kéo dài tiêu hao 15MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 30
+
+Sát thương vật lý thấp nhất = [Điểm Tinh thần] 1,1
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1,2
+
+Phòng thủ vật lý = [Điểm Sức mạnh] x 0.2
+
+Phòng thủ ma pháp = [Điểm Tinh thần] x 0.1
+
+Số lượng triệu hồi cao nhất = [Đểm Tinh thần] / 9 
+
+Đồng bộ hoá hiện thực: hiệu quả không đổi, tiêu hao không đổi. Độ chuẩn xác thông số 90%. Hệ thống sẽ khoá DNA của ngài nếu có tố cáo ngài phạm tội từ phía chính phủ. Xin hãy cẩn thận sử dụng. (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+Khoẻ miệng cong lên một vòng mỉm cười, Đình Tấn thật không ngờ có chuyện tốt như vậy mà hắn lại không để ý. Số lượng Bộ Xương Chiến Sĩ được tăng cao lên 10% chất lượng cũng được tăng cao. Đặc biệt hơn là Minh Tưởng Thuật tốc độ tu luyện sẽ gia tăng 50% thực lực của hắn lại tăng mạnh một vòng. Trong lòng vui vẻ Đình Tấn lại bật giao dịch với NPC Triệu Hồn Sư. Nhưng nhớ lại điều kiện để nâng cấp lên cấp tiếp theo là đẳng cấp 40. Điều này cũng làm hắn hơi nôn nao.
+
+Được rồi, 40 cấp thì 40 cấp. Hắn cũng không tiếc nuối mấy. Dù sao kỹ năng này cũng đã miễn phí nâng lên Trung cấp, không nên quá tham lam. Đình Tấn liền quay lại nhìn những kỹ năng khác. Bộ Xương Chiến Sĩ kỹ năng hiệu quả nhất với Đình Tấn bây giờ. Mặc dù phía sau còn có những triệu hoán khác nhưng hiện tại hoặc giả sử sau này Bộ Xương Chiến Sĩ hiệu quả vẫn là hữu dụng. Đình Tấn muốn thử xem có thể tiếp tục nâng cấp lên tiếp không.
+
+Ngài xác nhận nâng cấp kỹ năng Trung cấp Bộ Xương Chiến Sĩ lên Cao cấp Bộ Xương Chiến Sĩ chứ?
+
+Điều kiện: 
+
+- Cấp 40 (Thoả mãn) 
+
+- 1 điểm kỹ năng (Thoã mãn)
+
+[Quay lại]
+
+- 2 kỹ năng trung cấp muốn thăng lên thượng cấp đều phải chờ đến level 40, đây ắt hắn là một cột mốc khác. 
+
+Đình Tấn khoanh tay suy nghĩ. Có 4 điểm kỹ năng Đình Tấn suy tính nếu mỗi 10 cấp sẽ cho một điểm vậy chi 30 câp hắn chỉ có 6 điểm kỹ năng. Nếu có kỹ năng mới hắn phải dự trù điểm kỹ năng để có thể nâng cấp lên. Hơn nữa hắn muốn chuyển chức chiến sĩ, vậy nên hắn cần dự trù thêm rất nhiều điểm kỹ năng nữa cho những hữu dụng kỹ năng. Mặc dù không biết có thể sử dụng ngoài hiện thực những kỹ năng này không nhưng chắc chắn hắn đều muốn thử một lần. 
+
+Vậy là Đình Tấn quyết định chỉ nâng với Cốt Giáp, bảo vệ sinh mệnh an toàn là trên hết. Những kĩ năng khác cũng không quá hữu dụng với hắn ở thời điểm hiện tại. Đã có quyết định Đình Tấn không do dự nữa sử dụng điểm kỹ năng vào Cốt Giáp:
+
+Ngài xác nhận nâng cấp kỹ năng Cốt Giáp lên Trung cấp Cốt Giáp chứ?
+
+Điều kiện: 
+
+- Cấp 10 (Thoả mãn) 
+
+- 1 điểm kỹ năng (Thoã mãn)
+
+[Xác nhận] [Quay lại]
+
+Lựa chọn xác nhận, Đình Tấn không có gì để do dự. Xong tất cả Đình Tấn lại kiểm tra kỹ năng một lần nữa, nắm giữ chính mình kỹ năng để có một phán đoán chính xác nhất.
+
+Trung cấp Cốt giáp
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Triệu hồi xương cốt từ cơi chết h́ình thành tấm khiên, vây quanh bảo vệ cho vong linh pháp sư khỏi nguy hiểm.
+
+Tiêu hao: [Điểm tinh thần] MP
+
+Hiệu quả: Hình thành 6 tấm khiên, mỗi tấm khiên có thể chống đỡ (100 + Điểm tinh thần) HP. Duy trì [60 + Điểm tinh thần] giây. Không thế liên tục sử dụng trong 4 phút nếu cưỡng chế sử dụng sẽ tiêu hao gấp 4 lần.
+
+Kỹ năng cường lực là một chuyện đã làm Đình Tấn cảm thấy hạnh phúc, thế nhưng nhìn lấy triệu hoán Bộ Xương Chiến Sĩ đồng bộ hoá hiện thực làm Đình Tấn càng kích động hơn. Điều đó cho thấy suy đoán của hắn là chính xác. Kỹ năng học tập trong game sẽ là hình thái chuẩn cho ở hiện thực. Mặc dù trước kia hắn có thể triệu hoán ra được Bộ Xương Chiến Sĩ thế nhưng bọn chúng quá yếu. Điều đó cho thấy hắn cần phải chăm chỉ khắc khổ tu luyện nhiều hơn vì vẫn còn rất nhiều thứ phía cần hắn đi chinh phục.
+
+Còn bị tố cáo, hắn không sợ. Dù sao hắn sẽ không sử dụng mấy kỹ năng đó cho mục đích riêng. Trừ phi có người hướng hắn mà tới. Hơn nữa trí não cũng tự nhận biết được tình huống. Tự vệ mà ngộ sát chắc hẳn sẽ không phạt nặng như vậy.
+
+Ameerah lúc này cũng đã nâng cấp xong. Đình Tấn trước đó đã hướng nàng khuyến khích nâng lên kỹ năng tu luyện Dẻo dai cường hoá đầu tiên, nếu không thể thì thay thành kỹ năng chức nghiệp nàng cho thấy phù hợp nhất. 
+
+Hắn chỉ có thể hướng nàng chỉ dạy kĩ xảo chiến đấu hoặc hướng đi tu luyện. Còn phong cách chiến đấu, hắn không muốn xen vào vì đó là sự phát triển của riêng nàng. Nàng phải tự tìm ra một lối đi riêng cho mình.
+
+Đã hoàn thành nâng cấp, còn chừa lại đến 3 điểm kỹ năng. Đình Tấn tiến tới tên NPC Chiến Sĩ ở bên trái ngoài cùng. Người mặc trọng giáp, đội mũ giáp bao trùm cả gương mặt, lưng đeo đại kiếm trông như một gã khổng lồ. Tiến lại gần ngước lên nhìn tên NPC cao hơn mình đến 1 cái đầu này, Đình Tấn không nhanh không chậm nói:
+
+- Xin chào giáo viên, xin cho ta được chuyển chức Chiến Sĩ.
+
+Tên NPC Chiến sĩ cúi đầu nhìn Đình Tấn, chậm rãi lắc đầu giọng ồm ồm vang vọng cả đại sảnh:
+
+- Ngươi không thích hợp. Ta có thể cho ngươi sức mạnh, thế nhưng không thể đưa ngươi đến đỉnh cao. Linh Mục, mới là người ngươi cần tìm. Đi đi chàng trai trẻ.Ngay khi Đình Tấn đang cảm khái, ở một đại sảnh chức nghiệp trong một thành khác, một tên thanh niên mang gương mặt góc cạnh điển trai điển hình phương tây, đầu tóc cắt ngắn được chải vuốt chỉnh tề. Mắt loé ra từng tia sát lạnh, giọng nghiến răng đầy căm tức:
+
+- Khốn kiếp, lại là hai tên này, lại là hạng ba. 50 người suốt một đêm thay phiên nhau đánh kinh nghiệm lại không thể so lại với 2 tên này. Khốn kiếp thật!!! Đừng để ta tìm thấy các ngươi, nếu không gia nhập làm thủ hạ của ta thì các ngươi chết chắc rồi.
+
+Nói xong, hậm hực quay đầu hướng bên ngoài bước đi. Tên người chơi này ắt hẳn là The King như hệ thống đã thông cáo.
+
+Đình Tấn lúc này đang ở bên cạnh Ameerah, hai người ngồi ngoài bậc thềm đại sảnh mở bảng kỹ năng cùng thông số mà kiểm tra. Thông số nhân vật không có thay đổi gì, chỉ riêng phần chức nghiệp lại thêm ra:
+
+Tính danh: Đình Tấn (Hiển thị)
+
+Biệt danh: The Dawn (Hiển thị)
+
+Tuổi: 23
+
+Chức nghiệp: 
+
+Vong linh ma pháp sư (Chức nghiệp ẩn) (Chi tiết)
+
+Đình Tấn ngạc nhiên thốt lên:
+
+- Lại là chức nghiệp ẩn?! Không hổ là người đầu tiên, lợi thế càng nhiều.
+
+Bấm chọn vào chi tiết, kiểm tra xem có thông tin gì về chức nghiệp này không. Bảng hệ thống cũng nhanh chóng hiển thị ra trước mắt Đình Tấn:
+
+Vong linh ma pháp sư (Chức nghiệp ẩn)
+
+Giới thiệu: Một nhóm ma pháp sư luôn ẩn tại phía sau sự huy hoàng và tôn quý mà đáng lẽ ra bọn họ phải có được. Dùng sức mạnh và sinh mệnh của mình bảo vệ cho nhân loại, thế nhưng bọn họ luôn bị kì thị và khinh bỉ vì cách mà mình triệu hồi những kẻ đã chết để chiến đấu.
+
+Vong linh ma pháp sư là những người dùng sinh mệnh và tinh thần của mình làm trung gian giao lưu giữa hai thế giới giữa cõi chết và hiện thực, dùng những thứ từ cõi chết mang về bên cạnh, chiến đấu thay cho bọn họ.
+
+Kỹ năng chức nghiệp:
+
+[Sinh Mệnh Hiến Tế]
+
+Giới thiệu: Khi ngươi chiến đấu đã đến cực hạn tinh thần chịu đựng, hãy dùng sinh mệnh của mình. Thiêu đốt nó lên đi, dùng nó để giết chết kẻ địch của mình.
+
+Hiệu quả: Dùng HP để thay thế cho MP khi sử dụng kỹ năng. Mức qui đổi 1:5 (1 HP = 5 MP)
+
+Điều đầu tiên khi thấy hiệu quả này, Đình Tấn chỉ có một ý nghĩ “Mang ra hiện thực” thế nhưng nghĩ kỹ lại, hắn liền bỏ qua ý tưởng này.
+
+Dù sao Sinh mệnh lực không phải là điều nói chơi, nếu có thể hồi phục thì không sao nhưng nếu không thể hồi phục thì mất nhiều hơn được. 
+
+Ở trong game có thuốc HP, chết đi có thể FRZwe9jK lại phục sinh, thiệt hại nhiều lắm cũng chỉ là mất đi 1 cấp. Nhưng ở hiện thực không nên đùa giỡn với sinh mệnh của mình.
+
+- Thôi, nếu sau này có cơ hội sẽ nghiên cứu sau. – Đình Tấn lắc đầu không xoắn xuýt chuyện này nữa.
+
+Sau đó lại đưa mắt về bảng hệ thống kỹ năng, kiểm tra ba kỹ năng vừa được học.
+
+Nguyền rủa suy nhược
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Nguyền rủa cùng là một trong những học thuật của vong linh ma pháp sư, suy yếu sức mạnh của kẻ địch.
+
+Tiêu hao: [Điểm tinh thần] MP
+
+Hiệu quả: Giảm thuộc tính của kẻ địch 10%, giảm tốc độ di chuyển cùng tấn công 20% tồn tại trong 15 giây. (Không thể chồng chất)
+
+Cốt giáp
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Triệu hồi xương cốt từ cõi chết hình thành tấm khiên, vây quanh tự động phòng thủ bảo vệ cho vong linh pháp sư khỏi nguy hiểm.
+
+Tiêu hao: [Điểm tinh thần*2] MP
+
+Hiệu quả: Hình thành 5 tấm khiên, mỗi tấm chống đỡ [50 + Điểm tinh thần] HP, duy trì trong 60 giây. Không thế liên tục sử dụng trong 5 phút nếu cưỡng chế sử dụng sẽ tiêu hao gấp 5 lần.
+
+Cốt thứ 
+
+Cấp bậc: Hạ cấp
+
+Giới thiệu: Triệu hồi một thanh xương cốt từ hư không, tấn công bất ngờ kẻ địch.
+
+Tiêu hao: 40 MP
+
+Hiệu quả: 150% sát thương phép
+
+Kỹ năng mới rất hiệu quả và cường lực. Thế nhưng với một chức nghiệp ẩn như Đình Tấn kỹ năng mới cũng khá là không liên quan đến việc triệu hoán đây. Hay phải chăng kỹ năng triệu hoán cùng minh tưởng thuật đã có nên hệ thống không học tập tiếp nữa. Nếu không có triệu hoán Bộ Xương Chiến Sĩ Đình Tấn không biết phải hình dung cảnh mình sẽ chiến đấu ra sao nữa.
+
+Chợt nhìn thấy ngay góc bảng kỹ năng có hiển thị một con số 4. Đình Tấn tò mò suy nghĩ một chút, hắn quay lại hướng giáo viên của mình thỉnh giáo thử một chút. Đình Tấn tiến lại tên Giáo Viên Triệu Hồn Sư cúi người hỏi:
+
+- Thưa giáo viên, ta có một thắc mắc không biết người có thể hướng ta giải thích không?
+
+- Nói – Giọng hắn khàn khàn, ngắn gọn trả lời.
+
+- Ta không biết sử dụng điểm kỹ năng làm gì, muốn hướng ngài cầu giải đáp. – Đình Tấn vẫn lễ phép nói.
+
+- Sử dụng điểm kỹ năng giao diện ở ta nơi này. Ngươi có thể nâng cấp kỹ năng lên một tầm cao mới. 
+
+Vần là giọng nói khàn khàn của tên Giáo Viên Triệu Hồn Sư. Thế nhưng được đáp án Đình Tấn vui vẻ lên. Nâng cấp lên, quả thật là niềm vui lớn với Đình Tấn. Hắn 3 lần kích hoạt tự chủ kỹ năng, lại thêm một lần thăng cấp 10 tổng cộng được 4 điểm kỹ năng. Điều đó có nghĩa hắn có thế thăng cấp 4 kỹ năng, hoặc một lần thăng liên tục 1 kỹ năng lên một cấp bậc cực kinh khủng. Lập tức nói điều này với Ameerah đang đứng bên cạnh, đuổi nàng đi về với giáo sư của mình. Sau đó không chậm trễ, Đình Tấn mở ra giao diện hệ thống chọn Giao dịch với tên Giáo Viên Triệu Hồn Sư.
+
+Giao diện giao dịch cũng giống như giao diện kỹ năng thế nhưng ở cuối ô kỹ năng lại có thêm một dấu cộng. Đình Tấn thấy minh tưởng thuật đã có dấu cộng hắn lập tức chọn vào không do dự. Hệ thống liền hiển thị một thông tin cho Đình Tấn:
+
+Ngài xác nhận nâng cấp kỹ năng Trung cấp Minh Tưởng Thuật lên Đại Minh Tưởng Thuật chứ?
+
+Điều kiện: 
+
+- Cấp 40 (Chưa thoả mãn) 
+
+- 1 điểm kỹ năng (Thoã mãn)
+
+[Quay lại]
+
+Ngạc nhiên một hồi, Đình Tấn không biết khi nào Minh Tưởng Thuật của hắn đã biến thành Trung cấp Minh Tưởng Thuật. Lập tức kiểm tra lại bảng kỹ năng. Đập vào mắt Đình Tấn ngay vị trí Minh Tưởng Thuật trong bảng kỹ năng, hình ảnh biểu tượng từ màu xanh trước kia liền thay đổi thành màu đỏ:
+
+Trung cấp Minh Tưởng Thuật
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Một cách đồng bộ tần số sóng điện não với môi trường. Giúp đại não càng linh hoạt hơn, được bồi bổ và hấp thu chất dinh dưỡng trong môi trường. Gia tăng cường độ tinh thần, khả năng tư duy.
+
+Tiêu hao: không
+
+Hiệu quả: Mỗi giờ tu luyện gia tăng 3 điểm tinh thần. Lượt tu luyện không tròn một giờ sẽ không gia tăng t huộc tính.
+
+Đồng bộ hiện thực: Gia tăng 3 điểm với người dùng cabin, 1,5 điểm với người dùng mũ game (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+Đình Tấn ánh mắt sáng lên, đúng vậy. Hắn đã học vậy thì chắn chắn là được nâng cấp lên. Liền xoay qua kiểm tra lại kỹ năng triệu hoán Bộ Xương Chiến Sĩ:
+
+Triêu hoán: Trung cấp Bộ xương chiến sĩ
+
+Đẳng cấp: Trung cấp
+
+Giới thiệu: Triêu hồi vong linh sinh vật Bộ xương chiến sĩ trợ giúp chiến đấu với ý thức của một tên chiến sĩ, sức mạnh của một con quái thú và ý chí không sợ chết của sinh vật vong linh.
+
+Tiêu hao ma pháp: 45 MP (Kéo dài tiêu hao 15MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 30
+
+Sát thương vật lý thấp nhất = [Điểm Tinh thần] 1,1
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1,2
+
+Phòng thủ vật lý = [Điểm Sức mạnh] x 0.2
+
+Phòng thủ ma pháp = [Điểm Tinh thần] x 0.1
+
+Số lượng triệu hồi cao nhất = [Đểm Tinh thần] / 9 
+
+Đồng bộ hoá hiện thực: hiệu quả không đổi, tiêu hao không đổi. Độ chuẩn xác thông số 90%. Hệ thống sẽ khoá DNA của ngài nếu có tố cáo ngài phạm tội từ phía chính phủ. Xin hãy cẩn thận sử dụng. (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+Khoẻ miệng cong lên một vòng mỉm cười, Đình Tấn thật không ngờ có chuyện tốt như vậy mà hắn lại không để ý. Số lượng Bộ Xương Chiến Sĩ được tăng cao lên 10% chất lượng cũng được tăng cao. Đặc biệt hơn là Minh Tưởng Thuật tốc độ tu luyện sẽ gia tăng 50% thực lực của hắn lại tăng mạnh một vòng. Trong lòng vui vẻ Đình Tấn lại bật giao dịch với NPC Triệu Hồn Sư. Nhưng nhớ lại điều kiện để nâng cấp lên cấp tiếp theo là đẳng cấp 40. Điều này cũng làm hắn hơi nôn nao.
+
+Được rồi, 40 cấp thì 40 cấp. Hắn cũng không tiếc nuối mấy. Dù sao kỹ năng này cũng đã miễn phí nâng lên Trung cấp, không nên quá tham lam. Đình Tấn liền quay lại nhìn những kỹ năng khác. Bộ Xương Chiến Sĩ kỹ năng hiệu quả nhất với Đình Tấn bây giờ. Mặc dù phía sau còn có những triệu hoán khác nhưng hiện tại hoặc giả sử sau này Bộ Xương Chiến Sĩ hiệu quả vẫn là hữu dụng. Đình Tấn muốn thử xem có thể tiếp tục nâng cấp lên tiếp không.
+
+Ngài xác nhận nâng cấp kỹ năng Trung cấp Bộ Xương Chiến Sĩ lên Cao cấp Bộ Xương Chiến Sĩ chứ?
+
+Điều kiện: 
+
+- Cấp 40 (Thoả mãn) 
+
+- 1 điểm kỹ năng (Thoã mãn)
+
+[Quay lại]
+
+- 2 kỹ năng trung cấp muốn thăng lên thượng cấp đều phải chờ đến level 40, đây ắt hắn là một cột mốc khác. 
+
+Đình Tấn khoanh tay suy nghĩ. Có 4 điểm kỹ năng Đình Tấn suy tính nếu mỗi 10 cấp sẽ cho một điểm vậy chi 30 câp hắn chỉ có 6 điểm kỹ năng. Nếu có kỹ năng mới hắn phải dự trù điểm kỹ năng để có thể nâng cấp lên. Hơn nữa hắn muốn chuyển chức chiến sĩ, vậy nên hắn cần dự trù thêm rất nhiều điểm kỹ năng nữa cho những hữu dụng kỹ năng. Mặc dù không biết có thể sử dụng ngoài hiện thực những kỹ năng này không nhưng chắc chắn hắn đều muốn thử một lần. 
+
+Vậy là Đình Tấn quyết định chỉ nâng với Cốt Giáp, bảo vệ sinh mệnh an toàn là trên hết. Những kĩ năng khác cũng không quá hữu dụng với hắn ở thời điểm hiện tại. Đã có quyết định Đình Tấn không do dự nữa sử dụng điểm kỹ năng vào Cốt Giáp:
+
+Ngài xác nhận nâng cấp kỹ năng Cốt Giáp lên Trung cấp Cốt Giáp chứ?
+
+Điều kiện: 
+
+- Cấp 10 (Thoả mãn) 
+
+- 1 điểm kỹ năng (Thoã mãn)
+
+[Xác nhận] [Quay lại]
+
+Lựa chọn xác nhận, Đình Tấn không có gì để do dự. Xong tất cả Đình Tấn lại kiểm tra kỹ năng một lần nữa, nắm giữ chính mình kỹ năng để có một phán đoán chính xác nhất.
+
+Trung cấp Cốt giáp
+
+Cấp bậc: Trung cấp
+
+Giới thiệu: Triệu hồi xương cốt từ cơi chết h́ình thành tấm khiên, vây quanh bảo vệ cho vong linh pháp sư khỏi nguy hiểm.
+
+Tiêu hao: [Điểm tinh thần] MP
+
+Hiệu quả: Hình thành 6 tấm khiên, mỗi tấm khiên có thể chống đỡ (100 + Điểm tinh thần) HP. Duy trì [60 + Điểm tinh thần] giây. Không thế liên tục sử dụng trong 4 phút nếu cưỡng chế sử dụng sẽ tiêu hao gấp 4 lần.
+
+Kỹ năng cường lực là một chuyện đã làm Đình Tấn cảm thấy hạnh phúc, thế nhưng nhìn lấy triệu hoán Bộ Xương Chiến Sĩ đồng bộ hoá hiện thực làm Đình Tấn càng kích động hơn. Điều đó cho thấy suy đoán của hắn là chính xác. Kỹ năng học tập trong game sẽ là hình thái chuẩn cho ở hiện thực. Mặc dù trước kia hắn có thể triệu hoán ra được Bộ Xương Chiến Sĩ thế nhưng bọn chúng quá yếu. Điều đó cho thấy hắn cần phải chăm chỉ khắc khổ tu luyện nhiều hơn vì vẫn còn rất nhiều thứ phía cần hắn đi chinh phục.
+
+Còn bị tố cáo, hắn không sợ. Dù sao hắn sẽ không sử dụng mấy kỹ năng đó cho mục đích riêng. Trừ phi có người hướng hắn mà tới. Hơn nữa trí não cũng tự nhận biết được tình huống. Tự vệ mà ngộ sát chắc hẳn sẽ không phạt nặng như vậy.
+
+Ameerah lúc này cũng đã nâng cấp xong. Đình Tấn trước đó đã hướng nàng khuyến khích nâng lên kỹ năng tu luyện Dẻo dai cường hoá đầu tiên, nếu không thể thì thay thành kỹ năng chức nghiệp nàng cho thấy phù hợp nhất. 
+
+Hắn chỉ có thể hướng nàng chỉ dạy kĩ xảo chiến đấu hoặc hướng đi tu luyện. Còn phong cách chiến đấu, hắn không muốn xen vào vì đó là sự phát triển của riêng nàng. Nàng phải tự tìm ra một lối đi riêng cho mình.
+
+Đã hoàn thành nâng cấp, còn chừa lại đến 3 điểm kỹ năng. Đình Tấn tiến tới tên NPC Chiến Sĩ ở bên trái ngoài cùng. Người mặc trọng giáp, đội mũ giáp bao trùm cả gương mặt, lưng đeo đại kiếm trông như một gã khổng lồ. Tiến lại gần ngước lên nhìn tên NPC cao hơn mình đến 1 cái đầu này, Đình Tấn không nhanh không chậm nói:
+
+- Xin chào giáo viên, xin cho ta được chuyển chức Chiến Sĩ.
+
+Tên NPC Chiến sĩ cúi đầu nhìn Đình Tấn, chậm rãi lắc đầu giọng ồm ồm vang vọng cả đại sảnh:
+
+- Ngươi không thích hợp. Ta có thể cho ngươi sức mạnh, thế nhưng không thể đưa ngươi đến đỉnh cao. Linh Mục, mới là người ngươi cần tìm. Đi đi chàng trai trẻ.

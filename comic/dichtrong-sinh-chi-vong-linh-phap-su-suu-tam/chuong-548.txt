@@ -1,0 +1,625 @@
+Thời gian đến trận phòng thủ cứ điểm chỉ còn lại không đến năm ngày, trong khi người người nhà nhà đang tất bật chuẩn bị, tổ đội của Đình Tấn lại phải vật lộn chiến đấu với lũ Thằn Lằn Nham Thạch vào những phút cuối cùng.
+
+-“Cẩn thận có Boss, mau rút trở về! Long, buff khôi phục HP.”
+
+Bất thình lình, trông thấy từ bên trong một cánh cổng không gian ở vị trí trung tâm đột nhiên rung động thêm dữ dội, Đình Tấn không chút do dự rống lớn ra lệnh cho sáu người đồng đội của mình.
+
+Không hề có một tia do dự, sáu người mặc kệ cho con mồi trước mắt mình đã chỉ còn lại một tia HP nho nhỏ cũng không nổi lên tham niệm, đồng loạt thu thế nhất trí rút lui.
+
+Vẫn luôn đúng hộ vệ bên cạnh Đình Tấn, Long vừa nghe được mệnh lệnh, tức thì tiến lên trước nửa bước, xoay ngang đoản trượng trong tay, không ngừng vẽ lên vòng tròn ma pháp vào giữa hư không trước mặt.
+
+Ngay khi vòng tròn ma pháp đã hoàn thiện xong liền phiêu miểu bay lên giữa không trung, mở ra một cánh cổng không gian trắng xóa.
+
+‘Đùng!’
+
+[Sinh Mệnh Thăng Hoa] (15 giây)
+
+Từ bên trong màn ánh sáng chói mắt bỗng nhiên rơi ra một vật hình trụ, nặng nề rơi xuống cắm sâu vào trong lòng đất.
+
+Nhìn rõ lại mới thấy, đó là một ngọn cọc tiêu không rõ được tạo nên bởi nguyên liệu gì, bề ngoài điêu khắc hoa văn rất tinh xảo. Phía trên đỉnh còn đang liên tục tản mát ra nhàn nhạt hồng quang, ẩn chứa bên trong thật nồng đậm sinh mệnh.
+
+‘Phù…’
+
++433 HP
+
++433 HP
+
+…
+
+Một giây sau khi rơi xuống mặt đất, cây cọc [Sinh Mệnh Thăng Hoa] chợt phóng xuất ra một đợt sóng năng lượng màu đỏ, bán kính bao trùm hết thảy khuôn viên 10 mét xung quanh nó.
+
+Dưới sự ảnh hưởng từ trong quá trình khắc họa ra vòng tròn ma thuật của Long, ngay khi đợt sóng năng lượng màu đỏ ấy chạm đến đám vong linh, trên thân thể của chúng lập tức bị phủ lên một lớp ánh sáng màu đỏ, hiệu quả khôi phục HP cứ mỗi cách một giây lại nhảy lên trên đầu chúng một lần.
+
+[Triệu hồi Bộ Xương Pháp Sư] (x50)
+
+[Triệu hồi Tu La Huyết Chiến Sĩ] (x20)
+
+Cùng lúc đó, Đình Tấn cũng đã hoàn thành xong hai thuật triệu hồi, kêu gọi ra một nửa quân số tối đa của hai loại binh chủng mạnh nhất mà hắn nắm giữ.
+
+Chỉ trong tích tắc khi Bộ Xương Pháp Sư và Tu La Huyết Chiến Sĩ được triệu tập đầy đủ quân số, MP cùng với HP của Đình Tấn bắt đầu kéo xuống với một tốc độ có thể dùng hai từ khủng bố để hình dung.
+
+‘Gầm! Phừng phừng…’
+
+-1220 [Hỏa]
+
+-1224 [Hỏa]
+
+…
+
+Đối mặt với vong linh đại quân đông nghìn nghịt, từ trong cổng không gian đang rung động kia đột ngột truyền ra một tiếng gầm thét khủng bố, kèm theo đó là một ngọn lửa đỏ hừng hực thổi ra ngoài.
+
+Hỏa diễm hừng hực càn quét hết thảy đám vong linh đang chắn trước lối ra cổng không gian, nhiệt độ xung quanh thoáng chốc tăng lên đến chóng mặt, phảng phất muốn đốt cháy mọi thứ xung quanh thành bụi phấn.
+
+Cả một vùng mờ ảo đen tối của khu rừng liền bị ngọn lửa này thắp sáng lên. Nhờ vào đó, Đình Tấn cũng trông thấy được diện mạo của con Thằn Lằn Nham Thạch kinh khủng này.
+
+Thằn Lằn Nham Thạch (Boss Thủ Lĩnh)
+
+Đẳng Cấp: 49
+
+HP: 225.000/225.000
+
+Kỹ Năng: Thiêu Đốt (Bị động) - Mọi sinh vật đứng ở trong vòng bán kính năm mét xung quanh nó sẽ gánh chịu 200 điểm [Sát Thương Thuộc Tính Hỏa] mỗi giây.
+
+Không kịp cho Đình Tấn xem xong thông tin hệ thống cung cấp, con quái vật với hình thể khổng lồ vượt quá một hộ nhà dân, nổi giận xông ra khỏi cánh cổng không gian.
+
+Hàng phòng ngự mỏng manh dựng nên bởi không tới 20 tên Bộ Xương Đấu Sĩ tức thì bị nó phá tan nát không còn một mảnh.
+
+Trông thấy từng mảng con số tổn thương [Sát Thương Thuộc Tính Hỏa] nhảy nhót trên đầu đám vong linh, Đình Tấn làm sao không biết đây đều là do con Boss Thủ Lĩnh Thằn Lằn Nham Thạch này gây ra cho được.
+
+“Phát ra viễn trình công kích! Không cần tiếp cận nó.”
+
+Lấy ứng phó với tình huống đó, hắn không chút chần chờ ra lệnh cho đồng đội của mình hành động.
+
+Đồng thời Tu La Huyết Chiến Sĩ với khả năng kháng cự ma pháp công kích cũng được hắn điều động tiến công quấy rối con Boss, không cho nó có cơ hội tiến thêm được bước nào.
+
+Còn lại Bộ Xương Pháp Sư lơ lửng giữa hư không với độ cao tầm trung, phối hợp với đám Bộ Xương Thần Tiễn Thủ phát động công kích tới những con Thằn Lằn Nham Thạch còn sót lại trong các cánh cổng không gian còn lại.
+
+Ameerah vuốt vuốt bộ ngực phẳng phiu của mình, âm thầm thở dài một hơi nói.
+
+-“Phù… may mắn chỉ ra một con Boss, nếu không chắc ta sẽ khó thở thật.”
+
+-“Yên tâm, ta sẽ bảo vệ ngươi.”
+
+Louis rất tự nhiên nghiêm túc hướng về Ameerah đáp lời. Trông thấy bộ dáng của hắn làm Ameerah thật không nhịn được muốn bật cười.
+
+-“Ta chỉ là nói vậy thôi, có Hội Trưởng ở đây bao kê lại còn sợ cái gì chứ.”
+
+Như để chứng minh cho lời Ameerah nói, toàn bộ những con Thằn Lằn Nham Thạch trong năm cánh cổng không gian còn lại đều bị ép tới độ không thể bò ra bên ngoài.
+
+Đầy trời mưa tên cùng công kích ma pháp đến từ đám vong linh cao cấp mà Đình Tấn triệu hồi ra, từng con Thằn Lằn Nham Thạch bị oanh kích nát nhừ, không thể tồn tại quá năm phút sau đó.
+
+Đối với con Boss Thủ Lĩnh, có sự tham gia của nhóm Tu La Huyết Chiến Sĩ, đàn Bộ Xương Đấu Sĩ và Hắc Ám Tang Thi cũng giảm bớt đi rất nhiều áp lực.
+
+Con Boss bị quấy rối không ngừng gào thét giận dữ, bất quá cũng là vô vọng vì kẻ địch quá đông và xảo trá, đánh xong liền rút lui không cho nó có cơ hội phản kích.
+
+‘Tên Độc’
+
+‘Pháo Quyền’
+
+…
+
+Công kích phát ra từ David, Ameerah, Louis, Terrell điên cuồng rút đi HP của con Boss Thủ Lĩnh.
+
+Đứng ở cạnh bên, Nguyễn Trung trợn mắt ngoác mồm dường như không thể tin vào mắt của mình nữa.
+
+Đây có phải gọi là đánh Boss hay không, hắn cũng không rõ. Một đoàn đội chỉ có bảy người mà kẻ địch lần này lại còn là Boss Thủ Lĩnh trong [Chiến Trường Thế Giới], nổi tiếng mạnh mẽ đến làm cho người tuyệt vọng.
+
+‘Rống!’
+
+[Dung Nham Nóng Chảy]
+
+Sau một hồi bị hành xác, HP của con Boss Thủ Lĩnh Thằn Lằn Nham Thạch rốt cuộc cũng chạm đến mốc 10%. Kẻ địch quá đông tựa hồ đã làm cho nó không thể kìm chế được nữa, tức khắc rống lớn một tiếng rồi tung ra kỹ năng mạnh nhất của mình.
+
+Dòng nham thạch đỏ thẫm cuồn cuộn phun trào ra khỏi người nó, phảng phất như một tòa núi lửa bộc phát.
+
+-“Lui về sau!”
+
+Đình Tấn có vẻ như đã đoán trước được chuyện gì sắp xảy ra. Không cần chờ đến khi HP con Boss rút đến 20%, hắn đã lên tiếng nhắc nhở mọi người.
+
+[Địa Ngục Cốt Giáp]
+
+[Ngự Thuẫn Thuật]
+
+Trong khi sáu người khác đã lui về sau, Đình Tấn lại thêm cho mình một loạt các kỹ năng bảo hộ, ý định tiếp tục trụ lại kháng cự với 10% HP sau cùng của con Boss.
+
+-3822 [Hỏa]
+
+-3822 [Hỏa]
+
+…
+
+Dung nham nóng hừng hực thoáng chốc đã bao trùm lên đám vong linh của Đình Tấn, thương tổn [Sát Thương Thuộc Tính Hỏa] điên cuồng rút lấy HP chúng.
+
+Tuy vậy nhưng với lượng HP có hơn 39.000 điểm của một tên Bộ Xương Đấu Sĩ, số tổn thương ấy cũng không thể lập tức miểu sát nó.
+
+Đình Tấn đứng trước từng đợt dung nham phóng tới trước mặt, thần sắc cũng không hề có một chút kinh hoảng, cực kì lãnh tĩnh nói.
+
+-“Long, toàn lực hồi máu.”
+
+Long ở bên ngoài không nói tiếng nào, tức tốc vung đoản trượng triệu hồi kỹ năng.
+
+[Sinh Mệnh Thăng Hoa] (15 giây)
+
+Không mất quá nhiều thời gian, cọc hồi máu lại một lần nữa cắm vào giữa dòng dung nham, phát ra từng đợt sóng sinh mệnh hỗ trợ cho đám vong linh.
+
+Coi như không thể công kích hay phát ra tổn thương quá nhiều thì nhiệm vụ của Long lại càng quan trọng hơn ai hết.
+
+Lấy kỹ năng [Sinh Mệnh Thăng Hoa] của nghề nghiệp cấp hai Mục Sư, mỗi cách 20 giây hắn lại có thể triệu hồi ra một lần, giúp cho nhóm vong linh của Đình Tấn khôi phục không ít HP, kéo dài thời gian kháng cự với Boss nhiều hơn.
+
+Đoàn đội phối hợp một cách nhịp nhàng, lại thêm vô cùng vô tận đại quân vong linh được Đình Tấn triệu hồi trở về, con Boss Thủ Lĩnh Thằn Lằn Nham Thạch hầu như không thể làm ra quá nhiều phản kháng thì đã phải chết trong uất hận.
+
+‘Rét… ầm ầm…’
+
+Exp +423.000
+
+…
+
+Keng! - Chúc mừng ngài đã thăng lên 44 cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Sau một tiếng gào thét đầy thảm thiết, con Boss Thủ Lĩnh Thằn Lằn Nham Thạch đã trút xuống hơi thở cuối cùng, phóng xuất ra không ít vật phẩm cùng với một lượng kinh nghiệm khổng lồ cho cả nhóm Đình Tấn.
+
+Kiểm tra thuộc tính nhân vật mình, trông thấy thanh kinh nghiệm để lên cấp 45 cần đến gần 21 triệu điểm, Đình Tấn lắc đầu cười khổ không ngớt.
+
+Cho dù ở đây có phụ bản thu hoạch mạnh mẽ hơn bên ngoài rất nhiều, nhưng hắn biết rõ muốn đuổi theo kịp nhóm người đứng đầu Bảng Xếp Hạng [Đẳng Cấp] là một chuyện không hề dễ dàng chút nào.
+
+-“Mọi người tranh thủ thu dọn chiến trường rồi nghỉ ngơi một chút đi.”
+
+Chờ đợi thêm một lúc không thấy có động tĩnh gì xảy ra, Đình Tấn mới yên tâm thu hồi đại quân vong linh của mình, buông lỏng tinh thần nói với mọi người.
+
+Keng! – Đợt sóng quái vật thứ nhất đã hoàn thành, chúc mừng ngài nhận được phần thưởng một điểm kỹ năng tự do. Đợt sóng quái vật thứ hai sẽ bắt đầu sau 5 phút nữa.
+
+Hắn vừa nói xong, một đầu âm thanh hệ thống liền vang lên bên tai mọi người.
+
+-“Woa, được cả điểm kỹ năng thưởng nữa, thật trúng mánh rồi Hội Trưởng ơi. Hihi”
+
+Ameerah mừng rỡ, hai mắt sáng rực lên đầy khoa trương nói. Thế nhưng, hành động của nàng cũng không có dừng lại chút nào, thân ảnh quỷ mị nhanh như chớp phóng về phía bãi đồ vật thưởng rơi ra từ con Boss.
+
+-“Hội Trưởng, ngươi nhận nhiệm vụ này từ lúc nào vậy?”
+
+Long cũng ngạc nhiên không kém, kìm lòng không được tiến lại hỏi dò Đình Tấn.
+
+-“Từ sau khi chuyển chức xong liền nhận, bất quá bởi vì ta chưa có thời gian rảnh rỗi đi làm nên vẫn lưu lại tới bây giờ.”
+
+Đình Tấn thản nhiên nói, dù sao chuyện này cũng không cần thiết phải giấu diếm.
+
+-“Thảo nào, bây giờ muốn nhận được một nhiệm vụ cấp B đã là khó hơn lên trời, không đứng xếp hàng chờ vài ngày thì chắc đừng mơ tưởng tới.”
+
+David gật gù phụ họa theo.
+
+-“Nhiệm vụ này của Hội Trưởng phỏng chừng cũng phải từ cấp A trở lên, lần này chúng ta vẫn là có số hưởng rồi, haha…”
+
+Terrell cười lớn mừng rỡ nói.
+
+-“A! Hội Trưởng, đồ tốt, ở đây có đồ tốt nè.”
+
+Đúng lúc mọi người đang huyên náo nói chuyện, một tiếng hét to cùng với giọng nói đầy kích động từ Ameerah truyền tới.
+
+Không đợi cho Đình Tấn hỏi dò chuyện gì xảy ra, Ameerah đã chớp nhoáng đã mang theo một vật nhỏ phát ra ánh sáng đỏ rực quay trở về.
+
+[Đá Nguyên Tố Nham Thạch Kết Tinh]
+
+Đẳng cấp: 45
+
+Chất lượng: Cao Cấp 
+
+Tác dụng: 
+
+-Chế tạo hoặc khảm nạm vào trang bị trượng, đoản trượng, sách ma pháp. Tăng thêm hiệu ứng Thiêu Đốt (Bị động): gây ra 100 [Sát Thương Thuộc Tính Hỏa] cho kẻ địch trong vòng bán kính 3 mét, kéo dài 5 giây. (Nếu là quái vật triệu hồi sẽ chuyển thành hiệu ứng Aura.)
+
+Quan sát xong thuộc tính món đồ vật trong tay Ameerah, Đình Tấn hoàn toàn câm lặng, hai tay cứng ngắt đưa ra đón lấy đồ vật.Thời gian đến trận phòng thủ cứ điểm chỉ còn lại không đến năm ngày, trong khi người người nhà nhà đang tất bật chuẩn bị, tổ đội của Đình Tấn lại phải vật lộn chiến đấu với lũ Thằn Lằn Nham Thạch vào những phút cuối cùng.
+
+-“Cẩn thận có Boss, mau rút trở về! Long, buff khôi phục HP.”
+
+Bất thình lình, trông thấy từ bên trong một cánh cổng không gian ở vị trí trung tâm đột nhiên rung động thêm dữ dội, Đình Tấn không chút do dự rống lớn ra lệnh cho sáu người đồng đội của mình.
+
+Không hề có một tia do dự, sáu người mặc kệ cho con mồi trước mắt mình đã chỉ còn lại một tia HP nho nhỏ cũng không nổi lên tham niệm, đồng loạt thu thế nhất trí rút lui.
+
+Vẫn luôn đúng hộ vệ bên cạnh Đình Tấn, Long vừa nghe được mệnh lệnh, tức thì tiến lên trước nửa bước, xoay ngang đoản trượng trong tay, không ngừng vẽ lên vòng tròn ma pháp vào giữa hư không trước mặt.
+
+Ngay khi vòng tròn ma pháp đã hoàn thiện xong liền phiêu miểu bay lên giữa không trung, mở ra một cánh cổng không gian trắng xóa.
+
+‘Đùng!’
+
+[Sinh Mệnh Thăng Hoa] (15 giây)
+
+Từ bên trong màn ánh sáng chói mắt bỗng nhiên rơi ra một vật hình trụ, nặng nề rơi xuống cắm sâu vào trong lòng đất.
+
+Nhìn rõ lại mới thấy, đó là một ngọn cọc tiêu không rõ được tạo nên bởi nguyên liệu gì, bề ngoài điêu khắc hoa văn rất tinh xảo. Phía trên đỉnh còn đang liên tục tản mát ra nhàn nhạt hồng quang, ẩn chứa bên trong thật nồng đậm sinh mệnh.
+
+‘Phù…’
+
++433 HP
+
++433 HP
+
+…
+
+Một giây sau khi rơi xuống mặt đất, cây cọc [Sinh Mệnh Thăng Hoa] chợt phóng xuất ra một đợt sóng năng lượng màu đỏ, bán kính bao trùm hết thảy khuôn viên 10 mét xung quanh nó.
+
+Dưới sự ảnh hưởng từ trong quá trình khắc họa ra vòng tròn ma thuật của Long, ngay khi đợt sóng năng lượng màu đỏ ấy chạm đến đám vong linh, trên thân thể của chúng lập tức bị phủ lên một lớp ánh sáng màu đỏ, hiệu quả khôi phục HP cứ mỗi cách một giây lại nhảy lên trên đầu chúng một lần.
+
+[Triệu hồi Bộ Xương Pháp Sư] (x50)
+
+[Triệu hồi Tu La Huyết Chiến Sĩ] (x20)
+
+Cùng lúc đó, Đình Tấn cũng đã hoàn thành xong hai thuật triệu hồi, kêu gọi ra một nửa quân số tối đa của hai loại binh chủng mạnh nhất mà hắn nắm giữ.
+
+Chỉ trong tích tắc khi Bộ Xương Pháp Sư và Tu La Huyết Chiến Sĩ được triệu tập đầy đủ quân số, MP cùng với HP của Đình Tấn bắt đầu kéo xuống với một tốc độ có thể dùng hai từ khủng bố để hình dung.
+
+‘Gầm! Phừng phừng…’
+
+-1220 [Hỏa]
+
+-1224 [Hỏa]
+
+…
+
+Đối mặt với vong linh đại quân đông nghìn nghịt, từ trong cổng không gian đang rung động kia đột ngột truyền ra một tiếng gầm thét khủng bố, kèm theo đó là một ngọn lửa đỏ hừng hực thổi ra ngoài.
+
+Hỏa diễm hừng hực càn quét hết thảy đám vong linh đang chắn trước lối ra cổng không gian, nhiệt độ xung quanh thoáng chốc tăng lên đến chóng mặt, phảng phất muốn đốt cháy mọi thứ xung quanh thành bụi phấn.
+
+Cả một vùng mờ ảo đen tối của khu rừng liền bị ngọn lửa này thắp sáng lên. Nhờ vào đó, Đình Tấn cũng trông thấy được diện mạo của con Thằn Lằn Nham Thạch kinh khủng này.
+
+Thằn Lằn Nham Thạch (Boss Thủ Lĩnh)
+
+Đẳng Cấp: 49
+
+HP: 225.000/225.000
+
+Kỹ Năng: Thiêu Đốt (Bị động) - Mọi sinh vật đứng ở trong vòng bán kính năm mét xung quanh nó sẽ gánh chịu 200 điểm [Sát Thương Thuộc Tính Hỏa] mỗi giây.
+
+Không kịp cho Đình Tấn xem xong thông tin hệ thống cung cấp, con quái vật với hình thể khổng lồ vượt quá một hộ nhà dân, nổi giận xông ra khỏi cánh cổng không gian.
+
+Hàng phòng ngự mỏng manh dựng nên bởi không tới 20 tên Bộ Xương Đấu Sĩ tức thì bị nó phá tan nát không còn một mảnh.
+
+Trông thấy từng mảng con số tổn thương [Sát Thương Thuộc Tính Hỏa] nhảy nhót trên đầu đám vong linh, Đình Tấn làm sao không biết đây đều là do con Boss Thủ Lĩnh Thằn Lằn Nham Thạch này gây ra cho được.
+
+“Phát ra viễn trình công kích! Không cần tiếp cận nó.”
+
+Lấy ứng phó với tình huống đó, hắn không chút chần chờ ra lệnh cho đồng đội của mình hành động.
+
+Đồng thời Tu La Huyết Chiến Sĩ với khả năng kháng cự ma pháp công kích cũng được hắn điều động tiến công quấy rối con Boss, không cho nó có cơ hội tiến thêm được bước nào.
+
+Còn lại Bộ Xương Pháp Sư lơ lửng giữa hư không với độ cao tầm trung, phối hợp với đám Bộ Xương Thần Tiễn Thủ phát động công kích tới những con Thằn Lằn Nham Thạch còn sót lại trong các cánh cổng không gian còn lại.
+
+Ameerah vuốt vuốt bộ ngực phẳng phiu của mình, âm thầm thở dài một hơi nói.
+
+-“Phù… may mắn chỉ ra một con Boss, nếu không chắc ta sẽ khó thở thật.”
+
+-“Yên tâm, ta sẽ bảo vệ ngươi.”
+
+Louis rất tự nhiên nghiêm túc hướng về Ameerah đáp lời. Trông thấy bộ dáng của hắn làm Ameerah thật không nhịn được muốn bật cười.
+
+-“Ta chỉ là nói vậy thôi, có Hội Trưởng ở đây bao kê lại còn sợ cái gì chứ.”
+
+Như để chứng minh cho lời Ameerah nói, toàn bộ những con Thằn Lằn Nham Thạch trong năm cánh cổng không gian còn lại đều bị ép tới độ không thể bò ra bên ngoài.
+
+Đầy trời mưa tên cùng công kích ma pháp đến từ đám vong linh cao cấp mà Đình Tấn triệu hồi ra, từng con Thằn Lằn Nham Thạch bị oanh kích nát nhừ, không thể tồn tại quá năm phút sau đó.
+
+Đối với con Boss Thủ Lĩnh, có sự tham gia của nhóm Tu La Huyết Chiến Sĩ, đàn Bộ Xương Đấu Sĩ và Hắc Ám Tang Thi cũng giảm bớt đi rất nhiều áp lực.
+
+Con Boss bị quấy rối không ngừng gào thét giận dữ, bất quá cũng là vô vọng vì kẻ địch quá đông và xảo trá, đánh xong liền rút lui không cho nó có cơ hội phản kích.
+
+‘Tên Độc’
+
+‘Pháo Quyền’
+
+…
+
+Công kích phát ra từ David, Ameerah, Louis, Terrell điên cuồng rút đi HP của con Boss Thủ Lĩnh.
+
+Đứng ở cạnh bên, Nguyễn Trung trợn mắt ngoác mồm dường như không thể tin vào mắt của mình nữa.
+
+Đây có phải gọi là đánh Boss hay không, hắn cũng không rõ. Một đoàn đội chỉ có bảy người mà kẻ địch lần này lại còn là Boss Thủ Lĩnh trong [Chiến Trường Thế Giới], nổi tiếng mạnh mẽ đến làm cho người tuyệt vọng.
+
+‘Rống!’
+
+[Dung Nham Nóng Chảy]
+
+Sau một hồi bị hành xác, HP của con Boss Thủ Lĩnh Thằn Lằn Nham Thạch rốt cuộc cũng chạm đến mốc 10%. Kẻ địch quá đông tựa hồ đã làm cho nó không thể kìm chế được nữa, tức khắc rống lớn một tiếng rồi tung ra kỹ năng mạnh nhất của mình.
+
+Dòng nham thạch đỏ thẫm cuồn cuộn phun trào ra khỏi người nó, phảng phất như một tòa núi lửa bộc phát.
+
+-“Lui về sau!”
+
+Đình Tấn có vẻ như đã đoán trước được chuyện gì sắp xảy ra. Không cần chờ đến khi HP con Boss rút đến 20%, hắn đã lên tiếng nhắc nhở mọi người.
+
+[Địa Ngục Cốt Giáp]
+
+[Ngự Thuẫn Thuật]
+
+Trong khi sáu người khác đã lui về sau, Đình Tấn lại thêm cho mình một loạt các kỹ năng bảo hộ, ý định tiếp tục trụ lại kháng cự với 10% HP sau cùng của con Boss.
+
+-3822 [Hỏa]
+
+-3822 [Hỏa]
+
+…
+
+Dung nham nóng hừng hực thoáng chốc đã bao trùm lên đám vong linh của Đình Tấn, thương tổn [Sát Thương Thuộc Tính Hỏa] điên cuồng rút lấy HP chúng.
+
+Tuy vậy nhưng với lượng HP có hơn 39.000 điểm của một tên Bộ Xương Đấu Sĩ, số tổn thương ấy cũng không thể lập tức miểu sát nó.
+
+Đình Tấn đứng trước từng đợt dung nham phóng tới trước mặt, thần sắc cũng không hề có một chút kinh hoảng, cực kì lãnh tĩnh nói.
+
+-“Long, toàn lực hồi máu.”
+
+Long ở bên ngoài không nói tiếng nào, tức tốc vung đoản trượng triệu hồi kỹ năng.
+
+[Sinh Mệnh Thăng Hoa] (15 giây)
+
+Không mất quá nhiều thời gian, cọc hồi máu lại một lần nữa cắm vào giữa dòng dung nham, phát ra từng đợt sóng sinh mệnh hỗ trợ cho đám vong linh.
+
+Coi như không thể công kích hay phát ra tổn thương quá nhiều thì nhiệm vụ của Long lại càng quan trọng hơn ai hết.
+
+Lấy kỹ năng [Sinh Mệnh Thăng Hoa] của nghề nghiệp cấp hai Mục Sư, mỗi cách 20 giây hắn lại có thể triệu hồi ra một lần, giúp cho nhóm vong linh của Đình Tấn khôi phục không ít HP, kéo dài thời gian kháng cự với Boss nhiều hơn.
+
+Đoàn đội phối hợp một cách nhịp nhàng, lại thêm vô cùng vô tận đại quân vong linh được Đình Tấn triệu hồi trở về, con Boss Thủ Lĩnh Thằn Lằn Nham Thạch hầu như không thể làm ra quá nhiều phản kháng thì đã phải chết trong uất hận.
+
+‘Rét… ầm ầm…’
+
+Exp +423.000
+
+…
+
+Keng! - Chúc mừng ngài đã thăng lên 44 cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Sau một tiếng gào thét đầy thảm thiết, con Boss Thủ Lĩnh Thằn Lằn Nham Thạch đã trút xuống hơi thở cuối cùng, phóng xuất ra không ít vật phẩm cùng với một lượng kinh nghiệm khổng lồ cho cả nhóm Đình Tấn.
+
+Kiểm tra thuộc tính nhân vật mình, trông thấy thanh kinh nghiệm để lên cấp 45 cần đến gần 21 triệu điểm, Đình Tấn lắc đầu cười khổ không ngớt.
+
+Cho dù ở đây có phụ bản thu hoạch mạnh mẽ hơn bên ngoài rất nhiều, nhưng hắn biết rõ muốn đuổi theo kịp nhóm người đứng đầu Bảng Xếp Hạng [Đẳng Cấp] là một chuyện không hề dễ dàng chút nào.
+
+-“Mọi người tranh thủ thu dọn chiến trường rồi nghỉ ngơi một chút đi.”
+
+Chờ đợi thêm một lúc không thấy có động tĩnh gì xảy ra, Đình Tấn mới yên tâm thu hồi đại quân vong linh của mình, buông lỏng tinh thần nói với mọi người.
+
+Keng! – Đợt sóng quái vật thứ nhất đã hoàn thành, chúc mừng ngài nhận được phần thưởng một điểm kỹ năng tự do. Đợt sóng quái vật thứ hai sẽ bắt đầu sau 5 phút nữa.
+
+Hắn vừa nói xong, một đầu âm thanh hệ thống liền vang lên bên tai mọi người.
+
+-“Woa, được cả điểm kỹ năng thưởng nữa, thật trúng mánh rồi Hội Trưởng ơi. Hihi”
+
+Ameerah mừng rỡ, hai mắt sáng rực lên đầy khoa trương nói. Thế nhưng, hành động của nàng cũng không có dừng lại chút nào, thân ảnh quỷ mị nhanh như chớp phóng về phía bãi đồ vật thưởng rơi ra từ con Boss.
+
+-“Hội Trưởng, ngươi nhận nhiệm vụ này từ lúc nào vậy?”
+
+Long cũng ngạc nhiên không kém, kìm lòng không được tiến lại hỏi dò Đình Tấn.
+
+-“Từ sau khi chuyển chức xong liền nhận, bất quá bởi vì ta chưa có thời gian rảnh rỗi đi làm nên vẫn lưu lại tới bây giờ.”
+
+Đình Tấn thản nhiên nói, dù sao chuyện này cũng không cần thiết phải giấu diếm.
+
+-“Thảo nào, bây giờ muốn nhận được một nhiệm vụ cấp B đã là khó hơn lên trời, không đứng xếp hàng chờ vài ngày thì chắc đừng mơ tưởng tới.”
+
+David gật gù phụ họa theo.
+
+-“Nhiệm vụ này của Hội Trưởng phỏng chừng cũng phải từ cấp A trở lên, lần này chúng ta vẫn là có số hưởng rồi, haha…”
+
+Terrell cười lớn mừng rỡ nói.
+
+-“A! Hội Trưởng, đồ tốt, ở đây có đồ tốt nè.”
+
+Đúng lúc mọi người đang huyên náo nói chuyện, một tiếng hét to cùng với giọng nói đầy kích động từ Ameerah truyền tới.
+
+Không đợi cho Đình Tấn hỏi dò chuyện gì xảy ra, Ameerah đã chớp nhoáng đã mang theo một vật nhỏ phát ra ánh sáng đỏ rực quay trở về.
+
+[Đá Nguyên Tố Nham Thạch Kết Tinh]
+
+Đẳng cấp: 45
+
+Chất lượng: Cao Cấp 
+
+Tác dụng: 
+
+-Chế tạo hoặc khảm nạm vào trang bị trượng, đoản trượng, sách ma pháp. Tăng thêm hiệu ứng Thiêu Đốt (Bị động): gây ra 100 [Sát Thương Thuộc Tính Hỏa] cho kẻ địch trong vòng bán kính 3 mét, kéo dài 5 giây. (Nếu là quái vật triệu hồi sẽ chuyển thành hiệu ứng Aura.)
+
+Quan sát xong thuộc tính món đồ vật trong tay Ameerah, Đình Tấn hoàn toàn câm lặng, hai tay cứng ngắt đưa ra đón lấy đồ vật.Thời gian đến trận phòng thủ cứ điểm chỉ còn lại không đến năm ngày, trong khi người người nhà nhà đang tất bật chuẩn bị, tổ đội của Đình Tấn lại phải vật lộn chiến đấu với lũ Thằn Lằn Nham Thạch vào những phút cuối cùng.
+
+-“Cẩn thận có Boss, mau rút trở về! Long, buff khôi phục HP.”
+
+Bất thình lình, trông thấy từ bên trong một cánh cổng không gian ở vị trí trung tâm đột nhiên rung động thêm dữ dội, Đình Tấn không chút do dự rống lớn ra lệnh cho sáu người đồng đội của mình.
+
+Không hề có một tia do dự, sáu người mặc kệ cho con mồi trước mắt mình đã chỉ còn lại một tia HP nho nhỏ cũng không nổi lên tham niệm, đồng loạt thu thế nhất trí rút lui.
+
+Vẫn luôn đúng hộ vệ bên cạnh Đình Tấn, Long vừa nghe được mệnh lệnh, tức thì tiến lên trước nửa bước, xoay ngang đoản trượng trong tay, không ngừng vẽ lên vòng tròn ma pháp vào giữa hư không trước mặt.
+
+Ngay khi vòng tròn ma pháp đã hoàn thiện xong liền phiêu miểu bay lên giữa không trung, mở ra một cánh cổng không gian trắng xóa.
+
+‘Đùng!’
+
+[Sinh Mệnh Thăng Hoa] (15 giây)
+
+Từ bên trong màn ánh sáng chói mắt bỗng nhiên rơi ra một vật hình trụ, nặng nề rơi xuống cắm sâu vào trong lòng đất.
+
+Nhìn rõ lại mới thấy, đó là một ngọn cọc tiêu không rõ được tạo nên bởi nguyên liệu gì, bề ngoài điêu khắc hoa văn rất tinh xảo. Phía trên đỉnh còn đang liên tục tản mát ra nhàn nhạt hồng quang, ẩn chứa bên trong thật nồng đậm sinh mệnh.
+
+‘Phù…’
+
++433 HP
+
++433 HP
+
+…
+
+Một giây sau khi rơi xuống mặt đất, cây cọc [Sinh Mệnh Thăng Hoa] chợt phóng xuất ra một đợt sóng năng lượng màu đỏ, bán kính bao trùm hết thảy khuôn viên 10 mét xung quanh nó.
+
+Dưới sự ảnh hưởng từ trong quá trình khắc họa ra vòng tròn ma thuật của Long, ngay khi đợt sóng năng lượng màu đỏ ấy chạm đến đám vong linh, trên thân thể của chúng lập tức bị phủ lên một lớp ánh sáng màu đỏ, hiệu quả khôi phục HP cứ mỗi cách một giây lại nhảy lên trên đầu chúng một lần.
+
+[Triệu hồi Bộ Xương Pháp Sư] (x50)
+
+[Triệu hồi Tu La Huyết Chiến Sĩ] (x20)
+
+Cùng lúc đó, Đình Tấn cũng đã hoàn thành xong hai thuật triệu hồi, kêu gọi ra một nửa quân số tối đa của hai loại binh chủng mạnh nhất mà hắn nắm giữ.
+
+Chỉ trong tích tắc khi Bộ Xương Pháp Sư và Tu La Huyết Chiến Sĩ được triệu tập đầy đủ quân số, MP cùng với HP của Đình Tấn bắt đầu kéo xuống với một tốc độ có thể dùng hai từ khủng bố để hình dung.
+
+‘Gầm! Phừng phừng…’
+
+-1220 [Hỏa]
+
+-1224 [Hỏa]
+
+…
+
+Đối mặt với vong linh đại quân đông nghìn nghịt, từ trong cổng không gian đang rung động kia đột ngột truyền ra một tiếng gầm thét khủng bố, kèm theo đó là một ngọn lửa đỏ hừng hực thổi ra ngoài.
+
+Hỏa diễm hừng hực càn quét hết thảy đám vong linh đang chắn trước lối ra cổng không gian, nhiệt độ xung quanh thoáng chốc tăng lên đến chóng mặt, phảng phất muốn đốt cháy mọi thứ xung quanh thành bụi phấn.
+
+Cả một vùng mờ ảo đen tối của khu rừng liền bị ngọn lửa này thắp sáng lên. Nhờ vào đó, Đình Tấn cũng trông thấy được diện mạo của con Thằn Lằn Nham Thạch kinh khủng này.
+
+Thằn Lằn Nham Thạch (Boss Thủ Lĩnh)
+
+Đẳng Cấp: 49
+
+HP: 225.000/225.000
+
+Kỹ Năng: Thiêu Đốt (Bị động) - Mọi sinh vật đứng ở trong vòng bán kính năm mét xung quanh nó sẽ gánh chịu 200 điểm [Sát Thương Thuộc Tính Hỏa] mỗi giây.
+
+Không kịp cho Đình Tấn xem xong thông tin hệ thống cung cấp, con quái vật với hình thể khổng lồ vượt quá một hộ nhà dân, nổi giận xông ra khỏi cánh cổng không gian.
+
+Hàng phòng ngự mỏng manh dựng nên bởi không tới 20 tên Bộ Xương Đấu Sĩ tức thì bị nó phá tan nát không còn một mảnh.
+
+Trông thấy từng mảng con số tổn thương [Sát Thương Thuộc Tính Hỏa] nhảy nhót trên đầu đám vong linh, Đình Tấn làm sao không biết đây đều là do con Boss Thủ Lĩnh Thằn Lằn Nham Thạch này gây ra cho được.
+
+“Phát ra viễn trình công kích! Không cần tiếp cận nó.”
+
+Lấy ứng phó với tình huống đó, hắn không chút chần chờ ra lệnh cho đồng đội của mình hành động.
+
+Đồng thời Tu La Huyết Chiến Sĩ với khả năng kháng cự ma pháp công kích cũng được hắn điều động tiến công quấy rối con Boss, không cho nó có cơ hội tiến thêm được bước nào.
+
+Còn lại Bộ Xương Pháp Sư lơ lửng giữa hư không với độ cao tầm trung, phối hợp với đám Bộ Xương Thần Tiễn Thủ phát động công kích tới những con Thằn Lằn Nham Thạch còn sót lại trong các cánh cổng không gian còn lại.
+
+Ameerah vuốt vuốt bộ ngực phẳng phiu của mình, âm thầm thở dài một hơi nói.
+
+-“Phù… may mắn chỉ ra một con Boss, nếu không chắc ta sẽ khó thở thật.”
+
+-“Yên tâm, ta sẽ bảo vệ ngươi.”
+
+Louis rất tự nhiên nghiêm túc hướng về Ameerah đáp lời. Trông thấy bộ dáng của hắn làm Ameerah thật không nhịn được muốn bật cười.
+
+-“Ta chỉ là nói vậy thôi, có Hội Trưởng ở đây bao kê lại còn sợ cái gì chứ.”
+
+Như để chứng minh cho lời Ameerah nói, toàn bộ những con Thằn Lằn Nham Thạch trong năm cánh cổng không gian còn lại đều bị ép tới độ không thể bò ra bên ngoài.
+
+Đầy trời mưa tên cùng công kích ma pháp đến từ đám vong linh cao cấp mà Đình Tấn triệu hồi ra, từng con Thằn Lằn Nham Thạch bị oanh kích nát nhừ, không thể tồn tại quá năm phút sau đó.
+
+Đối với con Boss Thủ Lĩnh, có sự tham gia của nhóm Tu La Huyết Chiến Sĩ, đàn Bộ Xương Đấu Sĩ và Hắc Ám Tang Thi cũng giảm bớt đi rất nhiều áp lực.
+
+Con Boss bị quấy rối không ngừng gào thét giận dữ, bất quá cũng là vô vọng vì kẻ địch quá đông và xảo trá, đánh xong liền rút lui không cho nó có cơ hội phản kích.
+
+‘Tên Độc’
+
+‘Pháo Quyền’
+
+…
+
+Công kích phát ra từ David, Ameerah, Louis, Terrell điên cuồng rút đi HP của con Boss Thủ Lĩnh.
+
+Đứng ở cạnh bên, Nguyễn Trung trợn mắt ngoác mồm dường như không thể tin vào mắt của mình nữa.
+
+Đây có phải gọi là đánh Boss hay không, hắn cũng không rõ. Một đoàn đội chỉ có bảy người mà kẻ địch lần này lại còn là Boss Thủ Lĩnh trong [Chiến Trường Thế Giới], nổi tiếng mạnh mẽ đến làm cho người tuyệt vọng.
+
+‘Rống!’
+
+[Dung Nham Nóng Chảy]
+
+Sau một hồi bị hành xác, HP của con Boss Thủ Lĩnh Thằn Lằn Nham Thạch rốt cuộc cũng chạm đến mốc 10%. Kẻ địch quá đông tựa hồ đã làm cho nó không thể kìm chế được nữa, tức khắc rống lớn một tiếng rồi tung ra kỹ năng mạnh nhất của mình.
+
+Dòng nham thạch đỏ thẫm cuồn cuộn phun trào ra khỏi người nó, phảng phất như một tòa núi lửa bộc phát.
+
+-“Lui về sau!”
+
+Đình Tấn có vẻ như đã đoán trước được chuyện gì sắp xảy ra. Không cần chờ đến khi HP con Boss rút đến 20%, hắn đã lên tiếng nhắc nhở mọi người.
+
+[Địa Ngục Cốt Giáp]
+
+[Ngự Thuẫn Thuật]
+
+Trong khi sáu người khác đã lui về sau, Đình Tấn lại thêm cho mình một loạt các kỹ năng bảo hộ, ý định tiếp tục trụ lại kháng cự với 10% HP sau cùng của con Boss.
+
+-3822 [Hỏa]
+
+-3822 [Hỏa]
+
+…
+
+Dung nham nóng hừng hực thoáng chốc đã bao trùm lên đám vong linh của Đình Tấn, thương tổn [Sát Thương Thuộc Tính Hỏa] điên cuồng rút lấy HP chúng.
+
+Tuy vậy nhưng với lượng HP có hơn 39.000 điểm của một tên Bộ Xương Đấu Sĩ, số tổn thương ấy cũng không thể lập tức miểu sát nó.
+
+Đình Tấn đứng trước từng đợt dung nham phóng tới trước mặt, thần sắc cũng không hề có một chút kinh hoảng, cực kì lãnh tĩnh nói.
+
+-“Long, toàn lực hồi máu.”
+
+Long ở bên ngoài không nói tiếng nào, tức tốc vung đoản trượng triệu hồi kỹ năng.
+
+[Sinh Mệnh Thăng Hoa] (15 giây)
+
+Không mất quá nhiều thời gian, cọc hồi máu lại một lần nữa cắm vào giữa dòng dung nham, phát ra từng đợt sóng sinh mệnh hỗ trợ cho đám vong linh.
+
+Coi như không thể công kích hay phát ra tổn thương quá nhiều thì nhiệm vụ của Long lại càng quan trọng hơn ai hết.
+
+Lấy kỹ năng [Sinh Mệnh Thăng Hoa] của nghề nghiệp cấp hai Mục Sư, mỗi cách 20 giây hắn lại có thể triệu hồi ra một lần, giúp cho nhóm vong linh của Đình Tấn khôi phục không ít HP, kéo dài thời gian kháng cự với Boss nhiều hơn.
+
+Đoàn đội phối hợp một cách nhịp nhàng, lại thêm vô cùng vô tận đại quân vong linh được Đình Tấn triệu hồi trở về, con Boss Thủ Lĩnh Thằn Lằn Nham Thạch hầu như không thể làm ra quá nhiều phản kháng thì đã phải chết trong uất hận.
+
+‘Rét… ầm ầm…’
+
+Exp +423.000
+
+…
+
+Keng! - Chúc mừng ngài đã thăng lên 44 cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Sau một tiếng gào thét đầy thảm thiết, con Boss Thủ Lĩnh Thằn Lằn Nham Thạch đã trút xuống hơi thở cuối cùng, phóng xuất ra không ít vật phẩm cùng với một lượng kinh nghiệm khổng lồ cho cả nhóm Đình Tấn.
+
+Kiểm tra thuộc tính nhân vật mình, trông thấy thanh kinh nghiệm để lên cấp 45 cần đến gần 21 triệu điểm, Đình Tấn lắc đầu cười khổ không ngớt.
+
+Cho dù ở đây có phụ bản thu hoạch mạnh mẽ hơn bên ngoài rất nhiều, nhưng hắn biết rõ muốn đuổi theo kịp nhóm người đứng đầu Bảng Xếp Hạng [Đẳng Cấp] là một chuyện không hề dễ dàng chút nào.
+
+-“Mọi người tranh thủ thu dọn chiến trường rồi nghỉ ngơi một chút đi.”
+
+Chờ đợi thêm một lúc không thấy có động tĩnh gì xảy ra, Đình Tấn mới yên tâm thu hồi đại quân vong linh của mình, buông lỏng tinh thần nói với mọi người.
+
+Keng! – Đợt sóng quái vật thứ nhất đã hoàn thành, chúc mừng ngài nhận được phần thưởng một điểm kỹ năng tự do. Đợt sóng quái vật thứ hai sẽ bắt đầu sau 5 phút nữa.
+
+Hắn vừa nói xong, một đầu âm thanh hệ thống liền vang lên bên tai mọi người.
+
+-“Woa, được cả điểm kỹ năng thưởng nữa, thật trúng mánh rồi Hội Trưởng ơi. Hihi”
+
+Ameerah mừng rỡ, hai mắt sáng rực lên đầy khoa trương nói. Thế nhưng, hành động của nàng cũng không có dừng lại chút nào, thân ảnh quỷ mị nhanh như chớp phóng về phía bãi đồ vật thưởng rơi ra từ con Boss.
+
+-“Hội Trưởng, ngươi nhận nhiệm vụ này từ lúc nào vậy?”
+
+Long cũng ngạc nhiên không kém, kìm lòng không được tiến lại hỏi dò Đình Tấn.
+
+-“Từ sau khi chuyển chức xong liền nhận, bất quá bởi vì ta chưa có thời gian rảnh rỗi đi làm nên vẫn lưu lại tới bây giờ.”
+
+Đình Tấn thản nhiên nói, dù sao chuyện này cũng không cần thiết phải giấu diếm.
+
+-“Thảo nào, bây giờ muốn nhận được một nhiệm vụ cấp B đã là khó hơn lên trời, không đứng xếp hàng chờ vài ngày thì chắc đừng mơ tưởng tới.”
+
+David gật gù phụ họa theo.
+
+-“Nhiệm vụ này của Hội Trưởng phỏng chừng cũng phải từ cấp A trở lên, lần này chúng ta vẫn là có số hưởng rồi, haha…”
+
+Terrell cười lớn mừng rỡ nói.
+
+-“A! Hội Trưởng, đồ tốt, ở đây có đồ tốt nè.”
+
+Đúng lúc mọi người đang huyên náo nói chuyện, một tiếng hét to cùng với giọng nói đầy kích động từ Ameerah truyền tới.
+
+Không đợi cho Đình Tấn hỏi dò chuyện gì xảy ra, Ameerah đã chớp nhoáng đã mang theo một vật nhỏ phát ra ánh sáng đỏ rực quay trở về.
+
+[Đá Nguyên Tố Nham Thạch Kết Tinh]
+
+Đẳng cấp: 45
+
+Chất lượng: Cao Cấp 
+
+Tác dụng: 
+
+-Chế tạo hoặc khảm nạm vào trang bị trượng, đoản trượng, sách ma pháp. Tăng thêm hiệu ứng Thiêu Đốt (Bị động): gây ra 100 [Sát Thương Thuộc Tính Hỏa] cho kẻ địch trong vòng bán kính 3 mét, kéo dài 5 giây. (Nếu là quái vật triệu hồi sẽ chuyển thành hiệu ứng Aura.)
+
+Quan sát xong thuộc tính món đồ vật trong tay Ameerah, Đình Tấn hoàn toàn câm lặng, hai tay cứng ngắt đưa ra đón lấy đồ vật.

@@ -1,0 +1,473 @@
+Mở mắt ra, Trầm Dịch phát hiện mình chính bản thân ở vào một mảnh trên sườn núi nhỏ.
+
+Trên sân bóng rổ đứng hơn hai mươi tên mạo hiểm giả, chính giúp nhau đánh giá chung quanh.
+
+Văn chương Huyết Tinh thanh âm nhắc nhở tại lúc này truyền đến, mọi người ào ào cúi đầu nhìn lại:
+
+"Tiến vào X-Men thế giới. Hiện nay đang nơi vị trí: vùng ngoại ô New York."
+
+"Nhiệm vụ lần này là khu vực thi đua hình thức, không nhiệm vụ chính tuyến."
+
+"Thi đua nội dung: cuộc đua giết người tại New York — đuổi giết Dị nhân. Thi đua thời gian: 72 tiếng đồng hồ. Yêu cầu: không được rời đi New York phạm vi, người vi phạm mạt sát."
+
+"Giết chết Dị nhân cấp 1 đạt được giá trị giết chóc 1. Dị nhân cấp 2 giá trị giết chóc 5. Dị nhân cấp 3 giá trị giết chóc 20. Dị nhân cấp 4 giá trị giết chóc 50. Dị nhân cấp 5, giá trị giết chóc 100."
+
+"Lần này nhiệm vụ người tham dự 100 người, bốn khu cộng đồng dự thi tính chất. Nhiệm vụ sau khi kết thúc, tính toán khu vực giá trị giết chóc bài danh. Khu vực xếp hàng thứ nhất, trước 15 người nhưng còn sống, còn lại mạt sát. Khu vực bài danh thứ hai, trước 10 người còn sống, còn lại mạt sát. Khu vực bài danh thứ ba, trước 5 người còn sống, còn lại mạt sát. Khu vực bài danh thứ tư, toàn bộ thành viên mạt sát."
+
+"Tất cả khu vực giá trị giết chóc kẻ cao nhất đạt được DD cấp phần thưởng bổ sung, điểm kỹ năng 2 điểm, điểm Huyết Tinh ban thưởng vì 1000 * với số người còn lại của khu vực. Tên thứ hai D cấp phần thưởng bổ sung, điểm kỹ năng 1 điểm, điểm Huyết Tinh ban thưởng vì 1000 * (với số người còn lại của khu vực - 1 ). Danh thứ ba điểm Huyết Tinh ban thưởng 1000 * (với số người còn lại của khu vực - 2 ), bảng xếp hạng thứ tư xuống cứ thế mà tính. Bốn khu cá nhân tổng xếp hàng thứ nhất, nhưng đạt được bổ sung đặc thù ban thưởng."
+
+"Giới thiệu tràng cảnh thế giới X-Men: Bản tràng cảnh là phần tiếp theo của X-Men, The Last Stand. Sau trận chiến tại đảo Alcatraz, Vạn Từ Vương Magneto cũng không mất đi lực lượng bản thân, ngược lại càng trở nên mạnh mẽ hơn. Giáo sư X chết đi đã phục sinh lại dưới sự trợ giúp của tiến sĩ Moi ra, đồng thời có được thân thể mới. Vì trận chiến đảo Alcatraz trong bộ 3, chính phủ nhân loại không còn tín nhiệm Dị nhân nữa. Hai năm sau, quốc hội Mỹ chính thức thông qua văn kiện tu chỉnh thứ mười hai điều luật an ninh quốc gia Hoa Kỳ."
+
+"Văn kiện tu chỉnh thứ mười hai quy định. Một: Toàn bộ Dị nhân thức tỉnh hoặc chưa thức tỉnh dị năng, hết thảy cần tiến hành đăng ký thân phận cùng năng lực tại Cục giám sát nn ninh quốc gia, tất cả Dị nhân không tiến hành ghi danh coi là phần tử phạm tội. Hai: Tiến hành quản lý hạn chế xuất nhập cùng hạn chế mang theo súng ống với tất cả Dị nhân đã đăng ký. Ba: Tiến hành hạn chế nghiêm khắc tỉ lệ nhân số với các loại tổ chức công ty, xã đoàn, đảng phái, tập đoàn, nhà xưởng,. . . do Dị nhân thành lập. Ba: Cấm Dị nhân tổ chức hội nghị mít-tinh lớn có tỉ lệ nhân số Dị nhân tham gia chiếm 12% trở lên. Bốn: Không cho phép Dị nhân nắm giữ hơn 3% cổ phần công ty thuộc về mảng năng lượng, vũ khí, tài chính, khoáng sản, các loại sản nghiệp trọng yếu. Năm: Không cho phép Dị nhân đảm nhiệm bất luận chức vụ gì trong cơ cấu Chính Phủ, các loại nghiên cứu khoa học, giáo dục, tôn giáo, truyền thông tin tức tổng cộng hơn bốn mươi ngành sản xuất, hơn hai trăm nghề nghiệp cấm cởi mở với Dị nhân, Dị nhân không được đảm nhiệm chức vụ quản lý cao cấp trong một số xí nghiệp đặc thù. Sáu: Tiến hành giám sát và điều khiển an toàn với tất cả Dị nhân có khuynh hướng bạo lực cùng dị năng loại công kích. Bảy. . ."
+
+"Văn kiện tu chỉnh thứ mười hai đưa tới ý thức chống cự mãnh liệt của Dị nhân, dưới sự lãnh đạo của Magneto, mâu thuẫn giữa Dị nhân cùng nhân loại triệt để trở nên gay gắt, triển khai một trận đại chiến. Toàn bộ nước Mỹ đã trở thành chiến trường giữa Dị nhân cùng nhân loại. Dị nhân có được năng lực đặc dị thành lập tổ chức của mình, do Vạn Từ Vương cầm đầu điên cuồng phát động tập kích khủng bố Chính Phủ Mỹ, khiến cho những chiến trường chính như New York lâm vào trong hỗn loạn. Giáo sư X thì cùng học sinh của ông tiếp tục bảo trì trung lập, hô hào kiềm chế. . ."
+
+. . .
+
+Liên tiếp tin tức, thấy tất cả mọi người nghẹn ngào kinh hô lên.
+
+Hồng Lãng thanh âm lớn nhất: "Gặp quỷ rồi, lần này dĩ nhiên là toàn bộ khu vực cấp thi đua hình thức!"
+
+Có một chút người mới không hiểu nhiều bốn cái khu vực là có ý gì, ào ào hỏi thăm.
+
+Hồng Lãng lớn tiếng trả lời: "Cái gọi là bốn khu, chính là từng độ khó đều phân thành Đông Tây Nam Bắc bốn khu. Khu Đông là khu Trung Quốc nhưng không phải chỉ có người Trung Quốc, ngoại trừ Hồng Kông, Macao, Đài Loan bên ngoài, còn có biên cảnh Nepal ở bên trong một ít khu vực khác, bất quá bọn hắn nhân số quá ít, cơ bản có thể bất kể, khu Tây là khu Âu Mỹ, khu Nam là khu Châu Á các vùng khác, khu Bắc là Châu Phi, Châu Nam Mỹ, Châu Úc. Nhiệm vụ lần này, là bốn cái khu vực tất cả ra 25 người cộng đồng tham gia lần này thi đua. Xem đô thị Huyết Tinh ý tứ, đây là lại tính toán khu vực bài danh, lại tính toán cá nhân bài danh! Cái nào khu giá trị giết chóc cao nhất, có thể thiếu mạt sát một số người. Lần này là con mẹ nó trực tiếp mạt sát, mọi người giữ lại điểm Huyết Tinh cũng vô dụng rồi!"
+
+"Đáng chết!" Tất cả mọi người mắng to lên.
+
+Ôn Nhu nói: "Nếu là tính toán giá trị giết chóc tiến hành bài danh, như vậy là không phải chúng ta giết chết đối phương mạo hiểm giả, có thể giảm xuống đối phương giá trị giết chóc thu hoạch tốc độ?"
+
+Kim Cương cười một tiếng: "Là con gái sát khí nặng như vậy làm gì? Bất quá ngươi nói không sai, lần này đã đoàn thể thi đua, cũng là người thi đua. Vấn đề duy nhất là, đối phương cũng hội nghĩ đến điểm này. Chỉ sợ chúng ta còn không nghĩ tới giết bọn hắn, bọn hắn trước hết nghĩ đến giết chúng ta."
+
+"Còn có một vấn đề." Trầm Dịch đột nhiên nói: "Mọi người chú ý nhìn một chút, cho dù là đạt được khu vực giá trị giết chóc xếp hàng thứ nhất chiến thắng khu vực cũng muốn chết ít nhất 10 người. Bởi như vậy, vấn đề tựu đi ra, mọi người cùng lúc muốn liên hợp đối ngoại, cùng lúc còn muốn bên trong cạnh tranh."
+
+Lời này vừa ra, tất cả mọi người trong nội tâm đều là phát lạnh.
+
+Đúng vậy, đô thị Huyết Tinh cùng lúc cổ vũ bọn hắn tiến hành khu vực thi đua, một phương diện khác rồi lại sử qua lệch ra chiêu sử tất cả mạo hiểm giả vô pháp chính thức đồng tâm hiệp lực. Đối với mạo hiểm giả mà nói, tánh mạng của mình vĩnh viễn là trọng yếu nhất. Nếu mình là người giá trị giết chóc thấp nhất, rất có thể sẽ nảy lòng tham giết chết bài danh tại trước mặt mình người, đem mình tấn thân đến hàng phía trước trên vị trí đi. Nhưng loại làm này, lại không hề nghi ngờ hội dẫn phát người phía sau noi theo. Loại này noi theo hậu quả, rất có thể làm cho chính mình khu vực trong cạnh tranh thực lực lớn đại giảm xuống, đưa tới hậu quả xấu chính là khu vực bài danh cuối cùng, toàn bộ thành viên mạt sát kết cục.
+
+Mà đối với những kia ưu tú, bài danh phía trên mạo hiểm giả mà nói, thì là sống càng nhiều người càng tốt. Trong thi đua người còn sống sót càng nhiều, bọn hắn có thể đạt được ban thưởng lại càng cao, khu vực đệ nhất cùng tổng đệ nhất nắm chắc cũng lớn hơn.
+
+Loại này mâu thuẫn đúng là đô thị Huyết Tinh tỉ mỉ chế tạo nên, làm mạo hiểm giả tại cá nhân lợi ích cùng đoàn thể lợi ích trung xung đột, bồi hồi, vừa muốn tính toán khu vực khác mạo hiểm giả, lại phải đề phòng chính mình khu vực mạo hiểm giả.
+
+Đám người mạo hiểm đem không cách nào nữa giống như lấy trước kia dạng đem phía sau lưng phó thác cho chiến hữu.
+
+Chứng kiến tất cả mọi người không nói, Trầm Dịch mới lạnh lùng nói: "Như vậy mọi người hiện tại cũng minh bạch? Đô thị Huyết Tinh dụng ý đã muốn rất rõ ràng rồi, khu vực thi đua nếu so với, cá nhân thi đua cũng muốn so, giết người sự tình phải làm, nhiệm vụ cũng không thể không làm. Về phần như thế nào phối hợp tốt trong lúc này vấn đề, vậy thì muốn xem tự chúng ta xử lý như thế nào."
+
+"Xử lý như thế nào? Còn có thể xử lý như thế nào?" Một gã mạo hiểm giả kêu to lên: "Lập tức lao ra tìm Dị nhân giết, đụng phải một cái giết một cái, đụng phải khu vực khác mạo hiểm giả cũng giết. Dị nhân mọi người cướp giết, khu khác mạo hiểm giả mọi người tựu liên hợp lại giết, về phần về sau sống hay chết, tựu xem đều tự bổn sự!"
+
+Có người cười lạnh: "Nếu như mỗi người đều giống như ngươi nghĩ như vậy đến cũng đơn giản, chỉ sợ đến lúc đó luôn luôn người bài danh dựa vào sau, cái gì đều gấp còn có thể làm chuyện gì được nữa."
+
+"Nhất là còn có một chút cản trở." Lại có người dùng châm chọc khiêu khích khẩu khí nói. Cái kia mạo hiểm giả ánh mắt chỉ hướng, rõ ràng là cái kia mập mạp chết bầm.
+
+Hắn cũng tham gia nhiệm vụ lần này, thời khắc này xem đến nhiệm vụ nhắc nhở, chính sợ tới mức lạnh run.
+
+"Ta xem chúng ta không bằng tổ chức cùng một chỗ hành động." Có mạo hiểm giả đề nghị: "Mọi người cùng nhau đi giết Dị nhân, thành công nắm chắc cũng lớn chút, nếu có cái tên hỗn đản dám hại người một nhà, tựu làm thịt hắn. Đụng phải khu vực khác mạo hiểm giả, chúng ta cũng có năng lực một trận chiến."
+
+"Chủ ý này không sai." Có người phụ họa.
+
+Trầm Dịch lạnh lùng nói: "Ngươi biết thành phố New York lớn bao nhiêu sao? Ngươi biết New York có bao nhiêu người loại cùng bao nhiêu Dị nhân? Ngươi biết Dị nhân đều phân bố ở địa phương nào? Ngươi có biết hay không đừng nói là ba ngày thi đua thời gian, chính là cho ngươi ba mươi ngày thời gian cho ngươi khắp nơi đi, ngươi cũng đi không hết tại đây mỗi một đầu phố lớn ngõ nhỏ? 25 cá nhân tập thể hành động? Chúng ta đây có thể đi bao nhiêu địa phương? Có thể giết bao nhiêu Dị nhân? An toàn có rồi, nhưng hiệu suất đâu này? Khu vực khác chỉ cần phân ra vài chi đội ngũ đồng thời tiến hành, chúng ta phải bị ném ra đằng sau đi. Đến lúc đó mọi người cũng không cần động cái gì đầu óc cùng khí lực rồi, chờ bị toàn bộ thành viên mạt sát là được rồi."
+
+Mọi người ngạc nhiên.
+
+Đúng vậy a, mọi người cùng một chỗ hành động, hiệu suất khẳng định không có khả năng điểm số tán hành động rất cao. Khu vực giá trị giết chóc bài danh cuối cùng, coi như là cầm đệ nhất cũng phải toàn bộ tử vận mệnh.
+
+Trầm Dịch tiếp tục nói: "Huống chi cho dù vấn đề này có thể giải quyết, nhưng là bên trong sinh tử vấn đề làm sao bây giờ? Tập trung ở cùng một chỗ càng nhiều người, nội đấu phong hiểm lại càng lớn."
+
+Mọi người lần nữa không nói gì.
+
+Ôn Nhu cũng nói: "Tập thể hành động cũng chưa chắc tựu an toàn. Chúng ta người quá nhiều, mục tiêu sẽ quá rõ ràng, rất dễ dàng khiến cho không tất yếu công kích."
+
+"Vậy làm sao bây giờ?" Hồng Lãng rất là đau đầu.
+
+Trầm Dịch lạnh lùng nói: "Vứt bỏ hết thảy không tất yếu tưởng tượng, đô thị Huyết Tinh đã có tâm muốn cho mọi người giúp nhau ngờ vực vô căn cứ, chúng ta đây tựu chạy không khỏi một kiếp này. Chết sống có số, phú quý tại thiên, có một số việc đi ra, chưa hẳn nhất định có biện pháp giải quyết, chỉ có thể đi dũng cảm đối mặt. Lúc này đây cũng là như thế này."
+
+Hắn nhìn xem ở đây tất cả mọi người: "Toàn bộ khu vực cộng đồng hành động là không thể nào, không quá phận thành tiểu tổ tác chiến đến là có thể. Mọi người phân tổ hành động a, tự do tổ hợp, nhân số càng nhiều, nhiệm vụ tiến hành lúc an toàn độ tương đối càng cao, nhưng là săn giết Dị nhân hiệu suất cũng thế tất càng thấp, nhân số ít mà nói đụng với khu vực khác mạo hiểm giả tính nguy hiểm hội khá lớn, cụ thể như thế nào tổ hợp, chính mình nhìn xem xử lý a. Ta chỉ hy vọng một sự kiện, chính là nếu như chúng ta muốn nội đấu, ít nhất cũng phải trước đây xử lý ngoại nhân về sau lại tiến hành. Kẻ thù bên ngoài trước mặt, trước chống giặc ngoại xâm!"
+
+"Tốt!" Một gã mạo hiểm giả lớn tiếng kêu lên: "Ta ủng hộ cái này ý kiến, mọi người tự do tổ hợp. Ta Lưu Hải ở chỗ này trước tiên nói rõ, lão tử là người khu Đông, tuyệt đối sẽ không hướng người khu Đông ra tay. Muốn là của ta bài danh rơi xuống cuối cùng, vậy cho dù ta lại nấm mốc, bị mạt sát tốt rồi. Cần phải là ai dám con mẹ nó động đầu óc tại chính mình trên thân người. . ."
+
+"Người đó đụng phải đều đừng buông tha." Có người âm trầm nói.
+
+"Tốt, quyết định như vậy. Chết sống có số, phú quý tại thiên. Không có bổn sự sớm làm tự sát, đừng mẹ nó hại người hại mình!" Một đám người la lớn.
+
+"Lưu lại một chút ít phương thức liên lạc, cái nào tổ nếu gặp được nguy hiểm, mặt khác tổ tựu qua đi cứu viện, người cùng khu phải đoàn kết lại!"
+
+"Đúng, là ý kiến hay. Chỗ này của ta có đạn tín hiệu, có thể phân cho mọi người."
+
+"Đều đừng có mài đầu vào nữa, tốc độ nhanh chút ít, như vậy một hồi sẽ trở ngại không thiếu thời gian, khu khác khả năng đã bắt đầu."
+
+Đám người mạo hiểm bắt đầu lẫn nhau giới thiệu, tự do tổ hợp thành đội ngũ, thành lập phương thức liên lạc. Cũng có người nghe nói qua Trầm Dịch, ý đồ tìm hắn tổ đội, bất quá đều bị Trầm Dịch cự tuyệt.
+
+Hồng Lãng cùng Kim Cương hướng Trầm Dịch đi tới. Kim Cương nói: "Không có ý định chọn mấy cái?"
+
+Trầm Dịch lắc đầu: "Chúng ta mấy cái đã muốn đủ rồi."
+
+Hồng Lãng cười nói: "Ít người điểm cũng tốt, không phải quen thuộc không tin được."
+
+"Lúc mới bắt đầu giúp nhau nên vậy còn tin được, lẫn nhau có lẽ còn có thể lẫn nhau giúp hỗ trợ, chân thành hợp tác, đến cuối cùng một ngày sẽ có người nóng nảy. Người khu Đông đoàn kết lại loại này khẩu hiệu quốc gia thời khắc nguy nan rất tốt, nhưng là ở loại địa phương này hiệu quả có hạn, dù sao tại đây quan hệ chính là cá nhân tồn vong mà không phải quốc gia vận mệnh. Đương nhiên, cũng không phải một điểm dùng đều không có, ít nhất lúc đầu thời điểm cũng không tệ lắm. Bất quá chỉ cần có một hạt cứt chuột, hỗn loạn đều hư mất." Trầm Dịch nhàn nhạt trả lời.
+
+Ôn Nhu đã đi tới: "Vậy ý của ngươi là phải . ."
+
+Trầm Dịch cười nói: "Có hai tai mèo chính là tốt, trạm xa như vậy đều có thể nghe được chúng ta nói chuyện."
+
+Ôn Nhu mặt đỏ lên, hung hăng cho Trầm Dịch một cước: "Ngươi mới được là tai mèo nì."
+
+Trầm Dịch cười tránh thoát: "Ý của ta rất đơn giản, đầu tiên là mấy người chúng ta tổ đội. Tiếp theo, vô luận như thế nào muốn cam đoan chúng ta tại khu vực bài danh top 10 trong vòng. Sau đó, chính là vô luận như thế nào muốn cam đoan khu vực tổng bài danh phía trước hai trong vòng. Cuối cùng, chính là khi thời gian tiến vào cuối cùng đếm ngược lúc thời điểm, trừ tự chúng ta, ai đều không thể tín nhiệm, kể cả những kia bài danh không tại mạt sát trong danh sách mạo hiểm giả."
+
+Ôn Nhu mấy cái nhìn nhau, đồng thời gật đầu.
+
+Đúng lúc này, đột nhiên có người bu lại: "Ta có thể không thể gia nhập các ngươi?"
+
+P/s: Có khúc lấy từ truyện dịch, do edit lại rất mất thời gian những phần giới thiệu như vậy, các bạn thông cảm, mình vẫn làm bản cvt edit kỹ nhất cho các bạn :(Mở mắt ra, Trầm Dịch phát hiện mình chính bản thân ở vào một mảnh trên sườn núi nhỏ.
+
+Trên sân bóng rổ đứng hơn hai mươi tên mạo hiểm giả, chính giúp nhau đánh giá chung quanh.
+
+Văn chương Huyết Tinh thanh âm nhắc nhở tại lúc này truyền đến, mọi người ào ào cúi đầu nhìn lại:
+
+"Tiến vào X-Men thế giới. Hiện nay đang nơi vị trí: vùng ngoại ô New York."
+
+"Nhiệm vụ lần này là khu vực thi đua hình thức, không nhiệm vụ chính tuyến."
+
+"Thi đua nội dung: cuộc đua giết người tại New York — đuổi giết Dị nhân. Thi đua thời gian: 72 tiếng đồng hồ. Yêu cầu: không được rời đi New York phạm vi, người vi phạm mạt sát."
+
+"Giết chết Dị nhân cấp 1 đạt được giá trị giết chóc 1. Dị nhân cấp 2 giá trị giết chóc 5. Dị nhân cấp 3 giá trị giết chóc 20. Dị nhân cấp 4 giá trị giết chóc 50. Dị nhân cấp 5, giá trị giết chóc 100."
+
+"Lần này nhiệm vụ người tham dự 100 người, bốn khu cộng đồng dự thi tính chất. Nhiệm vụ sau khi kết thúc, tính toán khu vực giá trị giết chóc bài danh. Khu vực xếp hàng thứ nhất, trước 15 người nhưng còn sống, còn lại mạt sát. Khu vực bài danh thứ hai, trước 10 người còn sống, còn lại mạt sát. Khu vực bài danh thứ ba, trước 5 người còn sống, còn lại mạt sát. Khu vực bài danh thứ tư, toàn bộ thành viên mạt sát."
+
+"Tất cả khu vực giá trị giết chóc kẻ cao nhất đạt được DD cấp phần thưởng bổ sung, điểm kỹ năng 2 điểm, điểm Huyết Tinh ban thưởng vì 1000 * với số người còn lại của khu vực. Tên thứ hai D cấp phần thưởng bổ sung, điểm kỹ năng 1 điểm, điểm Huyết Tinh ban thưởng vì 1000 * (với số người còn lại của khu vực - 1 ). Danh thứ ba điểm Huyết Tinh ban thưởng 1000 * (với số người còn lại của khu vực - 2 ), bảng xếp hạng thứ tư xuống cứ thế mà tính. Bốn khu cá nhân tổng xếp hàng thứ nhất, nhưng đạt được bổ sung đặc thù ban thưởng."
+
+"Giới thiệu tràng cảnh thế giới X-Men: Bản tràng cảnh là phần tiếp theo của X-Men, The Last Stand. Sau trận chiến tại đảo Alcatraz, Vạn Từ Vương Magneto cũng không mất đi lực lượng bản thân, ngược lại càng trở nên mạnh mẽ hơn. Giáo sư X chết đi đã phục sinh lại dưới sự trợ giúp của tiến sĩ Moi ra, đồng thời có được thân thể mới. Vì trận chiến đảo Alcatraz trong bộ 3, chính phủ nhân loại không còn tín nhiệm Dị nhân nữa. Hai năm sau, quốc hội Mỹ chính thức thông qua văn kiện tu chỉnh thứ mười hai điều luật an ninh quốc gia Hoa Kỳ."
+
+"Văn kiện tu chỉnh thứ mười hai quy định. Một: Toàn bộ Dị nhân thức tỉnh hoặc chưa thức tỉnh dị năng, hết thảy cần tiến hành đăng ký thân phận cùng năng lực tại Cục giám sát nn ninh quốc gia, tất cả Dị nhân không tiến hành ghi danh coi là phần tử phạm tội. Hai: Tiến hành quản lý hạn chế xuất nhập cùng hạn chế mang theo súng ống với tất cả Dị nhân đã đăng ký. Ba: Tiến hành hạn chế nghiêm khắc tỉ lệ nhân số với các loại tổ chức công ty, xã đoàn, đảng phái, tập đoàn, nhà xưởng,. . . do Dị nhân thành lập. Ba: Cấm Dị nhân tổ chức hội nghị mít-tinh lớn có tỉ lệ nhân số Dị nhân tham gia chiếm 12% trở lên. Bốn: Không cho phép Dị nhân nắm giữ hơn 3% cổ phần công ty thuộc về mảng năng lượng, vũ khí, tài chính, khoáng sản, các loại sản nghiệp trọng yếu. Năm: Không cho phép Dị nhân đảm nhiệm bất luận chức vụ gì trong cơ cấu Chính Phủ, các loại nghiên cứu khoa học, giáo dục, tôn giáo, truyền thông tin tức tổng cộng hơn bốn mươi ngành sản xuất, hơn hai trăm nghề nghiệp cấm cởi mở với Dị nhân, Dị nhân không được đảm nhiệm chức vụ quản lý cao cấp trong một số xí nghiệp đặc thù. Sáu: Tiến hành giám sát và điều khiển an toàn với tất cả Dị nhân có khuynh hướng bạo lực cùng dị năng loại công kích. Bảy. . ."
+
+"Văn kiện tu chỉnh thứ mười hai đưa tới ý thức chống cự mãnh liệt của Dị nhân, dưới sự lãnh đạo của Magneto, mâu thuẫn giữa Dị nhân cùng nhân loại triệt để trở nên gay gắt, triển khai một trận đại chiến. Toàn bộ nước Mỹ đã trở thành chiến trường giữa Dị nhân cùng nhân loại. Dị nhân có được năng lực đặc dị thành lập tổ chức của mình, do Vạn Từ Vương cầm đầu điên cuồng phát động tập kích khủng bố Chính Phủ Mỹ, khiến cho những chiến trường chính như New York lâm vào trong hỗn loạn. Giáo sư X thì cùng học sinh của ông tiếp tục bảo trì trung lập, hô hào kiềm chế. . ."
+
+. . .
+
+Liên tiếp tin tức, thấy tất cả mọi người nghẹn ngào kinh hô lên.
+
+Hồng Lãng thanh âm lớn nhất: "Gặp quỷ rồi, lần này dĩ nhiên là toàn bộ khu vực cấp thi đua hình thức!"
+
+Có một chút người mới không hiểu nhiều bốn cái khu vực là có ý gì, ào ào hỏi thăm.
+
+Hồng Lãng lớn tiếng trả lời: "Cái gọi là bốn khu, chính là từng độ khó đều phân thành Đông Tây Nam Bắc bốn khu. Khu Đông là khu Trung Quốc nhưng không phải chỉ có người Trung Quốc, ngoại trừ Hồng Kông, Macao, Đài Loan bên ngoài, còn có biên cảnh Nepal ở bên trong một ít khu vực khác, bất quá bọn hắn nhân số quá ít, cơ bản có thể bất kể, khu Tây là khu Âu Mỹ, khu Nam là khu Châu Á các vùng khác, khu Bắc là Châu Phi, Châu Nam Mỹ, Châu Úc. Nhiệm vụ lần này, là bốn cái khu vực tất cả ra 25 người cộng đồng tham gia lần này thi đua. Xem đô thị Huyết Tinh ý tứ, đây là lại tính toán khu vực bài danh, lại tính toán cá nhân bài danh! Cái nào khu giá trị giết chóc cao nhất, có thể thiếu mạt sát một số người. Lần này là con mẹ nó trực tiếp mạt sát, mọi người giữ lại điểm Huyết Tinh cũng vô dụng rồi!"
+
+"Đáng chết!" Tất cả mọi người mắng to lên.
+
+Ôn Nhu nói: "Nếu là tính toán giá trị giết chóc tiến hành bài danh, như vậy là không phải chúng ta giết chết đối phương mạo hiểm giả, có thể giảm xuống đối phương giá trị giết chóc thu hoạch tốc độ?"
+
+Kim Cương cười một tiếng: "Là con gái sát khí nặng như vậy làm gì? Bất quá ngươi nói không sai, lần này đã đoàn thể thi đua, cũng là người thi đua. Vấn đề duy nhất là, đối phương cũng hội nghĩ đến điểm này. Chỉ sợ chúng ta còn không nghĩ tới giết bọn hắn, bọn hắn trước hết nghĩ đến giết chúng ta."
+
+"Còn có một vấn đề." Trầm Dịch đột nhiên nói: "Mọi người chú ý nhìn một chút, cho dù là đạt được khu vực giá trị giết chóc xếp hàng thứ nhất chiến thắng khu vực cũng muốn chết ít nhất 10 người. Bởi như vậy, vấn đề tựu đi ra, mọi người cùng lúc muốn liên hợp đối ngoại, cùng lúc còn muốn bên trong cạnh tranh."
+
+Lời này vừa ra, tất cả mọi người trong nội tâm đều là phát lạnh.
+
+Đúng vậy, đô thị Huyết Tinh cùng lúc cổ vũ bọn hắn tiến hành khu vực thi đua, một phương diện khác rồi lại sử qua lệch ra chiêu sử tất cả mạo hiểm giả vô pháp chính thức đồng tâm hiệp lực. Đối với mạo hiểm giả mà nói, tánh mạng của mình vĩnh viễn là trọng yếu nhất. Nếu mình là người giá trị giết chóc thấp nhất, rất có thể sẽ nảy lòng tham giết chết bài danh tại trước mặt mình người, đem mình tấn thân đến hàng phía trước trên vị trí đi. Nhưng loại làm này, lại không hề nghi ngờ hội dẫn phát người phía sau noi theo. Loại này noi theo hậu quả, rất có thể làm cho chính mình khu vực trong cạnh tranh thực lực lớn đại giảm xuống, đưa tới hậu quả xấu chính là khu vực bài danh cuối cùng, toàn bộ thành viên mạt sát kết cục.
+
+Mà đối với những kia ưu tú, bài danh phía trên mạo hiểm giả mà nói, thì là sống càng nhiều người càng tốt. Trong thi đua người còn sống sót càng nhiều, bọn hắn có thể đạt được ban thưởng lại càng cao, khu vực đệ nhất cùng tổng đệ nhất nắm chắc cũng lớn hơn.
+
+Loại này mâu thuẫn đúng là đô thị Huyết Tinh tỉ mỉ chế tạo nên, làm mạo hiểm giả tại cá nhân lợi ích cùng đoàn thể lợi ích trung xung đột, bồi hồi, vừa muốn tính toán khu vực khác mạo hiểm giả, lại phải đề phòng chính mình khu vực mạo hiểm giả.
+
+Đám người mạo hiểm đem không cách nào nữa giống như lấy trước kia dạng đem phía sau lưng phó thác cho chiến hữu.
+
+Chứng kiến tất cả mọi người không nói, Trầm Dịch mới lạnh lùng nói: "Như vậy mọi người hiện tại cũng minh bạch? Đô thị Huyết Tinh dụng ý đã muốn rất rõ ràng rồi, khu vực thi đua nếu so với, cá nhân thi đua cũng muốn so, giết người sự tình phải làm, nhiệm vụ cũng không thể không làm. Về phần như thế nào phối hợp tốt trong lúc này vấn đề, vậy thì muốn xem tự chúng ta xử lý như thế nào."
+
+"Xử lý như thế nào? Còn có thể xử lý như thế nào?" Một gã mạo hiểm giả kêu to lên: "Lập tức lao ra tìm Dị nhân giết, đụng phải một cái giết một cái, đụng phải khu vực khác mạo hiểm giả cũng giết. Dị nhân mọi người cướp giết, khu khác mạo hiểm giả mọi người tựu liên hợp lại giết, về phần về sau sống hay chết, tựu xem đều tự bổn sự!"
+
+Có người cười lạnh: "Nếu như mỗi người đều giống như ngươi nghĩ như vậy đến cũng đơn giản, chỉ sợ đến lúc đó luôn luôn người bài danh dựa vào sau, cái gì đều gấp còn có thể làm chuyện gì được nữa."
+
+"Nhất là còn có một chút cản trở." Lại có người dùng châm chọc khiêu khích khẩu khí nói. Cái kia mạo hiểm giả ánh mắt chỉ hướng, rõ ràng là cái kia mập mạp chết bầm.
+
+Hắn cũng tham gia nhiệm vụ lần này, thời khắc này xem đến nhiệm vụ nhắc nhở, chính sợ tới mức lạnh run.
+
+"Ta xem chúng ta không bằng tổ chức cùng một chỗ hành động." Có mạo hiểm giả đề nghị: "Mọi người cùng nhau đi giết Dị nhân, thành công nắm chắc cũng lớn chút, nếu có cái tên hỗn đản dám hại người một nhà, tựu làm thịt hắn. Đụng phải khu vực khác mạo hiểm giả, chúng ta cũng có năng lực một trận chiến."
+
+"Chủ ý này không sai." Có người phụ họa.
+
+Trầm Dịch lạnh lùng nói: "Ngươi biết thành phố New York lớn bao nhiêu sao? Ngươi biết New York có bao nhiêu người loại cùng bao nhiêu Dị nhân? Ngươi biết Dị nhân đều phân bố ở địa phương nào? Ngươi có biết hay không đừng nói là ba ngày thi đua thời gian, chính là cho ngươi ba mươi ngày thời gian cho ngươi khắp nơi đi, ngươi cũng đi không hết tại đây mỗi một đầu phố lớn ngõ nhỏ? 25 cá nhân tập thể hành động? Chúng ta đây có thể đi bao nhiêu địa phương? Có thể giết bao nhiêu Dị nhân? An toàn có rồi, nhưng hiệu suất đâu này? Khu vực khác chỉ cần phân ra vài chi đội ngũ đồng thời tiến hành, chúng ta phải bị ném ra đằng sau đi. Đến lúc đó mọi người cũng không cần động cái gì đầu óc cùng khí lực rồi, chờ bị toàn bộ thành viên mạt sát là được rồi."
+
+Mọi người ngạc nhiên.
+
+Đúng vậy a, mọi người cùng một chỗ hành động, hiệu suất khẳng định không có khả năng điểm số tán hành động rất cao. Khu vực giá trị giết chóc bài danh cuối cùng, coi như là cầm đệ nhất cũng phải toàn bộ tử vận mệnh.
+
+Trầm Dịch tiếp tục nói: "Huống chi cho dù vấn đề này có thể giải quyết, nhưng là bên trong sinh tử vấn đề làm sao bây giờ? Tập trung ở cùng một chỗ càng nhiều người, nội đấu phong hiểm lại càng lớn."
+
+Mọi người lần nữa không nói gì.
+
+Ôn Nhu cũng nói: "Tập thể hành động cũng chưa chắc tựu an toàn. Chúng ta người quá nhiều, mục tiêu sẽ quá rõ ràng, rất dễ dàng khiến cho không tất yếu công kích."
+
+"Vậy làm sao bây giờ?" Hồng Lãng rất là đau đầu.
+
+Trầm Dịch lạnh lùng nói: "Vứt bỏ hết thảy không tất yếu tưởng tượng, đô thị Huyết Tinh đã có tâm muốn cho mọi người giúp nhau ngờ vực vô căn cứ, chúng ta đây tựu chạy không khỏi một kiếp này. Chết sống có số, phú quý tại thiên, có một số việc đi ra, chưa hẳn nhất định có biện pháp giải quyết, chỉ có thể đi dũng cảm đối mặt. Lúc này đây cũng là như thế này."
+
+Hắn nhìn xem ở đây tất cả mọi người: "Toàn bộ khu vực cộng đồng hành động là không thể nào, không quá phận thành tiểu tổ tác chiến đến là có thể. Mọi người phân tổ hành động a, tự do tổ hợp, nhân số càng nhiều, nhiệm vụ tiến hành lúc an toàn độ tương đối càng cao, nhưng là săn giết Dị nhân hiệu suất cũng thế tất càng thấp, nhân số ít mà nói đụng với khu vực khác mạo hiểm giả tính nguy hiểm hội khá lớn, cụ thể như thế nào tổ hợp, chính mình nhìn xem xử lý a. Ta chỉ hy vọng một sự kiện, chính là nếu như chúng ta muốn nội đấu, ít nhất cũng phải trước đây xử lý ngoại nhân về sau lại tiến hành. Kẻ thù bên ngoài trước mặt, trước chống giặc ngoại xâm!"
+
+"Tốt!" Một gã mạo hiểm giả lớn tiếng kêu lên: "Ta ủng hộ cái này ý kiến, mọi người tự do tổ hợp. Ta Lưu Hải ở chỗ này trước tiên nói rõ, lão tử là người khu Đông, tuyệt đối sẽ không hướng người khu Đông ra tay. Muốn là của ta bài danh rơi xuống cuối cùng, vậy cho dù ta lại nấm mốc, bị mạt sát tốt rồi. Cần phải là ai dám con mẹ nó động đầu óc tại chính mình trên thân người. . ."
+
+"Người đó đụng phải đều đừng buông tha." Có người âm trầm nói.
+
+"Tốt, quyết định như vậy. Chết sống có số, phú quý tại thiên. Không có bổn sự sớm làm tự sát, đừng mẹ nó hại người hại mình!" Một đám người la lớn.
+
+"Lưu lại một chút ít phương thức liên lạc, cái nào tổ nếu gặp được nguy hiểm, mặt khác tổ tựu qua đi cứu viện, người cùng khu phải đoàn kết lại!"
+
+"Đúng, là ý kiến hay. Chỗ này của ta có đạn tín hiệu, có thể phân cho mọi người."
+
+"Đều đừng có mài đầu vào nữa, tốc độ nhanh chút ít, như vậy một hồi sẽ trở ngại không thiếu thời gian, khu khác khả năng đã bắt đầu."
+
+Đám người mạo hiểm bắt đầu lẫn nhau giới thiệu, tự do tổ hợp thành đội ngũ, thành lập phương thức liên lạc. Cũng có người nghe nói qua Trầm Dịch, ý đồ tìm hắn tổ đội, bất quá đều bị Trầm Dịch cự tuyệt.
+
+Hồng Lãng cùng Kim Cương hướng Trầm Dịch đi tới. Kim Cương nói: "Không có ý định chọn mấy cái?"
+
+Trầm Dịch lắc đầu: "Chúng ta mấy cái đã muốn đủ rồi."
+
+Hồng Lãng cười nói: "Ít người điểm cũng tốt, không phải quen thuộc không tin được."
+
+"Lúc mới bắt đầu giúp nhau nên vậy còn tin được, lẫn nhau có lẽ còn có thể lẫn nhau giúp hỗ trợ, chân thành hợp tác, đến cuối cùng một ngày sẽ có người nóng nảy. Người khu Đông đoàn kết lại loại này khẩu hiệu quốc gia thời khắc nguy nan rất tốt, nhưng là ở loại địa phương này hiệu quả có hạn, dù sao tại đây quan hệ chính là cá nhân tồn vong mà không phải quốc gia vận mệnh. Đương nhiên, cũng không phải một điểm dùng đều không có, ít nhất lúc đầu thời điểm cũng không tệ lắm. Bất quá chỉ cần có một hạt cứt chuột, hỗn loạn đều hư mất." Trầm Dịch nhàn nhạt trả lời.
+
+Ôn Nhu đã đi tới: "Vậy ý của ngươi là phải . ."
+
+Trầm Dịch cười nói: "Có hai tai mèo chính là tốt, trạm xa như vậy đều có thể nghe được chúng ta nói chuyện."
+
+Ôn Nhu mặt đỏ lên, hung hăng cho Trầm Dịch một cước: "Ngươi mới được là tai mèo nì."
+
+Trầm Dịch cười tránh thoát: "Ý của ta rất đơn giản, đầu tiên là mấy người chúng ta tổ đội. Tiếp theo, vô luận như thế nào muốn cam đoan chúng ta tại khu vực bài danh top 10 trong vòng. Sau đó, chính là vô luận như thế nào muốn cam đoan khu vực tổng bài danh phía trước hai trong vòng. Cuối cùng, chính là khi thời gian tiến vào cuối cùng đếm ngược lúc thời điểm, trừ tự chúng ta, ai đều không thể tín nhiệm, kể cả những kia bài danh không tại mạt sát trong danh sách mạo hiểm giả."
+
+Ôn Nhu mấy cái nhìn nhau, đồng thời gật đầu.
+
+Đúng lúc này, đột nhiên có người bu lại: "Ta có thể không thể gia nhập các ngươi?"
+
+P/s: Có khúc lấy từ truyện dịch, do edit lại rất mất thời gian những phần giới thiệu như vậy, các bạn thông cảm, mình vẫn làm bản cvt edit kỹ nhất cho các bạn :(Mở mắt ra, Trầm Dịch phát hiện mình chính bản thân ở vào một mảnh trên sườn núi nhỏ.
+
+Trên sân bóng rổ đứng hơn hai mươi tên mạo hiểm giả, chính giúp nhau đánh giá chung quanh.
+
+Văn chương Huyết Tinh thanh âm nhắc nhở tại lúc này truyền đến, mọi người ào ào cúi đầu nhìn lại:
+
+"Tiến vào X-Men thế giới. Hiện nay đang nơi vị trí: vùng ngoại ô New York."
+
+"Nhiệm vụ lần này là khu vực thi đua hình thức, không nhiệm vụ chính tuyến."
+
+"Thi đua nội dung: cuộc đua giết người tại New York — đuổi giết Dị nhân. Thi đua thời gian: 72 tiếng đồng hồ. Yêu cầu: không được rời đi New York phạm vi, người vi phạm mạt sát."
+
+"Giết chết Dị nhân cấp 1 đạt được giá trị giết chóc 1. Dị nhân cấp 2 giá trị giết chóc 5. Dị nhân cấp 3 giá trị giết chóc 20. Dị nhân cấp 4 giá trị giết chóc 50. Dị nhân cấp 5, giá trị giết chóc 100."
+
+"Lần này nhiệm vụ người tham dự 100 người, bốn khu cộng đồng dự thi tính chất. Nhiệm vụ sau khi kết thúc, tính toán khu vực giá trị giết chóc bài danh. Khu vực xếp hàng thứ nhất, trước 15 người nhưng còn sống, còn lại mạt sát. Khu vực bài danh thứ hai, trước 10 người còn sống, còn lại mạt sát. Khu vực bài danh thứ ba, trước 5 người còn sống, còn lại mạt sát. Khu vực bài danh thứ tư, toàn bộ thành viên mạt sát."
+
+"Tất cả khu vực giá trị giết chóc kẻ cao nhất đạt được DD cấp phần thưởng bổ sung, điểm kỹ năng 2 điểm, điểm Huyết Tinh ban thưởng vì 1000 * với số người còn lại của khu vực. Tên thứ hai D cấp phần thưởng bổ sung, điểm kỹ năng 1 điểm, điểm Huyết Tinh ban thưởng vì 1000 * (với số người còn lại của khu vực - 1 ). Danh thứ ba điểm Huyết Tinh ban thưởng 1000 * (với số người còn lại của khu vực - 2 ), bảng xếp hạng thứ tư xuống cứ thế mà tính. Bốn khu cá nhân tổng xếp hàng thứ nhất, nhưng đạt được bổ sung đặc thù ban thưởng."
+
+"Giới thiệu tràng cảnh thế giới X-Men: Bản tràng cảnh là phần tiếp theo của X-Men, The Last Stand. Sau trận chiến tại đảo Alcatraz, Vạn Từ Vương Magneto cũng không mất đi lực lượng bản thân, ngược lại càng trở nên mạnh mẽ hơn. Giáo sư X chết đi đã phục sinh lại dưới sự trợ giúp của tiến sĩ Moi ra, đồng thời có được thân thể mới. Vì trận chiến đảo Alcatraz trong bộ 3, chính phủ nhân loại không còn tín nhiệm Dị nhân nữa. Hai năm sau, quốc hội Mỹ chính thức thông qua văn kiện tu chỉnh thứ mười hai điều luật an ninh quốc gia Hoa Kỳ."
+
+"Văn kiện tu chỉnh thứ mười hai quy định. Một: Toàn bộ Dị nhân thức tỉnh hoặc chưa thức tỉnh dị năng, hết thảy cần tiến hành đăng ký thân phận cùng năng lực tại Cục giám sát nn ninh quốc gia, tất cả Dị nhân không tiến hành ghi danh coi là phần tử phạm tội. Hai: Tiến hành quản lý hạn chế xuất nhập cùng hạn chế mang theo súng ống với tất cả Dị nhân đã đăng ký. Ba: Tiến hành hạn chế nghiêm khắc tỉ lệ nhân số với các loại tổ chức công ty, xã đoàn, đảng phái, tập đoàn, nhà xưởng,. . . do Dị nhân thành lập. Ba: Cấm Dị nhân tổ chức hội nghị mít-tinh lớn có tỉ lệ nhân số Dị nhân tham gia chiếm 12% trở lên. Bốn: Không cho phép Dị nhân nắm giữ hơn 3% cổ phần công ty thuộc về mảng năng lượng, vũ khí, tài chính, khoáng sản, các loại sản nghiệp trọng yếu. Năm: Không cho phép Dị nhân đảm nhiệm bất luận chức vụ gì trong cơ cấu Chính Phủ, các loại nghiên cứu khoa học, giáo dục, tôn giáo, truyền thông tin tức tổng cộng hơn bốn mươi ngành sản xuất, hơn hai trăm nghề nghiệp cấm cởi mở với Dị nhân, Dị nhân không được đảm nhiệm chức vụ quản lý cao cấp trong một số xí nghiệp đặc thù. Sáu: Tiến hành giám sát và điều khiển an toàn với tất cả Dị nhân có khuynh hướng bạo lực cùng dị năng loại công kích. Bảy. . ."
+
+"Văn kiện tu chỉnh thứ mười hai đưa tới ý thức chống cự mãnh liệt của Dị nhân, dưới sự lãnh đạo của Magneto, mâu thuẫn giữa Dị nhân cùng nhân loại triệt để trở nên gay gắt, triển khai một trận đại chiến. Toàn bộ nước Mỹ đã trở thành chiến trường giữa Dị nhân cùng nhân loại. Dị nhân có được năng lực đặc dị thành lập tổ chức của mình, do Vạn Từ Vương cầm đầu điên cuồng phát động tập kích khủng bố Chính Phủ Mỹ, khiến cho những chiến trường chính như New York lâm vào trong hỗn loạn. Giáo sư X thì cùng học sinh của ông tiếp tục bảo trì trung lập, hô hào kiềm chế. . ."
+
+. . .
+
+Liên tiếp tin tức, thấy tất cả mọi người nghẹn ngào kinh hô lên.
+
+Hồng Lãng thanh âm lớn nhất: "Gặp quỷ rồi, lần này dĩ nhiên là toàn bộ khu vực cấp thi đua hình thức!"
+
+Có một chút người mới không hiểu nhiều bốn cái khu vực là có ý gì, ào ào hỏi thăm.
+
+Hồng Lãng lớn tiếng trả lời: "Cái gọi là bốn khu, chính là từng độ khó đều phân thành Đông Tây Nam Bắc bốn khu. Khu Đông là khu Trung Quốc nhưng không phải chỉ có người Trung Quốc, ngoại trừ Hồng Kông, Macao, Đài Loan bên ngoài, còn có biên cảnh Nepal ở bên trong một ít khu vực khác, bất quá bọn hắn nhân số quá ít, cơ bản có thể bất kể, khu Tây là khu Âu Mỹ, khu Nam là khu Châu Á các vùng khác, khu Bắc là Châu Phi, Châu Nam Mỹ, Châu Úc. Nhiệm vụ lần này, là bốn cái khu vực tất cả ra 25 người cộng đồng tham gia lần này thi đua. Xem đô thị Huyết Tinh ý tứ, đây là lại tính toán khu vực bài danh, lại tính toán cá nhân bài danh! Cái nào khu giá trị giết chóc cao nhất, có thể thiếu mạt sát một số người. Lần này là con mẹ nó trực tiếp mạt sát, mọi người giữ lại điểm Huyết Tinh cũng vô dụng rồi!"
+
+"Đáng chết!" Tất cả mọi người mắng to lên.
+
+Ôn Nhu nói: "Nếu là tính toán giá trị giết chóc tiến hành bài danh, như vậy là không phải chúng ta giết chết đối phương mạo hiểm giả, có thể giảm xuống đối phương giá trị giết chóc thu hoạch tốc độ?"
+
+Kim Cương cười một tiếng: "Là con gái sát khí nặng như vậy làm gì? Bất quá ngươi nói không sai, lần này đã đoàn thể thi đua, cũng là người thi đua. Vấn đề duy nhất là, đối phương cũng hội nghĩ đến điểm này. Chỉ sợ chúng ta còn không nghĩ tới giết bọn hắn, bọn hắn trước hết nghĩ đến giết chúng ta."
+
+"Còn có một vấn đề." Trầm Dịch đột nhiên nói: "Mọi người chú ý nhìn một chút, cho dù là đạt được khu vực giá trị giết chóc xếp hàng thứ nhất chiến thắng khu vực cũng muốn chết ít nhất 10 người. Bởi như vậy, vấn đề tựu đi ra, mọi người cùng lúc muốn liên hợp đối ngoại, cùng lúc còn muốn bên trong cạnh tranh."
+
+Lời này vừa ra, tất cả mọi người trong nội tâm đều là phát lạnh.
+
+Đúng vậy, đô thị Huyết Tinh cùng lúc cổ vũ bọn hắn tiến hành khu vực thi đua, một phương diện khác rồi lại sử qua lệch ra chiêu sử tất cả mạo hiểm giả vô pháp chính thức đồng tâm hiệp lực. Đối với mạo hiểm giả mà nói, tánh mạng của mình vĩnh viễn là trọng yếu nhất. Nếu mình là người giá trị giết chóc thấp nhất, rất có thể sẽ nảy lòng tham giết chết bài danh tại trước mặt mình người, đem mình tấn thân đến hàng phía trước trên vị trí đi. Nhưng loại làm này, lại không hề nghi ngờ hội dẫn phát người phía sau noi theo. Loại này noi theo hậu quả, rất có thể làm cho chính mình khu vực trong cạnh tranh thực lực lớn đại giảm xuống, đưa tới hậu quả xấu chính là khu vực bài danh cuối cùng, toàn bộ thành viên mạt sát kết cục.
+
+Mà đối với những kia ưu tú, bài danh phía trên mạo hiểm giả mà nói, thì là sống càng nhiều người càng tốt. Trong thi đua người còn sống sót càng nhiều, bọn hắn có thể đạt được ban thưởng lại càng cao, khu vực đệ nhất cùng tổng đệ nhất nắm chắc cũng lớn hơn.
+
+Loại này mâu thuẫn đúng là đô thị Huyết Tinh tỉ mỉ chế tạo nên, làm mạo hiểm giả tại cá nhân lợi ích cùng đoàn thể lợi ích trung xung đột, bồi hồi, vừa muốn tính toán khu vực khác mạo hiểm giả, lại phải đề phòng chính mình khu vực mạo hiểm giả.
+
+Đám người mạo hiểm đem không cách nào nữa giống như lấy trước kia dạng đem phía sau lưng phó thác cho chiến hữu.
+
+Chứng kiến tất cả mọi người không nói, Trầm Dịch mới lạnh lùng nói: "Như vậy mọi người hiện tại cũng minh bạch? Đô thị Huyết Tinh dụng ý đã muốn rất rõ ràng rồi, khu vực thi đua nếu so với, cá nhân thi đua cũng muốn so, giết người sự tình phải làm, nhiệm vụ cũng không thể không làm. Về phần như thế nào phối hợp tốt trong lúc này vấn đề, vậy thì muốn xem tự chúng ta xử lý như thế nào."
+
+"Xử lý như thế nào? Còn có thể xử lý như thế nào?" Một gã mạo hiểm giả kêu to lên: "Lập tức lao ra tìm Dị nhân giết, đụng phải một cái giết một cái, đụng phải khu vực khác mạo hiểm giả cũng giết. Dị nhân mọi người cướp giết, khu khác mạo hiểm giả mọi người tựu liên hợp lại giết, về phần về sau sống hay chết, tựu xem đều tự bổn sự!"
+
+Có người cười lạnh: "Nếu như mỗi người đều giống như ngươi nghĩ như vậy đến cũng đơn giản, chỉ sợ đến lúc đó luôn luôn người bài danh dựa vào sau, cái gì đều gấp còn có thể làm chuyện gì được nữa."
+
+"Nhất là còn có một chút cản trở." Lại có người dùng châm chọc khiêu khích khẩu khí nói. Cái kia mạo hiểm giả ánh mắt chỉ hướng, rõ ràng là cái kia mập mạp chết bầm.
+
+Hắn cũng tham gia nhiệm vụ lần này, thời khắc này xem đến nhiệm vụ nhắc nhở, chính sợ tới mức lạnh run.
+
+"Ta xem chúng ta không bằng tổ chức cùng một chỗ hành động." Có mạo hiểm giả đề nghị: "Mọi người cùng nhau đi giết Dị nhân, thành công nắm chắc cũng lớn chút, nếu có cái tên hỗn đản dám hại người một nhà, tựu làm thịt hắn. Đụng phải khu vực khác mạo hiểm giả, chúng ta cũng có năng lực một trận chiến."
+
+"Chủ ý này không sai." Có người phụ họa.
+
+Trầm Dịch lạnh lùng nói: "Ngươi biết thành phố New York lớn bao nhiêu sao? Ngươi biết New York có bao nhiêu người loại cùng bao nhiêu Dị nhân? Ngươi biết Dị nhân đều phân bố ở địa phương nào? Ngươi có biết hay không đừng nói là ba ngày thi đua thời gian, chính là cho ngươi ba mươi ngày thời gian cho ngươi khắp nơi đi, ngươi cũng đi không hết tại đây mỗi một đầu phố lớn ngõ nhỏ? 25 cá nhân tập thể hành động? Chúng ta đây có thể đi bao nhiêu địa phương? Có thể giết bao nhiêu Dị nhân? An toàn có rồi, nhưng hiệu suất đâu này? Khu vực khác chỉ cần phân ra vài chi đội ngũ đồng thời tiến hành, chúng ta phải bị ném ra đằng sau đi. Đến lúc đó mọi người cũng không cần động cái gì đầu óc cùng khí lực rồi, chờ bị toàn bộ thành viên mạt sát là được rồi."
+
+Mọi người ngạc nhiên.
+
+Đúng vậy a, mọi người cùng một chỗ hành động, hiệu suất khẳng định không có khả năng điểm số tán hành động rất cao. Khu vực giá trị giết chóc bài danh cuối cùng, coi như là cầm đệ nhất cũng phải toàn bộ tử vận mệnh.
+
+Trầm Dịch tiếp tục nói: "Huống chi cho dù vấn đề này có thể giải quyết, nhưng là bên trong sinh tử vấn đề làm sao bây giờ? Tập trung ở cùng một chỗ càng nhiều người, nội đấu phong hiểm lại càng lớn."
+
+Mọi người lần nữa không nói gì.
+
+Ôn Nhu cũng nói: "Tập thể hành động cũng chưa chắc tựu an toàn. Chúng ta người quá nhiều, mục tiêu sẽ quá rõ ràng, rất dễ dàng khiến cho không tất yếu công kích."
+
+"Vậy làm sao bây giờ?" Hồng Lãng rất là đau đầu.
+
+Trầm Dịch lạnh lùng nói: "Vứt bỏ hết thảy không tất yếu tưởng tượng, đô thị Huyết Tinh đã có tâm muốn cho mọi người giúp nhau ngờ vực vô căn cứ, chúng ta đây tựu chạy không khỏi một kiếp này. Chết sống có số, phú quý tại thiên, có một số việc đi ra, chưa hẳn nhất định có biện pháp giải quyết, chỉ có thể đi dũng cảm đối mặt. Lúc này đây cũng là như thế này."
+
+Hắn nhìn xem ở đây tất cả mọi người: "Toàn bộ khu vực cộng đồng hành động là không thể nào, không quá phận thành tiểu tổ tác chiến đến là có thể. Mọi người phân tổ hành động a, tự do tổ hợp, nhân số càng nhiều, nhiệm vụ tiến hành lúc an toàn độ tương đối càng cao, nhưng là săn giết Dị nhân hiệu suất cũng thế tất càng thấp, nhân số ít mà nói đụng với khu vực khác mạo hiểm giả tính nguy hiểm hội khá lớn, cụ thể như thế nào tổ hợp, chính mình nhìn xem xử lý a. Ta chỉ hy vọng một sự kiện, chính là nếu như chúng ta muốn nội đấu, ít nhất cũng phải trước đây xử lý ngoại nhân về sau lại tiến hành. Kẻ thù bên ngoài trước mặt, trước chống giặc ngoại xâm!"
+
+"Tốt!" Một gã mạo hiểm giả lớn tiếng kêu lên: "Ta ủng hộ cái này ý kiến, mọi người tự do tổ hợp. Ta Lưu Hải ở chỗ này trước tiên nói rõ, lão tử là người khu Đông, tuyệt đối sẽ không hướng người khu Đông ra tay. Muốn là của ta bài danh rơi xuống cuối cùng, vậy cho dù ta lại nấm mốc, bị mạt sát tốt rồi. Cần phải là ai dám con mẹ nó động đầu óc tại chính mình trên thân người. . ."
+
+"Người đó đụng phải đều đừng buông tha." Có người âm trầm nói.
+
+"Tốt, quyết định như vậy. Chết sống có số, phú quý tại thiên. Không có bổn sự sớm làm tự sát, đừng mẹ nó hại người hại mình!" Một đám người la lớn.
+
+"Lưu lại một chút ít phương thức liên lạc, cái nào tổ nếu gặp được nguy hiểm, mặt khác tổ tựu qua đi cứu viện, người cùng khu phải đoàn kết lại!"
+
+"Đúng, là ý kiến hay. Chỗ này của ta có đạn tín hiệu, có thể phân cho mọi người."
+
+"Đều đừng có mài đầu vào nữa, tốc độ nhanh chút ít, như vậy một hồi sẽ trở ngại không thiếu thời gian, khu khác khả năng đã bắt đầu."
+
+Đám người mạo hiểm bắt đầu lẫn nhau giới thiệu, tự do tổ hợp thành đội ngũ, thành lập phương thức liên lạc. Cũng có người nghe nói qua Trầm Dịch, ý đồ tìm hắn tổ đội, bất quá đều bị Trầm Dịch cự tuyệt.
+
+Hồng Lãng cùng Kim Cương hướng Trầm Dịch đi tới. Kim Cương nói: "Không có ý định chọn mấy cái?"
+
+Trầm Dịch lắc đầu: "Chúng ta mấy cái đã muốn đủ rồi."
+
+Hồng Lãng cười nói: "Ít người điểm cũng tốt, không phải quen thuộc không tin được."
+
+"Lúc mới bắt đầu giúp nhau nên vậy còn tin được, lẫn nhau có lẽ còn có thể lẫn nhau giúp hỗ trợ, chân thành hợp tác, đến cuối cùng một ngày sẽ có người nóng nảy. Người khu Đông đoàn kết lại loại này khẩu hiệu quốc gia thời khắc nguy nan rất tốt, nhưng là ở loại địa phương này hiệu quả có hạn, dù sao tại đây quan hệ chính là cá nhân tồn vong mà không phải quốc gia vận mệnh. Đương nhiên, cũng không phải một điểm dùng đều không có, ít nhất lúc đầu thời điểm cũng không tệ lắm. Bất quá chỉ cần có một hạt cứt chuột, hỗn loạn đều hư mất." Trầm Dịch nhàn nhạt trả lời.
+
+Ôn Nhu đã đi tới: "Vậy ý của ngươi là phải . ."
+
+Trầm Dịch cười nói: "Có hai tai mèo chính là tốt, trạm xa như vậy đều có thể nghe được chúng ta nói chuyện."
+
+Ôn Nhu mặt đỏ lên, hung hăng cho Trầm Dịch một cước: "Ngươi mới được là tai mèo nì."
+
+Trầm Dịch cười tránh thoát: "Ý của ta rất đơn giản, đầu tiên là mấy người chúng ta tổ đội. Tiếp theo, vô luận như thế nào muốn cam đoan chúng ta tại khu vực bài danh top 10 trong vòng. Sau đó, chính là vô luận như thế nào muốn cam đoan khu vực tổng bài danh phía trước hai trong vòng. Cuối cùng, chính là khi thời gian tiến vào cuối cùng đếm ngược lúc thời điểm, trừ tự chúng ta, ai đều không thể tín nhiệm, kể cả những kia bài danh không tại mạt sát trong danh sách mạo hiểm giả."
+
+Ôn Nhu mấy cái nhìn nhau, đồng thời gật đầu.
+
+Đúng lúc này, đột nhiên có người bu lại: "Ta có thể không thể gia nhập các ngươi?"
+
+P/s: Có khúc lấy từ truyện dịch, do edit lại rất mất thời gian những phần giới thiệu như vậy, các bạn thông cảm, mình vẫn làm bản cvt edit kỹ nhất cho các bạn :(Mở mắt ra, Trầm Dịch phát hiện mình chính bản thân ở vào một mảnh trên sườn núi nhỏ.
+
+Trên sân bóng rổ đứng hơn hai mươi tên mạo hiểm giả, chính giúp nhau đánh giá chung quanh.
+
+Văn chương Huyết Tinh thanh âm nhắc nhở tại lúc này truyền đến, mọi người ào ào cúi đầu nhìn lại:
+
+"Tiến vào X-Men thế giới. Hiện nay đang nơi vị trí: vùng ngoại ô New York."
+
+"Nhiệm vụ lần này là khu vực thi đua hình thức, không nhiệm vụ chính tuyến."
+
+"Thi đua nội dung: cuộc đua giết người tại New York — đuổi giết Dị nhân. Thi đua thời gian: 72 tiếng đồng hồ. Yêu cầu: không được rời đi New York phạm vi, người vi phạm mạt sát."
+
+"Giết chết Dị nhân cấp 1 đạt được giá trị giết chóc 1. Dị nhân cấp 2 giá trị giết chóc 5. Dị nhân cấp 3 giá trị giết chóc 20. Dị nhân cấp 4 giá trị giết chóc 50. Dị nhân cấp 5, giá trị giết chóc 100."
+
+"Lần này nhiệm vụ người tham dự 100 người, bốn khu cộng đồng dự thi tính chất. Nhiệm vụ sau khi kết thúc, tính toán khu vực giá trị giết chóc bài danh. Khu vực xếp hàng thứ nhất, trước 15 người nhưng còn sống, còn lại mạt sát. Khu vực bài danh thứ hai, trước 10 người còn sống, còn lại mạt sát. Khu vực bài danh thứ ba, trước 5 người còn sống, còn lại mạt sát. Khu vực bài danh thứ tư, toàn bộ thành viên mạt sát."
+
+"Tất cả khu vực giá trị giết chóc kẻ cao nhất đạt được DD cấp phần thưởng bổ sung, điểm kỹ năng 2 điểm, điểm Huyết Tinh ban thưởng vì 1000 * với số người còn lại của khu vực. Tên thứ hai D cấp phần thưởng bổ sung, điểm kỹ năng 1 điểm, điểm Huyết Tinh ban thưởng vì 1000 * (với số người còn lại của khu vực - 1 ). Danh thứ ba điểm Huyết Tinh ban thưởng 1000 * (với số người còn lại của khu vực - 2 ), bảng xếp hạng thứ tư xuống cứ thế mà tính. Bốn khu cá nhân tổng xếp hàng thứ nhất, nhưng đạt được bổ sung đặc thù ban thưởng."
+
+"Giới thiệu tràng cảnh thế giới X-Men: Bản tràng cảnh là phần tiếp theo của X-Men, The Last Stand. Sau trận chiến tại đảo Alcatraz, Vạn Từ Vương Magneto cũng không mất đi lực lượng bản thân, ngược lại càng trở nên mạnh mẽ hơn. Giáo sư X chết đi đã phục sinh lại dưới sự trợ giúp của tiến sĩ Moi ra, đồng thời có được thân thể mới. Vì trận chiến đảo Alcatraz trong bộ 3, chính phủ nhân loại không còn tín nhiệm Dị nhân nữa. Hai năm sau, quốc hội Mỹ chính thức thông qua văn kiện tu chỉnh thứ mười hai điều luật an ninh quốc gia Hoa Kỳ."
+
+"Văn kiện tu chỉnh thứ mười hai quy định. Một: Toàn bộ Dị nhân thức tỉnh hoặc chưa thức tỉnh dị năng, hết thảy cần tiến hành đăng ký thân phận cùng năng lực tại Cục giám sát nn ninh quốc gia, tất cả Dị nhân không tiến hành ghi danh coi là phần tử phạm tội. Hai: Tiến hành quản lý hạn chế xuất nhập cùng hạn chế mang theo súng ống với tất cả Dị nhân đã đăng ký. Ba: Tiến hành hạn chế nghiêm khắc tỉ lệ nhân số với các loại tổ chức công ty, xã đoàn, đảng phái, tập đoàn, nhà xưởng,. . . do Dị nhân thành lập. Ba: Cấm Dị nhân tổ chức hội nghị mít-tinh lớn có tỉ lệ nhân số Dị nhân tham gia chiếm 12% trở lên. Bốn: Không cho phép Dị nhân nắm giữ hơn 3% cổ phần công ty thuộc về mảng năng lượng, vũ khí, tài chính, khoáng sản, các loại sản nghiệp trọng yếu. Năm: Không cho phép Dị nhân đảm nhiệm bất luận chức vụ gì trong cơ cấu Chính Phủ, các loại nghiên cứu khoa học, giáo dục, tôn giáo, truyền thông tin tức tổng cộng hơn bốn mươi ngành sản xuất, hơn hai trăm nghề nghiệp cấm cởi mở với Dị nhân, Dị nhân không được đảm nhiệm chức vụ quản lý cao cấp trong một số xí nghiệp đặc thù. Sáu: Tiến hành giám sát và điều khiển an toàn với tất cả Dị nhân có khuynh hướng bạo lực cùng dị năng loại công kích. Bảy. . ."
+
+"Văn kiện tu chỉnh thứ mười hai đưa tới ý thức chống cự mãnh liệt của Dị nhân, dưới sự lãnh đạo của Magneto, mâu thuẫn giữa Dị nhân cùng nhân loại triệt để trở nên gay gắt, triển khai một trận đại chiến. Toàn bộ nước Mỹ đã trở thành chiến trường giữa Dị nhân cùng nhân loại. Dị nhân có được năng lực đặc dị thành lập tổ chức của mình, do Vạn Từ Vương cầm đầu điên cuồng phát động tập kích khủng bố Chính Phủ Mỹ, khiến cho những chiến trường chính như New York lâm vào trong hỗn loạn. Giáo sư X thì cùng học sinh của ông tiếp tục bảo trì trung lập, hô hào kiềm chế. . ."
+
+. . .
+
+Liên tiếp tin tức, thấy tất cả mọi người nghẹn ngào kinh hô lên.
+
+Hồng Lãng thanh âm lớn nhất: "Gặp quỷ rồi, lần này dĩ nhiên là toàn bộ khu vực cấp thi đua hình thức!"
+
+Có một chút người mới không hiểu nhiều bốn cái khu vực là có ý gì, ào ào hỏi thăm.
+
+Hồng Lãng lớn tiếng trả lời: "Cái gọi là bốn khu, chính là từng độ khó đều phân thành Đông Tây Nam Bắc bốn khu. Khu Đông là khu Trung Quốc nhưng không phải chỉ có người Trung Quốc, ngoại trừ Hồng Kông, Macao, Đài Loan bên ngoài, còn có biên cảnh Nepal ở bên trong một ít khu vực khác, bất quá bọn hắn nhân số quá ít, cơ bản có thể bất kể, khu Tây là khu Âu Mỹ, khu Nam là khu Châu Á các vùng khác, khu Bắc là Châu Phi, Châu Nam Mỹ, Châu Úc. Nhiệm vụ lần này, là bốn cái khu vực tất cả ra 25 người cộng đồng tham gia lần này thi đua. Xem đô thị Huyết Tinh ý tứ, đây là lại tính toán khu vực bài danh, lại tính toán cá nhân bài danh! Cái nào khu giá trị giết chóc cao nhất, có thể thiếu mạt sát một số người. Lần này là con mẹ nó trực tiếp mạt sát, mọi người giữ lại điểm Huyết Tinh cũng vô dụng rồi!"
+
+"Đáng chết!" Tất cả mọi người mắng to lên.
+
+Ôn Nhu nói: "Nếu là tính toán giá trị giết chóc tiến hành bài danh, như vậy là không phải chúng ta giết chết đối phương mạo hiểm giả, có thể giảm xuống đối phương giá trị giết chóc thu hoạch tốc độ?"
+
+Kim Cương cười một tiếng: "Là con gái sát khí nặng như vậy làm gì? Bất quá ngươi nói không sai, lần này đã đoàn thể thi đua, cũng là người thi đua. Vấn đề duy nhất là, đối phương cũng hội nghĩ đến điểm này. Chỉ sợ chúng ta còn không nghĩ tới giết bọn hắn, bọn hắn trước hết nghĩ đến giết chúng ta."
+
+"Còn có một vấn đề." Trầm Dịch đột nhiên nói: "Mọi người chú ý nhìn một chút, cho dù là đạt được khu vực giá trị giết chóc xếp hàng thứ nhất chiến thắng khu vực cũng muốn chết ít nhất 10 người. Bởi như vậy, vấn đề tựu đi ra, mọi người cùng lúc muốn liên hợp đối ngoại, cùng lúc còn muốn bên trong cạnh tranh."
+
+Lời này vừa ra, tất cả mọi người trong nội tâm đều là phát lạnh.
+
+Đúng vậy, đô thị Huyết Tinh cùng lúc cổ vũ bọn hắn tiến hành khu vực thi đua, một phương diện khác rồi lại sử qua lệch ra chiêu sử tất cả mạo hiểm giả vô pháp chính thức đồng tâm hiệp lực. Đối với mạo hiểm giả mà nói, tánh mạng của mình vĩnh viễn là trọng yếu nhất. Nếu mình là người giá trị giết chóc thấp nhất, rất có thể sẽ nảy lòng tham giết chết bài danh tại trước mặt mình người, đem mình tấn thân đến hàng phía trước trên vị trí đi. Nhưng loại làm này, lại không hề nghi ngờ hội dẫn phát người phía sau noi theo. Loại này noi theo hậu quả, rất có thể làm cho chính mình khu vực trong cạnh tranh thực lực lớn đại giảm xuống, đưa tới hậu quả xấu chính là khu vực bài danh cuối cùng, toàn bộ thành viên mạt sát kết cục.
+
+Mà đối với những kia ưu tú, bài danh phía trên mạo hiểm giả mà nói, thì là sống càng nhiều người càng tốt. Trong thi đua người còn sống sót càng nhiều, bọn hắn có thể đạt được ban thưởng lại càng cao, khu vực đệ nhất cùng tổng đệ nhất nắm chắc cũng lớn hơn.
+
+Loại này mâu thuẫn đúng là đô thị Huyết Tinh tỉ mỉ chế tạo nên, làm mạo hiểm giả tại cá nhân lợi ích cùng đoàn thể lợi ích trung xung đột, bồi hồi, vừa muốn tính toán khu vực khác mạo hiểm giả, lại phải đề phòng chính mình khu vực mạo hiểm giả.
+
+Đám người mạo hiểm đem không cách nào nữa giống như lấy trước kia dạng đem phía sau lưng phó thác cho chiến hữu.
+
+Chứng kiến tất cả mọi người không nói, Trầm Dịch mới lạnh lùng nói: "Như vậy mọi người hiện tại cũng minh bạch? Đô thị Huyết Tinh dụng ý đã muốn rất rõ ràng rồi, khu vực thi đua nếu so với, cá nhân thi đua cũng muốn so, giết người sự tình phải làm, nhiệm vụ cũng không thể không làm. Về phần như thế nào phối hợp tốt trong lúc này vấn đề, vậy thì muốn xem tự chúng ta xử lý như thế nào."
+
+"Xử lý như thế nào? Còn có thể xử lý như thế nào?" Một gã mạo hiểm giả kêu to lên: "Lập tức lao ra tìm Dị nhân giết, đụng phải một cái giết một cái, đụng phải khu vực khác mạo hiểm giả cũng giết. Dị nhân mọi người cướp giết, khu khác mạo hiểm giả mọi người tựu liên hợp lại giết, về phần về sau sống hay chết, tựu xem đều tự bổn sự!"
+
+Có người cười lạnh: "Nếu như mỗi người đều giống như ngươi nghĩ như vậy đến cũng đơn giản, chỉ sợ đến lúc đó luôn luôn người bài danh dựa vào sau, cái gì đều gấp còn có thể làm chuyện gì được nữa."
+
+"Nhất là còn có một chút cản trở." Lại có người dùng châm chọc khiêu khích khẩu khí nói. Cái kia mạo hiểm giả ánh mắt chỉ hướng, rõ ràng là cái kia mập mạp chết bầm.
+
+Hắn cũng tham gia nhiệm vụ lần này, thời khắc này xem đến nhiệm vụ nhắc nhở, chính sợ tới mức lạnh run.
+
+"Ta xem chúng ta không bằng tổ chức cùng một chỗ hành động." Có mạo hiểm giả đề nghị: "Mọi người cùng nhau đi giết Dị nhân, thành công nắm chắc cũng lớn chút, nếu có cái tên hỗn đản dám hại người một nhà, tựu làm thịt hắn. Đụng phải khu vực khác mạo hiểm giả, chúng ta cũng có năng lực một trận chiến."
+
+"Chủ ý này không sai." Có người phụ họa.
+
+Trầm Dịch lạnh lùng nói: "Ngươi biết thành phố New York lớn bao nhiêu sao? Ngươi biết New York có bao nhiêu người loại cùng bao nhiêu Dị nhân? Ngươi biết Dị nhân đều phân bố ở địa phương nào? Ngươi có biết hay không đừng nói là ba ngày thi đua thời gian, chính là cho ngươi ba mươi ngày thời gian cho ngươi khắp nơi đi, ngươi cũng đi không hết tại đây mỗi một đầu phố lớn ngõ nhỏ? 25 cá nhân tập thể hành động? Chúng ta đây có thể đi bao nhiêu địa phương? Có thể giết bao nhiêu Dị nhân? An toàn có rồi, nhưng hiệu suất đâu này? Khu vực khác chỉ cần phân ra vài chi đội ngũ đồng thời tiến hành, chúng ta phải bị ném ra đằng sau đi. Đến lúc đó mọi người cũng không cần động cái gì đầu óc cùng khí lực rồi, chờ bị toàn bộ thành viên mạt sát là được rồi."
+
+Mọi người ngạc nhiên.
+
+Đúng vậy a, mọi người cùng một chỗ hành động, hiệu suất khẳng định không có khả năng điểm số tán hành động rất cao. Khu vực giá trị giết chóc bài danh cuối cùng, coi như là cầm đệ nhất cũng phải toàn bộ tử vận mệnh.
+
+Trầm Dịch tiếp tục nói: "Huống chi cho dù vấn đề này có thể giải quyết, nhưng là bên trong sinh tử vấn đề làm sao bây giờ? Tập trung ở cùng một chỗ càng nhiều người, nội đấu phong hiểm lại càng lớn."
+
+Mọi người lần nữa không nói gì.
+
+Ôn Nhu cũng nói: "Tập thể hành động cũng chưa chắc tựu an toàn. Chúng ta người quá nhiều, mục tiêu sẽ quá rõ ràng, rất dễ dàng khiến cho không tất yếu công kích."
+
+"Vậy làm sao bây giờ?" Hồng Lãng rất là đau đầu.
+
+Trầm Dịch lạnh lùng nói: "Vứt bỏ hết thảy không tất yếu tưởng tượng, đô thị Huyết Tinh đã có tâm muốn cho mọi người giúp nhau ngờ vực vô căn cứ, chúng ta đây tựu chạy không khỏi một kiếp này. Chết sống có số, phú quý tại thiên, có một số việc đi ra, chưa hẳn nhất định có biện pháp giải quyết, chỉ có thể đi dũng cảm đối mặt. Lúc này đây cũng là như thế này."
+
+Hắn nhìn xem ở đây tất cả mọi người: "Toàn bộ khu vực cộng đồng hành động là không thể nào, không quá phận thành tiểu tổ tác chiến đến là có thể. Mọi người phân tổ hành động a, tự do tổ hợp, nhân số càng nhiều, nhiệm vụ tiến hành lúc an toàn độ tương đối càng cao, nhưng là săn giết Dị nhân hiệu suất cũng thế tất càng thấp, nhân số ít mà nói đụng với khu vực khác mạo hiểm giả tính nguy hiểm hội khá lớn, cụ thể như thế nào tổ hợp, chính mình nhìn xem xử lý a. Ta chỉ hy vọng một sự kiện, chính là nếu như chúng ta muốn nội đấu, ít nhất cũng phải trước đây xử lý ngoại nhân về sau lại tiến hành. Kẻ thù bên ngoài trước mặt, trước chống giặc ngoại xâm!"
+
+"Tốt!" Một gã mạo hiểm giả lớn tiếng kêu lên: "Ta ủng hộ cái này ý kiến, mọi người tự do tổ hợp. Ta Lưu Hải ở chỗ này trước tiên nói rõ, lão tử là người khu Đông, tuyệt đối sẽ không hướng người khu Đông ra tay. Muốn là của ta bài danh rơi xuống cuối cùng, vậy cho dù ta lại nấm mốc, bị mạt sát tốt rồi. Cần phải là ai dám con mẹ nó động đầu óc tại chính mình trên thân người. . ."
+
+"Người đó đụng phải đều đừng buông tha." Có người âm trầm nói.
+
+"Tốt, quyết định như vậy. Chết sống có số, phú quý tại thiên. Không có bổn sự sớm làm tự sát, đừng mẹ nó hại người hại mình!" Một đám người la lớn.
+
+"Lưu lại một chút ít phương thức liên lạc, cái nào tổ nếu gặp được nguy hiểm, mặt khác tổ tựu qua đi cứu viện, người cùng khu phải đoàn kết lại!"
+
+"Đúng, là ý kiến hay. Chỗ này của ta có đạn tín hiệu, có thể phân cho mọi người."
+
+"Đều đừng có mài đầu vào nữa, tốc độ nhanh chút ít, như vậy một hồi sẽ trở ngại không thiếu thời gian, khu khác khả năng đã bắt đầu."
+
+Đám người mạo hiểm bắt đầu lẫn nhau giới thiệu, tự do tổ hợp thành đội ngũ, thành lập phương thức liên lạc. Cũng có người nghe nói qua Trầm Dịch, ý đồ tìm hắn tổ đội, bất quá đều bị Trầm Dịch cự tuyệt.
+
+Hồng Lãng cùng Kim Cương hướng Trầm Dịch đi tới. Kim Cương nói: "Không có ý định chọn mấy cái?"
+
+Trầm Dịch lắc đầu: "Chúng ta mấy cái đã muốn đủ rồi."
+
+Hồng Lãng cười nói: "Ít người điểm cũng tốt, không phải quen thuộc không tin được."
+
+"Lúc mới bắt đầu giúp nhau nên vậy còn tin được, lẫn nhau có lẽ còn có thể lẫn nhau giúp hỗ trợ, chân thành hợp tác, đến cuối cùng một ngày sẽ có người nóng nảy. Người khu Đông đoàn kết lại loại này khẩu hiệu quốc gia thời khắc nguy nan rất tốt, nhưng là ở loại địa phương này hiệu quả có hạn, dù sao tại đây quan hệ chính là cá nhân tồn vong mà không phải quốc gia vận mệnh. Đương nhiên, cũng không phải một điểm dùng đều không có, ít nhất lúc đầu thời điểm cũng không tệ lắm. Bất quá chỉ cần có một hạt cứt chuột, hỗn loạn đều hư mất." Trầm Dịch nhàn nhạt trả lời.
+
+Ôn Nhu đã đi tới: "Vậy ý của ngươi là phải . ."
+
+Trầm Dịch cười nói: "Có hai tai mèo chính là tốt, trạm xa như vậy đều có thể nghe được chúng ta nói chuyện."
+
+Ôn Nhu mặt đỏ lên, hung hăng cho Trầm Dịch một cước: "Ngươi mới được là tai mèo nì."
+
+Trầm Dịch cười tránh thoát: "Ý của ta rất đơn giản, đầu tiên là mấy người chúng ta tổ đội. Tiếp theo, vô luận như thế nào muốn cam đoan chúng ta tại khu vực bài danh top 10 trong vòng. Sau đó, chính là vô luận như thế nào muốn cam đoan khu vực tổng bài danh phía trước hai trong vòng. Cuối cùng, chính là khi thời gian tiến vào cuối cùng đếm ngược lúc thời điểm, trừ tự chúng ta, ai đều không thể tín nhiệm, kể cả những kia bài danh không tại mạt sát trong danh sách mạo hiểm giả."
+
+Ôn Nhu mấy cái nhìn nhau, đồng thời gật đầu.
+
+Đúng lúc này, đột nhiên có người bu lại: "Ta có thể không thể gia nhập các ngươi?"
+
+P/s: Có khúc lấy từ truyện dịch, do edit lại rất mất thời gian những phần giới thiệu như vậy, các bạn thông cảm, mình vẫn làm bản cvt edit kỹ nhất cho các bạn :(

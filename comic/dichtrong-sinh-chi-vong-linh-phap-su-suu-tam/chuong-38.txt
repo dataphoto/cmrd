@@ -1,0 +1,391 @@
+Scropider
+
+Level: 17
+
+HP: 1300/1300
+
+Kỹ năng: bỏ độc, sinh sản, kêu gọi bầy đàn.
+
+Tra xét xong thuộc tính Đình Tấn cảm nhận được bọn Scropider này yếu hơn rất nhiều so với những con quái vật đồng cấp. Bọn chúng đây chính là dùng chiến thuật như Đình Tấn, lấy số lượng thủ thắng chất lượng. Nhưng với số lượng cùng chất lượng vượt trội thì chúng chết chắc. Đình Tấn khóe miệng trên gương mặt vẫn duy trì mỉm cười như tử thần, tay đặt vào sách niệm chú ngữ tung ra kỹ năng.
+
+Triệu hồi Bộ Xương Chiến Sĩ
+
+Triệu hồi Tang Thi
+
+Cầu Phúc Trị Liệu (276)
+
+Tử Vong Màn Che
+
+-260
+
+-260
+
+“Rít rít…”
+
+Liên tục những con số sát thương từ hiệu ứng giảm thuộc tính từ trên đầu bọn Scropider nhảy lên. Đứng từ trên cao nhìn xuống Đình Tấn như thấy được cả một biển máu đang sôi trào bên dưới.
+
+30 tên Bộ Xương Chiến Sĩ cùng 22 tên Tang Thi từ lòng đất chen nhau chui ra khỏi mặt đất. Đình Tấn ra lệnh giữ lại 5 con Bộ Xương Chiến Sĩ hộ vệ bên mình. Còn lại 47 tên đàn em, từng tên từng tên chui ra rồi hướng phía bọn Scropider bên dưới mặt đất kia lao nhanh xuống tự do chiến đấu. 
+
+Tử Vong Màn Che bao trùm toàn bộ khu vực 26m vuông trong sân đồng thời cũng bao trùm khu vực trong vòng 7m xung quanh của Đình Tấn. Phòng hờ có quái vật bò vào trong đường hầm thông nhau, đi qua đây đánh lén thì sẽ bị giảm thuộc tính đi.
+
+Đứng trong hang động trên vách đá, hai bên 2 tên Bộ Xương Chiến Sĩ thủ hộ, phía sau 3 con Bộ Xương Chiến Sĩ khác cũng chặn lại đường vào đây. Để lại một khoảng trống ở giữa cho David cùng Ameerah ngồi. Hắn ra hiệu cho Ameerah cùng David ngồi xuống nghỉ ngơi. Còn bản thân thì vẫn đứng quan sát xung quanh.
+
+Đình Tấn chỉ đứng phía trên quan sát, HP tiêu hao mỗi giây chỉ có 26 HP, do thuộc tính từ Sách của Gauss cùng Nhẫn nguyền rủa nên tiêu hao kỹ năng của Đình Tấn bị khấu trừ đi hết. HP tiêu hao này chính là đến từ thuộc tính -1000% của chiếc nhẫn, qua khấu trừ đi 300% hồi phục thuộc tính đến từ những vật phẩm trang bị của Đình Tấn nên HP tiêu hao rơi xuống khá chậm.
+
+Hơn nữa bây giờ Đình Tấn đang sử dụng Cầu Phúc Trị Liệu. Kỹ năng này mỗi giây hồi phục lại cho hắn 26 HP duy trì lại là 276 giây. Đình Tấn hiện tại có thể nhàn nhã đứng quan sát toàn bộ chiến trường, đồ thời tung ra kỹ năng triệu hồi bù lấp lại chỗ trống. Rảnh rỗi, Đình Tấn xem xét thuộc tính những tên đàn em này được gia tăng thế nào.
+
+Bộ Xương Chiến Sĩ
+
+HP: 3780/3780
+
+Sát thương vật lý: 302 - 330
+
+Phòng thủ vật lý: 24.8
+
+Phòng thủ phép thuật: 27.6
+
+Tang Thi
+
+HP: 2520/2520
+
+Sát thương vật lý: 276 - 414
+
+Phòng thủ vật lý: 6.2
+
+Phòng thủ phép thuật: 27.6
+
+Thuộc tính tăng cường 100% hiệu quả kỹ năng đến từ chiếc nhẫn bị nguyền rủa Bjorketorp làm cho thuộc tính toàn bộ kỹ năng của Đình Tấn xảy ra một biến đổi to lớn. Chỉ riêng số lượng triệu hồi vong linh sinh vật đã tăng cường gấp đôi chính là hiệu quả cường đại nhất đối với Đình Tấn rồi. Nhưng không dừng lại tại đó, thuộc tính bọn Bộ Xương Chiến Sĩ cùng Tang Thi cũng đều gia tăng lên gấp đôi làm Đình Tấn không khỏi càng thêm phấn khởi.
+
+Lúc nãy trong thời gian chờ đợi David, Đình Tấn có dùng hệ thống mà lên mạng diễn đàn Anh Hùng điều tra tình hình người chơi ở thời điểm hiện tại. Theo khảo sát của một nhóm người rảnh rỗi, người chơi bình thường chỉ nằm trong đẳng cấp 12 - 13. Thuộc tính HP nằm trong vòng 2000-3000 điểm nếu tăng điểm tư do tập trung chỉ thuộc tính thể lực, đồng thời kết hợp thêm trang bị tăng thuộc tính HP, thể lực. 
+
+Ở đây, Đình Tấn chỉ cần cầm một tên vong linh Bộ Xương Chiến Sĩ đã là gấp rưỡi so với người bình thường rồi. Thuộc tính tăng mạnh làm cho chúng nó càng quét phía bên dưới càng trở nên nhanh chóng như quét rơm rạ.
+
+Không chỉ dừng lại tại triệu hồi kỹ năng, tăng cường cũng làm cho kỹ năng Tử Vong Màn Che giảm thiểu thuộc tính tăng lên 20% cùng diện tích bao phủ cũng kéo theo tăng lên gấp đôi 26m. Cầu Phúc Trị Liệu cũng tăng gấp đôi lượng HP hồi được cùng thời gian kéo dài. Đình Tấn ngồi kiểm tra mà tắc lưỡi không thôi, vượt 11 cấp chém giết cũng là thưởng cho càng phong phú đây.
+
+Bên dưới tình hình rất loạn. Bộ Xương Chiến Sĩ lao ra lập thành một hàng ngang chặn lại bức tường không cho những con Scropider vượt qua để bò lên chỗ của Đình Tấn. Bọn Tang Thi làm việc rất tích cực, chúng dùng móng vuốt sắc nhọn của mình đâm thủng vào vách đá đeo bám thật chặt rồi lao nhanh đến những con Scropider kia. Vung móng vuốt, dùng răng cắn sát thương đều rất khả quan.
+
+Exp +720
+
+Exp +720
+
+…
+
+Sau hơn 10 giây chiến đấu điểm số kinh nghiệm bắt đầu hiện lên trong mắt nhóm 3 người. Ameerah đã tập thành thói quen không có quá nhiều phản ứng. Riêng David vừa gia nhập nhóm, hắn từ lúc bắt đầu có chút không tin. Theo sau đó là ngạc nhiên, khiếp sợ đến hiện tại thì đã chết lặng rồi.
+
+Một người mang theo một đội quân vong linh, chiến lực mỗi tên triệu hồi cường đại không chỉ là gấp đôi so với một người chơi bình thường. Chỉ riêng điểm này đã đủ hắn trái tim ngừng đập rồi. Thảo nào lúc trước hắn nghi ngờ những phụ bản kia Boss cường đại như vậy, nhiều nhóm người chơi có tin đồn phải cần 40-50 người cho một con Boss. Thế nhưng Đình Tấn lại chỉ dẫn theo đội 2 người liền có thể qua được.
+
+Ngay lúc này Đình Tấn giọng nói vang lên:
+
+- David ngươi sinh sống ở đâu? Gia đình ngươi hiện tại thế nào?
+
+Ngồi dưới đất, David ngẩng đầu lên vừa nhìn thấy Đình Tấn đang đứng nhìn phía dưới cùng đang triệu hồi kỹ năng. Hiện tại nhàn nhã không việc gì, hắn cũng thuận miệng tán dóc:
+
+- Ta sống ở CLF cùng hai người em, một trai một gái. Chúng nó đang học trung học. Ba mẹ chúng ta ly hôn, bỏ lại chúng ta cho ông bà ngoại. Mỗi tháng họ trợ cấp ít tiền rồi thôi cũng không ghé đến lần nào. Nhà không có ai, ta cũng phải đi làm kiếm tiền nên không có thời gian chăm sóc hai đứa nhỏ. Ta gửi lại bọn chúng ở tại trường luôn thế nên chi phí sinh hoạt cao hơn một chút. 
+
+Giọng nói hắn rất bình thản, không nhìn ra đươc cảm xúc có quá nhiều biến động. Cứ như chuyện này đối với hắn đều là bình thường. Thế nhưng bên cạnh Ameerah thì khác, nàng cảm thấy hắn rất đáng thương. Xót xa từ tiền cùng trang bị vừa đưa lúc nãy đã không cánh bay đi.
+
+Đình Tấn thì cũng coi như bình thường, hoàn cảnh của hắn cũng không khá hơn bao nhiêu. Hắn cũng là cô nhi, không có ai trợ cấp cho, chỉ có trợ cấp chính phủ cũng không được bao nhiêu. Nhỏ hơn Ameerah thì hắn đã bắt đầu lăn lộn kiếm sống rồi. Suy tính một chút, Đình Tấn nói tiếp với David:
+
+- Nếu ngươi cảm thấy được thì dọn đến chỗ ta đi. Sắp tới ta sẽ chuyển đi đến một nơi bí mật hơn. Chúng ta trên người bí mật quá nhiều, đã có người truy tìm tình báo của ta nên sợ rằng sắp tới sẽ không yên ổn. Ngươi nên biết người đó là ai rồi đó David.
+
+David cũng trầm ngâm trong phút chốc. Ở nhà hắn cũng không có ai chỉ có hai người em thì cũng đến ở trong trường học. Với nghe Đình Tấn nói như vậy hắn cũng có chút lo lắng dù sao ngươi đơn thế độc, nếu như đang chơi game mà bị vài tên đột nhập vào cho một dao. Hắn không sợ mình sẽ có mệnh hệ gì, chỉ là nghĩ đến tương lai 2 người em của mình hắn không chịu được.
+
+- Được, ta sẽ sắp xếp một chút. Ngươi khi nào dọn đi thì gửi cho ta địa chỉ.
+
+Đình Tấn gật đầu im lặng không nói gì. Trầm ngâm chút rồi lại nói: 
+
+- Về phía em ngươi, nếu có cần sự trợ giúp ngươi cứ việc nói. Chúng ta có bắt được liên lạc phía chính phủ. Cùng họ nói chuyện giao dịch, một chút hỗ trợ nho nhỏ chắc họ cũng sẽ có thể giúp đỡ cho ngươi. Tài chính nếu cạn kiệt thì nói chúng ta. Chuyện quan trọng nhất với ngươi bây giờ là tăng lên thực lực. Cả trong game lẫn ngoài hiện thực.
+
+David gật đầu, hắn cũng tin tưởng Đình Tấn. Người này mang đến cho hắn quá nhiều tò mò. Thực lực cường đại, tài chính sung túc, biết hướng đi biết cách chiến đấu giờ lại thêm quan hệ với chính phủ, quân đội. David cảm giác rằng, hắn đã tìm cho mình được một bến đỗ mới.
+
+Một vòng ánh sáng thoáng hiện lên bên người David. Chỉ chưa đến 1’ David đã thăng lên cấp 11. Hắn vì bị bọn người của Throne săn giết liên tục mà tụt mất 2 cấp. Do đã truyền tống qua EL Thành thành nên đẳng cấp không thể tụt xuống 9 mà dừng lại ở cấp 10 - 0%. Đồ vật mỗi khi chết sẽ có xác xuất rơi ra, tùy theo điểm tội ác. 0 điểm sẽ rơi 1 món, 10 điểm hai món, 20 điểm 3 món cứ như vậy tính tới… tiền bạc cũng sẽ rơi theo % tổng số tiền, số % này cũng tùy vào điểm tội ác cứ 1 điểm thì sẽ gia tăng 1%.
+
+Đình Tấn từ lúc bắt đầu chơi game đến nay hắn chỉ cùng Ameerah đi luyện quái, thăng cấp cho nên rất ít tiếp xúc với người chơi khác nói chi là mâu thuẫn giữa các công hội. Thế nên chém giết gì với người chơi Đình Tấn cùng Ameerah đều không có tham gia.
+
+Tình hình bên dưới hang ổ kia cũng càng ngày càng căng hơn. Bọn Bộ Xương Chiến Sĩ cùng Tang Thi đã phải co rút lại đội hình. Bên dưới Scropider càng ngày càng đông như vô cùng vô tận. Mỗi giây mỗi khắc đều có một con Scropider chui ra từ trong những lỗ nhỏ trong hang trên vách đá, sau đó chúng bò xuống hướng về những con Bộ Xương Chiến Sĩ cùng Tang Thi.
+
+Độc của chúng đối với Bộ Xương Chiến Sĩ là vô hiệu, chỉ có đối với Tang Thi mới xuất hiện bBpIJWJ hiệu quả trúng độc thôi. Tang Thi mặc dù tốc độ nhanh thế nhưng bọn Scropider số lượng quá đông, chúng tràn ra ngoài bịt kín cả mặt đất. Chỗ trống rất ít nên Tang Thi tốc độ rất khó được phát huy. 22 con Tang Thi đều bị dính trạng thái trúng độc, HP mỗi giây giảm thiểu hơn 50 điểm lại thêm bị bọn Scropider nhảy lên cắn trúng hay dùng đuôi đâm xuyên người đều mang đi một lượng HP trong khoảng 100-200. Với lượng HP 2500 của Tang Thi thì chúng có thể trụ được hơn nửa phút. Đổi lại mỗi con Tang Thi đều đánh giết được ít nhất 1 con Scropider mỗi khi bị chúng gần người. Có thể nói là mạng đổi mạng.
+
+Phía trên Đình Tấn luôn tập trung xem xét trạng thái chỉ huy chiến đấu. Vì có Nhẫn nguyền rủa nên triệu hồi ra cũng không tiêu hao, sử dụng kỹ năng cũng không tiêu hao nên Đình Tấn rất lăn xả. Kỹ năng không tiếc mà tung ra liên tục, từ Cốt Thứ đến Nguyền Rủa Suy Yếu. Khống Vật Thuật cũng được Đình Tấn sử dụng, hắn nâng những tảng đá lớn hơn 25 kg nhất lên cao rồi quăng mạnh vào giữa bầy Scropider làm cho chúng ăn phải một lượng sát thương sát thương không nhỏ.
+
+Hiện tại đã qua hơn 5 phút, Cầu Phúc Trị Liệu đã hết thời gian duy trì. Đình Tấn phải canh thời gian mà uống HP thuốc giá trị HP vừa tụt xuống 600 Sinh Mệnh Cứu Rỗi sẽ được tung ra kéo lên lại. 
+
+Số lượng bầy Scropider càng ngày càng đông, Đình Tấn đã xếp bọn Bộ Xương Chiến Sĩ thành một hình tam giác 5 hàng tựa sát vào nhau chống đỡ như lúc chiến đấu với bọn Biến Dị Heo Rừng. Mỗi khi dùng khiên hất bọn Scropider ra một đoạn liền tên đứng phía sau sẽ lao ra cho một búa vào đám Scropider phía trước. 
+
+Mỗi khi có con Scropider nào bò lên phía trên định chui vào trong đội hình liền bị tên Bộ Xương Chiến Sĩ đứng sau dùng khiên đón đỡ lại bị những tên bên trong vung búa chém ra. Chỉ là bọn Bộ Xương Chiến Sĩ bị ép lại làm lộ ra vách đá phía sau, những con Scropider không bò vào được chỗ của chúng liền bò lên vách đá hướng phía Đình Tấn mà tới.
+
+Đình Tấn cũng không hoảng loạn lắm, điều động Tang Thi lại trèo lên vách đá bao vây khu vực quanh miệng hang của hắn, làm thành mộ chiến trường khác trên vách đá.
+
+Ameerah là võ sư, David là một tên Đạo tặc. Cả hai đều là loại hình cận chiến nên cũng không thể giúp đỡ gì cho Đình Tấn. Cũng chỉ có thể nghe theo lời của Đình Tấn, ngồi tranh thủ thời gian tu luyện.
+
+“Rít rít rít”
+
+Âm thanh vang lên từ phía sau làm cho Ameerah cùng David giật mình quay đầu nhìn lại. Phía sau 3 tên Bộ Xương Chiến Sĩ chặn lấy toàn bộ đường đi trong hang, ngăn chặn lại một đám Scropider ở phía sau. Thế nhưng rất tiếc cho bọn chúng, đường đi quá nhỏ lại thêm có 3 con Bộ Xương Chiến Sĩ chặn đường, đưa khiên đón đỡ liên tục làm chúng nó không thể tiến thêm một tấc. Ngược lại phía sau dồn ép không thể chạy lui về phía trước có Bộ Xương Chiến Sĩ liên tục vung rìu bổ xuống đầu nó làm HP giảm liên tục, không quá 5 giây liền lật ra đất chỉ còn là một cái xác. Phía sau con Scropider liền tiến lên thế chỗ rồi lại noi theo đồng bạn để lại cái xác cùng vài đồng tiền và kinh nghiệm.
+
+Đình Tấn sức chiến đấu đã dẻo dai hơn quá nhiều, Bộ Xương Chiến Sĩ liên tục được gọi ra thế lấp vị trí bị hỏng bên dưới. Mỗi khi có một con Bộ Xương Chiến Sĩ ngã xuống, con phía sau liền sẽ tiến lên lấp lại không tới 1 giây sau phía trên liền rơi xuống một vòng ma pháp hố đen lại xuất hiện chui ra một tên Bộ Xương Chiến Sĩ thế lấp chỗ trống.
+
+Kinh nghiệm cứ như vậy từng bước dâng lên cao. Kế tiếp David lần thứ hai thăng cấp, Đình Tấn không lâu sau đó cũng nhận được âm thanh hệ thống.
+
+Keng! - Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Ameerah ánh sáng thăng cấp cũng xuất hiện cả nhóm 3 người thanh kinh nghiệm cứ như đồng hồ đếm giây nhảy lên liên tục.Scropider
+
+Level: 17
+
+HP: 1300/1300
+
+Kỹ năng: bỏ độc, sinh sản, kêu gọi bầy đàn.
+
+Tra xét xong thuộc tính Đình Tấn cảm nhận được bọn Scropider này yếu hơn rất nhiều so với những con quái vật đồng cấp. Bọn chúng đây chính là dùng chiến thuật như Đình Tấn, lấy số lượng thủ thắng chất lượng. Nhưng với số lượng cùng chất lượng vượt trội thì chúng chết chắc. Đình Tấn khóe miệng trên gương mặt vẫn duy trì mỉm cười như tử thần, tay đặt vào sách niệm chú ngữ tung ra kỹ năng.
+
+Triệu hồi Bộ Xương Chiến Sĩ
+
+Triệu hồi Tang Thi
+
+Cầu Phúc Trị Liệu (276)
+
+Tử Vong Màn Che
+
+-260
+
+-260
+
+“Rít rít…”
+
+Liên tục những con số sát thương từ hiệu ứng giảm thuộc tính từ trên đầu bọn Scropider nhảy lên. Đứng từ trên cao nhìn xuống Đình Tấn như thấy được cả một biển máu đang sôi trào bên dưới.
+
+30 tên Bộ Xương Chiến Sĩ cùng 22 tên Tang Thi từ lòng đất chen nhau chui ra khỏi mặt đất. Đình Tấn ra lệnh giữ lại 5 con Bộ Xương Chiến Sĩ hộ vệ bên mình. Còn lại 47 tên đàn em, từng tên từng tên chui ra rồi hướng phía bọn Scropider bên dưới mặt đất kia lao nhanh xuống tự do chiến đấu. 
+
+Tử Vong Màn Che bao trùm toàn bộ khu vực 26m vuông trong sân đồng thời cũng bao trùm khu vực trong vòng 7m xung quanh của Đình Tấn. Phòng hờ có quái vật bò vào trong đường hầm thông nhau, đi qua đây đánh lén thì sẽ bị giảm thuộc tính đi.
+
+Đứng trong hang động trên vách đá, hai bên 2 tên Bộ Xương Chiến Sĩ thủ hộ, phía sau 3 con Bộ Xương Chiến Sĩ khác cũng chặn lại đường vào đây. Để lại một khoảng trống ở giữa cho David cùng Ameerah ngồi. Hắn ra hiệu cho Ameerah cùng David ngồi xuống nghỉ ngơi. Còn bản thân thì vẫn đứng quan sát xung quanh.
+
+Đình Tấn chỉ đứng phía trên quan sát, HP tiêu hao mỗi giây chỉ có 26 HP, do thuộc tính từ Sách của Gauss cùng Nhẫn nguyền rủa nên tiêu hao kỹ năng của Đình Tấn bị khấu trừ đi hết. HP tiêu hao này chính là đến từ thuộc tính -1000% của chiếc nhẫn, qua khấu trừ đi 300% hồi phục thuộc tính đến từ những vật phẩm trang bị của Đình Tấn nên HP tiêu hao rơi xuống khá chậm.
+
+Hơn nữa bây giờ Đình Tấn đang sử dụng Cầu Phúc Trị Liệu. Kỹ năng này mỗi giây hồi phục lại cho hắn 26 HP duy trì lại là 276 giây. Đình Tấn hiện tại có thể nhàn nhã đứng quan sát toàn bộ chiến trường, đồ thời tung ra kỹ năng triệu hồi bù lấp lại chỗ trống. Rảnh rỗi, Đình Tấn xem xét thuộc tính những tên đàn em này được gia tăng thế nào.
+
+Bộ Xương Chiến Sĩ
+
+HP: 3780/3780
+
+Sát thương vật lý: 302 - 330
+
+Phòng thủ vật lý: 24.8
+
+Phòng thủ phép thuật: 27.6
+
+Tang Thi
+
+HP: 2520/2520
+
+Sát thương vật lý: 276 - 414
+
+Phòng thủ vật lý: 6.2
+
+Phòng thủ phép thuật: 27.6
+
+Thuộc tính tăng cường 100% hiệu quả kỹ năng đến từ chiếc nhẫn bị nguyền rủa Bjorketorp làm cho thuộc tính toàn bộ kỹ năng của Đình Tấn xảy ra một biến đổi to lớn. Chỉ riêng số lượng triệu hồi vong linh sinh vật đã tăng cường gấp đôi chính là hiệu quả cường đại nhất đối với Đình Tấn rồi. Nhưng không dừng lại tại đó, thuộc tính bọn Bộ Xương Chiến Sĩ cùng Tang Thi cũng đều gia tăng lên gấp đôi làm Đình Tấn không khỏi càng thêm phấn khởi.
+
+Lúc nãy trong thời gian chờ đợi David, Đình Tấn có dùng hệ thống mà lên mạng diễn đàn Anh Hùng điều tra tình hình người chơi ở thời điểm hiện tại. Theo khảo sát của một nhóm người rảnh rỗi, người chơi bình thường chỉ nằm trong đẳng cấp 12 - 13. Thuộc tính HP nằm trong vòng 2000-3000 điểm nếu tăng điểm tư do tập trung chỉ thuộc tính thể lực, đồng thời kết hợp thêm trang bị tăng thuộc tính HP, thể lực. 
+
+Ở đây, Đình Tấn chỉ cần cầm một tên vong linh Bộ Xương Chiến Sĩ đã là gấp rưỡi so với người bình thường rồi. Thuộc tính tăng mạnh làm cho chúng nó càng quét phía bên dưới càng trở nên nhanh chóng như quét rơm rạ.
+
+Không chỉ dừng lại tại triệu hồi kỹ năng, tăng cường cũng làm cho kỹ năng Tử Vong Màn Che giảm thiểu thuộc tính tăng lên 20% cùng diện tích bao phủ cũng kéo theo tăng lên gấp đôi 26m. Cầu Phúc Trị Liệu cũng tăng gấp đôi lượng HP hồi được cùng thời gian kéo dài. Đình Tấn ngồi kiểm tra mà tắc lưỡi không thôi, vượt 11 cấp chém giết cũng là thưởng cho càng phong phú đây.
+
+Bên dưới tình hình rất loạn. Bộ Xương Chiến Sĩ lao ra lập thành một hàng ngang chặn lại bức tường không cho những con Scropider vượt qua để bò lên chỗ của Đình Tấn. Bọn Tang Thi làm việc rất tích cực, chúng dùng móng vuốt sắc nhọn của mình đâm thủng vào vách đá đeo bám thật chặt rồi lao nhanh đến những con Scropider kia. Vung móng vuốt, dùng răng cắn sát thương đều rất khả quan.
+
+Exp +720
+
+Exp +720
+
+…
+
+Sau hơn 10 giây chiến đấu điểm số kinh nghiệm bắt đầu hiện lên trong mắt nhóm 3 người. Ameerah đã tập thành thói quen không có quá nhiều phản ứng. Riêng David vừa gia nhập nhóm, hắn từ lúc bắt đầu có chút không tin. Theo sau đó là ngạc nhiên, khiếp sợ đến hiện tại thì đã chết lặng rồi.
+
+Một người mang theo một đội quân vong linh, chiến lực mỗi tên triệu hồi cường đại không chỉ là gấp đôi so với một người chơi bình thường. Chỉ riêng điểm này đã đủ hắn trái tim ngừng đập rồi. Thảo nào lúc trước hắn nghi ngờ những phụ bản kia Boss cường đại như vậy, nhiều nhóm người chơi có tin đồn phải cần 40-50 người cho một con Boss. Thế nhưng Đình Tấn lại chỉ dẫn theo đội 2 người liền có thể qua được.
+
+Ngay lúc này Đình Tấn giọng nói vang lên:
+
+- David ngươi sinh sống ở đâu? Gia đình ngươi hiện tại thế nào?
+
+Ngồi dưới đất, David ngẩng đầu lên vừa nhìn thấy Đình Tấn đang đứng nhìn phía dưới cùng đang triệu hồi kỹ năng. Hiện tại nhàn nhã không việc gì, hắn cũng thuận miệng tán dóc:
+
+- Ta sống ở CLF cùng hai người em, một trai một gái. Chúng nó đang học trung học. Ba mẹ chúng ta ly hôn, bỏ lại chúng ta cho ông bà ngoại. Mỗi tháng họ trợ cấp ít tiền rồi thôi cũng không ghé đến lần nào. Nhà không có ai, ta cũng phải đi làm kiếm tiền nên không có thời gian chăm sóc hai đứa nhỏ. Ta gửi lại bọn chúng ở tại trường luôn thế nên chi phí sinh hoạt cao hơn một chút. 
+
+Giọng nói hắn rất bình thản, không nhìn ra đươc cảm xúc có quá nhiều biến động. Cứ như chuyện này đối với hắn đều là bình thường. Thế nhưng bên cạnh Ameerah thì khác, nàng cảm thấy hắn rất đáng thương. Xót xa từ tiền cùng trang bị vừa đưa lúc nãy đã không cánh bay đi.
+
+Đình Tấn thì cũng coi như bình thường, hoàn cảnh của hắn cũng không khá hơn bao nhiêu. Hắn cũng là cô nhi, không có ai trợ cấp cho, chỉ có trợ cấp chính phủ cũng không được bao nhiêu. Nhỏ hơn Ameerah thì hắn đã bắt đầu lăn lộn kiếm sống rồi. Suy tính một chút, Đình Tấn nói tiếp với David:
+
+- Nếu ngươi cảm thấy được thì dọn đến chỗ ta đi. Sắp tới ta sẽ chuyển đi đến một nơi bí mật hơn. Chúng ta trên người bí mật quá nhiều, đã có người truy tìm tình báo của ta nên sợ rằng sắp tới sẽ không yên ổn. Ngươi nên biết người đó là ai rồi đó David.
+
+David cũng trầm ngâm trong phút chốc. Ở nhà hắn cũng không có ai chỉ có hai người em thì cũng đến ở trong trường học. Với nghe Đình Tấn nói như vậy hắn cũng có chút lo lắng dù sao ngươi đơn thế độc, nếu như đang chơi game mà bị vài tên đột nhập vào cho một dao. Hắn không sợ mình sẽ có mệnh hệ gì, chỉ là nghĩ đến tương lai 2 người em của mình hắn không chịu được.
+
+- Được, ta sẽ sắp xếp một chút. Ngươi khi nào dọn đi thì gửi cho ta địa chỉ.
+
+Đình Tấn gật đầu im lặng không nói gì. Trầm ngâm chút rồi lại nói: 
+
+- Về phía em ngươi, nếu có cần sự trợ giúp ngươi cứ việc nói. Chúng ta có bắt được liên lạc phía chính phủ. Cùng họ nói chuyện giao dịch, một chút hỗ trợ nho nhỏ chắc họ cũng sẽ có thể giúp đỡ cho ngươi. Tài chính nếu cạn kiệt thì nói chúng ta. Chuyện quan trọng nhất với ngươi bây giờ là tăng lên thực lực. Cả trong game lẫn ngoài hiện thực.
+
+David gật đầu, hắn cũng tin tưởng Đình Tấn. Người này mang đến cho hắn quá nhiều tò mò. Thực lực cường đại, tài chính sung túc, biết hướng đi biết cách chiến đấu giờ lại thêm quan hệ với chính phủ, quân đội. David cảm giác rằng, hắn đã tìm cho mình được một bến đỗ mới.
+
+Một vòng ánh sáng thoáng hiện lên bên người David. Chỉ chưa đến 1’ David đã thăng lên cấp 11. Hắn vì bị bọn người của Throne săn giết liên tục mà tụt mất 2 cấp. Do đã truyền tống qua EL Thành thành nên đẳng cấp không thể tụt xuống 9 mà dừng lại ở cấp 10 - 0%. Đồ vật mỗi khi chết sẽ có xác xuất rơi ra, tùy theo điểm tội ác. 0 điểm sẽ rơi 1 món, 10 điểm hai món, 20 điểm 3 món cứ như vậy tính tới… tiền bạc cũng sẽ rơi theo % tổng số tiền, số % này cũng tùy vào điểm tội ác cứ 1 điểm thì sẽ gia tăng 1%.
+
+Đình Tấn từ lúc bắt đầu chơi game đến nay hắn chỉ cùng Ameerah đi luyện quái, thăng cấp cho nên rất ít tiếp xúc với người chơi khác nói chi là mâu thuẫn giữa các công hội. Thế nên chém giết gì với người chơi Đình Tấn cùng Ameerah đều không có tham gia.
+
+Tình hình bên dưới hang ổ kia cũng càng ngày càng căng hơn. Bọn Bộ Xương Chiến Sĩ cùng Tang Thi đã phải co rút lại đội hình. Bên dưới Scropider càng ngày càng đông như vô cùng vô tận. Mỗi giây mỗi khắc đều có một con Scropider chui ra từ trong những lỗ nhỏ trong hang trên vách đá, sau đó chúng bò xuống hướng về những con Bộ Xương Chiến Sĩ cùng Tang Thi.
+
+Độc của chúng đối với Bộ Xương Chiến Sĩ là vô hiệu, chỉ có đối với Tang Thi mới xuất hiện bBpIJWJ hiệu quả trúng độc thôi. Tang Thi mặc dù tốc độ nhanh thế nhưng bọn Scropider số lượng quá đông, chúng tràn ra ngoài bịt kín cả mặt đất. Chỗ trống rất ít nên Tang Thi tốc độ rất khó được phát huy. 22 con Tang Thi đều bị dính trạng thái trúng độc, HP mỗi giây giảm thiểu hơn 50 điểm lại thêm bị bọn Scropider nhảy lên cắn trúng hay dùng đuôi đâm xuyên người đều mang đi một lượng HP trong khoảng 100-200. Với lượng HP 2500 của Tang Thi thì chúng có thể trụ được hơn nửa phút. Đổi lại mỗi con Tang Thi đều đánh giết được ít nhất 1 con Scropider mỗi khi bị chúng gần người. Có thể nói là mạng đổi mạng.
+
+Phía trên Đình Tấn luôn tập trung xem xét trạng thái chỉ huy chiến đấu. Vì có Nhẫn nguyền rủa nên triệu hồi ra cũng không tiêu hao, sử dụng kỹ năng cũng không tiêu hao nên Đình Tấn rất lăn xả. Kỹ năng không tiếc mà tung ra liên tục, từ Cốt Thứ đến Nguyền Rủa Suy Yếu. Khống Vật Thuật cũng được Đình Tấn sử dụng, hắn nâng những tảng đá lớn hơn 25 kg nhất lên cao rồi quăng mạnh vào giữa bầy Scropider làm cho chúng ăn phải một lượng sát thương sát thương không nhỏ.
+
+Hiện tại đã qua hơn 5 phút, Cầu Phúc Trị Liệu đã hết thời gian duy trì. Đình Tấn phải canh thời gian mà uống HP thuốc giá trị HP vừa tụt xuống 600 Sinh Mệnh Cứu Rỗi sẽ được tung ra kéo lên lại. 
+
+Số lượng bầy Scropider càng ngày càng đông, Đình Tấn đã xếp bọn Bộ Xương Chiến Sĩ thành một hình tam giác 5 hàng tựa sát vào nhau chống đỡ như lúc chiến đấu với bọn Biến Dị Heo Rừng. Mỗi khi dùng khiên hất bọn Scropider ra một đoạn liền tên đứng phía sau sẽ lao ra cho một búa vào đám Scropider phía trước. 
+
+Mỗi khi có con Scropider nào bò lên phía trên định chui vào trong đội hình liền bị tên Bộ Xương Chiến Sĩ đứng sau dùng khiên đón đỡ lại bị những tên bên trong vung búa chém ra. Chỉ là bọn Bộ Xương Chiến Sĩ bị ép lại làm lộ ra vách đá phía sau, những con Scropider không bò vào được chỗ của chúng liền bò lên vách đá hướng phía Đình Tấn mà tới.
+
+Đình Tấn cũng không hoảng loạn lắm, điều động Tang Thi lại trèo lên vách đá bao vây khu vực quanh miệng hang của hắn, làm thành mộ chiến trường khác trên vách đá.
+
+Ameerah là võ sư, David là một tên Đạo tặc. Cả hai đều là loại hình cận chiến nên cũng không thể giúp đỡ gì cho Đình Tấn. Cũng chỉ có thể nghe theo lời của Đình Tấn, ngồi tranh thủ thời gian tu luyện.
+
+“Rít rít rít”
+
+Âm thanh vang lên từ phía sau làm cho Ameerah cùng David giật mình quay đầu nhìn lại. Phía sau 3 tên Bộ Xương Chiến Sĩ chặn lấy toàn bộ đường đi trong hang, ngăn chặn lại một đám Scropider ở phía sau. Thế nhưng rất tiếc cho bọn chúng, đường đi quá nhỏ lại thêm có 3 con Bộ Xương Chiến Sĩ chặn đường, đưa khiên đón đỡ liên tục làm chúng nó không thể tiến thêm một tấc. Ngược lại phía sau dồn ép không thể chạy lui về phía trước có Bộ Xương Chiến Sĩ liên tục vung rìu bổ xuống đầu nó làm HP giảm liên tục, không quá 5 giây liền lật ra đất chỉ còn là một cái xác. Phía sau con Scropider liền tiến lên thế chỗ rồi lại noi theo đồng bạn để lại cái xác cùng vài đồng tiền và kinh nghiệm.
+
+Đình Tấn sức chiến đấu đã dẻo dai hơn quá nhiều, Bộ Xương Chiến Sĩ liên tục được gọi ra thế lấp vị trí bị hỏng bên dưới. Mỗi khi có một con Bộ Xương Chiến Sĩ ngã xuống, con phía sau liền sẽ tiến lên lấp lại không tới 1 giây sau phía trên liền rơi xuống một vòng ma pháp hố đen lại xuất hiện chui ra một tên Bộ Xương Chiến Sĩ thế lấp chỗ trống.
+
+Kinh nghiệm cứ như vậy từng bước dâng lên cao. Kế tiếp David lần thứ hai thăng cấp, Đình Tấn không lâu sau đó cũng nhận được âm thanh hệ thống.
+
+Keng! - Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Ameerah ánh sáng thăng cấp cũng xuất hiện cả nhóm 3 người thanh kinh nghiệm cứ như đồng hồ đếm giây nhảy lên liên tục.Scropider
+
+Level: 17
+
+HP: 1300/1300
+
+Kỹ năng: bỏ độc, sinh sản, kêu gọi bầy đàn.
+
+Tra xét xong thuộc tính Đình Tấn cảm nhận được bọn Scropider này yếu hơn rất nhiều so với những con quái vật đồng cấp. Bọn chúng đây chính là dùng chiến thuật như Đình Tấn, lấy số lượng thủ thắng chất lượng. Nhưng với số lượng cùng chất lượng vượt trội thì chúng chết chắc. Đình Tấn khóe miệng trên gương mặt vẫn duy trì mỉm cười như tử thần, tay đặt vào sách niệm chú ngữ tung ra kỹ năng.
+
+Triệu hồi Bộ Xương Chiến Sĩ
+
+Triệu hồi Tang Thi
+
+Cầu Phúc Trị Liệu (276)
+
+Tử Vong Màn Che
+
+-260
+
+-260
+
+“Rít rít…”
+
+Liên tục những con số sát thương từ hiệu ứng giảm thuộc tính từ trên đầu bọn Scropider nhảy lên. Đứng từ trên cao nhìn xuống Đình Tấn như thấy được cả một biển máu đang sôi trào bên dưới.
+
+30 tên Bộ Xương Chiến Sĩ cùng 22 tên Tang Thi từ lòng đất chen nhau chui ra khỏi mặt đất. Đình Tấn ra lệnh giữ lại 5 con Bộ Xương Chiến Sĩ hộ vệ bên mình. Còn lại 47 tên đàn em, từng tên từng tên chui ra rồi hướng phía bọn Scropider bên dưới mặt đất kia lao nhanh xuống tự do chiến đấu. 
+
+Tử Vong Màn Che bao trùm toàn bộ khu vực 26m vuông trong sân đồng thời cũng bao trùm khu vực trong vòng 7m xung quanh của Đình Tấn. Phòng hờ có quái vật bò vào trong đường hầm thông nhau, đi qua đây đánh lén thì sẽ bị giảm thuộc tính đi.
+
+Đứng trong hang động trên vách đá, hai bên 2 tên Bộ Xương Chiến Sĩ thủ hộ, phía sau 3 con Bộ Xương Chiến Sĩ khác cũng chặn lại đường vào đây. Để lại một khoảng trống ở giữa cho David cùng Ameerah ngồi. Hắn ra hiệu cho Ameerah cùng David ngồi xuống nghỉ ngơi. Còn bản thân thì vẫn đứng quan sát xung quanh.
+
+Đình Tấn chỉ đứng phía trên quan sát, HP tiêu hao mỗi giây chỉ có 26 HP, do thuộc tính từ Sách của Gauss cùng Nhẫn nguyền rủa nên tiêu hao kỹ năng của Đình Tấn bị khấu trừ đi hết. HP tiêu hao này chính là đến từ thuộc tính -1000% của chiếc nhẫn, qua khấu trừ đi 300% hồi phục thuộc tính đến từ những vật phẩm trang bị của Đình Tấn nên HP tiêu hao rơi xuống khá chậm.
+
+Hơn nữa bây giờ Đình Tấn đang sử dụng Cầu Phúc Trị Liệu. Kỹ năng này mỗi giây hồi phục lại cho hắn 26 HP duy trì lại là 276 giây. Đình Tấn hiện tại có thể nhàn nhã đứng quan sát toàn bộ chiến trường, đồ thời tung ra kỹ năng triệu hồi bù lấp lại chỗ trống. Rảnh rỗi, Đình Tấn xem xét thuộc tính những tên đàn em này được gia tăng thế nào.
+
+Bộ Xương Chiến Sĩ
+
+HP: 3780/3780
+
+Sát thương vật lý: 302 - 330
+
+Phòng thủ vật lý: 24.8
+
+Phòng thủ phép thuật: 27.6
+
+Tang Thi
+
+HP: 2520/2520
+
+Sát thương vật lý: 276 - 414
+
+Phòng thủ vật lý: 6.2
+
+Phòng thủ phép thuật: 27.6
+
+Thuộc tính tăng cường 100% hiệu quả kỹ năng đến từ chiếc nhẫn bị nguyền rủa Bjorketorp làm cho thuộc tính toàn bộ kỹ năng của Đình Tấn xảy ra một biến đổi to lớn. Chỉ riêng số lượng triệu hồi vong linh sinh vật đã tăng cường gấp đôi chính là hiệu quả cường đại nhất đối với Đình Tấn rồi. Nhưng không dừng lại tại đó, thuộc tính bọn Bộ Xương Chiến Sĩ cùng Tang Thi cũng đều gia tăng lên gấp đôi làm Đình Tấn không khỏi càng thêm phấn khởi.
+
+Lúc nãy trong thời gian chờ đợi David, Đình Tấn có dùng hệ thống mà lên mạng diễn đàn Anh Hùng điều tra tình hình người chơi ở thời điểm hiện tại. Theo khảo sát của một nhóm người rảnh rỗi, người chơi bình thường chỉ nằm trong đẳng cấp 12 - 13. Thuộc tính HP nằm trong vòng 2000-3000 điểm nếu tăng điểm tư do tập trung chỉ thuộc tính thể lực, đồng thời kết hợp thêm trang bị tăng thuộc tính HP, thể lực. 
+
+Ở đây, Đình Tấn chỉ cần cầm một tên vong linh Bộ Xương Chiến Sĩ đã là gấp rưỡi so với người bình thường rồi. Thuộc tính tăng mạnh làm cho chúng nó càng quét phía bên dưới càng trở nên nhanh chóng như quét rơm rạ.
+
+Không chỉ dừng lại tại triệu hồi kỹ năng, tăng cường cũng làm cho kỹ năng Tử Vong Màn Che giảm thiểu thuộc tính tăng lên 20% cùng diện tích bao phủ cũng kéo theo tăng lên gấp đôi 26m. Cầu Phúc Trị Liệu cũng tăng gấp đôi lượng HP hồi được cùng thời gian kéo dài. Đình Tấn ngồi kiểm tra mà tắc lưỡi không thôi, vượt 11 cấp chém giết cũng là thưởng cho càng phong phú đây.
+
+Bên dưới tình hình rất loạn. Bộ Xương Chiến Sĩ lao ra lập thành một hàng ngang chặn lại bức tường không cho những con Scropider vượt qua để bò lên chỗ của Đình Tấn. Bọn Tang Thi làm việc rất tích cực, chúng dùng móng vuốt sắc nhọn của mình đâm thủng vào vách đá đeo bám thật chặt rồi lao nhanh đến những con Scropider kia. Vung móng vuốt, dùng răng cắn sát thương đều rất khả quan.
+
+Exp +720
+
+Exp +720
+
+…
+
+Sau hơn 10 giây chiến đấu điểm số kinh nghiệm bắt đầu hiện lên trong mắt nhóm 3 người. Ameerah đã tập thành thói quen không có quá nhiều phản ứng. Riêng David vừa gia nhập nhóm, hắn từ lúc bắt đầu có chút không tin. Theo sau đó là ngạc nhiên, khiếp sợ đến hiện tại thì đã chết lặng rồi.
+
+Một người mang theo một đội quân vong linh, chiến lực mỗi tên triệu hồi cường đại không chỉ là gấp đôi so với một người chơi bình thường. Chỉ riêng điểm này đã đủ hắn trái tim ngừng đập rồi. Thảo nào lúc trước hắn nghi ngờ những phụ bản kia Boss cường đại như vậy, nhiều nhóm người chơi có tin đồn phải cần 40-50 người cho một con Boss. Thế nhưng Đình Tấn lại chỉ dẫn theo đội 2 người liền có thể qua được.
+
+Ngay lúc này Đình Tấn giọng nói vang lên:
+
+- David ngươi sinh sống ở đâu? Gia đình ngươi hiện tại thế nào?
+
+Ngồi dưới đất, David ngẩng đầu lên vừa nhìn thấy Đình Tấn đang đứng nhìn phía dưới cùng đang triệu hồi kỹ năng. Hiện tại nhàn nhã không việc gì, hắn cũng thuận miệng tán dóc:
+
+- Ta sống ở CLF cùng hai người em, một trai một gái. Chúng nó đang học trung học. Ba mẹ chúng ta ly hôn, bỏ lại chúng ta cho ông bà ngoại. Mỗi tháng họ trợ cấp ít tiền rồi thôi cũng không ghé đến lần nào. Nhà không có ai, ta cũng phải đi làm kiếm tiền nên không có thời gian chăm sóc hai đứa nhỏ. Ta gửi lại bọn chúng ở tại trường luôn thế nên chi phí sinh hoạt cao hơn một chút. 
+
+Giọng nói hắn rất bình thản, không nhìn ra đươc cảm xúc có quá nhiều biến động. Cứ như chuyện này đối với hắn đều là bình thường. Thế nhưng bên cạnh Ameerah thì khác, nàng cảm thấy hắn rất đáng thương. Xót xa từ tiền cùng trang bị vừa đưa lúc nãy đã không cánh bay đi.
+
+Đình Tấn thì cũng coi như bình thường, hoàn cảnh của hắn cũng không khá hơn bao nhiêu. Hắn cũng là cô nhi, không có ai trợ cấp cho, chỉ có trợ cấp chính phủ cũng không được bao nhiêu. Nhỏ hơn Ameerah thì hắn đã bắt đầu lăn lộn kiếm sống rồi. Suy tính một chút, Đình Tấn nói tiếp với David:
+
+- Nếu ngươi cảm thấy được thì dọn đến chỗ ta đi. Sắp tới ta sẽ chuyển đi đến một nơi bí mật hơn. Chúng ta trên người bí mật quá nhiều, đã có người truy tìm tình báo của ta nên sợ rằng sắp tới sẽ không yên ổn. Ngươi nên biết người đó là ai rồi đó David.
+
+David cũng trầm ngâm trong phút chốc. Ở nhà hắn cũng không có ai chỉ có hai người em thì cũng đến ở trong trường học. Với nghe Đình Tấn nói như vậy hắn cũng có chút lo lắng dù sao ngươi đơn thế độc, nếu như đang chơi game mà bị vài tên đột nhập vào cho một dao. Hắn không sợ mình sẽ có mệnh hệ gì, chỉ là nghĩ đến tương lai 2 người em của mình hắn không chịu được.
+
+- Được, ta sẽ sắp xếp một chút. Ngươi khi nào dọn đi thì gửi cho ta địa chỉ.
+
+Đình Tấn gật đầu im lặng không nói gì. Trầm ngâm chút rồi lại nói: 
+
+- Về phía em ngươi, nếu có cần sự trợ giúp ngươi cứ việc nói. Chúng ta có bắt được liên lạc phía chính phủ. Cùng họ nói chuyện giao dịch, một chút hỗ trợ nho nhỏ chắc họ cũng sẽ có thể giúp đỡ cho ngươi. Tài chính nếu cạn kiệt thì nói chúng ta. Chuyện quan trọng nhất với ngươi bây giờ là tăng lên thực lực. Cả trong game lẫn ngoài hiện thực.
+
+David gật đầu, hắn cũng tin tưởng Đình Tấn. Người này mang đến cho hắn quá nhiều tò mò. Thực lực cường đại, tài chính sung túc, biết hướng đi biết cách chiến đấu giờ lại thêm quan hệ với chính phủ, quân đội. David cảm giác rằng, hắn đã tìm cho mình được một bến đỗ mới.
+
+Một vòng ánh sáng thoáng hiện lên bên người David. Chỉ chưa đến 1’ David đã thăng lên cấp 11. Hắn vì bị bọn người của Throne săn giết liên tục mà tụt mất 2 cấp. Do đã truyền tống qua EL Thành thành nên đẳng cấp không thể tụt xuống 9 mà dừng lại ở cấp 10 - 0%. Đồ vật mỗi khi chết sẽ có xác xuất rơi ra, tùy theo điểm tội ác. 0 điểm sẽ rơi 1 món, 10 điểm hai món, 20 điểm 3 món cứ như vậy tính tới… tiền bạc cũng sẽ rơi theo % tổng số tiền, số % này cũng tùy vào điểm tội ác cứ 1 điểm thì sẽ gia tăng 1%.
+
+Đình Tấn từ lúc bắt đầu chơi game đến nay hắn chỉ cùng Ameerah đi luyện quái, thăng cấp cho nên rất ít tiếp xúc với người chơi khác nói chi là mâu thuẫn giữa các công hội. Thế nên chém giết gì với người chơi Đình Tấn cùng Ameerah đều không có tham gia.
+
+Tình hình bên dưới hang ổ kia cũng càng ngày càng căng hơn. Bọn Bộ Xương Chiến Sĩ cùng Tang Thi đã phải co rút lại đội hình. Bên dưới Scropider càng ngày càng đông như vô cùng vô tận. Mỗi giây mỗi khắc đều có một con Scropider chui ra từ trong những lỗ nhỏ trong hang trên vách đá, sau đó chúng bò xuống hướng về những con Bộ Xương Chiến Sĩ cùng Tang Thi.
+
+Độc của chúng đối với Bộ Xương Chiến Sĩ là vô hiệu, chỉ có đối với Tang Thi mới xuất hiện bBpIJWJ hiệu quả trúng độc thôi. Tang Thi mặc dù tốc độ nhanh thế nhưng bọn Scropider số lượng quá đông, chúng tràn ra ngoài bịt kín cả mặt đất. Chỗ trống rất ít nên Tang Thi tốc độ rất khó được phát huy. 22 con Tang Thi đều bị dính trạng thái trúng độc, HP mỗi giây giảm thiểu hơn 50 điểm lại thêm bị bọn Scropider nhảy lên cắn trúng hay dùng đuôi đâm xuyên người đều mang đi một lượng HP trong khoảng 100-200. Với lượng HP 2500 của Tang Thi thì chúng có thể trụ được hơn nửa phút. Đổi lại mỗi con Tang Thi đều đánh giết được ít nhất 1 con Scropider mỗi khi bị chúng gần người. Có thể nói là mạng đổi mạng.
+
+Phía trên Đình Tấn luôn tập trung xem xét trạng thái chỉ huy chiến đấu. Vì có Nhẫn nguyền rủa nên triệu hồi ra cũng không tiêu hao, sử dụng kỹ năng cũng không tiêu hao nên Đình Tấn rất lăn xả. Kỹ năng không tiếc mà tung ra liên tục, từ Cốt Thứ đến Nguyền Rủa Suy Yếu. Khống Vật Thuật cũng được Đình Tấn sử dụng, hắn nâng những tảng đá lớn hơn 25 kg nhất lên cao rồi quăng mạnh vào giữa bầy Scropider làm cho chúng ăn phải một lượng sát thương sát thương không nhỏ.
+
+Hiện tại đã qua hơn 5 phút, Cầu Phúc Trị Liệu đã hết thời gian duy trì. Đình Tấn phải canh thời gian mà uống HP thuốc giá trị HP vừa tụt xuống 600 Sinh Mệnh Cứu Rỗi sẽ được tung ra kéo lên lại. 
+
+Số lượng bầy Scropider càng ngày càng đông, Đình Tấn đã xếp bọn Bộ Xương Chiến Sĩ thành một hình tam giác 5 hàng tựa sát vào nhau chống đỡ như lúc chiến đấu với bọn Biến Dị Heo Rừng. Mỗi khi dùng khiên hất bọn Scropider ra một đoạn liền tên đứng phía sau sẽ lao ra cho một búa vào đám Scropider phía trước. 
+
+Mỗi khi có con Scropider nào bò lên phía trên định chui vào trong đội hình liền bị tên Bộ Xương Chiến Sĩ đứng sau dùng khiên đón đỡ lại bị những tên bên trong vung búa chém ra. Chỉ là bọn Bộ Xương Chiến Sĩ bị ép lại làm lộ ra vách đá phía sau, những con Scropider không bò vào được chỗ của chúng liền bò lên vách đá hướng phía Đình Tấn mà tới.
+
+Đình Tấn cũng không hoảng loạn lắm, điều động Tang Thi lại trèo lên vách đá bao vây khu vực quanh miệng hang của hắn, làm thành mộ chiến trường khác trên vách đá.
+
+Ameerah là võ sư, David là một tên Đạo tặc. Cả hai đều là loại hình cận chiến nên cũng không thể giúp đỡ gì cho Đình Tấn. Cũng chỉ có thể nghe theo lời của Đình Tấn, ngồi tranh thủ thời gian tu luyện.
+
+“Rít rít rít”
+
+Âm thanh vang lên từ phía sau làm cho Ameerah cùng David giật mình quay đầu nhìn lại. Phía sau 3 tên Bộ Xương Chiến Sĩ chặn lấy toàn bộ đường đi trong hang, ngăn chặn lại một đám Scropider ở phía sau. Thế nhưng rất tiếc cho bọn chúng, đường đi quá nhỏ lại thêm có 3 con Bộ Xương Chiến Sĩ chặn đường, đưa khiên đón đỡ liên tục làm chúng nó không thể tiến thêm một tấc. Ngược lại phía sau dồn ép không thể chạy lui về phía trước có Bộ Xương Chiến Sĩ liên tục vung rìu bổ xuống đầu nó làm HP giảm liên tục, không quá 5 giây liền lật ra đất chỉ còn là một cái xác. Phía sau con Scropider liền tiến lên thế chỗ rồi lại noi theo đồng bạn để lại cái xác cùng vài đồng tiền và kinh nghiệm.
+
+Đình Tấn sức chiến đấu đã dẻo dai hơn quá nhiều, Bộ Xương Chiến Sĩ liên tục được gọi ra thế lấp vị trí bị hỏng bên dưới. Mỗi khi có một con Bộ Xương Chiến Sĩ ngã xuống, con phía sau liền sẽ tiến lên lấp lại không tới 1 giây sau phía trên liền rơi xuống một vòng ma pháp hố đen lại xuất hiện chui ra một tên Bộ Xương Chiến Sĩ thế lấp chỗ trống.
+
+Kinh nghiệm cứ như vậy từng bước dâng lên cao. Kế tiếp David lần thứ hai thăng cấp, Đình Tấn không lâu sau đó cũng nhận được âm thanh hệ thống.
+
+Keng! - Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Ameerah ánh sáng thăng cấp cũng xuất hiện cả nhóm 3 người thanh kinh nghiệm cứ như đồng hồ đếm giây nhảy lên liên tục.

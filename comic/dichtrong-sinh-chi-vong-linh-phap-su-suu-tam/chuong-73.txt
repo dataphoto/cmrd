@@ -1,0 +1,319 @@
+Trong bảng kỹ năng lúc này bên góc trái có một con số [1]. Đình Tấn lập tức nhớ lại đây là điểm kỹ năng khi hắn tăng lên 20 cấp được thưởng cho. Suy nghĩ một chút Đình Tấn quyết định để dành lại điểm kỹ năng này.
+
+Hiện tại toàn bộ cường lực kỹ năng hắn cũng đã tăng lên, hơn nữa hắn cũng chưa biết sau này có cách nào tìm được điểm kỹ năng hay không. Đồng thời hắn cũng muốn dự trù nếu sau này có học được kỹ năng gì khác hữu dụng cho mình nữa. Cho nên giữ lại vẫn là tốt hơn.
+
+Nhìn xuống phía dưới phần danh sách kỹ năng. Nằm trên cùng ở khu vực của những kỹ năng Trung Cấp, biểu tượng một bộ xương hệt như của kỹ năng “Triệu Hồi Bộ Xương Chiến Sĩ” nhưng lại có thêm một thanh cung cầm trên tay.
+
+Góc trên kỹ năng có để thêm một ký tự “Mới” nhưng để nhắc nhở cho người chơi không phải mất công tìm kiếm lẫn lộn. Đình Tấn lựa chọn bấm vào để xem thông tin kỹ năng.
+
+Triệu hoán Bộ Xương Cung Thủ
+
+Đẳng cấp: Trung cấp
+
+Giới thiệu: Triêu Hồi Vong Linh Sinh Vật Bộ Xương Cung Thủ trợ giúp chiến đấu với ý thức và bản năng của một tên thợ săn nghìn năm tuổi, kết hợp cùng ý chí không sợ chết của sinh vật vong linh.
+
+Tiêu hao ma pháp: 180 MP (Kéo dài tiêu hao 60MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 15
+
+Sát thương vật lý thấp nhất = [Điểm Tinh thần] x 1.5
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1.5
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 18
+
+Mang theo kỹ năng: 
+
+- Linh Hồn Chi Tiễn (Chủ động): [Khi người triệu hồi kích hoạt, Bộ Xương Cung Thủ sẽ dùng toàn bộ linh hồn của nó bám vào vũ khí. Khi đánh trúng kẻ địch sẽ gây ra chấn động linh hồn, nhẹ thì bị thương choáng váng, nặng thì bất tỉnh một thời gian hoặc chết.]
+
+o Linh Hồn Chấn Động (Trung cấp): Sát thương = sát thương vật lý*2, gây ra tê liệt trạng thái kéo dài 3 giây [Giảm theo cấp độ kẻ địch]. (Sử dụng xong Bộ Xương Cung Thủ sẽ tử vong)
+
+Đồng bộ hoá hiện thực: hiệu quả không đổi, tiêu hao không đổi. Độ chuẩn xác thông số 90%. Hệ thống sẽ khoá DNA của ngài nếu có tố cáo ngài phạm tội từ phía chính phủ. Xin hãy cẩn thận sử dụng. (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+Một loạt các con số được Đình Tấn tính nhẩm. Kết quả làm hắn rất là khiếp sợ, vì bọn Bộ Xương Cung Thủ này chính là một phiên bản "Cốt Thứ" khác của hắn lại kết hợp với "Tê Liệt" của David. 
+
+Hiện tại, với lượng tinh thần của Đình Tấn, hắn có thể triệu hồi ra 14 tên cùng lúc. Hơn nữa nếu có nhẫn bị nguyền rủa trợ giúp thì số lượng lại sẽ được nhân lên gấp đôi.
+
+Nếu như hắn có thể vừa phân tâm triệu hồi vừa chỉ huy được đám Bộ Xương Cung Thủ này. Vậy thì chắc chắn con Griffin cũng sẽ không phải khó như vậy để giết chết.
+
+Lắc đầu không khỏi tiếc nuối, nếu hắn trước đó chuẩn bị kỹ càng hơn. Có được kỹ năng này thì mọi người sẽ không phải vất vả như vậy. Terrell và Ameerah cũng không phải hi sinh.
+
+Nhưng mọi chuyện đã lỡ, cứ coi như đây là một lần sinh tử rèn luyện cho cả nhóm. Đình Tấn quan sát bản đồ, khoảng 2km nữa hắn sẽ tới nơi. Trên xe 4 người trước kia, hiện tại chỉ còn mỗi mình hắn. Đình Tấn trong lòng cũng cảm thấy khá khó chịu.
+
+Nhắm mắt tiến vào trạng thái tu luyện "Minh Tưởng Thuật". Đình Tấn mặc kệ những cảm giác trong lòng, để cho 6 tên Bộ Xương Chiến Sĩ hộ tống xe chở hàng còn hắn thì bắt đầu tu luyện. 
+
+Gần 1 giờ sau…
+
+Ngay khi Đình Tấn vừa hoàn thành một vòng "Minh Tưởng Thuật", xe chở hàng cũng đã đi đến điểm cuối. Đình Tấn đã có thể thấy được phía xa xa kia có một sơn cốc nhân tạo. Xung quanh là một vùng đầy đất đá khô cằn, có nhiều chỗ trũng và hố nước khô để lại.
+
+Phía lối vào có một bức tường chắn ngang, diện tích tuy lớn nhưng vẫn chưa thể sánh bằng với EL Thành thành. Ở giữa bức tường, có 1 cánh cổng sắt lớn với cửa là một tấm sắt dày đóng sập xuống, bề ngang đủ lớn để cho 2 chiếc xe chở hàng của Đình Tấn ra vào cùng lúc. 
+
+Ở trên bức tường ngay cổng vào có 2 người lính mặc áo giáp quân đội đứng canh giữ. Bọn họ trông thấy chiếc xe chở hàng của Đình Tấn liền nhanh chóng đi ra ngoài ngăn lại:
+
+- Xin chào, xin cho chúng ta được kiểm tra xe hàng của ngươi.
+
+Nói xong người quân nhân kia nghiêm chào một cái chờ đợi Đình Tấn phản hồi. Đình Tấn lúc này đang đứng trên bục điều khiển, hắn lập tức cho xe ngừng lại. Sau đó xuống xe đi tới trước mặt người quân nhân, nghiêm người chào lại rồi nói.
+
+- Ta theo chỉ thị của Thành Chủ Albert cùng Trung Úy Ammite tới đây để tiếp tế. Xin cho phép ta được gặp Tướng Mark.
+
+Người quân nhân kia tiến lên mở ra thử một thùng chứa đồ trên xe, sau đó hắn gương mặt kinh hỉ vội vàng quay lại cúi chào với Đình Tấn:
+
+- Xin ngài chờ trong chốc lát!
+
+Nhìn thấy Đình Tấn gật đầu, hắn nhanh chóng quay người chạy vào bên trong. Một lúc sau một vị trung niên dáng người cao to, gương mặt góc cạnh. Khóe miệng lúc này không ngừng mỉm cười lên vì vui vẻ.
+
+- Xin chào, ta là Mark. Xin hỏi chỉ một mình ngươi vận chuyển tiếp tế đến sao?
+
+Đình Tấn hướng về tướng Mark nghiêm chào. Giọng nói bình tĩnh:
+
+- Ta thuộc đội Lính Đánh Thuê [The Alliance]. Đội chúng ta 4 người đã hi sinh mất 3 người, chỉ còn lại một mình ta đến được đây.
+
+Tướng Mark gật đầu, sau đó xoay người sang kiểm tra các thùng tiếp tế. Gương mặt hắn lúc này tràn đầy kinh hỉ. Sau khi kiểm tra xong hắn lại như an ủi mà nói với Đình Tấn:
+
+- Rất cám ơn ngươi và các đồng đội khác đã hi sinh thân mình để mang tiếp tế đến đây. Chúng ta sẽ báo cáo lại với Thành Chủ Albert để trọng thưởng ngươi.
+
+Keng! - Chúc mừng ngươi và đồng đội đã hoàn thành nhiệm vụ “Vận chuyển tiếp tế”, xin mời trở về gặp Thành Chủ Albert để nhận thưởng. Hệ thống vận chuyển tiếp tế và doanh trại trú đóng khu vực dã ngoại cho người chơi mở ra.
+
+Keng! - Chúc mừng đội Lính Đánh Thuê [The Alliance] thành công vận chuyển tiếp tế lần đầu tiên. Hệ thống thưởng cho 75.000 điểm Lính Đánh Thuê, một khu doanh trại tư nhân. Hệ thống xin thông báo đến toàn thế giới.
+
+Thông báo thế giới: Chúc mừng đội Lính Đánh Thuê FbnczoGz [The Alliance] đã thành công vận chuyển tiếp tế cho doanh trại dã ngoại. Hệ thống vận chuyển tiếp tế và doanh trại trú đóng dã ngoại mở ra hoang nghênh người chơi tham gia.
+
+Liên tục sau 3 lần thông báo đến từ hệ thống, người chơi từ khắp thế giới cũng nổi loạn. Vì cái tên [The Alliance] này chính lại đại diện cho chính nghĩa và thực lực cường đại trong lòng người chơi không có bang hội. 
+
+Người chơi bây giờ lý luận rất đơn giản. Ngươi lấy yếu chống mạnh, giúp đỡ người yếu, tiêu diệt đi kẻ xấu. Vậy thì ngươi chính là anh hùng, bọn ta sẽ ủng hộ và hâm mộ ngươi. Có thể đây là vì ảnh hưởng đến từ phim ảnh quá nhiều đi.
+
+Chờ tiếng hệ thống vang lên xong, tướng Mark ra hiệu cho 2 tên quân nhân tiếp nhận xe chở hàng. Sau đó lại tiếp tục nói với Đình Tấn. 
+
+- Ngươi chắc cũng đã mệt mỏi, theo ta vào doanh trại đi. Sẵn tiện giới thiệu cho ngươi một chút tình hình bên trong để ngươi không phải bỡ ngỡ sau này.
+
+Đình Tấn lúc này vừa ngạc nhiên về thông báo thưởng cho từ hệ thống, lại thêm Tướng Mark muốn làm hướng dẫn viên cho hắn. Đình Tấn không nghĩ ngợi nhiều gật đầu theo sau Tướng Mark.
+
+Tiến vào bên trong, Đình Tấn mới để ý. Bức tường bên ngoài được dựng lên cao khoảng 8m. Độ dày cũng xấp xỉ 2m, có thể chống đỡ được va đập từ những con quái thú có thể hình lớn.
+
+Nhìn xung quanh Đình Tấn ước tính doanh trại này diện tích khoảng hơn 10km vuông. Bên trong là một khoảng trống trải, với nhiều túp lều san sát nhau chừa ra một con đường lớn. Các túp lều trại kích cỡ cũng khác nhau, có lớn có nhỏ khung bằng thép và sợi thủy tinh. 
+
+Bên ngoài bao trùm bằng vải dù, có thể tránh gió tránh mưa cực tốt. Chúng đều được dựng thành một hình tam giác, nếu kích cỡ lớn hơn một chút thì dựng thêm hai bức tường chống đỡ hai bên.
+
+Bên trong túp lều nhỏ thì chỉ lót một hoặc hai túi ngủ tùy kích cỡ túp lều. Còn lều lớn thì có thêm vài chiếc giường xếp vải có gối và chăn xếp sẵn. Vừa đi, Tướng Mark vừa chậm rãi giải thích:
+
+- Bên ngoài kia quái vật càng ngày càng đông chúng ta hiện tại có chút chống đỡ không nổi. Doanh trại quân đội hiện tại rất cần những người có thực lực mạnh mẽ như ngươi. 
+
+Ngừng một chút, Tướng Mark tiếp tục chăm chú nói:
+
+- Ngươi lần này vận chuyển tiếp tế đến có thể nói rất là đúng lúc. Chúng ta đạn dược đã không còn mấy. Thức ăn cũng chỉ đủ cầm cự trong vài ngày nữa. Ta tại đây đại diện cho quân khu Nam hướng về đội Lính Đánh Thuê [The Alliance] của ngươi chân thành cảm tạ.
+
+Nói xong Tướng Mark nghiêm người chào một cái làm Đình Tấn cũng không chịu được phải nghiêm chào lại. Hắn là không bỏ được thói quen của mình trong quân đội trước kia.Trong bảng kỹ năng lúc này bên góc trái có một con số [1]. Đình Tấn lập tức nhớ lại đây là điểm kỹ năng khi hắn tăng lên 20 cấp được thưởng cho. Suy nghĩ một chút Đình Tấn quyết định để dành lại điểm kỹ năng này.
+
+Hiện tại toàn bộ cường lực kỹ năng hắn cũng đã tăng lên, hơn nữa hắn cũng chưa biết sau này có cách nào tìm được điểm kỹ năng hay không. Đồng thời hắn cũng muốn dự trù nếu sau này có học được kỹ năng gì khác hữu dụng cho mình nữa. Cho nên giữ lại vẫn là tốt hơn.
+
+Nhìn xuống phía dưới phần danh sách kỹ năng. Nằm trên cùng ở khu vực của những kỹ năng Trung Cấp, biểu tượng một bộ xương hệt như của kỹ năng “Triệu Hồi Bộ Xương Chiến Sĩ” nhưng lại có thêm một thanh cung cầm trên tay.
+
+Góc trên kỹ năng có để thêm một ký tự “Mới” nhưng để nhắc nhở cho người chơi không phải mất công tìm kiếm lẫn lộn. Đình Tấn lựa chọn bấm vào để xem thông tin kỹ năng.
+
+Triệu hoán Bộ Xương Cung Thủ
+
+Đẳng cấp: Trung cấp
+
+Giới thiệu: Triêu Hồi Vong Linh Sinh Vật Bộ Xương Cung Thủ trợ giúp chiến đấu với ý thức và bản năng của một tên thợ săn nghìn năm tuổi, kết hợp cùng ý chí không sợ chết của sinh vật vong linh.
+
+Tiêu hao ma pháp: 180 MP (Kéo dài tiêu hao 60MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 15
+
+Sát thương vật lý thấp nhất = [Điểm Tinh thần] x 1.5
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1.5
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 18
+
+Mang theo kỹ năng: 
+
+- Linh Hồn Chi Tiễn (Chủ động): [Khi người triệu hồi kích hoạt, Bộ Xương Cung Thủ sẽ dùng toàn bộ linh hồn của nó bám vào vũ khí. Khi đánh trúng kẻ địch sẽ gây ra chấn động linh hồn, nhẹ thì bị thương choáng váng, nặng thì bất tỉnh một thời gian hoặc chết.]
+
+o Linh Hồn Chấn Động (Trung cấp): Sát thương = sát thương vật lý*2, gây ra tê liệt trạng thái kéo dài 3 giây [Giảm theo cấp độ kẻ địch]. (Sử dụng xong Bộ Xương Cung Thủ sẽ tử vong)
+
+Đồng bộ hoá hiện thực: hiệu quả không đổi, tiêu hao không đổi. Độ chuẩn xác thông số 90%. Hệ thống sẽ khoá DNA của ngài nếu có tố cáo ngài phạm tội từ phía chính phủ. Xin hãy cẩn thận sử dụng. (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+Một loạt các con số được Đình Tấn tính nhẩm. Kết quả làm hắn rất là khiếp sợ, vì bọn Bộ Xương Cung Thủ này chính là một phiên bản "Cốt Thứ" khác của hắn lại kết hợp với "Tê Liệt" của David. 
+
+Hiện tại, với lượng tinh thần của Đình Tấn, hắn có thể triệu hồi ra 14 tên cùng lúc. Hơn nữa nếu có nhẫn bị nguyền rủa trợ giúp thì số lượng lại sẽ được nhân lên gấp đôi.
+
+Nếu như hắn có thể vừa phân tâm triệu hồi vừa chỉ huy được đám Bộ Xương Cung Thủ này. Vậy thì chắc chắn con Griffin cũng sẽ không phải khó như vậy để giết chết.
+
+Lắc đầu không khỏi tiếc nuối, nếu hắn trước đó chuẩn bị kỹ càng hơn. Có được kỹ năng này thì mọi người sẽ không phải vất vả như vậy. Terrell và Ameerah cũng không phải hi sinh.
+
+Nhưng mọi chuyện đã lỡ, cứ coi như đây là một lần sinh tử rèn luyện cho cả nhóm. Đình Tấn quan sát bản đồ, khoảng 2km nữa hắn sẽ tới nơi. Trên xe 4 người trước kia, hiện tại chỉ còn mỗi mình hắn. Đình Tấn trong lòng cũng cảm thấy khá khó chịu.
+
+Nhắm mắt tiến vào trạng thái tu luyện "Minh Tưởng Thuật". Đình Tấn mặc kệ những cảm giác trong lòng, để cho 6 tên Bộ Xương Chiến Sĩ hộ tống xe chở hàng còn hắn thì bắt đầu tu luyện. 
+
+Gần 1 giờ sau…
+
+Ngay khi Đình Tấn vừa hoàn thành một vòng "Minh Tưởng Thuật", xe chở hàng cũng đã đi đến điểm cuối. Đình Tấn đã có thể thấy được phía xa xa kia có một sơn cốc nhân tạo. Xung quanh là một vùng đầy đất đá khô cằn, có nhiều chỗ trũng và hố nước khô để lại.
+
+Phía lối vào có một bức tường chắn ngang, diện tích tuy lớn nhưng vẫn chưa thể sánh bằng với EL Thành thành. Ở giữa bức tường, có 1 cánh cổng sắt lớn với cửa là một tấm sắt dày đóng sập xuống, bề ngang đủ lớn để cho 2 chiếc xe chở hàng của Đình Tấn ra vào cùng lúc. 
+
+Ở trên bức tường ngay cổng vào có 2 người lính mặc áo giáp quân đội đứng canh giữ. Bọn họ trông thấy chiếc xe chở hàng của Đình Tấn liền nhanh chóng đi ra ngoài ngăn lại:
+
+- Xin chào, xin cho chúng ta được kiểm tra xe hàng của ngươi.
+
+Nói xong người quân nhân kia nghiêm chào một cái chờ đợi Đình Tấn phản hồi. Đình Tấn lúc này đang đứng trên bục điều khiển, hắn lập tức cho xe ngừng lại. Sau đó xuống xe đi tới trước mặt người quân nhân, nghiêm người chào lại rồi nói.
+
+- Ta theo chỉ thị của Thành Chủ Albert cùng Trung Úy Ammite tới đây để tiếp tế. Xin cho phép ta được gặp Tướng Mark.
+
+Người quân nhân kia tiến lên mở ra thử một thùng chứa đồ trên xe, sau đó hắn gương mặt kinh hỉ vội vàng quay lại cúi chào với Đình Tấn:
+
+- Xin ngài chờ trong chốc lát!
+
+Nhìn thấy Đình Tấn gật đầu, hắn nhanh chóng quay người chạy vào bên trong. Một lúc sau một vị trung niên dáng người cao to, gương mặt góc cạnh. Khóe miệng lúc này không ngừng mỉm cười lên vì vui vẻ.
+
+- Xin chào, ta là Mark. Xin hỏi chỉ một mình ngươi vận chuyển tiếp tế đến sao?
+
+Đình Tấn hướng về tướng Mark nghiêm chào. Giọng nói bình tĩnh:
+
+- Ta thuộc đội Lính Đánh Thuê [The Alliance]. Đội chúng ta 4 người đã hi sinh mất 3 người, chỉ còn lại một mình ta đến được đây.
+
+Tướng Mark gật đầu, sau đó xoay người sang kiểm tra các thùng tiếp tế. Gương mặt hắn lúc này tràn đầy kinh hỉ. Sau khi kiểm tra xong hắn lại như an ủi mà nói với Đình Tấn:
+
+- Rất cám ơn ngươi và các đồng đội khác đã hi sinh thân mình để mang tiếp tế đến đây. Chúng ta sẽ báo cáo lại với Thành Chủ Albert để trọng thưởng ngươi.
+
+Keng! - Chúc mừng ngươi và đồng đội đã hoàn thành nhiệm vụ “Vận chuyển tiếp tế”, xin mời trở về gặp Thành Chủ Albert để nhận thưởng. Hệ thống vận chuyển tiếp tế và doanh trại trú đóng khu vực dã ngoại cho người chơi mở ra.
+
+Keng! - Chúc mừng đội Lính Đánh Thuê [The Alliance] thành công vận chuyển tiếp tế lần đầu tiên. Hệ thống thưởng cho 75.000 điểm Lính Đánh Thuê, một khu doanh trại tư nhân. Hệ thống xin thông báo đến toàn thế giới.
+
+Thông báo thế giới: Chúc mừng đội Lính Đánh Thuê FbnczoGz [The Alliance] đã thành công vận chuyển tiếp tế cho doanh trại dã ngoại. Hệ thống vận chuyển tiếp tế và doanh trại trú đóng dã ngoại mở ra hoang nghênh người chơi tham gia.
+
+Liên tục sau 3 lần thông báo đến từ hệ thống, người chơi từ khắp thế giới cũng nổi loạn. Vì cái tên [The Alliance] này chính lại đại diện cho chính nghĩa và thực lực cường đại trong lòng người chơi không có bang hội. 
+
+Người chơi bây giờ lý luận rất đơn giản. Ngươi lấy yếu chống mạnh, giúp đỡ người yếu, tiêu diệt đi kẻ xấu. Vậy thì ngươi chính là anh hùng, bọn ta sẽ ủng hộ và hâm mộ ngươi. Có thể đây là vì ảnh hưởng đến từ phim ảnh quá nhiều đi.
+
+Chờ tiếng hệ thống vang lên xong, tướng Mark ra hiệu cho 2 tên quân nhân tiếp nhận xe chở hàng. Sau đó lại tiếp tục nói với Đình Tấn. 
+
+- Ngươi chắc cũng đã mệt mỏi, theo ta vào doanh trại đi. Sẵn tiện giới thiệu cho ngươi một chút tình hình bên trong để ngươi không phải bỡ ngỡ sau này.
+
+Đình Tấn lúc này vừa ngạc nhiên về thông báo thưởng cho từ hệ thống, lại thêm Tướng Mark muốn làm hướng dẫn viên cho hắn. Đình Tấn không nghĩ ngợi nhiều gật đầu theo sau Tướng Mark.
+
+Tiến vào bên trong, Đình Tấn mới để ý. Bức tường bên ngoài được dựng lên cao khoảng 8m. Độ dày cũng xấp xỉ 2m, có thể chống đỡ được va đập từ những con quái thú có thể hình lớn.
+
+Nhìn xung quanh Đình Tấn ước tính doanh trại này diện tích khoảng hơn 10km vuông. Bên trong là một khoảng trống trải, với nhiều túp lều san sát nhau chừa ra một con đường lớn. Các túp lều trại kích cỡ cũng khác nhau, có lớn có nhỏ khung bằng thép và sợi thủy tinh. 
+
+Bên ngoài bao trùm bằng vải dù, có thể tránh gió tránh mưa cực tốt. Chúng đều được dựng thành một hình tam giác, nếu kích cỡ lớn hơn một chút thì dựng thêm hai bức tường chống đỡ hai bên.
+
+Bên trong túp lều nhỏ thì chỉ lót một hoặc hai túi ngủ tùy kích cỡ túp lều. Còn lều lớn thì có thêm vài chiếc giường xếp vải có gối và chăn xếp sẵn. Vừa đi, Tướng Mark vừa chậm rãi giải thích:
+
+- Bên ngoài kia quái vật càng ngày càng đông chúng ta hiện tại có chút chống đỡ không nổi. Doanh trại quân đội hiện tại rất cần những người có thực lực mạnh mẽ như ngươi. 
+
+Ngừng một chút, Tướng Mark tiếp tục chăm chú nói:
+
+- Ngươi lần này vận chuyển tiếp tế đến có thể nói rất là đúng lúc. Chúng ta đạn dược đã không còn mấy. Thức ăn cũng chỉ đủ cầm cự trong vài ngày nữa. Ta tại đây đại diện cho quân khu Nam hướng về đội Lính Đánh Thuê [The Alliance] của ngươi chân thành cảm tạ.
+
+Nói xong Tướng Mark nghiêm người chào một cái làm Đình Tấn cũng không chịu được phải nghiêm chào lại. Hắn là không bỏ được thói quen của mình trong quân đội trước kia.Trong bảng kỹ năng lúc này bên góc trái có một con số [1]. Đình Tấn lập tức nhớ lại đây là điểm kỹ năng khi hắn tăng lên 20 cấp được thưởng cho. Suy nghĩ một chút Đình Tấn quyết định để dành lại điểm kỹ năng này.
+
+Hiện tại toàn bộ cường lực kỹ năng hắn cũng đã tăng lên, hơn nữa hắn cũng chưa biết sau này có cách nào tìm được điểm kỹ năng hay không. Đồng thời hắn cũng muốn dự trù nếu sau này có học được kỹ năng gì khác hữu dụng cho mình nữa. Cho nên giữ lại vẫn là tốt hơn.
+
+Nhìn xuống phía dưới phần danh sách kỹ năng. Nằm trên cùng ở khu vực của những kỹ năng Trung Cấp, biểu tượng một bộ xương hệt như của kỹ năng “Triệu Hồi Bộ Xương Chiến Sĩ” nhưng lại có thêm một thanh cung cầm trên tay.
+
+Góc trên kỹ năng có để thêm một ký tự “Mới” nhưng để nhắc nhở cho người chơi không phải mất công tìm kiếm lẫn lộn. Đình Tấn lựa chọn bấm vào để xem thông tin kỹ năng.
+
+Triệu hoán Bộ Xương Cung Thủ
+
+Đẳng cấp: Trung cấp
+
+Giới thiệu: Triêu Hồi Vong Linh Sinh Vật Bộ Xương Cung Thủ trợ giúp chiến đấu với ý thức và bản năng của một tên thợ săn nghìn năm tuổi, kết hợp cùng ý chí không sợ chết của sinh vật vong linh.
+
+Tiêu hao ma pháp: 180 MP (Kéo dài tiêu hao 60MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 15
+
+Sát thương vật lý thấp nhất = [Điểm Tinh thần] x 1.5
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1.5
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 18
+
+Mang theo kỹ năng: 
+
+- Linh Hồn Chi Tiễn (Chủ động): [Khi người triệu hồi kích hoạt, Bộ Xương Cung Thủ sẽ dùng toàn bộ linh hồn của nó bám vào vũ khí. Khi đánh trúng kẻ địch sẽ gây ra chấn động linh hồn, nhẹ thì bị thương choáng váng, nặng thì bất tỉnh một thời gian hoặc chết.]
+
+o Linh Hồn Chấn Động (Trung cấp): Sát thương = sát thương vật lý*2, gây ra tê liệt trạng thái kéo dài 3 giây [Giảm theo cấp độ kẻ địch]. (Sử dụng xong Bộ Xương Cung Thủ sẽ tử vong)
+
+Đồng bộ hoá hiện thực: hiệu quả không đổi, tiêu hao không đổi. Độ chuẩn xác thông số 90%. Hệ thống sẽ khoá DNA của ngài nếu có tố cáo ngài phạm tội từ phía chính phủ. Xin hãy cẩn thận sử dụng. (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+Một loạt các con số được Đình Tấn tính nhẩm. Kết quả làm hắn rất là khiếp sợ, vì bọn Bộ Xương Cung Thủ này chính là một phiên bản "Cốt Thứ" khác của hắn lại kết hợp với "Tê Liệt" của David. 
+
+Hiện tại, với lượng tinh thần của Đình Tấn, hắn có thể triệu hồi ra 14 tên cùng lúc. Hơn nữa nếu có nhẫn bị nguyền rủa trợ giúp thì số lượng lại sẽ được nhân lên gấp đôi.
+
+Nếu như hắn có thể vừa phân tâm triệu hồi vừa chỉ huy được đám Bộ Xương Cung Thủ này. Vậy thì chắc chắn con Griffin cũng sẽ không phải khó như vậy để giết chết.
+
+Lắc đầu không khỏi tiếc nuối, nếu hắn trước đó chuẩn bị kỹ càng hơn. Có được kỹ năng này thì mọi người sẽ không phải vất vả như vậy. Terrell và Ameerah cũng không phải hi sinh.
+
+Nhưng mọi chuyện đã lỡ, cứ coi như đây là một lần sinh tử rèn luyện cho cả nhóm. Đình Tấn quan sát bản đồ, khoảng 2km nữa hắn sẽ tới nơi. Trên xe 4 người trước kia, hiện tại chỉ còn mỗi mình hắn. Đình Tấn trong lòng cũng cảm thấy khá khó chịu.
+
+Nhắm mắt tiến vào trạng thái tu luyện "Minh Tưởng Thuật". Đình Tấn mặc kệ những cảm giác trong lòng, để cho 6 tên Bộ Xương Chiến Sĩ hộ tống xe chở hàng còn hắn thì bắt đầu tu luyện. 
+
+Gần 1 giờ sau…
+
+Ngay khi Đình Tấn vừa hoàn thành một vòng "Minh Tưởng Thuật", xe chở hàng cũng đã đi đến điểm cuối. Đình Tấn đã có thể thấy được phía xa xa kia có một sơn cốc nhân tạo. Xung quanh là một vùng đầy đất đá khô cằn, có nhiều chỗ trũng và hố nước khô để lại.
+
+Phía lối vào có một bức tường chắn ngang, diện tích tuy lớn nhưng vẫn chưa thể sánh bằng với EL Thành thành. Ở giữa bức tường, có 1 cánh cổng sắt lớn với cửa là một tấm sắt dày đóng sập xuống, bề ngang đủ lớn để cho 2 chiếc xe chở hàng của Đình Tấn ra vào cùng lúc. 
+
+Ở trên bức tường ngay cổng vào có 2 người lính mặc áo giáp quân đội đứng canh giữ. Bọn họ trông thấy chiếc xe chở hàng của Đình Tấn liền nhanh chóng đi ra ngoài ngăn lại:
+
+- Xin chào, xin cho chúng ta được kiểm tra xe hàng của ngươi.
+
+Nói xong người quân nhân kia nghiêm chào một cái chờ đợi Đình Tấn phản hồi. Đình Tấn lúc này đang đứng trên bục điều khiển, hắn lập tức cho xe ngừng lại. Sau đó xuống xe đi tới trước mặt người quân nhân, nghiêm người chào lại rồi nói.
+
+- Ta theo chỉ thị của Thành Chủ Albert cùng Trung Úy Ammite tới đây để tiếp tế. Xin cho phép ta được gặp Tướng Mark.
+
+Người quân nhân kia tiến lên mở ra thử một thùng chứa đồ trên xe, sau đó hắn gương mặt kinh hỉ vội vàng quay lại cúi chào với Đình Tấn:
+
+- Xin ngài chờ trong chốc lát!
+
+Nhìn thấy Đình Tấn gật đầu, hắn nhanh chóng quay người chạy vào bên trong. Một lúc sau một vị trung niên dáng người cao to, gương mặt góc cạnh. Khóe miệng lúc này không ngừng mỉm cười lên vì vui vẻ.
+
+- Xin chào, ta là Mark. Xin hỏi chỉ một mình ngươi vận chuyển tiếp tế đến sao?
+
+Đình Tấn hướng về tướng Mark nghiêm chào. Giọng nói bình tĩnh:
+
+- Ta thuộc đội Lính Đánh Thuê [The Alliance]. Đội chúng ta 4 người đã hi sinh mất 3 người, chỉ còn lại một mình ta đến được đây.
+
+Tướng Mark gật đầu, sau đó xoay người sang kiểm tra các thùng tiếp tế. Gương mặt hắn lúc này tràn đầy kinh hỉ. Sau khi kiểm tra xong hắn lại như an ủi mà nói với Đình Tấn:
+
+- Rất cám ơn ngươi và các đồng đội khác đã hi sinh thân mình để mang tiếp tế đến đây. Chúng ta sẽ báo cáo lại với Thành Chủ Albert để trọng thưởng ngươi.
+
+Keng! - Chúc mừng ngươi và đồng đội đã hoàn thành nhiệm vụ “Vận chuyển tiếp tế”, xin mời trở về gặp Thành Chủ Albert để nhận thưởng. Hệ thống vận chuyển tiếp tế và doanh trại trú đóng khu vực dã ngoại cho người chơi mở ra.
+
+Keng! - Chúc mừng đội Lính Đánh Thuê [The Alliance] thành công vận chuyển tiếp tế lần đầu tiên. Hệ thống thưởng cho 75.000 điểm Lính Đánh Thuê, một khu doanh trại tư nhân. Hệ thống xin thông báo đến toàn thế giới.
+
+Thông báo thế giới: Chúc mừng đội Lính Đánh Thuê FbnczoGz [The Alliance] đã thành công vận chuyển tiếp tế cho doanh trại dã ngoại. Hệ thống vận chuyển tiếp tế và doanh trại trú đóng dã ngoại mở ra hoang nghênh người chơi tham gia.
+
+Liên tục sau 3 lần thông báo đến từ hệ thống, người chơi từ khắp thế giới cũng nổi loạn. Vì cái tên [The Alliance] này chính lại đại diện cho chính nghĩa và thực lực cường đại trong lòng người chơi không có bang hội. 
+
+Người chơi bây giờ lý luận rất đơn giản. Ngươi lấy yếu chống mạnh, giúp đỡ người yếu, tiêu diệt đi kẻ xấu. Vậy thì ngươi chính là anh hùng, bọn ta sẽ ủng hộ và hâm mộ ngươi. Có thể đây là vì ảnh hưởng đến từ phim ảnh quá nhiều đi.
+
+Chờ tiếng hệ thống vang lên xong, tướng Mark ra hiệu cho 2 tên quân nhân tiếp nhận xe chở hàng. Sau đó lại tiếp tục nói với Đình Tấn. 
+
+- Ngươi chắc cũng đã mệt mỏi, theo ta vào doanh trại đi. Sẵn tiện giới thiệu cho ngươi một chút tình hình bên trong để ngươi không phải bỡ ngỡ sau này.
+
+Đình Tấn lúc này vừa ngạc nhiên về thông báo thưởng cho từ hệ thống, lại thêm Tướng Mark muốn làm hướng dẫn viên cho hắn. Đình Tấn không nghĩ ngợi nhiều gật đầu theo sau Tướng Mark.
+
+Tiến vào bên trong, Đình Tấn mới để ý. Bức tường bên ngoài được dựng lên cao khoảng 8m. Độ dày cũng xấp xỉ 2m, có thể chống đỡ được va đập từ những con quái thú có thể hình lớn.
+
+Nhìn xung quanh Đình Tấn ước tính doanh trại này diện tích khoảng hơn 10km vuông. Bên trong là một khoảng trống trải, với nhiều túp lều san sát nhau chừa ra một con đường lớn. Các túp lều trại kích cỡ cũng khác nhau, có lớn có nhỏ khung bằng thép và sợi thủy tinh. 
+
+Bên ngoài bao trùm bằng vải dù, có thể tránh gió tránh mưa cực tốt. Chúng đều được dựng thành một hình tam giác, nếu kích cỡ lớn hơn một chút thì dựng thêm hai bức tường chống đỡ hai bên.
+
+Bên trong túp lều nhỏ thì chỉ lót một hoặc hai túi ngủ tùy kích cỡ túp lều. Còn lều lớn thì có thêm vài chiếc giường xếp vải có gối và chăn xếp sẵn. Vừa đi, Tướng Mark vừa chậm rãi giải thích:
+
+- Bên ngoài kia quái vật càng ngày càng đông chúng ta hiện tại có chút chống đỡ không nổi. Doanh trại quân đội hiện tại rất cần những người có thực lực mạnh mẽ như ngươi. 
+
+Ngừng một chút, Tướng Mark tiếp tục chăm chú nói:
+
+- Ngươi lần này vận chuyển tiếp tế đến có thể nói rất là đúng lúc. Chúng ta đạn dược đã không còn mấy. Thức ăn cũng chỉ đủ cầm cự trong vài ngày nữa. Ta tại đây đại diện cho quân khu Nam hướng về đội Lính Đánh Thuê [The Alliance] của ngươi chân thành cảm tạ.
+
+Nói xong Tướng Mark nghiêm người chào một cái làm Đình Tấn cũng không chịu được phải nghiêm chào lại. Hắn là không bỏ được thói quen của mình trong quân đội trước kia.

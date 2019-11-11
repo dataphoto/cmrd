@@ -1,0 +1,235 @@
+Đêm nay, hắn muốn thu thập dữ liệu cho Ba Đậu Đậu, bao gồm những loại câu giao tiếp, cách biểu đạt cảm xúc, cách nói chuyện, những kiến thức khác v.v…
+
+Một phần mềm trí tuệ nhân tạo thì cần phải có một lượng lớn thông tin và một giải thuật tìm kiếm. Giải thuật tìm kiếm càng tốt thì tốc độ vận hành của Ba Đậu Đậu sẽ càng nhanh hơn, chỉ cần đặt ra câu hỏi thì nó sẽ lập tức có thể trả lời lại ngay.
+
+Và thời gian chậm trễ càng thấp thì mức độ cảm giác chân thực của Ba Đậu Đậu đối với người dùng sẽ càng được nâng cao hơn.
+
+Mặt khác, một lượng lớn dữ liệu và thông tin chính là để Ba Đậu Đậu có thể tìm kiếm ra câu trả lời thích hợp nhất nhằm đáp lại mệnh lệnh của người sử dụng.
+
+Số lượng thông tin này là một con số rất là khổng lồ, không phải chỉ cần vài bộ máy chủ lưu trữ thì liền có thể lưu lại được hết dữ liệu cần thiết. 
+
+Bởi vì con người ta một ngày giao tiếp biết bao nhiêu là câu nói, mà muốn lưu lại hết những câu nói đó với ngữ điệu và cách dùng trong nhiều tình huống khác nhau thì dĩ nhiên là không thể ít hơn con số hàng tỉ tỉ terabyte rồi.
+
+Đó vẫn là FHYHvgtV chưa kể đến việc, trên thế giới có nhiều loại ngôn ngữ khác nhau và mỗi ngôn ngữ lại có cách thức giao tiếp, không nơi nào giống nơi nào cả.
+
+Mà thời gian và khả năng cần thiết để thu thập những thông tin đó cũng là cả một vấn đề, bởi vì những một số thông tin đó sẽ có thể dính líu đến những thông tin cá nhân và riêng tư của người dùng. 
+
+Giống như khi mọi người sử dụng điện thoại hay máy tính thường sẽ có một mục nhà phát triển gọi là ‘Dữ liệu cải tiến’, ‘Giúp nhà phát triển cải tiến sản phẩm’ v.v… 
+
+Đó chính là cách mà những công ty công nghệ lớn như Alpha Bet, Apple, Microsoft, IBM… thu thập những luồng thông tin để phát triển cho phần mềm trí tuệ nhân tạo của bọn họ.
+
+Hiện tại, Ba Đậu Đậu cũng chỉ mới là hình thái sơ khai của nó mà thôi. Giải thuật tìm kiếm thì Đình Tấn đã có sẵn rồi và dĩ nhiên là không phải do hắn sáng tạo ra, mà chỉ là một sản phẩm của những nhà khoa học trong tương lai tận thế mà thôi.
+
+Đây là một loại giải thuật được nghiên cứu và phát triển dựa trên những tài liệu thu được từ đám quái vật ngoại không gian xâm lấn, kết hợp cùng với những kỹ thuật có sẵn trên trái đất mà tạo thành.
+
+Nó bao hàm rất nhiều loại thuật toán như thuật toán mạng neuron, logic suy luận, tính toán tiến hóa hay các loại thuật toán tìm kiếm v.v… 
+
+Thế nên, nếu đem so sánh tốc độ hoạt động của nó với những loại giải thuật cao cấp nhất ở thời điểm hiện tại, khi hoạt động trên cùng một bộ máy chủ và một cơ sở dữ liệu, thì chắc chắn giải thuật của Đình Tấn sử dụng có thể vượt trội hơn vài mili giây.
+
+Đừng xem thường số lượng vài mili giây này. Phải biết hàng trăm nghìn nhà khoa học hợp sức cũng đã mất hơn 10 năm mới có thể cải thiện được con số vài mili giây, bấy nhiêu đó thôi thì đã đủ biết nó là nhiều như thế nào.
+
+Còn lại phần thông tin, Đình Tấn trọng sinh trở về chỉ mang theo linh hồn và ký ức của hắn mà thôi. Làm sao hắn có thể mang về cả một bộ máy chủ lưu trữ những thông tin dữ liệu của phần mềm trí tuệ nhân tạo trong tương lai được chứ.
+
+Chính vì thế mà hiện tại, hắn phải tìm cách để giải quyết vấn đề thiếu thốn nguồn thông tin trầm trọng của Ba Đậu Đậu. 
+
+Và cách giải quyết mà hắn đưa ra ngay lúc này chính là ‘Hack!’.
+
+Đúng vậy! Hắn sẽ tấn công vào máy chủ của những công ty công nghệ lớn như Apple, Microsoft, Alpha Bet, IBM, Tencent, Samsung Electronics, BKAV v.v… có sản xuất phần mềm trí tuệ nhân tạo như hắn để lấy thông tin.
+
+Điều này tuy rằng rất nguy hiểm vì khi bị phát hiện thì hắn sẽ phải đối mặt với sự truy nã của toàn án quốc tế. Thế nhưng Đình Tấn vẫn có thể tự tin hoàn thành mà không để lại dấu vết nào. Dù gì đi nữa thì kiến thức học được trong tương lai tận thế của hắn cũng không phải chỉ là để trưng bày đó cho vui.
+
+Thế nhưng mà vẫn sẽ còn có một nguy cơ tiềm ẩn khác, khi đưa phần mềm ra ngoài cho người sử dụng dùng thử, có khả năng Ba Đậu Đậu sẽ bị người khác phát hiện ra nó đang sử dụng dữ liệu bị đánh cắp từ những công ty lớn.
+
+Cho nên, ngoài việc ‘Hack’ vào máy chủ của những công ty lớn để trộm dữ liệu, Đình Tấn còn phải dự trù ra một phương án B để phòng cho tình huống phát sinh. Bất quá, hắn sẽ giao chuyện đó lại cho người khác làm.
+
+Ngồi trên giường, đôi bàn tay của Đình Tấn lướt đi như đang nhảy múa trên bàn phím ảo trước mặt. Ánh mắt hắn thì vẫn chăm chú nhìn về màn hình hệ thống giả lập máy tính ở trước mặt, với những dòng số liệu chằng chịt, rắc rối không hề thua kém với ký hiệu triệu hồi ma pháp kỹ năng chút nào.
+
+Hơn 11 giờ tối ở thế giới hiện thực, tại trụ sở chính của công ty Viv, tọa lạc tại thành phố San Jose, tiểu bang California nước Mỹ…
+
+Trong một căn phòng chất đầy những bộ máy lưu trữ thông tin bằng công nghệ máy tính lượng tử cao cấp nhất ở thời điểm hiện tại, một nhóm 30 - 40 người với nhiều độ tuổi và giới tính khác nhau đang ngồi trước màn hình thủy tinh của máy tính, chăm chú quan sát những số liệu của hệ thống đang hiện lên bên trên đó.
+
+Nhóm người này chính là nhân viên kỹ thuật cao cấp phụ trách phát triển phần mềm trí tuệ nhân tạo Viv của công ty Samsung Electronics thuộc nước Hàn Quốc.
+
+Gương mặt của bọn họ hiện tại đều đồng dạng là một mảnh căng thẳng thấy rõ. Không ai dám lên tiếng, chỉ có chăm chú quan sát dữ liệu hệ thống, đồng thời thoăn thoắt giơ tay chạm vào màn hình thủy tinh hay bàn phím ảo để đưa ra điều chỉnh gì đó cho hệ thống.
+
+- “Thế nào rồi? Có nhận ra điều gì lạ thường không Whale?”
+
+Một người đàn ông có mái tóc đã chuyển bạc đi gần hết, dường như là người đứng đầu trong nhóm người ở đây. Hắn cẩn thận xem xét bảng số liệu có kích cỡ lớn nhất một chút rồi mới lên tiếng hỏi thăm một người cấp dưới của mình, kẻ đang ngồi điều chỉnh trước tấm màn hình lớn đó.
+
+- “Không có phát hiện bất cứ sự xâm nhập nào thưa sếp. Nhưng mà làm sao dữ liệu lại cứ tràn ra bên ngoài một cách quá bất thường vô lý như vậy được kia chứ?! Đây rõ ràng là dấu hiệu có người đang ăn cắp truyền tải đi thông tin mà.”
+
+Người đàn ông kỹ thuật viên tên gọi là Whale này có chút khó hiểu mà trả lời lại. Chính hắn là người phát hiện ra điều bất thường đang diễn ra với hệ thống lưu trữ dữ liệu của phần mềm trí tuệ nhân tạo Viv.
+
+Hơn nửa giờ trước đó, sự việc dữ liệu bị tràn đi ra ngoài lớn hơn gấp năm, sáu lần so với lúc bình thường làm hắn không kìm chế được kinh ngạc rồi. Dự đoán điều này chính là do có người động tay động chân, thế nên hắn đã gọi toàn bộ những người trong đội quản trị hệ thống đến đây để kiểm tra.
+
+Với sự hợp sức của cả một nhóm hơn 30 người, vậy mà vẫn không hề có phát hiện ra điều gì bất thường. Mọi chuyện cứ diễn ra giống như là những người sử dụng hệ thống mạng lưới điện tử của công ty Samsung đang đồng loạt gửi tín hiệu tới máy chủ nhiều hơn lúc bình thường gấp mấy lần thôi vậy.
+
+Bọn họ chỉ có thể trơ mắt nhìn những dòng dữ liệu của máy chủ bị "chảy" bên ngoài mà không thể ngắt hay dừng lại máy chủ được. 
+
+Bởi vì tất cả những yêu cầu truy xuất dữ liệu này đều là đến từ rất nhiều người dùng khác nhau ở khắp nơi trên thế giới và tất cả đều có thật chứ không phải giả. 
+
+Nếu như bọn họ ngắt kết nối hay tắt đi máy chủ thì có thể sẽ làm ảnh hưởng đến người dùng rất nhiều, thậm chí là ảnh hưởng đến danh tiếng, chất lượng và hình tượng của công ty đã gầy dựng qua nhiều năm. Đây chính là điều tối kị trong phương thức kinh doanh của công ty bọn họ.
+
+Sự việc như vậy cũng xuất hiện liên tục ở những nơi như trụ sở điều hành và phát triển Cortana của Microsoft, hay trụ sở Gono của Google, cả IBM Watson và nhiều nơi khác nữa… cũng đồng thời nằm trong nhóm này.
+
+Những nhân viên túc trực và quản lý hệ thống cũng giống như tên kỹ thuật viên Whale kia. Tuy rằng đã sớm phát hiện ra điều bất thường, thế nhưng vẫn không tìm ra bất cứ manh mối nào từ sự truy cập dữ liệu này.
+
+Và không biết là ai truyền ra tin tức trụ sở lưu trữ dữ liệu của những công ty lớn này bị đánh cắp. Một số người trong giới mạng lưới ngầm đã bắt đầu lan truyền tin tức này ở khắp nơi, đồng thời bọn họ cũng rất tò mò không biết là ai làm nên chuyện này.
+
+Thế nên một làn sóng truy tìm nhân vật bí ẩn được mệnh danh là ‘Cái Bóng’ (The Shadow) nhanh chóng lan truyền như lũ quét trong giới hacker.Đêm nay, hắn muốn thu thập dữ liệu cho Ba Đậu Đậu, bao gồm những loại câu giao tiếp, cách biểu đạt cảm xúc, cách nói chuyện, những kiến thức khác v.v…
+
+Một phần mềm trí tuệ nhân tạo thì cần phải có một lượng lớn thông tin và một giải thuật tìm kiếm. Giải thuật tìm kiếm càng tốt thì tốc độ vận hành của Ba Đậu Đậu sẽ càng nhanh hơn, chỉ cần đặt ra câu hỏi thì nó sẽ lập tức có thể trả lời lại ngay.
+
+Và thời gian chậm trễ càng thấp thì mức độ cảm giác chân thực của Ba Đậu Đậu đối với người dùng sẽ càng được nâng cao hơn.
+
+Mặt khác, một lượng lớn dữ liệu và thông tin chính là để Ba Đậu Đậu có thể tìm kiếm ra câu trả lời thích hợp nhất nhằm đáp lại mệnh lệnh của người sử dụng.
+
+Số lượng thông tin này là một con số rất là khổng lồ, không phải chỉ cần vài bộ máy chủ lưu trữ thì liền có thể lưu lại được hết dữ liệu cần thiết. 
+
+Bởi vì con người ta một ngày giao tiếp biết bao nhiêu là câu nói, mà muốn lưu lại hết những câu nói đó với ngữ điệu và cách dùng trong nhiều tình huống khác nhau thì dĩ nhiên là không thể ít hơn con số hàng tỉ tỉ terabyte rồi.
+
+Đó vẫn là FHYHvgtV chưa kể đến việc, trên thế giới có nhiều loại ngôn ngữ khác nhau và mỗi ngôn ngữ lại có cách thức giao tiếp, không nơi nào giống nơi nào cả.
+
+Mà thời gian và khả năng cần thiết để thu thập những thông tin đó cũng là cả một vấn đề, bởi vì những một số thông tin đó sẽ có thể dính líu đến những thông tin cá nhân và riêng tư của người dùng. 
+
+Giống như khi mọi người sử dụng điện thoại hay máy tính thường sẽ có một mục nhà phát triển gọi là ‘Dữ liệu cải tiến’, ‘Giúp nhà phát triển cải tiến sản phẩm’ v.v… 
+
+Đó chính là cách mà những công ty công nghệ lớn như Alpha Bet, Apple, Microsoft, IBM… thu thập những luồng thông tin để phát triển cho phần mềm trí tuệ nhân tạo của bọn họ.
+
+Hiện tại, Ba Đậu Đậu cũng chỉ mới là hình thái sơ khai của nó mà thôi. Giải thuật tìm kiếm thì Đình Tấn đã có sẵn rồi và dĩ nhiên là không phải do hắn sáng tạo ra, mà chỉ là một sản phẩm của những nhà khoa học trong tương lai tận thế mà thôi.
+
+Đây là một loại giải thuật được nghiên cứu và phát triển dựa trên những tài liệu thu được từ đám quái vật ngoại không gian xâm lấn, kết hợp cùng với những kỹ thuật có sẵn trên trái đất mà tạo thành.
+
+Nó bao hàm rất nhiều loại thuật toán như thuật toán mạng neuron, logic suy luận, tính toán tiến hóa hay các loại thuật toán tìm kiếm v.v… 
+
+Thế nên, nếu đem so sánh tốc độ hoạt động của nó với những loại giải thuật cao cấp nhất ở thời điểm hiện tại, khi hoạt động trên cùng một bộ máy chủ và một cơ sở dữ liệu, thì chắc chắn giải thuật của Đình Tấn sử dụng có thể vượt trội hơn vài mili giây.
+
+Đừng xem thường số lượng vài mili giây này. Phải biết hàng trăm nghìn nhà khoa học hợp sức cũng đã mất hơn 10 năm mới có thể cải thiện được con số vài mili giây, bấy nhiêu đó thôi thì đã đủ biết nó là nhiều như thế nào.
+
+Còn lại phần thông tin, Đình Tấn trọng sinh trở về chỉ mang theo linh hồn và ký ức của hắn mà thôi. Làm sao hắn có thể mang về cả một bộ máy chủ lưu trữ những thông tin dữ liệu của phần mềm trí tuệ nhân tạo trong tương lai được chứ.
+
+Chính vì thế mà hiện tại, hắn phải tìm cách để giải quyết vấn đề thiếu thốn nguồn thông tin trầm trọng của Ba Đậu Đậu. 
+
+Và cách giải quyết mà hắn đưa ra ngay lúc này chính là ‘Hack!’.
+
+Đúng vậy! Hắn sẽ tấn công vào máy chủ của những công ty công nghệ lớn như Apple, Microsoft, Alpha Bet, IBM, Tencent, Samsung Electronics, BKAV v.v… có sản xuất phần mềm trí tuệ nhân tạo như hắn để lấy thông tin.
+
+Điều này tuy rằng rất nguy hiểm vì khi bị phát hiện thì hắn sẽ phải đối mặt với sự truy nã của toàn án quốc tế. Thế nhưng Đình Tấn vẫn có thể tự tin hoàn thành mà không để lại dấu vết nào. Dù gì đi nữa thì kiến thức học được trong tương lai tận thế của hắn cũng không phải chỉ là để trưng bày đó cho vui.
+
+Thế nhưng mà vẫn sẽ còn có một nguy cơ tiềm ẩn khác, khi đưa phần mềm ra ngoài cho người sử dụng dùng thử, có khả năng Ba Đậu Đậu sẽ bị người khác phát hiện ra nó đang sử dụng dữ liệu bị đánh cắp từ những công ty lớn.
+
+Cho nên, ngoài việc ‘Hack’ vào máy chủ của những công ty lớn để trộm dữ liệu, Đình Tấn còn phải dự trù ra một phương án B để phòng cho tình huống phát sinh. Bất quá, hắn sẽ giao chuyện đó lại cho người khác làm.
+
+Ngồi trên giường, đôi bàn tay của Đình Tấn lướt đi như đang nhảy múa trên bàn phím ảo trước mặt. Ánh mắt hắn thì vẫn chăm chú nhìn về màn hình hệ thống giả lập máy tính ở trước mặt, với những dòng số liệu chằng chịt, rắc rối không hề thua kém với ký hiệu triệu hồi ma pháp kỹ năng chút nào.
+
+Hơn 11 giờ tối ở thế giới hiện thực, tại trụ sở chính của công ty Viv, tọa lạc tại thành phố San Jose, tiểu bang California nước Mỹ…
+
+Trong một căn phòng chất đầy những bộ máy lưu trữ thông tin bằng công nghệ máy tính lượng tử cao cấp nhất ở thời điểm hiện tại, một nhóm 30 - 40 người với nhiều độ tuổi và giới tính khác nhau đang ngồi trước màn hình thủy tinh của máy tính, chăm chú quan sát những số liệu của hệ thống đang hiện lên bên trên đó.
+
+Nhóm người này chính là nhân viên kỹ thuật cao cấp phụ trách phát triển phần mềm trí tuệ nhân tạo Viv của công ty Samsung Electronics thuộc nước Hàn Quốc.
+
+Gương mặt của bọn họ hiện tại đều đồng dạng là một mảnh căng thẳng thấy rõ. Không ai dám lên tiếng, chỉ có chăm chú quan sát dữ liệu hệ thống, đồng thời thoăn thoắt giơ tay chạm vào màn hình thủy tinh hay bàn phím ảo để đưa ra điều chỉnh gì đó cho hệ thống.
+
+- “Thế nào rồi? Có nhận ra điều gì lạ thường không Whale?”
+
+Một người đàn ông có mái tóc đã chuyển bạc đi gần hết, dường như là người đứng đầu trong nhóm người ở đây. Hắn cẩn thận xem xét bảng số liệu có kích cỡ lớn nhất một chút rồi mới lên tiếng hỏi thăm một người cấp dưới của mình, kẻ đang ngồi điều chỉnh trước tấm màn hình lớn đó.
+
+- “Không có phát hiện bất cứ sự xâm nhập nào thưa sếp. Nhưng mà làm sao dữ liệu lại cứ tràn ra bên ngoài một cách quá bất thường vô lý như vậy được kia chứ?! Đây rõ ràng là dấu hiệu có người đang ăn cắp truyền tải đi thông tin mà.”
+
+Người đàn ông kỹ thuật viên tên gọi là Whale này có chút khó hiểu mà trả lời lại. Chính hắn là người phát hiện ra điều bất thường đang diễn ra với hệ thống lưu trữ dữ liệu của phần mềm trí tuệ nhân tạo Viv.
+
+Hơn nửa giờ trước đó, sự việc dữ liệu bị tràn đi ra ngoài lớn hơn gấp năm, sáu lần so với lúc bình thường làm hắn không kìm chế được kinh ngạc rồi. Dự đoán điều này chính là do có người động tay động chân, thế nên hắn đã gọi toàn bộ những người trong đội quản trị hệ thống đến đây để kiểm tra.
+
+Với sự hợp sức của cả một nhóm hơn 30 người, vậy mà vẫn không hề có phát hiện ra điều gì bất thường. Mọi chuyện cứ diễn ra giống như là những người sử dụng hệ thống mạng lưới điện tử của công ty Samsung đang đồng loạt gửi tín hiệu tới máy chủ nhiều hơn lúc bình thường gấp mấy lần thôi vậy.
+
+Bọn họ chỉ có thể trơ mắt nhìn những dòng dữ liệu của máy chủ bị "chảy" bên ngoài mà không thể ngắt hay dừng lại máy chủ được. 
+
+Bởi vì tất cả những yêu cầu truy xuất dữ liệu này đều là đến từ rất nhiều người dùng khác nhau ở khắp nơi trên thế giới và tất cả đều có thật chứ không phải giả. 
+
+Nếu như bọn họ ngắt kết nối hay tắt đi máy chủ thì có thể sẽ làm ảnh hưởng đến người dùng rất nhiều, thậm chí là ảnh hưởng đến danh tiếng, chất lượng và hình tượng của công ty đã gầy dựng qua nhiều năm. Đây chính là điều tối kị trong phương thức kinh doanh của công ty bọn họ.
+
+Sự việc như vậy cũng xuất hiện liên tục ở những nơi như trụ sở điều hành và phát triển Cortana của Microsoft, hay trụ sở Gono của Google, cả IBM Watson và nhiều nơi khác nữa… cũng đồng thời nằm trong nhóm này.
+
+Những nhân viên túc trực và quản lý hệ thống cũng giống như tên kỹ thuật viên Whale kia. Tuy rằng đã sớm phát hiện ra điều bất thường, thế nhưng vẫn không tìm ra bất cứ manh mối nào từ sự truy cập dữ liệu này.
+
+Và không biết là ai truyền ra tin tức trụ sở lưu trữ dữ liệu của những công ty lớn này bị đánh cắp. Một số người trong giới mạng lưới ngầm đã bắt đầu lan truyền tin tức này ở khắp nơi, đồng thời bọn họ cũng rất tò mò không biết là ai làm nên chuyện này.
+
+Thế nên một làn sóng truy tìm nhân vật bí ẩn được mệnh danh là ‘Cái Bóng’ (The Shadow) nhanh chóng lan truyền như lũ quét trong giới hacker.Đêm nay, hắn muốn thu thập dữ liệu cho Ba Đậu Đậu, bao gồm những loại câu giao tiếp, cách biểu đạt cảm xúc, cách nói chuyện, những kiến thức khác v.v…
+
+Một phần mềm trí tuệ nhân tạo thì cần phải có một lượng lớn thông tin và một giải thuật tìm kiếm. Giải thuật tìm kiếm càng tốt thì tốc độ vận hành của Ba Đậu Đậu sẽ càng nhanh hơn, chỉ cần đặt ra câu hỏi thì nó sẽ lập tức có thể trả lời lại ngay.
+
+Và thời gian chậm trễ càng thấp thì mức độ cảm giác chân thực của Ba Đậu Đậu đối với người dùng sẽ càng được nâng cao hơn.
+
+Mặt khác, một lượng lớn dữ liệu và thông tin chính là để Ba Đậu Đậu có thể tìm kiếm ra câu trả lời thích hợp nhất nhằm đáp lại mệnh lệnh của người sử dụng.
+
+Số lượng thông tin này là một con số rất là khổng lồ, không phải chỉ cần vài bộ máy chủ lưu trữ thì liền có thể lưu lại được hết dữ liệu cần thiết. 
+
+Bởi vì con người ta một ngày giao tiếp biết bao nhiêu là câu nói, mà muốn lưu lại hết những câu nói đó với ngữ điệu và cách dùng trong nhiều tình huống khác nhau thì dĩ nhiên là không thể ít hơn con số hàng tỉ tỉ terabyte rồi.
+
+Đó vẫn là FHYHvgtV chưa kể đến việc, trên thế giới có nhiều loại ngôn ngữ khác nhau và mỗi ngôn ngữ lại có cách thức giao tiếp, không nơi nào giống nơi nào cả.
+
+Mà thời gian và khả năng cần thiết để thu thập những thông tin đó cũng là cả một vấn đề, bởi vì những một số thông tin đó sẽ có thể dính líu đến những thông tin cá nhân và riêng tư của người dùng. 
+
+Giống như khi mọi người sử dụng điện thoại hay máy tính thường sẽ có một mục nhà phát triển gọi là ‘Dữ liệu cải tiến’, ‘Giúp nhà phát triển cải tiến sản phẩm’ v.v… 
+
+Đó chính là cách mà những công ty công nghệ lớn như Alpha Bet, Apple, Microsoft, IBM… thu thập những luồng thông tin để phát triển cho phần mềm trí tuệ nhân tạo của bọn họ.
+
+Hiện tại, Ba Đậu Đậu cũng chỉ mới là hình thái sơ khai của nó mà thôi. Giải thuật tìm kiếm thì Đình Tấn đã có sẵn rồi và dĩ nhiên là không phải do hắn sáng tạo ra, mà chỉ là một sản phẩm của những nhà khoa học trong tương lai tận thế mà thôi.
+
+Đây là một loại giải thuật được nghiên cứu và phát triển dựa trên những tài liệu thu được từ đám quái vật ngoại không gian xâm lấn, kết hợp cùng với những kỹ thuật có sẵn trên trái đất mà tạo thành.
+
+Nó bao hàm rất nhiều loại thuật toán như thuật toán mạng neuron, logic suy luận, tính toán tiến hóa hay các loại thuật toán tìm kiếm v.v… 
+
+Thế nên, nếu đem so sánh tốc độ hoạt động của nó với những loại giải thuật cao cấp nhất ở thời điểm hiện tại, khi hoạt động trên cùng một bộ máy chủ và một cơ sở dữ liệu, thì chắc chắn giải thuật của Đình Tấn sử dụng có thể vượt trội hơn vài mili giây.
+
+Đừng xem thường số lượng vài mili giây này. Phải biết hàng trăm nghìn nhà khoa học hợp sức cũng đã mất hơn 10 năm mới có thể cải thiện được con số vài mili giây, bấy nhiêu đó thôi thì đã đủ biết nó là nhiều như thế nào.
+
+Còn lại phần thông tin, Đình Tấn trọng sinh trở về chỉ mang theo linh hồn và ký ức của hắn mà thôi. Làm sao hắn có thể mang về cả một bộ máy chủ lưu trữ những thông tin dữ liệu của phần mềm trí tuệ nhân tạo trong tương lai được chứ.
+
+Chính vì thế mà hiện tại, hắn phải tìm cách để giải quyết vấn đề thiếu thốn nguồn thông tin trầm trọng của Ba Đậu Đậu. 
+
+Và cách giải quyết mà hắn đưa ra ngay lúc này chính là ‘Hack!’.
+
+Đúng vậy! Hắn sẽ tấn công vào máy chủ của những công ty công nghệ lớn như Apple, Microsoft, Alpha Bet, IBM, Tencent, Samsung Electronics, BKAV v.v… có sản xuất phần mềm trí tuệ nhân tạo như hắn để lấy thông tin.
+
+Điều này tuy rằng rất nguy hiểm vì khi bị phát hiện thì hắn sẽ phải đối mặt với sự truy nã của toàn án quốc tế. Thế nhưng Đình Tấn vẫn có thể tự tin hoàn thành mà không để lại dấu vết nào. Dù gì đi nữa thì kiến thức học được trong tương lai tận thế của hắn cũng không phải chỉ là để trưng bày đó cho vui.
+
+Thế nhưng mà vẫn sẽ còn có một nguy cơ tiềm ẩn khác, khi đưa phần mềm ra ngoài cho người sử dụng dùng thử, có khả năng Ba Đậu Đậu sẽ bị người khác phát hiện ra nó đang sử dụng dữ liệu bị đánh cắp từ những công ty lớn.
+
+Cho nên, ngoài việc ‘Hack’ vào máy chủ của những công ty lớn để trộm dữ liệu, Đình Tấn còn phải dự trù ra một phương án B để phòng cho tình huống phát sinh. Bất quá, hắn sẽ giao chuyện đó lại cho người khác làm.
+
+Ngồi trên giường, đôi bàn tay của Đình Tấn lướt đi như đang nhảy múa trên bàn phím ảo trước mặt. Ánh mắt hắn thì vẫn chăm chú nhìn về màn hình hệ thống giả lập máy tính ở trước mặt, với những dòng số liệu chằng chịt, rắc rối không hề thua kém với ký hiệu triệu hồi ma pháp kỹ năng chút nào.
+
+Hơn 11 giờ tối ở thế giới hiện thực, tại trụ sở chính của công ty Viv, tọa lạc tại thành phố San Jose, tiểu bang California nước Mỹ…
+
+Trong một căn phòng chất đầy những bộ máy lưu trữ thông tin bằng công nghệ máy tính lượng tử cao cấp nhất ở thời điểm hiện tại, một nhóm 30 - 40 người với nhiều độ tuổi và giới tính khác nhau đang ngồi trước màn hình thủy tinh của máy tính, chăm chú quan sát những số liệu của hệ thống đang hiện lên bên trên đó.
+
+Nhóm người này chính là nhân viên kỹ thuật cao cấp phụ trách phát triển phần mềm trí tuệ nhân tạo Viv của công ty Samsung Electronics thuộc nước Hàn Quốc.
+
+Gương mặt của bọn họ hiện tại đều đồng dạng là một mảnh căng thẳng thấy rõ. Không ai dám lên tiếng, chỉ có chăm chú quan sát dữ liệu hệ thống, đồng thời thoăn thoắt giơ tay chạm vào màn hình thủy tinh hay bàn phím ảo để đưa ra điều chỉnh gì đó cho hệ thống.
+
+- “Thế nào rồi? Có nhận ra điều gì lạ thường không Whale?”
+
+Một người đàn ông có mái tóc đã chuyển bạc đi gần hết, dường như là người đứng đầu trong nhóm người ở đây. Hắn cẩn thận xem xét bảng số liệu có kích cỡ lớn nhất một chút rồi mới lên tiếng hỏi thăm một người cấp dưới của mình, kẻ đang ngồi điều chỉnh trước tấm màn hình lớn đó.
+
+- “Không có phát hiện bất cứ sự xâm nhập nào thưa sếp. Nhưng mà làm sao dữ liệu lại cứ tràn ra bên ngoài một cách quá bất thường vô lý như vậy được kia chứ?! Đây rõ ràng là dấu hiệu có người đang ăn cắp truyền tải đi thông tin mà.”
+
+Người đàn ông kỹ thuật viên tên gọi là Whale này có chút khó hiểu mà trả lời lại. Chính hắn là người phát hiện ra điều bất thường đang diễn ra với hệ thống lưu trữ dữ liệu của phần mềm trí tuệ nhân tạo Viv.
+
+Hơn nửa giờ trước đó, sự việc dữ liệu bị tràn đi ra ngoài lớn hơn gấp năm, sáu lần so với lúc bình thường làm hắn không kìm chế được kinh ngạc rồi. Dự đoán điều này chính là do có người động tay động chân, thế nên hắn đã gọi toàn bộ những người trong đội quản trị hệ thống đến đây để kiểm tra.
+
+Với sự hợp sức của cả một nhóm hơn 30 người, vậy mà vẫn không hề có phát hiện ra điều gì bất thường. Mọi chuyện cứ diễn ra giống như là những người sử dụng hệ thống mạng lưới điện tử của công ty Samsung đang đồng loạt gửi tín hiệu tới máy chủ nhiều hơn lúc bình thường gấp mấy lần thôi vậy.
+
+Bọn họ chỉ có thể trơ mắt nhìn những dòng dữ liệu của máy chủ bị "chảy" bên ngoài mà không thể ngắt hay dừng lại máy chủ được. 
+
+Bởi vì tất cả những yêu cầu truy xuất dữ liệu này đều là đến từ rất nhiều người dùng khác nhau ở khắp nơi trên thế giới và tất cả đều có thật chứ không phải giả. 
+
+Nếu như bọn họ ngắt kết nối hay tắt đi máy chủ thì có thể sẽ làm ảnh hưởng đến người dùng rất nhiều, thậm chí là ảnh hưởng đến danh tiếng, chất lượng và hình tượng của công ty đã gầy dựng qua nhiều năm. Đây chính là điều tối kị trong phương thức kinh doanh của công ty bọn họ.
+
+Sự việc như vậy cũng xuất hiện liên tục ở những nơi như trụ sở điều hành và phát triển Cortana của Microsoft, hay trụ sở Gono của Google, cả IBM Watson và nhiều nơi khác nữa… cũng đồng thời nằm trong nhóm này.
+
+Những nhân viên túc trực và quản lý hệ thống cũng giống như tên kỹ thuật viên Whale kia. Tuy rằng đã sớm phát hiện ra điều bất thường, thế nhưng vẫn không tìm ra bất cứ manh mối nào từ sự truy cập dữ liệu này.
+
+Và không biết là ai truyền ra tin tức trụ sở lưu trữ dữ liệu của những công ty lớn này bị đánh cắp. Một số người trong giới mạng lưới ngầm đã bắt đầu lan truyền tin tức này ở khắp nơi, đồng thời bọn họ cũng rất tò mò không biết là ai làm nên chuyện này.
+
+Thế nên một làn sóng truy tìm nhân vật bí ẩn được mệnh danh là ‘Cái Bóng’ (The Shadow) nhanh chóng lan truyền như lũ quét trong giới hacker.

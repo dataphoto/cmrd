@@ -1,0 +1,487 @@
+[Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem]
+
+Yêu cầu: Thuộc tính tinh thần cơ bản phải trên 1000 điểm.
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 1000 MP (Kéo dài tiêu hao: Không)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 100 
+
+[Nguyên Tố Sát Thương] = [Tổng Năng Lượng Nguyên Tố]
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố] / 2
+
+Sát thương cơ bản = [Điểm tinh thần] * 2
+
+Phòng thủ cơ bản = [Điểm tinh thần] / 2
+
+Số lượng triệu hồi: [Điểm tinh thần] / 1500
+
+Lưu ý: Nguyên Tố của Golem được triệu hồi sẽ dựa trên loại Nguyên Tố mà người chơi đang sở hữu. Mỗi loại Nguyên Tố chỉ có thể triệu hồi ra một Golem duy nhất, với những kỹ năng riêng biệt của Nguyên Tố đó, đồng thời Golem sẽ không bị giới hạn khoảng cách với người triệu hồi.
+
+Kỹ năng đặc biệt kèm theo – [Dung Hợp] (Chủ Động): Người triệu hồi có thể chủ động dung hợp hai loại Nguyên Tố Golem lại với nhau để đạt được một Golem mới có sức mạnh cường đại hơn.
+
+-Điểm thuộc tính của Golem mới sau khi dung hợp sẽ tăng 150% thuộc tính (Tức gấp 2,5 lần) so với một Golem bình thường. Công kích của Golem mới sẽ kèm theo [Nguyên Tố Sát Thương] từ các loại nguyên tố mà chúng đã dung hợp.
+
+…
+
+-“Đây…” Trái tim Đình Tấn thoáng chốc ngừng lại một nhịp, hai mắt chăm chú nhìn thông số kỹ năng không rời.
+
+Trong lúc này, hắn dường như không biết nên nói về vận may của mình. Có thể là do nữ thần may mắn luôn đứng về phía hắn, cứ đúng ngay tại thời điểm cần thiết nhất, nàng lại xuất hiện cứu vớt hắn.
+
+Nhìn thông tin, Đình Tấn cũng biết đây là một kỹ năng đặc biệt dành riêng cho các nghề nghiệp chủ tu thuộc tính tinh thần như Pháp Sư, Thẩm Giám, Linh Mục hoặc Triệu Hồi Sư. 
+
+Mà bản thân hắn, Vong Linh Ma Đạo Sư lại càng là một nghề nghiệp yêu cầu thuộc tính tinh thần rất cao, và phải dựa vào quái vật triệu hồi để chiến đấu thì không thể nào càng thích hợp hợp hơn với kỹ năng này.
+
+Đang lúc định bấm học tập kỹ năng, Đình Tấn bất ngờ khựng lại giữa chừng.
+
+-‘Sách kỹ năng có nội dung rõ ràng ở bên trong, nói rõ nó có thể tự chủ học tập. Nếu vậy…’ Đình Tấn nghĩ thầm trong bụng, một ý tưởng chợt lóe lên trong đầu hắn.
+
+-“Ba Đậu Đậu gọi cho Long đến gặp ta ngoài cổng cứ điểm ngay lập tức.”
+
+Nói liền làm, Đình Tấn tức thì chuyển hướng tăng nhanh cước bộ hướng về cổng ra vào của cứ điểm.
+
+Long dường như cũng đang làm việc trong cứ điểm, chỉ huy đội viên phụ giúp xây dựng căn cứ theo thường lệ, thế nên ngay khi nhận được tin tức của Đình Tấn, hắn không mất quá nhiều thời gian đã đến nơi trước tiên.
+
+-“Hội Trưởng, cần tìm ta có chuyện?” Thấy bóng dáng Đình Tấn chậm rãi đi tới, Long tiến đến đón đầu cất giọng hỏi.
+
+-“Đúng là có chút thứ tốt muốn chia sẻ cùng ngươi. Theo ta ra ngoài thôi, ở nơi này không tiện.” Đình Tấn gật đầu cười nhạt đáp.
+
+Đang trong khi nói, hắn liếc mắt nhìn dòng người tấp nập xung quanh một vòng, sau đó âm thầm lắc nhẹ đầu rồi cất bước đi thẳng ra khu vực rừng rậm bên ngoài cứ điểm.
+
+Long có chút ngờ vực không rõ nguyên do, bất quá hắn cũng không có hỏi lại mà lựa chọn im lặng đi theo sau Đình Tấn.
+
+Hai người nối bước nhau đi đến khu rừng cách cứ điểm vài cây số, với khoảng cách này, quá vật đã không còn nhiều nữa, thỉnh thoảng mới lại xuất hiện một vài con Trâu Mộc Độc vừa được hệ thống tái sinh. Người chơi ở đây thì lại càng ít, hầu như không có ai đến khu vực này đến luyện cấp cả. 
+
+Đình Tấn hài lòng gật đầu dừng lại bước chân, hướng về Long hỏi.
+
+-“Ngươi có muốn học triệu hồi vong linh không?”
+
+-“Triệu hồi vong linh?” Long ngạc nhiên, giọng tràn ngập khó tin hỏi lại.
+
+-“Ừm, ta nghĩ với thuộc tính tinh thần hiện tại của ngươi, tuy không thể triệu hồi về số lượng được nhiều như ta nhưng ít nhất sẽ bù đắp lại thiếu sót về khoảng không có khả năng gây ra sát thương của ngươi.” Thầm gật đầu một cái, Đình Tấn không nhanh không chậm nói ra dự tính của mình. 
+
+Bản thân Đình Tấn không phải là một con người ích kỷ. Hắn thật không ngại chia sẻ một chút gì đó, trong bộ bí kíp vong linh pháp thuật của mình cho Long.
+
+Vả lại, nếu tính toán kỹ lưỡng thì Đình Tấn cũng chỉ mới học được phần da lông bên ngoài của quyển bí kíp này mà thôi. Sơ bộ trong quyển bí kíp có ba tầng, bao gồm Ma Pháp Sư, Ma Đạo Sư và Pháp Thần.
+
+Mà hiện giờ, hắn chỉ mới cất bước lên bậc thềm đầu tiên của tầng thứ hai. Vẫn còn có rất nhiều thứ hắn cần phải tìm hiểu và tu luyện thêm.
+
+Chính vì thế cho nên dạy cho Long những phép triệu hồi vong linh cơ bản này cũng không phải là một vấn đề gì to tát.
+
+Ngoài ra, coi như học được kỹ năng triệu hồi vong linh, Long cũng phải cần đến một lượng vật phẩm cao cấp rất lớn thì hắn mới có thể đứng ngang bằng thực lực với Đình Tấn.
+
+Đúng! Chỉ có thể ngang bằng chứ không thể nào vượt qua, bởi ngoài vật phẩm trang bị tốt ra, nghề nghiệp Vong Linh Ma Đạo Sư còn đã cung cấp cho Đình Tấn một kỹ năng phụ đặc biệt độc nhất của nó, chính là hiến tế HP để sử dụng kỹ năng.
+
+Chỉ với kỹ năng này, Đình Tấn mới có thể triệu hồi được nhiều vong linh cùng một lúc như thế. Còn lại các nghề nghiệp khác, chỉ có thể dựa vào thuốc hoặc trang bị để cố gắng chèo chống mà thôi, làm sao có thể sánh được.
+
+Không lập tức trả lời Đình Tấn vội, Long rơi vào một khoảng trầm mặt, cúi đầu suy tư.
+
+Nhìn dáng vẻ đắng đo khó quyết của đối phương, Đình Tấn giống như đã nhớ đến cái gì đó. Bất quá, hắn không có lên tiếng cố gắng thuyết phục đối phương, mà chỉ lẳng lặng chờ đợi câu trả lời từ Long.
+
+Cuối cùng, sau một lúc lâu suy nghĩ, Long khó khăn lắc đầu, cười khổ nói. 
+
+-“Xin lỗi Hội Trưởng…”
+
+Ngừng lại một chút, Long cố gắng sắp xếp lại từ ngữ, rồi tiếp tục giải thích nguyên do với thần sắc đầy hồi ức.
+
+-“Ta được nuôi dưỡng và lớn lên dưới sự bảo bọc của hội thánh. Từ nhỏ đến lớn, ta luôn tin tưởng vào sức mạnh của sinh mệnh, luôn tin vào ánh sáng sẽ chiến thắng được bóng tối. [Địa Ngục Môn] hay nói đúng hơn là Paal thì ta còn có thể chịu đựng được, ít nhất nó chỉ mượn dùng sức mạnh của quỷ dữ trong một thời gian có hạn định. Nhưng vong linh thì khác, một khi sử dụng chúng, ta xem như đã vĩnh viễn tiến thân vào bóng tối rồi.”
+
+Đột nhiên quay đầu nhìn sang Đình Tấn, Long cười khổ tiếp tục.
+
+-“Chắc Hội Trưởng ngươi đang nghĩ là, ta rất lập dị đúng không? Sức mạnh của mình mà lại còn đi phân biệt thiện ác? Thật sự, mỗi người đều có một cách nghĩ riêng, tùy vào môi trường sống, tùy vào tính cách và nguyên tắc của họ. Ta cũng vậy, dù rằng rất ham muốn sở hữu một lực lượng cường đại, thậm chí có thể vượt qua cả quỷ dữ để chống lại chúng. Thế nhưng ta vẫn có một số giới hạn cuối cùng phải giữ lại.”
+
+-“Ừm, ta hiểu. Nếu vậy thì thôi, không nhắc đến chuyện này nữa, chúng ta vẫn còn một phương thức khác.” Đợi Long nói xong, Đình Tấn chỉ nhẹ gật đầu bình thản đáp lời.
+
+Không có kinh ngạc, không có nghi ngờ hay thậm chí khó hiểu về việc một người nào đó lại có thể từ chối học tập những kỹ năng, thứ đã làm nên tên tuổi của một người được công nhận là đệ nhất cường giả trong Anh Hùng.
+
+Trông thấy Đình Tấn có biểu hiện lạnh nhạt như thế, Long cũng nhẹ lòng thở ra một hơi.
+
+Dẫu biết rằng Đình Tấn có ý tốt muốn chia sẻ với mình, nhưng mà hắn thật sự không thể nhịn được mặc cảm và sợ hãi khi nghĩ tới thời điểm, bản thân mình sẽ bị sa đọa vào bóng tối, bị cám dỗ của sức mạnh hắc ám ấy mang lại.
+
+-“Đây xem đi.” Đang lúc ngẩn ngơ ấy, Long bỗng nhiên nghe được giọng nói của Đình Tấn.
+
+Vô thức ngẩng đầu lên, còn chưa kịp để hắn phản ứng thì đã trông thấy đối phương ném một vật gì đó về phía mình. Long theo phản xạ giơ tay ra đón lấy, rồi tò mò mở ra xem thông tin của món đồ vật này.
+
+[Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem]
+
+…
+
+-“Hội... cái này… cho ta?” Sau một phút dò xét thông tin, Long há hốc mồm hỏi lại, nội tâm tràn ngập kinh hãi, hai tay nắm chặt lấy quyển sách kỹ năng, phảng phất sợ Đình Tấn sẽ đổi ý thu về.
+
+-“Cho ngươi xem, không phải bảo ngươi sử dụng.” Đình Tấn cười cười hiểu ý, lắc lắc đầu nói. 
+
+Đúng là Đình Tấn không có ý định cho Long sử dụng quyển sách này, bởi lẽ nội dung bên trong quá nhiều. Bản thân hắn thì không thành vấn đề, nhưng sợ rằng Long thì sẽ cần phải tốn không ít thời gian mới có thể học thuộc.
+
+Một khi đã sử dụng, quyển sách sẽ biến mất, chưa kịp sao chép lại một bản dự phòng, Đình Tấn làm sao có thể vô tư cung cấp cho Long sử dụng được.
+
+Long nghe thế thì quả thật có chút thất vọng, tuy nhiên rất nhanh, cảm giác đó đã bị hắn vứt ra sau đầu.
+
+‘Ai thì hắn không biết, nhưng Đình Tấn thì khác, một khi hắn đã làm thì chắc chắn sẽ có mục đích.’ Long nghĩ thầm trong bụng.
+
+-“Vậy Hội Trưởng, ý của ngươi là…?” Long hỏi lại với biểu tình khó hiểu trên khuôn mặt.
+
+-“Đọc nội dung bên trong đó, học thuộc, sau đó cùng ta luyện tập.” Không dài dòng nói nhiều, Đình Tấn tức khắc ứng thanh đáp.
+
+-“Học thuộc…?!” Long càng thêm mờ mịt, trầm mặt lẩm bẩm, lặp lại câu từ của Đình Tấn.
+
+Bất thình lình, trong đôi mắt của Long bỗng dưng lóe lên một tia sáng.
+
+-“Ý ngươi ngươi là, giống như lần học [Địa Ngục Môn]?” Bộ dáng của Long rất thấp thỏm, nhưng trong ngữ khí lại tràn ngập chắc chắn.
+
+-“Đúng thế, nếu có thể học được nó, trận phòng thủ này có thể sẽ giảm bớt được rất nhiều áp lực cho chúng ta và đám người đồng minh kia. Không nói tới ngươi, chỉ cần ta thôi liền có thể dễ dàng thủ vững hai cứ điểm của hội [Rockefeller] và hội [Anh Em Việt Nam] rồi.” Đình Tấn đầy tự tin, khẳng định cho Long càng thêm mừng rỡ.
+
+-“Haha… vậy thì quả thật quá tốt rồi. Ta sẽ lập tức học ngay bây giờ!” Long không nhịn được cười to, sau đó bắt đầu lật sách kỹ năng đọc xem nội dung bên trong đó có gì.
+
+Riêng Đình Tấn, thấy Long bắt đầu xem sách, hắn cũng không nhàn rỗi đứng im một chỗ chờ đợi mà bắt đầu nhắm mắt, trong đầu hồi tưởng lại những thứ được ghi trong sách kỹ năng.
+
+Tinh thần lực mạnh mẽ gấp nhiều lần người bình thường, giúp cho đại não của Đình Tấn được cường hóa rất nhiều. Khả năng ghi nhớ, tính toán đều nhanh nhạy không thua kém gì một chiếc máy tính.
+
+Dù đoạn đường đi đến đây không mất quá nhiều thời gian, nhưng bấy nhiêu đó cũng đã đủ để hắn ghi nhớ lại hết nội dung trên quyển sách.
+
+Hai người cứ như thế tụm đầu vào nhau thảo luận nghiên cứu kỹ năng mà quên mất thời gian. Từng vòng tròn ma pháp được vẽ ra, nhưng ngay lập tức vỡ nát do sai sót, liên tục được bọn họ lặp đi lặp lại quá trình đó.
+
+Mãi đến tận thời điểm mặt trời bắt đầu ngã về phía Tây, không gian yên tĩnh khuếch đại lên những âm thanh xào xạc của lá cây bị gió đung đưa thì đột nhiên, một tiếng thông báo từ hệ thống lại hết sức chói tai với Đình Tấn.
+
+Keng! – Phát hiện người chơi tự chủ sử dụng kỹ năng [Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem], kỹ năng đã được thêm vào bảng kỹ năng.
+
+Keng! – Chúc mừng, ngài đã học tập được kỹ năng [Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem]. Xin hãy cố gắng tiếp tục tu luyện tăng lên thực lực.
+
+Bất quá, Đình Tấn tựa hồ đã dự đoán trước được chuyện này sẽ xảy ra, cho nên hoàn toàn không có biểu hiện gì quá ngạc nhiên trên gương mặt.
+
+Hắn không có lập tức mở ra bảng thông số kỹ năng của mình để kiểm tra, mà thay vào đó là chăm chăm hai mắt nhìn về phía vòng tròn ma pháp đang lơ lửng, cấu tạo thành từng phần thân thể của con quái vật Golem được hắn triệu hồi.
+
+Long thì lại không có được bình tĩnh như thế. Học tập suốt nhiều giờ đồng hồ dài đằng đẵng, với cái tâm trạng bồn chồn nôn nao muốn biết hiệu quả của kỹ năng này.
+
+Bây giờ lại trước tiên được tận mắt nhìn thấy bộ dáng con Golem, thứ mà hắn sẽ có thể triệu hồi ra được trong tương lai, Long có cứng cỏi thế nào cũng không thể che giấu được biểu lộ kinh ngạc, mừng rỡ, kèm theo chút háo hức như một đứa trẻ.
+
+‘Ục ục’
+
+Giữa bầu trời tờ mờ lúc xế chiều, âm thanh sôi sùng sục cùng ánh sáng đỏ rực từ một ngọn lửa hay nói đúng hơn là dung nham lại hiển lộ ra có chút bắt mắt. Chính cái màu sắc ấy dường như đã nói rõ ràng cho Long biết, thuộc tính con Golem đầu tiên được Đình Tấn triệu hồi về.[Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem]
+
+Yêu cầu: Thuộc tính tinh thần cơ bản phải trên 1000 điểm.
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 1000 MP (Kéo dài tiêu hao: Không)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 100 
+
+[Nguyên Tố Sát Thương] = [Tổng Năng Lượng Nguyên Tố]
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố] / 2
+
+Sát thương cơ bản = [Điểm tinh thần] * 2
+
+Phòng thủ cơ bản = [Điểm tinh thần] / 2
+
+Số lượng triệu hồi: [Điểm tinh thần] / 1500
+
+Lưu ý: Nguyên Tố của Golem được triệu hồi sẽ dựa trên loại Nguyên Tố mà người chơi đang sở hữu. Mỗi loại Nguyên Tố chỉ có thể triệu hồi ra một Golem duy nhất, với những kỹ năng riêng biệt của Nguyên Tố đó, đồng thời Golem sẽ không bị giới hạn khoảng cách với người triệu hồi.
+
+Kỹ năng đặc biệt kèm theo – [Dung Hợp] (Chủ Động): Người triệu hồi có thể chủ động dung hợp hai loại Nguyên Tố Golem lại với nhau để đạt được một Golem mới có sức mạnh cường đại hơn.
+
+-Điểm thuộc tính của Golem mới sau khi dung hợp sẽ tăng 150% thuộc tính (Tức gấp 2,5 lần) so với một Golem bình thường. Công kích của Golem mới sẽ kèm theo [Nguyên Tố Sát Thương] từ các loại nguyên tố mà chúng đã dung hợp.
+
+…
+
+-“Đây…” Trái tim Đình Tấn thoáng chốc ngừng lại một nhịp, hai mắt chăm chú nhìn thông số kỹ năng không rời.
+
+Trong lúc này, hắn dường như không biết nên nói về vận may của mình. Có thể là do nữ thần may mắn luôn đứng về phía hắn, cứ đúng ngay tại thời điểm cần thiết nhất, nàng lại xuất hiện cứu vớt hắn.
+
+Nhìn thông tin, Đình Tấn cũng biết đây là một kỹ năng đặc biệt dành riêng cho các nghề nghiệp chủ tu thuộc tính tinh thần như Pháp Sư, Thẩm Giám, Linh Mục hoặc Triệu Hồi Sư. 
+
+Mà bản thân hắn, Vong Linh Ma Đạo Sư lại càng là một nghề nghiệp yêu cầu thuộc tính tinh thần rất cao, và phải dựa vào quái vật triệu hồi để chiến đấu thì không thể nào càng thích hợp hợp hơn với kỹ năng này.
+
+Đang lúc định bấm học tập kỹ năng, Đình Tấn bất ngờ khựng lại giữa chừng.
+
+-‘Sách kỹ năng có nội dung rõ ràng ở bên trong, nói rõ nó có thể tự chủ học tập. Nếu vậy…’ Đình Tấn nghĩ thầm trong bụng, một ý tưởng chợt lóe lên trong đầu hắn.
+
+-“Ba Đậu Đậu gọi cho Long đến gặp ta ngoài cổng cứ điểm ngay lập tức.”
+
+Nói liền làm, Đình Tấn tức thì chuyển hướng tăng nhanh cước bộ hướng về cổng ra vào của cứ điểm.
+
+Long dường như cũng đang làm việc trong cứ điểm, chỉ huy đội viên phụ giúp xây dựng căn cứ theo thường lệ, thế nên ngay khi nhận được tin tức của Đình Tấn, hắn không mất quá nhiều thời gian đã đến nơi trước tiên.
+
+-“Hội Trưởng, cần tìm ta có chuyện?” Thấy bóng dáng Đình Tấn chậm rãi đi tới, Long tiến đến đón đầu cất giọng hỏi.
+
+-“Đúng là có chút thứ tốt muốn chia sẻ cùng ngươi. Theo ta ra ngoài thôi, ở nơi này không tiện.” Đình Tấn gật đầu cười nhạt đáp.
+
+Đang trong khi nói, hắn liếc mắt nhìn dòng người tấp nập xung quanh một vòng, sau đó âm thầm lắc nhẹ đầu rồi cất bước đi thẳng ra khu vực rừng rậm bên ngoài cứ điểm.
+
+Long có chút ngờ vực không rõ nguyên do, bất quá hắn cũng không có hỏi lại mà lựa chọn im lặng đi theo sau Đình Tấn.
+
+Hai người nối bước nhau đi đến khu rừng cách cứ điểm vài cây số, với khoảng cách này, quá vật đã không còn nhiều nữa, thỉnh thoảng mới lại xuất hiện một vài con Trâu Mộc Độc vừa được hệ thống tái sinh. Người chơi ở đây thì lại càng ít, hầu như không có ai đến khu vực này đến luyện cấp cả. 
+
+Đình Tấn hài lòng gật đầu dừng lại bước chân, hướng về Long hỏi.
+
+-“Ngươi có muốn học triệu hồi vong linh không?”
+
+-“Triệu hồi vong linh?” Long ngạc nhiên, giọng tràn ngập khó tin hỏi lại.
+
+-“Ừm, ta nghĩ với thuộc tính tinh thần hiện tại của ngươi, tuy không thể triệu hồi về số lượng được nhiều như ta nhưng ít nhất sẽ bù đắp lại thiếu sót về khoảng không có khả năng gây ra sát thương của ngươi.” Thầm gật đầu một cái, Đình Tấn không nhanh không chậm nói ra dự tính của mình. 
+
+Bản thân Đình Tấn không phải là một con người ích kỷ. Hắn thật không ngại chia sẻ một chút gì đó, trong bộ bí kíp vong linh pháp thuật của mình cho Long.
+
+Vả lại, nếu tính toán kỹ lưỡng thì Đình Tấn cũng chỉ mới học được phần da lông bên ngoài của quyển bí kíp này mà thôi. Sơ bộ trong quyển bí kíp có ba tầng, bao gồm Ma Pháp Sư, Ma Đạo Sư và Pháp Thần.
+
+Mà hiện giờ, hắn chỉ mới cất bước lên bậc thềm đầu tiên của tầng thứ hai. Vẫn còn có rất nhiều thứ hắn cần phải tìm hiểu và tu luyện thêm.
+
+Chính vì thế cho nên dạy cho Long những phép triệu hồi vong linh cơ bản này cũng không phải là một vấn đề gì to tát.
+
+Ngoài ra, coi như học được kỹ năng triệu hồi vong linh, Long cũng phải cần đến một lượng vật phẩm cao cấp rất lớn thì hắn mới có thể đứng ngang bằng thực lực với Đình Tấn.
+
+Đúng! Chỉ có thể ngang bằng chứ không thể nào vượt qua, bởi ngoài vật phẩm trang bị tốt ra, nghề nghiệp Vong Linh Ma Đạo Sư còn đã cung cấp cho Đình Tấn một kỹ năng phụ đặc biệt độc nhất của nó, chính là hiến tế HP để sử dụng kỹ năng.
+
+Chỉ với kỹ năng này, Đình Tấn mới có thể triệu hồi được nhiều vong linh cùng một lúc như thế. Còn lại các nghề nghiệp khác, chỉ có thể dựa vào thuốc hoặc trang bị để cố gắng chèo chống mà thôi, làm sao có thể sánh được.
+
+Không lập tức trả lời Đình Tấn vội, Long rơi vào một khoảng trầm mặt, cúi đầu suy tư.
+
+Nhìn dáng vẻ đắng đo khó quyết của đối phương, Đình Tấn giống như đã nhớ đến cái gì đó. Bất quá, hắn không có lên tiếng cố gắng thuyết phục đối phương, mà chỉ lẳng lặng chờ đợi câu trả lời từ Long.
+
+Cuối cùng, sau một lúc lâu suy nghĩ, Long khó khăn lắc đầu, cười khổ nói. 
+
+-“Xin lỗi Hội Trưởng…”
+
+Ngừng lại một chút, Long cố gắng sắp xếp lại từ ngữ, rồi tiếp tục giải thích nguyên do với thần sắc đầy hồi ức.
+
+-“Ta được nuôi dưỡng và lớn lên dưới sự bảo bọc của hội thánh. Từ nhỏ đến lớn, ta luôn tin tưởng vào sức mạnh của sinh mệnh, luôn tin vào ánh sáng sẽ chiến thắng được bóng tối. [Địa Ngục Môn] hay nói đúng hơn là Paal thì ta còn có thể chịu đựng được, ít nhất nó chỉ mượn dùng sức mạnh của quỷ dữ trong một thời gian có hạn định. Nhưng vong linh thì khác, một khi sử dụng chúng, ta xem như đã vĩnh viễn tiến thân vào bóng tối rồi.”
+
+Đột nhiên quay đầu nhìn sang Đình Tấn, Long cười khổ tiếp tục.
+
+-“Chắc Hội Trưởng ngươi đang nghĩ là, ta rất lập dị đúng không? Sức mạnh của mình mà lại còn đi phân biệt thiện ác? Thật sự, mỗi người đều có một cách nghĩ riêng, tùy vào môi trường sống, tùy vào tính cách và nguyên tắc của họ. Ta cũng vậy, dù rằng rất ham muốn sở hữu một lực lượng cường đại, thậm chí có thể vượt qua cả quỷ dữ để chống lại chúng. Thế nhưng ta vẫn có một số giới hạn cuối cùng phải giữ lại.”
+
+-“Ừm, ta hiểu. Nếu vậy thì thôi, không nhắc đến chuyện này nữa, chúng ta vẫn còn một phương thức khác.” Đợi Long nói xong, Đình Tấn chỉ nhẹ gật đầu bình thản đáp lời.
+
+Không có kinh ngạc, không có nghi ngờ hay thậm chí khó hiểu về việc một người nào đó lại có thể từ chối học tập những kỹ năng, thứ đã làm nên tên tuổi của một người được công nhận là đệ nhất cường giả trong Anh Hùng.
+
+Trông thấy Đình Tấn có biểu hiện lạnh nhạt như thế, Long cũng nhẹ lòng thở ra một hơi.
+
+Dẫu biết rằng Đình Tấn có ý tốt muốn chia sẻ với mình, nhưng mà hắn thật sự không thể nhịn được mặc cảm và sợ hãi khi nghĩ tới thời điểm, bản thân mình sẽ bị sa đọa vào bóng tối, bị cám dỗ của sức mạnh hắc ám ấy mang lại.
+
+-“Đây xem đi.” Đang lúc ngẩn ngơ ấy, Long bỗng nhiên nghe được giọng nói của Đình Tấn.
+
+Vô thức ngẩng đầu lên, còn chưa kịp để hắn phản ứng thì đã trông thấy đối phương ném một vật gì đó về phía mình. Long theo phản xạ giơ tay ra đón lấy, rồi tò mò mở ra xem thông tin của món đồ vật này.
+
+[Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem]
+
+…
+
+-“Hội... cái này… cho ta?” Sau một phút dò xét thông tin, Long há hốc mồm hỏi lại, nội tâm tràn ngập kinh hãi, hai tay nắm chặt lấy quyển sách kỹ năng, phảng phất sợ Đình Tấn sẽ đổi ý thu về.
+
+-“Cho ngươi xem, không phải bảo ngươi sử dụng.” Đình Tấn cười cười hiểu ý, lắc lắc đầu nói. 
+
+Đúng là Đình Tấn không có ý định cho Long sử dụng quyển sách này, bởi lẽ nội dung bên trong quá nhiều. Bản thân hắn thì không thành vấn đề, nhưng sợ rằng Long thì sẽ cần phải tốn không ít thời gian mới có thể học thuộc.
+
+Một khi đã sử dụng, quyển sách sẽ biến mất, chưa kịp sao chép lại một bản dự phòng, Đình Tấn làm sao có thể vô tư cung cấp cho Long sử dụng được.
+
+Long nghe thế thì quả thật có chút thất vọng, tuy nhiên rất nhanh, cảm giác đó đã bị hắn vứt ra sau đầu.
+
+‘Ai thì hắn không biết, nhưng Đình Tấn thì khác, một khi hắn đã làm thì chắc chắn sẽ có mục đích.’ Long nghĩ thầm trong bụng.
+
+-“Vậy Hội Trưởng, ý của ngươi là…?” Long hỏi lại với biểu tình khó hiểu trên khuôn mặt.
+
+-“Đọc nội dung bên trong đó, học thuộc, sau đó cùng ta luyện tập.” Không dài dòng nói nhiều, Đình Tấn tức khắc ứng thanh đáp.
+
+-“Học thuộc…?!” Long càng thêm mờ mịt, trầm mặt lẩm bẩm, lặp lại câu từ của Đình Tấn.
+
+Bất thình lình, trong đôi mắt của Long bỗng dưng lóe lên một tia sáng.
+
+-“Ý ngươi ngươi là, giống như lần học [Địa Ngục Môn]?” Bộ dáng của Long rất thấp thỏm, nhưng trong ngữ khí lại tràn ngập chắc chắn.
+
+-“Đúng thế, nếu có thể học được nó, trận phòng thủ này có thể sẽ giảm bớt được rất nhiều áp lực cho chúng ta và đám người đồng minh kia. Không nói tới ngươi, chỉ cần ta thôi liền có thể dễ dàng thủ vững hai cứ điểm của hội [Rockefeller] và hội [Anh Em Việt Nam] rồi.” Đình Tấn đầy tự tin, khẳng định cho Long càng thêm mừng rỡ.
+
+-“Haha… vậy thì quả thật quá tốt rồi. Ta sẽ lập tức học ngay bây giờ!” Long không nhịn được cười to, sau đó bắt đầu lật sách kỹ năng đọc xem nội dung bên trong đó có gì.
+
+Riêng Đình Tấn, thấy Long bắt đầu xem sách, hắn cũng không nhàn rỗi đứng im một chỗ chờ đợi mà bắt đầu nhắm mắt, trong đầu hồi tưởng lại những thứ được ghi trong sách kỹ năng.
+
+Tinh thần lực mạnh mẽ gấp nhiều lần người bình thường, giúp cho đại não của Đình Tấn được cường hóa rất nhiều. Khả năng ghi nhớ, tính toán đều nhanh nhạy không thua kém gì một chiếc máy tính.
+
+Dù đoạn đường đi đến đây không mất quá nhiều thời gian, nhưng bấy nhiêu đó cũng đã đủ để hắn ghi nhớ lại hết nội dung trên quyển sách.
+
+Hai người cứ như thế tụm đầu vào nhau thảo luận nghiên cứu kỹ năng mà quên mất thời gian. Từng vòng tròn ma pháp được vẽ ra, nhưng ngay lập tức vỡ nát do sai sót, liên tục được bọn họ lặp đi lặp lại quá trình đó.
+
+Mãi đến tận thời điểm mặt trời bắt đầu ngã về phía Tây, không gian yên tĩnh khuếch đại lên những âm thanh xào xạc của lá cây bị gió đung đưa thì đột nhiên, một tiếng thông báo từ hệ thống lại hết sức chói tai với Đình Tấn.
+
+Keng! – Phát hiện người chơi tự chủ sử dụng kỹ năng [Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem], kỹ năng đã được thêm vào bảng kỹ năng.
+
+Keng! – Chúc mừng, ngài đã học tập được kỹ năng [Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem]. Xin hãy cố gắng tiếp tục tu luyện tăng lên thực lực.
+
+Bất quá, Đình Tấn tựa hồ đã dự đoán trước được chuyện này sẽ xảy ra, cho nên hoàn toàn không có biểu hiện gì quá ngạc nhiên trên gương mặt.
+
+Hắn không có lập tức mở ra bảng thông số kỹ năng của mình để kiểm tra, mà thay vào đó là chăm chăm hai mắt nhìn về phía vòng tròn ma pháp đang lơ lửng, cấu tạo thành từng phần thân thể của con quái vật Golem được hắn triệu hồi.
+
+Long thì lại không có được bình tĩnh như thế. Học tập suốt nhiều giờ đồng hồ dài đằng đẵng, với cái tâm trạng bồn chồn nôn nao muốn biết hiệu quả của kỹ năng này.
+
+Bây giờ lại trước tiên được tận mắt nhìn thấy bộ dáng con Golem, thứ mà hắn sẽ có thể triệu hồi ra được trong tương lai, Long có cứng cỏi thế nào cũng không thể che giấu được biểu lộ kinh ngạc, mừng rỡ, kèm theo chút háo hức như một đứa trẻ.
+
+‘Ục ục’
+
+Giữa bầu trời tờ mờ lúc xế chiều, âm thanh sôi sùng sục cùng ánh sáng đỏ rực từ một ngọn lửa hay nói đúng hơn là dung nham lại hiển lộ ra có chút bắt mắt. Chính cái màu sắc ấy dường như đã nói rõ ràng cho Long biết, thuộc tính con Golem đầu tiên được Đình Tấn triệu hồi về.[Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem]
+
+Yêu cầu: Thuộc tính tinh thần cơ bản phải trên 1000 điểm.
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 1000 MP (Kéo dài tiêu hao: Không)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 100 
+
+[Nguyên Tố Sát Thương] = [Tổng Năng Lượng Nguyên Tố]
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố] / 2
+
+Sát thương cơ bản = [Điểm tinh thần] * 2
+
+Phòng thủ cơ bản = [Điểm tinh thần] / 2
+
+Số lượng triệu hồi: [Điểm tinh thần] / 1500
+
+Lưu ý: Nguyên Tố của Golem được triệu hồi sẽ dựa trên loại Nguyên Tố mà người chơi đang sở hữu. Mỗi loại Nguyên Tố chỉ có thể triệu hồi ra một Golem duy nhất, với những kỹ năng riêng biệt của Nguyên Tố đó, đồng thời Golem sẽ không bị giới hạn khoảng cách với người triệu hồi.
+
+Kỹ năng đặc biệt kèm theo – [Dung Hợp] (Chủ Động): Người triệu hồi có thể chủ động dung hợp hai loại Nguyên Tố Golem lại với nhau để đạt được một Golem mới có sức mạnh cường đại hơn.
+
+-Điểm thuộc tính của Golem mới sau khi dung hợp sẽ tăng 150% thuộc tính (Tức gấp 2,5 lần) so với một Golem bình thường. Công kích của Golem mới sẽ kèm theo [Nguyên Tố Sát Thương] từ các loại nguyên tố mà chúng đã dung hợp.
+
+…
+
+-“Đây…” Trái tim Đình Tấn thoáng chốc ngừng lại một nhịp, hai mắt chăm chú nhìn thông số kỹ năng không rời.
+
+Trong lúc này, hắn dường như không biết nên nói về vận may của mình. Có thể là do nữ thần may mắn luôn đứng về phía hắn, cứ đúng ngay tại thời điểm cần thiết nhất, nàng lại xuất hiện cứu vớt hắn.
+
+Nhìn thông tin, Đình Tấn cũng biết đây là một kỹ năng đặc biệt dành riêng cho các nghề nghiệp chủ tu thuộc tính tinh thần như Pháp Sư, Thẩm Giám, Linh Mục hoặc Triệu Hồi Sư. 
+
+Mà bản thân hắn, Vong Linh Ma Đạo Sư lại càng là một nghề nghiệp yêu cầu thuộc tính tinh thần rất cao, và phải dựa vào quái vật triệu hồi để chiến đấu thì không thể nào càng thích hợp hợp hơn với kỹ năng này.
+
+Đang lúc định bấm học tập kỹ năng, Đình Tấn bất ngờ khựng lại giữa chừng.
+
+-‘Sách kỹ năng có nội dung rõ ràng ở bên trong, nói rõ nó có thể tự chủ học tập. Nếu vậy…’ Đình Tấn nghĩ thầm trong bụng, một ý tưởng chợt lóe lên trong đầu hắn.
+
+-“Ba Đậu Đậu gọi cho Long đến gặp ta ngoài cổng cứ điểm ngay lập tức.”
+
+Nói liền làm, Đình Tấn tức thì chuyển hướng tăng nhanh cước bộ hướng về cổng ra vào của cứ điểm.
+
+Long dường như cũng đang làm việc trong cứ điểm, chỉ huy đội viên phụ giúp xây dựng căn cứ theo thường lệ, thế nên ngay khi nhận được tin tức của Đình Tấn, hắn không mất quá nhiều thời gian đã đến nơi trước tiên.
+
+-“Hội Trưởng, cần tìm ta có chuyện?” Thấy bóng dáng Đình Tấn chậm rãi đi tới, Long tiến đến đón đầu cất giọng hỏi.
+
+-“Đúng là có chút thứ tốt muốn chia sẻ cùng ngươi. Theo ta ra ngoài thôi, ở nơi này không tiện.” Đình Tấn gật đầu cười nhạt đáp.
+
+Đang trong khi nói, hắn liếc mắt nhìn dòng người tấp nập xung quanh một vòng, sau đó âm thầm lắc nhẹ đầu rồi cất bước đi thẳng ra khu vực rừng rậm bên ngoài cứ điểm.
+
+Long có chút ngờ vực không rõ nguyên do, bất quá hắn cũng không có hỏi lại mà lựa chọn im lặng đi theo sau Đình Tấn.
+
+Hai người nối bước nhau đi đến khu rừng cách cứ điểm vài cây số, với khoảng cách này, quá vật đã không còn nhiều nữa, thỉnh thoảng mới lại xuất hiện một vài con Trâu Mộc Độc vừa được hệ thống tái sinh. Người chơi ở đây thì lại càng ít, hầu như không có ai đến khu vực này đến luyện cấp cả. 
+
+Đình Tấn hài lòng gật đầu dừng lại bước chân, hướng về Long hỏi.
+
+-“Ngươi có muốn học triệu hồi vong linh không?”
+
+-“Triệu hồi vong linh?” Long ngạc nhiên, giọng tràn ngập khó tin hỏi lại.
+
+-“Ừm, ta nghĩ với thuộc tính tinh thần hiện tại của ngươi, tuy không thể triệu hồi về số lượng được nhiều như ta nhưng ít nhất sẽ bù đắp lại thiếu sót về khoảng không có khả năng gây ra sát thương của ngươi.” Thầm gật đầu một cái, Đình Tấn không nhanh không chậm nói ra dự tính của mình. 
+
+Bản thân Đình Tấn không phải là một con người ích kỷ. Hắn thật không ngại chia sẻ một chút gì đó, trong bộ bí kíp vong linh pháp thuật của mình cho Long.
+
+Vả lại, nếu tính toán kỹ lưỡng thì Đình Tấn cũng chỉ mới học được phần da lông bên ngoài của quyển bí kíp này mà thôi. Sơ bộ trong quyển bí kíp có ba tầng, bao gồm Ma Pháp Sư, Ma Đạo Sư và Pháp Thần.
+
+Mà hiện giờ, hắn chỉ mới cất bước lên bậc thềm đầu tiên của tầng thứ hai. Vẫn còn có rất nhiều thứ hắn cần phải tìm hiểu và tu luyện thêm.
+
+Chính vì thế cho nên dạy cho Long những phép triệu hồi vong linh cơ bản này cũng không phải là một vấn đề gì to tát.
+
+Ngoài ra, coi như học được kỹ năng triệu hồi vong linh, Long cũng phải cần đến một lượng vật phẩm cao cấp rất lớn thì hắn mới có thể đứng ngang bằng thực lực với Đình Tấn.
+
+Đúng! Chỉ có thể ngang bằng chứ không thể nào vượt qua, bởi ngoài vật phẩm trang bị tốt ra, nghề nghiệp Vong Linh Ma Đạo Sư còn đã cung cấp cho Đình Tấn một kỹ năng phụ đặc biệt độc nhất của nó, chính là hiến tế HP để sử dụng kỹ năng.
+
+Chỉ với kỹ năng này, Đình Tấn mới có thể triệu hồi được nhiều vong linh cùng một lúc như thế. Còn lại các nghề nghiệp khác, chỉ có thể dựa vào thuốc hoặc trang bị để cố gắng chèo chống mà thôi, làm sao có thể sánh được.
+
+Không lập tức trả lời Đình Tấn vội, Long rơi vào một khoảng trầm mặt, cúi đầu suy tư.
+
+Nhìn dáng vẻ đắng đo khó quyết của đối phương, Đình Tấn giống như đã nhớ đến cái gì đó. Bất quá, hắn không có lên tiếng cố gắng thuyết phục đối phương, mà chỉ lẳng lặng chờ đợi câu trả lời từ Long.
+
+Cuối cùng, sau một lúc lâu suy nghĩ, Long khó khăn lắc đầu, cười khổ nói. 
+
+-“Xin lỗi Hội Trưởng…”
+
+Ngừng lại một chút, Long cố gắng sắp xếp lại từ ngữ, rồi tiếp tục giải thích nguyên do với thần sắc đầy hồi ức.
+
+-“Ta được nuôi dưỡng và lớn lên dưới sự bảo bọc của hội thánh. Từ nhỏ đến lớn, ta luôn tin tưởng vào sức mạnh của sinh mệnh, luôn tin vào ánh sáng sẽ chiến thắng được bóng tối. [Địa Ngục Môn] hay nói đúng hơn là Paal thì ta còn có thể chịu đựng được, ít nhất nó chỉ mượn dùng sức mạnh của quỷ dữ trong một thời gian có hạn định. Nhưng vong linh thì khác, một khi sử dụng chúng, ta xem như đã vĩnh viễn tiến thân vào bóng tối rồi.”
+
+Đột nhiên quay đầu nhìn sang Đình Tấn, Long cười khổ tiếp tục.
+
+-“Chắc Hội Trưởng ngươi đang nghĩ là, ta rất lập dị đúng không? Sức mạnh của mình mà lại còn đi phân biệt thiện ác? Thật sự, mỗi người đều có một cách nghĩ riêng, tùy vào môi trường sống, tùy vào tính cách và nguyên tắc của họ. Ta cũng vậy, dù rằng rất ham muốn sở hữu một lực lượng cường đại, thậm chí có thể vượt qua cả quỷ dữ để chống lại chúng. Thế nhưng ta vẫn có một số giới hạn cuối cùng phải giữ lại.”
+
+-“Ừm, ta hiểu. Nếu vậy thì thôi, không nhắc đến chuyện này nữa, chúng ta vẫn còn một phương thức khác.” Đợi Long nói xong, Đình Tấn chỉ nhẹ gật đầu bình thản đáp lời.
+
+Không có kinh ngạc, không có nghi ngờ hay thậm chí khó hiểu về việc một người nào đó lại có thể từ chối học tập những kỹ năng, thứ đã làm nên tên tuổi của một người được công nhận là đệ nhất cường giả trong Anh Hùng.
+
+Trông thấy Đình Tấn có biểu hiện lạnh nhạt như thế, Long cũng nhẹ lòng thở ra một hơi.
+
+Dẫu biết rằng Đình Tấn có ý tốt muốn chia sẻ với mình, nhưng mà hắn thật sự không thể nhịn được mặc cảm và sợ hãi khi nghĩ tới thời điểm, bản thân mình sẽ bị sa đọa vào bóng tối, bị cám dỗ của sức mạnh hắc ám ấy mang lại.
+
+-“Đây xem đi.” Đang lúc ngẩn ngơ ấy, Long bỗng nhiên nghe được giọng nói của Đình Tấn.
+
+Vô thức ngẩng đầu lên, còn chưa kịp để hắn phản ứng thì đã trông thấy đối phương ném một vật gì đó về phía mình. Long theo phản xạ giơ tay ra đón lấy, rồi tò mò mở ra xem thông tin của món đồ vật này.
+
+[Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem]
+
+…
+
+-“Hội... cái này… cho ta?” Sau một phút dò xét thông tin, Long há hốc mồm hỏi lại, nội tâm tràn ngập kinh hãi, hai tay nắm chặt lấy quyển sách kỹ năng, phảng phất sợ Đình Tấn sẽ đổi ý thu về.
+
+-“Cho ngươi xem, không phải bảo ngươi sử dụng.” Đình Tấn cười cười hiểu ý, lắc lắc đầu nói. 
+
+Đúng là Đình Tấn không có ý định cho Long sử dụng quyển sách này, bởi lẽ nội dung bên trong quá nhiều. Bản thân hắn thì không thành vấn đề, nhưng sợ rằng Long thì sẽ cần phải tốn không ít thời gian mới có thể học thuộc.
+
+Một khi đã sử dụng, quyển sách sẽ biến mất, chưa kịp sao chép lại một bản dự phòng, Đình Tấn làm sao có thể vô tư cung cấp cho Long sử dụng được.
+
+Long nghe thế thì quả thật có chút thất vọng, tuy nhiên rất nhanh, cảm giác đó đã bị hắn vứt ra sau đầu.
+
+‘Ai thì hắn không biết, nhưng Đình Tấn thì khác, một khi hắn đã làm thì chắc chắn sẽ có mục đích.’ Long nghĩ thầm trong bụng.
+
+-“Vậy Hội Trưởng, ý của ngươi là…?” Long hỏi lại với biểu tình khó hiểu trên khuôn mặt.
+
+-“Đọc nội dung bên trong đó, học thuộc, sau đó cùng ta luyện tập.” Không dài dòng nói nhiều, Đình Tấn tức khắc ứng thanh đáp.
+
+-“Học thuộc…?!” Long càng thêm mờ mịt, trầm mặt lẩm bẩm, lặp lại câu từ của Đình Tấn.
+
+Bất thình lình, trong đôi mắt của Long bỗng dưng lóe lên một tia sáng.
+
+-“Ý ngươi ngươi là, giống như lần học [Địa Ngục Môn]?” Bộ dáng của Long rất thấp thỏm, nhưng trong ngữ khí lại tràn ngập chắc chắn.
+
+-“Đúng thế, nếu có thể học được nó, trận phòng thủ này có thể sẽ giảm bớt được rất nhiều áp lực cho chúng ta và đám người đồng minh kia. Không nói tới ngươi, chỉ cần ta thôi liền có thể dễ dàng thủ vững hai cứ điểm của hội [Rockefeller] và hội [Anh Em Việt Nam] rồi.” Đình Tấn đầy tự tin, khẳng định cho Long càng thêm mừng rỡ.
+
+-“Haha… vậy thì quả thật quá tốt rồi. Ta sẽ lập tức học ngay bây giờ!” Long không nhịn được cười to, sau đó bắt đầu lật sách kỹ năng đọc xem nội dung bên trong đó có gì.
+
+Riêng Đình Tấn, thấy Long bắt đầu xem sách, hắn cũng không nhàn rỗi đứng im một chỗ chờ đợi mà bắt đầu nhắm mắt, trong đầu hồi tưởng lại những thứ được ghi trong sách kỹ năng.
+
+Tinh thần lực mạnh mẽ gấp nhiều lần người bình thường, giúp cho đại não của Đình Tấn được cường hóa rất nhiều. Khả năng ghi nhớ, tính toán đều nhanh nhạy không thua kém gì một chiếc máy tính.
+
+Dù đoạn đường đi đến đây không mất quá nhiều thời gian, nhưng bấy nhiêu đó cũng đã đủ để hắn ghi nhớ lại hết nội dung trên quyển sách.
+
+Hai người cứ như thế tụm đầu vào nhau thảo luận nghiên cứu kỹ năng mà quên mất thời gian. Từng vòng tròn ma pháp được vẽ ra, nhưng ngay lập tức vỡ nát do sai sót, liên tục được bọn họ lặp đi lặp lại quá trình đó.
+
+Mãi đến tận thời điểm mặt trời bắt đầu ngã về phía Tây, không gian yên tĩnh khuếch đại lên những âm thanh xào xạc của lá cây bị gió đung đưa thì đột nhiên, một tiếng thông báo từ hệ thống lại hết sức chói tai với Đình Tấn.
+
+Keng! – Phát hiện người chơi tự chủ sử dụng kỹ năng [Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem], kỹ năng đã được thêm vào bảng kỹ năng.
+
+Keng! – Chúc mừng, ngài đã học tập được kỹ năng [Thượng Cấp Triệu Hồi Thuật - Triệu Hồi Nguyên Tố Golem]. Xin hãy cố gắng tiếp tục tu luyện tăng lên thực lực.
+
+Bất quá, Đình Tấn tựa hồ đã dự đoán trước được chuyện này sẽ xảy ra, cho nên hoàn toàn không có biểu hiện gì quá ngạc nhiên trên gương mặt.
+
+Hắn không có lập tức mở ra bảng thông số kỹ năng của mình để kiểm tra, mà thay vào đó là chăm chăm hai mắt nhìn về phía vòng tròn ma pháp đang lơ lửng, cấu tạo thành từng phần thân thể của con quái vật Golem được hắn triệu hồi.
+
+Long thì lại không có được bình tĩnh như thế. Học tập suốt nhiều giờ đồng hồ dài đằng đẵng, với cái tâm trạng bồn chồn nôn nao muốn biết hiệu quả của kỹ năng này.
+
+Bây giờ lại trước tiên được tận mắt nhìn thấy bộ dáng con Golem, thứ mà hắn sẽ có thể triệu hồi ra được trong tương lai, Long có cứng cỏi thế nào cũng không thể che giấu được biểu lộ kinh ngạc, mừng rỡ, kèm theo chút háo hức như một đứa trẻ.
+
+‘Ục ục’
+
+Giữa bầu trời tờ mờ lúc xế chiều, âm thanh sôi sùng sục cùng ánh sáng đỏ rực từ một ngọn lửa hay nói đúng hơn là dung nham lại hiển lộ ra có chút bắt mắt. Chính cái màu sắc ấy dường như đã nói rõ ràng cho Long biết, thuộc tính con Golem đầu tiên được Đình Tấn triệu hồi về.

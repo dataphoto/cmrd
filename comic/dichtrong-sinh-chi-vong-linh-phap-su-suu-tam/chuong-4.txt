@@ -1,0 +1,895 @@
+Nắp khoang cabin trò chơi đóng lại, Đình Tấn liền đeo lên mặt nạ dưỡng khí. Ấn nút khởi động trên đầu, dịch dinh dưỡng từ ống hai bên cabin bắt đầu tràn ra, nhấn chìm Đình Tấn đang nằm bên trong. 
+
+Hắn không hề cảm thấy một chút khó chịu nào, ngược lại dịch dinh dưỡng như một dòng nước suối mát lạnh từ từ bao bọc lấy cơ thể của hắn. Một cảm giác đau nhói xung quanh đầu xuất hiện, giống như có một dòng điện chạy qua đầu.
+
+Mí mắt của hắn dần dần trở nên nặng trĩu, cuối cùng cũng nhắm lại. Ngay sau đó, Đình Tấn phát hiện mình đã tiến vào một không gian trắng xóa khác, mà cảm giác của hắn lúc này chẳng khác gì đang lơ lửng ở một môi trường không trọng lực, bay trên không trung. 
+
+Nơi này bề ngoài giống như một không gian vũ trụ màu trắng, thân thể của Đình Tấn bay bổng một hồi lâu. Cho đến khi đồng hồ điểm đúng 9 giờ tối thì đột nhiên, một giọng nói máy móc từ trong hư không vọng ra.
+
+-	Tiến hành lấy mẫu DNA đăng ký tài khoản.
+
+... 
+
+-	Hoàn tất. Tiến hành đo lường thể chất, cơ thể của ngài có thể sẽ hơi khó chịu một hồi. Xin chịu đựng.
+
+Hệ thống vừa nói xong đoạn này, Đình Tấn liền nhanh chóng cảm giác được cơ bắp của mình đang co thắt một hồi. Cả thân thể dường như có hàng nghìn vạn cây kim nhỏ đang đâm vào. 
+
+Nội tạng ở bên trong như tim và phổi cũng nhanh chóng gia tốc hoạt động. Còn hai mắt thì lúc mờ lúc rõ, đôi tai cũng giống như bị mất đi tín hiệu, vang lên âm thanh ù ù một lúc lâu. 
+
+Đình Tấn đoán rằng, có lẽ hệ thống đang dùng sóng điện não kích thích cơ thể hắn hoạt động nhằm đo lường thể chất quyết định thông số cho nhân vật game của hắn.
+
+Một hồi lâu trôi qua, âm thanh của hệ thống lại vang lên bên tai Đình Tấn.
+
+-	Đã kiểm tra xong. Đẳng cấp phân chia Cực, Thượng, Trung, Hạ. Tư chất của ngài thuộc về hàng Thượng phẩm. Xin chờ kiểm tra tinh thần của trí não.
+
+Lần này kiểm tra tinh thần của trí não này, Đình Tấn ngược lại không hề cảm thấy gì khác thường. 
+
+Hắn đoán rằng, các vị giáo sư khi phát triển đến giai đoạn kiểm tra này có thể là đã dựa trên cơ sở cường độ của sóng điện não để do lường lực lượng của tinh thần. 
+
+Bởi vì tinh thần là một thứ khá là trừu tượng cho nên không có một cách cụ thể nào để xác định được cường độ mạnh mẽ của nó. Ngay cả một vị tu luyện nghề nghiệp triệu hoán sư như hắn còn không biết đến hiện tại thì cường độ tinh thần của mình đã ở mức độ nào kia mà.
+
+Thẫn thờ suy nghĩ một hồi, không quá thời gian một phút, quá trình đo lường này cuối cùng cũng kết thúc. Bảng thống kê thông số cơ thể Đình Tấn sau khi đo lường nhanh chóng hiển thị trước mặt hắn.
+
+Cùng lúc đó âm thanh của hệ thống lại tiếp tục vang lên.
+
+-	Quá trình đo lường tinh thần kết thúc. Đẳng cấp phân chia Cực, Thượng, Trung, Hạ. Cường độ tinh thần của ngài thuộc về hàng Cực phẩm. Xin mời kiểm tra thông số và lựa chọn thoát hoặc đăng nhập vào game.
+
+Tính danh : Đình Tấn (Ẩn)
+Biệt danh : Chưa chọn (Thay đổi) (Hiển thị)
+Tuổi : 23
+Chức nghiệp : Chưa chọn
+
+---- Thông số ----
+
+Lực lượng : 24 – Tips : Tăng sát thương cận chiến, khả năng mang vác
+-	1 lực lượng = 1 sát thương vật lý
+-	1 lực lượng = 1.5kg phụ trọng, vượt mức sẽ giảm tốc độ di chuyển
+-	1 lực lượng = 0.03 phòng thủ
+
+Nhanh nhẹn : 20 – Tips : Tăng tốc độ tấn công, di chuyển
+-	1 nhanh nhẹn = 0.02 tốc độ tấn công cận chiến / 0.01 tấn công tầm xa
+-	1 nhanh nhẹn = 0.01 m/s tốc độ di chuyển
+-	1 nhanh nhẹn = 0.01 phòng thủ
+
+Thể lực : 23 – Tips : Tăng HP , khả năng khôi phục HP
+-	1 thể lực = 20 HP
+-	1 thể lực = hồi phục 0.03 HP/s 
+-	1 thể lực = 0.1 phòng thủ
+
+Tinh thần : 34 – Tips : Tăng MP, sát thương ma pháp, khả năng hồi phục ma pháp
+-	1 tinh thần = 1 sát thương ma pháp
+-	1 tinh thần = 12 MP
+-	1 tinh thần = hồi phục 0.04 MP/s 
+-	1 tinh thần = 0.15 pháp thuật phòng thủ
+
+---- Chi tiết ----
+
+Level : 1
+HP : 460/460 (+0.69/s)
+MP : 408/408 (+1.36/s)
+EXP : 0/100
+
+Tốc độ tấn công : 1.4 lần/s (Vũ khí một tay và vũ khí tầm xa cơ bản +1 lần/s) - 0.9 lần/s (Vũ khí hai tay +0.5 lần/s)
+
+Tốc độ di chuyển : 2.2 m/s
+Sát thương vật lý : 24 – 24
+Sát thương phép thuật : 34 – 34
+Phòng thủ vật lý : 3.2
+Phòng thủ pháp thuật : 5.1
+Phụ trọng : 41kg (Cơ bản 5kg)
+
+May mắn : 0
+Thiên phú : 7 (Thượng phẩm thể chất +3, Cực phẩm tinh thần +4) – Tips : Điều kiện để học tập một số nghề nghiệp hoặc kỹ năng có yêu cầu đặc biệt.
+
+[Xác nhận vào game] [Thoát khỏi game]
+
+
+Đình Tấn xem xét xong bảng thông số thống kê sau khi đã đo lường ra kết quả, thì không khỏi gật đầu thỏa mãn. 
+
+Không uống công hắn bỏ ra sáu tháng để liên tục rèn luyện, tăng cường tố chất thân thể. Hiện tại, cơ thể hắn đã bước vào hàng ngũ Thượng phẩm, còn riêng về cường độ của tinh thần thì càng đạt đến ngưỡng cực phẩm. 
+
+Với tố chất thân thể này, Đình Tấn có thể xem như là gần đứng ngang hàng với một tên quân nhân hoặc vận động viên thể thao rồi.
+
+Xem xong thuộc tính, Đình Tấn cũng không vội vào game. Hắn lựa chọn ẩn đi tính danh của mình. 
+
+Bởi vì tuy là hắn chơi game nhưng có thể cũng sẽ không tránh khỏi gây xích mích, kéo thù hận với người chơi khác. Mà thời gian đối với hắn bây giờ thì còn quý hơn cả vàng bạc. 
+
+Nếu phiền toái liên tục kéo đến, thậm chí còn bị lôi ra đến thế giới hiện thực, thì hắn không có dư thừa thời gian và tinh lực đâu để giải quyết mấy vấn đề này.
+
+Nghĩ vậy nên Đình Tấn quyết định thay đổi Biệt danh của mình lại thành “The Dawn” và đồng thời hắn cũng lựa chọn chỉ hiển thị Biệt danh thay vì hiển thị tên thật của mình. 
+
+Ngay sau đó, hệ thống tại tiếp tục kêu vang thông báo. 
+
+-	Biệt danh chưa được sử dụng. Đã thay đổi thành công.
+
+Hoàn tất những việc nhỏ này, Đình Tấn mới lựa chọn [ Xác nhận vào game].
+
+Bất thình lình, ánh sáng loé lên một cái làm Đình Tấn cũng không chịu được, phải nhắm mắt lại. Vài hơi thở sau đó, âm thanh hệ thống lại vang lên bên tai hắn.
+
+-	Đăng nhập thành công. Ngài hiện đang ở làng LD số 03 thuộc khu vực quốc gia Entire Land. Chúc ngài sớm ngày trở thành Anh Hùng, cứu vớt Trái Đất.
+
+Mở mắt ra quan sát cảnh vật xung quanh, Đình Tấn cảm giác ấn tượng đầu tiên đó là lạc hậu. Một ngôi làng nghèo nàn, điển hình thôn quê. Bao quanh ngôi làng là một hàng rào dựng bằng những cây cọc gỗ đầu vuốt nhọn đan xen vào nhau. 
+
+Cả ngôi làng có diện tích không hơn 2 km vuông. Năm, sáu căn nhà lụp xụp thưa thớt, xoay quanh một cây đại thụ to lớn ở giữa, sau đó kéo dài ra cổng làng tạo thành một hình chữ U. 
+
+Do Đình Tấn đã sớm đăng nhập vào game, cho nên hiện tại xung quanh hắn cũng khá vắng vẻ, chỉ thưa thớt xuất hiện chưa đến hơn chục người.
+
+Kiểm tra lại trang bị trên người, Đình Tấn phát hiện mình chỉ mang theo một bộ quần áo vải màu đen. Đây có thể xem như là quần áo lót che thân không chiếm vị trí trang bị cũng như tăng thêm chỉ số cho Đình Tấn. 
+
+Bên hông của hắn vắt theo một chiếc ba lô nhỏ, kích cỡ chỉ vừa đủ cho bàn tay thò vào. Đình Tấn sờ vào ba lô thì giao diện của hệ thống túi chứa đồ lập tức bật ra trước mặt. Bảng giao diện này khá đơn giản, không có giới hạn ô vật phẩm. Góc dưới bên phải của bảng giao diện có hình ba đồng tiền vàng, bạc và đồng cùng với ba con số 0. Đây ắt hẳn là tiền tệ rồi. 
+
+Về phía bên trái của bảng giao diện thì đang hiển thị con số 0/41, Đình Tấn nhanh chóng nhận ra, đây chắc là con số phụ trọng để hắn mang theo vật phẩm chứa đồ.
+
+Đình Tấn thôi dò xét thân thể. Hắn bắt đầu tiến tới một Ông già đứng dưới gốc đại thụ ở khu trung tâm. Ông già mặc trên người một bộ áo vải màu nâu, lom khom chống gậy đứng dưới đại thụ nhìn người qua lại. Trên đầu Ông già hiển thị một dòng chữ xanh lá “Trưởng Làng”. 
+
+Trong tương lai, khi Đình Tấn còn ở trong căn cứ quân đội thì những lúc rỗi rảnh, hắn cũng thường hay chơi game để rèn luyện khả năng thực chiến của mình. 
+
+Bởi vì Đình Tấn đã biết được trí tuệ nhân tạo trong tương lai rất phát triển, cho nên đối với một tựa game tập hợp đầy đủ những tinh hoa của vô số kỹ thuật nhất lưu lúc ấy như game Anh Hùng thì trí tuệ của NPC nhất định sẽ không hề thấp chút nào. 
+
+Nếu như hắn nói năng lung tung có khi lại bị phạt, lúc ấy thì chắc khóc cũng không ra nước mắt.
+
+Đứng đối diện với Ông già, Đình Tấn trầm ổn, mở giọng.
+
+-	Xin chào trưởng làng, ta vừa đi đến thế giới này. Trưởng làng có cần giúp đỡ gì không?
+
+Ông già gật đầu, nhẹ giọng từ tốn đáp lại.
+
+-	The Dawn dũng sĩ đến vừa đúng lúc. Ngoài thông phía đông có một đám quái vật hung tợn không biết từ đâu mà đến. Dân làng đã nhiều người bị bọn chúng tấn công. Hi vọng dũng sĩ có thể ra sức tiêu diệt chúng, trợ giúp dân làng. Ta sẽ hậu tạ.
+
+Đình Tấn gật đầu đáp lại.
+
+-	Nguyện vì dân làng ra sức.
+
+Keng! – Tiếp nhận nhiệm vụ tiêu diệt Pholimodo.
+Nội dung : Trưởng làng yêu cầu ngươi tiêu diệt 0/20 con Pholimodo ở phía đông làng LD.
+
+Ông già đưa tay vào trong giỏ cây dưới chân, lấy ra một túi vải đưa cho Đình Tấn nói:
+
+-	Dũng sĩ vừa đến chắc cũng chưa có trang bị thuận tay. Nếu không chê xin nhận lấy của lão đây.
+
+Đình Tấn đưa tay tiếp lấy gói vải nói tiếng “Cảm ơn” sau đó xoay người bước đi ra cổng làng. Trên đường đi hắn thuận tay mở gói vải ra. 
+
+Ngay tức khắc, giao diện của hệ thống liền hiện lên hình ảnh nhiều món vũ khí khác nhau. Đao, kiếm, cung, pháp trượng, dao găm, rìu, búa v.v… mặc sức cho Đình Tấn chọn lựa.
+
+Sau khi quan sát một lúc, hắn cũng hơi phân vân giữa hai món vũ khí kiếm và pháp trượng. Nhưng mà sau vài giây suy nghĩ, hắn cuối cùng cũng lựa chọn đại kiếm. 
+
+Hiện tại, Đình Tấn không biết kỹ năng triệu hồi vong linh của mình có thể sử dụng ở trong game được hay không. Nếu như lựa chọn pháp trượng mà không thể sử dụng được kỹ năng thì chắc hắn chỉ có mà dùng tay không đơn đấu quái thú mà thôi. 
+
+Không thể thuận lợi mà thăng cấp, như vậy hắn sẽ nhanh chóng bị người chơi khác bỏ lại phía sau, trở nên lạc hậu so với sự tiến bộ của thế giới game. 
+
+Điều đó sẽ làm trái ngược với kế hoạch dẫn trước người chơi khác, tìm kiếm chênh lệch mà Đình Tấn đã định ra lúc ban đầu. Đây không phải vì hắn háo thắng, mà là vì cuộc sống trong hai năm sắp tới của hắn đều phải hoàn toàn dựa vào cái game này.
+
+Nắm giữ rất nhiều hoài bão, Đình Tấn không thể nào để cho mình xảy ra bất cứ sơ xuất nào dẫn đến thất bại. Chính vì thế sau khi chọn xác nhận vũ khí đại kiếm xong, hắn cũng không hề có bất cứ tiếc nuối gì.
+
+Giao diện những món vũ khí kia biến mất thì gói vải trong tay hắn cũng đồng thời tan biến theo. Ngay sau đó, trong ba lô Đình Tấn lại có thêm một thanh đại kiếm.
+
+Tân thủ đại kiếm (2 tay)
+Chất lượng : Đồ trắng
+Yêu cầu : Không
+Trọng lượng : 6kg
+Sát thương : 0 - 8
+
+Lấy thanh kiếm ra kiểm tra, kích cỡ của nó cũng chỉ nhỏ hơn so với thanh kiếm trước kia trong tương lai của hắn. 
+
+Dù vậy nhưng điều đó cũng không là vấn đề gì lớn đối với Đình Tấn. 10 năm chiến đấu, vũ khí nào mà hắn chưa sử dụng đến chứ. Chỉ cần cho hắn thời gian, hắn đều có thể thích nghi, quen thuộc được ngay. 
+
+Trang bị lên đại kiếm, công kích vật lý của Đình Tấn liền thay đổi thành 24 – 32 điểm. Không hề chậm trễ một phút giây nào, hắn nhanh chân rời khỏi ngôi làng tân thủ này.
+
+Theo như chỉ dẫn của hệ thống nhiệm vụ, Đình Tấn bước ra khỏi làng rồi đi thẳng về phía đông. Nơi đó là một bìa rừng, xung quanh cây cối rậm rạp, phía bên ngoài là một bãi cỏ rộng lớn, đang tụ tập đến 30 – 40 người. Bọn họ đang xoay quanh làm nhiệm vụ mà Trưởng làng đã giao cho giống như Đình Tấn. 
+
+Nhìn thấy mục tiêu nhiệm vụ những con quái vật này, Đình Tấn đã nhận ra nó ngay vì trong tương lai hắn không biết đã chém giết bao nhiêu con Pholimodo mà nói, nhưng ít nhất là không dưới con số hàng nghìn. 
+
+Những con Pholimodo có hình thể chỉ vừa cỡ những con cá sấu trên Trái Đất. Đầu nhỏ với hàm răng sắc nhọn đầy rẫy những loại virus kịch độc. Chiếc lưỡi kép như lưỡi rắn của nó liên tục đưa ra rút vào để đánh hơi lấy con mồi trong không khí. 
+
+Toàn thân nó được bao trùm bởi vảy giáp chẳng khác nào loài tê tê. Đồng thời chiếc đuôi thon dài và bốn cái chân ngắn, chỉ đủ chống đỡ thân thể nó cách khỏi mặt đất 10 – 20 cm, cũng là một trong những loại vũ khí của nó. 
+
+Pholimodo
+Level : 2
+HP : 150/150
+Kỹ năng : Không.
+Giới thiệu : Một loài bò sát vảy giáp. Sức chịu đựng rất mạnh, điểm yếu là phần đầu và bụng không có vẩy giáp.
+
+Quan sát xong bảng hệ thống thông số của con vật này, Đình Tấn nắm chặt đại kiếm, rảo bước tiến lên. 
+
+Bởi vì đại kiếm có trọng lượng cũng khá nặng, lại thêm Đình Tấn kéo lê đại kiếm dưới đất nên đã vô tình tạo thành một rãnh nhỏ. 
+
+Khi trông thấy khoảng cách giữa mình và một con Pholimodo chỉ còn lại khoảng 10 mét, hắn bắt đầu gia tốc. 
+
+Chạy đến trước mặt con Pholimodo chỉ cách nó khoảng hai mét, đôi chân Đình Tấn đột nhiên chùn xuống. Lấy eo làm trục, hắn xoay mạnh nửa người trên sang trái.
+
+Cùng lúc đó, hai tay hắn nắm đại chặt kiếm, chém mạnh vào khe hở giữa phần bụng của con Pholimodo và mặt đất.
+
+-38 (Điểm Yếu)
+
+Ngay khi bị đại kiếm va chạm, con Pholimodo chỉ kịp ré lên một tiếng sau đó liền bị hất bay mấy vòng trên không trung. Đồng thời, trên đầu của nó cũng nổi lên một con số sát thương đỏ lòm, trông rất máu tanh.
+
+Công kích vào Điểm Yếu sẽ tăng thêm sát thương nhận vào 100%, nhờ vậy ống HP của con Pholimodo nhanh chóng bị cắt giảm đi gần một phần tư. 
+
+Con Pholimodo vừa rơi xuống đất, muốn nghiêng mình lật người để che lại phần bụng, thế nhưng Đình Tấn nào có cho nó được như ý. 
+
+Thuận thế đang lúc vươn mình sau khi chém một kiếm kia, hắn liền xoay một vòng, bàn tay nắm chặt kiếm tiếp tục bổ xuống phần bụng đang ngửa lên trời của con Pholimodo kia.
+
+-85 (Chí mạng)
+
+Một kích Chí Mạng gia tăng thêm 200% lượng sát thương làm cho ống HP của con Pholimodo chỉ còn lại chưa đến một phần tư. 
+
+Thừa thế không buông tha, Đình Tấn lấy eo làm trục, nghiêng mình sang trái, hai tay đồng thời kéo theo kiếm lộn ngược một vòng từ sau ra trước, bổ mạnh lên trên tấm lưng đầy giáp xác của con Pholimodo. 
+
+-30
+
+Con Pholimodo này vừa lật người lại, đang muốn chồm lên tấn công Đình Tấn thì một con số tổn tương đã nổi lên trên đầu, kết thúc sinh mệnh của nó. Từ trên xác con Pholimodo tung ra 3 đồng tiền kèm theo đó là thông báo hệ thống.
+
+EXP + 5
+
+Quá trình chiến đấu từ lúc Đình Tấn bắt đầu tiến công cho đến khi kết thúc sinh mệnh con Pholimodo nói thì dài nhưng thời gian diễn ra chưa đến 20 giây. Màn chiến đấu hoa lệ của Đình Tấn cũng đã gây nên sự chú ý từ nhiều người chơi xung quanh.
+
+Có một tên người chơi nam gần đó đã liên tục chú ý Đình Tấn, không bỏ sót một giây phút nào. Từ lúc Đình Tấn gia tốc tiến về phía con Pholimodo cho đến khi hoàn thành chém giết mục tiêu, hai mắt hắn đã từ ngạc nhiên đi đến hâm mộ mà dõi theo Đình Tấn. 
+
+Nhìn lại thanh cung gỗ trong tay, giọng nói của hắn tràn đầy hối hận mà nói với tên đồng bạn bên cạnh:
+
+-	Mẹ nó, không ngờ chơi đại kiếm mà lại có thể chiến đấu đẹp trai đến như vậy. Cái này mới là vũ khí cho đàn ông mà. Biết vậy lúc đầu ta không chọn cung tiễn cái thanh vũ khí cùi bắp này. Tổn thương không đến được hai chữ số nữa.
+
+Vài tên người chơi nhìn thấy thực lực Đình Tấn lúc này, đánh bạo chạy lại mời tổ đội. Thế nhưng đều bị sự im lặng của Đình Tấn từ chối hết. 
+
+Mặc kệ mọi người soi mói, hắn chậm rãi đi đến một bên khu vực trống trải để tiếp tục tiêu diệt bọn Pholimodo làm nhiệm vụ.
+
+Hơn 10 phút sau đó, một kiếm cuối cùng kết liễu sinh mệnh con Pholimodo khác. Hai âm thanh của hệ thống cuối cùng cũng vang lên bên tai Đình Tấn:
+
+EXP +5
+Keng! - Chúc mừng ngài đã thăng một cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Đình Tấn rốt cục đã chém giết đủ 20 con Pholimodo. Hiện tại, game Anh Hùng đã mở cửa vận hành được hơn 20 phút, do đó người chơi ở thành phố LoDa đăng nhập vào càng lúc càng nhiều hơn. Quá trình chém giết của Đình Tấn diễn ra cũng trở nên chậm hơn rất nhiều vì phải đợi quái vật được đổi mới.
+
+Tuy rằng có được điểm tiềm năng mới thế nhưng hắn cũng không vội sử dụng mà nhanh chóng lên đường trở về làng. 
+
+Chen chút qua một số đông người chơi, Đình Tấn cuối cũng cũng đã trở lại khoảng sân rộng xung quanh cây đại thụ, nơi liên tục lấp loé ánh sáng người chơi mới đăng nhập vào game. 
+
+Lúc bấy giờ đã có 20 - 30 người vẫn còn chen lấn đi vào để gặp trưởng làng nhận nhiệm vụ. Đình Tấn lại phải tốn công sức cùng với bỏ ra một hồi lâu mới tiến tới giao tiếp được với trưởng làng:
+
+-	Xin mời trưởng làng kiểm tra, ta đã chém giết hoàn thành nhiệm vụ ngài giao cho.
+
+Trưởng làng vui vẻ, tán thưởng: 
+
+-	Tốt, rất tốt. Cảm tạ dũng sĩ vì dân làng trừ hại. Ta đây chút lòng thành mong dũng sĩ nhận cho.
+
+Keng! – Chúc mừng ngài hoàn thành nhiệm vụ Tiêu diệt Pholimodo.
+EXP +100
+Nhặt được Giáp tân thủ x1.
+Nhặt được tiền đồng x100
+
+Trao thưởng xong, trưởng làng vẫn chưa dừng lại. Hắn nhẹ giọng khẩn cầu.
+
+-	Phía bên kia lò rèn người đàn ông tên gọi DeShawn, con trai của hắn đã bị mất tích đã ba ngày rồi. Đến giờ hắn đã sắp tuyệt vọng rồi, nếu có thể thì mong dũng sĩ giúp được thì giúp hắn một lần đi. Được không?
+
+Đình Tấn gật đầu, đồng ý:
+
+-	Được, ta sẽ đi gặp hắn.
+
+Quay đầu hướng về lò rèn duy nhất trong làng đi đến, khoảng cách không xa cũng chỉ hơn chục bước. Nhưng do người chơi quá đông, chen lấn nhau để vào gặp trưởng làng làm cho Đình Tấn di chuyển thập phần khó khăn. 
+
+Nhân tiện lúc chen lấn này, hắn mới mở ra hệ thống thông số nhân vật để kiểm tra. Bất quá, mọi thứ đều không có thay đổi duy nhất chỉ có dòng EXP gia tăng từ 0/100 thành 100/200. 
+
+Sau đó, Đình Tấn lại tiếp tục mở ra giao diện ba lô để kiểm tra áo giáp vừa được thưởng.
+
+Giáp tân thủ
+Chất lượng : Đồ trắng
+Yêu cầu : Không
+Cân nặng 2kg
+Phòng ngự vật lý: +2 
+
+Không có gì đặc biệt lắm, Đình Tấn lựa chọn trang bị. Giáp màu nâu ngắn tay, dài quá rốn. Được làm từ da động vật nào đó, dùng móc sắt đan kết lại các bộ vị. 
+
+Trang bị lên bộ giáp da, Đình Tấn không hề cảm thấy vướng víu khó chịu tí nào, dường như bộ giáp này được đo lường làm sẵn cho hắn vậy.
+
+Rốt cục đi tới lò rèn, Đình Tấn chậm rãi đi vào gặp người thợ rèn DeShawn đó, rồi mở lời.
+
+-	Xin chào chú DeShawn. Ta nghe trưởng làng nói ngài cần giúp đỡ phải không?
+
+Người đàn ông thợ rèn DeShawn dừng lại động tác rèn trong tay. Hắn vất cây búa rèn của mình sang một bên, sau đó ngẩng đầu lên kích động nhìn Đình Tấn nói.
+
+-	Đúng, đúng vậy thưa dũng sĩ. Con trai ta đi dạo chơi ở khu rừng phía tây nay đã mất tích mấy ngày rồi. Xin dũng sĩ giúp ta tìm hắn.
+
+Đình Tấn không nhiều lời gật đầu đồng ý:
+
+-	Được, xin ngài đợi tin tốt lành.
+
+Keng! – Tiếp nhận nhiệm vụ đi tìm con trai DeShawn.
+Nội dung : Đi đến khu rừng phía tây, tìm kiếm tung tích con trai lão thợ rèn DeShawn.
+
+Đình Tấn xoay nhanh chóng bước đi ra khỏi làng hướng về khu rừng phía tây.Nắp khoang cabin trò chơi đóng lại, Đình Tấn liền đeo lên mặt nạ dưỡng khí. Ấn nút khởi động trên đầu, dịch dinh dưỡng từ ống hai bên cabin bắt đầu tràn ra, nhấn chìm Đình Tấn đang nằm bên trong. 
+
+Hắn không hề cảm thấy một chút khó chịu nào, ngược lại dịch dinh dưỡng như một dòng nước suối mát lạnh từ từ bao bọc lấy cơ thể của hắn. Một cảm giác đau nhói xung quanh đầu xuất hiện, giống như có một dòng điện chạy qua đầu.
+
+Mí mắt của hắn dần dần trở nên nặng trĩu, cuối cùng cũng nhắm lại. Ngay sau đó, Đình Tấn phát hiện mình đã tiến vào một không gian trắng xóa khác, mà cảm giác của hắn lúc này chẳng khác gì đang lơ lửng ở một môi trường không trọng lực, bay trên không trung. 
+
+Nơi này bề ngoài giống như một không gian vũ trụ màu trắng, thân thể của Đình Tấn bay bổng một hồi lâu. Cho đến khi đồng hồ điểm đúng 9 giờ tối thì đột nhiên, một giọng nói máy móc từ trong hư không vọng ra.
+
+-	Tiến hành lấy mẫu DNA đăng ký tài khoản.
+
+... 
+
+-	Hoàn tất. Tiến hành đo lường thể chất, cơ thể của ngài có thể sẽ hơi khó chịu một hồi. Xin chịu đựng.
+
+Hệ thống vừa nói xong đoạn này, Đình Tấn liền nhanh chóng cảm giác được cơ bắp của mình đang co thắt một hồi. Cả thân thể dường như có hàng nghìn vạn cây kim nhỏ đang đâm vào. 
+
+Nội tạng ở bên trong như tim và phổi cũng nhanh chóng gia tốc hoạt động. Còn hai mắt thì lúc mờ lúc rõ, đôi tai cũng giống như bị mất đi tín hiệu, vang lên âm thanh ù ù một lúc lâu. 
+
+Đình Tấn đoán rằng, có lẽ hệ thống đang dùng sóng điện não kích thích cơ thể hắn hoạt động nhằm đo lường thể chất quyết định thông số cho nhân vật game của hắn.
+
+Một hồi lâu trôi qua, âm thanh của hệ thống lại vang lên bên tai Đình Tấn.
+
+-	Đã kiểm tra xong. Đẳng cấp phân chia Cực, Thượng, Trung, Hạ. Tư chất của ngài thuộc về hàng Thượng phẩm. Xin chờ kiểm tra tinh thần của trí não.
+
+Lần này kiểm tra tinh thần của trí não này, Đình Tấn ngược lại không hề cảm thấy gì khác thường. 
+
+Hắn đoán rằng, các vị giáo sư khi phát triển đến giai đoạn kiểm tra này có thể là đã dựa trên cơ sở cường độ của sóng điện não để do lường lực lượng của tinh thần. 
+
+Bởi vì tinh thần là một thứ khá là trừu tượng cho nên không có một cách cụ thể nào để xác định được cường độ mạnh mẽ của nó. Ngay cả một vị tu luyện nghề nghiệp triệu hoán sư như hắn còn không biết đến hiện tại thì cường độ tinh thần của mình đã ở mức độ nào kia mà.
+
+Thẫn thờ suy nghĩ một hồi, không quá thời gian một phút, quá trình đo lường này cuối cùng cũng kết thúc. Bảng thống kê thông số cơ thể Đình Tấn sau khi đo lường nhanh chóng hiển thị trước mặt hắn.
+
+Cùng lúc đó âm thanh của hệ thống lại tiếp tục vang lên.
+
+-	Quá trình đo lường tinh thần kết thúc. Đẳng cấp phân chia Cực, Thượng, Trung, Hạ. Cường độ tinh thần của ngài thuộc về hàng Cực phẩm. Xin mời kiểm tra thông số và lựa chọn thoát hoặc đăng nhập vào game.
+
+Tính danh : Đình Tấn (Ẩn)
+Biệt danh : Chưa chọn (Thay đổi) (Hiển thị)
+Tuổi : 23
+Chức nghiệp : Chưa chọn
+
+---- Thông số ----
+
+Lực lượng : 24 – Tips : Tăng sát thương cận chiến, khả năng mang vác
+-	1 lực lượng = 1 sát thương vật lý
+-	1 lực lượng = 1.5kg phụ trọng, vượt mức sẽ giảm tốc độ di chuyển
+-	1 lực lượng = 0.03 phòng thủ
+
+Nhanh nhẹn : 20 – Tips : Tăng tốc độ tấn công, di chuyển
+-	1 nhanh nhẹn = 0.02 tốc độ tấn công cận chiến / 0.01 tấn công tầm xa
+-	1 nhanh nhẹn = 0.01 m/s tốc độ di chuyển
+-	1 nhanh nhẹn = 0.01 phòng thủ
+
+Thể lực : 23 – Tips : Tăng HP , khả năng khôi phục HP
+-	1 thể lực = 20 HP
+-	1 thể lực = hồi phục 0.03 HP/s 
+-	1 thể lực = 0.1 phòng thủ
+
+Tinh thần : 34 – Tips : Tăng MP, sát thương ma pháp, khả năng hồi phục ma pháp
+-	1 tinh thần = 1 sát thương ma pháp
+-	1 tinh thần = 12 MP
+-	1 tinh thần = hồi phục 0.04 MP/s 
+-	1 tinh thần = 0.15 pháp thuật phòng thủ
+
+---- Chi tiết ----
+
+Level : 1
+HP : 460/460 (+0.69/s)
+MP : 408/408 (+1.36/s)
+EXP : 0/100
+
+Tốc độ tấn công : 1.4 lần/s (Vũ khí một tay và vũ khí tầm xa cơ bản +1 lần/s) - 0.9 lần/s (Vũ khí hai tay +0.5 lần/s)
+
+Tốc độ di chuyển : 2.2 m/s
+Sát thương vật lý : 24 – 24
+Sát thương phép thuật : 34 – 34
+Phòng thủ vật lý : 3.2
+Phòng thủ pháp thuật : 5.1
+Phụ trọng : 41kg (Cơ bản 5kg)
+
+May mắn : 0
+Thiên phú : 7 (Thượng phẩm thể chất +3, Cực phẩm tinh thần +4) – Tips : Điều kiện để học tập một số nghề nghiệp hoặc kỹ năng có yêu cầu đặc biệt.
+
+[Xác nhận vào game] [Thoát khỏi game]
+
+
+Đình Tấn xem xét xong bảng thông số thống kê sau khi đã đo lường ra kết quả, thì không khỏi gật đầu thỏa mãn. 
+
+Không uống công hắn bỏ ra sáu tháng để liên tục rèn luyện, tăng cường tố chất thân thể. Hiện tại, cơ thể hắn đã bước vào hàng ngũ Thượng phẩm, còn riêng về cường độ của tinh thần thì càng đạt đến ngưỡng cực phẩm. 
+
+Với tố chất thân thể này, Đình Tấn có thể xem như là gần đứng ngang hàng với một tên quân nhân hoặc vận động viên thể thao rồi.
+
+Xem xong thuộc tính, Đình Tấn cũng không vội vào game. Hắn lựa chọn ẩn đi tính danh của mình. 
+
+Bởi vì tuy là hắn chơi game nhưng có thể cũng sẽ không tránh khỏi gây xích mích, kéo thù hận với người chơi khác. Mà thời gian đối với hắn bây giờ thì còn quý hơn cả vàng bạc. 
+
+Nếu phiền toái liên tục kéo đến, thậm chí còn bị lôi ra đến thế giới hiện thực, thì hắn không có dư thừa thời gian và tinh lực đâu để giải quyết mấy vấn đề này.
+
+Nghĩ vậy nên Đình Tấn quyết định thay đổi Biệt danh của mình lại thành “The Dawn” và đồng thời hắn cũng lựa chọn chỉ hiển thị Biệt danh thay vì hiển thị tên thật của mình. 
+
+Ngay sau đó, hệ thống tại tiếp tục kêu vang thông báo. 
+
+-	Biệt danh chưa được sử dụng. Đã thay đổi thành công.
+
+Hoàn tất những việc nhỏ này, Đình Tấn mới lựa chọn [ Xác nhận vào game].
+
+Bất thình lình, ánh sáng loé lên một cái làm Đình Tấn cũng không chịu được, phải nhắm mắt lại. Vài hơi thở sau đó, âm thanh hệ thống lại vang lên bên tai hắn.
+
+-	Đăng nhập thành công. Ngài hiện đang ở làng LD số 03 thuộc khu vực quốc gia Entire Land. Chúc ngài sớm ngày trở thành Anh Hùng, cứu vớt Trái Đất.
+
+Mở mắt ra quan sát cảnh vật xung quanh, Đình Tấn cảm giác ấn tượng đầu tiên đó là lạc hậu. Một ngôi làng nghèo nàn, điển hình thôn quê. Bao quanh ngôi làng là một hàng rào dựng bằng những cây cọc gỗ đầu vuốt nhọn đan xen vào nhau. 
+
+Cả ngôi làng có diện tích không hơn 2 km vuông. Năm, sáu căn nhà lụp xụp thưa thớt, xoay quanh một cây đại thụ to lớn ở giữa, sau đó kéo dài ra cổng làng tạo thành một hình chữ U. 
+
+Do Đình Tấn đã sớm đăng nhập vào game, cho nên hiện tại xung quanh hắn cũng khá vắng vẻ, chỉ thưa thớt xuất hiện chưa đến hơn chục người.
+
+Kiểm tra lại trang bị trên người, Đình Tấn phát hiện mình chỉ mang theo một bộ quần áo vải màu đen. Đây có thể xem như là quần áo lót che thân không chiếm vị trí trang bị cũng như tăng thêm chỉ số cho Đình Tấn. 
+
+Bên hông của hắn vắt theo một chiếc ba lô nhỏ, kích cỡ chỉ vừa đủ cho bàn tay thò vào. Đình Tấn sờ vào ba lô thì giao diện của hệ thống túi chứa đồ lập tức bật ra trước mặt. Bảng giao diện này khá đơn giản, không có giới hạn ô vật phẩm. Góc dưới bên phải của bảng giao diện có hình ba đồng tiền vàng, bạc và đồng cùng với ba con số 0. Đây ắt hẳn là tiền tệ rồi. 
+
+Về phía bên trái của bảng giao diện thì đang hiển thị con số 0/41, Đình Tấn nhanh chóng nhận ra, đây chắc là con số phụ trọng để hắn mang theo vật phẩm chứa đồ.
+
+Đình Tấn thôi dò xét thân thể. Hắn bắt đầu tiến tới một Ông già đứng dưới gốc đại thụ ở khu trung tâm. Ông già mặc trên người một bộ áo vải màu nâu, lom khom chống gậy đứng dưới đại thụ nhìn người qua lại. Trên đầu Ông già hiển thị một dòng chữ xanh lá “Trưởng Làng”. 
+
+Trong tương lai, khi Đình Tấn còn ở trong căn cứ quân đội thì những lúc rỗi rảnh, hắn cũng thường hay chơi game để rèn luyện khả năng thực chiến của mình. 
+
+Bởi vì Đình Tấn đã biết được trí tuệ nhân tạo trong tương lai rất phát triển, cho nên đối với một tựa game tập hợp đầy đủ những tinh hoa của vô số kỹ thuật nhất lưu lúc ấy như game Anh Hùng thì trí tuệ của NPC nhất định sẽ không hề thấp chút nào. 
+
+Nếu như hắn nói năng lung tung có khi lại bị phạt, lúc ấy thì chắc khóc cũng không ra nước mắt.
+
+Đứng đối diện với Ông già, Đình Tấn trầm ổn, mở giọng.
+
+-	Xin chào trưởng làng, ta vừa đi đến thế giới này. Trưởng làng có cần giúp đỡ gì không?
+
+Ông già gật đầu, nhẹ giọng từ tốn đáp lại.
+
+-	The Dawn dũng sĩ đến vừa đúng lúc. Ngoài thông phía đông có một đám quái vật hung tợn không biết từ đâu mà đến. Dân làng đã nhiều người bị bọn chúng tấn công. Hi vọng dũng sĩ có thể ra sức tiêu diệt chúng, trợ giúp dân làng. Ta sẽ hậu tạ.
+
+Đình Tấn gật đầu đáp lại.
+
+-	Nguyện vì dân làng ra sức.
+
+Keng! – Tiếp nhận nhiệm vụ tiêu diệt Pholimodo.
+Nội dung : Trưởng làng yêu cầu ngươi tiêu diệt 0/20 con Pholimodo ở phía đông làng LD.
+
+Ông già đưa tay vào trong giỏ cây dưới chân, lấy ra một túi vải đưa cho Đình Tấn nói:
+
+-	Dũng sĩ vừa đến chắc cũng chưa có trang bị thuận tay. Nếu không chê xin nhận lấy của lão đây.
+
+Đình Tấn đưa tay tiếp lấy gói vải nói tiếng “Cảm ơn” sau đó xoay người bước đi ra cổng làng. Trên đường đi hắn thuận tay mở gói vải ra. 
+
+Ngay tức khắc, giao diện của hệ thống liền hiện lên hình ảnh nhiều món vũ khí khác nhau. Đao, kiếm, cung, pháp trượng, dao găm, rìu, búa v.v… mặc sức cho Đình Tấn chọn lựa.
+
+Sau khi quan sát một lúc, hắn cũng hơi phân vân giữa hai món vũ khí kiếm và pháp trượng. Nhưng mà sau vài giây suy nghĩ, hắn cuối cùng cũng lựa chọn đại kiếm. 
+
+Hiện tại, Đình Tấn không biết kỹ năng triệu hồi vong linh của mình có thể sử dụng ở trong game được hay không. Nếu như lựa chọn pháp trượng mà không thể sử dụng được kỹ năng thì chắc hắn chỉ có mà dùng tay không đơn đấu quái thú mà thôi. 
+
+Không thể thuận lợi mà thăng cấp, như vậy hắn sẽ nhanh chóng bị người chơi khác bỏ lại phía sau, trở nên lạc hậu so với sự tiến bộ của thế giới game. 
+
+Điều đó sẽ làm trái ngược với kế hoạch dẫn trước người chơi khác, tìm kiếm chênh lệch mà Đình Tấn đã định ra lúc ban đầu. Đây không phải vì hắn háo thắng, mà là vì cuộc sống trong hai năm sắp tới của hắn đều phải hoàn toàn dựa vào cái game này.
+
+Nắm giữ rất nhiều hoài bão, Đình Tấn không thể nào để cho mình xảy ra bất cứ sơ xuất nào dẫn đến thất bại. Chính vì thế sau khi chọn xác nhận vũ khí đại kiếm xong, hắn cũng không hề có bất cứ tiếc nuối gì.
+
+Giao diện những món vũ khí kia biến mất thì gói vải trong tay hắn cũng đồng thời tan biến theo. Ngay sau đó, trong ba lô Đình Tấn lại có thêm một thanh đại kiếm.
+
+Tân thủ đại kiếm (2 tay)
+Chất lượng : Đồ trắng
+Yêu cầu : Không
+Trọng lượng : 6kg
+Sát thương : 0 - 8
+
+Lấy thanh kiếm ra kiểm tra, kích cỡ của nó cũng chỉ nhỏ hơn so với thanh kiếm trước kia trong tương lai của hắn. 
+
+Dù vậy nhưng điều đó cũng không là vấn đề gì lớn đối với Đình Tấn. 10 năm chiến đấu, vũ khí nào mà hắn chưa sử dụng đến chứ. Chỉ cần cho hắn thời gian, hắn đều có thể thích nghi, quen thuộc được ngay. 
+
+Trang bị lên đại kiếm, công kích vật lý của Đình Tấn liền thay đổi thành 24 – 32 điểm. Không hề chậm trễ một phút giây nào, hắn nhanh chân rời khỏi ngôi làng tân thủ này.
+
+Theo như chỉ dẫn của hệ thống nhiệm vụ, Đình Tấn bước ra khỏi làng rồi đi thẳng về phía đông. Nơi đó là một bìa rừng, xung quanh cây cối rậm rạp, phía bên ngoài là một bãi cỏ rộng lớn, đang tụ tập đến 30 – 40 người. Bọn họ đang xoay quanh làm nhiệm vụ mà Trưởng làng đã giao cho giống như Đình Tấn. 
+
+Nhìn thấy mục tiêu nhiệm vụ những con quái vật này, Đình Tấn đã nhận ra nó ngay vì trong tương lai hắn không biết đã chém giết bao nhiêu con Pholimodo mà nói, nhưng ít nhất là không dưới con số hàng nghìn. 
+
+Những con Pholimodo có hình thể chỉ vừa cỡ những con cá sấu trên Trái Đất. Đầu nhỏ với hàm răng sắc nhọn đầy rẫy những loại virus kịch độc. Chiếc lưỡi kép như lưỡi rắn của nó liên tục đưa ra rút vào để đánh hơi lấy con mồi trong không khí. 
+
+Toàn thân nó được bao trùm bởi vảy giáp chẳng khác nào loài tê tê. Đồng thời chiếc đuôi thon dài và bốn cái chân ngắn, chỉ đủ chống đỡ thân thể nó cách khỏi mặt đất 10 – 20 cm, cũng là một trong những loại vũ khí của nó. 
+
+Pholimodo
+Level : 2
+HP : 150/150
+Kỹ năng : Không.
+Giới thiệu : Một loài bò sát vảy giáp. Sức chịu đựng rất mạnh, điểm yếu là phần đầu và bụng không có vẩy giáp.
+
+Quan sát xong bảng hệ thống thông số của con vật này, Đình Tấn nắm chặt đại kiếm, rảo bước tiến lên. 
+
+Bởi vì đại kiếm có trọng lượng cũng khá nặng, lại thêm Đình Tấn kéo lê đại kiếm dưới đất nên đã vô tình tạo thành một rãnh nhỏ. 
+
+Khi trông thấy khoảng cách giữa mình và một con Pholimodo chỉ còn lại khoảng 10 mét, hắn bắt đầu gia tốc. 
+
+Chạy đến trước mặt con Pholimodo chỉ cách nó khoảng hai mét, đôi chân Đình Tấn đột nhiên chùn xuống. Lấy eo làm trục, hắn xoay mạnh nửa người trên sang trái.
+
+Cùng lúc đó, hai tay hắn nắm đại chặt kiếm, chém mạnh vào khe hở giữa phần bụng của con Pholimodo và mặt đất.
+
+-38 (Điểm Yếu)
+
+Ngay khi bị đại kiếm va chạm, con Pholimodo chỉ kịp ré lên một tiếng sau đó liền bị hất bay mấy vòng trên không trung. Đồng thời, trên đầu của nó cũng nổi lên một con số sát thương đỏ lòm, trông rất máu tanh.
+
+Công kích vào Điểm Yếu sẽ tăng thêm sát thương nhận vào 100%, nhờ vậy ống HP của con Pholimodo nhanh chóng bị cắt giảm đi gần một phần tư. 
+
+Con Pholimodo vừa rơi xuống đất, muốn nghiêng mình lật người để che lại phần bụng, thế nhưng Đình Tấn nào có cho nó được như ý. 
+
+Thuận thế đang lúc vươn mình sau khi chém một kiếm kia, hắn liền xoay một vòng, bàn tay nắm chặt kiếm tiếp tục bổ xuống phần bụng đang ngửa lên trời của con Pholimodo kia.
+
+-85 (Chí mạng)
+
+Một kích Chí Mạng gia tăng thêm 200% lượng sát thương làm cho ống HP của con Pholimodo chỉ còn lại chưa đến một phần tư. 
+
+Thừa thế không buông tha, Đình Tấn lấy eo làm trục, nghiêng mình sang trái, hai tay đồng thời kéo theo kiếm lộn ngược một vòng từ sau ra trước, bổ mạnh lên trên tấm lưng đầy giáp xác của con Pholimodo. 
+
+-30
+
+Con Pholimodo này vừa lật người lại, đang muốn chồm lên tấn công Đình Tấn thì một con số tổn tương đã nổi lên trên đầu, kết thúc sinh mệnh của nó. Từ trên xác con Pholimodo tung ra 3 đồng tiền kèm theo đó là thông báo hệ thống.
+
+EXP + 5
+
+Quá trình chiến đấu từ lúc Đình Tấn bắt đầu tiến công cho đến khi kết thúc sinh mệnh con Pholimodo nói thì dài nhưng thời gian diễn ra chưa đến 20 giây. Màn chiến đấu hoa lệ của Đình Tấn cũng đã gây nên sự chú ý từ nhiều người chơi xung quanh.
+
+Có một tên người chơi nam gần đó đã liên tục chú ý Đình Tấn, không bỏ sót một giây phút nào. Từ lúc Đình Tấn gia tốc tiến về phía con Pholimodo cho đến khi hoàn thành chém giết mục tiêu, hai mắt hắn đã từ ngạc nhiên đi đến hâm mộ mà dõi theo Đình Tấn. 
+
+Nhìn lại thanh cung gỗ trong tay, giọng nói của hắn tràn đầy hối hận mà nói với tên đồng bạn bên cạnh:
+
+-	Mẹ nó, không ngờ chơi đại kiếm mà lại có thể chiến đấu đẹp trai đến như vậy. Cái này mới là vũ khí cho đàn ông mà. Biết vậy lúc đầu ta không chọn cung tiễn cái thanh vũ khí cùi bắp này. Tổn thương không đến được hai chữ số nữa.
+
+Vài tên người chơi nhìn thấy thực lực Đình Tấn lúc này, đánh bạo chạy lại mời tổ đội. Thế nhưng đều bị sự im lặng của Đình Tấn từ chối hết. 
+
+Mặc kệ mọi người soi mói, hắn chậm rãi đi đến một bên khu vực trống trải để tiếp tục tiêu diệt bọn Pholimodo làm nhiệm vụ.
+
+Hơn 10 phút sau đó, một kiếm cuối cùng kết liễu sinh mệnh con Pholimodo khác. Hai âm thanh của hệ thống cuối cùng cũng vang lên bên tai Đình Tấn:
+
+EXP +5
+Keng! - Chúc mừng ngài đã thăng một cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Đình Tấn rốt cục đã chém giết đủ 20 con Pholimodo. Hiện tại, game Anh Hùng đã mở cửa vận hành được hơn 20 phút, do đó người chơi ở thành phố LoDa đăng nhập vào càng lúc càng nhiều hơn. Quá trình chém giết của Đình Tấn diễn ra cũng trở nên chậm hơn rất nhiều vì phải đợi quái vật được đổi mới.
+
+Tuy rằng có được điểm tiềm năng mới thế nhưng hắn cũng không vội sử dụng mà nhanh chóng lên đường trở về làng. 
+
+Chen chút qua một số đông người chơi, Đình Tấn cuối cũng cũng đã trở lại khoảng sân rộng xung quanh cây đại thụ, nơi liên tục lấp loé ánh sáng người chơi mới đăng nhập vào game. 
+
+Lúc bấy giờ đã có 20 - 30 người vẫn còn chen lấn đi vào để gặp trưởng làng nhận nhiệm vụ. Đình Tấn lại phải tốn công sức cùng với bỏ ra một hồi lâu mới tiến tới giao tiếp được với trưởng làng:
+
+-	Xin mời trưởng làng kiểm tra, ta đã chém giết hoàn thành nhiệm vụ ngài giao cho.
+
+Trưởng làng vui vẻ, tán thưởng: 
+
+-	Tốt, rất tốt. Cảm tạ dũng sĩ vì dân làng trừ hại. Ta đây chút lòng thành mong dũng sĩ nhận cho.
+
+Keng! – Chúc mừng ngài hoàn thành nhiệm vụ Tiêu diệt Pholimodo.
+EXP +100
+Nhặt được Giáp tân thủ x1.
+Nhặt được tiền đồng x100
+
+Trao thưởng xong, trưởng làng vẫn chưa dừng lại. Hắn nhẹ giọng khẩn cầu.
+
+-	Phía bên kia lò rèn người đàn ông tên gọi DeShawn, con trai của hắn đã bị mất tích đã ba ngày rồi. Đến giờ hắn đã sắp tuyệt vọng rồi, nếu có thể thì mong dũng sĩ giúp được thì giúp hắn một lần đi. Được không?
+
+Đình Tấn gật đầu, đồng ý:
+
+-	Được, ta sẽ đi gặp hắn.
+
+Quay đầu hướng về lò rèn duy nhất trong làng đi đến, khoảng cách không xa cũng chỉ hơn chục bước. Nhưng do người chơi quá đông, chen lấn nhau để vào gặp trưởng làng làm cho Đình Tấn di chuyển thập phần khó khăn. 
+
+Nhân tiện lúc chen lấn này, hắn mới mở ra hệ thống thông số nhân vật để kiểm tra. Bất quá, mọi thứ đều không có thay đổi duy nhất chỉ có dòng EXP gia tăng từ 0/100 thành 100/200. 
+
+Sau đó, Đình Tấn lại tiếp tục mở ra giao diện ba lô để kiểm tra áo giáp vừa được thưởng.
+
+Giáp tân thủ
+Chất lượng : Đồ trắng
+Yêu cầu : Không
+Cân nặng 2kg
+Phòng ngự vật lý: +2 
+
+Không có gì đặc biệt lắm, Đình Tấn lựa chọn trang bị. Giáp màu nâu ngắn tay, dài quá rốn. Được làm từ da động vật nào đó, dùng móc sắt đan kết lại các bộ vị. 
+
+Trang bị lên bộ giáp da, Đình Tấn không hề cảm thấy vướng víu khó chịu tí nào, dường như bộ giáp này được đo lường làm sẵn cho hắn vậy.
+
+Rốt cục đi tới lò rèn, Đình Tấn chậm rãi đi vào gặp người thợ rèn DeShawn đó, rồi mở lời.
+
+-	Xin chào chú DeShawn. Ta nghe trưởng làng nói ngài cần giúp đỡ phải không?
+
+Người đàn ông thợ rèn DeShawn dừng lại động tác rèn trong tay. Hắn vất cây búa rèn của mình sang một bên, sau đó ngẩng đầu lên kích động nhìn Đình Tấn nói.
+
+-	Đúng, đúng vậy thưa dũng sĩ. Con trai ta đi dạo chơi ở khu rừng phía tây nay đã mất tích mấy ngày rồi. Xin dũng sĩ giúp ta tìm hắn.
+
+Đình Tấn không nhiều lời gật đầu đồng ý:
+
+-	Được, xin ngài đợi tin tốt lành.
+
+Keng! – Tiếp nhận nhiệm vụ đi tìm con trai DeShawn.
+Nội dung : Đi đến khu rừng phía tây, tìm kiếm tung tích con trai lão thợ rèn DeShawn.
+
+Đình Tấn xoay nhanh chóng bước đi ra khỏi làng hướng về khu rừng phía tây.Nắp khoang cabin trò chơi đóng lại, Đình Tấn liền đeo lên mặt nạ dưỡng khí. Ấn nút khởi động trên đầu, dịch dinh dưỡng từ ống hai bên cabin bắt đầu tràn ra, nhấn chìm Đình Tấn đang nằm bên trong. 
+
+Hắn không hề cảm thấy một chút khó chịu nào, ngược lại dịch dinh dưỡng như một dòng nước suối mát lạnh từ từ bao bọc lấy cơ thể của hắn. Một cảm giác đau nhói xung quanh đầu xuất hiện, giống như có một dòng điện chạy qua đầu.
+
+Mí mắt của hắn dần dần trở nên nặng trĩu, cuối cùng cũng nhắm lại. Ngay sau đó, Đình Tấn phát hiện mình đã tiến vào một không gian trắng xóa khác, mà cảm giác của hắn lúc này chẳng khác gì đang lơ lửng ở một môi trường không trọng lực, bay trên không trung. 
+
+Nơi này bề ngoài giống như một không gian vũ trụ màu trắng, thân thể của Đình Tấn bay bổng một hồi lâu. Cho đến khi đồng hồ điểm đúng 9 giờ tối thì đột nhiên, một giọng nói máy móc từ trong hư không vọng ra.
+
+-	Tiến hành lấy mẫu DNA đăng ký tài khoản.
+
+... 
+
+-	Hoàn tất. Tiến hành đo lường thể chất, cơ thể của ngài có thể sẽ hơi khó chịu một hồi. Xin chịu đựng.
+
+Hệ thống vừa nói xong đoạn này, Đình Tấn liền nhanh chóng cảm giác được cơ bắp của mình đang co thắt một hồi. Cả thân thể dường như có hàng nghìn vạn cây kim nhỏ đang đâm vào. 
+
+Nội tạng ở bên trong như tim và phổi cũng nhanh chóng gia tốc hoạt động. Còn hai mắt thì lúc mờ lúc rõ, đôi tai cũng giống như bị mất đi tín hiệu, vang lên âm thanh ù ù một lúc lâu. 
+
+Đình Tấn đoán rằng, có lẽ hệ thống đang dùng sóng điện não kích thích cơ thể hắn hoạt động nhằm đo lường thể chất quyết định thông số cho nhân vật game của hắn.
+
+Một hồi lâu trôi qua, âm thanh của hệ thống lại vang lên bên tai Đình Tấn.
+
+-	Đã kiểm tra xong. Đẳng cấp phân chia Cực, Thượng, Trung, Hạ. Tư chất của ngài thuộc về hàng Thượng phẩm. Xin chờ kiểm tra tinh thần của trí não.
+
+Lần này kiểm tra tinh thần của trí não này, Đình Tấn ngược lại không hề cảm thấy gì khác thường. 
+
+Hắn đoán rằng, các vị giáo sư khi phát triển đến giai đoạn kiểm tra này có thể là đã dựa trên cơ sở cường độ của sóng điện não để do lường lực lượng của tinh thần. 
+
+Bởi vì tinh thần là một thứ khá là trừu tượng cho nên không có một cách cụ thể nào để xác định được cường độ mạnh mẽ của nó. Ngay cả một vị tu luyện nghề nghiệp triệu hoán sư như hắn còn không biết đến hiện tại thì cường độ tinh thần của mình đã ở mức độ nào kia mà.
+
+Thẫn thờ suy nghĩ một hồi, không quá thời gian một phút, quá trình đo lường này cuối cùng cũng kết thúc. Bảng thống kê thông số cơ thể Đình Tấn sau khi đo lường nhanh chóng hiển thị trước mặt hắn.
+
+Cùng lúc đó âm thanh của hệ thống lại tiếp tục vang lên.
+
+-	Quá trình đo lường tinh thần kết thúc. Đẳng cấp phân chia Cực, Thượng, Trung, Hạ. Cường độ tinh thần của ngài thuộc về hàng Cực phẩm. Xin mời kiểm tra thông số và lựa chọn thoát hoặc đăng nhập vào game.
+
+Tính danh : Đình Tấn (Ẩn)
+Biệt danh : Chưa chọn (Thay đổi) (Hiển thị)
+Tuổi : 23
+Chức nghiệp : Chưa chọn
+
+---- Thông số ----
+
+Lực lượng : 24 – Tips : Tăng sát thương cận chiến, khả năng mang vác
+-	1 lực lượng = 1 sát thương vật lý
+-	1 lực lượng = 1.5kg phụ trọng, vượt mức sẽ giảm tốc độ di chuyển
+-	1 lực lượng = 0.03 phòng thủ
+
+Nhanh nhẹn : 20 – Tips : Tăng tốc độ tấn công, di chuyển
+-	1 nhanh nhẹn = 0.02 tốc độ tấn công cận chiến / 0.01 tấn công tầm xa
+-	1 nhanh nhẹn = 0.01 m/s tốc độ di chuyển
+-	1 nhanh nhẹn = 0.01 phòng thủ
+
+Thể lực : 23 – Tips : Tăng HP , khả năng khôi phục HP
+-	1 thể lực = 20 HP
+-	1 thể lực = hồi phục 0.03 HP/s 
+-	1 thể lực = 0.1 phòng thủ
+
+Tinh thần : 34 – Tips : Tăng MP, sát thương ma pháp, khả năng hồi phục ma pháp
+-	1 tinh thần = 1 sát thương ma pháp
+-	1 tinh thần = 12 MP
+-	1 tinh thần = hồi phục 0.04 MP/s 
+-	1 tinh thần = 0.15 pháp thuật phòng thủ
+
+---- Chi tiết ----
+
+Level : 1
+HP : 460/460 (+0.69/s)
+MP : 408/408 (+1.36/s)
+EXP : 0/100
+
+Tốc độ tấn công : 1.4 lần/s (Vũ khí một tay và vũ khí tầm xa cơ bản +1 lần/s) - 0.9 lần/s (Vũ khí hai tay +0.5 lần/s)
+
+Tốc độ di chuyển : 2.2 m/s
+Sát thương vật lý : 24 – 24
+Sát thương phép thuật : 34 – 34
+Phòng thủ vật lý : 3.2
+Phòng thủ pháp thuật : 5.1
+Phụ trọng : 41kg (Cơ bản 5kg)
+
+May mắn : 0
+Thiên phú : 7 (Thượng phẩm thể chất +3, Cực phẩm tinh thần +4) – Tips : Điều kiện để học tập một số nghề nghiệp hoặc kỹ năng có yêu cầu đặc biệt.
+
+[Xác nhận vào game] [Thoát khỏi game]
+
+
+Đình Tấn xem xét xong bảng thông số thống kê sau khi đã đo lường ra kết quả, thì không khỏi gật đầu thỏa mãn. 
+
+Không uống công hắn bỏ ra sáu tháng để liên tục rèn luyện, tăng cường tố chất thân thể. Hiện tại, cơ thể hắn đã bước vào hàng ngũ Thượng phẩm, còn riêng về cường độ của tinh thần thì càng đạt đến ngưỡng cực phẩm. 
+
+Với tố chất thân thể này, Đình Tấn có thể xem như là gần đứng ngang hàng với một tên quân nhân hoặc vận động viên thể thao rồi.
+
+Xem xong thuộc tính, Đình Tấn cũng không vội vào game. Hắn lựa chọn ẩn đi tính danh của mình. 
+
+Bởi vì tuy là hắn chơi game nhưng có thể cũng sẽ không tránh khỏi gây xích mích, kéo thù hận với người chơi khác. Mà thời gian đối với hắn bây giờ thì còn quý hơn cả vàng bạc. 
+
+Nếu phiền toái liên tục kéo đến, thậm chí còn bị lôi ra đến thế giới hiện thực, thì hắn không có dư thừa thời gian và tinh lực đâu để giải quyết mấy vấn đề này.
+
+Nghĩ vậy nên Đình Tấn quyết định thay đổi Biệt danh của mình lại thành “The Dawn” và đồng thời hắn cũng lựa chọn chỉ hiển thị Biệt danh thay vì hiển thị tên thật của mình. 
+
+Ngay sau đó, hệ thống tại tiếp tục kêu vang thông báo. 
+
+-	Biệt danh chưa được sử dụng. Đã thay đổi thành công.
+
+Hoàn tất những việc nhỏ này, Đình Tấn mới lựa chọn [ Xác nhận vào game].
+
+Bất thình lình, ánh sáng loé lên một cái làm Đình Tấn cũng không chịu được, phải nhắm mắt lại. Vài hơi thở sau đó, âm thanh hệ thống lại vang lên bên tai hắn.
+
+-	Đăng nhập thành công. Ngài hiện đang ở làng LD số 03 thuộc khu vực quốc gia Entire Land. Chúc ngài sớm ngày trở thành Anh Hùng, cứu vớt Trái Đất.
+
+Mở mắt ra quan sát cảnh vật xung quanh, Đình Tấn cảm giác ấn tượng đầu tiên đó là lạc hậu. Một ngôi làng nghèo nàn, điển hình thôn quê. Bao quanh ngôi làng là một hàng rào dựng bằng những cây cọc gỗ đầu vuốt nhọn đan xen vào nhau. 
+
+Cả ngôi làng có diện tích không hơn 2 km vuông. Năm, sáu căn nhà lụp xụp thưa thớt, xoay quanh một cây đại thụ to lớn ở giữa, sau đó kéo dài ra cổng làng tạo thành một hình chữ U. 
+
+Do Đình Tấn đã sớm đăng nhập vào game, cho nên hiện tại xung quanh hắn cũng khá vắng vẻ, chỉ thưa thớt xuất hiện chưa đến hơn chục người.
+
+Kiểm tra lại trang bị trên người, Đình Tấn phát hiện mình chỉ mang theo một bộ quần áo vải màu đen. Đây có thể xem như là quần áo lót che thân không chiếm vị trí trang bị cũng như tăng thêm chỉ số cho Đình Tấn. 
+
+Bên hông của hắn vắt theo một chiếc ba lô nhỏ, kích cỡ chỉ vừa đủ cho bàn tay thò vào. Đình Tấn sờ vào ba lô thì giao diện của hệ thống túi chứa đồ lập tức bật ra trước mặt. Bảng giao diện này khá đơn giản, không có giới hạn ô vật phẩm. Góc dưới bên phải của bảng giao diện có hình ba đồng tiền vàng, bạc và đồng cùng với ba con số 0. Đây ắt hẳn là tiền tệ rồi. 
+
+Về phía bên trái của bảng giao diện thì đang hiển thị con số 0/41, Đình Tấn nhanh chóng nhận ra, đây chắc là con số phụ trọng để hắn mang theo vật phẩm chứa đồ.
+
+Đình Tấn thôi dò xét thân thể. Hắn bắt đầu tiến tới một Ông già đứng dưới gốc đại thụ ở khu trung tâm. Ông già mặc trên người một bộ áo vải màu nâu, lom khom chống gậy đứng dưới đại thụ nhìn người qua lại. Trên đầu Ông già hiển thị một dòng chữ xanh lá “Trưởng Làng”. 
+
+Trong tương lai, khi Đình Tấn còn ở trong căn cứ quân đội thì những lúc rỗi rảnh, hắn cũng thường hay chơi game để rèn luyện khả năng thực chiến của mình. 
+
+Bởi vì Đình Tấn đã biết được trí tuệ nhân tạo trong tương lai rất phát triển, cho nên đối với một tựa game tập hợp đầy đủ những tinh hoa của vô số kỹ thuật nhất lưu lúc ấy như game Anh Hùng thì trí tuệ của NPC nhất định sẽ không hề thấp chút nào. 
+
+Nếu như hắn nói năng lung tung có khi lại bị phạt, lúc ấy thì chắc khóc cũng không ra nước mắt.
+
+Đứng đối diện với Ông già, Đình Tấn trầm ổn, mở giọng.
+
+-	Xin chào trưởng làng, ta vừa đi đến thế giới này. Trưởng làng có cần giúp đỡ gì không?
+
+Ông già gật đầu, nhẹ giọng từ tốn đáp lại.
+
+-	The Dawn dũng sĩ đến vừa đúng lúc. Ngoài thông phía đông có một đám quái vật hung tợn không biết từ đâu mà đến. Dân làng đã nhiều người bị bọn chúng tấn công. Hi vọng dũng sĩ có thể ra sức tiêu diệt chúng, trợ giúp dân làng. Ta sẽ hậu tạ.
+
+Đình Tấn gật đầu đáp lại.
+
+-	Nguyện vì dân làng ra sức.
+
+Keng! – Tiếp nhận nhiệm vụ tiêu diệt Pholimodo.
+Nội dung : Trưởng làng yêu cầu ngươi tiêu diệt 0/20 con Pholimodo ở phía đông làng LD.
+
+Ông già đưa tay vào trong giỏ cây dưới chân, lấy ra một túi vải đưa cho Đình Tấn nói:
+
+-	Dũng sĩ vừa đến chắc cũng chưa có trang bị thuận tay. Nếu không chê xin nhận lấy của lão đây.
+
+Đình Tấn đưa tay tiếp lấy gói vải nói tiếng “Cảm ơn” sau đó xoay người bước đi ra cổng làng. Trên đường đi hắn thuận tay mở gói vải ra. 
+
+Ngay tức khắc, giao diện của hệ thống liền hiện lên hình ảnh nhiều món vũ khí khác nhau. Đao, kiếm, cung, pháp trượng, dao găm, rìu, búa v.v… mặc sức cho Đình Tấn chọn lựa.
+
+Sau khi quan sát một lúc, hắn cũng hơi phân vân giữa hai món vũ khí kiếm và pháp trượng. Nhưng mà sau vài giây suy nghĩ, hắn cuối cùng cũng lựa chọn đại kiếm. 
+
+Hiện tại, Đình Tấn không biết kỹ năng triệu hồi vong linh của mình có thể sử dụng ở trong game được hay không. Nếu như lựa chọn pháp trượng mà không thể sử dụng được kỹ năng thì chắc hắn chỉ có mà dùng tay không đơn đấu quái thú mà thôi. 
+
+Không thể thuận lợi mà thăng cấp, như vậy hắn sẽ nhanh chóng bị người chơi khác bỏ lại phía sau, trở nên lạc hậu so với sự tiến bộ của thế giới game. 
+
+Điều đó sẽ làm trái ngược với kế hoạch dẫn trước người chơi khác, tìm kiếm chênh lệch mà Đình Tấn đã định ra lúc ban đầu. Đây không phải vì hắn háo thắng, mà là vì cuộc sống trong hai năm sắp tới của hắn đều phải hoàn toàn dựa vào cái game này.
+
+Nắm giữ rất nhiều hoài bão, Đình Tấn không thể nào để cho mình xảy ra bất cứ sơ xuất nào dẫn đến thất bại. Chính vì thế sau khi chọn xác nhận vũ khí đại kiếm xong, hắn cũng không hề có bất cứ tiếc nuối gì.
+
+Giao diện những món vũ khí kia biến mất thì gói vải trong tay hắn cũng đồng thời tan biến theo. Ngay sau đó, trong ba lô Đình Tấn lại có thêm một thanh đại kiếm.
+
+Tân thủ đại kiếm (2 tay)
+Chất lượng : Đồ trắng
+Yêu cầu : Không
+Trọng lượng : 6kg
+Sát thương : 0 - 8
+
+Lấy thanh kiếm ra kiểm tra, kích cỡ của nó cũng chỉ nhỏ hơn so với thanh kiếm trước kia trong tương lai của hắn. 
+
+Dù vậy nhưng điều đó cũng không là vấn đề gì lớn đối với Đình Tấn. 10 năm chiến đấu, vũ khí nào mà hắn chưa sử dụng đến chứ. Chỉ cần cho hắn thời gian, hắn đều có thể thích nghi, quen thuộc được ngay. 
+
+Trang bị lên đại kiếm, công kích vật lý của Đình Tấn liền thay đổi thành 24 – 32 điểm. Không hề chậm trễ một phút giây nào, hắn nhanh chân rời khỏi ngôi làng tân thủ này.
+
+Theo như chỉ dẫn của hệ thống nhiệm vụ, Đình Tấn bước ra khỏi làng rồi đi thẳng về phía đông. Nơi đó là một bìa rừng, xung quanh cây cối rậm rạp, phía bên ngoài là một bãi cỏ rộng lớn, đang tụ tập đến 30 – 40 người. Bọn họ đang xoay quanh làm nhiệm vụ mà Trưởng làng đã giao cho giống như Đình Tấn. 
+
+Nhìn thấy mục tiêu nhiệm vụ những con quái vật này, Đình Tấn đã nhận ra nó ngay vì trong tương lai hắn không biết đã chém giết bao nhiêu con Pholimodo mà nói, nhưng ít nhất là không dưới con số hàng nghìn. 
+
+Những con Pholimodo có hình thể chỉ vừa cỡ những con cá sấu trên Trái Đất. Đầu nhỏ với hàm răng sắc nhọn đầy rẫy những loại virus kịch độc. Chiếc lưỡi kép như lưỡi rắn của nó liên tục đưa ra rút vào để đánh hơi lấy con mồi trong không khí. 
+
+Toàn thân nó được bao trùm bởi vảy giáp chẳng khác nào loài tê tê. Đồng thời chiếc đuôi thon dài và bốn cái chân ngắn, chỉ đủ chống đỡ thân thể nó cách khỏi mặt đất 10 – 20 cm, cũng là một trong những loại vũ khí của nó. 
+
+Pholimodo
+Level : 2
+HP : 150/150
+Kỹ năng : Không.
+Giới thiệu : Một loài bò sát vảy giáp. Sức chịu đựng rất mạnh, điểm yếu là phần đầu và bụng không có vẩy giáp.
+
+Quan sát xong bảng hệ thống thông số của con vật này, Đình Tấn nắm chặt đại kiếm, rảo bước tiến lên. 
+
+Bởi vì đại kiếm có trọng lượng cũng khá nặng, lại thêm Đình Tấn kéo lê đại kiếm dưới đất nên đã vô tình tạo thành một rãnh nhỏ. 
+
+Khi trông thấy khoảng cách giữa mình và một con Pholimodo chỉ còn lại khoảng 10 mét, hắn bắt đầu gia tốc. 
+
+Chạy đến trước mặt con Pholimodo chỉ cách nó khoảng hai mét, đôi chân Đình Tấn đột nhiên chùn xuống. Lấy eo làm trục, hắn xoay mạnh nửa người trên sang trái.
+
+Cùng lúc đó, hai tay hắn nắm đại chặt kiếm, chém mạnh vào khe hở giữa phần bụng của con Pholimodo và mặt đất.
+
+-38 (Điểm Yếu)
+
+Ngay khi bị đại kiếm va chạm, con Pholimodo chỉ kịp ré lên một tiếng sau đó liền bị hất bay mấy vòng trên không trung. Đồng thời, trên đầu của nó cũng nổi lên một con số sát thương đỏ lòm, trông rất máu tanh.
+
+Công kích vào Điểm Yếu sẽ tăng thêm sát thương nhận vào 100%, nhờ vậy ống HP của con Pholimodo nhanh chóng bị cắt giảm đi gần một phần tư. 
+
+Con Pholimodo vừa rơi xuống đất, muốn nghiêng mình lật người để che lại phần bụng, thế nhưng Đình Tấn nào có cho nó được như ý. 
+
+Thuận thế đang lúc vươn mình sau khi chém một kiếm kia, hắn liền xoay một vòng, bàn tay nắm chặt kiếm tiếp tục bổ xuống phần bụng đang ngửa lên trời của con Pholimodo kia.
+
+-85 (Chí mạng)
+
+Một kích Chí Mạng gia tăng thêm 200% lượng sát thương làm cho ống HP của con Pholimodo chỉ còn lại chưa đến một phần tư. 
+
+Thừa thế không buông tha, Đình Tấn lấy eo làm trục, nghiêng mình sang trái, hai tay đồng thời kéo theo kiếm lộn ngược một vòng từ sau ra trước, bổ mạnh lên trên tấm lưng đầy giáp xác của con Pholimodo. 
+
+-30
+
+Con Pholimodo này vừa lật người lại, đang muốn chồm lên tấn công Đình Tấn thì một con số tổn tương đã nổi lên trên đầu, kết thúc sinh mệnh của nó. Từ trên xác con Pholimodo tung ra 3 đồng tiền kèm theo đó là thông báo hệ thống.
+
+EXP + 5
+
+Quá trình chiến đấu từ lúc Đình Tấn bắt đầu tiến công cho đến khi kết thúc sinh mệnh con Pholimodo nói thì dài nhưng thời gian diễn ra chưa đến 20 giây. Màn chiến đấu hoa lệ của Đình Tấn cũng đã gây nên sự chú ý từ nhiều người chơi xung quanh.
+
+Có một tên người chơi nam gần đó đã liên tục chú ý Đình Tấn, không bỏ sót một giây phút nào. Từ lúc Đình Tấn gia tốc tiến về phía con Pholimodo cho đến khi hoàn thành chém giết mục tiêu, hai mắt hắn đã từ ngạc nhiên đi đến hâm mộ mà dõi theo Đình Tấn. 
+
+Nhìn lại thanh cung gỗ trong tay, giọng nói của hắn tràn đầy hối hận mà nói với tên đồng bạn bên cạnh:
+
+-	Mẹ nó, không ngờ chơi đại kiếm mà lại có thể chiến đấu đẹp trai đến như vậy. Cái này mới là vũ khí cho đàn ông mà. Biết vậy lúc đầu ta không chọn cung tiễn cái thanh vũ khí cùi bắp này. Tổn thương không đến được hai chữ số nữa.
+
+Vài tên người chơi nhìn thấy thực lực Đình Tấn lúc này, đánh bạo chạy lại mời tổ đội. Thế nhưng đều bị sự im lặng của Đình Tấn từ chối hết. 
+
+Mặc kệ mọi người soi mói, hắn chậm rãi đi đến một bên khu vực trống trải để tiếp tục tiêu diệt bọn Pholimodo làm nhiệm vụ.
+
+Hơn 10 phút sau đó, một kiếm cuối cùng kết liễu sinh mệnh con Pholimodo khác. Hai âm thanh của hệ thống cuối cùng cũng vang lên bên tai Đình Tấn:
+
+EXP +5
+Keng! - Chúc mừng ngài đã thăng một cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Đình Tấn rốt cục đã chém giết đủ 20 con Pholimodo. Hiện tại, game Anh Hùng đã mở cửa vận hành được hơn 20 phút, do đó người chơi ở thành phố LoDa đăng nhập vào càng lúc càng nhiều hơn. Quá trình chém giết của Đình Tấn diễn ra cũng trở nên chậm hơn rất nhiều vì phải đợi quái vật được đổi mới.
+
+Tuy rằng có được điểm tiềm năng mới thế nhưng hắn cũng không vội sử dụng mà nhanh chóng lên đường trở về làng. 
+
+Chen chút qua một số đông người chơi, Đình Tấn cuối cũng cũng đã trở lại khoảng sân rộng xung quanh cây đại thụ, nơi liên tục lấp loé ánh sáng người chơi mới đăng nhập vào game. 
+
+Lúc bấy giờ đã có 20 - 30 người vẫn còn chen lấn đi vào để gặp trưởng làng nhận nhiệm vụ. Đình Tấn lại phải tốn công sức cùng với bỏ ra một hồi lâu mới tiến tới giao tiếp được với trưởng làng:
+
+-	Xin mời trưởng làng kiểm tra, ta đã chém giết hoàn thành nhiệm vụ ngài giao cho.
+
+Trưởng làng vui vẻ, tán thưởng: 
+
+-	Tốt, rất tốt. Cảm tạ dũng sĩ vì dân làng trừ hại. Ta đây chút lòng thành mong dũng sĩ nhận cho.
+
+Keng! – Chúc mừng ngài hoàn thành nhiệm vụ Tiêu diệt Pholimodo.
+EXP +100
+Nhặt được Giáp tân thủ x1.
+Nhặt được tiền đồng x100
+
+Trao thưởng xong, trưởng làng vẫn chưa dừng lại. Hắn nhẹ giọng khẩn cầu.
+
+-	Phía bên kia lò rèn người đàn ông tên gọi DeShawn, con trai của hắn đã bị mất tích đã ba ngày rồi. Đến giờ hắn đã sắp tuyệt vọng rồi, nếu có thể thì mong dũng sĩ giúp được thì giúp hắn một lần đi. Được không?
+
+Đình Tấn gật đầu, đồng ý:
+
+-	Được, ta sẽ đi gặp hắn.
+
+Quay đầu hướng về lò rèn duy nhất trong làng đi đến, khoảng cách không xa cũng chỉ hơn chục bước. Nhưng do người chơi quá đông, chen lấn nhau để vào gặp trưởng làng làm cho Đình Tấn di chuyển thập phần khó khăn. 
+
+Nhân tiện lúc chen lấn này, hắn mới mở ra hệ thống thông số nhân vật để kiểm tra. Bất quá, mọi thứ đều không có thay đổi duy nhất chỉ có dòng EXP gia tăng từ 0/100 thành 100/200. 
+
+Sau đó, Đình Tấn lại tiếp tục mở ra giao diện ba lô để kiểm tra áo giáp vừa được thưởng.
+
+Giáp tân thủ
+Chất lượng : Đồ trắng
+Yêu cầu : Không
+Cân nặng 2kg
+Phòng ngự vật lý: +2 
+
+Không có gì đặc biệt lắm, Đình Tấn lựa chọn trang bị. Giáp màu nâu ngắn tay, dài quá rốn. Được làm từ da động vật nào đó, dùng móc sắt đan kết lại các bộ vị. 
+
+Trang bị lên bộ giáp da, Đình Tấn không hề cảm thấy vướng víu khó chịu tí nào, dường như bộ giáp này được đo lường làm sẵn cho hắn vậy.
+
+Rốt cục đi tới lò rèn, Đình Tấn chậm rãi đi vào gặp người thợ rèn DeShawn đó, rồi mở lời.
+
+-	Xin chào chú DeShawn. Ta nghe trưởng làng nói ngài cần giúp đỡ phải không?
+
+Người đàn ông thợ rèn DeShawn dừng lại động tác rèn trong tay. Hắn vất cây búa rèn của mình sang một bên, sau đó ngẩng đầu lên kích động nhìn Đình Tấn nói.
+
+-	Đúng, đúng vậy thưa dũng sĩ. Con trai ta đi dạo chơi ở khu rừng phía tây nay đã mất tích mấy ngày rồi. Xin dũng sĩ giúp ta tìm hắn.
+
+Đình Tấn không nhiều lời gật đầu đồng ý:
+
+-	Được, xin ngài đợi tin tốt lành.
+
+Keng! – Tiếp nhận nhiệm vụ đi tìm con trai DeShawn.
+Nội dung : Đi đến khu rừng phía tây, tìm kiếm tung tích con trai lão thợ rèn DeShawn.
+
+Đình Tấn xoay nhanh chóng bước đi ra khỏi làng hướng về khu rừng phía tây.

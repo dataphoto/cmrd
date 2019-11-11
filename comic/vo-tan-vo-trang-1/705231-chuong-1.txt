@@ -1,0 +1,685 @@
+Đi ra cổng truyền tống, Trầm Dịch phát hiện mình chính bản thân ở vào một cái lụi bại trong thôn trang nhỏ.
+
+Thôn trang diện tích không lớn, bên ngoài là tiêm cọc gỗ đâm thành tường vây, tường sau đứng từng dãy ăn mặc thời Trung Cổ khôi giáp binh sĩ, cầm trong tay trường mâu lưỡi dao sắc bén, nghiêm túc và trang trọng xem hướng phía trước.
+
+Đỉnh đầu bầu trời là tối tăm lu mờ mịt một mảnh, trong không khí mờ mịt qua khô héo đốt cháy khí tức, tại đây ở vào một mảnh giữa đồng trống, xa xa là cao núi rừng nhiệt đới, ngẫu mà có thể nghe được một ít to rõ dã thú gào rú, lại điểm không rõ rốt cuộc là cái gì động vật phát ra thanh âm.
+
+Tại đây, chính là Diablo thế giới.
+
+Một cái sung mãn ma pháp lực lượng giả tưởng thế giới.
+
+Lúc này lần lượt mạo hiểm giả chính lục tục xuất hiện ở thôn trang tất cả hẻo lánh, bọn hắn đánh giá hoàn cảnh chung quanh, trong ánh mắt lộ ra mang chút khẩn trương cảnh giác.
+
+Văn chương Huyết Tinh thanh âm nhắc nhở hợp thời vang lên:
+
+"Tiến vào Diablo 2 nhiệm vụ thế giới, trước mặt vị trí vị trí: doanh địa Rogue."
+
+"Nhiệm vụ lần này là hình thức cạnh hợp, không nhiệm vụ chính tuyến. Mạo hiểm giả lẫn nhau công kích suy yếu 25% thương tổn, giết chết mặt khác mạo hiểm giả nhưng đạt được một kiện tùy cơ hội trang bị."
+
+"Nhiệm vụ nội dung: nhiệm vụ cuộc thi tranh đoạt —— vì đối kháng tà ác ba Ma Thần, Diablo thế giới đối nhân loại dũng giả ban bố đại lượng nhiệm vụ. Mạo hiểm giả nhưng tự do chấp hành tùy ý nhiệm vụ, không hạn số lượng, tất cả nhiệm vụ có đủ duy nhất tính, đương làm nên nhiệm vụ bị sau khi hoàn thành, mặt khác mạo hiểm giả đem vô pháp hoàn thành, đồng thời cũng vô pháp tìm được đối ứng ban thưởng."
+
+"Diablo thế giới cùng sở hữu năm cái trường đấu, từng trường đấu đều có sáu cái nội dung nhiệm vụ đồng thời tuyên bố. Nhiệm vụ chấp hành trong quá trình đem tính toán mạo hiểm giả điểm tích lũy cống hiến, nhưng cuối cùng nhất đem chỉ có một gã mạo hiểm giả có thể trở thành đối ứng người hoàn thành nhiệm vụ, chỉ có người hoàn thành nhiệm vụ mới có thể đạt được điểm tích lũy treo thưởng và nhiệm vụ ban thưởng."
+
+"Từng nhiệm vụ điểm tích lũy cống hiến tổng giá trị cùng điểm tích lũy treo thưởng bằng nhau, nhiệm vụ sau khi hoàn thành sẽ xuất hiện cổng truyền tống, nhưng trực tiếp truyền tống về điểm xuất phát."
+
+"Chỉ có hoàn thành một cái trường đấu trong tất cả nhiệm vụ, tất cả mạo hiểm giả mới có thể tập thể lao tới tiếp theo sân thi đấu."
+
+"Tất cả doanh địa vì sân thi đấu khu an toàn, khu an toàn trong không được lẫn nhau giết chóc, người vi phạm mạt sát."
+
+"Nhiệm vụ chấp hành thời gian ba mươi ngày. Thời gian sau khi kết thúc đem tính toán tất cả mạo hiểm giả tổng số điểm cống hiến, mỗi điểm tích lũy nhưng đổi 10 điểm Huyết Tinh. Nhiệm vụ tiêu chuẩn điểm chín trăm điểm. Người điểm tích lũy thấp hơn 450 điểm mạt sát, người điểm tích lũy thấp hơn 900 điểm khấu trừ một nửa ban thưởng, người có điểm tích lũy cao hơn 1800 điểm, số điểm từ 1800 trở lên ban thưởng gấp đôi ( Ý chỉ điểm 1801 thì 1800 điểm = 1 vạn 8, 1 điểm = 20 điểm Huyết Tinh cứ thế mà tính )."
+
+"Nhiệm vụ nhắc nhở: lần này Diablo thế giới vì hình thức toàn cảnh cạnh tranh, từng trường đấu đối ứng một cái tiêu chuẩn khu vực độ khó."
+
+"Lần này nhiệm vụ người tham dự: 52 người."
+
+"Năm trường đấu:
+
+1, doanh địa Rogue.
+
+2, Lut Gholein.
+
+3, cảng biển Kurast.
+
+4, pháo đài Pandemonium.
+
+5, thành Harrogath."
+
+"Nhiệm vụ bối cảnh giới thiệu: sau cuộc chiến Tội Lỗi ( The Sin War ), Thiên Đường cùng Địa Ngục thế lực tiến vào giằng co trạng thái. Vì đánh vỡ cân đối, tìm được đá Linh Hồn, nắm giữ lấy sợ hãi, phá hư cùng căm hận lực lượng Địa Ngục ba Ma Thần mượn bốn Ma Vương phản loạn tiến vào nhân loại thế giới, làm cho nhân loại mang đến cực lớn cực khổ. . ."
+
+Diablo thế giới nội dung cốt truyện tư liệu, từ lúc Trầm Dịch tiến vào trước kia cũng đã nắm giữ. Đây là một điển hình khổ nhục kế diễn xuất —— vì tranh đoạt đá Linh Hồn ( Soulstone ) (*), Địa Ngục ba Ma Thần dùng thân làm gương dụ dỗ Thiên Sứ. Kết quả các Thiên Sứ chính mình không có ra tay, lại lại để cho nhân loại thế giới chính mình đem ba Ma Thần từng cái phong ấn, cuối cùng nhất đem trận này Địa Ngục xâm lấn diễn biến thành một hồi chê cười. Với tư cách một cái trò chơi, Diablo chính là tại như vậy bối cảnh triển khai.
+
+Cùng dĩ vãng bất đồng chính là, lúc này đây đô thị Huyết Tinh không có sẽ đem Diablo thế giới bối cảnh trắng trợn sửa chữa, ngược lại trình độ lớn nhất trung thực nguyên lai bối cảnh, mà đám người mạo hiểm tắc chính là đem làm vì nhân loại võ sĩ tiến hành một lần xưa nay chưa từng có tập thể đại tác chiến hành động —— bọn hắn đem quét ngang Diablo thế giới, đem Địa Ngục thế lực đuổi trở về, trở thành chúa cứu thế mới.
+
+. . .
+
+Có quan hệ nhiệm vụ bối cảnh giới thiệu vừa mới chấm dứt, kênh đoàn đội ở phía trong tựu vang lên Kim Cương thanh âm: "Trầm Dịch ngươi ở đâu?"
+
+"Đây là ta đây tại." Trầm Dịch đánh giá chung quanh một chút, chứng kiến Kim Cương ngay tại cách cách mình cách đó không xa trong khắp ngõ ngách, ở bên cạnh hắn còn đứng qua Hồng Lãng, Ôn Nhu, hắn cười nói: "Ta nhìn thấy các ngươi."
+
+"Ta cũng vậy trông thấy ngươi, ta nói ngươi xem ra cái gì không có?" Kim Cương bọn hắn hướng Trầm Dịch đi tới, bên kia cũng xuất hiện Chu Nghi Vũ cùng mập mạp thân ảnh.
+
+"Ân, có chút ý tứ, nếu như ta đoán phải đúng vậy mà nói chúng ta kỳ thật chính là tự mình tiến vào Diablo thế giới người chơi, đang tại chơi một hồi chân thực mô phỏng trò chơi." Trầm Dịch cười nói.
+
+Rất hiển nhiên lúc này đây Trầm Dịch bọn hắn tựu giống trong trò chơi Paladin, Barbarian các loại chức nghiệp nhân vật, đem tiến hành một lần tự chủ trò chơi con đường trải qua đột phá.
+
+Duy nhất có chỗ bất đồng đúng là lúc này đây tiến vào trò chơi nhân vật nhiều đến 52 cái, mà từng cái trò chơi nhiệm vụ tuy nhiên cũng có được duy nhất tính chất, một khi bị những người khác hoàn thành, chính mình tựu làm mất đi cơ hội.
+
+Chính là chỗ này một điểm nho nhỏ thay đổi, khiến cho trận này trò chơi không còn là các người chơi đồng tâm hiệp lực đối kháng Ma Thần chiến tranh, mà là đám người mạo hiểm giữa lẫn nhau lục đục với nhau, ngươi lừa ta gạt, ngươi chết ta sống tử vong thi đua!
+
+Quả nhiên, tại nghe rõ ràng nhiệm vụ nhắc nhở sau, đám người mạo hiểm ánh mắt đã trở nên hung ác bắt đầu. Một ít lẫn nhau quen thuộc mạo hiểm giả lẫn nhau tới gần, dần dần hình thành nguyên một đám lớn nhỏ đoàn thể.
+
+Trong đó nhân số nhiều nhất một tổ mười người tả hữu, rõ ràng cho thấy một cái đoàn đội, sau đó là một cái tám người đoàn đội, lại tận lực bồi tiếp đội Đoạn Nhận cùng cái khác sáu người đoàn đội. Bốn đoàn đội chiếm đi mạo hiểm giả hơn phân nửa lực lượng, còn lại hai mươi hai tên mạo hiểm giả phần lớn là chút ít tốp năm tốp ba tiểu tổ hợp.
+
+Trừ chuyện đó ra, doanh địa Rogue ở phía trong còn có một chút ăn mặc thế kỷ XVI cổ xưa trang phục người tại phụ cận đi đi lại lại, hiển nhiên bọn hắn chính là trong thế giới này nội dung cốt truyện nhân vật. Có lẽ là đô thị Huyết Tinh nguyên nhân, bọn hắn đối với mạo hiểm giả xuất hiện không có chút nào kinh ngạc, phảng phất những người này bản nên tồn tại ở cái thế giới này.
+
+"Cần phải có sở biến hóa a." Chu Nghi Vũ bước đi đến: "Ít nhất tại trong trò chơi, phải một cái nhiệm vụ hoàn thành mới có thể mở ra hạ một cái nhiệm vụ. Nhưng là nghe văn chương nhắc nhở, từng trường đấu tất cả nhiệm vụ đều là đồng thời cởi mở, tự do tranh đoạt. Nói cách khác, chúng ta bây giờ cũng có thể đi chấp hành tiêu diệt Andariel (**) nhiệm vụ."
+
+Andariel, Diablo thế giới Địa Ngục trận doanh bên trong Nữ vương tra tấn cùng thống khổ, nàng là Địa Ngục trận doanh bốn Ma Vương một trong, cũng phải Diablo thế giới màn I tràng cảnh cuối cùng BOSS.
+
+Nghe được Chu Nghi Vũ nói như vậy, Hồng Lãng lập tức hưng phấn kêu lên: "Cái kia chúng ta bây giờ tựu đi làm rơi Andariel! Nhiệm vụ nhắc nhở, từng trường đấu đối ứng một cái khu vực độ khó, nói cách khác doanh địa Rogue cái này màn tràng cảnh, nên vậy chỉ tương đương với khu dân nghèo độ khó mới đúng, Andariel khẳng định không khó đối phó, ta phỏng chừng cũng chính là một Dracula Bá tước trình độ."
+
+Đúng vậy, căn cứ văn chương Huyết Tinh nhắc nhở, lần này nhiệm vụ thế giới chọn dùng chính là hình thức toàn cảnh, năm màn tràng cảnh phân biệt đối ứng năm cái khu vực độ khó. Lời này ý tứ, rất rõ ràng nói đúng là, doanh địa Rogue cái này trường đấu, hắn độ khó chỉ có khu dân nghèo độ khó. Dùng khu phổ thông mạo hiểm giả năng lực đi khiêu chiến khu dân nghèo độ khó, tự nhiên là lại buông lỏng bất quá.
+
+Ngay Hồng Lãng đều có thể nhìn ra được vấn đề, mặt khác mạo hiểm giả tự nhiên không biết nhìn không ra, tất cả mọi người thời khắc này đều nghị luận ào ào, lẫn nhau nhiệt liệt tham thảo bắt đầu.
+
+Trầm Dịch lạnh mắt thấy chung quanh mạo hiểm giả thấp giọng tham thảo, đột nhiên dùng tiếng Faa thấp giọng nói: "Andariel nên vậy không khó đối phó, nhưng muốn nói so Dracula Bá tước nhược vậy cũng chưa hẳn."
+
+Hồng Lãng khó hiểu: "Vì cái gì nói như vậy? Chẳng lẽ Andariel nếu so với Dracula cường đại? Nhưng cái kia chẳng phải không phù hợp khu dân nghèo khó khăn sao?"
+
+Trầm Dịch khắp thanh âm trả lời: "Tại đây hiện tại có 52 cái mạo hiểm giả, dù là tài nghệ của mọi người chỉ có khu dân nghèo cái loại nầy trình độ, dùng để đối phó Dracula Bá tước, cũng có thể buông lỏng hoàn tất năm ba cái đi à nha? Andariel coi như là BOSS đưa hàng, cũng không thể đưa phải quá giá rẻ mới được là."
+
+Hồng Lãng lập tức không phục bắt đầu: "Nhưng bây giờ là thi đua nội dung, mọi người căn bản không có khả năng đồng tâm hiệp lực đi chiến đấu, muốn ta xem dưới loại tình huống này, Andariel nên vậy so Dracula càng dễ đối phó mới đúng, bởi vì vì mọi người nhất định sẽ ngươi tranh ta đoạt, làm cho bổ sung tổn thương, nếu không ngươi đã nói hình thức điều tiết độ khó tựu chỉ là một câu lời nói suông."
+
+Trầm Dịch trong mắt hiện ra một tia quỷ dị sắc thái: "Vấn đề ở này, đây là thi đua nội dung, nhưng là chúng ta nhiệm vụ lần này hình thức nhưng lại hình thức cạnh hợp. Biết rõ cái gì gọi là cạnh hợp sao?"
+
+Mọi người lẫn nhau nhìn xem, có lẽ hay là Ôn Nhu nói ra: "Cái gọi là cạnh hợp, chính là cạnh tranh cùng hợp tác cùng tồn tại. Cạnh hợp quan hệ là trong xã hội loài người phức tạp nhất cũng khó khăn nhất xử lý một loại quan hệ, là một loại đã muốn bay lên đến chính trị độ cao quan hệ, tựu giống như Trung Mỹ quan hệ, Trung Nhật quan hệ các loại, đều là tại trong cạnh tranh bảo trì hợp tác, loại quan hệ này bình thường chỉ tồn tại ở chính trị gia cùng chính trị gia trong lúc đó. Đương nhiên, một ít công ty lớn trong lúc đó cũng sẽ có cạnh hợp quan hệ tồn tại. Ví dụ như công ty Pepsi cùng công ty Coca Cola tại tiến vào Trung Quốc thị trường thời điểm, tựu từng có quá trước đó ước định chủ yếu tiêu thụ khu vực cách làm, cứ việc hai nhà công ty lẫn nhau cạnh tranh gay gắt, nhưng ở đối mặt một ít cộng đồng lợi ích lúc, có lẽ hay là hội bảo trì nhất định hợp tác, tận lực tránh cho hội sinh ra bổ sung tổn thất tranh đấu."
+
+Ôn Nhu như vậy một giải thích, mọi người lúc này mới chợt hiểu hiểu ra, Kim Cương cao kêu lên: "Ta hiểu được. . ."
+
+Hắn nói còn chưa dứt lời, Trầm Dịch đã muốn trừng mắt liếc hắn một cái, Kim Cương cái này mới tỉnh ngộ lại, bề bộn dùng tiếng Faa thấp giọng nói: "Nhiệm vụ lần này mặt ngoài thoạt nhìn là thi đua nội dung, nhưng là nó có một trọng yếu bất đồng, chính là nó không giống lần trước khu vực thi đua, này đây bài danh cuối cùng mạo hiểm giả vì mạt sát mục tiêu, mà là dùng cố định điểm tích lũy vì mạt sát tiêu chuẩn. Nói một cách khác, nếu như mọi người có thể chung sức hợp tác, vẫn là có thể làm được mỗi người cũng không bị mạt sát. Cho nên cái này nhiệm vụ thi đua biểu hiện ra thoạt nhìn giống khu vực thi đua, nhưng ở thuộc về kỳ thật càng tiếp cận đoàn đội hợp tác nhiệm vụ, cho nên mới gọi là hình thức cạnh hợp."
+
+Chu Nghi Vũ cũng tiếp lời: "Đã có hợp tác trụ cột, như vậy nhiệm vụ của chúng ta mục tiêu thực lực đương nhiên là theo chỉnh thể góc độ cân nhắc. Andariel là Địa Ngục bốn Ma Vương một trong, một cái là Vương, một cái là Bá tước, lại nói tiếp hoàn toàn chính xác rất không có khả năng so Dracula yếu. Cho nên mặc dù là khu dân nghèo nhiệm vụ, nhưng tốt nhất cũng đừng quá coi thường."
+
+Trầm Dịch nói tiếp: "Lam Nhan nói qua, đô thị Huyết Tinh phải cần là chiến sĩ mà không phải thương nhân, mà một cái chiến sĩ xuất sắc nên có được đối mặt cường địch mà không lùi bước dũng khí, cho nên ta nhận thức vì lần này Diablo nhiệm vụ, chính là muốn bức bách qua mọi người chúng ta liên hợp cùng một chỗ đi khiêu chiến độ khó cao, nếu không vô ý nghĩa đồng thời đem năm cái độ khó toàn bộ mở ra, mặc chúng ta tự do khiêu chiến."
+
+"Mẹ!" Hồng Lãng mắng lên: "Đây không phải là nguy rồi, quan hệ phức tạp như vậy ai nói rõ ràng ah? Lão tử chỉ biết là trong lúc này nhiệm vụ đều là duy nhất tính, ngươi nhận được rồi người khác sẽ không có, tranh giành đều tranh giành không đến nì còn nói gì hợp tác?"
+
+Trầm Dịch cười khổ: "Cái này là vấn đề chỗ. Chúng ta đứng ở một cái cần độ cao hợp tác trên khán đài, cuối cùng nhất phát triển lại có thể là ưu tiên nội chiến, tựu giống. . ."
+
+"Tựu giống trong lịch sử." Chu Nghi Vũ xen vào một câu.
+
+"Có không có khả năng cùng bọn họ nói chuyện? Mọi người cùng nhau xông nhiệm vụ, trước không nội đấu, tận khả năng bảo trì lực lượng." La Hạo nhỏ giọng hỏi.
+
+Trầm Dịch lắc đầu: "Chúng ta đoàn đội chỉ có sáu người. Theo mặt ngoài trên thực lực xem, chúng ta không phải mạnh nhất. Mà xướng nghị hợp tác loại sự tình này, chỉ có cường thế mới vừa có tư cách đưa ra, yếu thế phương chính là nói ra cũng không còn người để ý tới. Nhưng là đối với cường thế phương mà nói, hợp tác rồi lại cũng không phải tất yếu, bọn hắn hoàn toàn có thể bằng vào lực lượng của mình đoạt hạ đủ đủ nhiệm vụ, mà không phải phải cùng kẻ yếu liên hợp. Dù là muốn liên hợp, cũng hoàn toàn có thể đợi trước đoạt hạ đủ đủ chỗ tốt sau lại liên hợp, nhưng đến lúc đó, mọi người thực lực thường thường đã muốn gọt yếu rất nhiều, muốn khiêu chiến cao nhiệm vụ cấp thế tất càng thêm khó khăn, cho nên nói đó là một vòng tuần hoàn chết. Đây cũng là vì cái gì cạnh hợp quan hệ sẽ trở thành vì trong xã hội loài người phức tạp nhất cũng khó khăn nhất xử lý quan hệ nguyên nhân. . . Nói thực ra coi như là ta, hiện tại cũng làm không được bày đặt có sẵn chỗ tốt không đoạt, lại muốn đi cùng người khác làm chia đều phân phối, đã chúng ta minh bạch đều làm không được, lại thế nào đi trông cậy vào người khác đâu?"
+
+Nói xong Trầm Dịch ánh mắt đã rơi ở phía xa mười người kia đoàn đội trên người, hắn từ đối phương trong mắt thấy được tham lam, dã tâm cùng mãnh liệt cạnh tranh dục vọng.
+
+Hắn không khỏi thở dài: "Rõ ràng là một hồi cạnh hợp trò chơi, cuối cùng nhất cũng phải đi đánh cờ tới lui."
+
+Dùng cạnh tranh vì thủ đoạn hợp tác, cuối cùng là muốn tại có một cường lực hạch tâm chỉ huy trụ cột hạ tiến hành. Mất đi cái này hạch tâm chỉ huy, bản thân vừa rồi không có chính trị gia đám bọn họ thành thục, ổn trọng, tu dưỡng cùng ẩn nhẫn, cái kia cái gọi là cạnh hợp quan hệ, cuối cùng bất quá là một hồi chê cười mà thôi.
+
+Hồng Lãng tùy tiện bĩu môi một cái: "Đã như vậy, vậy trước tiên thi đua, sau hợp tác, đáng chết liền giết, không giết được thì bỏ qua. Chỉ cần chúng ta trước nắm bắt trước hai cái trường đấu đủ nhiều nhiệm vụ, đến lúc đó có đi không xông cao cấp khu, còn không phải chúng ta định đoạt."
+
+Đội Đoạn Nhận mặc dù là mặt ngoài yếu thế, nhưng từng đội viên nhưng trong lòng sớm đã đem mình định vì chính thức cường thế, bởi vậy cường giả loại này tâm tính không chỉ có xuất hiện ở xa xa mười người đội thượng, đồng thời cũng xuất hiện ở đội Đoạn Nhận trên người.
+
+Đối với cái này, Trầm Dịch mỉm cười: "Lần này ngươi nói đúng, trước cạnh tranh sau hợp tác, có cái kia đui mù, đáng chết còn phải giết, nhiệm vụ lần này luôn phải chết đi một nhóm người, mới có thể để cho tất cả mọi người đã có kinh nghiệm. . . Tựu xem là ai hội trước xui xẻo."
+
+Chuyện phức tạp, đơn giản đi làm, lúc này đây Hồng Lãng đến là đoán đúng rồi một bả.
+
+Đúng lúc này, văn chương Huyết Tinh lại lần nữa nhắc nhở:
+
+"Doanh địa Rogue tuyên bố sáu nhiệm vụ."
+
+"Một: tiêu diệt toàn bộ huyệt động Den of Evil, điểm tích lũy cống hiến 150 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Corpsefire (***) trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 150 điểm tích lũy treo thưởng và một điểm điểm kỹ năng ban thưởng."
+
+"Hai: giết chết Blood Raven (****), điểm tích lũy cống hiến 200 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Blood Raven trở thành người hoàn thành nhiệm vụ, bổ sung đạt được hai trăm điểm tích lũy treo thưởng và một gã thuộc tính toàn bộ 25 lính đánh thuê ban thưởng, lính đánh thuê có thể thăng cấp, bản nhiệm vụ thế giới sau khi chết nhưng phục sinh, dẫn đi khỏi bản thế giới sau, sau khi chết không thể phục sinh."
+
+"Ba: cứu Deckard Cain (*****), điểm tích lũy cống hiến 300 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người cứu ra Cain trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 300 điểm tích lũy treo thưởng và Deckard Cain tình hữu nghị."
+
+"Bốn: giết chết The Countess (******), điểm tích lũy cống hiến 400 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết The Countess trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 400 điểm tích lũy treo thưởng và kỹ năng D cấp quyển trục một tấm."
+
+"Năm: giết chết The Smith (*******), điểm tích lũy cống hiến 500 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết The Smith trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 500 điểm tích lũy treo thưởng và một tấm quyển trục tăng lên phẩm giai trang bị DD cấp, nhưng đem D cấp trang bị tăng lên tới DD cấp."
+
+"Sáu: giết chết Andariel, điểm tích lũy cống hiến 600 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Andariel trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 600 điểm tích lũy treo thưởng và một tấm quyển trục tăng lên phẩm giai trang bị C cấp, nhưng đem DD cấp trang bị tăng lên tới C cấp."
+
+. . .
+
+Sau đó trên văn chương Huyết Tinh còn xuất hiện một tấm Diablo thế giới địa đồ, trên mặt dấu hiệu qua sáu cái điểm đỏ, phân biệt đại biểu cho sáu cái bất đồng nhiệm vụ hoàn thành địa điểm.
+
+Lúc này đây đô thị Huyết Tinh đúng là trực tiếp đem địa đồ đều cho mọi người.
+
+Cùng trong trò chơi tất cả nhiệm vụ điểm đều ở một con đường trên mạng bất đồng, kể cả Blood Moor, Cold Plains, Burial Grounds, Stony Field, Dark Wood, Black Marsh, Tamoe Highlands thậm chí Tristram ở bên trong Diablo thế giới tràng cảnh màn I địa đồ, toàn bộ bị trên phạm vi lớn sửa chữa, do đó khiến cho đám người mạo hiểm vô pháp tại trên một con đường mà đi qua toàn bộ nhiệm vụ địa điểm, nhất định phải làm ra nhất định lựa chọn. Cái này tại trên trình độ nhất định khiến cho nội đấu bị phân tán hoà hạn tại tất cả đầu trên lộ tuyến, không đến mức biến thành một hồi toàn bộ trong phạm vi tự giết lẫn nhau, cũng vì về sau đoàn kết điện định hợp tác trụ cột.
+
+Chứng kiến cái này liên tiếp nhiệm vụ, mọi người đồng thời cười khổ.
+
+Sáu cái nhiệm vụ tổng điểm tích lũy cộng lại bất quá 4300, phân đến 52 cá nhân trên đầu, mỗi người cũng chưa tới 100 điểm. Loại tình huống này, như mọi người còn có thể có tâm tư bình tĩnh lại nói chuyện hợp tác mới gọi việc lạ. Mặc kệ như thế nào, nhiệm vụ lần này nhất định là muốn tại ngươi tranh ta đoạt trung triển khai.
+
+P/s: Mong các bác có clone, hay acc chính khi xem truyện Thích + Đánh giá + Theo dõi, để truyện mau lên top đầu vĩnh viễn :D Tks các bác :D
+
+(*): Đá Linh Hồn - Soulstone
+<a href="http://mjharper.macbay.de/diablo2.jpg">http://mjharper.macbay.de/diablo2.jpg</a> 
+(**): Andariel
+<a href="https://pre00.deviantart.net/8fd7/th/pre/i/2012/309/3/a/andariel___the_maiden_of_anguish_by_meadowgrove-d5k3ztr.png">https://pre00.deviantart.net/8fd7/th/pre/i/2012/309/3/a/andariel___the_maiden_of_anguish_by_meadowgrove-d5k3ztr.png</a> 
+(***): Corpsefire
+<a href="https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Corpsefire_%28Diablo_II%29.gif?version=51d724b56e0a0dd55c9c8e81dc84745d">https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Corpsefire_%28Diablo_II%29.gif?version=51d724b56e0a0dd55c9c8e81dc84745d</a> 
+(****): Blood Raven
+<a href="https://i.ytimg.com/vi/xbHuLDW759c/maxresdefault.jpg">https://i.ytimg.com/vi/xbHuLDW759c/maxresdefault.jpg</a> 
+(*****): Deckard Cain
+<a href="https://vignette.wikia.nocookie.net/diablo/images/4/4f/Deckard_Cain_D3.jpg/revision/latest?cb=20131015114726">https://vignette.wikia.nocookie.net/diablo/images/4/4f/Deckard_Cain_D3.jpg/revision/latest?cb=20131015114726</a> 
+(******): The Countess
+<a href="https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/73/The_Countess_%28Diablo_II%29.gif?version=fe9e80e5579ff0e0d1a2cd11897b4747">https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/73/The_Countess_%28Diablo_II%29.gif?version=fe9e80e5579ff0e0d1a2cd11897b4747</a> 
+(*******): The Smith
+<a href="https://i.ytimg.com/vi/p7hBExDPP3c/hqdefault.jpg">https://i.ytimg.com/vi/p7hBExDPP3c/hqdefault.jpg</a>Đi ra cổng truyền tống, Trầm Dịch phát hiện mình chính bản thân ở vào một cái lụi bại trong thôn trang nhỏ.
+
+Thôn trang diện tích không lớn, bên ngoài là tiêm cọc gỗ đâm thành tường vây, tường sau đứng từng dãy ăn mặc thời Trung Cổ khôi giáp binh sĩ, cầm trong tay trường mâu lưỡi dao sắc bén, nghiêm túc và trang trọng xem hướng phía trước.
+
+Đỉnh đầu bầu trời là tối tăm lu mờ mịt một mảnh, trong không khí mờ mịt qua khô héo đốt cháy khí tức, tại đây ở vào một mảnh giữa đồng trống, xa xa là cao núi rừng nhiệt đới, ngẫu mà có thể nghe được một ít to rõ dã thú gào rú, lại điểm không rõ rốt cuộc là cái gì động vật phát ra thanh âm.
+
+Tại đây, chính là Diablo thế giới.
+
+Một cái sung mãn ma pháp lực lượng giả tưởng thế giới.
+
+Lúc này lần lượt mạo hiểm giả chính lục tục xuất hiện ở thôn trang tất cả hẻo lánh, bọn hắn đánh giá hoàn cảnh chung quanh, trong ánh mắt lộ ra mang chút khẩn trương cảnh giác.
+
+Văn chương Huyết Tinh thanh âm nhắc nhở hợp thời vang lên:
+
+"Tiến vào Diablo 2 nhiệm vụ thế giới, trước mặt vị trí vị trí: doanh địa Rogue."
+
+"Nhiệm vụ lần này là hình thức cạnh hợp, không nhiệm vụ chính tuyến. Mạo hiểm giả lẫn nhau công kích suy yếu 25% thương tổn, giết chết mặt khác mạo hiểm giả nhưng đạt được một kiện tùy cơ hội trang bị."
+
+"Nhiệm vụ nội dung: nhiệm vụ cuộc thi tranh đoạt —— vì đối kháng tà ác ba Ma Thần, Diablo thế giới đối nhân loại dũng giả ban bố đại lượng nhiệm vụ. Mạo hiểm giả nhưng tự do chấp hành tùy ý nhiệm vụ, không hạn số lượng, tất cả nhiệm vụ có đủ duy nhất tính, đương làm nên nhiệm vụ bị sau khi hoàn thành, mặt khác mạo hiểm giả đem vô pháp hoàn thành, đồng thời cũng vô pháp tìm được đối ứng ban thưởng."
+
+"Diablo thế giới cùng sở hữu năm cái trường đấu, từng trường đấu đều có sáu cái nội dung nhiệm vụ đồng thời tuyên bố. Nhiệm vụ chấp hành trong quá trình đem tính toán mạo hiểm giả điểm tích lũy cống hiến, nhưng cuối cùng nhất đem chỉ có một gã mạo hiểm giả có thể trở thành đối ứng người hoàn thành nhiệm vụ, chỉ có người hoàn thành nhiệm vụ mới có thể đạt được điểm tích lũy treo thưởng và nhiệm vụ ban thưởng."
+
+"Từng nhiệm vụ điểm tích lũy cống hiến tổng giá trị cùng điểm tích lũy treo thưởng bằng nhau, nhiệm vụ sau khi hoàn thành sẽ xuất hiện cổng truyền tống, nhưng trực tiếp truyền tống về điểm xuất phát."
+
+"Chỉ có hoàn thành một cái trường đấu trong tất cả nhiệm vụ, tất cả mạo hiểm giả mới có thể tập thể lao tới tiếp theo sân thi đấu."
+
+"Tất cả doanh địa vì sân thi đấu khu an toàn, khu an toàn trong không được lẫn nhau giết chóc, người vi phạm mạt sát."
+
+"Nhiệm vụ chấp hành thời gian ba mươi ngày. Thời gian sau khi kết thúc đem tính toán tất cả mạo hiểm giả tổng số điểm cống hiến, mỗi điểm tích lũy nhưng đổi 10 điểm Huyết Tinh. Nhiệm vụ tiêu chuẩn điểm chín trăm điểm. Người điểm tích lũy thấp hơn 450 điểm mạt sát, người điểm tích lũy thấp hơn 900 điểm khấu trừ một nửa ban thưởng, người có điểm tích lũy cao hơn 1800 điểm, số điểm từ 1800 trở lên ban thưởng gấp đôi ( Ý chỉ điểm 1801 thì 1800 điểm = 1 vạn 8, 1 điểm = 20 điểm Huyết Tinh cứ thế mà tính )."
+
+"Nhiệm vụ nhắc nhở: lần này Diablo thế giới vì hình thức toàn cảnh cạnh tranh, từng trường đấu đối ứng một cái tiêu chuẩn khu vực độ khó."
+
+"Lần này nhiệm vụ người tham dự: 52 người."
+
+"Năm trường đấu:
+
+1, doanh địa Rogue.
+
+2, Lut Gholein.
+
+3, cảng biển Kurast.
+
+4, pháo đài Pandemonium.
+
+5, thành Harrogath."
+
+"Nhiệm vụ bối cảnh giới thiệu: sau cuộc chiến Tội Lỗi ( The Sin War ), Thiên Đường cùng Địa Ngục thế lực tiến vào giằng co trạng thái. Vì đánh vỡ cân đối, tìm được đá Linh Hồn, nắm giữ lấy sợ hãi, phá hư cùng căm hận lực lượng Địa Ngục ba Ma Thần mượn bốn Ma Vương phản loạn tiến vào nhân loại thế giới, làm cho nhân loại mang đến cực lớn cực khổ. . ."
+
+Diablo thế giới nội dung cốt truyện tư liệu, từ lúc Trầm Dịch tiến vào trước kia cũng đã nắm giữ. Đây là một điển hình khổ nhục kế diễn xuất —— vì tranh đoạt đá Linh Hồn ( Soulstone ) (*), Địa Ngục ba Ma Thần dùng thân làm gương dụ dỗ Thiên Sứ. Kết quả các Thiên Sứ chính mình không có ra tay, lại lại để cho nhân loại thế giới chính mình đem ba Ma Thần từng cái phong ấn, cuối cùng nhất đem trận này Địa Ngục xâm lấn diễn biến thành một hồi chê cười. Với tư cách một cái trò chơi, Diablo chính là tại như vậy bối cảnh triển khai.
+
+Cùng dĩ vãng bất đồng chính là, lúc này đây đô thị Huyết Tinh không có sẽ đem Diablo thế giới bối cảnh trắng trợn sửa chữa, ngược lại trình độ lớn nhất trung thực nguyên lai bối cảnh, mà đám người mạo hiểm tắc chính là đem làm vì nhân loại võ sĩ tiến hành một lần xưa nay chưa từng có tập thể đại tác chiến hành động —— bọn hắn đem quét ngang Diablo thế giới, đem Địa Ngục thế lực đuổi trở về, trở thành chúa cứu thế mới.
+
+. . .
+
+Có quan hệ nhiệm vụ bối cảnh giới thiệu vừa mới chấm dứt, kênh đoàn đội ở phía trong tựu vang lên Kim Cương thanh âm: "Trầm Dịch ngươi ở đâu?"
+
+"Đây là ta đây tại." Trầm Dịch đánh giá chung quanh một chút, chứng kiến Kim Cương ngay tại cách cách mình cách đó không xa trong khắp ngõ ngách, ở bên cạnh hắn còn đứng qua Hồng Lãng, Ôn Nhu, hắn cười nói: "Ta nhìn thấy các ngươi."
+
+"Ta cũng vậy trông thấy ngươi, ta nói ngươi xem ra cái gì không có?" Kim Cương bọn hắn hướng Trầm Dịch đi tới, bên kia cũng xuất hiện Chu Nghi Vũ cùng mập mạp thân ảnh.
+
+"Ân, có chút ý tứ, nếu như ta đoán phải đúng vậy mà nói chúng ta kỳ thật chính là tự mình tiến vào Diablo thế giới người chơi, đang tại chơi một hồi chân thực mô phỏng trò chơi." Trầm Dịch cười nói.
+
+Rất hiển nhiên lúc này đây Trầm Dịch bọn hắn tựu giống trong trò chơi Paladin, Barbarian các loại chức nghiệp nhân vật, đem tiến hành một lần tự chủ trò chơi con đường trải qua đột phá.
+
+Duy nhất có chỗ bất đồng đúng là lúc này đây tiến vào trò chơi nhân vật nhiều đến 52 cái, mà từng cái trò chơi nhiệm vụ tuy nhiên cũng có được duy nhất tính chất, một khi bị những người khác hoàn thành, chính mình tựu làm mất đi cơ hội.
+
+Chính là chỗ này một điểm nho nhỏ thay đổi, khiến cho trận này trò chơi không còn là các người chơi đồng tâm hiệp lực đối kháng Ma Thần chiến tranh, mà là đám người mạo hiểm giữa lẫn nhau lục đục với nhau, ngươi lừa ta gạt, ngươi chết ta sống tử vong thi đua!
+
+Quả nhiên, tại nghe rõ ràng nhiệm vụ nhắc nhở sau, đám người mạo hiểm ánh mắt đã trở nên hung ác bắt đầu. Một ít lẫn nhau quen thuộc mạo hiểm giả lẫn nhau tới gần, dần dần hình thành nguyên một đám lớn nhỏ đoàn thể.
+
+Trong đó nhân số nhiều nhất một tổ mười người tả hữu, rõ ràng cho thấy một cái đoàn đội, sau đó là một cái tám người đoàn đội, lại tận lực bồi tiếp đội Đoạn Nhận cùng cái khác sáu người đoàn đội. Bốn đoàn đội chiếm đi mạo hiểm giả hơn phân nửa lực lượng, còn lại hai mươi hai tên mạo hiểm giả phần lớn là chút ít tốp năm tốp ba tiểu tổ hợp.
+
+Trừ chuyện đó ra, doanh địa Rogue ở phía trong còn có một chút ăn mặc thế kỷ XVI cổ xưa trang phục người tại phụ cận đi đi lại lại, hiển nhiên bọn hắn chính là trong thế giới này nội dung cốt truyện nhân vật. Có lẽ là đô thị Huyết Tinh nguyên nhân, bọn hắn đối với mạo hiểm giả xuất hiện không có chút nào kinh ngạc, phảng phất những người này bản nên tồn tại ở cái thế giới này.
+
+"Cần phải có sở biến hóa a." Chu Nghi Vũ bước đi đến: "Ít nhất tại trong trò chơi, phải một cái nhiệm vụ hoàn thành mới có thể mở ra hạ một cái nhiệm vụ. Nhưng là nghe văn chương nhắc nhở, từng trường đấu tất cả nhiệm vụ đều là đồng thời cởi mở, tự do tranh đoạt. Nói cách khác, chúng ta bây giờ cũng có thể đi chấp hành tiêu diệt Andariel (**) nhiệm vụ."
+
+Andariel, Diablo thế giới Địa Ngục trận doanh bên trong Nữ vương tra tấn cùng thống khổ, nàng là Địa Ngục trận doanh bốn Ma Vương một trong, cũng phải Diablo thế giới màn I tràng cảnh cuối cùng BOSS.
+
+Nghe được Chu Nghi Vũ nói như vậy, Hồng Lãng lập tức hưng phấn kêu lên: "Cái kia chúng ta bây giờ tựu đi làm rơi Andariel! Nhiệm vụ nhắc nhở, từng trường đấu đối ứng một cái khu vực độ khó, nói cách khác doanh địa Rogue cái này màn tràng cảnh, nên vậy chỉ tương đương với khu dân nghèo độ khó mới đúng, Andariel khẳng định không khó đối phó, ta phỏng chừng cũng chính là một Dracula Bá tước trình độ."
+
+Đúng vậy, căn cứ văn chương Huyết Tinh nhắc nhở, lần này nhiệm vụ thế giới chọn dùng chính là hình thức toàn cảnh, năm màn tràng cảnh phân biệt đối ứng năm cái khu vực độ khó. Lời này ý tứ, rất rõ ràng nói đúng là, doanh địa Rogue cái này trường đấu, hắn độ khó chỉ có khu dân nghèo độ khó. Dùng khu phổ thông mạo hiểm giả năng lực đi khiêu chiến khu dân nghèo độ khó, tự nhiên là lại buông lỏng bất quá.
+
+Ngay Hồng Lãng đều có thể nhìn ra được vấn đề, mặt khác mạo hiểm giả tự nhiên không biết nhìn không ra, tất cả mọi người thời khắc này đều nghị luận ào ào, lẫn nhau nhiệt liệt tham thảo bắt đầu.
+
+Trầm Dịch lạnh mắt thấy chung quanh mạo hiểm giả thấp giọng tham thảo, đột nhiên dùng tiếng Faa thấp giọng nói: "Andariel nên vậy không khó đối phó, nhưng muốn nói so Dracula Bá tước nhược vậy cũng chưa hẳn."
+
+Hồng Lãng khó hiểu: "Vì cái gì nói như vậy? Chẳng lẽ Andariel nếu so với Dracula cường đại? Nhưng cái kia chẳng phải không phù hợp khu dân nghèo khó khăn sao?"
+
+Trầm Dịch khắp thanh âm trả lời: "Tại đây hiện tại có 52 cái mạo hiểm giả, dù là tài nghệ của mọi người chỉ có khu dân nghèo cái loại nầy trình độ, dùng để đối phó Dracula Bá tước, cũng có thể buông lỏng hoàn tất năm ba cái đi à nha? Andariel coi như là BOSS đưa hàng, cũng không thể đưa phải quá giá rẻ mới được là."
+
+Hồng Lãng lập tức không phục bắt đầu: "Nhưng bây giờ là thi đua nội dung, mọi người căn bản không có khả năng đồng tâm hiệp lực đi chiến đấu, muốn ta xem dưới loại tình huống này, Andariel nên vậy so Dracula càng dễ đối phó mới đúng, bởi vì vì mọi người nhất định sẽ ngươi tranh ta đoạt, làm cho bổ sung tổn thương, nếu không ngươi đã nói hình thức điều tiết độ khó tựu chỉ là một câu lời nói suông."
+
+Trầm Dịch trong mắt hiện ra một tia quỷ dị sắc thái: "Vấn đề ở này, đây là thi đua nội dung, nhưng là chúng ta nhiệm vụ lần này hình thức nhưng lại hình thức cạnh hợp. Biết rõ cái gì gọi là cạnh hợp sao?"
+
+Mọi người lẫn nhau nhìn xem, có lẽ hay là Ôn Nhu nói ra: "Cái gọi là cạnh hợp, chính là cạnh tranh cùng hợp tác cùng tồn tại. Cạnh hợp quan hệ là trong xã hội loài người phức tạp nhất cũng khó khăn nhất xử lý một loại quan hệ, là một loại đã muốn bay lên đến chính trị độ cao quan hệ, tựu giống như Trung Mỹ quan hệ, Trung Nhật quan hệ các loại, đều là tại trong cạnh tranh bảo trì hợp tác, loại quan hệ này bình thường chỉ tồn tại ở chính trị gia cùng chính trị gia trong lúc đó. Đương nhiên, một ít công ty lớn trong lúc đó cũng sẽ có cạnh hợp quan hệ tồn tại. Ví dụ như công ty Pepsi cùng công ty Coca Cola tại tiến vào Trung Quốc thị trường thời điểm, tựu từng có quá trước đó ước định chủ yếu tiêu thụ khu vực cách làm, cứ việc hai nhà công ty lẫn nhau cạnh tranh gay gắt, nhưng ở đối mặt một ít cộng đồng lợi ích lúc, có lẽ hay là hội bảo trì nhất định hợp tác, tận lực tránh cho hội sinh ra bổ sung tổn thất tranh đấu."
+
+Ôn Nhu như vậy một giải thích, mọi người lúc này mới chợt hiểu hiểu ra, Kim Cương cao kêu lên: "Ta hiểu được. . ."
+
+Hắn nói còn chưa dứt lời, Trầm Dịch đã muốn trừng mắt liếc hắn một cái, Kim Cương cái này mới tỉnh ngộ lại, bề bộn dùng tiếng Faa thấp giọng nói: "Nhiệm vụ lần này mặt ngoài thoạt nhìn là thi đua nội dung, nhưng là nó có một trọng yếu bất đồng, chính là nó không giống lần trước khu vực thi đua, này đây bài danh cuối cùng mạo hiểm giả vì mạt sát mục tiêu, mà là dùng cố định điểm tích lũy vì mạt sát tiêu chuẩn. Nói một cách khác, nếu như mọi người có thể chung sức hợp tác, vẫn là có thể làm được mỗi người cũng không bị mạt sát. Cho nên cái này nhiệm vụ thi đua biểu hiện ra thoạt nhìn giống khu vực thi đua, nhưng ở thuộc về kỳ thật càng tiếp cận đoàn đội hợp tác nhiệm vụ, cho nên mới gọi là hình thức cạnh hợp."
+
+Chu Nghi Vũ cũng tiếp lời: "Đã có hợp tác trụ cột, như vậy nhiệm vụ của chúng ta mục tiêu thực lực đương nhiên là theo chỉnh thể góc độ cân nhắc. Andariel là Địa Ngục bốn Ma Vương một trong, một cái là Vương, một cái là Bá tước, lại nói tiếp hoàn toàn chính xác rất không có khả năng so Dracula yếu. Cho nên mặc dù là khu dân nghèo nhiệm vụ, nhưng tốt nhất cũng đừng quá coi thường."
+
+Trầm Dịch nói tiếp: "Lam Nhan nói qua, đô thị Huyết Tinh phải cần là chiến sĩ mà không phải thương nhân, mà một cái chiến sĩ xuất sắc nên có được đối mặt cường địch mà không lùi bước dũng khí, cho nên ta nhận thức vì lần này Diablo nhiệm vụ, chính là muốn bức bách qua mọi người chúng ta liên hợp cùng một chỗ đi khiêu chiến độ khó cao, nếu không vô ý nghĩa đồng thời đem năm cái độ khó toàn bộ mở ra, mặc chúng ta tự do khiêu chiến."
+
+"Mẹ!" Hồng Lãng mắng lên: "Đây không phải là nguy rồi, quan hệ phức tạp như vậy ai nói rõ ràng ah? Lão tử chỉ biết là trong lúc này nhiệm vụ đều là duy nhất tính, ngươi nhận được rồi người khác sẽ không có, tranh giành đều tranh giành không đến nì còn nói gì hợp tác?"
+
+Trầm Dịch cười khổ: "Cái này là vấn đề chỗ. Chúng ta đứng ở một cái cần độ cao hợp tác trên khán đài, cuối cùng nhất phát triển lại có thể là ưu tiên nội chiến, tựu giống. . ."
+
+"Tựu giống trong lịch sử." Chu Nghi Vũ xen vào một câu.
+
+"Có không có khả năng cùng bọn họ nói chuyện? Mọi người cùng nhau xông nhiệm vụ, trước không nội đấu, tận khả năng bảo trì lực lượng." La Hạo nhỏ giọng hỏi.
+
+Trầm Dịch lắc đầu: "Chúng ta đoàn đội chỉ có sáu người. Theo mặt ngoài trên thực lực xem, chúng ta không phải mạnh nhất. Mà xướng nghị hợp tác loại sự tình này, chỉ có cường thế mới vừa có tư cách đưa ra, yếu thế phương chính là nói ra cũng không còn người để ý tới. Nhưng là đối với cường thế phương mà nói, hợp tác rồi lại cũng không phải tất yếu, bọn hắn hoàn toàn có thể bằng vào lực lượng của mình đoạt hạ đủ đủ nhiệm vụ, mà không phải phải cùng kẻ yếu liên hợp. Dù là muốn liên hợp, cũng hoàn toàn có thể đợi trước đoạt hạ đủ đủ chỗ tốt sau lại liên hợp, nhưng đến lúc đó, mọi người thực lực thường thường đã muốn gọt yếu rất nhiều, muốn khiêu chiến cao nhiệm vụ cấp thế tất càng thêm khó khăn, cho nên nói đó là một vòng tuần hoàn chết. Đây cũng là vì cái gì cạnh hợp quan hệ sẽ trở thành vì trong xã hội loài người phức tạp nhất cũng khó khăn nhất xử lý quan hệ nguyên nhân. . . Nói thực ra coi như là ta, hiện tại cũng làm không được bày đặt có sẵn chỗ tốt không đoạt, lại muốn đi cùng người khác làm chia đều phân phối, đã chúng ta minh bạch đều làm không được, lại thế nào đi trông cậy vào người khác đâu?"
+
+Nói xong Trầm Dịch ánh mắt đã rơi ở phía xa mười người kia đoàn đội trên người, hắn từ đối phương trong mắt thấy được tham lam, dã tâm cùng mãnh liệt cạnh tranh dục vọng.
+
+Hắn không khỏi thở dài: "Rõ ràng là một hồi cạnh hợp trò chơi, cuối cùng nhất cũng phải đi đánh cờ tới lui."
+
+Dùng cạnh tranh vì thủ đoạn hợp tác, cuối cùng là muốn tại có một cường lực hạch tâm chỉ huy trụ cột hạ tiến hành. Mất đi cái này hạch tâm chỉ huy, bản thân vừa rồi không có chính trị gia đám bọn họ thành thục, ổn trọng, tu dưỡng cùng ẩn nhẫn, cái kia cái gọi là cạnh hợp quan hệ, cuối cùng bất quá là một hồi chê cười mà thôi.
+
+Hồng Lãng tùy tiện bĩu môi một cái: "Đã như vậy, vậy trước tiên thi đua, sau hợp tác, đáng chết liền giết, không giết được thì bỏ qua. Chỉ cần chúng ta trước nắm bắt trước hai cái trường đấu đủ nhiều nhiệm vụ, đến lúc đó có đi không xông cao cấp khu, còn không phải chúng ta định đoạt."
+
+Đội Đoạn Nhận mặc dù là mặt ngoài yếu thế, nhưng từng đội viên nhưng trong lòng sớm đã đem mình định vì chính thức cường thế, bởi vậy cường giả loại này tâm tính không chỉ có xuất hiện ở xa xa mười người đội thượng, đồng thời cũng xuất hiện ở đội Đoạn Nhận trên người.
+
+Đối với cái này, Trầm Dịch mỉm cười: "Lần này ngươi nói đúng, trước cạnh tranh sau hợp tác, có cái kia đui mù, đáng chết còn phải giết, nhiệm vụ lần này luôn phải chết đi một nhóm người, mới có thể để cho tất cả mọi người đã có kinh nghiệm. . . Tựu xem là ai hội trước xui xẻo."
+
+Chuyện phức tạp, đơn giản đi làm, lúc này đây Hồng Lãng đến là đoán đúng rồi một bả.
+
+Đúng lúc này, văn chương Huyết Tinh lại lần nữa nhắc nhở:
+
+"Doanh địa Rogue tuyên bố sáu nhiệm vụ."
+
+"Một: tiêu diệt toàn bộ huyệt động Den of Evil, điểm tích lũy cống hiến 150 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Corpsefire (***) trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 150 điểm tích lũy treo thưởng và một điểm điểm kỹ năng ban thưởng."
+
+"Hai: giết chết Blood Raven (****), điểm tích lũy cống hiến 200 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Blood Raven trở thành người hoàn thành nhiệm vụ, bổ sung đạt được hai trăm điểm tích lũy treo thưởng và một gã thuộc tính toàn bộ 25 lính đánh thuê ban thưởng, lính đánh thuê có thể thăng cấp, bản nhiệm vụ thế giới sau khi chết nhưng phục sinh, dẫn đi khỏi bản thế giới sau, sau khi chết không thể phục sinh."
+
+"Ba: cứu Deckard Cain (*****), điểm tích lũy cống hiến 300 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người cứu ra Cain trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 300 điểm tích lũy treo thưởng và Deckard Cain tình hữu nghị."
+
+"Bốn: giết chết The Countess (******), điểm tích lũy cống hiến 400 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết The Countess trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 400 điểm tích lũy treo thưởng và kỹ năng D cấp quyển trục một tấm."
+
+"Năm: giết chết The Smith (*******), điểm tích lũy cống hiến 500 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết The Smith trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 500 điểm tích lũy treo thưởng và một tấm quyển trục tăng lên phẩm giai trang bị DD cấp, nhưng đem D cấp trang bị tăng lên tới DD cấp."
+
+"Sáu: giết chết Andariel, điểm tích lũy cống hiến 600 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Andariel trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 600 điểm tích lũy treo thưởng và một tấm quyển trục tăng lên phẩm giai trang bị C cấp, nhưng đem DD cấp trang bị tăng lên tới C cấp."
+
+. . .
+
+Sau đó trên văn chương Huyết Tinh còn xuất hiện một tấm Diablo thế giới địa đồ, trên mặt dấu hiệu qua sáu cái điểm đỏ, phân biệt đại biểu cho sáu cái bất đồng nhiệm vụ hoàn thành địa điểm.
+
+Lúc này đây đô thị Huyết Tinh đúng là trực tiếp đem địa đồ đều cho mọi người.
+
+Cùng trong trò chơi tất cả nhiệm vụ điểm đều ở một con đường trên mạng bất đồng, kể cả Blood Moor, Cold Plains, Burial Grounds, Stony Field, Dark Wood, Black Marsh, Tamoe Highlands thậm chí Tristram ở bên trong Diablo thế giới tràng cảnh màn I địa đồ, toàn bộ bị trên phạm vi lớn sửa chữa, do đó khiến cho đám người mạo hiểm vô pháp tại trên một con đường mà đi qua toàn bộ nhiệm vụ địa điểm, nhất định phải làm ra nhất định lựa chọn. Cái này tại trên trình độ nhất định khiến cho nội đấu bị phân tán hoà hạn tại tất cả đầu trên lộ tuyến, không đến mức biến thành một hồi toàn bộ trong phạm vi tự giết lẫn nhau, cũng vì về sau đoàn kết điện định hợp tác trụ cột.
+
+Chứng kiến cái này liên tiếp nhiệm vụ, mọi người đồng thời cười khổ.
+
+Sáu cái nhiệm vụ tổng điểm tích lũy cộng lại bất quá 4300, phân đến 52 cá nhân trên đầu, mỗi người cũng chưa tới 100 điểm. Loại tình huống này, như mọi người còn có thể có tâm tư bình tĩnh lại nói chuyện hợp tác mới gọi việc lạ. Mặc kệ như thế nào, nhiệm vụ lần này nhất định là muốn tại ngươi tranh ta đoạt trung triển khai.
+
+P/s: Mong các bác có clone, hay acc chính khi xem truyện Thích + Đánh giá + Theo dõi, để truyện mau lên top đầu vĩnh viễn :D Tks các bác :D
+
+(*): Đá Linh Hồn - Soulstone
+<a href="http://mjharper.macbay.de/diablo2.jpg">http://mjharper.macbay.de/diablo2.jpg</a> 
+(**): Andariel
+<a href="https://pre00.deviantart.net/8fd7/th/pre/i/2012/309/3/a/andariel___the_maiden_of_anguish_by_meadowgrove-d5k3ztr.png">https://pre00.deviantart.net/8fd7/th/pre/i/2012/309/3/a/andariel___the_maiden_of_anguish_by_meadowgrove-d5k3ztr.png</a> 
+(***): Corpsefire
+<a href="https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Corpsefire_%28Diablo_II%29.gif?version=51d724b56e0a0dd55c9c8e81dc84745d">https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Corpsefire_%28Diablo_II%29.gif?version=51d724b56e0a0dd55c9c8e81dc84745d</a> 
+(****): Blood Raven
+<a href="https://i.ytimg.com/vi/xbHuLDW759c/maxresdefault.jpg">https://i.ytimg.com/vi/xbHuLDW759c/maxresdefault.jpg</a> 
+(*****): Deckard Cain
+<a href="https://vignette.wikia.nocookie.net/diablo/images/4/4f/Deckard_Cain_D3.jpg/revision/latest?cb=20131015114726">https://vignette.wikia.nocookie.net/diablo/images/4/4f/Deckard_Cain_D3.jpg/revision/latest?cb=20131015114726</a> 
+(******): The Countess
+<a href="https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/73/The_Countess_%28Diablo_II%29.gif?version=fe9e80e5579ff0e0d1a2cd11897b4747">https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/73/The_Countess_%28Diablo_II%29.gif?version=fe9e80e5579ff0e0d1a2cd11897b4747</a> 
+(*******): The Smith
+<a href="https://i.ytimg.com/vi/p7hBExDPP3c/hqdefault.jpg">https://i.ytimg.com/vi/p7hBExDPP3c/hqdefault.jpg</a>Đi ra cổng truyền tống, Trầm Dịch phát hiện mình chính bản thân ở vào một cái lụi bại trong thôn trang nhỏ.
+
+Thôn trang diện tích không lớn, bên ngoài là tiêm cọc gỗ đâm thành tường vây, tường sau đứng từng dãy ăn mặc thời Trung Cổ khôi giáp binh sĩ, cầm trong tay trường mâu lưỡi dao sắc bén, nghiêm túc và trang trọng xem hướng phía trước.
+
+Đỉnh đầu bầu trời là tối tăm lu mờ mịt một mảnh, trong không khí mờ mịt qua khô héo đốt cháy khí tức, tại đây ở vào một mảnh giữa đồng trống, xa xa là cao núi rừng nhiệt đới, ngẫu mà có thể nghe được một ít to rõ dã thú gào rú, lại điểm không rõ rốt cuộc là cái gì động vật phát ra thanh âm.
+
+Tại đây, chính là Diablo thế giới.
+
+Một cái sung mãn ma pháp lực lượng giả tưởng thế giới.
+
+Lúc này lần lượt mạo hiểm giả chính lục tục xuất hiện ở thôn trang tất cả hẻo lánh, bọn hắn đánh giá hoàn cảnh chung quanh, trong ánh mắt lộ ra mang chút khẩn trương cảnh giác.
+
+Văn chương Huyết Tinh thanh âm nhắc nhở hợp thời vang lên:
+
+"Tiến vào Diablo 2 nhiệm vụ thế giới, trước mặt vị trí vị trí: doanh địa Rogue."
+
+"Nhiệm vụ lần này là hình thức cạnh hợp, không nhiệm vụ chính tuyến. Mạo hiểm giả lẫn nhau công kích suy yếu 25% thương tổn, giết chết mặt khác mạo hiểm giả nhưng đạt được một kiện tùy cơ hội trang bị."
+
+"Nhiệm vụ nội dung: nhiệm vụ cuộc thi tranh đoạt —— vì đối kháng tà ác ba Ma Thần, Diablo thế giới đối nhân loại dũng giả ban bố đại lượng nhiệm vụ. Mạo hiểm giả nhưng tự do chấp hành tùy ý nhiệm vụ, không hạn số lượng, tất cả nhiệm vụ có đủ duy nhất tính, đương làm nên nhiệm vụ bị sau khi hoàn thành, mặt khác mạo hiểm giả đem vô pháp hoàn thành, đồng thời cũng vô pháp tìm được đối ứng ban thưởng."
+
+"Diablo thế giới cùng sở hữu năm cái trường đấu, từng trường đấu đều có sáu cái nội dung nhiệm vụ đồng thời tuyên bố. Nhiệm vụ chấp hành trong quá trình đem tính toán mạo hiểm giả điểm tích lũy cống hiến, nhưng cuối cùng nhất đem chỉ có một gã mạo hiểm giả có thể trở thành đối ứng người hoàn thành nhiệm vụ, chỉ có người hoàn thành nhiệm vụ mới có thể đạt được điểm tích lũy treo thưởng và nhiệm vụ ban thưởng."
+
+"Từng nhiệm vụ điểm tích lũy cống hiến tổng giá trị cùng điểm tích lũy treo thưởng bằng nhau, nhiệm vụ sau khi hoàn thành sẽ xuất hiện cổng truyền tống, nhưng trực tiếp truyền tống về điểm xuất phát."
+
+"Chỉ có hoàn thành một cái trường đấu trong tất cả nhiệm vụ, tất cả mạo hiểm giả mới có thể tập thể lao tới tiếp theo sân thi đấu."
+
+"Tất cả doanh địa vì sân thi đấu khu an toàn, khu an toàn trong không được lẫn nhau giết chóc, người vi phạm mạt sát."
+
+"Nhiệm vụ chấp hành thời gian ba mươi ngày. Thời gian sau khi kết thúc đem tính toán tất cả mạo hiểm giả tổng số điểm cống hiến, mỗi điểm tích lũy nhưng đổi 10 điểm Huyết Tinh. Nhiệm vụ tiêu chuẩn điểm chín trăm điểm. Người điểm tích lũy thấp hơn 450 điểm mạt sát, người điểm tích lũy thấp hơn 900 điểm khấu trừ một nửa ban thưởng, người có điểm tích lũy cao hơn 1800 điểm, số điểm từ 1800 trở lên ban thưởng gấp đôi ( Ý chỉ điểm 1801 thì 1800 điểm = 1 vạn 8, 1 điểm = 20 điểm Huyết Tinh cứ thế mà tính )."
+
+"Nhiệm vụ nhắc nhở: lần này Diablo thế giới vì hình thức toàn cảnh cạnh tranh, từng trường đấu đối ứng một cái tiêu chuẩn khu vực độ khó."
+
+"Lần này nhiệm vụ người tham dự: 52 người."
+
+"Năm trường đấu:
+
+1, doanh địa Rogue.
+
+2, Lut Gholein.
+
+3, cảng biển Kurast.
+
+4, pháo đài Pandemonium.
+
+5, thành Harrogath."
+
+"Nhiệm vụ bối cảnh giới thiệu: sau cuộc chiến Tội Lỗi ( The Sin War ), Thiên Đường cùng Địa Ngục thế lực tiến vào giằng co trạng thái. Vì đánh vỡ cân đối, tìm được đá Linh Hồn, nắm giữ lấy sợ hãi, phá hư cùng căm hận lực lượng Địa Ngục ba Ma Thần mượn bốn Ma Vương phản loạn tiến vào nhân loại thế giới, làm cho nhân loại mang đến cực lớn cực khổ. . ."
+
+Diablo thế giới nội dung cốt truyện tư liệu, từ lúc Trầm Dịch tiến vào trước kia cũng đã nắm giữ. Đây là một điển hình khổ nhục kế diễn xuất —— vì tranh đoạt đá Linh Hồn ( Soulstone ) (*), Địa Ngục ba Ma Thần dùng thân làm gương dụ dỗ Thiên Sứ. Kết quả các Thiên Sứ chính mình không có ra tay, lại lại để cho nhân loại thế giới chính mình đem ba Ma Thần từng cái phong ấn, cuối cùng nhất đem trận này Địa Ngục xâm lấn diễn biến thành một hồi chê cười. Với tư cách một cái trò chơi, Diablo chính là tại như vậy bối cảnh triển khai.
+
+Cùng dĩ vãng bất đồng chính là, lúc này đây đô thị Huyết Tinh không có sẽ đem Diablo thế giới bối cảnh trắng trợn sửa chữa, ngược lại trình độ lớn nhất trung thực nguyên lai bối cảnh, mà đám người mạo hiểm tắc chính là đem làm vì nhân loại võ sĩ tiến hành một lần xưa nay chưa từng có tập thể đại tác chiến hành động —— bọn hắn đem quét ngang Diablo thế giới, đem Địa Ngục thế lực đuổi trở về, trở thành chúa cứu thế mới.
+
+. . .
+
+Có quan hệ nhiệm vụ bối cảnh giới thiệu vừa mới chấm dứt, kênh đoàn đội ở phía trong tựu vang lên Kim Cương thanh âm: "Trầm Dịch ngươi ở đâu?"
+
+"Đây là ta đây tại." Trầm Dịch đánh giá chung quanh một chút, chứng kiến Kim Cương ngay tại cách cách mình cách đó không xa trong khắp ngõ ngách, ở bên cạnh hắn còn đứng qua Hồng Lãng, Ôn Nhu, hắn cười nói: "Ta nhìn thấy các ngươi."
+
+"Ta cũng vậy trông thấy ngươi, ta nói ngươi xem ra cái gì không có?" Kim Cương bọn hắn hướng Trầm Dịch đi tới, bên kia cũng xuất hiện Chu Nghi Vũ cùng mập mạp thân ảnh.
+
+"Ân, có chút ý tứ, nếu như ta đoán phải đúng vậy mà nói chúng ta kỳ thật chính là tự mình tiến vào Diablo thế giới người chơi, đang tại chơi một hồi chân thực mô phỏng trò chơi." Trầm Dịch cười nói.
+
+Rất hiển nhiên lúc này đây Trầm Dịch bọn hắn tựu giống trong trò chơi Paladin, Barbarian các loại chức nghiệp nhân vật, đem tiến hành một lần tự chủ trò chơi con đường trải qua đột phá.
+
+Duy nhất có chỗ bất đồng đúng là lúc này đây tiến vào trò chơi nhân vật nhiều đến 52 cái, mà từng cái trò chơi nhiệm vụ tuy nhiên cũng có được duy nhất tính chất, một khi bị những người khác hoàn thành, chính mình tựu làm mất đi cơ hội.
+
+Chính là chỗ này một điểm nho nhỏ thay đổi, khiến cho trận này trò chơi không còn là các người chơi đồng tâm hiệp lực đối kháng Ma Thần chiến tranh, mà là đám người mạo hiểm giữa lẫn nhau lục đục với nhau, ngươi lừa ta gạt, ngươi chết ta sống tử vong thi đua!
+
+Quả nhiên, tại nghe rõ ràng nhiệm vụ nhắc nhở sau, đám người mạo hiểm ánh mắt đã trở nên hung ác bắt đầu. Một ít lẫn nhau quen thuộc mạo hiểm giả lẫn nhau tới gần, dần dần hình thành nguyên một đám lớn nhỏ đoàn thể.
+
+Trong đó nhân số nhiều nhất một tổ mười người tả hữu, rõ ràng cho thấy một cái đoàn đội, sau đó là một cái tám người đoàn đội, lại tận lực bồi tiếp đội Đoạn Nhận cùng cái khác sáu người đoàn đội. Bốn đoàn đội chiếm đi mạo hiểm giả hơn phân nửa lực lượng, còn lại hai mươi hai tên mạo hiểm giả phần lớn là chút ít tốp năm tốp ba tiểu tổ hợp.
+
+Trừ chuyện đó ra, doanh địa Rogue ở phía trong còn có một chút ăn mặc thế kỷ XVI cổ xưa trang phục người tại phụ cận đi đi lại lại, hiển nhiên bọn hắn chính là trong thế giới này nội dung cốt truyện nhân vật. Có lẽ là đô thị Huyết Tinh nguyên nhân, bọn hắn đối với mạo hiểm giả xuất hiện không có chút nào kinh ngạc, phảng phất những người này bản nên tồn tại ở cái thế giới này.
+
+"Cần phải có sở biến hóa a." Chu Nghi Vũ bước đi đến: "Ít nhất tại trong trò chơi, phải một cái nhiệm vụ hoàn thành mới có thể mở ra hạ một cái nhiệm vụ. Nhưng là nghe văn chương nhắc nhở, từng trường đấu tất cả nhiệm vụ đều là đồng thời cởi mở, tự do tranh đoạt. Nói cách khác, chúng ta bây giờ cũng có thể đi chấp hành tiêu diệt Andariel (**) nhiệm vụ."
+
+Andariel, Diablo thế giới Địa Ngục trận doanh bên trong Nữ vương tra tấn cùng thống khổ, nàng là Địa Ngục trận doanh bốn Ma Vương một trong, cũng phải Diablo thế giới màn I tràng cảnh cuối cùng BOSS.
+
+Nghe được Chu Nghi Vũ nói như vậy, Hồng Lãng lập tức hưng phấn kêu lên: "Cái kia chúng ta bây giờ tựu đi làm rơi Andariel! Nhiệm vụ nhắc nhở, từng trường đấu đối ứng một cái khu vực độ khó, nói cách khác doanh địa Rogue cái này màn tràng cảnh, nên vậy chỉ tương đương với khu dân nghèo độ khó mới đúng, Andariel khẳng định không khó đối phó, ta phỏng chừng cũng chính là một Dracula Bá tước trình độ."
+
+Đúng vậy, căn cứ văn chương Huyết Tinh nhắc nhở, lần này nhiệm vụ thế giới chọn dùng chính là hình thức toàn cảnh, năm màn tràng cảnh phân biệt đối ứng năm cái khu vực độ khó. Lời này ý tứ, rất rõ ràng nói đúng là, doanh địa Rogue cái này trường đấu, hắn độ khó chỉ có khu dân nghèo độ khó. Dùng khu phổ thông mạo hiểm giả năng lực đi khiêu chiến khu dân nghèo độ khó, tự nhiên là lại buông lỏng bất quá.
+
+Ngay Hồng Lãng đều có thể nhìn ra được vấn đề, mặt khác mạo hiểm giả tự nhiên không biết nhìn không ra, tất cả mọi người thời khắc này đều nghị luận ào ào, lẫn nhau nhiệt liệt tham thảo bắt đầu.
+
+Trầm Dịch lạnh mắt thấy chung quanh mạo hiểm giả thấp giọng tham thảo, đột nhiên dùng tiếng Faa thấp giọng nói: "Andariel nên vậy không khó đối phó, nhưng muốn nói so Dracula Bá tước nhược vậy cũng chưa hẳn."
+
+Hồng Lãng khó hiểu: "Vì cái gì nói như vậy? Chẳng lẽ Andariel nếu so với Dracula cường đại? Nhưng cái kia chẳng phải không phù hợp khu dân nghèo khó khăn sao?"
+
+Trầm Dịch khắp thanh âm trả lời: "Tại đây hiện tại có 52 cái mạo hiểm giả, dù là tài nghệ của mọi người chỉ có khu dân nghèo cái loại nầy trình độ, dùng để đối phó Dracula Bá tước, cũng có thể buông lỏng hoàn tất năm ba cái đi à nha? Andariel coi như là BOSS đưa hàng, cũng không thể đưa phải quá giá rẻ mới được là."
+
+Hồng Lãng lập tức không phục bắt đầu: "Nhưng bây giờ là thi đua nội dung, mọi người căn bản không có khả năng đồng tâm hiệp lực đi chiến đấu, muốn ta xem dưới loại tình huống này, Andariel nên vậy so Dracula càng dễ đối phó mới đúng, bởi vì vì mọi người nhất định sẽ ngươi tranh ta đoạt, làm cho bổ sung tổn thương, nếu không ngươi đã nói hình thức điều tiết độ khó tựu chỉ là một câu lời nói suông."
+
+Trầm Dịch trong mắt hiện ra một tia quỷ dị sắc thái: "Vấn đề ở này, đây là thi đua nội dung, nhưng là chúng ta nhiệm vụ lần này hình thức nhưng lại hình thức cạnh hợp. Biết rõ cái gì gọi là cạnh hợp sao?"
+
+Mọi người lẫn nhau nhìn xem, có lẽ hay là Ôn Nhu nói ra: "Cái gọi là cạnh hợp, chính là cạnh tranh cùng hợp tác cùng tồn tại. Cạnh hợp quan hệ là trong xã hội loài người phức tạp nhất cũng khó khăn nhất xử lý một loại quan hệ, là một loại đã muốn bay lên đến chính trị độ cao quan hệ, tựu giống như Trung Mỹ quan hệ, Trung Nhật quan hệ các loại, đều là tại trong cạnh tranh bảo trì hợp tác, loại quan hệ này bình thường chỉ tồn tại ở chính trị gia cùng chính trị gia trong lúc đó. Đương nhiên, một ít công ty lớn trong lúc đó cũng sẽ có cạnh hợp quan hệ tồn tại. Ví dụ như công ty Pepsi cùng công ty Coca Cola tại tiến vào Trung Quốc thị trường thời điểm, tựu từng có quá trước đó ước định chủ yếu tiêu thụ khu vực cách làm, cứ việc hai nhà công ty lẫn nhau cạnh tranh gay gắt, nhưng ở đối mặt một ít cộng đồng lợi ích lúc, có lẽ hay là hội bảo trì nhất định hợp tác, tận lực tránh cho hội sinh ra bổ sung tổn thất tranh đấu."
+
+Ôn Nhu như vậy một giải thích, mọi người lúc này mới chợt hiểu hiểu ra, Kim Cương cao kêu lên: "Ta hiểu được. . ."
+
+Hắn nói còn chưa dứt lời, Trầm Dịch đã muốn trừng mắt liếc hắn một cái, Kim Cương cái này mới tỉnh ngộ lại, bề bộn dùng tiếng Faa thấp giọng nói: "Nhiệm vụ lần này mặt ngoài thoạt nhìn là thi đua nội dung, nhưng là nó có một trọng yếu bất đồng, chính là nó không giống lần trước khu vực thi đua, này đây bài danh cuối cùng mạo hiểm giả vì mạt sát mục tiêu, mà là dùng cố định điểm tích lũy vì mạt sát tiêu chuẩn. Nói một cách khác, nếu như mọi người có thể chung sức hợp tác, vẫn là có thể làm được mỗi người cũng không bị mạt sát. Cho nên cái này nhiệm vụ thi đua biểu hiện ra thoạt nhìn giống khu vực thi đua, nhưng ở thuộc về kỳ thật càng tiếp cận đoàn đội hợp tác nhiệm vụ, cho nên mới gọi là hình thức cạnh hợp."
+
+Chu Nghi Vũ cũng tiếp lời: "Đã có hợp tác trụ cột, như vậy nhiệm vụ của chúng ta mục tiêu thực lực đương nhiên là theo chỉnh thể góc độ cân nhắc. Andariel là Địa Ngục bốn Ma Vương một trong, một cái là Vương, một cái là Bá tước, lại nói tiếp hoàn toàn chính xác rất không có khả năng so Dracula yếu. Cho nên mặc dù là khu dân nghèo nhiệm vụ, nhưng tốt nhất cũng đừng quá coi thường."
+
+Trầm Dịch nói tiếp: "Lam Nhan nói qua, đô thị Huyết Tinh phải cần là chiến sĩ mà không phải thương nhân, mà một cái chiến sĩ xuất sắc nên có được đối mặt cường địch mà không lùi bước dũng khí, cho nên ta nhận thức vì lần này Diablo nhiệm vụ, chính là muốn bức bách qua mọi người chúng ta liên hợp cùng một chỗ đi khiêu chiến độ khó cao, nếu không vô ý nghĩa đồng thời đem năm cái độ khó toàn bộ mở ra, mặc chúng ta tự do khiêu chiến."
+
+"Mẹ!" Hồng Lãng mắng lên: "Đây không phải là nguy rồi, quan hệ phức tạp như vậy ai nói rõ ràng ah? Lão tử chỉ biết là trong lúc này nhiệm vụ đều là duy nhất tính, ngươi nhận được rồi người khác sẽ không có, tranh giành đều tranh giành không đến nì còn nói gì hợp tác?"
+
+Trầm Dịch cười khổ: "Cái này là vấn đề chỗ. Chúng ta đứng ở một cái cần độ cao hợp tác trên khán đài, cuối cùng nhất phát triển lại có thể là ưu tiên nội chiến, tựu giống. . ."
+
+"Tựu giống trong lịch sử." Chu Nghi Vũ xen vào một câu.
+
+"Có không có khả năng cùng bọn họ nói chuyện? Mọi người cùng nhau xông nhiệm vụ, trước không nội đấu, tận khả năng bảo trì lực lượng." La Hạo nhỏ giọng hỏi.
+
+Trầm Dịch lắc đầu: "Chúng ta đoàn đội chỉ có sáu người. Theo mặt ngoài trên thực lực xem, chúng ta không phải mạnh nhất. Mà xướng nghị hợp tác loại sự tình này, chỉ có cường thế mới vừa có tư cách đưa ra, yếu thế phương chính là nói ra cũng không còn người để ý tới. Nhưng là đối với cường thế phương mà nói, hợp tác rồi lại cũng không phải tất yếu, bọn hắn hoàn toàn có thể bằng vào lực lượng của mình đoạt hạ đủ đủ nhiệm vụ, mà không phải phải cùng kẻ yếu liên hợp. Dù là muốn liên hợp, cũng hoàn toàn có thể đợi trước đoạt hạ đủ đủ chỗ tốt sau lại liên hợp, nhưng đến lúc đó, mọi người thực lực thường thường đã muốn gọt yếu rất nhiều, muốn khiêu chiến cao nhiệm vụ cấp thế tất càng thêm khó khăn, cho nên nói đó là một vòng tuần hoàn chết. Đây cũng là vì cái gì cạnh hợp quan hệ sẽ trở thành vì trong xã hội loài người phức tạp nhất cũng khó khăn nhất xử lý quan hệ nguyên nhân. . . Nói thực ra coi như là ta, hiện tại cũng làm không được bày đặt có sẵn chỗ tốt không đoạt, lại muốn đi cùng người khác làm chia đều phân phối, đã chúng ta minh bạch đều làm không được, lại thế nào đi trông cậy vào người khác đâu?"
+
+Nói xong Trầm Dịch ánh mắt đã rơi ở phía xa mười người kia đoàn đội trên người, hắn từ đối phương trong mắt thấy được tham lam, dã tâm cùng mãnh liệt cạnh tranh dục vọng.
+
+Hắn không khỏi thở dài: "Rõ ràng là một hồi cạnh hợp trò chơi, cuối cùng nhất cũng phải đi đánh cờ tới lui."
+
+Dùng cạnh tranh vì thủ đoạn hợp tác, cuối cùng là muốn tại có một cường lực hạch tâm chỉ huy trụ cột hạ tiến hành. Mất đi cái này hạch tâm chỉ huy, bản thân vừa rồi không có chính trị gia đám bọn họ thành thục, ổn trọng, tu dưỡng cùng ẩn nhẫn, cái kia cái gọi là cạnh hợp quan hệ, cuối cùng bất quá là một hồi chê cười mà thôi.
+
+Hồng Lãng tùy tiện bĩu môi một cái: "Đã như vậy, vậy trước tiên thi đua, sau hợp tác, đáng chết liền giết, không giết được thì bỏ qua. Chỉ cần chúng ta trước nắm bắt trước hai cái trường đấu đủ nhiều nhiệm vụ, đến lúc đó có đi không xông cao cấp khu, còn không phải chúng ta định đoạt."
+
+Đội Đoạn Nhận mặc dù là mặt ngoài yếu thế, nhưng từng đội viên nhưng trong lòng sớm đã đem mình định vì chính thức cường thế, bởi vậy cường giả loại này tâm tính không chỉ có xuất hiện ở xa xa mười người đội thượng, đồng thời cũng xuất hiện ở đội Đoạn Nhận trên người.
+
+Đối với cái này, Trầm Dịch mỉm cười: "Lần này ngươi nói đúng, trước cạnh tranh sau hợp tác, có cái kia đui mù, đáng chết còn phải giết, nhiệm vụ lần này luôn phải chết đi một nhóm người, mới có thể để cho tất cả mọi người đã có kinh nghiệm. . . Tựu xem là ai hội trước xui xẻo."
+
+Chuyện phức tạp, đơn giản đi làm, lúc này đây Hồng Lãng đến là đoán đúng rồi một bả.
+
+Đúng lúc này, văn chương Huyết Tinh lại lần nữa nhắc nhở:
+
+"Doanh địa Rogue tuyên bố sáu nhiệm vụ."
+
+"Một: tiêu diệt toàn bộ huyệt động Den of Evil, điểm tích lũy cống hiến 150 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Corpsefire (***) trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 150 điểm tích lũy treo thưởng và một điểm điểm kỹ năng ban thưởng."
+
+"Hai: giết chết Blood Raven (****), điểm tích lũy cống hiến 200 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Blood Raven trở thành người hoàn thành nhiệm vụ, bổ sung đạt được hai trăm điểm tích lũy treo thưởng và một gã thuộc tính toàn bộ 25 lính đánh thuê ban thưởng, lính đánh thuê có thể thăng cấp, bản nhiệm vụ thế giới sau khi chết nhưng phục sinh, dẫn đi khỏi bản thế giới sau, sau khi chết không thể phục sinh."
+
+"Ba: cứu Deckard Cain (*****), điểm tích lũy cống hiến 300 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người cứu ra Cain trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 300 điểm tích lũy treo thưởng và Deckard Cain tình hữu nghị."
+
+"Bốn: giết chết The Countess (******), điểm tích lũy cống hiến 400 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết The Countess trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 400 điểm tích lũy treo thưởng và kỹ năng D cấp quyển trục một tấm."
+
+"Năm: giết chết The Smith (*******), điểm tích lũy cống hiến 500 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết The Smith trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 500 điểm tích lũy treo thưởng và một tấm quyển trục tăng lên phẩm giai trang bị DD cấp, nhưng đem D cấp trang bị tăng lên tới DD cấp."
+
+"Sáu: giết chết Andariel, điểm tích lũy cống hiến 600 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Andariel trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 600 điểm tích lũy treo thưởng và một tấm quyển trục tăng lên phẩm giai trang bị C cấp, nhưng đem DD cấp trang bị tăng lên tới C cấp."
+
+. . .
+
+Sau đó trên văn chương Huyết Tinh còn xuất hiện một tấm Diablo thế giới địa đồ, trên mặt dấu hiệu qua sáu cái điểm đỏ, phân biệt đại biểu cho sáu cái bất đồng nhiệm vụ hoàn thành địa điểm.
+
+Lúc này đây đô thị Huyết Tinh đúng là trực tiếp đem địa đồ đều cho mọi người.
+
+Cùng trong trò chơi tất cả nhiệm vụ điểm đều ở một con đường trên mạng bất đồng, kể cả Blood Moor, Cold Plains, Burial Grounds, Stony Field, Dark Wood, Black Marsh, Tamoe Highlands thậm chí Tristram ở bên trong Diablo thế giới tràng cảnh màn I địa đồ, toàn bộ bị trên phạm vi lớn sửa chữa, do đó khiến cho đám người mạo hiểm vô pháp tại trên một con đường mà đi qua toàn bộ nhiệm vụ địa điểm, nhất định phải làm ra nhất định lựa chọn. Cái này tại trên trình độ nhất định khiến cho nội đấu bị phân tán hoà hạn tại tất cả đầu trên lộ tuyến, không đến mức biến thành một hồi toàn bộ trong phạm vi tự giết lẫn nhau, cũng vì về sau đoàn kết điện định hợp tác trụ cột.
+
+Chứng kiến cái này liên tiếp nhiệm vụ, mọi người đồng thời cười khổ.
+
+Sáu cái nhiệm vụ tổng điểm tích lũy cộng lại bất quá 4300, phân đến 52 cá nhân trên đầu, mỗi người cũng chưa tới 100 điểm. Loại tình huống này, như mọi người còn có thể có tâm tư bình tĩnh lại nói chuyện hợp tác mới gọi việc lạ. Mặc kệ như thế nào, nhiệm vụ lần này nhất định là muốn tại ngươi tranh ta đoạt trung triển khai.
+
+P/s: Mong các bác có clone, hay acc chính khi xem truyện Thích + Đánh giá + Theo dõi, để truyện mau lên top đầu vĩnh viễn :D Tks các bác :D
+
+(*): Đá Linh Hồn - Soulstone
+<a href="http://mjharper.macbay.de/diablo2.jpg">http://mjharper.macbay.de/diablo2.jpg</a> 
+(**): Andariel
+<a href="https://pre00.deviantart.net/8fd7/th/pre/i/2012/309/3/a/andariel___the_maiden_of_anguish_by_meadowgrove-d5k3ztr.png">https://pre00.deviantart.net/8fd7/th/pre/i/2012/309/3/a/andariel___the_maiden_of_anguish_by_meadowgrove-d5k3ztr.png</a> 
+(***): Corpsefire
+<a href="https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Corpsefire_%28Diablo_II%29.gif?version=51d724b56e0a0dd55c9c8e81dc84745d">https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Corpsefire_%28Diablo_II%29.gif?version=51d724b56e0a0dd55c9c8e81dc84745d</a> 
+(****): Blood Raven
+<a href="https://i.ytimg.com/vi/xbHuLDW759c/maxresdefault.jpg">https://i.ytimg.com/vi/xbHuLDW759c/maxresdefault.jpg</a> 
+(*****): Deckard Cain
+<a href="https://vignette.wikia.nocookie.net/diablo/images/4/4f/Deckard_Cain_D3.jpg/revision/latest?cb=20131015114726">https://vignette.wikia.nocookie.net/diablo/images/4/4f/Deckard_Cain_D3.jpg/revision/latest?cb=20131015114726</a> 
+(******): The Countess
+<a href="https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/73/The_Countess_%28Diablo_II%29.gif?version=fe9e80e5579ff0e0d1a2cd11897b4747">https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/73/The_Countess_%28Diablo_II%29.gif?version=fe9e80e5579ff0e0d1a2cd11897b4747</a> 
+(*******): The Smith
+<a href="https://i.ytimg.com/vi/p7hBExDPP3c/hqdefault.jpg">https://i.ytimg.com/vi/p7hBExDPP3c/hqdefault.jpg</a>Đi ra cổng truyền tống, Trầm Dịch phát hiện mình chính bản thân ở vào một cái lụi bại trong thôn trang nhỏ.
+
+Thôn trang diện tích không lớn, bên ngoài là tiêm cọc gỗ đâm thành tường vây, tường sau đứng từng dãy ăn mặc thời Trung Cổ khôi giáp binh sĩ, cầm trong tay trường mâu lưỡi dao sắc bén, nghiêm túc và trang trọng xem hướng phía trước.
+
+Đỉnh đầu bầu trời là tối tăm lu mờ mịt một mảnh, trong không khí mờ mịt qua khô héo đốt cháy khí tức, tại đây ở vào một mảnh giữa đồng trống, xa xa là cao núi rừng nhiệt đới, ngẫu mà có thể nghe được một ít to rõ dã thú gào rú, lại điểm không rõ rốt cuộc là cái gì động vật phát ra thanh âm.
+
+Tại đây, chính là Diablo thế giới.
+
+Một cái sung mãn ma pháp lực lượng giả tưởng thế giới.
+
+Lúc này lần lượt mạo hiểm giả chính lục tục xuất hiện ở thôn trang tất cả hẻo lánh, bọn hắn đánh giá hoàn cảnh chung quanh, trong ánh mắt lộ ra mang chút khẩn trương cảnh giác.
+
+Văn chương Huyết Tinh thanh âm nhắc nhở hợp thời vang lên:
+
+"Tiến vào Diablo 2 nhiệm vụ thế giới, trước mặt vị trí vị trí: doanh địa Rogue."
+
+"Nhiệm vụ lần này là hình thức cạnh hợp, không nhiệm vụ chính tuyến. Mạo hiểm giả lẫn nhau công kích suy yếu 25% thương tổn, giết chết mặt khác mạo hiểm giả nhưng đạt được một kiện tùy cơ hội trang bị."
+
+"Nhiệm vụ nội dung: nhiệm vụ cuộc thi tranh đoạt —— vì đối kháng tà ác ba Ma Thần, Diablo thế giới đối nhân loại dũng giả ban bố đại lượng nhiệm vụ. Mạo hiểm giả nhưng tự do chấp hành tùy ý nhiệm vụ, không hạn số lượng, tất cả nhiệm vụ có đủ duy nhất tính, đương làm nên nhiệm vụ bị sau khi hoàn thành, mặt khác mạo hiểm giả đem vô pháp hoàn thành, đồng thời cũng vô pháp tìm được đối ứng ban thưởng."
+
+"Diablo thế giới cùng sở hữu năm cái trường đấu, từng trường đấu đều có sáu cái nội dung nhiệm vụ đồng thời tuyên bố. Nhiệm vụ chấp hành trong quá trình đem tính toán mạo hiểm giả điểm tích lũy cống hiến, nhưng cuối cùng nhất đem chỉ có một gã mạo hiểm giả có thể trở thành đối ứng người hoàn thành nhiệm vụ, chỉ có người hoàn thành nhiệm vụ mới có thể đạt được điểm tích lũy treo thưởng và nhiệm vụ ban thưởng."
+
+"Từng nhiệm vụ điểm tích lũy cống hiến tổng giá trị cùng điểm tích lũy treo thưởng bằng nhau, nhiệm vụ sau khi hoàn thành sẽ xuất hiện cổng truyền tống, nhưng trực tiếp truyền tống về điểm xuất phát."
+
+"Chỉ có hoàn thành một cái trường đấu trong tất cả nhiệm vụ, tất cả mạo hiểm giả mới có thể tập thể lao tới tiếp theo sân thi đấu."
+
+"Tất cả doanh địa vì sân thi đấu khu an toàn, khu an toàn trong không được lẫn nhau giết chóc, người vi phạm mạt sát."
+
+"Nhiệm vụ chấp hành thời gian ba mươi ngày. Thời gian sau khi kết thúc đem tính toán tất cả mạo hiểm giả tổng số điểm cống hiến, mỗi điểm tích lũy nhưng đổi 10 điểm Huyết Tinh. Nhiệm vụ tiêu chuẩn điểm chín trăm điểm. Người điểm tích lũy thấp hơn 450 điểm mạt sát, người điểm tích lũy thấp hơn 900 điểm khấu trừ một nửa ban thưởng, người có điểm tích lũy cao hơn 1800 điểm, số điểm từ 1800 trở lên ban thưởng gấp đôi ( Ý chỉ điểm 1801 thì 1800 điểm = 1 vạn 8, 1 điểm = 20 điểm Huyết Tinh cứ thế mà tính )."
+
+"Nhiệm vụ nhắc nhở: lần này Diablo thế giới vì hình thức toàn cảnh cạnh tranh, từng trường đấu đối ứng một cái tiêu chuẩn khu vực độ khó."
+
+"Lần này nhiệm vụ người tham dự: 52 người."
+
+"Năm trường đấu:
+
+1, doanh địa Rogue.
+
+2, Lut Gholein.
+
+3, cảng biển Kurast.
+
+4, pháo đài Pandemonium.
+
+5, thành Harrogath."
+
+"Nhiệm vụ bối cảnh giới thiệu: sau cuộc chiến Tội Lỗi ( The Sin War ), Thiên Đường cùng Địa Ngục thế lực tiến vào giằng co trạng thái. Vì đánh vỡ cân đối, tìm được đá Linh Hồn, nắm giữ lấy sợ hãi, phá hư cùng căm hận lực lượng Địa Ngục ba Ma Thần mượn bốn Ma Vương phản loạn tiến vào nhân loại thế giới, làm cho nhân loại mang đến cực lớn cực khổ. . ."
+
+Diablo thế giới nội dung cốt truyện tư liệu, từ lúc Trầm Dịch tiến vào trước kia cũng đã nắm giữ. Đây là một điển hình khổ nhục kế diễn xuất —— vì tranh đoạt đá Linh Hồn ( Soulstone ) (*), Địa Ngục ba Ma Thần dùng thân làm gương dụ dỗ Thiên Sứ. Kết quả các Thiên Sứ chính mình không có ra tay, lại lại để cho nhân loại thế giới chính mình đem ba Ma Thần từng cái phong ấn, cuối cùng nhất đem trận này Địa Ngục xâm lấn diễn biến thành một hồi chê cười. Với tư cách một cái trò chơi, Diablo chính là tại như vậy bối cảnh triển khai.
+
+Cùng dĩ vãng bất đồng chính là, lúc này đây đô thị Huyết Tinh không có sẽ đem Diablo thế giới bối cảnh trắng trợn sửa chữa, ngược lại trình độ lớn nhất trung thực nguyên lai bối cảnh, mà đám người mạo hiểm tắc chính là đem làm vì nhân loại võ sĩ tiến hành một lần xưa nay chưa từng có tập thể đại tác chiến hành động —— bọn hắn đem quét ngang Diablo thế giới, đem Địa Ngục thế lực đuổi trở về, trở thành chúa cứu thế mới.
+
+. . .
+
+Có quan hệ nhiệm vụ bối cảnh giới thiệu vừa mới chấm dứt, kênh đoàn đội ở phía trong tựu vang lên Kim Cương thanh âm: "Trầm Dịch ngươi ở đâu?"
+
+"Đây là ta đây tại." Trầm Dịch đánh giá chung quanh một chút, chứng kiến Kim Cương ngay tại cách cách mình cách đó không xa trong khắp ngõ ngách, ở bên cạnh hắn còn đứng qua Hồng Lãng, Ôn Nhu, hắn cười nói: "Ta nhìn thấy các ngươi."
+
+"Ta cũng vậy trông thấy ngươi, ta nói ngươi xem ra cái gì không có?" Kim Cương bọn hắn hướng Trầm Dịch đi tới, bên kia cũng xuất hiện Chu Nghi Vũ cùng mập mạp thân ảnh.
+
+"Ân, có chút ý tứ, nếu như ta đoán phải đúng vậy mà nói chúng ta kỳ thật chính là tự mình tiến vào Diablo thế giới người chơi, đang tại chơi một hồi chân thực mô phỏng trò chơi." Trầm Dịch cười nói.
+
+Rất hiển nhiên lúc này đây Trầm Dịch bọn hắn tựu giống trong trò chơi Paladin, Barbarian các loại chức nghiệp nhân vật, đem tiến hành một lần tự chủ trò chơi con đường trải qua đột phá.
+
+Duy nhất có chỗ bất đồng đúng là lúc này đây tiến vào trò chơi nhân vật nhiều đến 52 cái, mà từng cái trò chơi nhiệm vụ tuy nhiên cũng có được duy nhất tính chất, một khi bị những người khác hoàn thành, chính mình tựu làm mất đi cơ hội.
+
+Chính là chỗ này một điểm nho nhỏ thay đổi, khiến cho trận này trò chơi không còn là các người chơi đồng tâm hiệp lực đối kháng Ma Thần chiến tranh, mà là đám người mạo hiểm giữa lẫn nhau lục đục với nhau, ngươi lừa ta gạt, ngươi chết ta sống tử vong thi đua!
+
+Quả nhiên, tại nghe rõ ràng nhiệm vụ nhắc nhở sau, đám người mạo hiểm ánh mắt đã trở nên hung ác bắt đầu. Một ít lẫn nhau quen thuộc mạo hiểm giả lẫn nhau tới gần, dần dần hình thành nguyên một đám lớn nhỏ đoàn thể.
+
+Trong đó nhân số nhiều nhất một tổ mười người tả hữu, rõ ràng cho thấy một cái đoàn đội, sau đó là một cái tám người đoàn đội, lại tận lực bồi tiếp đội Đoạn Nhận cùng cái khác sáu người đoàn đội. Bốn đoàn đội chiếm đi mạo hiểm giả hơn phân nửa lực lượng, còn lại hai mươi hai tên mạo hiểm giả phần lớn là chút ít tốp năm tốp ba tiểu tổ hợp.
+
+Trừ chuyện đó ra, doanh địa Rogue ở phía trong còn có một chút ăn mặc thế kỷ XVI cổ xưa trang phục người tại phụ cận đi đi lại lại, hiển nhiên bọn hắn chính là trong thế giới này nội dung cốt truyện nhân vật. Có lẽ là đô thị Huyết Tinh nguyên nhân, bọn hắn đối với mạo hiểm giả xuất hiện không có chút nào kinh ngạc, phảng phất những người này bản nên tồn tại ở cái thế giới này.
+
+"Cần phải có sở biến hóa a." Chu Nghi Vũ bước đi đến: "Ít nhất tại trong trò chơi, phải một cái nhiệm vụ hoàn thành mới có thể mở ra hạ một cái nhiệm vụ. Nhưng là nghe văn chương nhắc nhở, từng trường đấu tất cả nhiệm vụ đều là đồng thời cởi mở, tự do tranh đoạt. Nói cách khác, chúng ta bây giờ cũng có thể đi chấp hành tiêu diệt Andariel (**) nhiệm vụ."
+
+Andariel, Diablo thế giới Địa Ngục trận doanh bên trong Nữ vương tra tấn cùng thống khổ, nàng là Địa Ngục trận doanh bốn Ma Vương một trong, cũng phải Diablo thế giới màn I tràng cảnh cuối cùng BOSS.
+
+Nghe được Chu Nghi Vũ nói như vậy, Hồng Lãng lập tức hưng phấn kêu lên: "Cái kia chúng ta bây giờ tựu đi làm rơi Andariel! Nhiệm vụ nhắc nhở, từng trường đấu đối ứng một cái khu vực độ khó, nói cách khác doanh địa Rogue cái này màn tràng cảnh, nên vậy chỉ tương đương với khu dân nghèo độ khó mới đúng, Andariel khẳng định không khó đối phó, ta phỏng chừng cũng chính là một Dracula Bá tước trình độ."
+
+Đúng vậy, căn cứ văn chương Huyết Tinh nhắc nhở, lần này nhiệm vụ thế giới chọn dùng chính là hình thức toàn cảnh, năm màn tràng cảnh phân biệt đối ứng năm cái khu vực độ khó. Lời này ý tứ, rất rõ ràng nói đúng là, doanh địa Rogue cái này trường đấu, hắn độ khó chỉ có khu dân nghèo độ khó. Dùng khu phổ thông mạo hiểm giả năng lực đi khiêu chiến khu dân nghèo độ khó, tự nhiên là lại buông lỏng bất quá.
+
+Ngay Hồng Lãng đều có thể nhìn ra được vấn đề, mặt khác mạo hiểm giả tự nhiên không biết nhìn không ra, tất cả mọi người thời khắc này đều nghị luận ào ào, lẫn nhau nhiệt liệt tham thảo bắt đầu.
+
+Trầm Dịch lạnh mắt thấy chung quanh mạo hiểm giả thấp giọng tham thảo, đột nhiên dùng tiếng Faa thấp giọng nói: "Andariel nên vậy không khó đối phó, nhưng muốn nói so Dracula Bá tước nhược vậy cũng chưa hẳn."
+
+Hồng Lãng khó hiểu: "Vì cái gì nói như vậy? Chẳng lẽ Andariel nếu so với Dracula cường đại? Nhưng cái kia chẳng phải không phù hợp khu dân nghèo khó khăn sao?"
+
+Trầm Dịch khắp thanh âm trả lời: "Tại đây hiện tại có 52 cái mạo hiểm giả, dù là tài nghệ của mọi người chỉ có khu dân nghèo cái loại nầy trình độ, dùng để đối phó Dracula Bá tước, cũng có thể buông lỏng hoàn tất năm ba cái đi à nha? Andariel coi như là BOSS đưa hàng, cũng không thể đưa phải quá giá rẻ mới được là."
+
+Hồng Lãng lập tức không phục bắt đầu: "Nhưng bây giờ là thi đua nội dung, mọi người căn bản không có khả năng đồng tâm hiệp lực đi chiến đấu, muốn ta xem dưới loại tình huống này, Andariel nên vậy so Dracula càng dễ đối phó mới đúng, bởi vì vì mọi người nhất định sẽ ngươi tranh ta đoạt, làm cho bổ sung tổn thương, nếu không ngươi đã nói hình thức điều tiết độ khó tựu chỉ là một câu lời nói suông."
+
+Trầm Dịch trong mắt hiện ra một tia quỷ dị sắc thái: "Vấn đề ở này, đây là thi đua nội dung, nhưng là chúng ta nhiệm vụ lần này hình thức nhưng lại hình thức cạnh hợp. Biết rõ cái gì gọi là cạnh hợp sao?"
+
+Mọi người lẫn nhau nhìn xem, có lẽ hay là Ôn Nhu nói ra: "Cái gọi là cạnh hợp, chính là cạnh tranh cùng hợp tác cùng tồn tại. Cạnh hợp quan hệ là trong xã hội loài người phức tạp nhất cũng khó khăn nhất xử lý một loại quan hệ, là một loại đã muốn bay lên đến chính trị độ cao quan hệ, tựu giống như Trung Mỹ quan hệ, Trung Nhật quan hệ các loại, đều là tại trong cạnh tranh bảo trì hợp tác, loại quan hệ này bình thường chỉ tồn tại ở chính trị gia cùng chính trị gia trong lúc đó. Đương nhiên, một ít công ty lớn trong lúc đó cũng sẽ có cạnh hợp quan hệ tồn tại. Ví dụ như công ty Pepsi cùng công ty Coca Cola tại tiến vào Trung Quốc thị trường thời điểm, tựu từng có quá trước đó ước định chủ yếu tiêu thụ khu vực cách làm, cứ việc hai nhà công ty lẫn nhau cạnh tranh gay gắt, nhưng ở đối mặt một ít cộng đồng lợi ích lúc, có lẽ hay là hội bảo trì nhất định hợp tác, tận lực tránh cho hội sinh ra bổ sung tổn thất tranh đấu."
+
+Ôn Nhu như vậy một giải thích, mọi người lúc này mới chợt hiểu hiểu ra, Kim Cương cao kêu lên: "Ta hiểu được. . ."
+
+Hắn nói còn chưa dứt lời, Trầm Dịch đã muốn trừng mắt liếc hắn một cái, Kim Cương cái này mới tỉnh ngộ lại, bề bộn dùng tiếng Faa thấp giọng nói: "Nhiệm vụ lần này mặt ngoài thoạt nhìn là thi đua nội dung, nhưng là nó có một trọng yếu bất đồng, chính là nó không giống lần trước khu vực thi đua, này đây bài danh cuối cùng mạo hiểm giả vì mạt sát mục tiêu, mà là dùng cố định điểm tích lũy vì mạt sát tiêu chuẩn. Nói một cách khác, nếu như mọi người có thể chung sức hợp tác, vẫn là có thể làm được mỗi người cũng không bị mạt sát. Cho nên cái này nhiệm vụ thi đua biểu hiện ra thoạt nhìn giống khu vực thi đua, nhưng ở thuộc về kỳ thật càng tiếp cận đoàn đội hợp tác nhiệm vụ, cho nên mới gọi là hình thức cạnh hợp."
+
+Chu Nghi Vũ cũng tiếp lời: "Đã có hợp tác trụ cột, như vậy nhiệm vụ của chúng ta mục tiêu thực lực đương nhiên là theo chỉnh thể góc độ cân nhắc. Andariel là Địa Ngục bốn Ma Vương một trong, một cái là Vương, một cái là Bá tước, lại nói tiếp hoàn toàn chính xác rất không có khả năng so Dracula yếu. Cho nên mặc dù là khu dân nghèo nhiệm vụ, nhưng tốt nhất cũng đừng quá coi thường."
+
+Trầm Dịch nói tiếp: "Lam Nhan nói qua, đô thị Huyết Tinh phải cần là chiến sĩ mà không phải thương nhân, mà một cái chiến sĩ xuất sắc nên có được đối mặt cường địch mà không lùi bước dũng khí, cho nên ta nhận thức vì lần này Diablo nhiệm vụ, chính là muốn bức bách qua mọi người chúng ta liên hợp cùng một chỗ đi khiêu chiến độ khó cao, nếu không vô ý nghĩa đồng thời đem năm cái độ khó toàn bộ mở ra, mặc chúng ta tự do khiêu chiến."
+
+"Mẹ!" Hồng Lãng mắng lên: "Đây không phải là nguy rồi, quan hệ phức tạp như vậy ai nói rõ ràng ah? Lão tử chỉ biết là trong lúc này nhiệm vụ đều là duy nhất tính, ngươi nhận được rồi người khác sẽ không có, tranh giành đều tranh giành không đến nì còn nói gì hợp tác?"
+
+Trầm Dịch cười khổ: "Cái này là vấn đề chỗ. Chúng ta đứng ở một cái cần độ cao hợp tác trên khán đài, cuối cùng nhất phát triển lại có thể là ưu tiên nội chiến, tựu giống. . ."
+
+"Tựu giống trong lịch sử." Chu Nghi Vũ xen vào một câu.
+
+"Có không có khả năng cùng bọn họ nói chuyện? Mọi người cùng nhau xông nhiệm vụ, trước không nội đấu, tận khả năng bảo trì lực lượng." La Hạo nhỏ giọng hỏi.
+
+Trầm Dịch lắc đầu: "Chúng ta đoàn đội chỉ có sáu người. Theo mặt ngoài trên thực lực xem, chúng ta không phải mạnh nhất. Mà xướng nghị hợp tác loại sự tình này, chỉ có cường thế mới vừa có tư cách đưa ra, yếu thế phương chính là nói ra cũng không còn người để ý tới. Nhưng là đối với cường thế phương mà nói, hợp tác rồi lại cũng không phải tất yếu, bọn hắn hoàn toàn có thể bằng vào lực lượng của mình đoạt hạ đủ đủ nhiệm vụ, mà không phải phải cùng kẻ yếu liên hợp. Dù là muốn liên hợp, cũng hoàn toàn có thể đợi trước đoạt hạ đủ đủ chỗ tốt sau lại liên hợp, nhưng đến lúc đó, mọi người thực lực thường thường đã muốn gọt yếu rất nhiều, muốn khiêu chiến cao nhiệm vụ cấp thế tất càng thêm khó khăn, cho nên nói đó là một vòng tuần hoàn chết. Đây cũng là vì cái gì cạnh hợp quan hệ sẽ trở thành vì trong xã hội loài người phức tạp nhất cũng khó khăn nhất xử lý quan hệ nguyên nhân. . . Nói thực ra coi như là ta, hiện tại cũng làm không được bày đặt có sẵn chỗ tốt không đoạt, lại muốn đi cùng người khác làm chia đều phân phối, đã chúng ta minh bạch đều làm không được, lại thế nào đi trông cậy vào người khác đâu?"
+
+Nói xong Trầm Dịch ánh mắt đã rơi ở phía xa mười người kia đoàn đội trên người, hắn từ đối phương trong mắt thấy được tham lam, dã tâm cùng mãnh liệt cạnh tranh dục vọng.
+
+Hắn không khỏi thở dài: "Rõ ràng là một hồi cạnh hợp trò chơi, cuối cùng nhất cũng phải đi đánh cờ tới lui."
+
+Dùng cạnh tranh vì thủ đoạn hợp tác, cuối cùng là muốn tại có một cường lực hạch tâm chỉ huy trụ cột hạ tiến hành. Mất đi cái này hạch tâm chỉ huy, bản thân vừa rồi không có chính trị gia đám bọn họ thành thục, ổn trọng, tu dưỡng cùng ẩn nhẫn, cái kia cái gọi là cạnh hợp quan hệ, cuối cùng bất quá là một hồi chê cười mà thôi.
+
+Hồng Lãng tùy tiện bĩu môi một cái: "Đã như vậy, vậy trước tiên thi đua, sau hợp tác, đáng chết liền giết, không giết được thì bỏ qua. Chỉ cần chúng ta trước nắm bắt trước hai cái trường đấu đủ nhiều nhiệm vụ, đến lúc đó có đi không xông cao cấp khu, còn không phải chúng ta định đoạt."
+
+Đội Đoạn Nhận mặc dù là mặt ngoài yếu thế, nhưng từng đội viên nhưng trong lòng sớm đã đem mình định vì chính thức cường thế, bởi vậy cường giả loại này tâm tính không chỉ có xuất hiện ở xa xa mười người đội thượng, đồng thời cũng xuất hiện ở đội Đoạn Nhận trên người.
+
+Đối với cái này, Trầm Dịch mỉm cười: "Lần này ngươi nói đúng, trước cạnh tranh sau hợp tác, có cái kia đui mù, đáng chết còn phải giết, nhiệm vụ lần này luôn phải chết đi một nhóm người, mới có thể để cho tất cả mọi người đã có kinh nghiệm. . . Tựu xem là ai hội trước xui xẻo."
+
+Chuyện phức tạp, đơn giản đi làm, lúc này đây Hồng Lãng đến là đoán đúng rồi một bả.
+
+Đúng lúc này, văn chương Huyết Tinh lại lần nữa nhắc nhở:
+
+"Doanh địa Rogue tuyên bố sáu nhiệm vụ."
+
+"Một: tiêu diệt toàn bộ huyệt động Den of Evil, điểm tích lũy cống hiến 150 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Corpsefire (***) trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 150 điểm tích lũy treo thưởng và một điểm điểm kỹ năng ban thưởng."
+
+"Hai: giết chết Blood Raven (****), điểm tích lũy cống hiến 200 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Blood Raven trở thành người hoàn thành nhiệm vụ, bổ sung đạt được hai trăm điểm tích lũy treo thưởng và một gã thuộc tính toàn bộ 25 lính đánh thuê ban thưởng, lính đánh thuê có thể thăng cấp, bản nhiệm vụ thế giới sau khi chết nhưng phục sinh, dẫn đi khỏi bản thế giới sau, sau khi chết không thể phục sinh."
+
+"Ba: cứu Deckard Cain (*****), điểm tích lũy cống hiến 300 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người cứu ra Cain trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 300 điểm tích lũy treo thưởng và Deckard Cain tình hữu nghị."
+
+"Bốn: giết chết The Countess (******), điểm tích lũy cống hiến 400 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết The Countess trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 400 điểm tích lũy treo thưởng và kỹ năng D cấp quyển trục một tấm."
+
+"Năm: giết chết The Smith (*******), điểm tích lũy cống hiến 500 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết The Smith trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 500 điểm tích lũy treo thưởng và một tấm quyển trục tăng lên phẩm giai trang bị DD cấp, nhưng đem D cấp trang bị tăng lên tới DD cấp."
+
+"Sáu: giết chết Andariel, điểm tích lũy cống hiến 600 điểm. Tất cả tham dự mạo hiểm giả đem tính toán độ cống hiến, cũng tại nhiệm vụ sau khi hoàn thành căn cứ độ cống hiến phân phối điểm tích lũy. Người giết chết Andariel trở thành người hoàn thành nhiệm vụ, bổ sung đạt được 600 điểm tích lũy treo thưởng và một tấm quyển trục tăng lên phẩm giai trang bị C cấp, nhưng đem DD cấp trang bị tăng lên tới C cấp."
+
+. . .
+
+Sau đó trên văn chương Huyết Tinh còn xuất hiện một tấm Diablo thế giới địa đồ, trên mặt dấu hiệu qua sáu cái điểm đỏ, phân biệt đại biểu cho sáu cái bất đồng nhiệm vụ hoàn thành địa điểm.
+
+Lúc này đây đô thị Huyết Tinh đúng là trực tiếp đem địa đồ đều cho mọi người.
+
+Cùng trong trò chơi tất cả nhiệm vụ điểm đều ở một con đường trên mạng bất đồng, kể cả Blood Moor, Cold Plains, Burial Grounds, Stony Field, Dark Wood, Black Marsh, Tamoe Highlands thậm chí Tristram ở bên trong Diablo thế giới tràng cảnh màn I địa đồ, toàn bộ bị trên phạm vi lớn sửa chữa, do đó khiến cho đám người mạo hiểm vô pháp tại trên một con đường mà đi qua toàn bộ nhiệm vụ địa điểm, nhất định phải làm ra nhất định lựa chọn. Cái này tại trên trình độ nhất định khiến cho nội đấu bị phân tán hoà hạn tại tất cả đầu trên lộ tuyến, không đến mức biến thành một hồi toàn bộ trong phạm vi tự giết lẫn nhau, cũng vì về sau đoàn kết điện định hợp tác trụ cột.
+
+Chứng kiến cái này liên tiếp nhiệm vụ, mọi người đồng thời cười khổ.
+
+Sáu cái nhiệm vụ tổng điểm tích lũy cộng lại bất quá 4300, phân đến 52 cá nhân trên đầu, mỗi người cũng chưa tới 100 điểm. Loại tình huống này, như mọi người còn có thể có tâm tư bình tĩnh lại nói chuyện hợp tác mới gọi việc lạ. Mặc kệ như thế nào, nhiệm vụ lần này nhất định là muốn tại ngươi tranh ta đoạt trung triển khai.
+
+P/s: Mong các bác có clone, hay acc chính khi xem truyện Thích + Đánh giá + Theo dõi, để truyện mau lên top đầu vĩnh viễn :D Tks các bác :D
+
+(*): Đá Linh Hồn - Soulstone
+<a href="http://mjharper.macbay.de/diablo2.jpg">http://mjharper.macbay.de/diablo2.jpg</a> 
+(**): Andariel
+<a href="https://pre00.deviantart.net/8fd7/th/pre/i/2012/309/3/a/andariel___the_maiden_of_anguish_by_meadowgrove-d5k3ztr.png">https://pre00.deviantart.net/8fd7/th/pre/i/2012/309/3/a/andariel___the_maiden_of_anguish_by_meadowgrove-d5k3ztr.png</a> 
+(***): Corpsefire
+<a href="https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Corpsefire_%28Diablo_II%29.gif?version=51d724b56e0a0dd55c9c8e81dc84745d">https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/6/6a/Corpsefire_%28Diablo_II%29.gif?version=51d724b56e0a0dd55c9c8e81dc84745d</a> 
+(****): Blood Raven
+<a href="https://i.ytimg.com/vi/xbHuLDW759c/maxresdefault.jpg">https://i.ytimg.com/vi/xbHuLDW759c/maxresdefault.jpg</a> 
+(*****): Deckard Cain
+<a href="https://vignette.wikia.nocookie.net/diablo/images/4/4f/Deckard_Cain_D3.jpg/revision/latest?cb=20131015114726">https://vignette.wikia.nocookie.net/diablo/images/4/4f/Deckard_Cain_D3.jpg/revision/latest?cb=20131015114726</a> 
+(******): The Countess
+<a href="https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/73/The_Countess_%28Diablo_II%29.gif?version=fe9e80e5579ff0e0d1a2cd11897b4747">https://d1u5p3l4wpay3k.cloudfront.net/diablo_gamepedia/7/73/The_Countess_%28Diablo_II%29.gif?version=fe9e80e5579ff0e0d1a2cd11897b4747</a> 
+(*******): The Smith
+<a href="https://i.ytimg.com/vi/p7hBExDPP3c/hqdefault.jpg">https://i.ytimg.com/vi/p7hBExDPP3c/hqdefault.jpg</a>

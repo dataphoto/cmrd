@@ -1,0 +1,423 @@
+Chương 375:: Mộc Hi chuyển chức nhiệm vụ 
+ 
+ 	Giang Phong rời đi phủ thành chủ, hướng phía Tần Vương thành tiệm thợ rèn phương hướng chạy tới.
+ 
+ 	Nội dung nhiệm vụ nội dung tới tay, Bạch Khởi để hắn nhanh lên đi tìm Gia Cát Lượng, nhưng là hắn nhưng không có sốt ruột.
+ 
+ 	Không có thực lực, đi cũng chỉ là muốn chết.
+ 
+ 	Hắn chuẩn bị đi trước tiệm thợ rèn đem mấy món Thánh khí phẩm giai cho tăng lên một chút.
+ 
+ 	Chỉ cần tất cả Thánh khí đều trở thành Nhị phẩm Thánh khí, Thánh khí khí linh trí tuệ sẽ tăng lên rất cao, cũng hiểu tính linh hoạt công kích.
+ 
+ 	Liền giống với Hiên Viên Kỳ phía trước công kích Văn Viêm một kiếm kia, kiếm như tơ lụa uốn lượn, không góc chết công kích, như thế cũng có chút kinh khủng.
+ 
+ 	Đi vào tiệm thợ rèn, hắn thuê một kiện chế tạo phòng, liền chui vào bên trong, bắt đầu thăng cấp Thánh khí phẩm giai.
+ 
+ 	Hiện ở trên người hắn Thánh khí có Sát Thiên côn, Yêu Đế áo choàng, Truyền Tống đỉnh, Trấn Hồn linh, Thần Mệnh la bàn, huyền băng sáo trang quần áo cùng Liệt Dương sáo trang giày.
+ 
+ 	Thần Mệnh la bàn đã đạt đến Nhị phẩm Thánh khí cấp bậc, hắn không định động.
+ 
+ 	Hai kiện sáo trang cùng Yêu Đế áo choàng hắn cũng không định động, vạn nhất 'Sáo trang' hai chữ bị đánh rơi, kia giá trị liền không cao, trừ phi gom góp một bộ, đồng sự chế tạo.
+ 
+ 	Lấy ra Hồn thạch, khí vận thạch cùng may mắn thạch, hắn bắt đầu tăng lên Sát Thiên côn, Truyền Tống đỉnh cùng Trấn Hồn linh thuộc tính.
+ 
+ 	Hao tốn thời gian tám, chín tiếng, hết thảy tiêu hao 287 khối Hồn thạch, 30 khối khí vận thạch cùng 30 khối may mắn thạch, mới thành công đem ba kiện Thánh khí phẩm giai tăng lên tới Nhị phẩm Thánh khí cấp bậc.
+ 
+ 	"Hô ~ thăng cấp Thánh khí phẩm giai tiêu hao Hồn thạch thật nhiều, tại cực lạc đấu giá các mua 1000 khối Hồn thạch, hiện tại chỉ còn lại 508 khối, đoán chừng chỉ đủ đem một hai kiện Thánh khí tăng lên tới tam phẩm."
+ 
+ 	Giang Phong thở dài một hơi, xem xét ba kiện Thánh khí thuộc tính.
+ 
+ 	【  Trấn Hồn linh 】: Nhị phẩm Thánh khí
+ 
+ 	Khí vận +40
+ 
+ 	May mắn giá trị +10
+ 
+ 	Thánh Huyết +100000
+ 
+ 	Thánh chiến +10000
+ 
+ 	Thánh phòng +3000
+ 
+ 	30% tỉ lệ ngăn cản tùy ý một lần công kích.
+ 
+ 	Thánh kỹ: Trói hồn,
+ 
+ 	Sử dụng về sau, có thể khống chế địch nhân, thời gian cooldown 2 giờ.
+ 
+ 	Trấn hồn: Phát động về sau, sẽ phát ra Trấn Hồn linh âm, đối phạm vi trăm mét bên trong địch nhân tạo thành hiệu quả gây choáng, tiếp tục thời gian 5 giây, thời gian cooldown 10 phút.
+ 
+ 	Bạch Hổ xung kích: Sử dụng về sau, sẽ từ Trấn Hồn linh bên trong xông ra một đạo Bạch Hổ huyễn ảnh, đối với địch nhân tạo thành 200% chân thực tổn thương, thời gian cooldown 2 biến mất.
+ 
+ 	Địa Ngục liệt hỏa: Sử dụng về sau, phạm vi năm mươi mét bên trong sẽ xuất hiện hừng hực liệt hỏa, mỗi giây đối với địch nhân tạo thành 30% cơ sở tổn thương, tiếp tục thời gian 5 giây, thời gian cooldown 30 phút.
+ 
+ 	Kỹ năng bị động:
+ 
+ 	Cảm giác: Gặp được nguy hiểm, Trấn Hồn linh sẽ tự động vang lên.
+ 
+ 	...
+ 
+ 	【  Sát Thiên côn 】: Nhị phẩm Thánh khí
+ 
+ 	Khí vận +40
+ 
+ 	May mắn giá trị +10
+ 
+ 	Thánh chiến +400%
+ 
+ 	Kỹ năng bị động:
+ 
+ 	Hút máu: Hấp thụ 30% tổn thương HP.
+ 
+ 	Bạo huyết: Mỗi khi giết chết một Thánh cấp địch nhân, Thánh chiến cùng tốc độ di chuyển gia tăng 0.1%.
+ 
+ 	Kỹ năng chủ động:
+ 
+ 	Hoành Tảo Thiên Quân: Biến lớn về sau công kích, đem 100% tỉ lệ đánh bay địch nhân.
+ 
+ 	Biến hóa: Có thể biến thành tùy ý lớn nhỏ , tùy ý bộ dáng.
+ 
+ 	...
+ 
+ 	Cái này ba kiện Thánh khí tăng lên tới Nhị phẩm Thánh khí cấp bậc, thuộc tính biến hóa không phải rất lớn, nhưng là khí linh lại phát sinh biến hóa, biến cường đại hơn nhiều.
+ 
+ 	Sát Thiên côn khí linh là một con to lớn Kim Hầu Tử, Trấn Hồn linh Khí Hồn là một cái cự đại linh đang, Truyền Tống đỉnh Khí Hồn biến thành một cái quang hoàn.
+ 
+ 	Ba kiện Thánh khí tăng lên, cũng khiến cho hắn thuộc tính biến mạnh lên.
+ 
+ 	Hiện tại hắn thuộc tính là:
+ 
+ 	Thánh Huyết: 195000
+ 
+ 	Thánh chiến: 20342
+ 
+ 	Thánh phòng: 11500
+ 
+ 	Có thể nói, hắn hiện tại thuộc tính hoàn toàn đuổi theo, thuộc tính này, nếu như lại thêm Sát Thiên côn bốn lần tăng thêm, hắn Thánh chiến có thể đạt tới hơn tám vạn.
+ 
+ 	Hiện giai đoạn người chơi phổ biến HP đều tại chừng hai mươi vạn, hai lần liền có thể miểu sát một người chơi, vô cùng cường đại.
+ 
+ 	Nhìn thoáng qua hiện tại thuộc tính, hắn hài lòng nhẹ gật đầu.
+ 
+ 	"Tích tích ~ "
+ 
+ 	Vừa rời đi tiệm thợ rèn, bạn tốt của hắn cột lấp lóe.
+ 
+ 	Mở ra hảo hữu cột nhìn thoáng qua, là Mộc Hi phát tới tin tức.
+ 
+ 	Mộc Hi: Ở đó không? Có thể giúp ta làm một cái nhiệm vụ a?
+ 
+ 	Giang Phong: Tốt, ngươi ở đâu?
+ 
+ 	Mộc Hi: Thủy Nguyệt thành.
+ 
+ 	Giang Phong: Ta lập tức tới.
+ 
+ 	Hắn hiện tại không nóng nảy đi Ngọa Long núi, Ngọa Long núi quái vật đều là Thánh cấp, hiện giai đoạn đi căn bản không gặp được Gia Cát Lượng, cùng lúc nào đi Ngọa Long núi lãng phí thời gian, hắn không bằng đi trước tăng thực lực lên.
+ 
+ 	Mộc Hi là yêu tộc Đại hộ pháp, nàng cần hỗ trợ, hắn cũng không có cự tuyệt, dù sao chỉ cần là hai người tham dự nhiệm vụ, hắn cũng có thể thu hoạch được không ít chỗ tốt.
+ 
+ 	Đáp ứng Mộc Hi, hắn sử dụng Hóa Hình Thuật, biến thành hình người, dùng thẻ căn cước cải biến nhân vật tin tức, hướng phía truyền tống trận phương hướng chạy tới.
+ 
+ 	Không thể không nói, Ngân Nguyệt tinh cầu chủ thành quá ít, đến mức người chơi phi thường bạo tạc.
+ 
+ 	Trên đường phố tất cả đều là người chơi, phí hết một chút công phu, hắn mới đạt tới truyền tống trận, nhưng sau thông qua truyền tống trận truyền tống đến Thủy Nguyệt thành.
+ 
+ 	Thủy Nguyệt thành là dựa vào gần biển một tòa thành thị, cả tòa thành thị đều là thủy lam sắc, nhìn phi thường mỹ.
+ 
+ 	Nơi này người chơi không phải rất thống nhất, sáu quốc người chơi đều có thể nhìn thấy.
+ 
+ 	Không bao lâu, hắn liền tới đến Thủy Nguyệt thành Đông Môn, tìm được Mộc Hi.
+ 
+ 	Đánh giá một phen Mộc Hi bên cạnh, cũng không phát hiện Nam Cung Khiêu Khiêu, cái này khiến hắn nghi ngờ hỏi, "Muội muội của ngươi không cùng lấy ngươi?"
+ 
+ 	Mộc Hi cười nói, "Nàng không có thượng tuyến, mà lại ta nhiệm vụ này nhiều nhất chỉ có thể hai người hoàn thành, nàng không có thực lực."
+ 
+ 	Giang Phong tiếp nhận Mộc Hi tổ đội mời, nhẹ gật đầu, "Nguyên lai dạng này, đi thôi, trên đường nói cho ta một chút nhiệm vụ này."
+ 
+ 	Đón lấy, Mộc Hi cùng Giang Phong hai người hướng phía Thủy Nguyệt thành bên ngoài đi đến.
+ 
+ 	Mộc Hi bắt đầu nói rõ với hắn một chút nhiệm vụ.
+ 
+ 	Nguyên lai, nàng tại làm chính là yêu tộc Đại hộ pháp chuyển chức nhiệm vụ, bởi vì nàng lúc ấy trở thành yêu tộc Đại hộ pháp lựa chọn là Hồ tộc huyết mạch, cho nên nhiệm vụ này là để nàng đi kim hải vùng đất ngập nước tìm kiếm tại Ngân Nguyệt tinh cầu Hồ tộc một mạch tiến hành chuyển chức.
+ 
+ 	Vì nhanh lên tiến về kim hải vùng đất ngập nước, Giang Phong triệu hồi ra tiểu Hắc, cưỡi tiểu Hắc, cùng Mộc Hi hướng phía kim hải vùng đất ngập nước phương hướng tiến đến.
+ 
+ 	"Keng keng..."
+ 
+ 	Rời đi Thủy Nguyệt thành không bao lâu, tại một chỗ cấp 150 quái vật trong vùng, truyền ra một trận tiếng đánh nhau cùng chửi rủa âm thanh.
+ 
+ 	"Đồ chó hoang tiểu quỷ tử, ta đậu phộng ngươi mỗ mỗ, có gan đơn đấu!"
+ 
+ 	"Ha ha, yêu tộc trận doanh người chơi thật TM rác rưởi, liền cùng Yêu Đế, nói cho ngươi, về sau đừng để lão tử nhìn thấy Hoa Hạ yêu tộc trận doanh người chơi, nếu không gặp một lần giết một lần!"
+ 
+ 	...
+ 
+ 	Giang Phong nghe được trận này trận chửi rủa âm thanh, đứng tại không trung, hướng phía phía dưới nhìn lại.
+ 
+ 	Chỉ gặp, có một cái năm người đội ngũ bị mười cái Nhật Đảo phục người chơi cho xúm lại, cái kia năm người trong đội ngũ đã có hai người nằm ở trên mặt đất trở thành thi thể.
+ 
+ 	Ba người còn lại đều phẫn nộ phi thường nhìn xem chung quanh mười cái Nhật Đảo phục người chơi không ngừng chửi rủa.
+ 
+ 	"Các ngươi muốn chết!"
+ 
+ 	Mộc Hi gặp đây, nhướng mày, phẫn nộ quát một tiếng, hướng phía phía dưới mười cái Nhật Đảo phục người chơi vọt tới.
+ 
+ 	Nàng thế nhưng là yêu tộc Đại hộ pháp, nhìn thấy yêu tộc thành viên bị khi phụ, nàng tự nhiên nhẫn nhịn không được.
+ 
+ 	Không riêng gì hắn nhẫn nhịn không được, liền liền Giang Phong cũng vô cùng tức giận.
+ 
+ 	Hắn không nghĩ tới, tại Ngân Nguyệt tinh cầu danh khí lớn giảm về sau, trận doanh mình thành viên vậy mà nhận cái khác quốc phục người chơi khi dễ, không thể nhịn.
+ 
+ 	"Xem ra, vẫn là không thể điệu thấp, kiêu căng hơn!"
+ 
+ 	Nói một câu, hắn giải trừ Hóa Hình Thuật, sử dụng biến thân kỹ năng, biến thành Chu Tước dáng vẻ, kêu to một tiếng, từ không trung lao xuống.
+ 
+ 	"Yêu tộc Đại hộ pháp!"
+ 
+ 	Nghe được Mộc Hi thanh âm cùng Giang Phong tiếng kêu to, bị vây lũng ba vị yêu tộc trận doanh thành viên hưng phấn lên.
+ 
+ 	"Ha ha, yêu tộc Đại hộ pháp thì thế nào? Có vẻ như nàng còn không có chuyển chức, thuộc tính cao không được đi đâu, các huynh đệ, diệt nàng!"
+ 
+ 	Là cái Nhật Đảo phục người chơi đứng đầu rùa Sanji cười to một tiếng, đối sau lưng các đội viên đạo.
+ 
+ 	Xem ra hắn trực tiếp không để ý đến biến thành Chu Tước Giang Phong.
+ 
+ 	"Oanh..."
+ 
+ 	Thế nhưng là khi bọn hắn vừa mới chuẩn bị hướng phía Mộc Hi phóng đi thời điểm, lao xuống Chu Tước lắc mình biến hoá, biến thành một con kim sắc hầu tử, ngay sau đó, một cái to lớn cây gậy giáng xuống, chặn những cái kia Nhật Đảo phục người chơi đường đi.
+ 
+ 	Giang Phong rơi vào Sát Thiên côn phía trên,  sau lưng Yêu Đế áo choàng theo gió phiêu lãng, lặng lẽ nhìn xuống mười cái Nhật Đảo phục người chơi, âm thanh lạnh lùng nói, "Giết ta yêu tộc thành viên, các ngươi đủ tư cách a?"
+ 
+ 	"Yêu Đế!"
+ 
+ 	Kia ba vị yêu tộc thành viên nhìn thấy Giang Phong, trở nên càng thêm hưng phấn, trong đó một cái người chơi nữ, càng là kích động sắc mặt ửng hồng, hai mắt tỏa ra ánh sao.
+ 
+ 	"Yêu Đế thì thế nào? Hiện tại chẳng qua là cái liền Địa Bảng đều lên không đi cặn bã mà thôi, các huynh đệ đừng sợ, giết hắn đi!"
+ 
+ 	Bởi vì Giang Phong trong khoảng thời gian này rất ít hơn tuyến, rất nhiều người đều không biết hắn thực lực cụ thể có bao nhiêu, tại rùa Sanji bọn người xem ra, hắn liền Địa Bảng đều không có đi lên, thực lực khẳng định.
+ 
+ 	Cũng nguyên nhân chính là đây, bọn hắn mới có thể không hề sợ hãi chút nào, lấy ra vũ khí, liền hướng phía Giang Phong công kích qua.
+ 
+ 	? ? PS: Hồ tộc một mạch, các ngươi nghĩ tới điều gì a? Mới kịch bản có chút thẻ , chờ vuốt thuận, đằng sau tìm thời gian tiểu bạo phát một lần, cám ơn đã ủng hộ! !
+ 
+ 	?
+ 
+ 	? ? ? ?
+ 
+ 	(tấu chương xong)
+ 
+ 
+       Offline mừng sinh nhật Tàng Thư Viện:Chương 375:: Mộc Hi chuyển chức nhiệm vụ 
+ 
+ 	Giang Phong rời đi phủ thành chủ, hướng phía Tần Vương thành tiệm thợ rèn phương hướng chạy tới.
+ 
+ 	Nội dung nhiệm vụ nội dung tới tay, Bạch Khởi để hắn nhanh lên đi tìm Gia Cát Lượng, nhưng là hắn nhưng không có sốt ruột.
+ 
+ 	Không có thực lực, đi cũng chỉ là muốn chết.
+ 
+ 	Hắn chuẩn bị đi trước tiệm thợ rèn đem mấy món Thánh khí phẩm giai cho tăng lên một chút.
+ 
+ 	Chỉ cần tất cả Thánh khí đều trở thành Nhị phẩm Thánh khí, Thánh khí khí linh trí tuệ sẽ tăng lên rất cao, cũng hiểu tính linh hoạt công kích.
+ 
+ 	Liền giống với Hiên Viên Kỳ phía trước công kích Văn Viêm một kiếm kia, kiếm như tơ lụa uốn lượn, không góc chết công kích, như thế cũng có chút kinh khủng.
+ 
+ 	Đi vào tiệm thợ rèn, hắn thuê một kiện chế tạo phòng, liền chui vào bên trong, bắt đầu thăng cấp Thánh khí phẩm giai.
+ 
+ 	Hiện ở trên người hắn Thánh khí có Sát Thiên côn, Yêu Đế áo choàng, Truyền Tống đỉnh, Trấn Hồn linh, Thần Mệnh la bàn, huyền băng sáo trang quần áo cùng Liệt Dương sáo trang giày.
+ 
+ 	Thần Mệnh la bàn đã đạt đến Nhị phẩm Thánh khí cấp bậc, hắn không định động.
+ 
+ 	Hai kiện sáo trang cùng Yêu Đế áo choàng hắn cũng không định động, vạn nhất 'Sáo trang' hai chữ bị đánh rơi, kia giá trị liền không cao, trừ phi gom góp một bộ, đồng sự chế tạo.
+ 
+ 	Lấy ra Hồn thạch, khí vận thạch cùng may mắn thạch, hắn bắt đầu tăng lên Sát Thiên côn, Truyền Tống đỉnh cùng Trấn Hồn linh thuộc tính.
+ 
+ 	Hao tốn thời gian tám, chín tiếng, hết thảy tiêu hao 287 khối Hồn thạch, 30 khối khí vận thạch cùng 30 khối may mắn thạch, mới thành công đem ba kiện Thánh khí phẩm giai tăng lên tới Nhị phẩm Thánh khí cấp bậc.
+ 
+ 	"Hô ~ thăng cấp Thánh khí phẩm giai tiêu hao Hồn thạch thật nhiều, tại cực lạc đấu giá các mua 1000 khối Hồn thạch, hiện tại chỉ còn lại 508 khối, đoán chừng chỉ đủ đem một hai kiện Thánh khí tăng lên tới tam phẩm."
+ 
+ 	Giang Phong thở dài một hơi, xem xét ba kiện Thánh khí thuộc tính.
+ 
+ 	【  Trấn Hồn linh 】: Nhị phẩm Thánh khí
+ 
+ 	Khí vận +40
+ 
+ 	May mắn giá trị +10
+ 
+ 	Thánh Huyết +100000
+ 
+ 	Thánh chiến +10000
+ 
+ 	Thánh phòng +3000
+ 
+ 	30% tỉ lệ ngăn cản tùy ý một lần công kích.
+ 
+ 	Thánh kỹ: Trói hồn,
+ 
+ 	Sử dụng về sau, có thể khống chế địch nhân, thời gian cooldown 2 giờ.
+ 
+ 	Trấn hồn: Phát động về sau, sẽ phát ra Trấn Hồn linh âm, đối phạm vi trăm mét bên trong địch nhân tạo thành hiệu quả gây choáng, tiếp tục thời gian 5 giây, thời gian cooldown 10 phút.
+ 
+ 	Bạch Hổ xung kích: Sử dụng về sau, sẽ từ Trấn Hồn linh bên trong xông ra một đạo Bạch Hổ huyễn ảnh, đối với địch nhân tạo thành 200% chân thực tổn thương, thời gian cooldown 2 biến mất.
+ 
+ 	Địa Ngục liệt hỏa: Sử dụng về sau, phạm vi năm mươi mét bên trong sẽ xuất hiện hừng hực liệt hỏa, mỗi giây đối với địch nhân tạo thành 30% cơ sở tổn thương, tiếp tục thời gian 5 giây, thời gian cooldown 30 phút.
+ 
+ 	Kỹ năng bị động:
+ 
+ 	Cảm giác: Gặp được nguy hiểm, Trấn Hồn linh sẽ tự động vang lên.
+ 
+ 	...
+ 
+ 	【  Sát Thiên côn 】: Nhị phẩm Thánh khí
+ 
+ 	Khí vận +40
+ 
+ 	May mắn giá trị +10
+ 
+ 	Thánh chiến +400%
+ 
+ 	Kỹ năng bị động:
+ 
+ 	Hút máu: Hấp thụ 30% tổn thương HP.
+ 
+ 	Bạo huyết: Mỗi khi giết chết một Thánh cấp địch nhân, Thánh chiến cùng tốc độ di chuyển gia tăng 0.1%.
+ 
+ 	Kỹ năng chủ động:
+ 
+ 	Hoành Tảo Thiên Quân: Biến lớn về sau công kích, đem 100% tỉ lệ đánh bay địch nhân.
+ 
+ 	Biến hóa: Có thể biến thành tùy ý lớn nhỏ , tùy ý bộ dáng.
+ 
+ 	...
+ 
+ 	Cái này ba kiện Thánh khí tăng lên tới Nhị phẩm Thánh khí cấp bậc, thuộc tính biến hóa không phải rất lớn, nhưng là khí linh lại phát sinh biến hóa, biến cường đại hơn nhiều.
+ 
+ 	Sát Thiên côn khí linh là một con to lớn Kim Hầu Tử, Trấn Hồn linh Khí Hồn là một cái cự đại linh đang, Truyền Tống đỉnh Khí Hồn biến thành một cái quang hoàn.
+ 
+ 	Ba kiện Thánh khí tăng lên, cũng khiến cho hắn thuộc tính biến mạnh lên.
+ 
+ 	Hiện tại hắn thuộc tính là:
+ 
+ 	Thánh Huyết: 195000
+ 
+ 	Thánh chiến: 20342
+ 
+ 	Thánh phòng: 11500
+ 
+ 	Có thể nói, hắn hiện tại thuộc tính hoàn toàn đuổi theo, thuộc tính này, nếu như lại thêm Sát Thiên côn bốn lần tăng thêm, hắn Thánh chiến có thể đạt tới hơn tám vạn.
+ 
+ 	Hiện giai đoạn người chơi phổ biến HP đều tại chừng hai mươi vạn, hai lần liền có thể miểu sát một người chơi, vô cùng cường đại.
+ 
+ 	Nhìn thoáng qua hiện tại thuộc tính, hắn hài lòng nhẹ gật đầu.
+ 
+ 	"Tích tích ~ "
+ 
+ 	Vừa rời đi tiệm thợ rèn, bạn tốt của hắn cột lấp lóe.
+ 
+ 	Mở ra hảo hữu cột nhìn thoáng qua, là Mộc Hi phát tới tin tức.
+ 
+ 	Mộc Hi: Ở đó không? Có thể giúp ta làm một cái nhiệm vụ a?
+ 
+ 	Giang Phong: Tốt, ngươi ở đâu?
+ 
+ 	Mộc Hi: Thủy Nguyệt thành.
+ 
+ 	Giang Phong: Ta lập tức tới.
+ 
+ 	Hắn hiện tại không nóng nảy đi Ngọa Long núi, Ngọa Long núi quái vật đều là Thánh cấp, hiện giai đoạn đi căn bản không gặp được Gia Cát Lượng, cùng lúc nào đi Ngọa Long núi lãng phí thời gian, hắn không bằng đi trước tăng thực lực lên.
+ 
+ 	Mộc Hi là yêu tộc Đại hộ pháp, nàng cần hỗ trợ, hắn cũng không có cự tuyệt, dù sao chỉ cần là hai người tham dự nhiệm vụ, hắn cũng có thể thu hoạch được không ít chỗ tốt.
+ 
+ 	Đáp ứng Mộc Hi, hắn sử dụng Hóa Hình Thuật, biến thành hình người, dùng thẻ căn cước cải biến nhân vật tin tức, hướng phía truyền tống trận phương hướng chạy tới.
+ 
+ 	Không thể không nói, Ngân Nguyệt tinh cầu chủ thành quá ít, đến mức người chơi phi thường bạo tạc.
+ 
+ 	Trên đường phố tất cả đều là người chơi, phí hết một chút công phu, hắn mới đạt tới truyền tống trận, nhưng sau thông qua truyền tống trận truyền tống đến Thủy Nguyệt thành.
+ 
+ 	Thủy Nguyệt thành là dựa vào gần biển một tòa thành thị, cả tòa thành thị đều là thủy lam sắc, nhìn phi thường mỹ.
+ 
+ 	Nơi này người chơi không phải rất thống nhất, sáu quốc người chơi đều có thể nhìn thấy.
+ 
+ 	Không bao lâu, hắn liền tới đến Thủy Nguyệt thành Đông Môn, tìm được Mộc Hi.
+ 
+ 	Đánh giá một phen Mộc Hi bên cạnh, cũng không phát hiện Nam Cung Khiêu Khiêu, cái này khiến hắn nghi ngờ hỏi, "Muội muội của ngươi không cùng lấy ngươi?"
+ 
+ 	Mộc Hi cười nói, "Nàng không có thượng tuyến, mà lại ta nhiệm vụ này nhiều nhất chỉ có thể hai người hoàn thành, nàng không có thực lực."
+ 
+ 	Giang Phong tiếp nhận Mộc Hi tổ đội mời, nhẹ gật đầu, "Nguyên lai dạng này, đi thôi, trên đường nói cho ta một chút nhiệm vụ này."
+ 
+ 	Đón lấy, Mộc Hi cùng Giang Phong hai người hướng phía Thủy Nguyệt thành bên ngoài đi đến.
+ 
+ 	Mộc Hi bắt đầu nói rõ với hắn một chút nhiệm vụ.
+ 
+ 	Nguyên lai, nàng tại làm chính là yêu tộc Đại hộ pháp chuyển chức nhiệm vụ, bởi vì nàng lúc ấy trở thành yêu tộc Đại hộ pháp lựa chọn là Hồ tộc huyết mạch, cho nên nhiệm vụ này là để nàng đi kim hải vùng đất ngập nước tìm kiếm tại Ngân Nguyệt tinh cầu Hồ tộc một mạch tiến hành chuyển chức.
+ 
+ 	Vì nhanh lên tiến về kim hải vùng đất ngập nước, Giang Phong triệu hồi ra tiểu Hắc, cưỡi tiểu Hắc, cùng Mộc Hi hướng phía kim hải vùng đất ngập nước phương hướng tiến đến.
+ 
+ 	"Keng keng..."
+ 
+ 	Rời đi Thủy Nguyệt thành không bao lâu, tại một chỗ cấp 150 quái vật trong vùng, truyền ra một trận tiếng đánh nhau cùng chửi rủa âm thanh.
+ 
+ 	"Đồ chó hoang tiểu quỷ tử, ta đậu phộng ngươi mỗ mỗ, có gan đơn đấu!"
+ 
+ 	"Ha ha, yêu tộc trận doanh người chơi thật TM rác rưởi, liền cùng Yêu Đế, nói cho ngươi, về sau đừng để lão tử nhìn thấy Hoa Hạ yêu tộc trận doanh người chơi, nếu không gặp một lần giết một lần!"
+ 
+ 	...
+ 
+ 	Giang Phong nghe được trận này trận chửi rủa âm thanh, đứng tại không trung, hướng phía phía dưới nhìn lại.
+ 
+ 	Chỉ gặp, có một cái năm người đội ngũ bị mười cái Nhật Đảo phục người chơi cho xúm lại, cái kia năm người trong đội ngũ đã có hai người nằm ở trên mặt đất trở thành thi thể.
+ 
+ 	Ba người còn lại đều phẫn nộ phi thường nhìn xem chung quanh mười cái Nhật Đảo phục người chơi không ngừng chửi rủa.
+ 
+ 	"Các ngươi muốn chết!"
+ 
+ 	Mộc Hi gặp đây, nhướng mày, phẫn nộ quát một tiếng, hướng phía phía dưới mười cái Nhật Đảo phục người chơi vọt tới.
+ 
+ 	Nàng thế nhưng là yêu tộc Đại hộ pháp, nhìn thấy yêu tộc thành viên bị khi phụ, nàng tự nhiên nhẫn nhịn không được.
+ 
+ 	Không riêng gì hắn nhẫn nhịn không được, liền liền Giang Phong cũng vô cùng tức giận.
+ 
+ 	Hắn không nghĩ tới, tại Ngân Nguyệt tinh cầu danh khí lớn giảm về sau, trận doanh mình thành viên vậy mà nhận cái khác quốc phục người chơi khi dễ, không thể nhịn.
+ 
+ 	"Xem ra, vẫn là không thể điệu thấp, kiêu căng hơn!"
+ 
+ 	Nói một câu, hắn giải trừ Hóa Hình Thuật, sử dụng biến thân kỹ năng, biến thành Chu Tước dáng vẻ, kêu to một tiếng, từ không trung lao xuống.
+ 
+ 	"Yêu tộc Đại hộ pháp!"
+ 
+ 	Nghe được Mộc Hi thanh âm cùng Giang Phong tiếng kêu to, bị vây lũng ba vị yêu tộc trận doanh thành viên hưng phấn lên.
+ 
+ 	"Ha ha, yêu tộc Đại hộ pháp thì thế nào? Có vẻ như nàng còn không có chuyển chức, thuộc tính cao không được đi đâu, các huynh đệ, diệt nàng!"
+ 
+ 	Là cái Nhật Đảo phục người chơi đứng đầu rùa Sanji cười to một tiếng, đối sau lưng các đội viên đạo.
+ 
+ 	Xem ra hắn trực tiếp không để ý đến biến thành Chu Tước Giang Phong.
+ 
+ 	"Oanh..."
+ 
+ 	Thế nhưng là khi bọn hắn vừa mới chuẩn bị hướng phía Mộc Hi phóng đi thời điểm, lao xuống Chu Tước lắc mình biến hoá, biến thành một con kim sắc hầu tử, ngay sau đó, một cái to lớn cây gậy giáng xuống, chặn những cái kia Nhật Đảo phục người chơi đường đi.
+ 
+ 	Giang Phong rơi vào Sát Thiên côn phía trên,  sau lưng Yêu Đế áo choàng theo gió phiêu lãng, lặng lẽ nhìn xuống mười cái Nhật Đảo phục người chơi, âm thanh lạnh lùng nói, "Giết ta yêu tộc thành viên, các ngươi đủ tư cách a?"
+ 
+ 	"Yêu Đế!"
+ 
+ 	Kia ba vị yêu tộc thành viên nhìn thấy Giang Phong, trở nên càng thêm hưng phấn, trong đó một cái người chơi nữ, càng là kích động sắc mặt ửng hồng, hai mắt tỏa ra ánh sao.
+ 
+ 	"Yêu Đế thì thế nào? Hiện tại chẳng qua là cái liền Địa Bảng đều lên không đi cặn bã mà thôi, các huynh đệ đừng sợ, giết hắn đi!"
+ 
+ 	Bởi vì Giang Phong trong khoảng thời gian này rất ít hơn tuyến, rất nhiều người đều không biết hắn thực lực cụ thể có bao nhiêu, tại rùa Sanji bọn người xem ra, hắn liền Địa Bảng đều không có đi lên, thực lực khẳng định.
+ 
+ 	Cũng nguyên nhân chính là đây, bọn hắn mới có thể không hề sợ hãi chút nào, lấy ra vũ khí, liền hướng phía Giang Phong công kích qua.
+ 
+ 	? ? PS: Hồ tộc một mạch, các ngươi nghĩ tới điều gì a? Mới kịch bản có chút thẻ , chờ vuốt thuận, đằng sau tìm thời gian tiểu bạo phát một lần, cám ơn đã ủng hộ! !
+ 
+ 	?
+ 
+ 	? ? ? ?
+ 
+ 	(tấu chương xong)
+ 
+ 
+       Offline mừng sinh nhật Tàng Thư Viện:

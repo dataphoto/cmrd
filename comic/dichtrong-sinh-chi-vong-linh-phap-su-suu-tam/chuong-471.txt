@@ -1,0 +1,625 @@
+Vừa liếc nhìn qua đồ vật trên tay David, ánh mắt Đình Tấn liền bị một vật hấp dẫn sự chú ý.
+
+[Thiết bị liên kết cánh cổng ‘Thủy Tinh Thể’]
+
+Loại Vật Phẩm: Đặc Biệt
+
+Giới thiệu: Là đồ vật quan trọng cần dùng đến khi liên kết hai cánh cổng ‘Thủy Tinh Thể’ lại với nhau. (Sau khi liên kết thì có khả năng truyền tống người chơi từ cánh cổng này sang một cánh cổng khác.)
+
+Yêu cầu: Có nhiều hơn hai cánh cổng ‘Thủy Tinh Thể’ (Ở tại hai cứ điểm) khác nhau, một trong hai [Cánh Cổng ‘Thủy Tinh Thể’] phải có cấp độ bằng với tổng số liên kết muốn tạo dựng.
+
+…
+
+Bề ngoài trông như một con chíp điện tử, kích cỡ lớn bằng cả một nắm tay người trưởng thành, mặc dù không có điểm nào đặc biệt đẹp đẽ, nhưng Đình Tấn vẫn bị nó hấp dẫn, chính là bởi vì thông tin của món đồ vật mà hệ thống cung cấp.
+
+-“Cái này là vật phẩm rơi ra từ xác con Boss Lãnh Chúa Dơi Hút Máu.”
+
+David dường như biết được Đình Tấn đang chú ý đến món đồ gì nên đã lên tiếng giới thiệu, bên trong giọng nói không kìm chế được cảm xúc muốn khoe mẽ.
+
+Đình Tấn cũng vô pháp tưởng tượng ra được, làm sao lại có món đồ vật này tồn tại. Sau khi ngẫm nghĩ kỹ lại, hắn mạnh dạn đưa ra suy đoán, đây rất có thể là đồ vật được tạo ra nhằm thuận tiện cho người chơi mà thôi, chứ trong hiện thực thì không thể nào xuất hiện loại đồ vật nghịch thiên như vậy được.
+
+Phải biết không gian và thời gian là một ẩn số, một thứ mà con người từ cổ chí kim luôn muốn khống chế trong tay. 
+
+Thế nhưng rất đáng tiếc đã nhiều năm trôi qua như vậy, ngoại trừ bên trong mấy câu chuyện viễn tưởng ra thì chưa từng có ai có khả năng nắm giữ được nó.
+
+Nếu như có khả năng khống chế được hai thứ lực lượng đó, các nhà khoa học cũng đã không phải mất đến 10 năm, để nghiên cứu ra phương thức đưa người sống đi nghịch dòng thời gian, trở về quá khứ giải cứu thế giới rồi.
+
+Coi như là vậy thì giá trị của nó ở bên trong trò chơi này cũng đã đủ lớn, một khi Đình Tấn hoàn mỹ lợi dụng nó thì thành quả có thể là vượt ngoài sự tưởng tượng của hắn.
+
+Cầm lấy vật thiết bị đó lên ngắm trái ngắm phải, một ý tưởng táo bạo chậm rãi hình thành trong đầu Đình Tấn.
+
+-“Nói vậy, ta cần có thể tiếp tục tạo dựng thêm mấy cái cứ điểm, sau đó lại liên kết chúng lại với nhau. Không biết có thể đi cướp được không nhỉ, có lẽ nên thử một lần xem thế nào.”
+
+Trong lúc đang suy nghĩ, Đình Tấn không nhanh không chậm đưa tay cất đi món đồ vật thiết yếu cho kế hoạch sau này, ánh mắt chuyển dời lên mấy món đồ vật còn lại.
+
+Số lượng tổng cộng có 8 món, hơn nữa từng món đều đang tản mát ra quầng sáng mờ ảo của màu đỏ cùng tím liên hồi, hệt như muốn chứng minh cho Đình Tấn thấy mức độ trân quý của chúng.
+
+[Giày Da Hắc Phong]
+
+Chất lượng: Đồ Đỏ
+
+Yêu cầu: Đẳng cấp 40
+
+Thuộc tính: 
+
+-Gia tăng lượng HP khôi phục: 50%
+
+-Gia tăng tốc độ hấp thụ nguyên tố [Hắc Ám] và [Phong]: 10%
+
+Hiệu ứng mang theo: Đạp Bộ Hư Không (Chủ Động) – Giúp cho người mang trang bị có thể bước đi tự do trong hư không, đồng thời tốc độ di động bạo phát tăng thêm 100%, kéo dài trong 30 giây. Thời gian làm lạnh 30 phút để nạp lại năng lượng. (Không thể phá vỡ làm lạnh)
+
+[Giày Da Hắc Phong]
+
+Chất lượng: Đồ Tím
+
+Yêu cầu: Đẳng cấp 42
+
+Thuộc tính: 
+
+-Gia tăng thuộc tính tinh thần: 10%
+
+-Gia tăng lượng HP khôi phục: 100%
+
+-Gia tăng tốc độ hấp thụ nguyên tố [Hắc Ám] và [Phong]: 15%
+
+Hiệu ứng mang theo: Hắc Ám Ăn Mòn (Bị Động) – Công kích mang theo 10% tỉ lệ ăn mòn 10% tất cả thuộc tính của kẻ địch. Duy trì trong 15 giây, không thể chồng chất. (Có khả năng liên kết cho cho sinh vật triệu hồi)
+
+(Lưu ý: Trang bị chất lượng [Đồ Tím] (đẳng cấp từ 30 trở lên) có thể chế tác ở hiện thực, điểm thuộc tính dựa trên cơ sở trong game tính toán, độ tương đồng chênh lệch từ 60% - 95% tùy theo cách chế tạo và chất lượng nguyên liệu. Xin mời người chơi cố gắng tìm hiểu, nghiên cứu thêm)
+
+Hai đôi giày bót màu đen giống nhau như đúc, nhưng kì lạ là một cái lại tản mát ánh sáng màu đỏ, cái còn lại thì mang quần sáng màu tím.
+
+Xem xong thuộc tính của chúng, Đình Tấn đã hiểu rõ, hai món đồ vật này nhất định là thuộc về đàn Dơi Hút Máu, trong đó món Đồ Tím chắc chắn phải rơi ra từ con Boss Lãnh Chúa Dơi Hút Máu rồi. Còn lại món Đồ Đỏ kia, ắt hẳn cũng là thuộc về một trong số 10 con Boss Thủ Lĩnh Dơi Hút Máu.
+
+-“Cầm lấy, cái này thích hợp cho ngươi dùng đây. Cố gắng tăng cường luyện cấp, tranh thủ trang bị nó lên.”
+
+Lấy đôi giày Đồ Tím mang lên trên người, đồng thời cũng đưa ra đôi giày Đồ Đỏ còn lại cho David, Đình Tấn vừa mỉm cười vừa nói.
+
+-“Cảm tạ Hội Trưởng. Còn lại những thứ này ngươi cũng xem thử đi”
+
+David vui vẻ tiếp nhận món đồ vật trong tay Đình Tấn mà không hề có tí ngại ngùng nào, đã xem nhau như người thân trong nhà, cũng không cần phải đắng đo, suy nghĩ nhiều chuyện như vậy.
+
+Tương đồng Đình Tấn cũng sẽ giống như mình mà thôi, David khẳng định nếu như hắn có lấy hết mấy thứ đồ vật này cất riêng thì Đình Tấn cũng sẽ không nói gì. 
+
+Thế nhưng David không thể làm thế, dù sao Đình Tấn vẫn là Hội Trưởng, đồng dạng cũng là người mà hắn kính trọng nhất, muốn hắn làm vậy trừ phi Đình Tấn lên tiếng nói trước, còn nếu không thì nhất định phải mang lên báo cáo, để giữ tôn ti trật tự trong công hội. 
+
+Đình Tấn theo lời David xốc lên rồi kiểm tra những món đồ vật còn lại, làm xong thì hắn cũng không lấy bất cứ món đồ vật nào mà chỉ thản nhiên đáp lời David.
+
+-“Còn lại ngươi đem phân phát cho các anh em trong hội có đóng góp to lớn trong trận phòng thủ vừa qua đi. Coi như một điểm bồi thường an ủi cho bọn họ, hơn nữa kiểm tra lại trong đống trang bị thu hoạch có đồ vật nào phù hợp với mọi người không, nếu có thì cứ lấy ra đưa tặng cho từng người một món. Về phần chú Marc ở bên kia, ta sẽ trực tiếp đến nói chuyện.”
+
+Gật nhẹ đầu, Đình Tấn nói thêm vào, hào phóng vứt bỏ năm món trang bị Đồ Đỏ để tặng thưởng, quả thật là một phần thưởng giá trị không nhỏ, có thể tương đương với cả trăm ngàn $ tiền hiện thực. 
+
+Hắn là đang muốn khao thưởng toàn quân vì đã chiến thắng trận chiến phòng thủ cứ điểm vừa pha.
+
+Phải biết 1000 tên thành viên của [The Alliance], cùng với 1000 tên đội viên phụ trợ thuộc về đội Lính Đánh Thuê [The Alliance 2], trải qua một hồi chém giết khốc liệt với quái vật đã chết không ít người.
+
+Cơ hồ mỗi người đều đã tử vong ít nhất là một lần chứ không thể ít hơn. Tặng thưởng vật phẩm trang bị xem như là một cách để Đình Tấn bù đắp tinh thần tổn hại của bọn họ.
+
+Trải qua tận thế, làm một tên lính qun đi từng tầng dưới chót lên đến đội trưởng của một chi tiểu đội hơn 30 người, Đình Tấn hiểu được bất cứ thứ gì cũng không thể nào so sánh được với tinh thần đoàn kết, ủng hộ hết mình vì công hội.
+
+Chỉ có tạo dựng được niềm tin, bọn họ mới có khả năng cống hiến tất cả cho [The Alliance] nói chung, cũng như Đình Tấn nói riêng.
+
+Hơn nữa, một phần nguyên nhân khác cũng nằm ở chỗ chủng loại của năm món đồ vật kia. Tất cả đều là trang bị thuộc về loại hình nhanh nhẹn hoặc sức mạnh và phòng thủ, không có loại nào thiên về chủng loại tinh thần cho Đình Tấn sử dụng.
+
+Hắn giữ lại cũng không dùng được, còn chẳng thà đem ra ngoài làm quà tặng cho mọi người, vừa cổ vũ được tinh thần bọn họ, lại vừa thu hút được nhân tâm, rằng [The Alliance] tặng thưởng cực kì hậu hĩnh cho đội viên của họ.
+
+-“Tốt, ta đã biết. Nếu không có gì vậy ta trở về với anh em bàn luận việc tặng thưởng.”
+
+Trên gương mặt David không khỏi hiện lên một vẻ vui mừng, nội tâm tự nhủ thật sự không ai tâm lý bằng Hội Trưởng của mình. Đáng lẽ hắn đã muốn đưa ra yêu cầu xin đống trang bị cao cấp này để làm phần thưởng, nhưng không chờ hắn mở miệng thì Đình Tấn đã cấp phép cho rồi.
+
+Cho nên vừa nói dứt câu, David cũng không chờ được nữa, vội vàng xoay người muốn rời đi.
+
+-“Chờ đã!”
+
+Bất quá, chưa kịp để hắn bước ra khỏi bình đài thì đã bị Đình Tấn đột nhiên hô to gọi trở lại.
+
+-“Chuẩn bị phần thưởng luôn cho các anh em trong liên minh, dù sao bọn họ cũng đã không tiếc rẻ mà lưu lại giúp chúng ta.”
+
+Đang lúc David thắc mắc là chuyện gì thì Đình Tấn chậm rãi nhẹ giọng lên tiếng.
+
+Đúng vậy, đối với kẻ địch, hắn là tàn nhẫn không bao giờ tha thứ cho bất kì ai dám mưu đồ ám hại mình và người thân. Nhưng còn đối với những người đồng bạn, Đình Tấn chắc chắn sẽ không tiếc rẻ thứ gì cả.
+
+-“Nên làm, nên làm, ta đi làm ngay.”
+
+Bị Đình Tấn nhắc nhở, David mới sực nhớ đến những người đã hỗ trợ mình, đầu gật lia lịa như đánh trống, nói một câu đáp lại Đình Tấn rồi hắn tức thì đã xoay người rời đi, trở lại bên lửa trại với nhóm bốn người Ameerah, Louis, Terrell cùng Long.
+
+Ánh mắt Đình Tấn nhìn lại nơi đó, gương mặt bỗng dưng kéo lên, để lộ một nụ cười thỏa mãn, ấm áp. Nhìn cảnh tượng mọi người hò hét bưng chai rượu bia, cầm miếng thịt lớn vui nhảy theo điệu nhạc, bên cạnh đống lửa trại cháy bập bùng, một nơi chôn giấu ký ức sâu trong lòng hắn đã bị khơi dậy.
+
+Thấm thoát thời gian đã qua gần năm tháng trong trò chơi, hắn đã hoàn thành được bước đầu trong mục tiêu đã được đề ra sau khi trùng sinh trở về.
+
+Nội tâm cảm khái, nhưng cũng âm thầm vui mừng khôn xiết, Đình Tấn càng lấy đó làm quyết tâm để cho mình phấn đấu nhiều hơn.
+
+Keng! – Ngài nhận được một tin nhắn mật.
+
+Bất chợt, đang trong lúc Đình Tấn suy nghĩ vu vơ về tương lai thì âm thanh hệ thống thông báo tin nhắn liền vang lên.
+
+Không nhanh không chậm mở ra đọc tin nhắn, người gửi là Lý Uyên với nội dung nhắn nhủ hắn nhanh chóng trở về gặp nàng bàn chuyện.
+
+Thế là Đình Tấn phải vứt bỏ ý đồ thăm dò bình đài chuyển chức, mà theo cánh cổng ‘Thủy Tinh Thể’ quay trở lại [The Alliance Khách Sạn].
+
+…
+
+-“Thế nào? Gọi ta có chuyện gì?”
+
+Ngồi trên bàn làm việc, trong lúc Lý Uyên đang cặm cụi biên soạn, ký kết hợp đồng, bỗng nhiên cửa phòng bị người mở ra, thân ảnh chưa xuất hiện thì giọng nói của Đình Tấn đã đi vào trước.
+
+-“Không gọi chắc ngươi cũng không muốn trở về luôn rồi, chẳng lẽ ngươi không biết ngày mai mở bán kinh doanh sản phẩm của [The Alliance Y Dược] cần ngươi tới làm người phát biểu hay sao?”
+
+Lý Uyên cất giọng lành lạnh mà nói chuyện, trong khi đang tiếp tục cặm cụi viết, không thèm ngẩng đầu lên nhìn lấy Đình Tấn một cái. Thanh âm vẫn là như vậy nhu nhu, nhưng ngữ khí rõ ràng mang theo buồn bực ý.
+
+-“Ta biết, nhưng cũng không nghĩ chuyện này nên cần có ta ra mặt, dù sao cũng đã có người đại diện là ngươi rồi đúng không?”
+
+Không quá để ý đến thái độ của Lý Uyên, Đình Tấn cười mỉm đáp lời, tự nhiên đi đến ngồi xuống bộ ghế sa lông tiếp khách, được đặt bên cạnh bàn làm việc, đôi con ngươi chăm chăm nhìn lấy Lý Uyên.
+
+Tóc mái đen mun dài, rũ xuống hai bên gương mặt trái xoan, vầng trán cao rộng, cặp mắt thâm thúy, tất cả vẻ bề ngoài đồng dạng không có gì thay đổi cả. 
+
+Duy chỉ có khí chất của nàng lại càng trở nên uy nghiêm hơn trước rất nhiều, phỏng chừng trong thời gian dài làm công việc quản lý cả một tập đoàn công ty lớn đã vô thanh vô thức thay đổi khí chất của Lý Uyên đi một cách tự nhiên.
+
+Mặt khác, không biết là do chú tâm làm việc nhiều khiến nàng tiều tụy đi, hay là do bộ áo dài đỏ hồng bó sát cơ thể, vô tình đã làm cho dáng người Lý Uyên có đôi chút gầy đi thấy rõ. 
+
+Tuy vậy nhưng nó cũng không làm nàng xấu đi, mà còn khiến cho diện mạng của nàng có thêm mấy phần cao lãnh.
+
+Nhìn nhìn, ánh mắt của Đình Tấn vô thức trượt dài xuống đôi bánh bao căng phồng nhô lên bên dưới lớp áo lụa bóng loáng kia.
+
+-“Hừ!”
+
+Có vẻ như đã cảm giác được ánh mắt của Đình Tấn đang đặt tại vị trí không nên đặt trên người mình, Lý Uyên hừ lạnh trong miệng, tay ngừng bút ngồi thẳng người dậy, cặp mắt không hề yếu thế chống đối lại ánh mắt mang đầy tính xâm lược của Đình Tấn.
+
+-“Nếu vậy thì không tới cũng được, dù sao công việc lộ mặt ra cũng không quan trọng lắm, cùng lắm là tạo nên sức hút đối với một số fan cuồng của ngươi mà thôi. Ngoài ra có chuyện ta muốn nói với ngươi về Ba Đậu Đậu.
+
+Trong thời gian vừa qua thì nó cũng đã đi vào quỹ đạo hoạt động rất ổn thỏa rồi, nhưng mà ta không biết vì sao dạo gần đây mạng hệ thống của Ba Đậu Đậu thường xuyên gặp phải vấn đề trì trệ. Ta đoán là có người đang âm mưu mờ ám gì đó ở phía sau, ý đồ muốn công kích vào hệ thống, chiếm đoạt dữ liệu mã nguồn. Nếu ngươi có thời gian thì đến bên chỗ phòng kỹ thuật của Tim hỗ trợ một chút xem sao.”
+
+Đứng dậy đi chậm đến bên cạnh Đình Tấn, Lý Uyên đã khôi phục lại bộ dáng bình thường, nói chuyện cũng nhỏ nhẹ nhu hòa hơn nhiều.
+
+Dù sao chỉ là thoáng giận dỗi qua trong chốc lát, làm một người có lý trí, Lý Uyên cũng hiểu rõ Đình Tấn phải bận rộn rất nhiều công việc trợ giúp công hội phát triển.
+
+Mà nàng, nhiệm vụ duy nhất chính là quản lý toàn bộ hậu trường ở phía sau của [The Alliance].
+
+Cảm nhận đôi vòng tay của Lý Uyên choàng qua, ôm lấy cổ hắn từ phía sau, Đình Tấn cũng không kháng cự, mà lúc này nghe được lời của nàng thủ thỉ bên tai mình, khóe miệng Đình Tấn đột nhiên nhếch lên cười tà.
+
+Đưa tay lên vỗ vỗ tay Lý Uyên, ý muốn dùng hành ấy để trấn an nàng, đồng thời chậm rãi giải thích.
+
+-“Không có gì, ngươi cứ bảo với Tim yên tâm để đó, chỉ cần hệ thống của Ba Đậu Đậu còn vận động được như bình thường thì không có gì đáng để lo ngại, còn mấy chuyện khác không cần bận tâm tới làm gì.
+
+A, chút nữa quên mất, ta muốn nói cho ngươi sự việc quan trọng. Ta vừa phát hiện cứ điểm sau khi thành lập xong có thể xây dựng và nâng cấp các công trình kiến trúc, trong đó vật liệu gỗ cùng với Tấm Hợp Kim và Đá Nguyên Tố Hạt Nhân là nguyên vật liệu trọng yếu cần thiết…”
+
+-“Ý ngươi là nhu cầu của mấy thứ đó trong tương lai có khả năng tăng lên rất nhiều?”
+
+Lý Uyên không đợi cho Đình Tấn nói xong thì đã kinh hô chặn ngang lời nói của hắn, vẻ mặt nàng hiển lộ ra tràn ngập vẻ ngạc nhiên, cùng với hưng phấn. Làm một thương nhân hay một con buôn, Lý Uyên hiểu rõ, một khi nhu cầu tăng lên ắt hẳn sẽ có một số thành phần đứng ra đầu cơ để trục lợi về sau, mà nàng cũng không muốn bỏ qua cơ hội như vậy.
+
+-“…Cái đó… ta không biết… ý của ta chỉ là nhờ ngươi gom góp tích lũy lại để sau này có mà dùng… ưm… ưm…”
+
+Đình Tấn có chút bối rối ú ớ ngượng ngùng vì bị hiểu lầm, vừa định lên tiếng giải thích thì hắn đã bị Lý Uyên cho chặn họng thêm một lần nữa. 
+
+Nhưng lần này thứ đồ vật chặn lại hắn không phải lời nói, mà Lý Uyên dùng chính là cặp môi hoa anh đào của mình.
+
+Lý Uyên càng lúc càng ép sát, chồm thẳng lên nằm đè lên người hắn, cặp mắt nhắm nghiền, lôi mi dài có chút run rẩy không biết là do hưng phấn hay do ngượng ngùng.
+
+Khởi đầu Đình Tấn không ngừng lùi lại phía sau, mà Lý Uyên thì ngược lại, từng bước ép sát tới. Đến khi không còn chỗ để lùi được nữa, hắn lại muốn đẩy nàng ra, nhưng một đôi cánh tay như kìm sắt của nàng đang ôm lấy cổ hắn, khiến Đình Tấn càng bối rối.
+
+Sau một lúc, Đình Tấn chợt cảm thấy một đôi bàn tay đang men theo hai bên eo, di động xuống khu vực hang ổ chim cánh cụt của mình. Hắn lập tức trợn tròn mắt, dùng sức đẩy Lý Uyên ra khỏi người mình.
+
+‘Ách…’
+
+-“Ngươi làm việc đi, ta có chút công việc gấp cần phải đi làm ngay. Gặp lại sau…”
+
+Có chút bối rối dưới cặp mắt kinh ngạc của Lý Uyên đang nhìn mình, Đình Tấn vội vội vàng vàng bỏ lại một câu, thanh âm chưa dứt thì đã xoay người bỏ của chạy lấy người ra khỏi phòng.
+
+-“Tên óc trâu này…”
+
+Mắt nhìn theo bóng lưng đi khuất dần của Đình Tấn, Lý Uyên phẫn hận đến nghiến răng nghiến lợi nói thầm trong miệng, gương mặt đỏ hồng như hai cái mặt rời vừa nổi lên khi bình mình.Vừa liếc nhìn qua đồ vật trên tay David, ánh mắt Đình Tấn liền bị một vật hấp dẫn sự chú ý.
+
+[Thiết bị liên kết cánh cổng ‘Thủy Tinh Thể’]
+
+Loại Vật Phẩm: Đặc Biệt
+
+Giới thiệu: Là đồ vật quan trọng cần dùng đến khi liên kết hai cánh cổng ‘Thủy Tinh Thể’ lại với nhau. (Sau khi liên kết thì có khả năng truyền tống người chơi từ cánh cổng này sang một cánh cổng khác.)
+
+Yêu cầu: Có nhiều hơn hai cánh cổng ‘Thủy Tinh Thể’ (Ở tại hai cứ điểm) khác nhau, một trong hai [Cánh Cổng ‘Thủy Tinh Thể’] phải có cấp độ bằng với tổng số liên kết muốn tạo dựng.
+
+…
+
+Bề ngoài trông như một con chíp điện tử, kích cỡ lớn bằng cả một nắm tay người trưởng thành, mặc dù không có điểm nào đặc biệt đẹp đẽ, nhưng Đình Tấn vẫn bị nó hấp dẫn, chính là bởi vì thông tin của món đồ vật mà hệ thống cung cấp.
+
+-“Cái này là vật phẩm rơi ra từ xác con Boss Lãnh Chúa Dơi Hút Máu.”
+
+David dường như biết được Đình Tấn đang chú ý đến món đồ gì nên đã lên tiếng giới thiệu, bên trong giọng nói không kìm chế được cảm xúc muốn khoe mẽ.
+
+Đình Tấn cũng vô pháp tưởng tượng ra được, làm sao lại có món đồ vật này tồn tại. Sau khi ngẫm nghĩ kỹ lại, hắn mạnh dạn đưa ra suy đoán, đây rất có thể là đồ vật được tạo ra nhằm thuận tiện cho người chơi mà thôi, chứ trong hiện thực thì không thể nào xuất hiện loại đồ vật nghịch thiên như vậy được.
+
+Phải biết không gian và thời gian là một ẩn số, một thứ mà con người từ cổ chí kim luôn muốn khống chế trong tay. 
+
+Thế nhưng rất đáng tiếc đã nhiều năm trôi qua như vậy, ngoại trừ bên trong mấy câu chuyện viễn tưởng ra thì chưa từng có ai có khả năng nắm giữ được nó.
+
+Nếu như có khả năng khống chế được hai thứ lực lượng đó, các nhà khoa học cũng đã không phải mất đến 10 năm, để nghiên cứu ra phương thức đưa người sống đi nghịch dòng thời gian, trở về quá khứ giải cứu thế giới rồi.
+
+Coi như là vậy thì giá trị của nó ở bên trong trò chơi này cũng đã đủ lớn, một khi Đình Tấn hoàn mỹ lợi dụng nó thì thành quả có thể là vượt ngoài sự tưởng tượng của hắn.
+
+Cầm lấy vật thiết bị đó lên ngắm trái ngắm phải, một ý tưởng táo bạo chậm rãi hình thành trong đầu Đình Tấn.
+
+-“Nói vậy, ta cần có thể tiếp tục tạo dựng thêm mấy cái cứ điểm, sau đó lại liên kết chúng lại với nhau. Không biết có thể đi cướp được không nhỉ, có lẽ nên thử một lần xem thế nào.”
+
+Trong lúc đang suy nghĩ, Đình Tấn không nhanh không chậm đưa tay cất đi món đồ vật thiết yếu cho kế hoạch sau này, ánh mắt chuyển dời lên mấy món đồ vật còn lại.
+
+Số lượng tổng cộng có 8 món, hơn nữa từng món đều đang tản mát ra quầng sáng mờ ảo của màu đỏ cùng tím liên hồi, hệt như muốn chứng minh cho Đình Tấn thấy mức độ trân quý của chúng.
+
+[Giày Da Hắc Phong]
+
+Chất lượng: Đồ Đỏ
+
+Yêu cầu: Đẳng cấp 40
+
+Thuộc tính: 
+
+-Gia tăng lượng HP khôi phục: 50%
+
+-Gia tăng tốc độ hấp thụ nguyên tố [Hắc Ám] và [Phong]: 10%
+
+Hiệu ứng mang theo: Đạp Bộ Hư Không (Chủ Động) – Giúp cho người mang trang bị có thể bước đi tự do trong hư không, đồng thời tốc độ di động bạo phát tăng thêm 100%, kéo dài trong 30 giây. Thời gian làm lạnh 30 phút để nạp lại năng lượng. (Không thể phá vỡ làm lạnh)
+
+[Giày Da Hắc Phong]
+
+Chất lượng: Đồ Tím
+
+Yêu cầu: Đẳng cấp 42
+
+Thuộc tính: 
+
+-Gia tăng thuộc tính tinh thần: 10%
+
+-Gia tăng lượng HP khôi phục: 100%
+
+-Gia tăng tốc độ hấp thụ nguyên tố [Hắc Ám] và [Phong]: 15%
+
+Hiệu ứng mang theo: Hắc Ám Ăn Mòn (Bị Động) – Công kích mang theo 10% tỉ lệ ăn mòn 10% tất cả thuộc tính của kẻ địch. Duy trì trong 15 giây, không thể chồng chất. (Có khả năng liên kết cho cho sinh vật triệu hồi)
+
+(Lưu ý: Trang bị chất lượng [Đồ Tím] (đẳng cấp từ 30 trở lên) có thể chế tác ở hiện thực, điểm thuộc tính dựa trên cơ sở trong game tính toán, độ tương đồng chênh lệch từ 60% - 95% tùy theo cách chế tạo và chất lượng nguyên liệu. Xin mời người chơi cố gắng tìm hiểu, nghiên cứu thêm)
+
+Hai đôi giày bót màu đen giống nhau như đúc, nhưng kì lạ là một cái lại tản mát ánh sáng màu đỏ, cái còn lại thì mang quần sáng màu tím.
+
+Xem xong thuộc tính của chúng, Đình Tấn đã hiểu rõ, hai món đồ vật này nhất định là thuộc về đàn Dơi Hút Máu, trong đó món Đồ Tím chắc chắn phải rơi ra từ con Boss Lãnh Chúa Dơi Hút Máu rồi. Còn lại món Đồ Đỏ kia, ắt hẳn cũng là thuộc về một trong số 10 con Boss Thủ Lĩnh Dơi Hút Máu.
+
+-“Cầm lấy, cái này thích hợp cho ngươi dùng đây. Cố gắng tăng cường luyện cấp, tranh thủ trang bị nó lên.”
+
+Lấy đôi giày Đồ Tím mang lên trên người, đồng thời cũng đưa ra đôi giày Đồ Đỏ còn lại cho David, Đình Tấn vừa mỉm cười vừa nói.
+
+-“Cảm tạ Hội Trưởng. Còn lại những thứ này ngươi cũng xem thử đi”
+
+David vui vẻ tiếp nhận món đồ vật trong tay Đình Tấn mà không hề có tí ngại ngùng nào, đã xem nhau như người thân trong nhà, cũng không cần phải đắng đo, suy nghĩ nhiều chuyện như vậy.
+
+Tương đồng Đình Tấn cũng sẽ giống như mình mà thôi, David khẳng định nếu như hắn có lấy hết mấy thứ đồ vật này cất riêng thì Đình Tấn cũng sẽ không nói gì. 
+
+Thế nhưng David không thể làm thế, dù sao Đình Tấn vẫn là Hội Trưởng, đồng dạng cũng là người mà hắn kính trọng nhất, muốn hắn làm vậy trừ phi Đình Tấn lên tiếng nói trước, còn nếu không thì nhất định phải mang lên báo cáo, để giữ tôn ti trật tự trong công hội. 
+
+Đình Tấn theo lời David xốc lên rồi kiểm tra những món đồ vật còn lại, làm xong thì hắn cũng không lấy bất cứ món đồ vật nào mà chỉ thản nhiên đáp lời David.
+
+-“Còn lại ngươi đem phân phát cho các anh em trong hội có đóng góp to lớn trong trận phòng thủ vừa qua đi. Coi như một điểm bồi thường an ủi cho bọn họ, hơn nữa kiểm tra lại trong đống trang bị thu hoạch có đồ vật nào phù hợp với mọi người không, nếu có thì cứ lấy ra đưa tặng cho từng người một món. Về phần chú Marc ở bên kia, ta sẽ trực tiếp đến nói chuyện.”
+
+Gật nhẹ đầu, Đình Tấn nói thêm vào, hào phóng vứt bỏ năm món trang bị Đồ Đỏ để tặng thưởng, quả thật là một phần thưởng giá trị không nhỏ, có thể tương đương với cả trăm ngàn $ tiền hiện thực. 
+
+Hắn là đang muốn khao thưởng toàn quân vì đã chiến thắng trận chiến phòng thủ cứ điểm vừa pha.
+
+Phải biết 1000 tên thành viên của [The Alliance], cùng với 1000 tên đội viên phụ trợ thuộc về đội Lính Đánh Thuê [The Alliance 2], trải qua một hồi chém giết khốc liệt với quái vật đã chết không ít người.
+
+Cơ hồ mỗi người đều đã tử vong ít nhất là một lần chứ không thể ít hơn. Tặng thưởng vật phẩm trang bị xem như là một cách để Đình Tấn bù đắp tinh thần tổn hại của bọn họ.
+
+Trải qua tận thế, làm một tên lính qun đi từng tầng dưới chót lên đến đội trưởng của một chi tiểu đội hơn 30 người, Đình Tấn hiểu được bất cứ thứ gì cũng không thể nào so sánh được với tinh thần đoàn kết, ủng hộ hết mình vì công hội.
+
+Chỉ có tạo dựng được niềm tin, bọn họ mới có khả năng cống hiến tất cả cho [The Alliance] nói chung, cũng như Đình Tấn nói riêng.
+
+Hơn nữa, một phần nguyên nhân khác cũng nằm ở chỗ chủng loại của năm món đồ vật kia. Tất cả đều là trang bị thuộc về loại hình nhanh nhẹn hoặc sức mạnh và phòng thủ, không có loại nào thiên về chủng loại tinh thần cho Đình Tấn sử dụng.
+
+Hắn giữ lại cũng không dùng được, còn chẳng thà đem ra ngoài làm quà tặng cho mọi người, vừa cổ vũ được tinh thần bọn họ, lại vừa thu hút được nhân tâm, rằng [The Alliance] tặng thưởng cực kì hậu hĩnh cho đội viên của họ.
+
+-“Tốt, ta đã biết. Nếu không có gì vậy ta trở về với anh em bàn luận việc tặng thưởng.”
+
+Trên gương mặt David không khỏi hiện lên một vẻ vui mừng, nội tâm tự nhủ thật sự không ai tâm lý bằng Hội Trưởng của mình. Đáng lẽ hắn đã muốn đưa ra yêu cầu xin đống trang bị cao cấp này để làm phần thưởng, nhưng không chờ hắn mở miệng thì Đình Tấn đã cấp phép cho rồi.
+
+Cho nên vừa nói dứt câu, David cũng không chờ được nữa, vội vàng xoay người muốn rời đi.
+
+-“Chờ đã!”
+
+Bất quá, chưa kịp để hắn bước ra khỏi bình đài thì đã bị Đình Tấn đột nhiên hô to gọi trở lại.
+
+-“Chuẩn bị phần thưởng luôn cho các anh em trong liên minh, dù sao bọn họ cũng đã không tiếc rẻ mà lưu lại giúp chúng ta.”
+
+Đang lúc David thắc mắc là chuyện gì thì Đình Tấn chậm rãi nhẹ giọng lên tiếng.
+
+Đúng vậy, đối với kẻ địch, hắn là tàn nhẫn không bao giờ tha thứ cho bất kì ai dám mưu đồ ám hại mình và người thân. Nhưng còn đối với những người đồng bạn, Đình Tấn chắc chắn sẽ không tiếc rẻ thứ gì cả.
+
+-“Nên làm, nên làm, ta đi làm ngay.”
+
+Bị Đình Tấn nhắc nhở, David mới sực nhớ đến những người đã hỗ trợ mình, đầu gật lia lịa như đánh trống, nói một câu đáp lại Đình Tấn rồi hắn tức thì đã xoay người rời đi, trở lại bên lửa trại với nhóm bốn người Ameerah, Louis, Terrell cùng Long.
+
+Ánh mắt Đình Tấn nhìn lại nơi đó, gương mặt bỗng dưng kéo lên, để lộ một nụ cười thỏa mãn, ấm áp. Nhìn cảnh tượng mọi người hò hét bưng chai rượu bia, cầm miếng thịt lớn vui nhảy theo điệu nhạc, bên cạnh đống lửa trại cháy bập bùng, một nơi chôn giấu ký ức sâu trong lòng hắn đã bị khơi dậy.
+
+Thấm thoát thời gian đã qua gần năm tháng trong trò chơi, hắn đã hoàn thành được bước đầu trong mục tiêu đã được đề ra sau khi trùng sinh trở về.
+
+Nội tâm cảm khái, nhưng cũng âm thầm vui mừng khôn xiết, Đình Tấn càng lấy đó làm quyết tâm để cho mình phấn đấu nhiều hơn.
+
+Keng! – Ngài nhận được một tin nhắn mật.
+
+Bất chợt, đang trong lúc Đình Tấn suy nghĩ vu vơ về tương lai thì âm thanh hệ thống thông báo tin nhắn liền vang lên.
+
+Không nhanh không chậm mở ra đọc tin nhắn, người gửi là Lý Uyên với nội dung nhắn nhủ hắn nhanh chóng trở về gặp nàng bàn chuyện.
+
+Thế là Đình Tấn phải vứt bỏ ý đồ thăm dò bình đài chuyển chức, mà theo cánh cổng ‘Thủy Tinh Thể’ quay trở lại [The Alliance Khách Sạn].
+
+…
+
+-“Thế nào? Gọi ta có chuyện gì?”
+
+Ngồi trên bàn làm việc, trong lúc Lý Uyên đang cặm cụi biên soạn, ký kết hợp đồng, bỗng nhiên cửa phòng bị người mở ra, thân ảnh chưa xuất hiện thì giọng nói của Đình Tấn đã đi vào trước.
+
+-“Không gọi chắc ngươi cũng không muốn trở về luôn rồi, chẳng lẽ ngươi không biết ngày mai mở bán kinh doanh sản phẩm của [The Alliance Y Dược] cần ngươi tới làm người phát biểu hay sao?”
+
+Lý Uyên cất giọng lành lạnh mà nói chuyện, trong khi đang tiếp tục cặm cụi viết, không thèm ngẩng đầu lên nhìn lấy Đình Tấn một cái. Thanh âm vẫn là như vậy nhu nhu, nhưng ngữ khí rõ ràng mang theo buồn bực ý.
+
+-“Ta biết, nhưng cũng không nghĩ chuyện này nên cần có ta ra mặt, dù sao cũng đã có người đại diện là ngươi rồi đúng không?”
+
+Không quá để ý đến thái độ của Lý Uyên, Đình Tấn cười mỉm đáp lời, tự nhiên đi đến ngồi xuống bộ ghế sa lông tiếp khách, được đặt bên cạnh bàn làm việc, đôi con ngươi chăm chăm nhìn lấy Lý Uyên.
+
+Tóc mái đen mun dài, rũ xuống hai bên gương mặt trái xoan, vầng trán cao rộng, cặp mắt thâm thúy, tất cả vẻ bề ngoài đồng dạng không có gì thay đổi cả. 
+
+Duy chỉ có khí chất của nàng lại càng trở nên uy nghiêm hơn trước rất nhiều, phỏng chừng trong thời gian dài làm công việc quản lý cả một tập đoàn công ty lớn đã vô thanh vô thức thay đổi khí chất của Lý Uyên đi một cách tự nhiên.
+
+Mặt khác, không biết là do chú tâm làm việc nhiều khiến nàng tiều tụy đi, hay là do bộ áo dài đỏ hồng bó sát cơ thể, vô tình đã làm cho dáng người Lý Uyên có đôi chút gầy đi thấy rõ. 
+
+Tuy vậy nhưng nó cũng không làm nàng xấu đi, mà còn khiến cho diện mạng của nàng có thêm mấy phần cao lãnh.
+
+Nhìn nhìn, ánh mắt của Đình Tấn vô thức trượt dài xuống đôi bánh bao căng phồng nhô lên bên dưới lớp áo lụa bóng loáng kia.
+
+-“Hừ!”
+
+Có vẻ như đã cảm giác được ánh mắt của Đình Tấn đang đặt tại vị trí không nên đặt trên người mình, Lý Uyên hừ lạnh trong miệng, tay ngừng bút ngồi thẳng người dậy, cặp mắt không hề yếu thế chống đối lại ánh mắt mang đầy tính xâm lược của Đình Tấn.
+
+-“Nếu vậy thì không tới cũng được, dù sao công việc lộ mặt ra cũng không quan trọng lắm, cùng lắm là tạo nên sức hút đối với một số fan cuồng của ngươi mà thôi. Ngoài ra có chuyện ta muốn nói với ngươi về Ba Đậu Đậu.
+
+Trong thời gian vừa qua thì nó cũng đã đi vào quỹ đạo hoạt động rất ổn thỏa rồi, nhưng mà ta không biết vì sao dạo gần đây mạng hệ thống của Ba Đậu Đậu thường xuyên gặp phải vấn đề trì trệ. Ta đoán là có người đang âm mưu mờ ám gì đó ở phía sau, ý đồ muốn công kích vào hệ thống, chiếm đoạt dữ liệu mã nguồn. Nếu ngươi có thời gian thì đến bên chỗ phòng kỹ thuật của Tim hỗ trợ một chút xem sao.”
+
+Đứng dậy đi chậm đến bên cạnh Đình Tấn, Lý Uyên đã khôi phục lại bộ dáng bình thường, nói chuyện cũng nhỏ nhẹ nhu hòa hơn nhiều.
+
+Dù sao chỉ là thoáng giận dỗi qua trong chốc lát, làm một người có lý trí, Lý Uyên cũng hiểu rõ Đình Tấn phải bận rộn rất nhiều công việc trợ giúp công hội phát triển.
+
+Mà nàng, nhiệm vụ duy nhất chính là quản lý toàn bộ hậu trường ở phía sau của [The Alliance].
+
+Cảm nhận đôi vòng tay của Lý Uyên choàng qua, ôm lấy cổ hắn từ phía sau, Đình Tấn cũng không kháng cự, mà lúc này nghe được lời của nàng thủ thỉ bên tai mình, khóe miệng Đình Tấn đột nhiên nhếch lên cười tà.
+
+Đưa tay lên vỗ vỗ tay Lý Uyên, ý muốn dùng hành ấy để trấn an nàng, đồng thời chậm rãi giải thích.
+
+-“Không có gì, ngươi cứ bảo với Tim yên tâm để đó, chỉ cần hệ thống của Ba Đậu Đậu còn vận động được như bình thường thì không có gì đáng để lo ngại, còn mấy chuyện khác không cần bận tâm tới làm gì.
+
+A, chút nữa quên mất, ta muốn nói cho ngươi sự việc quan trọng. Ta vừa phát hiện cứ điểm sau khi thành lập xong có thể xây dựng và nâng cấp các công trình kiến trúc, trong đó vật liệu gỗ cùng với Tấm Hợp Kim và Đá Nguyên Tố Hạt Nhân là nguyên vật liệu trọng yếu cần thiết…”
+
+-“Ý ngươi là nhu cầu của mấy thứ đó trong tương lai có khả năng tăng lên rất nhiều?”
+
+Lý Uyên không đợi cho Đình Tấn nói xong thì đã kinh hô chặn ngang lời nói của hắn, vẻ mặt nàng hiển lộ ra tràn ngập vẻ ngạc nhiên, cùng với hưng phấn. Làm một thương nhân hay một con buôn, Lý Uyên hiểu rõ, một khi nhu cầu tăng lên ắt hẳn sẽ có một số thành phần đứng ra đầu cơ để trục lợi về sau, mà nàng cũng không muốn bỏ qua cơ hội như vậy.
+
+-“…Cái đó… ta không biết… ý của ta chỉ là nhờ ngươi gom góp tích lũy lại để sau này có mà dùng… ưm… ưm…”
+
+Đình Tấn có chút bối rối ú ớ ngượng ngùng vì bị hiểu lầm, vừa định lên tiếng giải thích thì hắn đã bị Lý Uyên cho chặn họng thêm một lần nữa. 
+
+Nhưng lần này thứ đồ vật chặn lại hắn không phải lời nói, mà Lý Uyên dùng chính là cặp môi hoa anh đào của mình.
+
+Lý Uyên càng lúc càng ép sát, chồm thẳng lên nằm đè lên người hắn, cặp mắt nhắm nghiền, lôi mi dài có chút run rẩy không biết là do hưng phấn hay do ngượng ngùng.
+
+Khởi đầu Đình Tấn không ngừng lùi lại phía sau, mà Lý Uyên thì ngược lại, từng bước ép sát tới. Đến khi không còn chỗ để lùi được nữa, hắn lại muốn đẩy nàng ra, nhưng một đôi cánh tay như kìm sắt của nàng đang ôm lấy cổ hắn, khiến Đình Tấn càng bối rối.
+
+Sau một lúc, Đình Tấn chợt cảm thấy một đôi bàn tay đang men theo hai bên eo, di động xuống khu vực hang ổ chim cánh cụt của mình. Hắn lập tức trợn tròn mắt, dùng sức đẩy Lý Uyên ra khỏi người mình.
+
+‘Ách…’
+
+-“Ngươi làm việc đi, ta có chút công việc gấp cần phải đi làm ngay. Gặp lại sau…”
+
+Có chút bối rối dưới cặp mắt kinh ngạc của Lý Uyên đang nhìn mình, Đình Tấn vội vội vàng vàng bỏ lại một câu, thanh âm chưa dứt thì đã xoay người bỏ của chạy lấy người ra khỏi phòng.
+
+-“Tên óc trâu này…”
+
+Mắt nhìn theo bóng lưng đi khuất dần của Đình Tấn, Lý Uyên phẫn hận đến nghiến răng nghiến lợi nói thầm trong miệng, gương mặt đỏ hồng như hai cái mặt rời vừa nổi lên khi bình mình.Vừa liếc nhìn qua đồ vật trên tay David, ánh mắt Đình Tấn liền bị một vật hấp dẫn sự chú ý.
+
+[Thiết bị liên kết cánh cổng ‘Thủy Tinh Thể’]
+
+Loại Vật Phẩm: Đặc Biệt
+
+Giới thiệu: Là đồ vật quan trọng cần dùng đến khi liên kết hai cánh cổng ‘Thủy Tinh Thể’ lại với nhau. (Sau khi liên kết thì có khả năng truyền tống người chơi từ cánh cổng này sang một cánh cổng khác.)
+
+Yêu cầu: Có nhiều hơn hai cánh cổng ‘Thủy Tinh Thể’ (Ở tại hai cứ điểm) khác nhau, một trong hai [Cánh Cổng ‘Thủy Tinh Thể’] phải có cấp độ bằng với tổng số liên kết muốn tạo dựng.
+
+…
+
+Bề ngoài trông như một con chíp điện tử, kích cỡ lớn bằng cả một nắm tay người trưởng thành, mặc dù không có điểm nào đặc biệt đẹp đẽ, nhưng Đình Tấn vẫn bị nó hấp dẫn, chính là bởi vì thông tin của món đồ vật mà hệ thống cung cấp.
+
+-“Cái này là vật phẩm rơi ra từ xác con Boss Lãnh Chúa Dơi Hút Máu.”
+
+David dường như biết được Đình Tấn đang chú ý đến món đồ gì nên đã lên tiếng giới thiệu, bên trong giọng nói không kìm chế được cảm xúc muốn khoe mẽ.
+
+Đình Tấn cũng vô pháp tưởng tượng ra được, làm sao lại có món đồ vật này tồn tại. Sau khi ngẫm nghĩ kỹ lại, hắn mạnh dạn đưa ra suy đoán, đây rất có thể là đồ vật được tạo ra nhằm thuận tiện cho người chơi mà thôi, chứ trong hiện thực thì không thể nào xuất hiện loại đồ vật nghịch thiên như vậy được.
+
+Phải biết không gian và thời gian là một ẩn số, một thứ mà con người từ cổ chí kim luôn muốn khống chế trong tay. 
+
+Thế nhưng rất đáng tiếc đã nhiều năm trôi qua như vậy, ngoại trừ bên trong mấy câu chuyện viễn tưởng ra thì chưa từng có ai có khả năng nắm giữ được nó.
+
+Nếu như có khả năng khống chế được hai thứ lực lượng đó, các nhà khoa học cũng đã không phải mất đến 10 năm, để nghiên cứu ra phương thức đưa người sống đi nghịch dòng thời gian, trở về quá khứ giải cứu thế giới rồi.
+
+Coi như là vậy thì giá trị của nó ở bên trong trò chơi này cũng đã đủ lớn, một khi Đình Tấn hoàn mỹ lợi dụng nó thì thành quả có thể là vượt ngoài sự tưởng tượng của hắn.
+
+Cầm lấy vật thiết bị đó lên ngắm trái ngắm phải, một ý tưởng táo bạo chậm rãi hình thành trong đầu Đình Tấn.
+
+-“Nói vậy, ta cần có thể tiếp tục tạo dựng thêm mấy cái cứ điểm, sau đó lại liên kết chúng lại với nhau. Không biết có thể đi cướp được không nhỉ, có lẽ nên thử một lần xem thế nào.”
+
+Trong lúc đang suy nghĩ, Đình Tấn không nhanh không chậm đưa tay cất đi món đồ vật thiết yếu cho kế hoạch sau này, ánh mắt chuyển dời lên mấy món đồ vật còn lại.
+
+Số lượng tổng cộng có 8 món, hơn nữa từng món đều đang tản mát ra quầng sáng mờ ảo của màu đỏ cùng tím liên hồi, hệt như muốn chứng minh cho Đình Tấn thấy mức độ trân quý của chúng.
+
+[Giày Da Hắc Phong]
+
+Chất lượng: Đồ Đỏ
+
+Yêu cầu: Đẳng cấp 40
+
+Thuộc tính: 
+
+-Gia tăng lượng HP khôi phục: 50%
+
+-Gia tăng tốc độ hấp thụ nguyên tố [Hắc Ám] và [Phong]: 10%
+
+Hiệu ứng mang theo: Đạp Bộ Hư Không (Chủ Động) – Giúp cho người mang trang bị có thể bước đi tự do trong hư không, đồng thời tốc độ di động bạo phát tăng thêm 100%, kéo dài trong 30 giây. Thời gian làm lạnh 30 phút để nạp lại năng lượng. (Không thể phá vỡ làm lạnh)
+
+[Giày Da Hắc Phong]
+
+Chất lượng: Đồ Tím
+
+Yêu cầu: Đẳng cấp 42
+
+Thuộc tính: 
+
+-Gia tăng thuộc tính tinh thần: 10%
+
+-Gia tăng lượng HP khôi phục: 100%
+
+-Gia tăng tốc độ hấp thụ nguyên tố [Hắc Ám] và [Phong]: 15%
+
+Hiệu ứng mang theo: Hắc Ám Ăn Mòn (Bị Động) – Công kích mang theo 10% tỉ lệ ăn mòn 10% tất cả thuộc tính của kẻ địch. Duy trì trong 15 giây, không thể chồng chất. (Có khả năng liên kết cho cho sinh vật triệu hồi)
+
+(Lưu ý: Trang bị chất lượng [Đồ Tím] (đẳng cấp từ 30 trở lên) có thể chế tác ở hiện thực, điểm thuộc tính dựa trên cơ sở trong game tính toán, độ tương đồng chênh lệch từ 60% - 95% tùy theo cách chế tạo và chất lượng nguyên liệu. Xin mời người chơi cố gắng tìm hiểu, nghiên cứu thêm)
+
+Hai đôi giày bót màu đen giống nhau như đúc, nhưng kì lạ là một cái lại tản mát ánh sáng màu đỏ, cái còn lại thì mang quần sáng màu tím.
+
+Xem xong thuộc tính của chúng, Đình Tấn đã hiểu rõ, hai món đồ vật này nhất định là thuộc về đàn Dơi Hút Máu, trong đó món Đồ Tím chắc chắn phải rơi ra từ con Boss Lãnh Chúa Dơi Hút Máu rồi. Còn lại món Đồ Đỏ kia, ắt hẳn cũng là thuộc về một trong số 10 con Boss Thủ Lĩnh Dơi Hút Máu.
+
+-“Cầm lấy, cái này thích hợp cho ngươi dùng đây. Cố gắng tăng cường luyện cấp, tranh thủ trang bị nó lên.”
+
+Lấy đôi giày Đồ Tím mang lên trên người, đồng thời cũng đưa ra đôi giày Đồ Đỏ còn lại cho David, Đình Tấn vừa mỉm cười vừa nói.
+
+-“Cảm tạ Hội Trưởng. Còn lại những thứ này ngươi cũng xem thử đi”
+
+David vui vẻ tiếp nhận món đồ vật trong tay Đình Tấn mà không hề có tí ngại ngùng nào, đã xem nhau như người thân trong nhà, cũng không cần phải đắng đo, suy nghĩ nhiều chuyện như vậy.
+
+Tương đồng Đình Tấn cũng sẽ giống như mình mà thôi, David khẳng định nếu như hắn có lấy hết mấy thứ đồ vật này cất riêng thì Đình Tấn cũng sẽ không nói gì. 
+
+Thế nhưng David không thể làm thế, dù sao Đình Tấn vẫn là Hội Trưởng, đồng dạng cũng là người mà hắn kính trọng nhất, muốn hắn làm vậy trừ phi Đình Tấn lên tiếng nói trước, còn nếu không thì nhất định phải mang lên báo cáo, để giữ tôn ti trật tự trong công hội. 
+
+Đình Tấn theo lời David xốc lên rồi kiểm tra những món đồ vật còn lại, làm xong thì hắn cũng không lấy bất cứ món đồ vật nào mà chỉ thản nhiên đáp lời David.
+
+-“Còn lại ngươi đem phân phát cho các anh em trong hội có đóng góp to lớn trong trận phòng thủ vừa qua đi. Coi như một điểm bồi thường an ủi cho bọn họ, hơn nữa kiểm tra lại trong đống trang bị thu hoạch có đồ vật nào phù hợp với mọi người không, nếu có thì cứ lấy ra đưa tặng cho từng người một món. Về phần chú Marc ở bên kia, ta sẽ trực tiếp đến nói chuyện.”
+
+Gật nhẹ đầu, Đình Tấn nói thêm vào, hào phóng vứt bỏ năm món trang bị Đồ Đỏ để tặng thưởng, quả thật là một phần thưởng giá trị không nhỏ, có thể tương đương với cả trăm ngàn $ tiền hiện thực. 
+
+Hắn là đang muốn khao thưởng toàn quân vì đã chiến thắng trận chiến phòng thủ cứ điểm vừa pha.
+
+Phải biết 1000 tên thành viên của [The Alliance], cùng với 1000 tên đội viên phụ trợ thuộc về đội Lính Đánh Thuê [The Alliance 2], trải qua một hồi chém giết khốc liệt với quái vật đã chết không ít người.
+
+Cơ hồ mỗi người đều đã tử vong ít nhất là một lần chứ không thể ít hơn. Tặng thưởng vật phẩm trang bị xem như là một cách để Đình Tấn bù đắp tinh thần tổn hại của bọn họ.
+
+Trải qua tận thế, làm một tên lính qun đi từng tầng dưới chót lên đến đội trưởng của một chi tiểu đội hơn 30 người, Đình Tấn hiểu được bất cứ thứ gì cũng không thể nào so sánh được với tinh thần đoàn kết, ủng hộ hết mình vì công hội.
+
+Chỉ có tạo dựng được niềm tin, bọn họ mới có khả năng cống hiến tất cả cho [The Alliance] nói chung, cũng như Đình Tấn nói riêng.
+
+Hơn nữa, một phần nguyên nhân khác cũng nằm ở chỗ chủng loại của năm món đồ vật kia. Tất cả đều là trang bị thuộc về loại hình nhanh nhẹn hoặc sức mạnh và phòng thủ, không có loại nào thiên về chủng loại tinh thần cho Đình Tấn sử dụng.
+
+Hắn giữ lại cũng không dùng được, còn chẳng thà đem ra ngoài làm quà tặng cho mọi người, vừa cổ vũ được tinh thần bọn họ, lại vừa thu hút được nhân tâm, rằng [The Alliance] tặng thưởng cực kì hậu hĩnh cho đội viên của họ.
+
+-“Tốt, ta đã biết. Nếu không có gì vậy ta trở về với anh em bàn luận việc tặng thưởng.”
+
+Trên gương mặt David không khỏi hiện lên một vẻ vui mừng, nội tâm tự nhủ thật sự không ai tâm lý bằng Hội Trưởng của mình. Đáng lẽ hắn đã muốn đưa ra yêu cầu xin đống trang bị cao cấp này để làm phần thưởng, nhưng không chờ hắn mở miệng thì Đình Tấn đã cấp phép cho rồi.
+
+Cho nên vừa nói dứt câu, David cũng không chờ được nữa, vội vàng xoay người muốn rời đi.
+
+-“Chờ đã!”
+
+Bất quá, chưa kịp để hắn bước ra khỏi bình đài thì đã bị Đình Tấn đột nhiên hô to gọi trở lại.
+
+-“Chuẩn bị phần thưởng luôn cho các anh em trong liên minh, dù sao bọn họ cũng đã không tiếc rẻ mà lưu lại giúp chúng ta.”
+
+Đang lúc David thắc mắc là chuyện gì thì Đình Tấn chậm rãi nhẹ giọng lên tiếng.
+
+Đúng vậy, đối với kẻ địch, hắn là tàn nhẫn không bao giờ tha thứ cho bất kì ai dám mưu đồ ám hại mình và người thân. Nhưng còn đối với những người đồng bạn, Đình Tấn chắc chắn sẽ không tiếc rẻ thứ gì cả.
+
+-“Nên làm, nên làm, ta đi làm ngay.”
+
+Bị Đình Tấn nhắc nhở, David mới sực nhớ đến những người đã hỗ trợ mình, đầu gật lia lịa như đánh trống, nói một câu đáp lại Đình Tấn rồi hắn tức thì đã xoay người rời đi, trở lại bên lửa trại với nhóm bốn người Ameerah, Louis, Terrell cùng Long.
+
+Ánh mắt Đình Tấn nhìn lại nơi đó, gương mặt bỗng dưng kéo lên, để lộ một nụ cười thỏa mãn, ấm áp. Nhìn cảnh tượng mọi người hò hét bưng chai rượu bia, cầm miếng thịt lớn vui nhảy theo điệu nhạc, bên cạnh đống lửa trại cháy bập bùng, một nơi chôn giấu ký ức sâu trong lòng hắn đã bị khơi dậy.
+
+Thấm thoát thời gian đã qua gần năm tháng trong trò chơi, hắn đã hoàn thành được bước đầu trong mục tiêu đã được đề ra sau khi trùng sinh trở về.
+
+Nội tâm cảm khái, nhưng cũng âm thầm vui mừng khôn xiết, Đình Tấn càng lấy đó làm quyết tâm để cho mình phấn đấu nhiều hơn.
+
+Keng! – Ngài nhận được một tin nhắn mật.
+
+Bất chợt, đang trong lúc Đình Tấn suy nghĩ vu vơ về tương lai thì âm thanh hệ thống thông báo tin nhắn liền vang lên.
+
+Không nhanh không chậm mở ra đọc tin nhắn, người gửi là Lý Uyên với nội dung nhắn nhủ hắn nhanh chóng trở về gặp nàng bàn chuyện.
+
+Thế là Đình Tấn phải vứt bỏ ý đồ thăm dò bình đài chuyển chức, mà theo cánh cổng ‘Thủy Tinh Thể’ quay trở lại [The Alliance Khách Sạn].
+
+…
+
+-“Thế nào? Gọi ta có chuyện gì?”
+
+Ngồi trên bàn làm việc, trong lúc Lý Uyên đang cặm cụi biên soạn, ký kết hợp đồng, bỗng nhiên cửa phòng bị người mở ra, thân ảnh chưa xuất hiện thì giọng nói của Đình Tấn đã đi vào trước.
+
+-“Không gọi chắc ngươi cũng không muốn trở về luôn rồi, chẳng lẽ ngươi không biết ngày mai mở bán kinh doanh sản phẩm của [The Alliance Y Dược] cần ngươi tới làm người phát biểu hay sao?”
+
+Lý Uyên cất giọng lành lạnh mà nói chuyện, trong khi đang tiếp tục cặm cụi viết, không thèm ngẩng đầu lên nhìn lấy Đình Tấn một cái. Thanh âm vẫn là như vậy nhu nhu, nhưng ngữ khí rõ ràng mang theo buồn bực ý.
+
+-“Ta biết, nhưng cũng không nghĩ chuyện này nên cần có ta ra mặt, dù sao cũng đã có người đại diện là ngươi rồi đúng không?”
+
+Không quá để ý đến thái độ của Lý Uyên, Đình Tấn cười mỉm đáp lời, tự nhiên đi đến ngồi xuống bộ ghế sa lông tiếp khách, được đặt bên cạnh bàn làm việc, đôi con ngươi chăm chăm nhìn lấy Lý Uyên.
+
+Tóc mái đen mun dài, rũ xuống hai bên gương mặt trái xoan, vầng trán cao rộng, cặp mắt thâm thúy, tất cả vẻ bề ngoài đồng dạng không có gì thay đổi cả. 
+
+Duy chỉ có khí chất của nàng lại càng trở nên uy nghiêm hơn trước rất nhiều, phỏng chừng trong thời gian dài làm công việc quản lý cả một tập đoàn công ty lớn đã vô thanh vô thức thay đổi khí chất của Lý Uyên đi một cách tự nhiên.
+
+Mặt khác, không biết là do chú tâm làm việc nhiều khiến nàng tiều tụy đi, hay là do bộ áo dài đỏ hồng bó sát cơ thể, vô tình đã làm cho dáng người Lý Uyên có đôi chút gầy đi thấy rõ. 
+
+Tuy vậy nhưng nó cũng không làm nàng xấu đi, mà còn khiến cho diện mạng của nàng có thêm mấy phần cao lãnh.
+
+Nhìn nhìn, ánh mắt của Đình Tấn vô thức trượt dài xuống đôi bánh bao căng phồng nhô lên bên dưới lớp áo lụa bóng loáng kia.
+
+-“Hừ!”
+
+Có vẻ như đã cảm giác được ánh mắt của Đình Tấn đang đặt tại vị trí không nên đặt trên người mình, Lý Uyên hừ lạnh trong miệng, tay ngừng bút ngồi thẳng người dậy, cặp mắt không hề yếu thế chống đối lại ánh mắt mang đầy tính xâm lược của Đình Tấn.
+
+-“Nếu vậy thì không tới cũng được, dù sao công việc lộ mặt ra cũng không quan trọng lắm, cùng lắm là tạo nên sức hút đối với một số fan cuồng của ngươi mà thôi. Ngoài ra có chuyện ta muốn nói với ngươi về Ba Đậu Đậu.
+
+Trong thời gian vừa qua thì nó cũng đã đi vào quỹ đạo hoạt động rất ổn thỏa rồi, nhưng mà ta không biết vì sao dạo gần đây mạng hệ thống của Ba Đậu Đậu thường xuyên gặp phải vấn đề trì trệ. Ta đoán là có người đang âm mưu mờ ám gì đó ở phía sau, ý đồ muốn công kích vào hệ thống, chiếm đoạt dữ liệu mã nguồn. Nếu ngươi có thời gian thì đến bên chỗ phòng kỹ thuật của Tim hỗ trợ một chút xem sao.”
+
+Đứng dậy đi chậm đến bên cạnh Đình Tấn, Lý Uyên đã khôi phục lại bộ dáng bình thường, nói chuyện cũng nhỏ nhẹ nhu hòa hơn nhiều.
+
+Dù sao chỉ là thoáng giận dỗi qua trong chốc lát, làm một người có lý trí, Lý Uyên cũng hiểu rõ Đình Tấn phải bận rộn rất nhiều công việc trợ giúp công hội phát triển.
+
+Mà nàng, nhiệm vụ duy nhất chính là quản lý toàn bộ hậu trường ở phía sau của [The Alliance].
+
+Cảm nhận đôi vòng tay của Lý Uyên choàng qua, ôm lấy cổ hắn từ phía sau, Đình Tấn cũng không kháng cự, mà lúc này nghe được lời của nàng thủ thỉ bên tai mình, khóe miệng Đình Tấn đột nhiên nhếch lên cười tà.
+
+Đưa tay lên vỗ vỗ tay Lý Uyên, ý muốn dùng hành ấy để trấn an nàng, đồng thời chậm rãi giải thích.
+
+-“Không có gì, ngươi cứ bảo với Tim yên tâm để đó, chỉ cần hệ thống của Ba Đậu Đậu còn vận động được như bình thường thì không có gì đáng để lo ngại, còn mấy chuyện khác không cần bận tâm tới làm gì.
+
+A, chút nữa quên mất, ta muốn nói cho ngươi sự việc quan trọng. Ta vừa phát hiện cứ điểm sau khi thành lập xong có thể xây dựng và nâng cấp các công trình kiến trúc, trong đó vật liệu gỗ cùng với Tấm Hợp Kim và Đá Nguyên Tố Hạt Nhân là nguyên vật liệu trọng yếu cần thiết…”
+
+-“Ý ngươi là nhu cầu của mấy thứ đó trong tương lai có khả năng tăng lên rất nhiều?”
+
+Lý Uyên không đợi cho Đình Tấn nói xong thì đã kinh hô chặn ngang lời nói của hắn, vẻ mặt nàng hiển lộ ra tràn ngập vẻ ngạc nhiên, cùng với hưng phấn. Làm một thương nhân hay một con buôn, Lý Uyên hiểu rõ, một khi nhu cầu tăng lên ắt hẳn sẽ có một số thành phần đứng ra đầu cơ để trục lợi về sau, mà nàng cũng không muốn bỏ qua cơ hội như vậy.
+
+-“…Cái đó… ta không biết… ý của ta chỉ là nhờ ngươi gom góp tích lũy lại để sau này có mà dùng… ưm… ưm…”
+
+Đình Tấn có chút bối rối ú ớ ngượng ngùng vì bị hiểu lầm, vừa định lên tiếng giải thích thì hắn đã bị Lý Uyên cho chặn họng thêm một lần nữa. 
+
+Nhưng lần này thứ đồ vật chặn lại hắn không phải lời nói, mà Lý Uyên dùng chính là cặp môi hoa anh đào của mình.
+
+Lý Uyên càng lúc càng ép sát, chồm thẳng lên nằm đè lên người hắn, cặp mắt nhắm nghiền, lôi mi dài có chút run rẩy không biết là do hưng phấn hay do ngượng ngùng.
+
+Khởi đầu Đình Tấn không ngừng lùi lại phía sau, mà Lý Uyên thì ngược lại, từng bước ép sát tới. Đến khi không còn chỗ để lùi được nữa, hắn lại muốn đẩy nàng ra, nhưng một đôi cánh tay như kìm sắt của nàng đang ôm lấy cổ hắn, khiến Đình Tấn càng bối rối.
+
+Sau một lúc, Đình Tấn chợt cảm thấy một đôi bàn tay đang men theo hai bên eo, di động xuống khu vực hang ổ chim cánh cụt của mình. Hắn lập tức trợn tròn mắt, dùng sức đẩy Lý Uyên ra khỏi người mình.
+
+‘Ách…’
+
+-“Ngươi làm việc đi, ta có chút công việc gấp cần phải đi làm ngay. Gặp lại sau…”
+
+Có chút bối rối dưới cặp mắt kinh ngạc của Lý Uyên đang nhìn mình, Đình Tấn vội vội vàng vàng bỏ lại một câu, thanh âm chưa dứt thì đã xoay người bỏ của chạy lấy người ra khỏi phòng.
+
+-“Tên óc trâu này…”
+
+Mắt nhìn theo bóng lưng đi khuất dần của Đình Tấn, Lý Uyên phẫn hận đến nghiến răng nghiến lợi nói thầm trong miệng, gương mặt đỏ hồng như hai cái mặt rời vừa nổi lên khi bình mình.

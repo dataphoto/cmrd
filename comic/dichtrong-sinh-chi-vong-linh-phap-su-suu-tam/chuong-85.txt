@@ -1,0 +1,541 @@
+Một đêm cứ như vậy chậm rãi trôi qua, sáng hôm sau khi Đình Tấn tu luyện xong vòng thứ 3 "Minh Tưởng Thuật" thì đồng hồ cũng vừa điểm tới 6 giờ đúng.
+
+Đội Lính Đánh Thuê [The Alliance] (Đội trưởng) [92450/300.000]
+
+---- Thông số ----
+
+Lực lượng: 107
+
+Nhanh nhẹn: 83
+
+Thể lực: 106 (+1)
+
+Tinh thần: 306 (+6)
+
+---- Chi tiết ----
+
+Level: 21
+
+HP: 6754/6754 (+12.7/s)
+
+MP: 4494/4494(+27.4/s)
+
+EXP: 225190/928617
+
+Sát thương vật lý: 101 – 101
+
+Sát thương phép thuật: 405– 405
+
+Phòng thủ vật lý: 9.2
+
+Phòng thủ pháp thuật: 23
+
+Nghĩ tới hôm qua Tái Tạo kỹ năng đạt tới giới hạn, Đình Tấn không khỏi đau đầu một hồi. Nếu như ở hiện thực hắn sử dụng tinh thần để triệu hồi thì chắc sẽ có thể bù đắp được việc thiếu HP.
+
+Nhưng MP tiêu hao quá nhiều lại không có sách của Gauss hỗ trợ giảm thiểu một nửa lượng MP tiêu hao thì Đình Tấn cũng không duy trì được bao lâu. Lắc đầu cười khổ, cuối cùng vẫn là đường cụt. 
+
+Dứt bỏ suy nghĩ vẩn vơ, Đình Tấn xoay người rời đi khỏi phòng. Vì là ở không gian phòng riêng nên Đình Tấn cũng không gọi mọi người được, hắn chỉ có thể xuống đại sảnh ngồi chờ đợi.
+
+Người chơi ra vào đều chú ý đến Đình Tấn, nhiều người còn tò mò lại gần chào hỏi thậm chí là hối lộ để xin vào [The Alliance]. Nhưng tất cả đều bị Đình Tấn nhã nhặn từ chối.
+
+Gần 1 giờ sau, cả nhóm mới tụ họp đầy đủ. Đình Tấn dẫn đầu đi đến Đệ Nhất Quán để ăn sáng, thuận tiện kiểm tra tình hình kinh doanh. Vì là sát bên nhau nên cũng không tốn thời gian gì nhiều.
+
+Hiện tại đã 7 giờ sáng nên quán ăn vẫn còn đông kín người. Lý Uyên cũng không rãnh rỗi, dfpP62xZ nàng chức nghiệp phụ là đầu bếp và may mặc nên thuận tiện cũng lao vào bếp để chuẩn bị các món ăn.
+
+Công việc nấu ăn cũng không phức tạp lắm, chỉ cần mua sách công thức của từng món ở NPC dạy nghề, sau đó sử dụng hệ thống để học tập thì liền có thể thông thạo chế biến món ăn.
+
+Một hồi sau, trong một căn phòng ăn ở tầng thứ 3. Cả nhóm ngồi trên đất xoay quanh 2 chiếc bàn ăn dài ghép lại với nhau. Lý Uyên vừa ăn vừa thuận tiện nói thêm một số chuyện nàng biết được về lần săn Boss lần này của [The Throne].
+
+- Ta nghe nói hôm qua bọn người [The Throne] đã bắt đầu tập kết hướng về phương bắc di chuyển dần rồi. Có lẽ ở khoảng giữa trưa họ sẽ bắt đầu tiến công Boss.
+
+Đình Tấn chăm chú lắng nghe cùng suy tính. Nếu như Lý Uyên tình báo chính xác vậy thì hắn phải nhanh chóng dẫn đội đi tiếp cận khu vực để quan sát địa hình, bắt đầu bố trí mai phục.
+
+Ngẩng đầu lên nhìn mọi người xung quanh bàn ăn, Đình Tấn bắt đầu nghiêm túc tuyên bố:
+
+- Mọi người ăn nhanh đi. Chúng ta phải tranh thủ thời gian đi tới mục tiêu trước bọn [The Throne] nữa.
+
+- David ngươi bây giờ dẫn dắt Louis đi chuyển chức đi. Xong rồi thì trở lại làm luôn thí luyện Lính Đánh Thuê. Một chút lên đường rồi vừa đi vừa ăn sau.
+
+David cũng không lề mề nhanh chóng kéo Louis đi. Nửa giờ sau, Đình Tấn dẫn đầu cả đội đi đến Đại Sảnh Lính Đánh Thuê. Hôm qua dù đã xem qua một lần, hắn vẫn cẩn thận kiểm tra lại danh sách nhiệm vụ rồi mới quyết định nhận một cái ở hướng bắc EL Thành cho tiện đường.
+
+Thu hoạch ngà voi 
+
+Giới thiệu: Phương bắc đột nhiên xuất hiện rất nhiều con voi đột biến về gen thủy tổ Mammuthus. Ngà của chúng có rất nhiều tác dụng lớn cho EL Thành, xin mời người chơi nhanh chóng đi tiêu diệt chúng và thu thập ngà voi về cống hiến.
+
+Yêu cầu: Tiêu diệt và thu thập 200 cặp ngà voi.
+
+Khuyến cáo: Cấp A trở lên
+
+Phần thưởng: 75000 Kinh nghiệm, 37000 tiền đồng, 15000 Điểm Lính đánh thuê.
+
+Keng! - Chúc mừng, ngài đã nhận nhiệm vụ “Thu hoạch ngà voi” thành công.
+
+Ngay khi nhận nhiệm vụ xong, không quá lâu sau đó thì Louis cũng đã hoàn thành chuyển chức cùng với thí luyện Lính Đánh Thuê của mình. Hắn lựa chọn chức nghiệp Thợ Săn, với vũ khí là một con dao găm và một chiếc nỏ nhỏ có gắn một cuộn tên tự động bên dưới. Chắc có lẽ vì cái nghề săn thú đã nuôi sống hắn nhiều năm nên Louis có thiện cảm với nó nhiều hơn hết.
+
+Đình Tấn cũng không lề mề tốn thời gian nữa, lập tức dẫn đội hướng về phương bắc EL Thành mà đi. Vì EL Thành không có cổng phía bắc nên cả nhóm đều phải đi cửa đông thành rồi vòng qua. Trên đường đi, thuận tiện ghé ngang qua hiệu thuốc để chuẩn bị thêm một số thuốc và vật dụng cần thiết.
+
+Ra khỏi thành khoảng 1km Đình Tấn triệu hồi ra 8 con Bộ Xương Chiến Sĩ để hộ tống, đỡ phải mất công động tay khi bắt gặp những con quái vật lẻ tẻ. Đây là vì thuận tiện rèn luyện Tái Tạo kỹ năng, lại kiếm thêm một ít điểm kinh nghiệm cho Louis.
+
+Theo như tọa độ của Lý Uyên gửi cho Đình Tấn, lần này mục tiêu phải băng qua một khu rừng rậm khoảng 20km đi đến vùng thảo nguyên. Vì càng đi xa khỏi thành, đẳng cấp quái vật tăng dần lên cho nên kinh nghiệm cũng tăng theo.
+
+Louis chỉ mới 10 cấp, đi theo cả nhóm tuy EXP có bị giảm đi do chia ra cho nhiều người nhưng chênh lệch đẳng cấp nên lại bù đắp lại được 1 phần. Thăng cấp vẫn là nhanh hơn rất nhiều lần so với hắn phải tự một mình đi luyện cấp. 
+
+3 giờ sau… Ngay khi vừa ra khỏi khu rừng, Louis đẳng cấp từ 10 đã tăng lên đến 15 cấp.
+
+Ròng rã tăng lên hơn 244.000 điểm kinh nghiệm, cũng làm cho Đình Tấn ống kinh nghiệm được lắp đầy một nửa. HP hạn mức cao nhất cũng chạm đến 7062 điểm, là giới hạn Tái Tạo kỹ năng cho phép. 
+
+3 người còn lại do trước đó vận chuyển tiếp tế bị chết và mất đi 50% kinh nghiệm nên từ hôm qua đến nay chỉ mới đủ bù đắp lại số kinh nghiệm đã bị tổn thất của họ thôi.
+
+Đi ra khỏi rừng chính là một vùng thảo nguyên mênh mông. Gió thổi, cỏ lay không khí phảng phất mang theo một mùi cỏ và hơi nước làm cho tinh thần người ta trở nên sảng khoái. Bầu trời nhiều mây, lại thêm cây cối cũng khá nhiều nên dù hiện tại đã hơn 11 giờ trưa nhưng không khí vẫn không nóng lắm.
+
+Đình Tấn bởi vì không thể đi theo đường thẳng đến mục tiêu, cho nên chỉ có thể tiêu tốn thêm một chút thời gian để đi đường vòng. Bất chợt trên đường đi, Đình Tấn phát hiện phía trước khoảng 50m có những thân ảnh to lớn đang nhàn nhã đi dạo quanh bên cạnh một bờ hồ.
+
+Mammuthus Trogon
+
+Đẳng cấp: 22
+
+HP: 3000/3000
+
+Giới thiệu: Giống loài đã tuyệt chủng được tái sinh lại nhờ công nghệ.
+
+Kỹ năng: Xung Phong, Hất Tung
+
+Mammuthus Trogon (Tinh Anh)
+
+Đẳng cấp: 24
+
+HP: 3750/3750
+
+Kỹ năng: Xung Phong, Địa Chấn, Hất Tung
+
+- Đẳng cấp thật cao mà, lại còn có tinh anh nữa. Thảo nào phải yêu cầu cấp A Lính Đánh Thuê.
+
+Nhìn những con voi khổng lồ với cặp ngà dài hơn 1m kia, Đình Tấn không khỏi cảm khái thì thào nói. Nhưng tay hắn cũng không chậm trễ mà mang lên nhẫn Bjorketorp rồi bắt đầu Triệu Hồi vong linh.
+
+“Triệu Hồi Bộ Xương Chiến Sĩ” (x68)
+
+“Triệu Hồi Tang Thi” (x52)
+
+“Triệu Hồi Bộ Xương Cung Thủ” (34)
+
+Phía trước có khoảng 85 con Mammuthus, Đình Tấn cũng không vội cho bọn Tang Thi xông lên trước. Hắn ra lệnh cho đội Bộ Xương Chiến Sĩ dàn trận hình chữ nhật, Bộ Xương Cung Thủ xếp thành hàng đứng phía sau bắt đầu bắn tên.
+
+“Phập phập…” 
+
+-685
+
+-1360 (Điểm yếu)
+
+…
+
+“Rống…”
+
+Những con Mammuthus bị mũi tên xương bắn trúng, đau đớn mà ngửa đầu lên trời gào rú. Sát thương quá khủng bố lại thêm thân thể to lớn nên rất khó mà bắn hụt được, đa số mũi tên đều trúng mục tiêu. Một vài con xui xẻo, cùng lúc bị bắn trúng 4-5 mũi tên làm cho chúng vẫn chưa kịp kêu gào thì đã ngã xuống cống hiến điểm kinh nghiệm.
+
+EXP +1100
+
+EXP +3120
+
+…
+
+Mặc dù bị bọn Bộ Xương Cung Thủ bắn tên công kích liên tục nhưng đàn voi cũng chỉ bị giết khoảng 5-10 con. Số còn lại vẫn tiếp tục xông tới. 
+
+Đình Tấn nhìn bọn Mammuthus nhanh chóng xung phong mà đến, ngay khi khoảng cách chỉ còn 30m. Một màn khói đen từ từ lan rộng ra 60m vuông quanh khu vực bờ hồ.
+
+"Tử Vong Màn Che" 
+
+-780 -975…
+
+Từng con số màu đỏ nổi lên trên đầu bọn Mammuthus như một trận thủy triều đỏ. Tốc độ cùng sức phòng thủ của chúng bị giảm lại rõ rệt. 
+
+“Rầm rầm”
+
+-245 (Đón đỡ) 
+
+-1225
+
+…
+
+Tốc độ xông tới cũng không cao nhưng thể trọng cùng sức mạnh bọn Mammuthus quá lớn làm cho đội Bộ Xương Chiến Sĩ rất vất vả chống đỡ mới ngăn chặn được bước tiến của chúng. 
+
+Thế nhưng những cái ngà voi vừa dài vừa sắc nhọn kia rất khó để dùng khiên chống đỡ hết. Nhiều con Bộ Xương Chiến Sĩ bị chúng đâm xuyên qua người hất tung lên.
+
+Đình Tấn ngay khi vừa trông thấy 2 bên va chạm thì lập tức cho Tang Thi xông lên. Chúng leo lên người cũng những con Bộ Xương Chiến Sĩ rồi bò lên trên lưng của đám Mammuthus, bắt đầu cắn xé.
+
+Sát thương từ đám Bộ Xương Cung Thủ cũng rất khả quan, mỗi lượt bắn đều sẽ có một đám Mammuthus ngã xuống cống hiến điểm kinh nghiệm.
+
+Lúc này ở phía sau Đình Tấn 4 người Ameerah, David, Terrell và Louis đều đã xông lên tấn công. Bọn họ vòng ra bên cánh phải của đám Bộ Xương Chiến Sĩ mà công kích những con Mammuthus ở phía ngoài cùng.
+
+Terrell phong cách vẫn là "Cuồng Nộ" xông vào, dùng cách thô bạo nhất mà chiến đấu. Mặc dù nhanh nhẹn không cao nhưng né tránh những cái vòi voi quét tới hay những cú ủi, hất tung của đám Mammuthus vẫn là ổn thỏa làm được.
+
+David và Ameerah cũng là lợi dụng điểm yếu thân thể to lớn, hành động bất tiện mà leo lên lưng của chúng rồi liên tục công kích. Louis cũng theo sát ở phía sau hai người. 
+
+Hắn phong cách chiến đấu rất tàn nhẫn, thâm độc. Với gương mặt lạnh lùng cùng đôi mắt bình tĩnh, Louis quan sát lấy từng động tác của con Mammuthus để tìm ra sơ hở như một tên thợ săn thực thụ.
+
+Một tay hắn cầm nỏ có lắp sẵn một cuộn tên, 1 tay khác thì cầm dao găm di chuyển xung quanh thân thể to lớn của con Mammuthus. Louis chuyên dùng nỏ nhắm vào những bộ vị mềm yếu của nó như mắt, vòi voi, bụng, miệng… mà bắn vào. 
+
+Mỗi khi bị con Mammuthus nào tập trung tấn công thì Louis lập tức sẽ vòng ra phía sau. Dùng dao găm như một cái móc, đâm vào sâu trong da thịt của nó làm điểm tựa mà bật người leo lên lưng nó.
+
+Đình Tấn vừa triệu hồi vong linh vừa quan sát cả đám đồng đội chiến đấu. Hắn đặc biệt chú ý Louis vì thân thể nhanh nhẹn cũng rất có quy luật di chuyển. Thỏa mãn gật đầu, Đình Tấn không khỏi nghĩ thầm:
+
+- "Tên này kỹ xảo và phản ứng đều rất tốt, nhưng cũng chỉ là bản năng thôi vẫn còn phải mài dũa lại."Một đêm cứ như vậy chậm rãi trôi qua, sáng hôm sau khi Đình Tấn tu luyện xong vòng thứ 3 "Minh Tưởng Thuật" thì đồng hồ cũng vừa điểm tới 6 giờ đúng.
+
+Đội Lính Đánh Thuê [The Alliance] (Đội trưởng) [92450/300.000]
+
+---- Thông số ----
+
+Lực lượng: 107
+
+Nhanh nhẹn: 83
+
+Thể lực: 106 (+1)
+
+Tinh thần: 306 (+6)
+
+---- Chi tiết ----
+
+Level: 21
+
+HP: 6754/6754 (+12.7/s)
+
+MP: 4494/4494(+27.4/s)
+
+EXP: 225190/928617
+
+Sát thương vật lý: 101 – 101
+
+Sát thương phép thuật: 405– 405
+
+Phòng thủ vật lý: 9.2
+
+Phòng thủ pháp thuật: 23
+
+Nghĩ tới hôm qua Tái Tạo kỹ năng đạt tới giới hạn, Đình Tấn không khỏi đau đầu một hồi. Nếu như ở hiện thực hắn sử dụng tinh thần để triệu hồi thì chắc sẽ có thể bù đắp được việc thiếu HP.
+
+Nhưng MP tiêu hao quá nhiều lại không có sách của Gauss hỗ trợ giảm thiểu một nửa lượng MP tiêu hao thì Đình Tấn cũng không duy trì được bao lâu. Lắc đầu cười khổ, cuối cùng vẫn là đường cụt. 
+
+Dứt bỏ suy nghĩ vẩn vơ, Đình Tấn xoay người rời đi khỏi phòng. Vì là ở không gian phòng riêng nên Đình Tấn cũng không gọi mọi người được, hắn chỉ có thể xuống đại sảnh ngồi chờ đợi.
+
+Người chơi ra vào đều chú ý đến Đình Tấn, nhiều người còn tò mò lại gần chào hỏi thậm chí là hối lộ để xin vào [The Alliance]. Nhưng tất cả đều bị Đình Tấn nhã nhặn từ chối.
+
+Gần 1 giờ sau, cả nhóm mới tụ họp đầy đủ. Đình Tấn dẫn đầu đi đến Đệ Nhất Quán để ăn sáng, thuận tiện kiểm tra tình hình kinh doanh. Vì là sát bên nhau nên cũng không tốn thời gian gì nhiều.
+
+Hiện tại đã 7 giờ sáng nên quán ăn vẫn còn đông kín người. Lý Uyên cũng không rãnh rỗi, dfpP62xZ nàng chức nghiệp phụ là đầu bếp và may mặc nên thuận tiện cũng lao vào bếp để chuẩn bị các món ăn.
+
+Công việc nấu ăn cũng không phức tạp lắm, chỉ cần mua sách công thức của từng món ở NPC dạy nghề, sau đó sử dụng hệ thống để học tập thì liền có thể thông thạo chế biến món ăn.
+
+Một hồi sau, trong một căn phòng ăn ở tầng thứ 3. Cả nhóm ngồi trên đất xoay quanh 2 chiếc bàn ăn dài ghép lại với nhau. Lý Uyên vừa ăn vừa thuận tiện nói thêm một số chuyện nàng biết được về lần săn Boss lần này của [The Throne].
+
+- Ta nghe nói hôm qua bọn người [The Throne] đã bắt đầu tập kết hướng về phương bắc di chuyển dần rồi. Có lẽ ở khoảng giữa trưa họ sẽ bắt đầu tiến công Boss.
+
+Đình Tấn chăm chú lắng nghe cùng suy tính. Nếu như Lý Uyên tình báo chính xác vậy thì hắn phải nhanh chóng dẫn đội đi tiếp cận khu vực để quan sát địa hình, bắt đầu bố trí mai phục.
+
+Ngẩng đầu lên nhìn mọi người xung quanh bàn ăn, Đình Tấn bắt đầu nghiêm túc tuyên bố:
+
+- Mọi người ăn nhanh đi. Chúng ta phải tranh thủ thời gian đi tới mục tiêu trước bọn [The Throne] nữa.
+
+- David ngươi bây giờ dẫn dắt Louis đi chuyển chức đi. Xong rồi thì trở lại làm luôn thí luyện Lính Đánh Thuê. Một chút lên đường rồi vừa đi vừa ăn sau.
+
+David cũng không lề mề nhanh chóng kéo Louis đi. Nửa giờ sau, Đình Tấn dẫn đầu cả đội đi đến Đại Sảnh Lính Đánh Thuê. Hôm qua dù đã xem qua một lần, hắn vẫn cẩn thận kiểm tra lại danh sách nhiệm vụ rồi mới quyết định nhận một cái ở hướng bắc EL Thành cho tiện đường.
+
+Thu hoạch ngà voi 
+
+Giới thiệu: Phương bắc đột nhiên xuất hiện rất nhiều con voi đột biến về gen thủy tổ Mammuthus. Ngà của chúng có rất nhiều tác dụng lớn cho EL Thành, xin mời người chơi nhanh chóng đi tiêu diệt chúng và thu thập ngà voi về cống hiến.
+
+Yêu cầu: Tiêu diệt và thu thập 200 cặp ngà voi.
+
+Khuyến cáo: Cấp A trở lên
+
+Phần thưởng: 75000 Kinh nghiệm, 37000 tiền đồng, 15000 Điểm Lính đánh thuê.
+
+Keng! - Chúc mừng, ngài đã nhận nhiệm vụ “Thu hoạch ngà voi” thành công.
+
+Ngay khi nhận nhiệm vụ xong, không quá lâu sau đó thì Louis cũng đã hoàn thành chuyển chức cùng với thí luyện Lính Đánh Thuê của mình. Hắn lựa chọn chức nghiệp Thợ Săn, với vũ khí là một con dao găm và một chiếc nỏ nhỏ có gắn một cuộn tên tự động bên dưới. Chắc có lẽ vì cái nghề săn thú đã nuôi sống hắn nhiều năm nên Louis có thiện cảm với nó nhiều hơn hết.
+
+Đình Tấn cũng không lề mề tốn thời gian nữa, lập tức dẫn đội hướng về phương bắc EL Thành mà đi. Vì EL Thành không có cổng phía bắc nên cả nhóm đều phải đi cửa đông thành rồi vòng qua. Trên đường đi, thuận tiện ghé ngang qua hiệu thuốc để chuẩn bị thêm một số thuốc và vật dụng cần thiết.
+
+Ra khỏi thành khoảng 1km Đình Tấn triệu hồi ra 8 con Bộ Xương Chiến Sĩ để hộ tống, đỡ phải mất công động tay khi bắt gặp những con quái vật lẻ tẻ. Đây là vì thuận tiện rèn luyện Tái Tạo kỹ năng, lại kiếm thêm một ít điểm kinh nghiệm cho Louis.
+
+Theo như tọa độ của Lý Uyên gửi cho Đình Tấn, lần này mục tiêu phải băng qua một khu rừng rậm khoảng 20km đi đến vùng thảo nguyên. Vì càng đi xa khỏi thành, đẳng cấp quái vật tăng dần lên cho nên kinh nghiệm cũng tăng theo.
+
+Louis chỉ mới 10 cấp, đi theo cả nhóm tuy EXP có bị giảm đi do chia ra cho nhiều người nhưng chênh lệch đẳng cấp nên lại bù đắp lại được 1 phần. Thăng cấp vẫn là nhanh hơn rất nhiều lần so với hắn phải tự một mình đi luyện cấp. 
+
+3 giờ sau… Ngay khi vừa ra khỏi khu rừng, Louis đẳng cấp từ 10 đã tăng lên đến 15 cấp.
+
+Ròng rã tăng lên hơn 244.000 điểm kinh nghiệm, cũng làm cho Đình Tấn ống kinh nghiệm được lắp đầy một nửa. HP hạn mức cao nhất cũng chạm đến 7062 điểm, là giới hạn Tái Tạo kỹ năng cho phép. 
+
+3 người còn lại do trước đó vận chuyển tiếp tế bị chết và mất đi 50% kinh nghiệm nên từ hôm qua đến nay chỉ mới đủ bù đắp lại số kinh nghiệm đã bị tổn thất của họ thôi.
+
+Đi ra khỏi rừng chính là một vùng thảo nguyên mênh mông. Gió thổi, cỏ lay không khí phảng phất mang theo một mùi cỏ và hơi nước làm cho tinh thần người ta trở nên sảng khoái. Bầu trời nhiều mây, lại thêm cây cối cũng khá nhiều nên dù hiện tại đã hơn 11 giờ trưa nhưng không khí vẫn không nóng lắm.
+
+Đình Tấn bởi vì không thể đi theo đường thẳng đến mục tiêu, cho nên chỉ có thể tiêu tốn thêm một chút thời gian để đi đường vòng. Bất chợt trên đường đi, Đình Tấn phát hiện phía trước khoảng 50m có những thân ảnh to lớn đang nhàn nhã đi dạo quanh bên cạnh một bờ hồ.
+
+Mammuthus Trogon
+
+Đẳng cấp: 22
+
+HP: 3000/3000
+
+Giới thiệu: Giống loài đã tuyệt chủng được tái sinh lại nhờ công nghệ.
+
+Kỹ năng: Xung Phong, Hất Tung
+
+Mammuthus Trogon (Tinh Anh)
+
+Đẳng cấp: 24
+
+HP: 3750/3750
+
+Kỹ năng: Xung Phong, Địa Chấn, Hất Tung
+
+- Đẳng cấp thật cao mà, lại còn có tinh anh nữa. Thảo nào phải yêu cầu cấp A Lính Đánh Thuê.
+
+Nhìn những con voi khổng lồ với cặp ngà dài hơn 1m kia, Đình Tấn không khỏi cảm khái thì thào nói. Nhưng tay hắn cũng không chậm trễ mà mang lên nhẫn Bjorketorp rồi bắt đầu Triệu Hồi vong linh.
+
+“Triệu Hồi Bộ Xương Chiến Sĩ” (x68)
+
+“Triệu Hồi Tang Thi” (x52)
+
+“Triệu Hồi Bộ Xương Cung Thủ” (34)
+
+Phía trước có khoảng 85 con Mammuthus, Đình Tấn cũng không vội cho bọn Tang Thi xông lên trước. Hắn ra lệnh cho đội Bộ Xương Chiến Sĩ dàn trận hình chữ nhật, Bộ Xương Cung Thủ xếp thành hàng đứng phía sau bắt đầu bắn tên.
+
+“Phập phập…” 
+
+-685
+
+-1360 (Điểm yếu)
+
+…
+
+“Rống…”
+
+Những con Mammuthus bị mũi tên xương bắn trúng, đau đớn mà ngửa đầu lên trời gào rú. Sát thương quá khủng bố lại thêm thân thể to lớn nên rất khó mà bắn hụt được, đa số mũi tên đều trúng mục tiêu. Một vài con xui xẻo, cùng lúc bị bắn trúng 4-5 mũi tên làm cho chúng vẫn chưa kịp kêu gào thì đã ngã xuống cống hiến điểm kinh nghiệm.
+
+EXP +1100
+
+EXP +3120
+
+…
+
+Mặc dù bị bọn Bộ Xương Cung Thủ bắn tên công kích liên tục nhưng đàn voi cũng chỉ bị giết khoảng 5-10 con. Số còn lại vẫn tiếp tục xông tới. 
+
+Đình Tấn nhìn bọn Mammuthus nhanh chóng xung phong mà đến, ngay khi khoảng cách chỉ còn 30m. Một màn khói đen từ từ lan rộng ra 60m vuông quanh khu vực bờ hồ.
+
+"Tử Vong Màn Che" 
+
+-780 -975…
+
+Từng con số màu đỏ nổi lên trên đầu bọn Mammuthus như một trận thủy triều đỏ. Tốc độ cùng sức phòng thủ của chúng bị giảm lại rõ rệt. 
+
+“Rầm rầm”
+
+-245 (Đón đỡ) 
+
+-1225
+
+…
+
+Tốc độ xông tới cũng không cao nhưng thể trọng cùng sức mạnh bọn Mammuthus quá lớn làm cho đội Bộ Xương Chiến Sĩ rất vất vả chống đỡ mới ngăn chặn được bước tiến của chúng. 
+
+Thế nhưng những cái ngà voi vừa dài vừa sắc nhọn kia rất khó để dùng khiên chống đỡ hết. Nhiều con Bộ Xương Chiến Sĩ bị chúng đâm xuyên qua người hất tung lên.
+
+Đình Tấn ngay khi vừa trông thấy 2 bên va chạm thì lập tức cho Tang Thi xông lên. Chúng leo lên người cũng những con Bộ Xương Chiến Sĩ rồi bò lên trên lưng của đám Mammuthus, bắt đầu cắn xé.
+
+Sát thương từ đám Bộ Xương Cung Thủ cũng rất khả quan, mỗi lượt bắn đều sẽ có một đám Mammuthus ngã xuống cống hiến điểm kinh nghiệm.
+
+Lúc này ở phía sau Đình Tấn 4 người Ameerah, David, Terrell và Louis đều đã xông lên tấn công. Bọn họ vòng ra bên cánh phải của đám Bộ Xương Chiến Sĩ mà công kích những con Mammuthus ở phía ngoài cùng.
+
+Terrell phong cách vẫn là "Cuồng Nộ" xông vào, dùng cách thô bạo nhất mà chiến đấu. Mặc dù nhanh nhẹn không cao nhưng né tránh những cái vòi voi quét tới hay những cú ủi, hất tung của đám Mammuthus vẫn là ổn thỏa làm được.
+
+David và Ameerah cũng là lợi dụng điểm yếu thân thể to lớn, hành động bất tiện mà leo lên lưng của chúng rồi liên tục công kích. Louis cũng theo sát ở phía sau hai người. 
+
+Hắn phong cách chiến đấu rất tàn nhẫn, thâm độc. Với gương mặt lạnh lùng cùng đôi mắt bình tĩnh, Louis quan sát lấy từng động tác của con Mammuthus để tìm ra sơ hở như một tên thợ săn thực thụ.
+
+Một tay hắn cầm nỏ có lắp sẵn một cuộn tên, 1 tay khác thì cầm dao găm di chuyển xung quanh thân thể to lớn của con Mammuthus. Louis chuyên dùng nỏ nhắm vào những bộ vị mềm yếu của nó như mắt, vòi voi, bụng, miệng… mà bắn vào. 
+
+Mỗi khi bị con Mammuthus nào tập trung tấn công thì Louis lập tức sẽ vòng ra phía sau. Dùng dao găm như một cái móc, đâm vào sâu trong da thịt của nó làm điểm tựa mà bật người leo lên lưng nó.
+
+Đình Tấn vừa triệu hồi vong linh vừa quan sát cả đám đồng đội chiến đấu. Hắn đặc biệt chú ý Louis vì thân thể nhanh nhẹn cũng rất có quy luật di chuyển. Thỏa mãn gật đầu, Đình Tấn không khỏi nghĩ thầm:
+
+- "Tên này kỹ xảo và phản ứng đều rất tốt, nhưng cũng chỉ là bản năng thôi vẫn còn phải mài dũa lại."Một đêm cứ như vậy chậm rãi trôi qua, sáng hôm sau khi Đình Tấn tu luyện xong vòng thứ 3 "Minh Tưởng Thuật" thì đồng hồ cũng vừa điểm tới 6 giờ đúng.
+
+Đội Lính Đánh Thuê [The Alliance] (Đội trưởng) [92450/300.000]
+
+---- Thông số ----
+
+Lực lượng: 107
+
+Nhanh nhẹn: 83
+
+Thể lực: 106 (+1)
+
+Tinh thần: 306 (+6)
+
+---- Chi tiết ----
+
+Level: 21
+
+HP: 6754/6754 (+12.7/s)
+
+MP: 4494/4494(+27.4/s)
+
+EXP: 225190/928617
+
+Sát thương vật lý: 101 – 101
+
+Sát thương phép thuật: 405– 405
+
+Phòng thủ vật lý: 9.2
+
+Phòng thủ pháp thuật: 23
+
+Nghĩ tới hôm qua Tái Tạo kỹ năng đạt tới giới hạn, Đình Tấn không khỏi đau đầu một hồi. Nếu như ở hiện thực hắn sử dụng tinh thần để triệu hồi thì chắc sẽ có thể bù đắp được việc thiếu HP.
+
+Nhưng MP tiêu hao quá nhiều lại không có sách của Gauss hỗ trợ giảm thiểu một nửa lượng MP tiêu hao thì Đình Tấn cũng không duy trì được bao lâu. Lắc đầu cười khổ, cuối cùng vẫn là đường cụt. 
+
+Dứt bỏ suy nghĩ vẩn vơ, Đình Tấn xoay người rời đi khỏi phòng. Vì là ở không gian phòng riêng nên Đình Tấn cũng không gọi mọi người được, hắn chỉ có thể xuống đại sảnh ngồi chờ đợi.
+
+Người chơi ra vào đều chú ý đến Đình Tấn, nhiều người còn tò mò lại gần chào hỏi thậm chí là hối lộ để xin vào [The Alliance]. Nhưng tất cả đều bị Đình Tấn nhã nhặn từ chối.
+
+Gần 1 giờ sau, cả nhóm mới tụ họp đầy đủ. Đình Tấn dẫn đầu đi đến Đệ Nhất Quán để ăn sáng, thuận tiện kiểm tra tình hình kinh doanh. Vì là sát bên nhau nên cũng không tốn thời gian gì nhiều.
+
+Hiện tại đã 7 giờ sáng nên quán ăn vẫn còn đông kín người. Lý Uyên cũng không rãnh rỗi, dfpP62xZ nàng chức nghiệp phụ là đầu bếp và may mặc nên thuận tiện cũng lao vào bếp để chuẩn bị các món ăn.
+
+Công việc nấu ăn cũng không phức tạp lắm, chỉ cần mua sách công thức của từng món ở NPC dạy nghề, sau đó sử dụng hệ thống để học tập thì liền có thể thông thạo chế biến món ăn.
+
+Một hồi sau, trong một căn phòng ăn ở tầng thứ 3. Cả nhóm ngồi trên đất xoay quanh 2 chiếc bàn ăn dài ghép lại với nhau. Lý Uyên vừa ăn vừa thuận tiện nói thêm một số chuyện nàng biết được về lần săn Boss lần này của [The Throne].
+
+- Ta nghe nói hôm qua bọn người [The Throne] đã bắt đầu tập kết hướng về phương bắc di chuyển dần rồi. Có lẽ ở khoảng giữa trưa họ sẽ bắt đầu tiến công Boss.
+
+Đình Tấn chăm chú lắng nghe cùng suy tính. Nếu như Lý Uyên tình báo chính xác vậy thì hắn phải nhanh chóng dẫn đội đi tiếp cận khu vực để quan sát địa hình, bắt đầu bố trí mai phục.
+
+Ngẩng đầu lên nhìn mọi người xung quanh bàn ăn, Đình Tấn bắt đầu nghiêm túc tuyên bố:
+
+- Mọi người ăn nhanh đi. Chúng ta phải tranh thủ thời gian đi tới mục tiêu trước bọn [The Throne] nữa.
+
+- David ngươi bây giờ dẫn dắt Louis đi chuyển chức đi. Xong rồi thì trở lại làm luôn thí luyện Lính Đánh Thuê. Một chút lên đường rồi vừa đi vừa ăn sau.
+
+David cũng không lề mề nhanh chóng kéo Louis đi. Nửa giờ sau, Đình Tấn dẫn đầu cả đội đi đến Đại Sảnh Lính Đánh Thuê. Hôm qua dù đã xem qua một lần, hắn vẫn cẩn thận kiểm tra lại danh sách nhiệm vụ rồi mới quyết định nhận một cái ở hướng bắc EL Thành cho tiện đường.
+
+Thu hoạch ngà voi 
+
+Giới thiệu: Phương bắc đột nhiên xuất hiện rất nhiều con voi đột biến về gen thủy tổ Mammuthus. Ngà của chúng có rất nhiều tác dụng lớn cho EL Thành, xin mời người chơi nhanh chóng đi tiêu diệt chúng và thu thập ngà voi về cống hiến.
+
+Yêu cầu: Tiêu diệt và thu thập 200 cặp ngà voi.
+
+Khuyến cáo: Cấp A trở lên
+
+Phần thưởng: 75000 Kinh nghiệm, 37000 tiền đồng, 15000 Điểm Lính đánh thuê.
+
+Keng! - Chúc mừng, ngài đã nhận nhiệm vụ “Thu hoạch ngà voi” thành công.
+
+Ngay khi nhận nhiệm vụ xong, không quá lâu sau đó thì Louis cũng đã hoàn thành chuyển chức cùng với thí luyện Lính Đánh Thuê của mình. Hắn lựa chọn chức nghiệp Thợ Săn, với vũ khí là một con dao găm và một chiếc nỏ nhỏ có gắn một cuộn tên tự động bên dưới. Chắc có lẽ vì cái nghề săn thú đã nuôi sống hắn nhiều năm nên Louis có thiện cảm với nó nhiều hơn hết.
+
+Đình Tấn cũng không lề mề tốn thời gian nữa, lập tức dẫn đội hướng về phương bắc EL Thành mà đi. Vì EL Thành không có cổng phía bắc nên cả nhóm đều phải đi cửa đông thành rồi vòng qua. Trên đường đi, thuận tiện ghé ngang qua hiệu thuốc để chuẩn bị thêm một số thuốc và vật dụng cần thiết.
+
+Ra khỏi thành khoảng 1km Đình Tấn triệu hồi ra 8 con Bộ Xương Chiến Sĩ để hộ tống, đỡ phải mất công động tay khi bắt gặp những con quái vật lẻ tẻ. Đây là vì thuận tiện rèn luyện Tái Tạo kỹ năng, lại kiếm thêm một ít điểm kinh nghiệm cho Louis.
+
+Theo như tọa độ của Lý Uyên gửi cho Đình Tấn, lần này mục tiêu phải băng qua một khu rừng rậm khoảng 20km đi đến vùng thảo nguyên. Vì càng đi xa khỏi thành, đẳng cấp quái vật tăng dần lên cho nên kinh nghiệm cũng tăng theo.
+
+Louis chỉ mới 10 cấp, đi theo cả nhóm tuy EXP có bị giảm đi do chia ra cho nhiều người nhưng chênh lệch đẳng cấp nên lại bù đắp lại được 1 phần. Thăng cấp vẫn là nhanh hơn rất nhiều lần so với hắn phải tự một mình đi luyện cấp. 
+
+3 giờ sau… Ngay khi vừa ra khỏi khu rừng, Louis đẳng cấp từ 10 đã tăng lên đến 15 cấp.
+
+Ròng rã tăng lên hơn 244.000 điểm kinh nghiệm, cũng làm cho Đình Tấn ống kinh nghiệm được lắp đầy một nửa. HP hạn mức cao nhất cũng chạm đến 7062 điểm, là giới hạn Tái Tạo kỹ năng cho phép. 
+
+3 người còn lại do trước đó vận chuyển tiếp tế bị chết và mất đi 50% kinh nghiệm nên từ hôm qua đến nay chỉ mới đủ bù đắp lại số kinh nghiệm đã bị tổn thất của họ thôi.
+
+Đi ra khỏi rừng chính là một vùng thảo nguyên mênh mông. Gió thổi, cỏ lay không khí phảng phất mang theo một mùi cỏ và hơi nước làm cho tinh thần người ta trở nên sảng khoái. Bầu trời nhiều mây, lại thêm cây cối cũng khá nhiều nên dù hiện tại đã hơn 11 giờ trưa nhưng không khí vẫn không nóng lắm.
+
+Đình Tấn bởi vì không thể đi theo đường thẳng đến mục tiêu, cho nên chỉ có thể tiêu tốn thêm một chút thời gian để đi đường vòng. Bất chợt trên đường đi, Đình Tấn phát hiện phía trước khoảng 50m có những thân ảnh to lớn đang nhàn nhã đi dạo quanh bên cạnh một bờ hồ.
+
+Mammuthus Trogon
+
+Đẳng cấp: 22
+
+HP: 3000/3000
+
+Giới thiệu: Giống loài đã tuyệt chủng được tái sinh lại nhờ công nghệ.
+
+Kỹ năng: Xung Phong, Hất Tung
+
+Mammuthus Trogon (Tinh Anh)
+
+Đẳng cấp: 24
+
+HP: 3750/3750
+
+Kỹ năng: Xung Phong, Địa Chấn, Hất Tung
+
+- Đẳng cấp thật cao mà, lại còn có tinh anh nữa. Thảo nào phải yêu cầu cấp A Lính Đánh Thuê.
+
+Nhìn những con voi khổng lồ với cặp ngà dài hơn 1m kia, Đình Tấn không khỏi cảm khái thì thào nói. Nhưng tay hắn cũng không chậm trễ mà mang lên nhẫn Bjorketorp rồi bắt đầu Triệu Hồi vong linh.
+
+“Triệu Hồi Bộ Xương Chiến Sĩ” (x68)
+
+“Triệu Hồi Tang Thi” (x52)
+
+“Triệu Hồi Bộ Xương Cung Thủ” (34)
+
+Phía trước có khoảng 85 con Mammuthus, Đình Tấn cũng không vội cho bọn Tang Thi xông lên trước. Hắn ra lệnh cho đội Bộ Xương Chiến Sĩ dàn trận hình chữ nhật, Bộ Xương Cung Thủ xếp thành hàng đứng phía sau bắt đầu bắn tên.
+
+“Phập phập…” 
+
+-685
+
+-1360 (Điểm yếu)
+
+…
+
+“Rống…”
+
+Những con Mammuthus bị mũi tên xương bắn trúng, đau đớn mà ngửa đầu lên trời gào rú. Sát thương quá khủng bố lại thêm thân thể to lớn nên rất khó mà bắn hụt được, đa số mũi tên đều trúng mục tiêu. Một vài con xui xẻo, cùng lúc bị bắn trúng 4-5 mũi tên làm cho chúng vẫn chưa kịp kêu gào thì đã ngã xuống cống hiến điểm kinh nghiệm.
+
+EXP +1100
+
+EXP +3120
+
+…
+
+Mặc dù bị bọn Bộ Xương Cung Thủ bắn tên công kích liên tục nhưng đàn voi cũng chỉ bị giết khoảng 5-10 con. Số còn lại vẫn tiếp tục xông tới. 
+
+Đình Tấn nhìn bọn Mammuthus nhanh chóng xung phong mà đến, ngay khi khoảng cách chỉ còn 30m. Một màn khói đen từ từ lan rộng ra 60m vuông quanh khu vực bờ hồ.
+
+"Tử Vong Màn Che" 
+
+-780 -975…
+
+Từng con số màu đỏ nổi lên trên đầu bọn Mammuthus như một trận thủy triều đỏ. Tốc độ cùng sức phòng thủ của chúng bị giảm lại rõ rệt. 
+
+“Rầm rầm”
+
+-245 (Đón đỡ) 
+
+-1225
+
+…
+
+Tốc độ xông tới cũng không cao nhưng thể trọng cùng sức mạnh bọn Mammuthus quá lớn làm cho đội Bộ Xương Chiến Sĩ rất vất vả chống đỡ mới ngăn chặn được bước tiến của chúng. 
+
+Thế nhưng những cái ngà voi vừa dài vừa sắc nhọn kia rất khó để dùng khiên chống đỡ hết. Nhiều con Bộ Xương Chiến Sĩ bị chúng đâm xuyên qua người hất tung lên.
+
+Đình Tấn ngay khi vừa trông thấy 2 bên va chạm thì lập tức cho Tang Thi xông lên. Chúng leo lên người cũng những con Bộ Xương Chiến Sĩ rồi bò lên trên lưng của đám Mammuthus, bắt đầu cắn xé.
+
+Sát thương từ đám Bộ Xương Cung Thủ cũng rất khả quan, mỗi lượt bắn đều sẽ có một đám Mammuthus ngã xuống cống hiến điểm kinh nghiệm.
+
+Lúc này ở phía sau Đình Tấn 4 người Ameerah, David, Terrell và Louis đều đã xông lên tấn công. Bọn họ vòng ra bên cánh phải của đám Bộ Xương Chiến Sĩ mà công kích những con Mammuthus ở phía ngoài cùng.
+
+Terrell phong cách vẫn là "Cuồng Nộ" xông vào, dùng cách thô bạo nhất mà chiến đấu. Mặc dù nhanh nhẹn không cao nhưng né tránh những cái vòi voi quét tới hay những cú ủi, hất tung của đám Mammuthus vẫn là ổn thỏa làm được.
+
+David và Ameerah cũng là lợi dụng điểm yếu thân thể to lớn, hành động bất tiện mà leo lên lưng của chúng rồi liên tục công kích. Louis cũng theo sát ở phía sau hai người. 
+
+Hắn phong cách chiến đấu rất tàn nhẫn, thâm độc. Với gương mặt lạnh lùng cùng đôi mắt bình tĩnh, Louis quan sát lấy từng động tác của con Mammuthus để tìm ra sơ hở như một tên thợ săn thực thụ.
+
+Một tay hắn cầm nỏ có lắp sẵn một cuộn tên, 1 tay khác thì cầm dao găm di chuyển xung quanh thân thể to lớn của con Mammuthus. Louis chuyên dùng nỏ nhắm vào những bộ vị mềm yếu của nó như mắt, vòi voi, bụng, miệng… mà bắn vào. 
+
+Mỗi khi bị con Mammuthus nào tập trung tấn công thì Louis lập tức sẽ vòng ra phía sau. Dùng dao găm như một cái móc, đâm vào sâu trong da thịt của nó làm điểm tựa mà bật người leo lên lưng nó.
+
+Đình Tấn vừa triệu hồi vong linh vừa quan sát cả đám đồng đội chiến đấu. Hắn đặc biệt chú ý Louis vì thân thể nhanh nhẹn cũng rất có quy luật di chuyển. Thỏa mãn gật đầu, Đình Tấn không khỏi nghĩ thầm:
+
+- "Tên này kỹ xảo và phản ứng đều rất tốt, nhưng cũng chỉ là bản năng thôi vẫn còn phải mài dũa lại."

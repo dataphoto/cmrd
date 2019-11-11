@@ -1,0 +1,379 @@
+Mãi mê đoán già đoán non về thuộc tính của các loại nguyên tố, nhưng Đình Tấn cũng không có lơ là trước tình hình chiến đấu, ý thức một mực đều duy trì tính cảnh giác, đặc biệt hắn vẫn luôn chú tâm đến tiêu hao của mình.
+
+-“Ồ… thật kì quái, HP tới giờ vẫn chưa cạn hết?”
+
+Đột xuất kiểm tra lại trạng thái nhân vật, Đình Tấn hơi bị bất ngờ trước tình trạng, ống HP của hắn vẫn còn chưa bị rút cạn đi như trong tưởng tượng. 
+
+Theo dự tính ban đầu của Đình Tấn, sau khi kết thúc quá trình triệu hồi ra [Địa Ngục Môn] cùng với Mephisto, MP của hắn sẽ cạn sạch đi hết, đồng thời lượng HP sẽ chỉ còn lại khoảng chừng một nửa là cùng.
+
+Tất cả nguyên nhân bắt nguồn từ việc kỹ năng [Cầu Phúc Trị Liệu] kèm theo trong trang bị đã bị hệ thống thu hồi, do hắn thay đổi đôi giày mới cách đây ít lâu, lại thêm tốc độ tiêu hao quá lớn, dẫn đến không thể kìm hãm lại được.
+
+Vì muốn tiết kiệm, duy trì thời gian dài chiến đấu nên Đình Tấn chỉ có thể triệu hồi ra ba loại binh chủng, chứ nếu không thì phỏng chừng, hắn đã sớm triệu hồi ra thêm hai loại binh chủng Bộ Xương Pháp Sư và Tu La Huyết Chiến Sĩ, nhanh chóng càn quét đám người của hội [Rothschild] luôn rồi.
+
+Lại nói, một khi Đình Tấn triệu hồi ra vong linh, hắn sẽ phải chịu đựng một lượng tiêu hao kéo dài theo thời gian. Đó là một khoảng rất lớn nữa, có thể sẽ rút cạn đi gần hết số HP còn lại của hắn. 
+
+Dẫu có sử dụng toàn bộ các biện pháp giảm thiểu tiêu hao, hoặc uống lấy thuốc khôi phục thì cũng không thể nào khôi phục được trạng thái nhanh đến hiện trạng như bây giờ được.
+
+Chính vì vậy, khi phát hiện ra trạng thái HP của mình sau khi sử dụng hiến tế mà vẫn chưa cạn kiệt đi hết, Đình Tấn không kìm được kinh ngạc cũng là chuyện thường tình dễ hiểu.
+
+Ngẫm nghĩ lại một chút, Đình Tấn liền mở ra bảng giao diện nhân vật, kiểm tra lại thông số của mình.
+
+Bất quá, cẩn thận nhìn đến mấy cũng không phát hiện ra cái gì lạ thường, Đình Tấn hơi chút bối rối cau mày, nghĩ thầm trong đầu lý do vì sao lại diễn ra hiện tượng kì lạ như vậy.
+
+Rất nhanh, Đình Tấn giống như nghĩ ra đến một loại giải thích, tức tốc mở ra phần thông tin chi tiết của nghề nghiệp Vong Linh Ma Đạo Sư mà hắn đã thành công chuyển đổi cách đây ít lâu.
+
+Vong Linh Ma Đạo Sư (Nghề nghiệp ẩn)
+
+Giới thiệu: Chỉ được chuyển sang chức nghiệp này khi người chơi sở hữu trên ba loại kỹ năng triệu hồi vong linh hoặc sở hữu một loại nghề nghiệp cấp một là Vong Linh Pháp Sư.
+
+Kỹ năng thiên phú nghề nghiệp: [Sinh Mệnh Hiến Tế]
+
+Giới thiệu: Khi chiến đấu đã đến cực hạn mà tinh thần có thể chịu đựng, hãy dùng sinh mệnh của mình, thiêu đốt nó lên, dùng nó để giết chết kẻ địch.
+
+Hiệu quả: Dùng HP để thay thế cho MP khi sử dụng kỹ năng. Mức quy đổi 1:3 (1 HP = 7 MP)
+
+…
+
+Kiểm tra toàn bộ thông tin nghề nghiệp mới xong, Đình Tấn lại tiếp tục bị làm cho chấn động không ít.
+
+Tỉ lệ quy đổi MP sang HP khi hiến tế giảm xuống gần một nửa, đây là khái niệm gì, Đình Tấn dĩ nhiên phải hiểu rõ ràng nhất. Như vậy đã có lời giải đáp cho câu hỏi vì sao lượng tiêu hao HP của hắn giảm xuống nhiều đến thế.
+
+-“Không ngờ chuyển cấp còn có phúc lợi thế này…”
+
+Hai mắt lóe lên từng tia tinh mang sắc lạnh, Đình Tấn nói hứng khởi, nhưng chợt, hắn lại nhớ đến mình vẫn còn có một cái nghề nghiệp khác vẫn còn chưa có kiểm tra.
+
+Thẩm Giám (Nghề nghiệp ẩn)
+
+Giới thiệu: Nghề nghiệp đặc hữu được đích thân truyền thụ bởi Thẩm Giám – Michael, chỉ được chuyển sang chức nghiệp này khi người chơi sở hữu một loại nghề nghiệp cấp một là Linh Mục.
+
+Kỹ năng thiên phú nghề nghiệp: [Cường Hóa Sinh Mệnh]
+
+Giới thiệu: Cơ thể của ngươi trải qua vô số đau đớn rèn luyện tạo nên một nguồn năng lượng cùng sinh mệnh cường đại tích tụ trong cơ thể.
+
+Hiệu quả: HP gia tăng 20%, MP gia tăng 20%
+
+…
+
+Tác dụng cường hóa lượng HP cùng MP tăng lên gấp đôi so với thời điểm còn ở nghề nghiệp Linh Mục, Đình Tấn không khỏi cảm thấy có chút tiếc nuối, dù sao Thẩm Giám cũng là một loại nghề nghiệp ẩn, rất khó có được, mà thiên phú kỹ năng tầm thường thế này thì có chút không hợp lẽ.
+
+Nhưng là hắn cũng không có ý kiến gì nhiều, vì dẫu sao bản tính của hắn vẫn luôn biết đủ, muốn tham quá sẽ mang lại rất nhiều chuyện không tốt.
+
+Trong khi mải mê ngẫm nghĩ một mình đến khi khôi phục lại sự chú ý đến chiến trường bên dưới, Đình Tấn mới phát hiện ra, người của hội [Rockefeller] đã gia nhập vào vòng chiến.
+
+Người của hội [Rothschild] vừa mới đẩy lùi thế tiến công như vũ bão của binh đoàn vong linh của Đình Tấn thì lại phải tiếp tục đối mặt với cường địch.
+
+Trước đấy còn có đông người, lợi thế về thời cơ đột kích bất ngờ, sĩ khí cùng chiến ý hưng thịnh, người của hội [Rothschild] còn có thể mạnh mẽ đánh lui được hàng phòng thủ của hội [Rockefeller].
+
+Thế nhưng bây giờ thì đã khác, bị Mephisto xông ra giáng cho một đòn [Lưu Tinh Hỏa Vũ], chẳng những làm quân số tổn hại nặng, mà vô tình lại đánh tan cả ý chí chiến đấu của bọn họ.
+
+Lại thêm đại quân vong linh dẫn đầu công kích quá dũng mãnh, thế không thể đỡ, hội [Rothschild] bây giờ cơ hồ chỉ là đang kéo dài hơi tàn của mình.
+
+-“Hàng đầu cố gắng chống đỡ vong linh, còn lại những người phía sau phòng thủ người chơi, không được từ bỏ kháng cự, cứ vừa đánh vừa lui về phía sau!”
+
+Log như điên như dại, trong khi đang chiến đấu với một tên người chơi thành viên của hội [Rockefeller] thì vẫn luôn miệng gầm thét, ra lệnh cho đội viên của mình.
+
+Ngay khi người của hội [Rockefeller] gia nhập vào vòng chiến, hắn đã hiểu rằng, đại cục đã định, kế hoạch của bọn họ hoàn toàn sụp đổ, và tất cả những thành viên [Rothschild] đang có mặt ở đây, bao gồm cả bản thân hắn đã không còn cách nào lật ra sóng gió gì nữa.
+
+Nội tâm Log bây giờ, chỉ hi vọng rằng hắn có thể dẫn dắt một phần lớn thành viên của mình thoát khỏi nơi cứ điểm này, để chạy trốn trở về cứ điểm của hội [Rothschild].
+
+Mặc dù thiệt hại là điều chắc chắn không thể tránh khỏi, nhưng quan trọng vẫn là thiệt hại nhiều hay ít, chỉ cần bảo toàn được một ít quân lực thì vẫn tốt hơn bị toàn diệt ở nơi đây.
+
+Phải biết, toàn bộ thành viên tham gia lần hành động táo bạo này đều là những tinh anh cao thủ, nếu để bọn họ tử vong thì thiệt hại cả trang bị lẫn đẳng cấp sẽ là một con số không hề nhỏ chút nào.
+
+-“Công kích yểm hộ, lần lượt ai hết năng lực chiến đấu thì rút lui ra khỏi cứ điểm cho ta, rồi tập hợp trở về vị trí cũ trước.”
+
+Bolic đã khàn giọng, lời nói ra tiếng có tiếng không, khiến đám đội viên của hắn cũng chỉ nghe được một đoạn ngắn.
+
+Tuy vậy, bọn họ đều hiểu trận chiến này thất bại đã định, việc bọn họ cần làm không phải là đánh lui kẻ địch như trước nữa, thay vào đó là phải khống chế đối phương lại, bảo hộ cho đồng đội của mình lui ra khỏi cổng lớn trên tường thành. 
+
+-“Muốn lui quân cũng không dễ như vậy đâu!”
+
+Đình Tấn nhìn hết tất cả những tình huống này vào trong mắt, khóe môi kéo lên nửa độ cong, khinh thường nói thầm ra.
+
+Thanh âm chưa dứt, hắn đã điều động [Khống Vật Thuật] lao nhanh đến nơi gần với cánh cổng tường thành mà không hề sợ hãi bị đoàn đội viễn trình của đối phương có thể bắn hạ mình.
+
+-“Người của hội [Rothschild] nghe rõ đây! Ta là Hội Trưởng The Dawn của [The Alliance], hôm nay cứ điểm [Rockefeller] do ta bảo hộ, các ngươi thua rồi! Hoặc đầu hàng bó tay chịu trói, hoặc chờ cho người của chúng ta đến giết sạch của ngươi, tiễn đưa trở về USA thành.”
+
+Dưới hàng trăm nghìn cặp mắt đang chăm chăm ngó nhìn mình, Đình Tấn dõng dạc quát lên lời cảnh báo.
+
+Đương nhiên, hắn không hề có ý định sẽ tha thứ cho đám người [Rothschild] này, thứ hắn cần là một đòn đánh lạc hướng, gây suy sụp tinh thần cùng ý chí chiến đấu của hội [Rothschild], nhằm dễ dàng hơn chiếm đoạt lấy bọn họ mà không phải tốn quá nhiều công sức.
+
+-“NẰM MƠ ĐI! GIẾT HẮN!”
+
+Nghe xong lời Đình Tấn nói, Bolic không kìm được bắt đầu phát hỏa, miệng mở rộng gào lên như một con dã thú gặp phải đại địch.
+
+Trong khi nói, hắn lại vung tay lên chỉ về phía Đình Tấn, tiếp đến một đống những đòn công kích hoặc kỹ năng viễn trình đều đồng loạt hướng về phía hắn mà bay tới.
+
+Bất quá, Đình Tấn cũng không phải dạng vừa, khi phi hành đi tới nơi đây, hắn đã chuẩn bị sẵn sàng cho tất cả mọi tình huống sẽ xảy ra, một tay bắt đầu vận dụng lực lượng triệu hồi kỹ năng.
+
+-“[Lôi Pháp Tối Thượng - Phán Quyết]!”
+
+Tại khoảnh khắc Bolic quát lên, phát ra mệnh lệnh, Đình Tấn đã chuẩn bị hoàn thành xong quá trình triệu hồi kỹ năng, đồng thời gầm lên một tiếng theo Bolic.
+
+Cũng may [Phán Quyết] không cần thiết phải vẽ vòng tròn ma pháp hay yêu cầu thêm thao tác gì, thế nên Đình Tấn có thể âm thầm triệu hồi ra xong mà không sợ bất cứ thứ gì làm gián đoạn.
+
+‘Rầm!’
+
+Hai chữ [Phán Quyết] vừa thốt ra khỏi miệng Đình Tấn, một tia thiên lôi lập tức oanh kích thẳng từ trên bầu trời xuống, đánh lên một mũi tên đang bay đến gần Đình Tấn.
+
+‘Ầm ầm ầm…’
+
+-9600 [Lôi]
+
+-9600 [Lôi]
+
+…
+
+Sau đó mới là vô số những tia lôi điện xé rách bầu trời, đánh thẳng xuống bên dưới chiến trường, gây ra một trận đại hồng thủy của những con số tổn thương màu tím rịm.Mãi mê đoán già đoán non về thuộc tính của các loại nguyên tố, nhưng Đình Tấn cũng không có lơ là trước tình hình chiến đấu, ý thức một mực đều duy trì tính cảnh giác, đặc biệt hắn vẫn luôn chú tâm đến tiêu hao của mình.
+
+-“Ồ… thật kì quái, HP tới giờ vẫn chưa cạn hết?”
+
+Đột xuất kiểm tra lại trạng thái nhân vật, Đình Tấn hơi bị bất ngờ trước tình trạng, ống HP của hắn vẫn còn chưa bị rút cạn đi như trong tưởng tượng. 
+
+Theo dự tính ban đầu của Đình Tấn, sau khi kết thúc quá trình triệu hồi ra [Địa Ngục Môn] cùng với Mephisto, MP của hắn sẽ cạn sạch đi hết, đồng thời lượng HP sẽ chỉ còn lại khoảng chừng một nửa là cùng.
+
+Tất cả nguyên nhân bắt nguồn từ việc kỹ năng [Cầu Phúc Trị Liệu] kèm theo trong trang bị đã bị hệ thống thu hồi, do hắn thay đổi đôi giày mới cách đây ít lâu, lại thêm tốc độ tiêu hao quá lớn, dẫn đến không thể kìm hãm lại được.
+
+Vì muốn tiết kiệm, duy trì thời gian dài chiến đấu nên Đình Tấn chỉ có thể triệu hồi ra ba loại binh chủng, chứ nếu không thì phỏng chừng, hắn đã sớm triệu hồi ra thêm hai loại binh chủng Bộ Xương Pháp Sư và Tu La Huyết Chiến Sĩ, nhanh chóng càn quét đám người của hội [Rothschild] luôn rồi.
+
+Lại nói, một khi Đình Tấn triệu hồi ra vong linh, hắn sẽ phải chịu đựng một lượng tiêu hao kéo dài theo thời gian. Đó là một khoảng rất lớn nữa, có thể sẽ rút cạn đi gần hết số HP còn lại của hắn. 
+
+Dẫu có sử dụng toàn bộ các biện pháp giảm thiểu tiêu hao, hoặc uống lấy thuốc khôi phục thì cũng không thể nào khôi phục được trạng thái nhanh đến hiện trạng như bây giờ được.
+
+Chính vì vậy, khi phát hiện ra trạng thái HP của mình sau khi sử dụng hiến tế mà vẫn chưa cạn kiệt đi hết, Đình Tấn không kìm được kinh ngạc cũng là chuyện thường tình dễ hiểu.
+
+Ngẫm nghĩ lại một chút, Đình Tấn liền mở ra bảng giao diện nhân vật, kiểm tra lại thông số của mình.
+
+Bất quá, cẩn thận nhìn đến mấy cũng không phát hiện ra cái gì lạ thường, Đình Tấn hơi chút bối rối cau mày, nghĩ thầm trong đầu lý do vì sao lại diễn ra hiện tượng kì lạ như vậy.
+
+Rất nhanh, Đình Tấn giống như nghĩ ra đến một loại giải thích, tức tốc mở ra phần thông tin chi tiết của nghề nghiệp Vong Linh Ma Đạo Sư mà hắn đã thành công chuyển đổi cách đây ít lâu.
+
+Vong Linh Ma Đạo Sư (Nghề nghiệp ẩn)
+
+Giới thiệu: Chỉ được chuyển sang chức nghiệp này khi người chơi sở hữu trên ba loại kỹ năng triệu hồi vong linh hoặc sở hữu một loại nghề nghiệp cấp một là Vong Linh Pháp Sư.
+
+Kỹ năng thiên phú nghề nghiệp: [Sinh Mệnh Hiến Tế]
+
+Giới thiệu: Khi chiến đấu đã đến cực hạn mà tinh thần có thể chịu đựng, hãy dùng sinh mệnh của mình, thiêu đốt nó lên, dùng nó để giết chết kẻ địch.
+
+Hiệu quả: Dùng HP để thay thế cho MP khi sử dụng kỹ năng. Mức quy đổi 1:3 (1 HP = 7 MP)
+
+…
+
+Kiểm tra toàn bộ thông tin nghề nghiệp mới xong, Đình Tấn lại tiếp tục bị làm cho chấn động không ít.
+
+Tỉ lệ quy đổi MP sang HP khi hiến tế giảm xuống gần một nửa, đây là khái niệm gì, Đình Tấn dĩ nhiên phải hiểu rõ ràng nhất. Như vậy đã có lời giải đáp cho câu hỏi vì sao lượng tiêu hao HP của hắn giảm xuống nhiều đến thế.
+
+-“Không ngờ chuyển cấp còn có phúc lợi thế này…”
+
+Hai mắt lóe lên từng tia tinh mang sắc lạnh, Đình Tấn nói hứng khởi, nhưng chợt, hắn lại nhớ đến mình vẫn còn có một cái nghề nghiệp khác vẫn còn chưa có kiểm tra.
+
+Thẩm Giám (Nghề nghiệp ẩn)
+
+Giới thiệu: Nghề nghiệp đặc hữu được đích thân truyền thụ bởi Thẩm Giám – Michael, chỉ được chuyển sang chức nghiệp này khi người chơi sở hữu một loại nghề nghiệp cấp một là Linh Mục.
+
+Kỹ năng thiên phú nghề nghiệp: [Cường Hóa Sinh Mệnh]
+
+Giới thiệu: Cơ thể của ngươi trải qua vô số đau đớn rèn luyện tạo nên một nguồn năng lượng cùng sinh mệnh cường đại tích tụ trong cơ thể.
+
+Hiệu quả: HP gia tăng 20%, MP gia tăng 20%
+
+…
+
+Tác dụng cường hóa lượng HP cùng MP tăng lên gấp đôi so với thời điểm còn ở nghề nghiệp Linh Mục, Đình Tấn không khỏi cảm thấy có chút tiếc nuối, dù sao Thẩm Giám cũng là một loại nghề nghiệp ẩn, rất khó có được, mà thiên phú kỹ năng tầm thường thế này thì có chút không hợp lẽ.
+
+Nhưng là hắn cũng không có ý kiến gì nhiều, vì dẫu sao bản tính của hắn vẫn luôn biết đủ, muốn tham quá sẽ mang lại rất nhiều chuyện không tốt.
+
+Trong khi mải mê ngẫm nghĩ một mình đến khi khôi phục lại sự chú ý đến chiến trường bên dưới, Đình Tấn mới phát hiện ra, người của hội [Rockefeller] đã gia nhập vào vòng chiến.
+
+Người của hội [Rothschild] vừa mới đẩy lùi thế tiến công như vũ bão của binh đoàn vong linh của Đình Tấn thì lại phải tiếp tục đối mặt với cường địch.
+
+Trước đấy còn có đông người, lợi thế về thời cơ đột kích bất ngờ, sĩ khí cùng chiến ý hưng thịnh, người của hội [Rothschild] còn có thể mạnh mẽ đánh lui được hàng phòng thủ của hội [Rockefeller].
+
+Thế nhưng bây giờ thì đã khác, bị Mephisto xông ra giáng cho một đòn [Lưu Tinh Hỏa Vũ], chẳng những làm quân số tổn hại nặng, mà vô tình lại đánh tan cả ý chí chiến đấu của bọn họ.
+
+Lại thêm đại quân vong linh dẫn đầu công kích quá dũng mãnh, thế không thể đỡ, hội [Rothschild] bây giờ cơ hồ chỉ là đang kéo dài hơi tàn của mình.
+
+-“Hàng đầu cố gắng chống đỡ vong linh, còn lại những người phía sau phòng thủ người chơi, không được từ bỏ kháng cự, cứ vừa đánh vừa lui về phía sau!”
+
+Log như điên như dại, trong khi đang chiến đấu với một tên người chơi thành viên của hội [Rockefeller] thì vẫn luôn miệng gầm thét, ra lệnh cho đội viên của mình.
+
+Ngay khi người của hội [Rockefeller] gia nhập vào vòng chiến, hắn đã hiểu rằng, đại cục đã định, kế hoạch của bọn họ hoàn toàn sụp đổ, và tất cả những thành viên [Rothschild] đang có mặt ở đây, bao gồm cả bản thân hắn đã không còn cách nào lật ra sóng gió gì nữa.
+
+Nội tâm Log bây giờ, chỉ hi vọng rằng hắn có thể dẫn dắt một phần lớn thành viên của mình thoát khỏi nơi cứ điểm này, để chạy trốn trở về cứ điểm của hội [Rothschild].
+
+Mặc dù thiệt hại là điều chắc chắn không thể tránh khỏi, nhưng quan trọng vẫn là thiệt hại nhiều hay ít, chỉ cần bảo toàn được một ít quân lực thì vẫn tốt hơn bị toàn diệt ở nơi đây.
+
+Phải biết, toàn bộ thành viên tham gia lần hành động táo bạo này đều là những tinh anh cao thủ, nếu để bọn họ tử vong thì thiệt hại cả trang bị lẫn đẳng cấp sẽ là một con số không hề nhỏ chút nào.
+
+-“Công kích yểm hộ, lần lượt ai hết năng lực chiến đấu thì rút lui ra khỏi cứ điểm cho ta, rồi tập hợp trở về vị trí cũ trước.”
+
+Bolic đã khàn giọng, lời nói ra tiếng có tiếng không, khiến đám đội viên của hắn cũng chỉ nghe được một đoạn ngắn.
+
+Tuy vậy, bọn họ đều hiểu trận chiến này thất bại đã định, việc bọn họ cần làm không phải là đánh lui kẻ địch như trước nữa, thay vào đó là phải khống chế đối phương lại, bảo hộ cho đồng đội của mình lui ra khỏi cổng lớn trên tường thành. 
+
+-“Muốn lui quân cũng không dễ như vậy đâu!”
+
+Đình Tấn nhìn hết tất cả những tình huống này vào trong mắt, khóe môi kéo lên nửa độ cong, khinh thường nói thầm ra.
+
+Thanh âm chưa dứt, hắn đã điều động [Khống Vật Thuật] lao nhanh đến nơi gần với cánh cổng tường thành mà không hề sợ hãi bị đoàn đội viễn trình của đối phương có thể bắn hạ mình.
+
+-“Người của hội [Rothschild] nghe rõ đây! Ta là Hội Trưởng The Dawn của [The Alliance], hôm nay cứ điểm [Rockefeller] do ta bảo hộ, các ngươi thua rồi! Hoặc đầu hàng bó tay chịu trói, hoặc chờ cho người của chúng ta đến giết sạch của ngươi, tiễn đưa trở về USA thành.”
+
+Dưới hàng trăm nghìn cặp mắt đang chăm chăm ngó nhìn mình, Đình Tấn dõng dạc quát lên lời cảnh báo.
+
+Đương nhiên, hắn không hề có ý định sẽ tha thứ cho đám người [Rothschild] này, thứ hắn cần là một đòn đánh lạc hướng, gây suy sụp tinh thần cùng ý chí chiến đấu của hội [Rothschild], nhằm dễ dàng hơn chiếm đoạt lấy bọn họ mà không phải tốn quá nhiều công sức.
+
+-“NẰM MƠ ĐI! GIẾT HẮN!”
+
+Nghe xong lời Đình Tấn nói, Bolic không kìm được bắt đầu phát hỏa, miệng mở rộng gào lên như một con dã thú gặp phải đại địch.
+
+Trong khi nói, hắn lại vung tay lên chỉ về phía Đình Tấn, tiếp đến một đống những đòn công kích hoặc kỹ năng viễn trình đều đồng loạt hướng về phía hắn mà bay tới.
+
+Bất quá, Đình Tấn cũng không phải dạng vừa, khi phi hành đi tới nơi đây, hắn đã chuẩn bị sẵn sàng cho tất cả mọi tình huống sẽ xảy ra, một tay bắt đầu vận dụng lực lượng triệu hồi kỹ năng.
+
+-“[Lôi Pháp Tối Thượng - Phán Quyết]!”
+
+Tại khoảnh khắc Bolic quát lên, phát ra mệnh lệnh, Đình Tấn đã chuẩn bị hoàn thành xong quá trình triệu hồi kỹ năng, đồng thời gầm lên một tiếng theo Bolic.
+
+Cũng may [Phán Quyết] không cần thiết phải vẽ vòng tròn ma pháp hay yêu cầu thêm thao tác gì, thế nên Đình Tấn có thể âm thầm triệu hồi ra xong mà không sợ bất cứ thứ gì làm gián đoạn.
+
+‘Rầm!’
+
+Hai chữ [Phán Quyết] vừa thốt ra khỏi miệng Đình Tấn, một tia thiên lôi lập tức oanh kích thẳng từ trên bầu trời xuống, đánh lên một mũi tên đang bay đến gần Đình Tấn.
+
+‘Ầm ầm ầm…’
+
+-9600 [Lôi]
+
+-9600 [Lôi]
+
+…
+
+Sau đó mới là vô số những tia lôi điện xé rách bầu trời, đánh thẳng xuống bên dưới chiến trường, gây ra một trận đại hồng thủy của những con số tổn thương màu tím rịm.Mãi mê đoán già đoán non về thuộc tính của các loại nguyên tố, nhưng Đình Tấn cũng không có lơ là trước tình hình chiến đấu, ý thức một mực đều duy trì tính cảnh giác, đặc biệt hắn vẫn luôn chú tâm đến tiêu hao của mình.
+
+-“Ồ… thật kì quái, HP tới giờ vẫn chưa cạn hết?”
+
+Đột xuất kiểm tra lại trạng thái nhân vật, Đình Tấn hơi bị bất ngờ trước tình trạng, ống HP của hắn vẫn còn chưa bị rút cạn đi như trong tưởng tượng. 
+
+Theo dự tính ban đầu của Đình Tấn, sau khi kết thúc quá trình triệu hồi ra [Địa Ngục Môn] cùng với Mephisto, MP của hắn sẽ cạn sạch đi hết, đồng thời lượng HP sẽ chỉ còn lại khoảng chừng một nửa là cùng.
+
+Tất cả nguyên nhân bắt nguồn từ việc kỹ năng [Cầu Phúc Trị Liệu] kèm theo trong trang bị đã bị hệ thống thu hồi, do hắn thay đổi đôi giày mới cách đây ít lâu, lại thêm tốc độ tiêu hao quá lớn, dẫn đến không thể kìm hãm lại được.
+
+Vì muốn tiết kiệm, duy trì thời gian dài chiến đấu nên Đình Tấn chỉ có thể triệu hồi ra ba loại binh chủng, chứ nếu không thì phỏng chừng, hắn đã sớm triệu hồi ra thêm hai loại binh chủng Bộ Xương Pháp Sư và Tu La Huyết Chiến Sĩ, nhanh chóng càn quét đám người của hội [Rothschild] luôn rồi.
+
+Lại nói, một khi Đình Tấn triệu hồi ra vong linh, hắn sẽ phải chịu đựng một lượng tiêu hao kéo dài theo thời gian. Đó là một khoảng rất lớn nữa, có thể sẽ rút cạn đi gần hết số HP còn lại của hắn. 
+
+Dẫu có sử dụng toàn bộ các biện pháp giảm thiểu tiêu hao, hoặc uống lấy thuốc khôi phục thì cũng không thể nào khôi phục được trạng thái nhanh đến hiện trạng như bây giờ được.
+
+Chính vì vậy, khi phát hiện ra trạng thái HP của mình sau khi sử dụng hiến tế mà vẫn chưa cạn kiệt đi hết, Đình Tấn không kìm được kinh ngạc cũng là chuyện thường tình dễ hiểu.
+
+Ngẫm nghĩ lại một chút, Đình Tấn liền mở ra bảng giao diện nhân vật, kiểm tra lại thông số của mình.
+
+Bất quá, cẩn thận nhìn đến mấy cũng không phát hiện ra cái gì lạ thường, Đình Tấn hơi chút bối rối cau mày, nghĩ thầm trong đầu lý do vì sao lại diễn ra hiện tượng kì lạ như vậy.
+
+Rất nhanh, Đình Tấn giống như nghĩ ra đến một loại giải thích, tức tốc mở ra phần thông tin chi tiết của nghề nghiệp Vong Linh Ma Đạo Sư mà hắn đã thành công chuyển đổi cách đây ít lâu.
+
+Vong Linh Ma Đạo Sư (Nghề nghiệp ẩn)
+
+Giới thiệu: Chỉ được chuyển sang chức nghiệp này khi người chơi sở hữu trên ba loại kỹ năng triệu hồi vong linh hoặc sở hữu một loại nghề nghiệp cấp một là Vong Linh Pháp Sư.
+
+Kỹ năng thiên phú nghề nghiệp: [Sinh Mệnh Hiến Tế]
+
+Giới thiệu: Khi chiến đấu đã đến cực hạn mà tinh thần có thể chịu đựng, hãy dùng sinh mệnh của mình, thiêu đốt nó lên, dùng nó để giết chết kẻ địch.
+
+Hiệu quả: Dùng HP để thay thế cho MP khi sử dụng kỹ năng. Mức quy đổi 1:3 (1 HP = 7 MP)
+
+…
+
+Kiểm tra toàn bộ thông tin nghề nghiệp mới xong, Đình Tấn lại tiếp tục bị làm cho chấn động không ít.
+
+Tỉ lệ quy đổi MP sang HP khi hiến tế giảm xuống gần một nửa, đây là khái niệm gì, Đình Tấn dĩ nhiên phải hiểu rõ ràng nhất. Như vậy đã có lời giải đáp cho câu hỏi vì sao lượng tiêu hao HP của hắn giảm xuống nhiều đến thế.
+
+-“Không ngờ chuyển cấp còn có phúc lợi thế này…”
+
+Hai mắt lóe lên từng tia tinh mang sắc lạnh, Đình Tấn nói hứng khởi, nhưng chợt, hắn lại nhớ đến mình vẫn còn có một cái nghề nghiệp khác vẫn còn chưa có kiểm tra.
+
+Thẩm Giám (Nghề nghiệp ẩn)
+
+Giới thiệu: Nghề nghiệp đặc hữu được đích thân truyền thụ bởi Thẩm Giám – Michael, chỉ được chuyển sang chức nghiệp này khi người chơi sở hữu một loại nghề nghiệp cấp một là Linh Mục.
+
+Kỹ năng thiên phú nghề nghiệp: [Cường Hóa Sinh Mệnh]
+
+Giới thiệu: Cơ thể của ngươi trải qua vô số đau đớn rèn luyện tạo nên một nguồn năng lượng cùng sinh mệnh cường đại tích tụ trong cơ thể.
+
+Hiệu quả: HP gia tăng 20%, MP gia tăng 20%
+
+…
+
+Tác dụng cường hóa lượng HP cùng MP tăng lên gấp đôi so với thời điểm còn ở nghề nghiệp Linh Mục, Đình Tấn không khỏi cảm thấy có chút tiếc nuối, dù sao Thẩm Giám cũng là một loại nghề nghiệp ẩn, rất khó có được, mà thiên phú kỹ năng tầm thường thế này thì có chút không hợp lẽ.
+
+Nhưng là hắn cũng không có ý kiến gì nhiều, vì dẫu sao bản tính của hắn vẫn luôn biết đủ, muốn tham quá sẽ mang lại rất nhiều chuyện không tốt.
+
+Trong khi mải mê ngẫm nghĩ một mình đến khi khôi phục lại sự chú ý đến chiến trường bên dưới, Đình Tấn mới phát hiện ra, người của hội [Rockefeller] đã gia nhập vào vòng chiến.
+
+Người của hội [Rothschild] vừa mới đẩy lùi thế tiến công như vũ bão của binh đoàn vong linh của Đình Tấn thì lại phải tiếp tục đối mặt với cường địch.
+
+Trước đấy còn có đông người, lợi thế về thời cơ đột kích bất ngờ, sĩ khí cùng chiến ý hưng thịnh, người của hội [Rothschild] còn có thể mạnh mẽ đánh lui được hàng phòng thủ của hội [Rockefeller].
+
+Thế nhưng bây giờ thì đã khác, bị Mephisto xông ra giáng cho một đòn [Lưu Tinh Hỏa Vũ], chẳng những làm quân số tổn hại nặng, mà vô tình lại đánh tan cả ý chí chiến đấu của bọn họ.
+
+Lại thêm đại quân vong linh dẫn đầu công kích quá dũng mãnh, thế không thể đỡ, hội [Rothschild] bây giờ cơ hồ chỉ là đang kéo dài hơi tàn của mình.
+
+-“Hàng đầu cố gắng chống đỡ vong linh, còn lại những người phía sau phòng thủ người chơi, không được từ bỏ kháng cự, cứ vừa đánh vừa lui về phía sau!”
+
+Log như điên như dại, trong khi đang chiến đấu với một tên người chơi thành viên của hội [Rockefeller] thì vẫn luôn miệng gầm thét, ra lệnh cho đội viên của mình.
+
+Ngay khi người của hội [Rockefeller] gia nhập vào vòng chiến, hắn đã hiểu rằng, đại cục đã định, kế hoạch của bọn họ hoàn toàn sụp đổ, và tất cả những thành viên [Rothschild] đang có mặt ở đây, bao gồm cả bản thân hắn đã không còn cách nào lật ra sóng gió gì nữa.
+
+Nội tâm Log bây giờ, chỉ hi vọng rằng hắn có thể dẫn dắt một phần lớn thành viên của mình thoát khỏi nơi cứ điểm này, để chạy trốn trở về cứ điểm của hội [Rothschild].
+
+Mặc dù thiệt hại là điều chắc chắn không thể tránh khỏi, nhưng quan trọng vẫn là thiệt hại nhiều hay ít, chỉ cần bảo toàn được một ít quân lực thì vẫn tốt hơn bị toàn diệt ở nơi đây.
+
+Phải biết, toàn bộ thành viên tham gia lần hành động táo bạo này đều là những tinh anh cao thủ, nếu để bọn họ tử vong thì thiệt hại cả trang bị lẫn đẳng cấp sẽ là một con số không hề nhỏ chút nào.
+
+-“Công kích yểm hộ, lần lượt ai hết năng lực chiến đấu thì rút lui ra khỏi cứ điểm cho ta, rồi tập hợp trở về vị trí cũ trước.”
+
+Bolic đã khàn giọng, lời nói ra tiếng có tiếng không, khiến đám đội viên của hắn cũng chỉ nghe được một đoạn ngắn.
+
+Tuy vậy, bọn họ đều hiểu trận chiến này thất bại đã định, việc bọn họ cần làm không phải là đánh lui kẻ địch như trước nữa, thay vào đó là phải khống chế đối phương lại, bảo hộ cho đồng đội của mình lui ra khỏi cổng lớn trên tường thành. 
+
+-“Muốn lui quân cũng không dễ như vậy đâu!”
+
+Đình Tấn nhìn hết tất cả những tình huống này vào trong mắt, khóe môi kéo lên nửa độ cong, khinh thường nói thầm ra.
+
+Thanh âm chưa dứt, hắn đã điều động [Khống Vật Thuật] lao nhanh đến nơi gần với cánh cổng tường thành mà không hề sợ hãi bị đoàn đội viễn trình của đối phương có thể bắn hạ mình.
+
+-“Người của hội [Rothschild] nghe rõ đây! Ta là Hội Trưởng The Dawn của [The Alliance], hôm nay cứ điểm [Rockefeller] do ta bảo hộ, các ngươi thua rồi! Hoặc đầu hàng bó tay chịu trói, hoặc chờ cho người của chúng ta đến giết sạch của ngươi, tiễn đưa trở về USA thành.”
+
+Dưới hàng trăm nghìn cặp mắt đang chăm chăm ngó nhìn mình, Đình Tấn dõng dạc quát lên lời cảnh báo.
+
+Đương nhiên, hắn không hề có ý định sẽ tha thứ cho đám người [Rothschild] này, thứ hắn cần là một đòn đánh lạc hướng, gây suy sụp tinh thần cùng ý chí chiến đấu của hội [Rothschild], nhằm dễ dàng hơn chiếm đoạt lấy bọn họ mà không phải tốn quá nhiều công sức.
+
+-“NẰM MƠ ĐI! GIẾT HẮN!”
+
+Nghe xong lời Đình Tấn nói, Bolic không kìm được bắt đầu phát hỏa, miệng mở rộng gào lên như một con dã thú gặp phải đại địch.
+
+Trong khi nói, hắn lại vung tay lên chỉ về phía Đình Tấn, tiếp đến một đống những đòn công kích hoặc kỹ năng viễn trình đều đồng loạt hướng về phía hắn mà bay tới.
+
+Bất quá, Đình Tấn cũng không phải dạng vừa, khi phi hành đi tới nơi đây, hắn đã chuẩn bị sẵn sàng cho tất cả mọi tình huống sẽ xảy ra, một tay bắt đầu vận dụng lực lượng triệu hồi kỹ năng.
+
+-“[Lôi Pháp Tối Thượng - Phán Quyết]!”
+
+Tại khoảnh khắc Bolic quát lên, phát ra mệnh lệnh, Đình Tấn đã chuẩn bị hoàn thành xong quá trình triệu hồi kỹ năng, đồng thời gầm lên một tiếng theo Bolic.
+
+Cũng may [Phán Quyết] không cần thiết phải vẽ vòng tròn ma pháp hay yêu cầu thêm thao tác gì, thế nên Đình Tấn có thể âm thầm triệu hồi ra xong mà không sợ bất cứ thứ gì làm gián đoạn.
+
+‘Rầm!’
+
+Hai chữ [Phán Quyết] vừa thốt ra khỏi miệng Đình Tấn, một tia thiên lôi lập tức oanh kích thẳng từ trên bầu trời xuống, đánh lên một mũi tên đang bay đến gần Đình Tấn.
+
+‘Ầm ầm ầm…’
+
+-9600 [Lôi]
+
+-9600 [Lôi]
+
+…
+
+Sau đó mới là vô số những tia lôi điện xé rách bầu trời, đánh thẳng xuống bên dưới chiến trường, gây ra một trận đại hồng thủy của những con số tổn thương màu tím rịm.

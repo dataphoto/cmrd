@@ -1,0 +1,415 @@
+Đình Tấn đang ngồi trong không gian phòng riêng, ngay khi vừa định tiến vào một vòng tu luyện "Minh Tưởng Thuật" thì âm thanh hệ thống thông báo liên vang lên bên tai.
+
+Hắn ngạc nhiên vội vàng mở lên bảng giao diện hệ thống thuộc tính nhân vật kiểm tra lại.
+
+Tính danh: Đình Tấn (Hiển thị)
+
+Biệt danh: The Dawn (Hiển thị)
+
+Tuổi: 24
+
+Chức nghiệp: 
+
+Vong linh ma pháp sư (Chức nghiệp ẩn) (Chi tiết)
+
+Linh Mục (Chi tiết)
+
+Chức nghiệp phụ trợ:
+
+Phù văn sư (Đẳng cấp 2: 180/200)
+
+Đào quáng (Đẳng cấp 0: 0/50)
+
+Đội Lính Đánh Thuê [The Alliance] (Đội trưởng) [255450/300.000]
+
+---- Thông số ----
+
+Lực lượng: 179
+
+Nhanh nhẹn: 130
+
+Thể lực: 178
+
+Tinh thần: 606 (+6) (!)
+
+---- Chi tiết ----
+
+Level: 25
+
+HP: 12800/12800 (+21.4/s)
+
+MP: 11750/11750 (+63.7/s)
+
+EXP: 0/1781866
+
+Trong 5 ngày vừa phải phân tâm ra để làm việc vừa phải cố gắng theo sau cả đội chiến đấu, cày cuốc luyện cấp, tốc độ thăng cấp của Đình Tấn đã bị chậm đi đáng kể.
+
+Tuy vậy nhưng hắn vẫn không hề bỏ bê tu luyện một ngày nào. Mỗi khi đêm đến, thời gian mọi người nghỉ ngơi đều được hắn tận dụng để tu luyện nên chỉ số thuộc tính vẫn không hề bị tụt hậu.
+
+Nhưng hôm nay gặp phải giới hạn mà hệ thống thông báo làm Đình Tấn có chút ứng phó không kịp. Chưa kịp hiểu chuyện gì xảy ra thì Đình Tấn lại bị một dấu (!) ngay sau dòng tinh thần thuộc tính trên bảng giao diện hệ thống nhân vật hấp dẫn sự chú ý.
+
+Hắn liền thử đưa tay chọn vào dấu (!) thì một bảng giao diện ghi chú liền hiện ra ngay bên cạnh, như để giải thích lý do vì sao lại xuất hiện tình trạng bị giới hạn thuộc tính như vậy.
+
+[Đã đạt giới hạn]
+
+“Ngài hiện tại đã đạt đến giới hạn cao nhất mà tinh thần thuộc tính có thể đạt tới. Do đại não của ngài vẫn chưa được hoàn toàn khai phá và thể chất cơ thể cũng chưa thể chịu đựng được một lượng tinh thần lực lớn hơn [Điểm thể chất * 2 + đẳng cấp * 10] nên hệ thống phán định bất cứ phương pháp tu luyện tăng lên tinh thần lực nào đều sẽ không thể tiếp tục tăng lên điểm thuộc tính của bản thân.
+
+Điều này để hạn chế đến mức thấp nhất khả năng gây ra tổn thương cho dây thần kinh bởi sự quá tải tinh thần lực, tránh tình trạng làm cho cơ năng thân thể bị bại liệt. Mong ngài lượng thứ và cố gắng luyện tập, tăng cường thể chất.”
+
+Xem xong lời giải thích của hệ thống, Đình Tấn đôi chân mày không nhịn được nhíu chặt lại. Trước khi trọng sinh, hắn đã từng tu luyện một thời gian dài nhưng bởi chưa quen đường đi nước bước mà tốc độ chưa thể sánh bằng hiện tại.
+
+Thế nên tình huống như thế này Đình Tấn vẫn là chưa từng gặp phải bao giờ. Cẩn thận suy nghĩ lại mọi khả năng có thể xảy ra, bất chợt hắn lại nhớ đến một nhân vật nổi tiếng trong lịch sử, Stephen Hawking.
+
+Mặc dù sách báo có nhiều ghi chép về căn bệnh ALS của ông, nhưng Đình Tấn từng nghe những anh em trong đội trước đó của hắn đồn thổi rằng đó là do ông ta là một tên pháp sư thiên bẩm mang theo thể chất có khả năng tự động tu luyện, tăng lên tinh thần lực.
+
+Cũng nhờ có lượng tinh thần lực mạnh mẽ như vậy làm hậu thuẫn, ông ta mới có khả năng khai sáng nên một huyền thoại trong ngành vật lý học ở thời điểm hơn một thế kỷ trước, mang cái tên Stephen Hawking trở nên đồng nghĩa với “Chiếc chìa khóa mở cửa vào vũ trụ”.
+
+Nhưng cũng bởi vì ở thời điểm đó chưa có phương pháp hạn chế lại tinh thần lực tăng trưởng hay phương pháp tu luyện tăng lên thể chất, thế nên dây thần kinh trong não bộ và các tủy sống của ông ta bị tổn thương và chết dần đi, dẫn đến cả cơ thể bị bại liệt.
+
+Đã từng, Đình Tấn khi nghe được những tin đồn như vậy chỉ có lắc đầu bĩu môi không tin vì hắn tu luyện đã lâu cũng chưa từng gặp được bình cảnh như vậy. 
+
+Thế nhưng hôm nay hệ thống thông báo làm hắn nhận ra có thể mình đã sai. Cẩn thận mà ngẫm nghĩ lại, trước khi trọng sinh hắn từng là một tên chiến sĩ phải tu luyện thể chất trong nhiều năm để chiến đấu với quái vật nên dĩ nhiên phải khỏe mạnh hơn những người bình thường.
+
+Lúc hắn tu luyện vong linh ma pháp cũng chỉ tầm cỡ hai năm trở lại cho nên có thể vì thế mà không gặp phải bình cảnh.
+
+Đã thông suốt nguyên nhân và kết quả, Đình Tấn liền lắc đầu cười khổ không thôi. Cũng may mắn là hắn đã liên tục tu luyện trong một khoảng thời gian dài cơ bắp cường hóa, thế nên thể chất thuộc tính cũng không phải quá thấp.
+
+Trong lòng cũng âm thầm quyết tâm phải nhanh chóng tìm kiếm phương pháp tu luyện tăng lên thể chất.
+
+Đã không thể tu luyện tinh thần lực, lại thêm Cơ Bắp Cường Hóa cũng được hắn tu luyện xong 5 lượt giới hạn trong ngày. Đình Tấn liền rảnh rỗi nhưng hắn lại không muốn ở không mà phí phạm thời gian.
+
+Liền, hắn nhắm ngay đến phần tu luyện Dẻo Dai Cường Hóa. Tốc độ cũng là một phần của sức mạnh, nếu không phải bởi vì phản ứng chậm Đình Tấn chắc cũng không phải gặp đến nhiều nguy hiểm không đáng có.
+
+Vậy là chỉ còn cách vài tiếng trời sẽ sáng, hắn liền không hề ngừng nghỉ mà dùng toàn bộ khoảng thời gian này để tu luyện Dẻo Dai Cường Hóa thuật, cùng với rèn luyện một chút Phù Văn Sư nghề nghiệp phụ.
+
+8 giờ sáng…
+
+Trong phòng ăn riêng của Đệ Nhất Quán, nơi cả nhóm Đình Tấn đang tụ tập, mọi người lúc này đều có mặt đầy đủ.
+
+Đình Tấn hiện tại tinh thần sáng láng đang ngồi bàn chuyện kinh doanh với Lý Uyên và lão Marc.
+
+Hiện tại bọn họ đang trong giai đoạn mở rộng kinh doanh và bắt đầu vào chiến dịch sản xuất ra dược phẩm theo đơn thuốc mà Đình Tấn đã cung cấp.
+
+- “Ta dự định lấy tên công ty là [The Alliance Y Dược]. Ngươi nghĩ sao?”
+
+Lý Uyên ngón tay vừa chỉ vào trong một xấp giấy tờ tài liệu vừa hưng phấn nói với Đình Tấn. 
+
+Khoảng thời gian này nàng dùng rất ít thời gian để nghỉ ngơi, cũng bởi những đơn thuốc mà Đình Tấn mang đến làm cho giấc mơ vật ngã Rothschild gia tộc của nàng đã không còn là một ý nghĩ viễn vong nữa.
+
+Mỗi ngày chứng kiến kế hoạch của mình từng bước, từng bước dần dần được hoàn thiện, nàng trong lòng nỗi phấn khởi không cách nào kìm nén được, thậm chí đã đè ép đi những cơn mệt mỏi của mình.
+
+Trái ngược lại với trạng thái ‘hít thuốc’ của Lý Uyên, Đình Tấn vẫn khá thong dong bình tĩnh. Hắn vừa ăn vừa cẩn thận xem xét từng tờ tài liệu.
+
+Từ giấy khế ước mua đất, cho đến giấy chứng nhận chất lượng, giấy đăng ký độc quyền sản phẩm… đều được hắn xem không bỏ sót một chữ.
+
+Nghe Lý Uyên kiến nghị, Đình Tấn liền thử xem lại phần tài liệu về việc đăng ký công ty mới. 
+
+Tên công ty: [The Alliance Y Dược] 
+
+Ngày đăng ký: 20/1/2111
+
+Địa chỉ trụ sở chính: 220-320 Boston St., thành phố Loda, nước Entire Land.
+
+Số điện thoại liên lạc: 0123456789
+
+Ngành nghề kinh doanh: Các loại dược phẩm.
+
+Người đại diện/Giám đốc công ty: Đình Tấn
+
+…
+
+Phần đầu tiên ghi nhận về những thông tin của công ty, Fs9hcSOC Đình Tấn không có quá nhiều ý kiến về chuyện đặt tên của công ty. 
+
+Dù sao tên thế nào cũng được, quan trọng là công ty này có thể đạt thành mục đích của hắn, chính là trở thành hậu thuẫn cho [The Alliance] trong tương lai.
+
+Phần còn lại của tài liệu đều là những đạo luật quy định của pháp luật mà một công ty cần phải thực thi. Kèm theo đó là một số thông tin về chi nhánh, đại lý không quá quan trọng nên Đình Tấn liền bỏ qua.
+
+Sau khi đã xem xong cả xấp tài liệu, Đình Tấn mới tùy tiện trả lời Lý Uyên.
+
+- “Cũng được, tùy ngươi thôi.”
+
+Nhìn thấy thái độ của hắn như vậy làm Lý Uyên đang cao hứng cũng bị tuột cảm xúc theo. Nàng gương mặt khó chịu trề môi mà phàn nàn.
+
+- “Này… Ngươi dù sao cũng là ông chủ đấy! Dù là vung tay giao việc thì cũng nên góp ý một chút chớ.”
+
+Không biết từ lúc nào, Lý Uyên lại học được "kỹ năng" trề môi của Ameerah, dường như tính cách cũng đang được trẻ hóa không giống như một nữ doanh nhân thành thục, quyến rũ phải có. 
+
+Đình Tấn chỉ có thể lắc đầu cười khổ, cố gắng nói lãng sang chuyện khác. Hắn không muốn dây vào mấy chuyện đặt tên khó khăn nhức não này.
+
+- “Việc thu mua đất đai thế nào rồi?”Đình Tấn đang ngồi trong không gian phòng riêng, ngay khi vừa định tiến vào một vòng tu luyện "Minh Tưởng Thuật" thì âm thanh hệ thống thông báo liên vang lên bên tai.
+
+Hắn ngạc nhiên vội vàng mở lên bảng giao diện hệ thống thuộc tính nhân vật kiểm tra lại.
+
+Tính danh: Đình Tấn (Hiển thị)
+
+Biệt danh: The Dawn (Hiển thị)
+
+Tuổi: 24
+
+Chức nghiệp: 
+
+Vong linh ma pháp sư (Chức nghiệp ẩn) (Chi tiết)
+
+Linh Mục (Chi tiết)
+
+Chức nghiệp phụ trợ:
+
+Phù văn sư (Đẳng cấp 2: 180/200)
+
+Đào quáng (Đẳng cấp 0: 0/50)
+
+Đội Lính Đánh Thuê [The Alliance] (Đội trưởng) [255450/300.000]
+
+---- Thông số ----
+
+Lực lượng: 179
+
+Nhanh nhẹn: 130
+
+Thể lực: 178
+
+Tinh thần: 606 (+6) (!)
+
+---- Chi tiết ----
+
+Level: 25
+
+HP: 12800/12800 (+21.4/s)
+
+MP: 11750/11750 (+63.7/s)
+
+EXP: 0/1781866
+
+Trong 5 ngày vừa phải phân tâm ra để làm việc vừa phải cố gắng theo sau cả đội chiến đấu, cày cuốc luyện cấp, tốc độ thăng cấp của Đình Tấn đã bị chậm đi đáng kể.
+
+Tuy vậy nhưng hắn vẫn không hề bỏ bê tu luyện một ngày nào. Mỗi khi đêm đến, thời gian mọi người nghỉ ngơi đều được hắn tận dụng để tu luyện nên chỉ số thuộc tính vẫn không hề bị tụt hậu.
+
+Nhưng hôm nay gặp phải giới hạn mà hệ thống thông báo làm Đình Tấn có chút ứng phó không kịp. Chưa kịp hiểu chuyện gì xảy ra thì Đình Tấn lại bị một dấu (!) ngay sau dòng tinh thần thuộc tính trên bảng giao diện hệ thống nhân vật hấp dẫn sự chú ý.
+
+Hắn liền thử đưa tay chọn vào dấu (!) thì một bảng giao diện ghi chú liền hiện ra ngay bên cạnh, như để giải thích lý do vì sao lại xuất hiện tình trạng bị giới hạn thuộc tính như vậy.
+
+[Đã đạt giới hạn]
+
+“Ngài hiện tại đã đạt đến giới hạn cao nhất mà tinh thần thuộc tính có thể đạt tới. Do đại não của ngài vẫn chưa được hoàn toàn khai phá và thể chất cơ thể cũng chưa thể chịu đựng được một lượng tinh thần lực lớn hơn [Điểm thể chất * 2 + đẳng cấp * 10] nên hệ thống phán định bất cứ phương pháp tu luyện tăng lên tinh thần lực nào đều sẽ không thể tiếp tục tăng lên điểm thuộc tính của bản thân.
+
+Điều này để hạn chế đến mức thấp nhất khả năng gây ra tổn thương cho dây thần kinh bởi sự quá tải tinh thần lực, tránh tình trạng làm cho cơ năng thân thể bị bại liệt. Mong ngài lượng thứ và cố gắng luyện tập, tăng cường thể chất.”
+
+Xem xong lời giải thích của hệ thống, Đình Tấn đôi chân mày không nhịn được nhíu chặt lại. Trước khi trọng sinh, hắn đã từng tu luyện một thời gian dài nhưng bởi chưa quen đường đi nước bước mà tốc độ chưa thể sánh bằng hiện tại.
+
+Thế nên tình huống như thế này Đình Tấn vẫn là chưa từng gặp phải bao giờ. Cẩn thận suy nghĩ lại mọi khả năng có thể xảy ra, bất chợt hắn lại nhớ đến một nhân vật nổi tiếng trong lịch sử, Stephen Hawking.
+
+Mặc dù sách báo có nhiều ghi chép về căn bệnh ALS của ông, nhưng Đình Tấn từng nghe những anh em trong đội trước đó của hắn đồn thổi rằng đó là do ông ta là một tên pháp sư thiên bẩm mang theo thể chất có khả năng tự động tu luyện, tăng lên tinh thần lực.
+
+Cũng nhờ có lượng tinh thần lực mạnh mẽ như vậy làm hậu thuẫn, ông ta mới có khả năng khai sáng nên một huyền thoại trong ngành vật lý học ở thời điểm hơn một thế kỷ trước, mang cái tên Stephen Hawking trở nên đồng nghĩa với “Chiếc chìa khóa mở cửa vào vũ trụ”.
+
+Nhưng cũng bởi vì ở thời điểm đó chưa có phương pháp hạn chế lại tinh thần lực tăng trưởng hay phương pháp tu luyện tăng lên thể chất, thế nên dây thần kinh trong não bộ và các tủy sống của ông ta bị tổn thương và chết dần đi, dẫn đến cả cơ thể bị bại liệt.
+
+Đã từng, Đình Tấn khi nghe được những tin đồn như vậy chỉ có lắc đầu bĩu môi không tin vì hắn tu luyện đã lâu cũng chưa từng gặp được bình cảnh như vậy. 
+
+Thế nhưng hôm nay hệ thống thông báo làm hắn nhận ra có thể mình đã sai. Cẩn thận mà ngẫm nghĩ lại, trước khi trọng sinh hắn từng là một tên chiến sĩ phải tu luyện thể chất trong nhiều năm để chiến đấu với quái vật nên dĩ nhiên phải khỏe mạnh hơn những người bình thường.
+
+Lúc hắn tu luyện vong linh ma pháp cũng chỉ tầm cỡ hai năm trở lại cho nên có thể vì thế mà không gặp phải bình cảnh.
+
+Đã thông suốt nguyên nhân và kết quả, Đình Tấn liền lắc đầu cười khổ không thôi. Cũng may mắn là hắn đã liên tục tu luyện trong một khoảng thời gian dài cơ bắp cường hóa, thế nên thể chất thuộc tính cũng không phải quá thấp.
+
+Trong lòng cũng âm thầm quyết tâm phải nhanh chóng tìm kiếm phương pháp tu luyện tăng lên thể chất.
+
+Đã không thể tu luyện tinh thần lực, lại thêm Cơ Bắp Cường Hóa cũng được hắn tu luyện xong 5 lượt giới hạn trong ngày. Đình Tấn liền rảnh rỗi nhưng hắn lại không muốn ở không mà phí phạm thời gian.
+
+Liền, hắn nhắm ngay đến phần tu luyện Dẻo Dai Cường Hóa. Tốc độ cũng là một phần của sức mạnh, nếu không phải bởi vì phản ứng chậm Đình Tấn chắc cũng không phải gặp đến nhiều nguy hiểm không đáng có.
+
+Vậy là chỉ còn cách vài tiếng trời sẽ sáng, hắn liền không hề ngừng nghỉ mà dùng toàn bộ khoảng thời gian này để tu luyện Dẻo Dai Cường Hóa thuật, cùng với rèn luyện một chút Phù Văn Sư nghề nghiệp phụ.
+
+8 giờ sáng…
+
+Trong phòng ăn riêng của Đệ Nhất Quán, nơi cả nhóm Đình Tấn đang tụ tập, mọi người lúc này đều có mặt đầy đủ.
+
+Đình Tấn hiện tại tinh thần sáng láng đang ngồi bàn chuyện kinh doanh với Lý Uyên và lão Marc.
+
+Hiện tại bọn họ đang trong giai đoạn mở rộng kinh doanh và bắt đầu vào chiến dịch sản xuất ra dược phẩm theo đơn thuốc mà Đình Tấn đã cung cấp.
+
+- “Ta dự định lấy tên công ty là [The Alliance Y Dược]. Ngươi nghĩ sao?”
+
+Lý Uyên ngón tay vừa chỉ vào trong một xấp giấy tờ tài liệu vừa hưng phấn nói với Đình Tấn. 
+
+Khoảng thời gian này nàng dùng rất ít thời gian để nghỉ ngơi, cũng bởi những đơn thuốc mà Đình Tấn mang đến làm cho giấc mơ vật ngã Rothschild gia tộc của nàng đã không còn là một ý nghĩ viễn vong nữa.
+
+Mỗi ngày chứng kiến kế hoạch của mình từng bước, từng bước dần dần được hoàn thiện, nàng trong lòng nỗi phấn khởi không cách nào kìm nén được, thậm chí đã đè ép đi những cơn mệt mỏi của mình.
+
+Trái ngược lại với trạng thái ‘hít thuốc’ của Lý Uyên, Đình Tấn vẫn khá thong dong bình tĩnh. Hắn vừa ăn vừa cẩn thận xem xét từng tờ tài liệu.
+
+Từ giấy khế ước mua đất, cho đến giấy chứng nhận chất lượng, giấy đăng ký độc quyền sản phẩm… đều được hắn xem không bỏ sót một chữ.
+
+Nghe Lý Uyên kiến nghị, Đình Tấn liền thử xem lại phần tài liệu về việc đăng ký công ty mới. 
+
+Tên công ty: [The Alliance Y Dược] 
+
+Ngày đăng ký: 20/1/2111
+
+Địa chỉ trụ sở chính: 220-320 Boston St., thành phố Loda, nước Entire Land.
+
+Số điện thoại liên lạc: 0123456789
+
+Ngành nghề kinh doanh: Các loại dược phẩm.
+
+Người đại diện/Giám đốc công ty: Đình Tấn
+
+…
+
+Phần đầu tiên ghi nhận về những thông tin của công ty, Fs9hcSOC Đình Tấn không có quá nhiều ý kiến về chuyện đặt tên của công ty. 
+
+Dù sao tên thế nào cũng được, quan trọng là công ty này có thể đạt thành mục đích của hắn, chính là trở thành hậu thuẫn cho [The Alliance] trong tương lai.
+
+Phần còn lại của tài liệu đều là những đạo luật quy định của pháp luật mà một công ty cần phải thực thi. Kèm theo đó là một số thông tin về chi nhánh, đại lý không quá quan trọng nên Đình Tấn liền bỏ qua.
+
+Sau khi đã xem xong cả xấp tài liệu, Đình Tấn mới tùy tiện trả lời Lý Uyên.
+
+- “Cũng được, tùy ngươi thôi.”
+
+Nhìn thấy thái độ của hắn như vậy làm Lý Uyên đang cao hứng cũng bị tuột cảm xúc theo. Nàng gương mặt khó chịu trề môi mà phàn nàn.
+
+- “Này… Ngươi dù sao cũng là ông chủ đấy! Dù là vung tay giao việc thì cũng nên góp ý một chút chớ.”
+
+Không biết từ lúc nào, Lý Uyên lại học được "kỹ năng" trề môi của Ameerah, dường như tính cách cũng đang được trẻ hóa không giống như một nữ doanh nhân thành thục, quyến rũ phải có. 
+
+Đình Tấn chỉ có thể lắc đầu cười khổ, cố gắng nói lãng sang chuyện khác. Hắn không muốn dây vào mấy chuyện đặt tên khó khăn nhức não này.
+
+- “Việc thu mua đất đai thế nào rồi?”Đình Tấn đang ngồi trong không gian phòng riêng, ngay khi vừa định tiến vào một vòng tu luyện "Minh Tưởng Thuật" thì âm thanh hệ thống thông báo liên vang lên bên tai.
+
+Hắn ngạc nhiên vội vàng mở lên bảng giao diện hệ thống thuộc tính nhân vật kiểm tra lại.
+
+Tính danh: Đình Tấn (Hiển thị)
+
+Biệt danh: The Dawn (Hiển thị)
+
+Tuổi: 24
+
+Chức nghiệp: 
+
+Vong linh ma pháp sư (Chức nghiệp ẩn) (Chi tiết)
+
+Linh Mục (Chi tiết)
+
+Chức nghiệp phụ trợ:
+
+Phù văn sư (Đẳng cấp 2: 180/200)
+
+Đào quáng (Đẳng cấp 0: 0/50)
+
+Đội Lính Đánh Thuê [The Alliance] (Đội trưởng) [255450/300.000]
+
+---- Thông số ----
+
+Lực lượng: 179
+
+Nhanh nhẹn: 130
+
+Thể lực: 178
+
+Tinh thần: 606 (+6) (!)
+
+---- Chi tiết ----
+
+Level: 25
+
+HP: 12800/12800 (+21.4/s)
+
+MP: 11750/11750 (+63.7/s)
+
+EXP: 0/1781866
+
+Trong 5 ngày vừa phải phân tâm ra để làm việc vừa phải cố gắng theo sau cả đội chiến đấu, cày cuốc luyện cấp, tốc độ thăng cấp của Đình Tấn đã bị chậm đi đáng kể.
+
+Tuy vậy nhưng hắn vẫn không hề bỏ bê tu luyện một ngày nào. Mỗi khi đêm đến, thời gian mọi người nghỉ ngơi đều được hắn tận dụng để tu luyện nên chỉ số thuộc tính vẫn không hề bị tụt hậu.
+
+Nhưng hôm nay gặp phải giới hạn mà hệ thống thông báo làm Đình Tấn có chút ứng phó không kịp. Chưa kịp hiểu chuyện gì xảy ra thì Đình Tấn lại bị một dấu (!) ngay sau dòng tinh thần thuộc tính trên bảng giao diện hệ thống nhân vật hấp dẫn sự chú ý.
+
+Hắn liền thử đưa tay chọn vào dấu (!) thì một bảng giao diện ghi chú liền hiện ra ngay bên cạnh, như để giải thích lý do vì sao lại xuất hiện tình trạng bị giới hạn thuộc tính như vậy.
+
+[Đã đạt giới hạn]
+
+“Ngài hiện tại đã đạt đến giới hạn cao nhất mà tinh thần thuộc tính có thể đạt tới. Do đại não của ngài vẫn chưa được hoàn toàn khai phá và thể chất cơ thể cũng chưa thể chịu đựng được một lượng tinh thần lực lớn hơn [Điểm thể chất * 2 + đẳng cấp * 10] nên hệ thống phán định bất cứ phương pháp tu luyện tăng lên tinh thần lực nào đều sẽ không thể tiếp tục tăng lên điểm thuộc tính của bản thân.
+
+Điều này để hạn chế đến mức thấp nhất khả năng gây ra tổn thương cho dây thần kinh bởi sự quá tải tinh thần lực, tránh tình trạng làm cho cơ năng thân thể bị bại liệt. Mong ngài lượng thứ và cố gắng luyện tập, tăng cường thể chất.”
+
+Xem xong lời giải thích của hệ thống, Đình Tấn đôi chân mày không nhịn được nhíu chặt lại. Trước khi trọng sinh, hắn đã từng tu luyện một thời gian dài nhưng bởi chưa quen đường đi nước bước mà tốc độ chưa thể sánh bằng hiện tại.
+
+Thế nên tình huống như thế này Đình Tấn vẫn là chưa từng gặp phải bao giờ. Cẩn thận suy nghĩ lại mọi khả năng có thể xảy ra, bất chợt hắn lại nhớ đến một nhân vật nổi tiếng trong lịch sử, Stephen Hawking.
+
+Mặc dù sách báo có nhiều ghi chép về căn bệnh ALS của ông, nhưng Đình Tấn từng nghe những anh em trong đội trước đó của hắn đồn thổi rằng đó là do ông ta là một tên pháp sư thiên bẩm mang theo thể chất có khả năng tự động tu luyện, tăng lên tinh thần lực.
+
+Cũng nhờ có lượng tinh thần lực mạnh mẽ như vậy làm hậu thuẫn, ông ta mới có khả năng khai sáng nên một huyền thoại trong ngành vật lý học ở thời điểm hơn một thế kỷ trước, mang cái tên Stephen Hawking trở nên đồng nghĩa với “Chiếc chìa khóa mở cửa vào vũ trụ”.
+
+Nhưng cũng bởi vì ở thời điểm đó chưa có phương pháp hạn chế lại tinh thần lực tăng trưởng hay phương pháp tu luyện tăng lên thể chất, thế nên dây thần kinh trong não bộ và các tủy sống của ông ta bị tổn thương và chết dần đi, dẫn đến cả cơ thể bị bại liệt.
+
+Đã từng, Đình Tấn khi nghe được những tin đồn như vậy chỉ có lắc đầu bĩu môi không tin vì hắn tu luyện đã lâu cũng chưa từng gặp được bình cảnh như vậy. 
+
+Thế nhưng hôm nay hệ thống thông báo làm hắn nhận ra có thể mình đã sai. Cẩn thận mà ngẫm nghĩ lại, trước khi trọng sinh hắn từng là một tên chiến sĩ phải tu luyện thể chất trong nhiều năm để chiến đấu với quái vật nên dĩ nhiên phải khỏe mạnh hơn những người bình thường.
+
+Lúc hắn tu luyện vong linh ma pháp cũng chỉ tầm cỡ hai năm trở lại cho nên có thể vì thế mà không gặp phải bình cảnh.
+
+Đã thông suốt nguyên nhân và kết quả, Đình Tấn liền lắc đầu cười khổ không thôi. Cũng may mắn là hắn đã liên tục tu luyện trong một khoảng thời gian dài cơ bắp cường hóa, thế nên thể chất thuộc tính cũng không phải quá thấp.
+
+Trong lòng cũng âm thầm quyết tâm phải nhanh chóng tìm kiếm phương pháp tu luyện tăng lên thể chất.
+
+Đã không thể tu luyện tinh thần lực, lại thêm Cơ Bắp Cường Hóa cũng được hắn tu luyện xong 5 lượt giới hạn trong ngày. Đình Tấn liền rảnh rỗi nhưng hắn lại không muốn ở không mà phí phạm thời gian.
+
+Liền, hắn nhắm ngay đến phần tu luyện Dẻo Dai Cường Hóa. Tốc độ cũng là một phần của sức mạnh, nếu không phải bởi vì phản ứng chậm Đình Tấn chắc cũng không phải gặp đến nhiều nguy hiểm không đáng có.
+
+Vậy là chỉ còn cách vài tiếng trời sẽ sáng, hắn liền không hề ngừng nghỉ mà dùng toàn bộ khoảng thời gian này để tu luyện Dẻo Dai Cường Hóa thuật, cùng với rèn luyện một chút Phù Văn Sư nghề nghiệp phụ.
+
+8 giờ sáng…
+
+Trong phòng ăn riêng của Đệ Nhất Quán, nơi cả nhóm Đình Tấn đang tụ tập, mọi người lúc này đều có mặt đầy đủ.
+
+Đình Tấn hiện tại tinh thần sáng láng đang ngồi bàn chuyện kinh doanh với Lý Uyên và lão Marc.
+
+Hiện tại bọn họ đang trong giai đoạn mở rộng kinh doanh và bắt đầu vào chiến dịch sản xuất ra dược phẩm theo đơn thuốc mà Đình Tấn đã cung cấp.
+
+- “Ta dự định lấy tên công ty là [The Alliance Y Dược]. Ngươi nghĩ sao?”
+
+Lý Uyên ngón tay vừa chỉ vào trong một xấp giấy tờ tài liệu vừa hưng phấn nói với Đình Tấn. 
+
+Khoảng thời gian này nàng dùng rất ít thời gian để nghỉ ngơi, cũng bởi những đơn thuốc mà Đình Tấn mang đến làm cho giấc mơ vật ngã Rothschild gia tộc của nàng đã không còn là một ý nghĩ viễn vong nữa.
+
+Mỗi ngày chứng kiến kế hoạch của mình từng bước, từng bước dần dần được hoàn thiện, nàng trong lòng nỗi phấn khởi không cách nào kìm nén được, thậm chí đã đè ép đi những cơn mệt mỏi của mình.
+
+Trái ngược lại với trạng thái ‘hít thuốc’ của Lý Uyên, Đình Tấn vẫn khá thong dong bình tĩnh. Hắn vừa ăn vừa cẩn thận xem xét từng tờ tài liệu.
+
+Từ giấy khế ước mua đất, cho đến giấy chứng nhận chất lượng, giấy đăng ký độc quyền sản phẩm… đều được hắn xem không bỏ sót một chữ.
+
+Nghe Lý Uyên kiến nghị, Đình Tấn liền thử xem lại phần tài liệu về việc đăng ký công ty mới. 
+
+Tên công ty: [The Alliance Y Dược] 
+
+Ngày đăng ký: 20/1/2111
+
+Địa chỉ trụ sở chính: 220-320 Boston St., thành phố Loda, nước Entire Land.
+
+Số điện thoại liên lạc: 0123456789
+
+Ngành nghề kinh doanh: Các loại dược phẩm.
+
+Người đại diện/Giám đốc công ty: Đình Tấn
+
+…
+
+Phần đầu tiên ghi nhận về những thông tin của công ty, Fs9hcSOC Đình Tấn không có quá nhiều ý kiến về chuyện đặt tên của công ty. 
+
+Dù sao tên thế nào cũng được, quan trọng là công ty này có thể đạt thành mục đích của hắn, chính là trở thành hậu thuẫn cho [The Alliance] trong tương lai.
+
+Phần còn lại của tài liệu đều là những đạo luật quy định của pháp luật mà một công ty cần phải thực thi. Kèm theo đó là một số thông tin về chi nhánh, đại lý không quá quan trọng nên Đình Tấn liền bỏ qua.
+
+Sau khi đã xem xong cả xấp tài liệu, Đình Tấn mới tùy tiện trả lời Lý Uyên.
+
+- “Cũng được, tùy ngươi thôi.”
+
+Nhìn thấy thái độ của hắn như vậy làm Lý Uyên đang cao hứng cũng bị tuột cảm xúc theo. Nàng gương mặt khó chịu trề môi mà phàn nàn.
+
+- “Này… Ngươi dù sao cũng là ông chủ đấy! Dù là vung tay giao việc thì cũng nên góp ý một chút chớ.”
+
+Không biết từ lúc nào, Lý Uyên lại học được "kỹ năng" trề môi của Ameerah, dường như tính cách cũng đang được trẻ hóa không giống như một nữ doanh nhân thành thục, quyến rũ phải có. 
+
+Đình Tấn chỉ có thể lắc đầu cười khổ, cố gắng nói lãng sang chuyện khác. Hắn không muốn dây vào mấy chuyện đặt tên khó khăn nhức não này.
+
+- “Việc thu mua đất đai thế nào rồi?”

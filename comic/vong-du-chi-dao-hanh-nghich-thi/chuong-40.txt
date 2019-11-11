@@ -1,0 +1,317 @@
+Chương 40: Giao dịch
+ 
+ 	Thần phù hộ chi thành khu buôn bán có một lớn tửu quán , cũng là kiểu tây phương lối kiến trúc . Tửu quán chủ yếu là cho người chơi một chỗ nghỉ mà thiết trí , vị trí rất nhiều , mặc dù nói hư nghĩ uống rượu không xuất ra trong hiện thực rượu cái loại cảm giác này , nhưng là quầy rượu hoàn cảnh xem như không tệ, còn có NPC dương cầm sư không ngừng khảy đàn trữ tình âm nhạc , đi train level ngoài , tới nơi này nghỉ ngơi một chút cũng là chọn lựa không tồi .
+ 
+ 	Đương nhiên bởi vì bây giờ là Open Server không lâu quan hệ , mọi người đều điên cuồng đi train level đi , bây giờ đang ở trong tửu quán nhân rất là ít , thì ra là một ít game thủ giải trí , căn bản cũng không để ý đẳng cấp cái loại nầy mới lại xuất hiện tại nơi này . Lý Hoài Lâm cùng Dạ Hàng liền hẹn gặp tại tại đây gặp mặt .
+ 
+ 	"Hoài Lâm , trước chúc mừng ngươi đả thông vực sâu cấp phó bản ." Chứng kiến Lý Hoài Lâm ngồi xuống , Linh Giới Dạ Hàng vừa cười vừa nói , "Thế nào , nghe nói lần thứ nhất đả thông một cái phó bản đồ tỉ lệ rơi đồ đều sẽ đặc biệt cao hơn một điểm đấy, thu hoạch rất tốt chứ?"
+ 
+ 	"Thu hoạch a, cầm sách dạy kỹ năng , bất quá đích thật là tốt kỹ năng ." Lý Hoài Lâm cũng không còn nhiều giữ lại , nói thẳng thẳng ngữ , "Ra kiện level 20 item hoàng kim , bất quá là tăng máu nghề nghiệp hỗn dùng đấy pháp trượng ."
+ 
+ 	"Level 20 vũ khí màu vàng óng ..." Linh Giới Dạ Hàng hít vào một ngụm khí lạnh , "Đây là toàn bộ server đệ nhất kiện kim ** ."
+ 
+ 	"Uh, đại khái đi." Lý Hoài Lâm đối với cái này cũng không phải rất để ý , bây giờ còn là mình thăng cấp giai đoạn , vũ khí cũng không thể dùng đến cuối cùng , có cùng không có đều không khác mấy , mình thăng cấp cũng không cần đánh quái , một bả tốt vũ khí cũng không thể trợ giúp mình thăng cấp nhanh hơn , tăng thêm mình đã chết muốn bạo chết , cho nên hoàn toàn vô dụng , nếu là thật ra chiến sĩ vũ khí , nói không chừng mình bán đấu giá đổi cho nhau bình máu .
+ 
+ 	"Vũ khí vẫn còn ngươi bên kia sao? Có đúng hay không chuẩn bị bán đi? chúng ta Linh giới có tiền thu ." Dạ Hàng cũng cho rằng mặt khác mấy người là Lý Hoài Lâm kéo vào góp đủ số người, ra trang bị nên tính là Lý Hoài Lâm đấy.
+ 
+ 	"Híc, vũ khí phân cho người khác rồi." Lý Hoài Lâm sờ đầu một cái , "Ta liền phân đã đến một sách dạy kỹ năng , thứ khác đều không ."
+ 
+ 	"Ai?" Dạ Hàng sửng sốt một chút , sau đó nghĩ nghĩ vừa mới tự xem đến đi theo Lý Hoài Lâm đi ra ngoài mấy người nữ nhân , đột nhiên ý thức được cái gì , không có hảo ý cười cười , "Há, là như thế này , ta minh bạch , minh bạch ."
+ 
+ 	"Khái khái ..." Lý Hoài Lâm tuy nhiên không biết Dạ Hàng đã minh bạch cái gì , nhưng nhìn nụ cười của hắn liền biết không phải là thứ gì tốt , bất quá cũng lười giải thích , "Đúng rồi Dạ Hàng , ngoại trừ trang bị chuyện , còn có việc sao?"
+ 
+ 	"Hừm..." Dạ Hàng nghĩ nghĩ , "Như vậy , ta có thể hỏi ngươi có nguyện ý hay không bán ra độc xà huyệt động phó bản tiến công chiếm đóng sao?"
+ 
+ 	"Tiến công chiếm đóng?" Lý Hoài Lâm sửng sốt một chút , nhưng là nghĩ nghĩ mình có cái gì tiến công chiếm đóng a, nếu như bị Linh giới đám người này biết mình là đánh như thế nào còn không toàn bộ công hội Report Bug a, "Ây... Cái này có chút phiền toái ah ... Ta dùng đi một tí ta bản thân đặc thù kỹ năng ... Những người khác coi như là dùng biện pháp của ta cũng hẳn là không thể thực hiện được ah ."
+ 
+ 	"Hả?" Dạ Hàng nghĩ nghĩ , gật gật đầu , xem ra Lý Hoài Lâm ý tứ nói đúng là mình có đặc thù kỹ năng hoặc là vật phẩm mới có thể sử dụng cái này Bug , hoặc là hắn uyển chuyển nói mình không muốn bán , "Đã như vậy , quên đi đi."
+ 
+ 	"Bất quá ta ngược lại là có thể cung cấp cho ngươi đám bọn họ sở hữu:tất cả quái vật tin tức cùng sở hữu:tất cả BOSS kỹ năng ." Lý Hoài Lâm nghĩ nghĩ nói ra , dù sao còn cầm người khác 10 kim đâu rồi, không tốt lắm ý tứ cái gì cũng không cho .
+ 
+ 	"Hả? Thật sự?" Dạ Hàng nhãn tình sáng lên , như vậy cũng tốt a, cho dù không có Bug đuổi , mình biết rồi toàn bộ phó bản quái kỹ năng và số lượng , tỉnh rất nhiều phiền toái ah . Giống như:bình thường những...này kỹ năng đều phải người của mình chết đi về sau thử đi ra ngoài , không chỉ có lãng phí thời gian , đã chết còn phải khấu trừ kinh nghiệm , tại muốn xoát trở về vừa muốn lãng phí thời gian , hiện tại những tin tức này đây quả thực là cho công hội tại đoạt thời gian ah .
+ 
+ 	"Uh, kể cả che dấu BOSS kỹ năng ." Lý Hoài Lâm nói ra .
+ 
+ 	"Vực sâu cấp bậc phó bản thật sự có che dấu BOSS?" Dạ Hàng tuy nhiên nghe nói qua cái này , nhưng là còn không có đánh qua vực sâu cấp bậc phó bản , cho nên cũng là rất kinh ngạc .
+ 
+ 	"Đúng vậy a, che dấu BOSS là Xà Thần Địch Khắc Y Mã Tư hình bóng , hắn kỹ năng ..." Lý Hoài Lâm nghĩ nghĩ , giống như muốn nói đồ vật thật sự là nhiều lắm , hiện tại vừa nhanh là cơm tối thời gian , vì vậy nói nói: " hiện tại thời gian hơi trễ rồi, ta muốn hạ tuyến , như vậy đi , ngươi đem ngươi hòm thư lưu cho ta...ta trực tiếp ghi nhất thiên văn bản tài liệu , đem ta có thể nghĩ tới cái gì cũng viết lên , sau đó phát đến ngươi hòm thư , đêm nay liền giải quyết ."
+ 
+ 	"Há, không có vấn đề ." Dạ Hàng gật gật đầu , sau đó báo một lần mình hòm thư địa chỉ , nghĩ nghĩ còn nói nói: " Hoài Lâm , ngươi này tiến công chiếm đóng chuẩn bị bán bao nhiêu tiền?"
+ 
+ 	"Tiền?" Lý Hoài Lâm sửng sốt một chút , hắn bây giờ còn thật sự đòi tiền , bất quá lần này hắn thật đúng là không muốn muốn , "Được rồi, này đưa , lần trước cám ơn ngươi hỗ trợ , này 10 kim giúp ta chiếu cố rất lớn ."
+ 
+ 	"Không cần tiền này cũng không hay a, hội trường chúng ta nhưng là phải cầu ta cố ý đến giao hảo giao hảo của ngươi , tốt nhất cho ngươi thiếu chúng ta một cái nhân tình đấy. Nếu cho hắn biết ta chẳng những không có cho ngươi nợ nhân tình , ngược lại cho ngươi đem lần trước nhân tình cho trả , ta nhất định sẽ cho bóp chết đấy." Dạ Hàng phi thường thành khẩn liền đem mục đích của mình nói , bởi vì Lý Hoài Lâm từ vừa mới bắt đầu nói chuyện cũng rất thành thật , Dạ Hàng hiểu rõ đạo Lý Hoài Lâm khẳng định cũng là không rất ưa thích đi vòng vèo đấy, cho nên nói vô cùng thẳng .
+ 
+ 	"Như vậy ah ." Lý Hoài Lâm gật gật đầu , đột nhiên lại có chút kỳ quái , "Các ngươi hội trưởng giao hảo ta xong rồi sao?"
+ 
+ 	"Ngươi chẳng lẽ không biết ngươi bây giờ có nhiều hỏa ấy ư, ta đoán chừng không chỉ ta đám bọn họ Linh Giới Công Hội , phía ngoài đại công hội đoán chừng đều đang tìm ngươi đây ." Dạ Hàng cười cười , "Ngươi suy nghĩ một chút , hiện tại ngươi thế nhưng mà qua cửa vực sâu cấp bậc phó bản đích nhân vật , cái nào công hội có thể không coi trọng ngươi , đương nhiên muốn tìm ngươi tính sổ , công hội đoán chừng cũng có ."
+ 
+ 	"Tìm ta tính sổ?" Lý Hoài Lâm nhãn tình sáng lên , tìm ta tính sổ tốt , ước gì toàn bộ công hội truy sát ta ah .
+ 
+ 	"Đúng vậy a, chính là một ít sắp qua cửa Địa Ngục phó bản công hội , kết quả danh tiếng đều bị ngươi đã đoạt , có thể không hận ngươi sao?" Dạ Hàng cười cười , kỳ thật Linh giới một đoàn cũng có thật nhiều người muốn bóp chết Lý Hoài Lâm , "Thế nào , cần đám bọn họ hỗ trợ liền nói một tiếng , chúng ta Linh giới không sợ đắc tội bất luận cái gì công hội ."
+ 
+ 	"Tuyệt đối đừng." Lý Hoài Lâm mau nói nói, thật vất vả tìm mấy cái công hội đuổi giết mình , này cũng không thể bị Linh giới ngăn cản , tranh thủ thời gian biên cái lý do , "Ta đối với chính mình cực kỳ có lòng tin , xin đừng hỗ trợ , bằng không thì đả kích tự ái của ta tâm đấy."
+ 
+ 	"Há, như vậy?" Dạ Hàng cười cười , "Kéo xa , vẫn là nói nói đi , ngươi chuẩn bị bán bao nhiêu tiền , tài liệu này ."
+ 
+ 	"Hừm..." Lý Hoài Lâm nghĩ nghĩ , đột nhiên tâm niệm vừa động , "Đúng rồi , các ngươi Linh giới có thật nhiều luyện kim sư đúng không ."
+ 
+ 	"Há, đương nhiên , hậu cần đội chuyên tấn công luyện kim có chừng 50 đến người đi, làm sao vậy?" Dạ Hàng hỏi.
+ 
+ 	"Này có phải hay không các người vì xông luyện kim đẳng cấp , làm rất nhiều bình máu , tựu là chậm chạp hồi phục cái chủng loại kia , không phải trong nháy mắt khôi phục ." Lý Hoài Lâm hỏi.
+ 
+ 	"Hả? Trung lượng sinh mệnh dược tề ấy ư, nhiều, thật sự là nhiều lắm , đầy khắp núi đồi đều không có chỗ để , ngươi muốn?" Dạ Hàng có chút kỳ quái .
+ 
+ 	"Muốn a, quá nhu yếu ." Lý Hoài Lâm cuồng hỉ , "Ngươi liền cho ta cái này là tốt rồi , có thể cho ta bao nhiêu cho ta bao nhiêu , ta toàn bộ muốn ."
+ 
+ 	"Ngươi muốn nhiều như vậy bình máu làm gì vậy ..."
+ 
+ 	"Ây... Tiếp cá nhiệm vụ , cần đầy khắp núi đồi bình máu ." Lý Hoài Lâm nghĩ nghĩ biên đường
+ 
+ 	"Uh, được, không có vấn đề , ta trở về gọi người cho ngươi đưa tới , đương nhiên tự chúng ta cũng muốn lưu một điểm , cụ thể bao nhiêu số lượng , ta trở về trước phải cùng bộ hậu cần trao đổi , đại khái ngày mai cho ngươi đi, ngươi không cần dùng gấp chứ?" Dạ Hàng hỏi.
+ 
+ 	"Không vội , thật sự không vội ." Lý Hoài Lâm tăng máu lượng BUFF nhưng còn có 5 ngày thời gian đâu rồi, hiện tại uống máu hiệu quả quá thấp , hắn đều là chuẩn bị giữ lại các loại:đợi 5 ngày thoáng qua một cái , liền điên cuồng  thăng cấp đấy.
+ 
+ 	"Vậy thì tốt, tóm lại lại đại biểu Linh Giới Công Hội tỏ vẻ thoáng một phát chúng ta muốn giao hảo thành ý của ngươi , ta sẽ không quấy rầy ngươi ăn cơm đi ." Nói xong rồi sự tình , Dạ Hàng coi như là thật hài lòng , tuy nhiên không có làm được Bug , cũng là hoàn thành nhiệm vụ căn bản giao hảo , còn có lấy được phó bản tư liệu xem như phúc lợi . Nhìn nhìn thời gian cũng không còn nhiều lắm rồi, hơn nữa Lý Hoài Lâm cũng nói muốn hạ tuyến , vì vậy đứng lên nói ra: "Vậy cứ như thế , tóm lại lại đại biểu Linh Giới Công Hội tỏ vẻ thoáng một phát chúng ta muốn giao hảo thành ý của ngươi , ta sẽ không quấy rầy ngươi ăn cơm đi ."
+ 
+ 	"Được, ngày mai gặp ." Lý Hoài Lâm gật gật đầu .
+ 
+ 
+         Chương trình ủng hộ Thương hiệu Việt của Tàng Thư ViệnChương 40: Giao dịch
+ 
+ 	Thần phù hộ chi thành khu buôn bán có một lớn tửu quán , cũng là kiểu tây phương lối kiến trúc . Tửu quán chủ yếu là cho người chơi một chỗ nghỉ mà thiết trí , vị trí rất nhiều , mặc dù nói hư nghĩ uống rượu không xuất ra trong hiện thực rượu cái loại cảm giác này , nhưng là quầy rượu hoàn cảnh xem như không tệ, còn có NPC dương cầm sư không ngừng khảy đàn trữ tình âm nhạc , đi train level ngoài , tới nơi này nghỉ ngơi một chút cũng là chọn lựa không tồi .
+ 
+ 	Đương nhiên bởi vì bây giờ là Open Server không lâu quan hệ , mọi người đều điên cuồng đi train level đi , bây giờ đang ở trong tửu quán nhân rất là ít , thì ra là một ít game thủ giải trí , căn bản cũng không để ý đẳng cấp cái loại nầy mới lại xuất hiện tại nơi này . Lý Hoài Lâm cùng Dạ Hàng liền hẹn gặp tại tại đây gặp mặt .
+ 
+ 	"Hoài Lâm , trước chúc mừng ngươi đả thông vực sâu cấp phó bản ." Chứng kiến Lý Hoài Lâm ngồi xuống , Linh Giới Dạ Hàng vừa cười vừa nói , "Thế nào , nghe nói lần thứ nhất đả thông một cái phó bản đồ tỉ lệ rơi đồ đều sẽ đặc biệt cao hơn một điểm đấy, thu hoạch rất tốt chứ?"
+ 
+ 	"Thu hoạch a, cầm sách dạy kỹ năng , bất quá đích thật là tốt kỹ năng ." Lý Hoài Lâm cũng không còn nhiều giữ lại , nói thẳng thẳng ngữ , "Ra kiện level 20 item hoàng kim , bất quá là tăng máu nghề nghiệp hỗn dùng đấy pháp trượng ."
+ 
+ 	"Level 20 vũ khí màu vàng óng ..." Linh Giới Dạ Hàng hít vào một ngụm khí lạnh , "Đây là toàn bộ server đệ nhất kiện kim ** ."
+ 
+ 	"Uh, đại khái đi." Lý Hoài Lâm đối với cái này cũng không phải rất để ý , bây giờ còn là mình thăng cấp giai đoạn , vũ khí cũng không thể dùng đến cuối cùng , có cùng không có đều không khác mấy , mình thăng cấp cũng không cần đánh quái , một bả tốt vũ khí cũng không thể trợ giúp mình thăng cấp nhanh hơn , tăng thêm mình đã chết muốn bạo chết , cho nên hoàn toàn vô dụng , nếu là thật ra chiến sĩ vũ khí , nói không chừng mình bán đấu giá đổi cho nhau bình máu .
+ 
+ 	"Vũ khí vẫn còn ngươi bên kia sao? Có đúng hay không chuẩn bị bán đi? chúng ta Linh giới có tiền thu ." Dạ Hàng cũng cho rằng mặt khác mấy người là Lý Hoài Lâm kéo vào góp đủ số người, ra trang bị nên tính là Lý Hoài Lâm đấy.
+ 
+ 	"Híc, vũ khí phân cho người khác rồi." Lý Hoài Lâm sờ đầu một cái , "Ta liền phân đã đến một sách dạy kỹ năng , thứ khác đều không ."
+ 
+ 	"Ai?" Dạ Hàng sửng sốt một chút , sau đó nghĩ nghĩ vừa mới tự xem đến đi theo Lý Hoài Lâm đi ra ngoài mấy người nữ nhân , đột nhiên ý thức được cái gì , không có hảo ý cười cười , "Há, là như thế này , ta minh bạch , minh bạch ."
+ 
+ 	"Khái khái ..." Lý Hoài Lâm tuy nhiên không biết Dạ Hàng đã minh bạch cái gì , nhưng nhìn nụ cười của hắn liền biết không phải là thứ gì tốt , bất quá cũng lười giải thích , "Đúng rồi Dạ Hàng , ngoại trừ trang bị chuyện , còn có việc sao?"
+ 
+ 	"Hừm..." Dạ Hàng nghĩ nghĩ , "Như vậy , ta có thể hỏi ngươi có nguyện ý hay không bán ra độc xà huyệt động phó bản tiến công chiếm đóng sao?"
+ 
+ 	"Tiến công chiếm đóng?" Lý Hoài Lâm sửng sốt một chút , nhưng là nghĩ nghĩ mình có cái gì tiến công chiếm đóng a, nếu như bị Linh giới đám người này biết mình là đánh như thế nào còn không toàn bộ công hội Report Bug a, "Ây... Cái này có chút phiền toái ah ... Ta dùng đi một tí ta bản thân đặc thù kỹ năng ... Những người khác coi như là dùng biện pháp của ta cũng hẳn là không thể thực hiện được ah ."
+ 
+ 	"Hả?" Dạ Hàng nghĩ nghĩ , gật gật đầu , xem ra Lý Hoài Lâm ý tứ nói đúng là mình có đặc thù kỹ năng hoặc là vật phẩm mới có thể sử dụng cái này Bug , hoặc là hắn uyển chuyển nói mình không muốn bán , "Đã như vậy , quên đi đi."
+ 
+ 	"Bất quá ta ngược lại là có thể cung cấp cho ngươi đám bọn họ sở hữu:tất cả quái vật tin tức cùng sở hữu:tất cả BOSS kỹ năng ." Lý Hoài Lâm nghĩ nghĩ nói ra , dù sao còn cầm người khác 10 kim đâu rồi, không tốt lắm ý tứ cái gì cũng không cho .
+ 
+ 	"Hả? Thật sự?" Dạ Hàng nhãn tình sáng lên , như vậy cũng tốt a, cho dù không có Bug đuổi , mình biết rồi toàn bộ phó bản quái kỹ năng và số lượng , tỉnh rất nhiều phiền toái ah . Giống như:bình thường những...này kỹ năng đều phải người của mình chết đi về sau thử đi ra ngoài , không chỉ có lãng phí thời gian , đã chết còn phải khấu trừ kinh nghiệm , tại muốn xoát trở về vừa muốn lãng phí thời gian , hiện tại những tin tức này đây quả thực là cho công hội tại đoạt thời gian ah .
+ 
+ 	"Uh, kể cả che dấu BOSS kỹ năng ." Lý Hoài Lâm nói ra .
+ 
+ 	"Vực sâu cấp bậc phó bản thật sự có che dấu BOSS?" Dạ Hàng tuy nhiên nghe nói qua cái này , nhưng là còn không có đánh qua vực sâu cấp bậc phó bản , cho nên cũng là rất kinh ngạc .
+ 
+ 	"Đúng vậy a, che dấu BOSS là Xà Thần Địch Khắc Y Mã Tư hình bóng , hắn kỹ năng ..." Lý Hoài Lâm nghĩ nghĩ , giống như muốn nói đồ vật thật sự là nhiều lắm , hiện tại vừa nhanh là cơm tối thời gian , vì vậy nói nói: " hiện tại thời gian hơi trễ rồi, ta muốn hạ tuyến , như vậy đi , ngươi đem ngươi hòm thư lưu cho ta...ta trực tiếp ghi nhất thiên văn bản tài liệu , đem ta có thể nghĩ tới cái gì cũng viết lên , sau đó phát đến ngươi hòm thư , đêm nay liền giải quyết ."
+ 
+ 	"Há, không có vấn đề ." Dạ Hàng gật gật đầu , sau đó báo một lần mình hòm thư địa chỉ , nghĩ nghĩ còn nói nói: " Hoài Lâm , ngươi này tiến công chiếm đóng chuẩn bị bán bao nhiêu tiền?"
+ 
+ 	"Tiền?" Lý Hoài Lâm sửng sốt một chút , hắn bây giờ còn thật sự đòi tiền , bất quá lần này hắn thật đúng là không muốn muốn , "Được rồi, này đưa , lần trước cám ơn ngươi hỗ trợ , này 10 kim giúp ta chiếu cố rất lớn ."
+ 
+ 	"Không cần tiền này cũng không hay a, hội trường chúng ta nhưng là phải cầu ta cố ý đến giao hảo giao hảo của ngươi , tốt nhất cho ngươi thiếu chúng ta một cái nhân tình đấy. Nếu cho hắn biết ta chẳng những không có cho ngươi nợ nhân tình , ngược lại cho ngươi đem lần trước nhân tình cho trả , ta nhất định sẽ cho bóp chết đấy." Dạ Hàng phi thường thành khẩn liền đem mục đích của mình nói , bởi vì Lý Hoài Lâm từ vừa mới bắt đầu nói chuyện cũng rất thành thật , Dạ Hàng hiểu rõ đạo Lý Hoài Lâm khẳng định cũng là không rất ưa thích đi vòng vèo đấy, cho nên nói vô cùng thẳng .
+ 
+ 	"Như vậy ah ." Lý Hoài Lâm gật gật đầu , đột nhiên lại có chút kỳ quái , "Các ngươi hội trưởng giao hảo ta xong rồi sao?"
+ 
+ 	"Ngươi chẳng lẽ không biết ngươi bây giờ có nhiều hỏa ấy ư, ta đoán chừng không chỉ ta đám bọn họ Linh Giới Công Hội , phía ngoài đại công hội đoán chừng đều đang tìm ngươi đây ." Dạ Hàng cười cười , "Ngươi suy nghĩ một chút , hiện tại ngươi thế nhưng mà qua cửa vực sâu cấp bậc phó bản đích nhân vật , cái nào công hội có thể không coi trọng ngươi , đương nhiên muốn tìm ngươi tính sổ , công hội đoán chừng cũng có ."
+ 
+ 	"Tìm ta tính sổ?" Lý Hoài Lâm nhãn tình sáng lên , tìm ta tính sổ tốt , ước gì toàn bộ công hội truy sát ta ah .
+ 
+ 	"Đúng vậy a, chính là một ít sắp qua cửa Địa Ngục phó bản công hội , kết quả danh tiếng đều bị ngươi đã đoạt , có thể không hận ngươi sao?" Dạ Hàng cười cười , kỳ thật Linh giới một đoàn cũng có thật nhiều người muốn bóp chết Lý Hoài Lâm , "Thế nào , cần đám bọn họ hỗ trợ liền nói một tiếng , chúng ta Linh giới không sợ đắc tội bất luận cái gì công hội ."
+ 
+ 	"Tuyệt đối đừng." Lý Hoài Lâm mau nói nói, thật vất vả tìm mấy cái công hội đuổi giết mình , này cũng không thể bị Linh giới ngăn cản , tranh thủ thời gian biên cái lý do , "Ta đối với chính mình cực kỳ có lòng tin , xin đừng hỗ trợ , bằng không thì đả kích tự ái của ta tâm đấy."
+ 
+ 	"Há, như vậy?" Dạ Hàng cười cười , "Kéo xa , vẫn là nói nói đi , ngươi chuẩn bị bán bao nhiêu tiền , tài liệu này ."
+ 
+ 	"Hừm..." Lý Hoài Lâm nghĩ nghĩ , đột nhiên tâm niệm vừa động , "Đúng rồi , các ngươi Linh giới có thật nhiều luyện kim sư đúng không ."
+ 
+ 	"Há, đương nhiên , hậu cần đội chuyên tấn công luyện kim có chừng 50 đến người đi, làm sao vậy?" Dạ Hàng hỏi.
+ 
+ 	"Này có phải hay không các người vì xông luyện kim đẳng cấp , làm rất nhiều bình máu , tựu là chậm chạp hồi phục cái chủng loại kia , không phải trong nháy mắt khôi phục ." Lý Hoài Lâm hỏi.
+ 
+ 	"Hả? Trung lượng sinh mệnh dược tề ấy ư, nhiều, thật sự là nhiều lắm , đầy khắp núi đồi đều không có chỗ để , ngươi muốn?" Dạ Hàng có chút kỳ quái .
+ 
+ 	"Muốn a, quá nhu yếu ." Lý Hoài Lâm cuồng hỉ , "Ngươi liền cho ta cái này là tốt rồi , có thể cho ta bao nhiêu cho ta bao nhiêu , ta toàn bộ muốn ."
+ 
+ 	"Ngươi muốn nhiều như vậy bình máu làm gì vậy ..."
+ 
+ 	"Ây... Tiếp cá nhiệm vụ , cần đầy khắp núi đồi bình máu ." Lý Hoài Lâm nghĩ nghĩ biên đường
+ 
+ 	"Uh, được, không có vấn đề , ta trở về gọi người cho ngươi đưa tới , đương nhiên tự chúng ta cũng muốn lưu một điểm , cụ thể bao nhiêu số lượng , ta trở về trước phải cùng bộ hậu cần trao đổi , đại khái ngày mai cho ngươi đi, ngươi không cần dùng gấp chứ?" Dạ Hàng hỏi.
+ 
+ 	"Không vội , thật sự không vội ." Lý Hoài Lâm tăng máu lượng BUFF nhưng còn có 5 ngày thời gian đâu rồi, hiện tại uống máu hiệu quả quá thấp , hắn đều là chuẩn bị giữ lại các loại:đợi 5 ngày thoáng qua một cái , liền điên cuồng  thăng cấp đấy.
+ 
+ 	"Vậy thì tốt, tóm lại lại đại biểu Linh Giới Công Hội tỏ vẻ thoáng một phát chúng ta muốn giao hảo thành ý của ngươi , ta sẽ không quấy rầy ngươi ăn cơm đi ." Nói xong rồi sự tình , Dạ Hàng coi như là thật hài lòng , tuy nhiên không có làm được Bug , cũng là hoàn thành nhiệm vụ căn bản giao hảo , còn có lấy được phó bản tư liệu xem như phúc lợi . Nhìn nhìn thời gian cũng không còn nhiều lắm rồi, hơn nữa Lý Hoài Lâm cũng nói muốn hạ tuyến , vì vậy đứng lên nói ra: "Vậy cứ như thế , tóm lại lại đại biểu Linh Giới Công Hội tỏ vẻ thoáng một phát chúng ta muốn giao hảo thành ý của ngươi , ta sẽ không quấy rầy ngươi ăn cơm đi ."
+ 
+ 	"Được, ngày mai gặp ." Lý Hoài Lâm gật gật đầu .
+ 
+ 
+         Chương trình ủng hộ Thương hiệu Việt của Tàng Thư ViệnChương 40: Giao dịch
+ 
+ 	Thần phù hộ chi thành khu buôn bán có một lớn tửu quán , cũng là kiểu tây phương lối kiến trúc . Tửu quán chủ yếu là cho người chơi một chỗ nghỉ mà thiết trí , vị trí rất nhiều , mặc dù nói hư nghĩ uống rượu không xuất ra trong hiện thực rượu cái loại cảm giác này , nhưng là quầy rượu hoàn cảnh xem như không tệ, còn có NPC dương cầm sư không ngừng khảy đàn trữ tình âm nhạc , đi train level ngoài , tới nơi này nghỉ ngơi một chút cũng là chọn lựa không tồi .
+ 
+ 	Đương nhiên bởi vì bây giờ là Open Server không lâu quan hệ , mọi người đều điên cuồng đi train level đi , bây giờ đang ở trong tửu quán nhân rất là ít , thì ra là một ít game thủ giải trí , căn bản cũng không để ý đẳng cấp cái loại nầy mới lại xuất hiện tại nơi này . Lý Hoài Lâm cùng Dạ Hàng liền hẹn gặp tại tại đây gặp mặt .
+ 
+ 	"Hoài Lâm , trước chúc mừng ngươi đả thông vực sâu cấp phó bản ." Chứng kiến Lý Hoài Lâm ngồi xuống , Linh Giới Dạ Hàng vừa cười vừa nói , "Thế nào , nghe nói lần thứ nhất đả thông một cái phó bản đồ tỉ lệ rơi đồ đều sẽ đặc biệt cao hơn một điểm đấy, thu hoạch rất tốt chứ?"
+ 
+ 	"Thu hoạch a, cầm sách dạy kỹ năng , bất quá đích thật là tốt kỹ năng ." Lý Hoài Lâm cũng không còn nhiều giữ lại , nói thẳng thẳng ngữ , "Ra kiện level 20 item hoàng kim , bất quá là tăng máu nghề nghiệp hỗn dùng đấy pháp trượng ."
+ 
+ 	"Level 20 vũ khí màu vàng óng ..." Linh Giới Dạ Hàng hít vào một ngụm khí lạnh , "Đây là toàn bộ server đệ nhất kiện kim ** ."
+ 
+ 	"Uh, đại khái đi." Lý Hoài Lâm đối với cái này cũng không phải rất để ý , bây giờ còn là mình thăng cấp giai đoạn , vũ khí cũng không thể dùng đến cuối cùng , có cùng không có đều không khác mấy , mình thăng cấp cũng không cần đánh quái , một bả tốt vũ khí cũng không thể trợ giúp mình thăng cấp nhanh hơn , tăng thêm mình đã chết muốn bạo chết , cho nên hoàn toàn vô dụng , nếu là thật ra chiến sĩ vũ khí , nói không chừng mình bán đấu giá đổi cho nhau bình máu .
+ 
+ 	"Vũ khí vẫn còn ngươi bên kia sao? Có đúng hay không chuẩn bị bán đi? chúng ta Linh giới có tiền thu ." Dạ Hàng cũng cho rằng mặt khác mấy người là Lý Hoài Lâm kéo vào góp đủ số người, ra trang bị nên tính là Lý Hoài Lâm đấy.
+ 
+ 	"Híc, vũ khí phân cho người khác rồi." Lý Hoài Lâm sờ đầu một cái , "Ta liền phân đã đến một sách dạy kỹ năng , thứ khác đều không ."
+ 
+ 	"Ai?" Dạ Hàng sửng sốt một chút , sau đó nghĩ nghĩ vừa mới tự xem đến đi theo Lý Hoài Lâm đi ra ngoài mấy người nữ nhân , đột nhiên ý thức được cái gì , không có hảo ý cười cười , "Há, là như thế này , ta minh bạch , minh bạch ."
+ 
+ 	"Khái khái ..." Lý Hoài Lâm tuy nhiên không biết Dạ Hàng đã minh bạch cái gì , nhưng nhìn nụ cười của hắn liền biết không phải là thứ gì tốt , bất quá cũng lười giải thích , "Đúng rồi Dạ Hàng , ngoại trừ trang bị chuyện , còn có việc sao?"
+ 
+ 	"Hừm..." Dạ Hàng nghĩ nghĩ , "Như vậy , ta có thể hỏi ngươi có nguyện ý hay không bán ra độc xà huyệt động phó bản tiến công chiếm đóng sao?"
+ 
+ 	"Tiến công chiếm đóng?" Lý Hoài Lâm sửng sốt một chút , nhưng là nghĩ nghĩ mình có cái gì tiến công chiếm đóng a, nếu như bị Linh giới đám người này biết mình là đánh như thế nào còn không toàn bộ công hội Report Bug a, "Ây... Cái này có chút phiền toái ah ... Ta dùng đi một tí ta bản thân đặc thù kỹ năng ... Những người khác coi như là dùng biện pháp của ta cũng hẳn là không thể thực hiện được ah ."
+ 
+ 	"Hả?" Dạ Hàng nghĩ nghĩ , gật gật đầu , xem ra Lý Hoài Lâm ý tứ nói đúng là mình có đặc thù kỹ năng hoặc là vật phẩm mới có thể sử dụng cái này Bug , hoặc là hắn uyển chuyển nói mình không muốn bán , "Đã như vậy , quên đi đi."
+ 
+ 	"Bất quá ta ngược lại là có thể cung cấp cho ngươi đám bọn họ sở hữu:tất cả quái vật tin tức cùng sở hữu:tất cả BOSS kỹ năng ." Lý Hoài Lâm nghĩ nghĩ nói ra , dù sao còn cầm người khác 10 kim đâu rồi, không tốt lắm ý tứ cái gì cũng không cho .
+ 
+ 	"Hả? Thật sự?" Dạ Hàng nhãn tình sáng lên , như vậy cũng tốt a, cho dù không có Bug đuổi , mình biết rồi toàn bộ phó bản quái kỹ năng và số lượng , tỉnh rất nhiều phiền toái ah . Giống như:bình thường những...này kỹ năng đều phải người của mình chết đi về sau thử đi ra ngoài , không chỉ có lãng phí thời gian , đã chết còn phải khấu trừ kinh nghiệm , tại muốn xoát trở về vừa muốn lãng phí thời gian , hiện tại những tin tức này đây quả thực là cho công hội tại đoạt thời gian ah .
+ 
+ 	"Uh, kể cả che dấu BOSS kỹ năng ." Lý Hoài Lâm nói ra .
+ 
+ 	"Vực sâu cấp bậc phó bản thật sự có che dấu BOSS?" Dạ Hàng tuy nhiên nghe nói qua cái này , nhưng là còn không có đánh qua vực sâu cấp bậc phó bản , cho nên cũng là rất kinh ngạc .
+ 
+ 	"Đúng vậy a, che dấu BOSS là Xà Thần Địch Khắc Y Mã Tư hình bóng , hắn kỹ năng ..." Lý Hoài Lâm nghĩ nghĩ , giống như muốn nói đồ vật thật sự là nhiều lắm , hiện tại vừa nhanh là cơm tối thời gian , vì vậy nói nói: " hiện tại thời gian hơi trễ rồi, ta muốn hạ tuyến , như vậy đi , ngươi đem ngươi hòm thư lưu cho ta...ta trực tiếp ghi nhất thiên văn bản tài liệu , đem ta có thể nghĩ tới cái gì cũng viết lên , sau đó phát đến ngươi hòm thư , đêm nay liền giải quyết ."
+ 
+ 	"Há, không có vấn đề ." Dạ Hàng gật gật đầu , sau đó báo một lần mình hòm thư địa chỉ , nghĩ nghĩ còn nói nói: " Hoài Lâm , ngươi này tiến công chiếm đóng chuẩn bị bán bao nhiêu tiền?"
+ 
+ 	"Tiền?" Lý Hoài Lâm sửng sốt một chút , hắn bây giờ còn thật sự đòi tiền , bất quá lần này hắn thật đúng là không muốn muốn , "Được rồi, này đưa , lần trước cám ơn ngươi hỗ trợ , này 10 kim giúp ta chiếu cố rất lớn ."
+ 
+ 	"Không cần tiền này cũng không hay a, hội trường chúng ta nhưng là phải cầu ta cố ý đến giao hảo giao hảo của ngươi , tốt nhất cho ngươi thiếu chúng ta một cái nhân tình đấy. Nếu cho hắn biết ta chẳng những không có cho ngươi nợ nhân tình , ngược lại cho ngươi đem lần trước nhân tình cho trả , ta nhất định sẽ cho bóp chết đấy." Dạ Hàng phi thường thành khẩn liền đem mục đích của mình nói , bởi vì Lý Hoài Lâm từ vừa mới bắt đầu nói chuyện cũng rất thành thật , Dạ Hàng hiểu rõ đạo Lý Hoài Lâm khẳng định cũng là không rất ưa thích đi vòng vèo đấy, cho nên nói vô cùng thẳng .
+ 
+ 	"Như vậy ah ." Lý Hoài Lâm gật gật đầu , đột nhiên lại có chút kỳ quái , "Các ngươi hội trưởng giao hảo ta xong rồi sao?"
+ 
+ 	"Ngươi chẳng lẽ không biết ngươi bây giờ có nhiều hỏa ấy ư, ta đoán chừng không chỉ ta đám bọn họ Linh Giới Công Hội , phía ngoài đại công hội đoán chừng đều đang tìm ngươi đây ." Dạ Hàng cười cười , "Ngươi suy nghĩ một chút , hiện tại ngươi thế nhưng mà qua cửa vực sâu cấp bậc phó bản đích nhân vật , cái nào công hội có thể không coi trọng ngươi , đương nhiên muốn tìm ngươi tính sổ , công hội đoán chừng cũng có ."
+ 
+ 	"Tìm ta tính sổ?" Lý Hoài Lâm nhãn tình sáng lên , tìm ta tính sổ tốt , ước gì toàn bộ công hội truy sát ta ah .
+ 
+ 	"Đúng vậy a, chính là một ít sắp qua cửa Địa Ngục phó bản công hội , kết quả danh tiếng đều bị ngươi đã đoạt , có thể không hận ngươi sao?" Dạ Hàng cười cười , kỳ thật Linh giới một đoàn cũng có thật nhiều người muốn bóp chết Lý Hoài Lâm , "Thế nào , cần đám bọn họ hỗ trợ liền nói một tiếng , chúng ta Linh giới không sợ đắc tội bất luận cái gì công hội ."
+ 
+ 	"Tuyệt đối đừng." Lý Hoài Lâm mau nói nói, thật vất vả tìm mấy cái công hội đuổi giết mình , này cũng không thể bị Linh giới ngăn cản , tranh thủ thời gian biên cái lý do , "Ta đối với chính mình cực kỳ có lòng tin , xin đừng hỗ trợ , bằng không thì đả kích tự ái của ta tâm đấy."
+ 
+ 	"Há, như vậy?" Dạ Hàng cười cười , "Kéo xa , vẫn là nói nói đi , ngươi chuẩn bị bán bao nhiêu tiền , tài liệu này ."
+ 
+ 	"Hừm..." Lý Hoài Lâm nghĩ nghĩ , đột nhiên tâm niệm vừa động , "Đúng rồi , các ngươi Linh giới có thật nhiều luyện kim sư đúng không ."
+ 
+ 	"Há, đương nhiên , hậu cần đội chuyên tấn công luyện kim có chừng 50 đến người đi, làm sao vậy?" Dạ Hàng hỏi.
+ 
+ 	"Này có phải hay không các người vì xông luyện kim đẳng cấp , làm rất nhiều bình máu , tựu là chậm chạp hồi phục cái chủng loại kia , không phải trong nháy mắt khôi phục ." Lý Hoài Lâm hỏi.
+ 
+ 	"Hả? Trung lượng sinh mệnh dược tề ấy ư, nhiều, thật sự là nhiều lắm , đầy khắp núi đồi đều không có chỗ để , ngươi muốn?" Dạ Hàng có chút kỳ quái .
+ 
+ 	"Muốn a, quá nhu yếu ." Lý Hoài Lâm cuồng hỉ , "Ngươi liền cho ta cái này là tốt rồi , có thể cho ta bao nhiêu cho ta bao nhiêu , ta toàn bộ muốn ."
+ 
+ 	"Ngươi muốn nhiều như vậy bình máu làm gì vậy ..."
+ 
+ 	"Ây... Tiếp cá nhiệm vụ , cần đầy khắp núi đồi bình máu ." Lý Hoài Lâm nghĩ nghĩ biên đường
+ 
+ 	"Uh, được, không có vấn đề , ta trở về gọi người cho ngươi đưa tới , đương nhiên tự chúng ta cũng muốn lưu một điểm , cụ thể bao nhiêu số lượng , ta trở về trước phải cùng bộ hậu cần trao đổi , đại khái ngày mai cho ngươi đi, ngươi không cần dùng gấp chứ?" Dạ Hàng hỏi.
+ 
+ 	"Không vội , thật sự không vội ." Lý Hoài Lâm tăng máu lượng BUFF nhưng còn có 5 ngày thời gian đâu rồi, hiện tại uống máu hiệu quả quá thấp , hắn đều là chuẩn bị giữ lại các loại:đợi 5 ngày thoáng qua một cái , liền điên cuồng  thăng cấp đấy.
+ 
+ 	"Vậy thì tốt, tóm lại lại đại biểu Linh Giới Công Hội tỏ vẻ thoáng một phát chúng ta muốn giao hảo thành ý của ngươi , ta sẽ không quấy rầy ngươi ăn cơm đi ." Nói xong rồi sự tình , Dạ Hàng coi như là thật hài lòng , tuy nhiên không có làm được Bug , cũng là hoàn thành nhiệm vụ căn bản giao hảo , còn có lấy được phó bản tư liệu xem như phúc lợi . Nhìn nhìn thời gian cũng không còn nhiều lắm rồi, hơn nữa Lý Hoài Lâm cũng nói muốn hạ tuyến , vì vậy đứng lên nói ra: "Vậy cứ như thế , tóm lại lại đại biểu Linh Giới Công Hội tỏ vẻ thoáng một phát chúng ta muốn giao hảo thành ý của ngươi , ta sẽ không quấy rầy ngươi ăn cơm đi ."
+ 
+ 	"Được, ngày mai gặp ." Lý Hoài Lâm gật gật đầu .
+ 
+ 
+         Chương trình ủng hộ Thương hiệu Việt của Tàng Thư ViệnChương 40: Giao dịch
+ 
+ 	Thần phù hộ chi thành khu buôn bán có một lớn tửu quán , cũng là kiểu tây phương lối kiến trúc . Tửu quán chủ yếu là cho người chơi một chỗ nghỉ mà thiết trí , vị trí rất nhiều , mặc dù nói hư nghĩ uống rượu không xuất ra trong hiện thực rượu cái loại cảm giác này , nhưng là quầy rượu hoàn cảnh xem như không tệ, còn có NPC dương cầm sư không ngừng khảy đàn trữ tình âm nhạc , đi train level ngoài , tới nơi này nghỉ ngơi một chút cũng là chọn lựa không tồi .
+ 
+ 	Đương nhiên bởi vì bây giờ là Open Server không lâu quan hệ , mọi người đều điên cuồng đi train level đi , bây giờ đang ở trong tửu quán nhân rất là ít , thì ra là một ít game thủ giải trí , căn bản cũng không để ý đẳng cấp cái loại nầy mới lại xuất hiện tại nơi này . Lý Hoài Lâm cùng Dạ Hàng liền hẹn gặp tại tại đây gặp mặt .
+ 
+ 	"Hoài Lâm , trước chúc mừng ngươi đả thông vực sâu cấp phó bản ." Chứng kiến Lý Hoài Lâm ngồi xuống , Linh Giới Dạ Hàng vừa cười vừa nói , "Thế nào , nghe nói lần thứ nhất đả thông một cái phó bản đồ tỉ lệ rơi đồ đều sẽ đặc biệt cao hơn một điểm đấy, thu hoạch rất tốt chứ?"
+ 
+ 	"Thu hoạch a, cầm sách dạy kỹ năng , bất quá đích thật là tốt kỹ năng ." Lý Hoài Lâm cũng không còn nhiều giữ lại , nói thẳng thẳng ngữ , "Ra kiện level 20 item hoàng kim , bất quá là tăng máu nghề nghiệp hỗn dùng đấy pháp trượng ."
+ 
+ 	"Level 20 vũ khí màu vàng óng ..." Linh Giới Dạ Hàng hít vào một ngụm khí lạnh , "Đây là toàn bộ server đệ nhất kiện kim ** ."
+ 
+ 	"Uh, đại khái đi." Lý Hoài Lâm đối với cái này cũng không phải rất để ý , bây giờ còn là mình thăng cấp giai đoạn , vũ khí cũng không thể dùng đến cuối cùng , có cùng không có đều không khác mấy , mình thăng cấp cũng không cần đánh quái , một bả tốt vũ khí cũng không thể trợ giúp mình thăng cấp nhanh hơn , tăng thêm mình đã chết muốn bạo chết , cho nên hoàn toàn vô dụng , nếu là thật ra chiến sĩ vũ khí , nói không chừng mình bán đấu giá đổi cho nhau bình máu .
+ 
+ 	"Vũ khí vẫn còn ngươi bên kia sao? Có đúng hay không chuẩn bị bán đi? chúng ta Linh giới có tiền thu ." Dạ Hàng cũng cho rằng mặt khác mấy người là Lý Hoài Lâm kéo vào góp đủ số người, ra trang bị nên tính là Lý Hoài Lâm đấy.
+ 
+ 	"Híc, vũ khí phân cho người khác rồi." Lý Hoài Lâm sờ đầu một cái , "Ta liền phân đã đến một sách dạy kỹ năng , thứ khác đều không ."
+ 
+ 	"Ai?" Dạ Hàng sửng sốt một chút , sau đó nghĩ nghĩ vừa mới tự xem đến đi theo Lý Hoài Lâm đi ra ngoài mấy người nữ nhân , đột nhiên ý thức được cái gì , không có hảo ý cười cười , "Há, là như thế này , ta minh bạch , minh bạch ."
+ 
+ 	"Khái khái ..." Lý Hoài Lâm tuy nhiên không biết Dạ Hàng đã minh bạch cái gì , nhưng nhìn nụ cười của hắn liền biết không phải là thứ gì tốt , bất quá cũng lười giải thích , "Đúng rồi Dạ Hàng , ngoại trừ trang bị chuyện , còn có việc sao?"
+ 
+ 	"Hừm..." Dạ Hàng nghĩ nghĩ , "Như vậy , ta có thể hỏi ngươi có nguyện ý hay không bán ra độc xà huyệt động phó bản tiến công chiếm đóng sao?"
+ 
+ 	"Tiến công chiếm đóng?" Lý Hoài Lâm sửng sốt một chút , nhưng là nghĩ nghĩ mình có cái gì tiến công chiếm đóng a, nếu như bị Linh giới đám người này biết mình là đánh như thế nào còn không toàn bộ công hội Report Bug a, "Ây... Cái này có chút phiền toái ah ... Ta dùng đi một tí ta bản thân đặc thù kỹ năng ... Những người khác coi như là dùng biện pháp của ta cũng hẳn là không thể thực hiện được ah ."
+ 
+ 	"Hả?" Dạ Hàng nghĩ nghĩ , gật gật đầu , xem ra Lý Hoài Lâm ý tứ nói đúng là mình có đặc thù kỹ năng hoặc là vật phẩm mới có thể sử dụng cái này Bug , hoặc là hắn uyển chuyển nói mình không muốn bán , "Đã như vậy , quên đi đi."
+ 
+ 	"Bất quá ta ngược lại là có thể cung cấp cho ngươi đám bọn họ sở hữu:tất cả quái vật tin tức cùng sở hữu:tất cả BOSS kỹ năng ." Lý Hoài Lâm nghĩ nghĩ nói ra , dù sao còn cầm người khác 10 kim đâu rồi, không tốt lắm ý tứ cái gì cũng không cho .
+ 
+ 	"Hả? Thật sự?" Dạ Hàng nhãn tình sáng lên , như vậy cũng tốt a, cho dù không có Bug đuổi , mình biết rồi toàn bộ phó bản quái kỹ năng và số lượng , tỉnh rất nhiều phiền toái ah . Giống như:bình thường những...này kỹ năng đều phải người của mình chết đi về sau thử đi ra ngoài , không chỉ có lãng phí thời gian , đã chết còn phải khấu trừ kinh nghiệm , tại muốn xoát trở về vừa muốn lãng phí thời gian , hiện tại những tin tức này đây quả thực là cho công hội tại đoạt thời gian ah .
+ 
+ 	"Uh, kể cả che dấu BOSS kỹ năng ." Lý Hoài Lâm nói ra .
+ 
+ 	"Vực sâu cấp bậc phó bản thật sự có che dấu BOSS?" Dạ Hàng tuy nhiên nghe nói qua cái này , nhưng là còn không có đánh qua vực sâu cấp bậc phó bản , cho nên cũng là rất kinh ngạc .
+ 
+ 	"Đúng vậy a, che dấu BOSS là Xà Thần Địch Khắc Y Mã Tư hình bóng , hắn kỹ năng ..." Lý Hoài Lâm nghĩ nghĩ , giống như muốn nói đồ vật thật sự là nhiều lắm , hiện tại vừa nhanh là cơm tối thời gian , vì vậy nói nói: " hiện tại thời gian hơi trễ rồi, ta muốn hạ tuyến , như vậy đi , ngươi đem ngươi hòm thư lưu cho ta...ta trực tiếp ghi nhất thiên văn bản tài liệu , đem ta có thể nghĩ tới cái gì cũng viết lên , sau đó phát đến ngươi hòm thư , đêm nay liền giải quyết ."
+ 
+ 	"Há, không có vấn đề ." Dạ Hàng gật gật đầu , sau đó báo một lần mình hòm thư địa chỉ , nghĩ nghĩ còn nói nói: " Hoài Lâm , ngươi này tiến công chiếm đóng chuẩn bị bán bao nhiêu tiền?"
+ 
+ 	"Tiền?" Lý Hoài Lâm sửng sốt một chút , hắn bây giờ còn thật sự đòi tiền , bất quá lần này hắn thật đúng là không muốn muốn , "Được rồi, này đưa , lần trước cám ơn ngươi hỗ trợ , này 10 kim giúp ta chiếu cố rất lớn ."
+ 
+ 	"Không cần tiền này cũng không hay a, hội trường chúng ta nhưng là phải cầu ta cố ý đến giao hảo giao hảo của ngươi , tốt nhất cho ngươi thiếu chúng ta một cái nhân tình đấy. Nếu cho hắn biết ta chẳng những không có cho ngươi nợ nhân tình , ngược lại cho ngươi đem lần trước nhân tình cho trả , ta nhất định sẽ cho bóp chết đấy." Dạ Hàng phi thường thành khẩn liền đem mục đích của mình nói , bởi vì Lý Hoài Lâm từ vừa mới bắt đầu nói chuyện cũng rất thành thật , Dạ Hàng hiểu rõ đạo Lý Hoài Lâm khẳng định cũng là không rất ưa thích đi vòng vèo đấy, cho nên nói vô cùng thẳng .
+ 
+ 	"Như vậy ah ." Lý Hoài Lâm gật gật đầu , đột nhiên lại có chút kỳ quái , "Các ngươi hội trưởng giao hảo ta xong rồi sao?"
+ 
+ 	"Ngươi chẳng lẽ không biết ngươi bây giờ có nhiều hỏa ấy ư, ta đoán chừng không chỉ ta đám bọn họ Linh Giới Công Hội , phía ngoài đại công hội đoán chừng đều đang tìm ngươi đây ." Dạ Hàng cười cười , "Ngươi suy nghĩ một chút , hiện tại ngươi thế nhưng mà qua cửa vực sâu cấp bậc phó bản đích nhân vật , cái nào công hội có thể không coi trọng ngươi , đương nhiên muốn tìm ngươi tính sổ , công hội đoán chừng cũng có ."
+ 
+ 	"Tìm ta tính sổ?" Lý Hoài Lâm nhãn tình sáng lên , tìm ta tính sổ tốt , ước gì toàn bộ công hội truy sát ta ah .
+ 
+ 	"Đúng vậy a, chính là một ít sắp qua cửa Địa Ngục phó bản công hội , kết quả danh tiếng đều bị ngươi đã đoạt , có thể không hận ngươi sao?" Dạ Hàng cười cười , kỳ thật Linh giới một đoàn cũng có thật nhiều người muốn bóp chết Lý Hoài Lâm , "Thế nào , cần đám bọn họ hỗ trợ liền nói một tiếng , chúng ta Linh giới không sợ đắc tội bất luận cái gì công hội ."
+ 
+ 	"Tuyệt đối đừng." Lý Hoài Lâm mau nói nói, thật vất vả tìm mấy cái công hội đuổi giết mình , này cũng không thể bị Linh giới ngăn cản , tranh thủ thời gian biên cái lý do , "Ta đối với chính mình cực kỳ có lòng tin , xin đừng hỗ trợ , bằng không thì đả kích tự ái của ta tâm đấy."
+ 
+ 	"Há, như vậy?" Dạ Hàng cười cười , "Kéo xa , vẫn là nói nói đi , ngươi chuẩn bị bán bao nhiêu tiền , tài liệu này ."
+ 
+ 	"Hừm..." Lý Hoài Lâm nghĩ nghĩ , đột nhiên tâm niệm vừa động , "Đúng rồi , các ngươi Linh giới có thật nhiều luyện kim sư đúng không ."
+ 
+ 	"Há, đương nhiên , hậu cần đội chuyên tấn công luyện kim có chừng 50 đến người đi, làm sao vậy?" Dạ Hàng hỏi.
+ 
+ 	"Này có phải hay không các người vì xông luyện kim đẳng cấp , làm rất nhiều bình máu , tựu là chậm chạp hồi phục cái chủng loại kia , không phải trong nháy mắt khôi phục ." Lý Hoài Lâm hỏi.
+ 
+ 	"Hả? Trung lượng sinh mệnh dược tề ấy ư, nhiều, thật sự là nhiều lắm , đầy khắp núi đồi đều không có chỗ để , ngươi muốn?" Dạ Hàng có chút kỳ quái .
+ 
+ 	"Muốn a, quá nhu yếu ." Lý Hoài Lâm cuồng hỉ , "Ngươi liền cho ta cái này là tốt rồi , có thể cho ta bao nhiêu cho ta bao nhiêu , ta toàn bộ muốn ."
+ 
+ 	"Ngươi muốn nhiều như vậy bình máu làm gì vậy ..."
+ 
+ 	"Ây... Tiếp cá nhiệm vụ , cần đầy khắp núi đồi bình máu ." Lý Hoài Lâm nghĩ nghĩ biên đường
+ 
+ 	"Uh, được, không có vấn đề , ta trở về gọi người cho ngươi đưa tới , đương nhiên tự chúng ta cũng muốn lưu một điểm , cụ thể bao nhiêu số lượng , ta trở về trước phải cùng bộ hậu cần trao đổi , đại khái ngày mai cho ngươi đi, ngươi không cần dùng gấp chứ?" Dạ Hàng hỏi.
+ 
+ 	"Không vội , thật sự không vội ." Lý Hoài Lâm tăng máu lượng BUFF nhưng còn có 5 ngày thời gian đâu rồi, hiện tại uống máu hiệu quả quá thấp , hắn đều là chuẩn bị giữ lại các loại:đợi 5 ngày thoáng qua một cái , liền điên cuồng  thăng cấp đấy.
+ 
+ 	"Vậy thì tốt, tóm lại lại đại biểu Linh Giới Công Hội tỏ vẻ thoáng một phát chúng ta muốn giao hảo thành ý của ngươi , ta sẽ không quấy rầy ngươi ăn cơm đi ." Nói xong rồi sự tình , Dạ Hàng coi như là thật hài lòng , tuy nhiên không có làm được Bug , cũng là hoàn thành nhiệm vụ căn bản giao hảo , còn có lấy được phó bản tư liệu xem như phúc lợi . Nhìn nhìn thời gian cũng không còn nhiều lắm rồi, hơn nữa Lý Hoài Lâm cũng nói muốn hạ tuyến , vì vậy đứng lên nói ra: "Vậy cứ như thế , tóm lại lại đại biểu Linh Giới Công Hội tỏ vẻ thoáng một phát chúng ta muốn giao hảo thành ý của ngươi , ta sẽ không quấy rầy ngươi ăn cơm đi ."
+ 
+ 	"Được, ngày mai gặp ." Lý Hoài Lâm gật gật đầu .
+ 
+ 
+         Chương trình ủng hộ Thương hiệu Việt của Tàng Thư Viện

@@ -1,0 +1,937 @@
+Tính toán thời gian từ lúc đổ bộ vào game cho đến hiện tại cũng đã được gần một giờ. Để cho người chơi tiện lợi hơn về giờ giấc nên thời gian trong game được xếp đặt nghịch lại với thời gian ngoài hiện thực. 
+
+Có nghĩa là khi ở hiện thực là 9 giờ tối thì trong game sẽ là 9 giờ sáng. Thời gian trong game gấp đôi so với hiện thực, làm cho người chơi sẽ có thể trải nghiệm được nhiều thứ hơn. Cũng như là sẽ có thêm gấp đôi thời gian để rèn luyện và đó cũng chính là mục đích của game Anh Hùng được tạo ra.
+
+Chậm rãi đi trên đường dẫn đến khu rừng phía tây, Đình Tấn bắt gặp một vài nhóm tổ đội người chơi dắt nhau đi luyện cấp. Bởi vì game Anh Hùng có độ mô phỏng hiện thực vô hạn tiếp cận đến gần 100%, nên khi chiến đấu bị thương, mặc dù cơ thể ngoài hiện thực sẽ không bị ảnh hưởng gì, thế nhưng cảm giác đau đớn truyền đến não thì không khác gì bản thân người chơi bị thương thật sự. 
+
+Điều này cũng làm cho trò chơi trở nên càng khó hơn cho một số người, nhất là người chơi nữ và những tiểu thư, thiếu gia đã quen ăn sung mặc sướng. Nhưng vì để có được thêm gấp đôi sinh mệnh, vì muốn có được những bí mật về phương pháp rèn luyện. Người chơi vẫn ùn ùn kéo vào không dứt.
+
+Ngược lại, với Đình Tấn. Hắn hiểu rằng, chỉ có trải qua đau đớn và thật sự đổ máu thì mới có thể đủ can đảm đối mặt với những con quái vật khổng lồ ẩn giấu sâu trong những khu rừng đó. Nếu như cứ sợ sệt rồi trốn tránh, thì sớm muộn bản thân hắn cũng sẽ bị đào thải.
+
+Những người tổ đội sang khu rừng phía tây này, đa số là những người chơi nam. Chỉ có một ít lẻ tẻ, khoảng 4 - 5 người còn lại, thì đều là người chơi nữ. 
+
+Bọn họ phân chia ra thành từng nhóm riêng biệt, đi cùng nhau săn đón những con quái vật lạc đàn. Điều này cũng không trách được họ, bởi không phải ai cũng không sợ đau, sợ hung thú. 
+
+Đình Tấn là bởi vì đã có kinh nghiệm chiến đấu trong tận thế, còn bọn họ hiện tại vẫn đang sống trong an nhàn và hoà bình, bất chợt bảo họ đi chiến đấu thì cũng khó lòng mà có thể thích nghi ngay tức khắc được.
+
+Đi bộ hơn 2 km, tiêu tốn của Đình Tấn hơn 15 phút. Rốt cuộc, Đình Tấn cũng đặt chân đến khu bìa rừng phía tây ngôi làng tân thủ này. 
+
+Trước mặt Đình Tấn là một con sông nhỏ ngăn cách giữa khu rừng với ngôi làng. Có một cây cầu đá bắt qua phía bên kia sông, nối liền với một con đường mòn đi thẳng vào khu rừng. Hai bên đường bụi cây rậm rạp ẩm ướt, cỏ cây hoang dại, có cây còn mọc cao quá một nửa bắp chân của Đình Tấn.
+
+Bên trong bụi cây cỏ dại đó bất chợt lại lấp ló những cái đầu nhỏ. Nhìn kỹ thì Đình Tấn phát hiện, bọn chúng đều là lũ chuột răng sắt. 
+
+Gọi như vậy không phải vì răng của nó cứng như sắt thép hay được làm bằng sắt, mà là vì tuy nhỏ yếu nhưng chúng nó sống thành đàn rất đông, nên nếu như bị bao vây thì dù ngươi có mặc cả áo giáp sắt thì cũng sẽ bị chúng cắn xé thành muôn mảnh.
+
+Nhìn chăm chăm một hồi bầy chuột này, trong đầu Đình Tấn thầm kêu một tiếng "Dò xét", bảng giao diện hệ thống về thông tin quái vật liền hiện ra trong tầm nhìn của hắn.
+
+Chuột răng sắt
+
+Level: 1
+
+HP: 60/60
+
+Kỹ năng: Kêu gọi bầy đàn.
+
+Giới thiệu: Một loài chuột biến dị, sức tấn công bình thường, sinh mệnh thấp, sống theo bầy đàn
+
+Xung quanh bãi cỏ ven bờ sông có khá nhiều nhóm người chơi thi nhau đánh giết bầy chuột này để luyện cấp. Cũng phải thôi, bởi vì hiện tại, khu vực của đám Pholimodo đã tập trung quá đông người, quái vật đổi mới theo không kịp tốc độ chém giết của người chơi. 
+
+Không ai muốn phí phạm thời gian của mình vào lúc khởi điểm quan trọng này cả. Mặc dù chuột răng sắt không có tuyên bố nhiệm vụ gì, lại thêm đẳng cấp bọn chúng cũng chỉ có 1 cấp, nên chỉ tăng 2 EXP cho mỗi đầu bị giết chết.
+
+Bất quá, bù lại những điểm bất cập kể trên thì chúng nó cũng có vài điểm ưu thế hơn như HP mỏng, số lượng nhiều rất thích hợp cho tân thủ tập luyện làm quen với game. 
+
+Đình Tấn đứng quan sát một lúc lâu. Sau đó, hắn quyết định men theo đường mòn tiến thẳng vào khu rừng rậm trước mặt luôn. 
+
+Xung quanh những tên người chơi cũng bị hành động này của Đình Tấn làm thu hút sự chú ý. Bọn họ đưa mắt nhìn hắn giống như nhìn người chết, có một người đàn ông da trắng tốt bụng, không kìm được hướng về Đình Tấn hô lớn.
+
+- Này nhóc quay lại đi, quái vật trong rừng rất mạnh đó. Nhiều tổ đội đông SwbuxY7 người đi vào mà đều bị toàn diệt trong đó rồi, không muốn chết thảm thì đừng vào.
+
+Đình Tấn dừng bước quay đầu nhìn người đàn ông này, gật đầu mỉm cười. Cảm tạ:
+
+- Ta chỉ đi ven bìa rừng làm nhiệm vụ. Cảm tạ ngươi nhắc nhở.
+
+Nói đoạn, hắn dứt khoát xoay người, cất bước đi tiếp không dừng. 
+
+Người đàn ông kia cũng chỉ biết âm thầm lắc đầu, thở dài một hơi rồi quay lại tiếp tục đánh giết lũ chuột với đồng đội của hắn.
+
+Còn với Đình Tấn. Hắn cũng không có nghĩ quá nhiều, cứ chậm rãi men theo đường mòn đi vào khu rừng. 
+
+Xung quanh không gian yên tĩnh, ánh nắng mặt trời ban trưa rọi qua từng tán lá cây, làm cho quan cảnh mỹ lệ do rừng phong thụ cấu thành càng thêm sáng sủa hơn. 
+
+Thời gian nhỏ giọt trôi qua, Đình Tấn vẫn cứ vừa bước đi, vừa cẩn thận ngó nhìn xung quanh để tìm manh mối của con trai ông thợ rèn DeShawn. 
+
+Ban đầu, hắn suy đoán, nếu theo logic thì con trai ông thợ rèn DeShawn chắc chắn sẽ không đi vào quá sâu trong rừng. Thế nhưng đã trôi qua một giờ kể từ khi hắn bước vào khu rừng này, cũng đã đi gần giáp vòng xung quanh bìa rừng. 
+
+Vậy mà Đình Tấn đều không tìm được thứ gì, dù chỉ là một manh mối nhỏ. Hắn cau mày bắt đầu nghi ngờ, chẳng lẽ con trai thợ rèn DeShawn đi vào sâu bên trong nữa. 
+
+Bất chợt, đang lúc Đình Tấn tập trung suy nghĩ thì một tiếng “sột… soạt” từ bụi cây gần đó truyền tới. Hắn như bản năng, gỡ đại kiếm trên lưng cầm chặt trong tay để che chắn và phòng thủ trước người, ánh mắt cẩn thận nhìn tứ phía.
+
+“Gào…” 
+
+Trong một bụi rậm ở bên phải Đình Tấn, một con chó đột nhiên gào thét lao nhanh ra. Chân sau súc lực đạp mạnh trên mặt đất phóng người bay lên, chân trước móng vuốt vồ tới phía trước mặt. Miệng rộng đỏ như máu, đầy răng nanh sắc bén mở rộng ra hướng về phía đầu của Đình Tấn cắn tới.
+
+Đình Tấn không suy nghĩ nhiều. Hắn hành động giống như là bản năng, nhún mạnh, nghiêng người nhảy về bên phải để né tránh cú vồ tới bất ngờ của con chó này.
+
+Lộn người một vòng, nửa quỳ nửa ngồi trên mặt đất, Đình Tấn vội xoay người, hàm răng cắn chặt, một tay nắm lấy đại kiếm vung mạnh về phía sau. 
+
+Con chó vồ hụt con mồi, vừa đạp chân trước xuống đất, quay đầu gào thét hướng Đình Tấn nhìn lại thì ập vào trong mắt nó là một thanh đại kiếm càng ngày càng phóng đại. 
+
+“Ầm… bịch” 
+
+-87
+
+-9
+
+Con chó bị Đình Tấn vung kiếm chém trúng, kêu thảm một tiếng rồi bay người đập vào gốc cây đại thụ ở phía sau lưng nó. 
+
+Lực đánh quá mạnh làm nó va đập vào thân cây thì liền bị dội ngược ra. Hai lần điểm thương tổn nổi lên trên đầu nó. 
+
+Chiến đấu 10 năm dạy cho Đình Tấn một chân lý là "Không bao giờ dừng tay khi chưa kết liễu được kẻ địch". Vừa cảm giác chém trúng, hai mắt hắn lăng lệ ác liệt nhìn rõ phương hướng. 
+
+Hai chân lập tức phát lực bật người về phía con chó bay đi. Đại kiếm thuận thế mà vung lên cao rồi chém xuống, mục tiêu là cái đầu con chó.
+
+“Đùng”
+
+-90 (Chí Mạng)
+
+Lưỡi kiếm đập mạnh vào đầu con chó, lực đạo mạnh mẽ đè ép đầu nó đập mạnh xuống đất. Chưa có dấu hiệu chết đi, con chó vùng vẫy đầu chồm dậy muốn vồ đến Đình Tấn. Nhưng có lẽ do liên tục bị ăn kiếm, động tác của nó đã trở nên chậm chạp, bị trì hoãn lại.
+
+Đình Tấn biết nó còn chưa chết, hai tay liền nắm ngược cán kiếm. Nhất mũi kiếm khỏi đầu con chó, tàn nhẫn mà cắm mạnh xuống một lần nữa.
+
+“Phập”
+
+-34
+
+Mũi kiếm đâm vào đầu, tổn thương cũng vừa hiển thị trên đầu con chó, âm thanh thông báo liền vang lên:
+
+Keng! 
+
+EXP +20
+
+Đình Tấn mặc dù đã nghe thông báo nhận kinh nghiệm, chứng tỏ con chó đã chết, thế nhưng lòng cảnh giác của hắn vẫn chưa hết. 
+
+Mặc kệ kiểm tra vật phẩm rơi ra bên cạnh xác chết của con chó. Đình Tấn giơ lên kiếm đỡ trước người, trở về trạng thái phòng thủ trước đó rồi chậm chạp lùi lại sau gốc cây. 
+
+Hắn đứng tại chỗ im lặng như một tảng đá, ánh mắt bình tĩnh quan sát xung quanh.
+
+Sau một hồi lâu, không có động tĩnh gì khác lạ, Đình Tấn mới dần dần thả lỏng cơ thể, bước chậm từng bước đi tới xác của con chó. 
+
+12 đồng tiền, cùng với một sợi dây chuyền răng nanh. Quan sát xác chết con quái vật, Đình Tấn nhận ra đây là loài Dingo. Nó có vẻ bề ngoài hệt như loài chó Pit Pull trên trái đất, thế nhưng hình thể lớn hơn gấp đôi, lông mỏng, bộ da dày như da bò màu sậm, cơ bắp rắn chắc.
+
+Đang lúc Đình Tấn cúi người xuống nhặt vật phẩm. Chợt, trong bụi rậm ở ngay vị trí cách đó không xa, đột ngột lao ra một con Dingo khác, vồ tới trước mặt Đình Tấn đang cúi người nhặt đồ vật. 
+
+Không cẩn thận cảnh giác, hai mắt Đình Tấn kinh ngạc nhìn nó vồ trúng hai vai mình, rồi mất thăng bằng lùi lại mấy bước.
+
+-26
+
+“Ah…”
+
+Một con số thương tổn nổi lên, kèm theo đó là một cơn đau đớn như bị xé rách da thịt thật sự, truyền đến đại não, làm Đình Tấn không nhịn được kêu rên một tiếng. 
+
+Tuy rằng không đổ máu, quần áo không bị phá hoại, thế nhưng Đình Tấn cảm giác được như có hai bộ móng vuốt thật đang cắm vào vai hắn.
+
+Hệ thống trong game có thể điều chỉnh cài đặt để giảm xuống mức độ mô phỏng hiện thực, tức là giảm xuống mức độ cảm giác chân thật của game. 
+
+Thế nhưng làm một tên chiến sĩ, Đình Tấn phải bảo đảm ngũ giác của mình không bị suy yếu thì mới có thể nắm bắt được hoàn cảnh nguy hiểm xung quanh. 
+
+Đây cũng như là một thói quen, một bản năng được thành lập qua nhiều năm chiến đấu của Đình Tấn. Thế nên hắn không thể điều chỉnh gì cả mà vẫn phải giữ ở mức cao nhất.
+
+Trong chớp mắt bị vồ tới, Đình Tấn không hốt không hoảng. Ánh mắt hắn bình tĩnh, đầu hơi nghiêng sang một bên để né tránh cái miệng của con Dingo đang táp tới. 
+
+Đồng thời, hai tay cũng buông ra thanh đại kiếm rồi chộp vào hai chân đang vồ lấy vai mình của con chó Dingo. Một loạt các động tác liên tục nối tiếp nhau, không chậm trễ một giây, hắn ngã người về phía sau. Chân phải đạp mạnh vào bụng con Dingo, vừa lộn ngược người vừa hất mạnh nó ra phía sau.
+
+Ngay khi cảm giác hai móng vuốt con Dingo rời khỏi vai mình, Đình Tấn nhanh chóng hoàn thành động tác lộn người. Sau đó hai chân một trước một sau chạy chồm về phía thanh đại kiếm đang nằm trên đất cách đó chưa đến 3m. 
+
+Chộp được đại kiếm vào tay, Đình Tấn vẫn không dừng lại kéo dài khoảng cách với con Dingo ra đến 7 mét có hơn. 
+
+Cảm giác đã đạt đến khoảng cách an toàn, hắn liền trượt chân thắng gấp xoay người lại, đồng thời giơ cao đại kiếm, tiến vào trạng thái phòng thủ, hai mắt chăm chăm nhìn vào con Dingo phía trước mặt mình.
+
+Con Dingo hung hãng, vừa bị Đình Tấn đạp bay rơi xuống đất. Nó liền lập tức ngồi dậy, đuổi theo con mồi đang chạy vội. Nhưng khi trông thấy Đình Tấn đã dừng lại và phòng thủ nhìn chăm chăm mình, nó cũng dừng lại theo rồi nhìn kỹ lấy Đình Tấn như đang tìm kiếm cơ hội.
+
+Đình Tấn dường như đã quên cảm giác đau vừa rồi, ánh mắt sắc bén tập trung nhìn lấy từng động tác, từng chuyển động bắp thịt của con Dingo. 
+
+Chỉ cần nó lộ ra sơ hở, hắn đảm bảo chỉ cần dùng một combo là có thể đánh nó không ngóc đầu lên nổi. Trong đầu nghĩ đến “Dò xét”, hệ thống liền hiển thị ra bảng thuộc tính con Dingo
+
+Dingo 
+
+Level: 4
+
+HP: 220/220
+
+Kỹ năng: Vồ tới, cắn xé
+
+Giới thiệu: Thuộc giống chó, sức mạnh bằng một người trưởng thành, nhanh nhẹn linh hoạt, khả năng ẩn nấp săn mồi rất mạnh. Điểm yếu ở bụng, đầu.
+
+Đang tra xét thuộc tính con Dingo, Đình Tấn cũng vừa nhanh chóng tính toán. Lúc nãy chém chết con Dingo trong ba kiếm, thế nên sức phòng ngự của nó cũng sẽ không cao. Hắn cười lạnh một cái rồi từ từ thả lỏng người, để lộ ra sơ hở.
+
+Con Dingo liền lập tức mắc câu, nó phát lực vồ tới con mồi không khác gì những lần đã làm trước đó. 
+
+Dường như đã đoán được, ngay giây phút con Dingo vừa có động tĩnh, Đình Tấn lập tức nhẹ nhàng xoay người sang một bên, đại kiếm chém lên phương hướng ngược lại với phương hướng mà con Dingo đang vồ tới. 
+
+Lưỡi kiếm chém ngay vào miệng máu đang mở rộng của nó. 
+
+‘Ầm!’
+
+-90
+
+‘Ẳng…’
+
+Con Dingo bị đánh bay ngược lên cao hơn 2 mét, kêu rên thảm thiết. 
+
+Đình Tấn nào có bỏ qua cơ hội lần này. Hắn tiếp tục dự đoán phương hướng con Dingo sẽ hạ xuống, rồi tiếp tục vung kiếm nhắm vào bụng con Dingo mà chém tới. 
+
+‘Ầm’
+
+Như một quả bóng chày, con Dingo tiếp tục bị đại kiếm chém bay ngược lại một đoạn, đập mạnh cơ thể vào một gốc đại thụ, dội ngược ra lăn lộn vài vòng trên mặt đất.
+
+-90
+
+-21
+
+Ống HP của con Dingo đã không còn được một phần mười, nhưng là nó vẫn hoạt động bình thường như không có chuyện gì xảy ra. Nếu như ở hiện thực, bị những đòn như vậy đánh lên cơ thể thì nó không chết cũng phải tàn phế rồi. 
+
+‘Gào…’
+
+Lồm cồm bò dậy, nó hướng phía Đình Tấn rống lớn như để hù doạ, lấy dũng khí. 
+
+Một chuỗi động tác chiến đấu hoa lệ đã xong, thế nhưng Đình Tấn vẫn không muốn dừng lại tại đó. Hai mắt sắt lạnh, hắn xung phong kéo theo đại kiếm lao nhanh về phía con Dingo. 
+
+Thời gian khoảng cách không sai một ly, vung kiếm chém một nhát cuối cùng, kết liễu sinh mệnh của con Dingo.
+
+Keng!
+
+EXP +20 
+
+Dừng lại một hồi, Đình Tấn cẩn thận lại quan sát xung quanh. Rút kinh nghiệm lần trước đó, lúc này hắn dành thời gian lâu hơn mà quan sát.
+
+Đến khi chắc chắn không còn uy hiếp nào nữa, Đình Tấn mới thở phào một hơi, cúi người xuống nhặt 10 đồng tiền, cùng một Chiếc Giày Vải.
+
+Quá trình chiến đấu xảy ra rất nhanh. Giải quyết hai con Dingo, tiêu tốn Đình Tấn cũng không quá 5 phút. Chủ yếu thời gian vì cảnh giác, quan sát xung quanh.
+
+Tìm một gốc cây tựa lưng vào, Đình Tấn bắt đầu kiểm tra món đồ vừa nãy nhặt được. 
+
+Sợi dây chuyền khá đơn giản, ba cái răng nanh đều nhỏ hơn một nửa ngón tay hắn, cột trên một sợi dây vải khoảng cách đều nhau. Trên mỗi cái răng có ghi lấy một cái tên DeShawn, Walock, Jenny. Đình Tấn thử kiểm tra thuộc tính của nó.
+
+Dây chuyền răng nanh (Vật phẩm nhiệm vụ)
+
+Chất lượng: Không
+
+Yêu cầu: Không
+
+Cân nặng 0kg
+
+Là quà tặng của DeShawn cho con trai Walock.
+
+Xem đến đây, hắn không khỏi trở nên mừng rỡ. Đây chắc chắn là manh mối vì có lẽ Walock chính là con trai của ông thợ rèn DeShawn, đã vô tình đi vào khu rừng và đã bị hai con Digon này giết chết rồi.
+
+Lại tiếp tục xem xét Chiếc Giày Vải còn lại. Chiếc Giày Vải khá bẩn, bị rách nhiều chỗ, kích cỡ cũng không lớn lắm.
+
+Chiếc Giày Vải (Nhiệm vụ vật phẩm)
+
+Chất lượng: Không
+
+Yêu cầu: Không
+
+Cân nặng 0kg
+
+Một chiếc giày vải rách rưới không rõ của ai.
+
+Nhìn thấy vật phẩm nhiệm vụ, Đình Tấn cũng không nghĩ nhiều, cất vào balô. Bây giờ đã có kết quả, Đình Tấn phải lên đường trở về làng giao nhiệm vụ thôi. 
+
+20 phút sau, đứng trước mặt thợ rèn DeShawn, Đình Tấn lấy dây chuyền răng nanh từ trong ba lô đưa tới. Hắn nhẹ giọng nói.
+
+- Xin lỗi chú DeShawn, ta đã tìm khắp khu rừng phía tây nhưng không tìm được tung tích con trai ngài. Nhưng tình cờ đánh giết hai con Dingo thì phát hiện vật này. Trên đó có ghi tên của ngài, ta nghĩ chắc có lẽ nó có liên quan đến ngài.
+
+DeShawn nhìn thấy sợi dây chuyền răng nanh, hai vai run lên một cái. Hắn mắt nhanh chóng đỏ lên, đôi tay run run tiếp nhận sợi dây chuyền. Xem xét một lúc, hắn nghẹn ngào nói:
+
+- Cảm tạ dũng sĩ.
+
+Sau đó hắn im lặng, nắm chặt lấy sợi dây chuyền ôm vào ngực. Hệ thống âm thanh vang lên thay cho hắn: 
+
+Keng! 
+
+Chúc mừng ngài hoàn thành nhiệm vụ Tìm tung tích con trai DeShawn. 
+
+EXP +400
+
+Nhặt được tiền đồng +200
+
+Ngài nhận được một lần mua đồ miễn phí ở cửa hàng rèn DeShawn
+
+Keng! 
+
+Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 2 điểm tiềm năng. Xin mới cân nhắc lựa chọn.
+
+Keng! 
+
+Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 3 điểm tiềm năng. Xin mới cân nhắc lựa chọn.
+
+Mặc dù biết rằng đây không phải là thật, chỉ là hệ thống trí tuệ được lập trình, vài phút sau có lẽ mọi thứ sẽ lại phục hồi bộ dáng cũ. 
+
+Nhưng Đình Tấn vẫn không nhịn được đau nhói trong lòng một cái. Hắn không phải là một người vô cảm, chỉ là cuộc sống làm cho hắn trầm lặng ít nói mà thôi.
+
+Đợi ông Thợ rèn DeShawn phục hồi lại như cũ, Đình Tấn dùng hệ thống lựa chọn giao dịch. Cửa sổ hiện ra hai cột với nhiều biểu tượng, tên vật phẩm khác nhau.
+
+Xem xét một hồi hắn không biết nên dùng cơ hội miễn phí này mua cái gì. Theo hắn cảm thấy, các trang bị đối với hắn khá là vô dụng ở thời điểm hiện tại vì nó hỗ trợ cũng không được bao nhiêu. 
+
+Riêng vũ khí đại kiếm mà ông thợ rèn DeShawn này bán, lượng công kích của nó cũng không hơn kiếm tân thủ của hắn là bao nhiêu. 
+
+Chợt nhìn thấy Pháp Trượng, Đình Tấn liền quyết định muốn thử xem trong game liệu có thể sử dụng phương pháp tu luyện hoặc kỹ năng triệu hồi của hắn hay không.
+
+Vừa lựa chọn [Mua] Pháp Trượng xong, lão DeShawn liền tiếp lời: 
+
+- Thưa dũng sĩ, con gái lão Donald bên kia hiệu thuốc cũng rời đi theo con trai ta tiến vào khu rừng. Hiện cũng không rõ tung tích. Nếu dũng sĩ có tin tức xin qua giúp hắn báo một tiếng. Dù sao ta và hắn cũng là một thời là anh em.
+
+Đến đây Đình Tấn liền liên tưởng đến Chiếc Giày Vải kia. Gật đầu đáp lại lão DeShawn, bước ra khỏi tiệm rèn. Hắn bước về phía hiệu thuốc đi đến.
+
+Phía sau nhiều người chơi kinh ngạc vì dù sao nhiệm vụ này là của chung nhưng để hoàn thành đến nhiệm vụ này thì rất khó. Hiện tại có nhiều nhóm người chơi kinh nghiệm lâu năm đã nhận nhiệm vụ nhưng hoàn thành thì vẫn chưa có ai.
+
+Có người không nhịn được hỏi lại người xung quanh.
+
+- Cái tên kia có phải là vừa hoàn thành nhiệm vụ tìm con lão DeShawn không vậy? Phải chăng là ta nhìn lầm…
+
+- Haha, chắc là vậy rồi. Dù sao rất nhiều chiến đội như Hoả Long, Xcalibur, DemonHunter…. đã nhận nhiệm vụ nhưng đến giờ trên diễn đàn vẫn chưa có thông tin nào mà. Tên kia nhìn ‘Noob’ như vậy thì làm sao mà có thể một người mà hoàn thành sớm được chứ!
+
+Đình Tấn rời đi mặc kệ giang hồ đồn đại, hắn hiện tại đang kiểm tra thu hoạch nhiệm vụ lần này. Thăng liên hai cấp cùng với một cây Pháp Trượng. 
+
+Điểm thuộc tính tự do chưa nâng, hắn cũng không muốn dùng bây giờ nên thuộc tính nhân vật cũng chưa có gì khác biệt hết. Riêng ống kinh nghiệm thì đã thay đổi trở thành 40/500 rồi. 
+
+Mở balô Đình Tấn kiểm tra thuộc tính Pháp Trượng.
+
+Pháp Trượng
+
+Chất lượng: Đồ trắng
+
+Yêu cầu: Không
+
+Cân nặng 1kg
+
+Công kích ma pháp 0 – 9
+
+Không có gì đặc biệt, Đình Tấn chỉ muốn dùng cơ hội này thử xem suy đoán của mình là thế nào thôi.
+
+Đóng lại giao diện balô, hắn chậm rãi bước về phía tiệm thuốc.Tính toán thời gian từ lúc đổ bộ vào game cho đến hiện tại cũng đã được gần một giờ. Để cho người chơi tiện lợi hơn về giờ giấc nên thời gian trong game được xếp đặt nghịch lại với thời gian ngoài hiện thực. 
+
+Có nghĩa là khi ở hiện thực là 9 giờ tối thì trong game sẽ là 9 giờ sáng. Thời gian trong game gấp đôi so với hiện thực, làm cho người chơi sẽ có thể trải nghiệm được nhiều thứ hơn. Cũng như là sẽ có thêm gấp đôi thời gian để rèn luyện và đó cũng chính là mục đích của game Anh Hùng được tạo ra.
+
+Chậm rãi đi trên đường dẫn đến khu rừng phía tây, Đình Tấn bắt gặp một vài nhóm tổ đội người chơi dắt nhau đi luyện cấp. Bởi vì game Anh Hùng có độ mô phỏng hiện thực vô hạn tiếp cận đến gần 100%, nên khi chiến đấu bị thương, mặc dù cơ thể ngoài hiện thực sẽ không bị ảnh hưởng gì, thế nhưng cảm giác đau đớn truyền đến não thì không khác gì bản thân người chơi bị thương thật sự. 
+
+Điều này cũng làm cho trò chơi trở nên càng khó hơn cho một số người, nhất là người chơi nữ và những tiểu thư, thiếu gia đã quen ăn sung mặc sướng. Nhưng vì để có được thêm gấp đôi sinh mệnh, vì muốn có được những bí mật về phương pháp rèn luyện. Người chơi vẫn ùn ùn kéo vào không dứt.
+
+Ngược lại, với Đình Tấn. Hắn hiểu rằng, chỉ có trải qua đau đớn và thật sự đổ máu thì mới có thể đủ can đảm đối mặt với những con quái vật khổng lồ ẩn giấu sâu trong những khu rừng đó. Nếu như cứ sợ sệt rồi trốn tránh, thì sớm muộn bản thân hắn cũng sẽ bị đào thải.
+
+Những người tổ đội sang khu rừng phía tây này, đa số là những người chơi nam. Chỉ có một ít lẻ tẻ, khoảng 4 - 5 người còn lại, thì đều là người chơi nữ. 
+
+Bọn họ phân chia ra thành từng nhóm riêng biệt, đi cùng nhau săn đón những con quái vật lạc đàn. Điều này cũng không trách được họ, bởi không phải ai cũng không sợ đau, sợ hung thú. 
+
+Đình Tấn là bởi vì đã có kinh nghiệm chiến đấu trong tận thế, còn bọn họ hiện tại vẫn đang sống trong an nhàn và hoà bình, bất chợt bảo họ đi chiến đấu thì cũng khó lòng mà có thể thích nghi ngay tức khắc được.
+
+Đi bộ hơn 2 km, tiêu tốn của Đình Tấn hơn 15 phút. Rốt cuộc, Đình Tấn cũng đặt chân đến khu bìa rừng phía tây ngôi làng tân thủ này. 
+
+Trước mặt Đình Tấn là một con sông nhỏ ngăn cách giữa khu rừng với ngôi làng. Có một cây cầu đá bắt qua phía bên kia sông, nối liền với một con đường mòn đi thẳng vào khu rừng. Hai bên đường bụi cây rậm rạp ẩm ướt, cỏ cây hoang dại, có cây còn mọc cao quá một nửa bắp chân của Đình Tấn.
+
+Bên trong bụi cây cỏ dại đó bất chợt lại lấp ló những cái đầu nhỏ. Nhìn kỹ thì Đình Tấn phát hiện, bọn chúng đều là lũ chuột răng sắt. 
+
+Gọi như vậy không phải vì răng của nó cứng như sắt thép hay được làm bằng sắt, mà là vì tuy nhỏ yếu nhưng chúng nó sống thành đàn rất đông, nên nếu như bị bao vây thì dù ngươi có mặc cả áo giáp sắt thì cũng sẽ bị chúng cắn xé thành muôn mảnh.
+
+Nhìn chăm chăm một hồi bầy chuột này, trong đầu Đình Tấn thầm kêu một tiếng "Dò xét", bảng giao diện hệ thống về thông tin quái vật liền hiện ra trong tầm nhìn của hắn.
+
+Chuột răng sắt
+
+Level: 1
+
+HP: 60/60
+
+Kỹ năng: Kêu gọi bầy đàn.
+
+Giới thiệu: Một loài chuột biến dị, sức tấn công bình thường, sinh mệnh thấp, sống theo bầy đàn
+
+Xung quanh bãi cỏ ven bờ sông có khá nhiều nhóm người chơi thi nhau đánh giết bầy chuột này để luyện cấp. Cũng phải thôi, bởi vì hiện tại, khu vực của đám Pholimodo đã tập trung quá đông người, quái vật đổi mới theo không kịp tốc độ chém giết của người chơi. 
+
+Không ai muốn phí phạm thời gian của mình vào lúc khởi điểm quan trọng này cả. Mặc dù chuột răng sắt không có tuyên bố nhiệm vụ gì, lại thêm đẳng cấp bọn chúng cũng chỉ có 1 cấp, nên chỉ tăng 2 EXP cho mỗi đầu bị giết chết.
+
+Bất quá, bù lại những điểm bất cập kể trên thì chúng nó cũng có vài điểm ưu thế hơn như HP mỏng, số lượng nhiều rất thích hợp cho tân thủ tập luyện làm quen với game. 
+
+Đình Tấn đứng quan sát một lúc lâu. Sau đó, hắn quyết định men theo đường mòn tiến thẳng vào khu rừng rậm trước mặt luôn. 
+
+Xung quanh những tên người chơi cũng bị hành động này của Đình Tấn làm thu hút sự chú ý. Bọn họ đưa mắt nhìn hắn giống như nhìn người chết, có một người đàn ông da trắng tốt bụng, không kìm được hướng về Đình Tấn hô lớn.
+
+- Này nhóc quay lại đi, quái vật trong rừng rất mạnh đó. Nhiều tổ đội đông SwbuxY7 người đi vào mà đều bị toàn diệt trong đó rồi, không muốn chết thảm thì đừng vào.
+
+Đình Tấn dừng bước quay đầu nhìn người đàn ông này, gật đầu mỉm cười. Cảm tạ:
+
+- Ta chỉ đi ven bìa rừng làm nhiệm vụ. Cảm tạ ngươi nhắc nhở.
+
+Nói đoạn, hắn dứt khoát xoay người, cất bước đi tiếp không dừng. 
+
+Người đàn ông kia cũng chỉ biết âm thầm lắc đầu, thở dài một hơi rồi quay lại tiếp tục đánh giết lũ chuột với đồng đội của hắn.
+
+Còn với Đình Tấn. Hắn cũng không có nghĩ quá nhiều, cứ chậm rãi men theo đường mòn đi vào khu rừng. 
+
+Xung quanh không gian yên tĩnh, ánh nắng mặt trời ban trưa rọi qua từng tán lá cây, làm cho quan cảnh mỹ lệ do rừng phong thụ cấu thành càng thêm sáng sủa hơn. 
+
+Thời gian nhỏ giọt trôi qua, Đình Tấn vẫn cứ vừa bước đi, vừa cẩn thận ngó nhìn xung quanh để tìm manh mối của con trai ông thợ rèn DeShawn. 
+
+Ban đầu, hắn suy đoán, nếu theo logic thì con trai ông thợ rèn DeShawn chắc chắn sẽ không đi vào quá sâu trong rừng. Thế nhưng đã trôi qua một giờ kể từ khi hắn bước vào khu rừng này, cũng đã đi gần giáp vòng xung quanh bìa rừng. 
+
+Vậy mà Đình Tấn đều không tìm được thứ gì, dù chỉ là một manh mối nhỏ. Hắn cau mày bắt đầu nghi ngờ, chẳng lẽ con trai thợ rèn DeShawn đi vào sâu bên trong nữa. 
+
+Bất chợt, đang lúc Đình Tấn tập trung suy nghĩ thì một tiếng “sột… soạt” từ bụi cây gần đó truyền tới. Hắn như bản năng, gỡ đại kiếm trên lưng cầm chặt trong tay để che chắn và phòng thủ trước người, ánh mắt cẩn thận nhìn tứ phía.
+
+“Gào…” 
+
+Trong một bụi rậm ở bên phải Đình Tấn, một con chó đột nhiên gào thét lao nhanh ra. Chân sau súc lực đạp mạnh trên mặt đất phóng người bay lên, chân trước móng vuốt vồ tới phía trước mặt. Miệng rộng đỏ như máu, đầy răng nanh sắc bén mở rộng ra hướng về phía đầu của Đình Tấn cắn tới.
+
+Đình Tấn không suy nghĩ nhiều. Hắn hành động giống như là bản năng, nhún mạnh, nghiêng người nhảy về bên phải để né tránh cú vồ tới bất ngờ của con chó này.
+
+Lộn người một vòng, nửa quỳ nửa ngồi trên mặt đất, Đình Tấn vội xoay người, hàm răng cắn chặt, một tay nắm lấy đại kiếm vung mạnh về phía sau. 
+
+Con chó vồ hụt con mồi, vừa đạp chân trước xuống đất, quay đầu gào thét hướng Đình Tấn nhìn lại thì ập vào trong mắt nó là một thanh đại kiếm càng ngày càng phóng đại. 
+
+“Ầm… bịch” 
+
+-87
+
+-9
+
+Con chó bị Đình Tấn vung kiếm chém trúng, kêu thảm một tiếng rồi bay người đập vào gốc cây đại thụ ở phía sau lưng nó. 
+
+Lực đánh quá mạnh làm nó va đập vào thân cây thì liền bị dội ngược ra. Hai lần điểm thương tổn nổi lên trên đầu nó. 
+
+Chiến đấu 10 năm dạy cho Đình Tấn một chân lý là "Không bao giờ dừng tay khi chưa kết liễu được kẻ địch". Vừa cảm giác chém trúng, hai mắt hắn lăng lệ ác liệt nhìn rõ phương hướng. 
+
+Hai chân lập tức phát lực bật người về phía con chó bay đi. Đại kiếm thuận thế mà vung lên cao rồi chém xuống, mục tiêu là cái đầu con chó.
+
+“Đùng”
+
+-90 (Chí Mạng)
+
+Lưỡi kiếm đập mạnh vào đầu con chó, lực đạo mạnh mẽ đè ép đầu nó đập mạnh xuống đất. Chưa có dấu hiệu chết đi, con chó vùng vẫy đầu chồm dậy muốn vồ đến Đình Tấn. Nhưng có lẽ do liên tục bị ăn kiếm, động tác của nó đã trở nên chậm chạp, bị trì hoãn lại.
+
+Đình Tấn biết nó còn chưa chết, hai tay liền nắm ngược cán kiếm. Nhất mũi kiếm khỏi đầu con chó, tàn nhẫn mà cắm mạnh xuống một lần nữa.
+
+“Phập”
+
+-34
+
+Mũi kiếm đâm vào đầu, tổn thương cũng vừa hiển thị trên đầu con chó, âm thanh thông báo liền vang lên:
+
+Keng! 
+
+EXP +20
+
+Đình Tấn mặc dù đã nghe thông báo nhận kinh nghiệm, chứng tỏ con chó đã chết, thế nhưng lòng cảnh giác của hắn vẫn chưa hết. 
+
+Mặc kệ kiểm tra vật phẩm rơi ra bên cạnh xác chết của con chó. Đình Tấn giơ lên kiếm đỡ trước người, trở về trạng thái phòng thủ trước đó rồi chậm chạp lùi lại sau gốc cây. 
+
+Hắn đứng tại chỗ im lặng như một tảng đá, ánh mắt bình tĩnh quan sát xung quanh.
+
+Sau một hồi lâu, không có động tĩnh gì khác lạ, Đình Tấn mới dần dần thả lỏng cơ thể, bước chậm từng bước đi tới xác của con chó. 
+
+12 đồng tiền, cùng với một sợi dây chuyền răng nanh. Quan sát xác chết con quái vật, Đình Tấn nhận ra đây là loài Dingo. Nó có vẻ bề ngoài hệt như loài chó Pit Pull trên trái đất, thế nhưng hình thể lớn hơn gấp đôi, lông mỏng, bộ da dày như da bò màu sậm, cơ bắp rắn chắc.
+
+Đang lúc Đình Tấn cúi người xuống nhặt vật phẩm. Chợt, trong bụi rậm ở ngay vị trí cách đó không xa, đột ngột lao ra một con Dingo khác, vồ tới trước mặt Đình Tấn đang cúi người nhặt đồ vật. 
+
+Không cẩn thận cảnh giác, hai mắt Đình Tấn kinh ngạc nhìn nó vồ trúng hai vai mình, rồi mất thăng bằng lùi lại mấy bước.
+
+-26
+
+“Ah…”
+
+Một con số thương tổn nổi lên, kèm theo đó là một cơn đau đớn như bị xé rách da thịt thật sự, truyền đến đại não, làm Đình Tấn không nhịn được kêu rên một tiếng. 
+
+Tuy rằng không đổ máu, quần áo không bị phá hoại, thế nhưng Đình Tấn cảm giác được như có hai bộ móng vuốt thật đang cắm vào vai hắn.
+
+Hệ thống trong game có thể điều chỉnh cài đặt để giảm xuống mức độ mô phỏng hiện thực, tức là giảm xuống mức độ cảm giác chân thật của game. 
+
+Thế nhưng làm một tên chiến sĩ, Đình Tấn phải bảo đảm ngũ giác của mình không bị suy yếu thì mới có thể nắm bắt được hoàn cảnh nguy hiểm xung quanh. 
+
+Đây cũng như là một thói quen, một bản năng được thành lập qua nhiều năm chiến đấu của Đình Tấn. Thế nên hắn không thể điều chỉnh gì cả mà vẫn phải giữ ở mức cao nhất.
+
+Trong chớp mắt bị vồ tới, Đình Tấn không hốt không hoảng. Ánh mắt hắn bình tĩnh, đầu hơi nghiêng sang một bên để né tránh cái miệng của con Dingo đang táp tới. 
+
+Đồng thời, hai tay cũng buông ra thanh đại kiếm rồi chộp vào hai chân đang vồ lấy vai mình của con chó Dingo. Một loạt các động tác liên tục nối tiếp nhau, không chậm trễ một giây, hắn ngã người về phía sau. Chân phải đạp mạnh vào bụng con Dingo, vừa lộn ngược người vừa hất mạnh nó ra phía sau.
+
+Ngay khi cảm giác hai móng vuốt con Dingo rời khỏi vai mình, Đình Tấn nhanh chóng hoàn thành động tác lộn người. Sau đó hai chân một trước một sau chạy chồm về phía thanh đại kiếm đang nằm trên đất cách đó chưa đến 3m. 
+
+Chộp được đại kiếm vào tay, Đình Tấn vẫn không dừng lại kéo dài khoảng cách với con Dingo ra đến 7 mét có hơn. 
+
+Cảm giác đã đạt đến khoảng cách an toàn, hắn liền trượt chân thắng gấp xoay người lại, đồng thời giơ cao đại kiếm, tiến vào trạng thái phòng thủ, hai mắt chăm chăm nhìn vào con Dingo phía trước mặt mình.
+
+Con Dingo hung hãng, vừa bị Đình Tấn đạp bay rơi xuống đất. Nó liền lập tức ngồi dậy, đuổi theo con mồi đang chạy vội. Nhưng khi trông thấy Đình Tấn đã dừng lại và phòng thủ nhìn chăm chăm mình, nó cũng dừng lại theo rồi nhìn kỹ lấy Đình Tấn như đang tìm kiếm cơ hội.
+
+Đình Tấn dường như đã quên cảm giác đau vừa rồi, ánh mắt sắc bén tập trung nhìn lấy từng động tác, từng chuyển động bắp thịt của con Dingo. 
+
+Chỉ cần nó lộ ra sơ hở, hắn đảm bảo chỉ cần dùng một combo là có thể đánh nó không ngóc đầu lên nổi. Trong đầu nghĩ đến “Dò xét”, hệ thống liền hiển thị ra bảng thuộc tính con Dingo
+
+Dingo 
+
+Level: 4
+
+HP: 220/220
+
+Kỹ năng: Vồ tới, cắn xé
+
+Giới thiệu: Thuộc giống chó, sức mạnh bằng một người trưởng thành, nhanh nhẹn linh hoạt, khả năng ẩn nấp săn mồi rất mạnh. Điểm yếu ở bụng, đầu.
+
+Đang tra xét thuộc tính con Dingo, Đình Tấn cũng vừa nhanh chóng tính toán. Lúc nãy chém chết con Dingo trong ba kiếm, thế nên sức phòng ngự của nó cũng sẽ không cao. Hắn cười lạnh một cái rồi từ từ thả lỏng người, để lộ ra sơ hở.
+
+Con Dingo liền lập tức mắc câu, nó phát lực vồ tới con mồi không khác gì những lần đã làm trước đó. 
+
+Dường như đã đoán được, ngay giây phút con Dingo vừa có động tĩnh, Đình Tấn lập tức nhẹ nhàng xoay người sang một bên, đại kiếm chém lên phương hướng ngược lại với phương hướng mà con Dingo đang vồ tới. 
+
+Lưỡi kiếm chém ngay vào miệng máu đang mở rộng của nó. 
+
+‘Ầm!’
+
+-90
+
+‘Ẳng…’
+
+Con Dingo bị đánh bay ngược lên cao hơn 2 mét, kêu rên thảm thiết. 
+
+Đình Tấn nào có bỏ qua cơ hội lần này. Hắn tiếp tục dự đoán phương hướng con Dingo sẽ hạ xuống, rồi tiếp tục vung kiếm nhắm vào bụng con Dingo mà chém tới. 
+
+‘Ầm’
+
+Như một quả bóng chày, con Dingo tiếp tục bị đại kiếm chém bay ngược lại một đoạn, đập mạnh cơ thể vào một gốc đại thụ, dội ngược ra lăn lộn vài vòng trên mặt đất.
+
+-90
+
+-21
+
+Ống HP của con Dingo đã không còn được một phần mười, nhưng là nó vẫn hoạt động bình thường như không có chuyện gì xảy ra. Nếu như ở hiện thực, bị những đòn như vậy đánh lên cơ thể thì nó không chết cũng phải tàn phế rồi. 
+
+‘Gào…’
+
+Lồm cồm bò dậy, nó hướng phía Đình Tấn rống lớn như để hù doạ, lấy dũng khí. 
+
+Một chuỗi động tác chiến đấu hoa lệ đã xong, thế nhưng Đình Tấn vẫn không muốn dừng lại tại đó. Hai mắt sắt lạnh, hắn xung phong kéo theo đại kiếm lao nhanh về phía con Dingo. 
+
+Thời gian khoảng cách không sai một ly, vung kiếm chém một nhát cuối cùng, kết liễu sinh mệnh của con Dingo.
+
+Keng!
+
+EXP +20 
+
+Dừng lại một hồi, Đình Tấn cẩn thận lại quan sát xung quanh. Rút kinh nghiệm lần trước đó, lúc này hắn dành thời gian lâu hơn mà quan sát.
+
+Đến khi chắc chắn không còn uy hiếp nào nữa, Đình Tấn mới thở phào một hơi, cúi người xuống nhặt 10 đồng tiền, cùng một Chiếc Giày Vải.
+
+Quá trình chiến đấu xảy ra rất nhanh. Giải quyết hai con Dingo, tiêu tốn Đình Tấn cũng không quá 5 phút. Chủ yếu thời gian vì cảnh giác, quan sát xung quanh.
+
+Tìm một gốc cây tựa lưng vào, Đình Tấn bắt đầu kiểm tra món đồ vừa nãy nhặt được. 
+
+Sợi dây chuyền khá đơn giản, ba cái răng nanh đều nhỏ hơn một nửa ngón tay hắn, cột trên một sợi dây vải khoảng cách đều nhau. Trên mỗi cái răng có ghi lấy một cái tên DeShawn, Walock, Jenny. Đình Tấn thử kiểm tra thuộc tính của nó.
+
+Dây chuyền răng nanh (Vật phẩm nhiệm vụ)
+
+Chất lượng: Không
+
+Yêu cầu: Không
+
+Cân nặng 0kg
+
+Là quà tặng của DeShawn cho con trai Walock.
+
+Xem đến đây, hắn không khỏi trở nên mừng rỡ. Đây chắc chắn là manh mối vì có lẽ Walock chính là con trai của ông thợ rèn DeShawn, đã vô tình đi vào khu rừng và đã bị hai con Digon này giết chết rồi.
+
+Lại tiếp tục xem xét Chiếc Giày Vải còn lại. Chiếc Giày Vải khá bẩn, bị rách nhiều chỗ, kích cỡ cũng không lớn lắm.
+
+Chiếc Giày Vải (Nhiệm vụ vật phẩm)
+
+Chất lượng: Không
+
+Yêu cầu: Không
+
+Cân nặng 0kg
+
+Một chiếc giày vải rách rưới không rõ của ai.
+
+Nhìn thấy vật phẩm nhiệm vụ, Đình Tấn cũng không nghĩ nhiều, cất vào balô. Bây giờ đã có kết quả, Đình Tấn phải lên đường trở về làng giao nhiệm vụ thôi. 
+
+20 phút sau, đứng trước mặt thợ rèn DeShawn, Đình Tấn lấy dây chuyền răng nanh từ trong ba lô đưa tới. Hắn nhẹ giọng nói.
+
+- Xin lỗi chú DeShawn, ta đã tìm khắp khu rừng phía tây nhưng không tìm được tung tích con trai ngài. Nhưng tình cờ đánh giết hai con Dingo thì phát hiện vật này. Trên đó có ghi tên của ngài, ta nghĩ chắc có lẽ nó có liên quan đến ngài.
+
+DeShawn nhìn thấy sợi dây chuyền răng nanh, hai vai run lên một cái. Hắn mắt nhanh chóng đỏ lên, đôi tay run run tiếp nhận sợi dây chuyền. Xem xét một lúc, hắn nghẹn ngào nói:
+
+- Cảm tạ dũng sĩ.
+
+Sau đó hắn im lặng, nắm chặt lấy sợi dây chuyền ôm vào ngực. Hệ thống âm thanh vang lên thay cho hắn: 
+
+Keng! 
+
+Chúc mừng ngài hoàn thành nhiệm vụ Tìm tung tích con trai DeShawn. 
+
+EXP +400
+
+Nhặt được tiền đồng +200
+
+Ngài nhận được một lần mua đồ miễn phí ở cửa hàng rèn DeShawn
+
+Keng! 
+
+Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 2 điểm tiềm năng. Xin mới cân nhắc lựa chọn.
+
+Keng! 
+
+Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 3 điểm tiềm năng. Xin mới cân nhắc lựa chọn.
+
+Mặc dù biết rằng đây không phải là thật, chỉ là hệ thống trí tuệ được lập trình, vài phút sau có lẽ mọi thứ sẽ lại phục hồi bộ dáng cũ. 
+
+Nhưng Đình Tấn vẫn không nhịn được đau nhói trong lòng một cái. Hắn không phải là một người vô cảm, chỉ là cuộc sống làm cho hắn trầm lặng ít nói mà thôi.
+
+Đợi ông Thợ rèn DeShawn phục hồi lại như cũ, Đình Tấn dùng hệ thống lựa chọn giao dịch. Cửa sổ hiện ra hai cột với nhiều biểu tượng, tên vật phẩm khác nhau.
+
+Xem xét một hồi hắn không biết nên dùng cơ hội miễn phí này mua cái gì. Theo hắn cảm thấy, các trang bị đối với hắn khá là vô dụng ở thời điểm hiện tại vì nó hỗ trợ cũng không được bao nhiêu. 
+
+Riêng vũ khí đại kiếm mà ông thợ rèn DeShawn này bán, lượng công kích của nó cũng không hơn kiếm tân thủ của hắn là bao nhiêu. 
+
+Chợt nhìn thấy Pháp Trượng, Đình Tấn liền quyết định muốn thử xem trong game liệu có thể sử dụng phương pháp tu luyện hoặc kỹ năng triệu hồi của hắn hay không.
+
+Vừa lựa chọn [Mua] Pháp Trượng xong, lão DeShawn liền tiếp lời: 
+
+- Thưa dũng sĩ, con gái lão Donald bên kia hiệu thuốc cũng rời đi theo con trai ta tiến vào khu rừng. Hiện cũng không rõ tung tích. Nếu dũng sĩ có tin tức xin qua giúp hắn báo một tiếng. Dù sao ta và hắn cũng là một thời là anh em.
+
+Đến đây Đình Tấn liền liên tưởng đến Chiếc Giày Vải kia. Gật đầu đáp lại lão DeShawn, bước ra khỏi tiệm rèn. Hắn bước về phía hiệu thuốc đi đến.
+
+Phía sau nhiều người chơi kinh ngạc vì dù sao nhiệm vụ này là của chung nhưng để hoàn thành đến nhiệm vụ này thì rất khó. Hiện tại có nhiều nhóm người chơi kinh nghiệm lâu năm đã nhận nhiệm vụ nhưng hoàn thành thì vẫn chưa có ai.
+
+Có người không nhịn được hỏi lại người xung quanh.
+
+- Cái tên kia có phải là vừa hoàn thành nhiệm vụ tìm con lão DeShawn không vậy? Phải chăng là ta nhìn lầm…
+
+- Haha, chắc là vậy rồi. Dù sao rất nhiều chiến đội như Hoả Long, Xcalibur, DemonHunter…. đã nhận nhiệm vụ nhưng đến giờ trên diễn đàn vẫn chưa có thông tin nào mà. Tên kia nhìn ‘Noob’ như vậy thì làm sao mà có thể một người mà hoàn thành sớm được chứ!
+
+Đình Tấn rời đi mặc kệ giang hồ đồn đại, hắn hiện tại đang kiểm tra thu hoạch nhiệm vụ lần này. Thăng liên hai cấp cùng với một cây Pháp Trượng. 
+
+Điểm thuộc tính tự do chưa nâng, hắn cũng không muốn dùng bây giờ nên thuộc tính nhân vật cũng chưa có gì khác biệt hết. Riêng ống kinh nghiệm thì đã thay đổi trở thành 40/500 rồi. 
+
+Mở balô Đình Tấn kiểm tra thuộc tính Pháp Trượng.
+
+Pháp Trượng
+
+Chất lượng: Đồ trắng
+
+Yêu cầu: Không
+
+Cân nặng 1kg
+
+Công kích ma pháp 0 – 9
+
+Không có gì đặc biệt, Đình Tấn chỉ muốn dùng cơ hội này thử xem suy đoán của mình là thế nào thôi.
+
+Đóng lại giao diện balô, hắn chậm rãi bước về phía tiệm thuốc.Tính toán thời gian từ lúc đổ bộ vào game cho đến hiện tại cũng đã được gần một giờ. Để cho người chơi tiện lợi hơn về giờ giấc nên thời gian trong game được xếp đặt nghịch lại với thời gian ngoài hiện thực. 
+
+Có nghĩa là khi ở hiện thực là 9 giờ tối thì trong game sẽ là 9 giờ sáng. Thời gian trong game gấp đôi so với hiện thực, làm cho người chơi sẽ có thể trải nghiệm được nhiều thứ hơn. Cũng như là sẽ có thêm gấp đôi thời gian để rèn luyện và đó cũng chính là mục đích của game Anh Hùng được tạo ra.
+
+Chậm rãi đi trên đường dẫn đến khu rừng phía tây, Đình Tấn bắt gặp một vài nhóm tổ đội người chơi dắt nhau đi luyện cấp. Bởi vì game Anh Hùng có độ mô phỏng hiện thực vô hạn tiếp cận đến gần 100%, nên khi chiến đấu bị thương, mặc dù cơ thể ngoài hiện thực sẽ không bị ảnh hưởng gì, thế nhưng cảm giác đau đớn truyền đến não thì không khác gì bản thân người chơi bị thương thật sự. 
+
+Điều này cũng làm cho trò chơi trở nên càng khó hơn cho một số người, nhất là người chơi nữ và những tiểu thư, thiếu gia đã quen ăn sung mặc sướng. Nhưng vì để có được thêm gấp đôi sinh mệnh, vì muốn có được những bí mật về phương pháp rèn luyện. Người chơi vẫn ùn ùn kéo vào không dứt.
+
+Ngược lại, với Đình Tấn. Hắn hiểu rằng, chỉ có trải qua đau đớn và thật sự đổ máu thì mới có thể đủ can đảm đối mặt với những con quái vật khổng lồ ẩn giấu sâu trong những khu rừng đó. Nếu như cứ sợ sệt rồi trốn tránh, thì sớm muộn bản thân hắn cũng sẽ bị đào thải.
+
+Những người tổ đội sang khu rừng phía tây này, đa số là những người chơi nam. Chỉ có một ít lẻ tẻ, khoảng 4 - 5 người còn lại, thì đều là người chơi nữ. 
+
+Bọn họ phân chia ra thành từng nhóm riêng biệt, đi cùng nhau săn đón những con quái vật lạc đàn. Điều này cũng không trách được họ, bởi không phải ai cũng không sợ đau, sợ hung thú. 
+
+Đình Tấn là bởi vì đã có kinh nghiệm chiến đấu trong tận thế, còn bọn họ hiện tại vẫn đang sống trong an nhàn và hoà bình, bất chợt bảo họ đi chiến đấu thì cũng khó lòng mà có thể thích nghi ngay tức khắc được.
+
+Đi bộ hơn 2 km, tiêu tốn của Đình Tấn hơn 15 phút. Rốt cuộc, Đình Tấn cũng đặt chân đến khu bìa rừng phía tây ngôi làng tân thủ này. 
+
+Trước mặt Đình Tấn là một con sông nhỏ ngăn cách giữa khu rừng với ngôi làng. Có một cây cầu đá bắt qua phía bên kia sông, nối liền với một con đường mòn đi thẳng vào khu rừng. Hai bên đường bụi cây rậm rạp ẩm ướt, cỏ cây hoang dại, có cây còn mọc cao quá một nửa bắp chân của Đình Tấn.
+
+Bên trong bụi cây cỏ dại đó bất chợt lại lấp ló những cái đầu nhỏ. Nhìn kỹ thì Đình Tấn phát hiện, bọn chúng đều là lũ chuột răng sắt. 
+
+Gọi như vậy không phải vì răng của nó cứng như sắt thép hay được làm bằng sắt, mà là vì tuy nhỏ yếu nhưng chúng nó sống thành đàn rất đông, nên nếu như bị bao vây thì dù ngươi có mặc cả áo giáp sắt thì cũng sẽ bị chúng cắn xé thành muôn mảnh.
+
+Nhìn chăm chăm một hồi bầy chuột này, trong đầu Đình Tấn thầm kêu một tiếng "Dò xét", bảng giao diện hệ thống về thông tin quái vật liền hiện ra trong tầm nhìn của hắn.
+
+Chuột răng sắt
+
+Level: 1
+
+HP: 60/60
+
+Kỹ năng: Kêu gọi bầy đàn.
+
+Giới thiệu: Một loài chuột biến dị, sức tấn công bình thường, sinh mệnh thấp, sống theo bầy đàn
+
+Xung quanh bãi cỏ ven bờ sông có khá nhiều nhóm người chơi thi nhau đánh giết bầy chuột này để luyện cấp. Cũng phải thôi, bởi vì hiện tại, khu vực của đám Pholimodo đã tập trung quá đông người, quái vật đổi mới theo không kịp tốc độ chém giết của người chơi. 
+
+Không ai muốn phí phạm thời gian của mình vào lúc khởi điểm quan trọng này cả. Mặc dù chuột răng sắt không có tuyên bố nhiệm vụ gì, lại thêm đẳng cấp bọn chúng cũng chỉ có 1 cấp, nên chỉ tăng 2 EXP cho mỗi đầu bị giết chết.
+
+Bất quá, bù lại những điểm bất cập kể trên thì chúng nó cũng có vài điểm ưu thế hơn như HP mỏng, số lượng nhiều rất thích hợp cho tân thủ tập luyện làm quen với game. 
+
+Đình Tấn đứng quan sát một lúc lâu. Sau đó, hắn quyết định men theo đường mòn tiến thẳng vào khu rừng rậm trước mặt luôn. 
+
+Xung quanh những tên người chơi cũng bị hành động này của Đình Tấn làm thu hút sự chú ý. Bọn họ đưa mắt nhìn hắn giống như nhìn người chết, có một người đàn ông da trắng tốt bụng, không kìm được hướng về Đình Tấn hô lớn.
+
+- Này nhóc quay lại đi, quái vật trong rừng rất mạnh đó. Nhiều tổ đội đông SwbuxY7 người đi vào mà đều bị toàn diệt trong đó rồi, không muốn chết thảm thì đừng vào.
+
+Đình Tấn dừng bước quay đầu nhìn người đàn ông này, gật đầu mỉm cười. Cảm tạ:
+
+- Ta chỉ đi ven bìa rừng làm nhiệm vụ. Cảm tạ ngươi nhắc nhở.
+
+Nói đoạn, hắn dứt khoát xoay người, cất bước đi tiếp không dừng. 
+
+Người đàn ông kia cũng chỉ biết âm thầm lắc đầu, thở dài một hơi rồi quay lại tiếp tục đánh giết lũ chuột với đồng đội của hắn.
+
+Còn với Đình Tấn. Hắn cũng không có nghĩ quá nhiều, cứ chậm rãi men theo đường mòn đi vào khu rừng. 
+
+Xung quanh không gian yên tĩnh, ánh nắng mặt trời ban trưa rọi qua từng tán lá cây, làm cho quan cảnh mỹ lệ do rừng phong thụ cấu thành càng thêm sáng sủa hơn. 
+
+Thời gian nhỏ giọt trôi qua, Đình Tấn vẫn cứ vừa bước đi, vừa cẩn thận ngó nhìn xung quanh để tìm manh mối của con trai ông thợ rèn DeShawn. 
+
+Ban đầu, hắn suy đoán, nếu theo logic thì con trai ông thợ rèn DeShawn chắc chắn sẽ không đi vào quá sâu trong rừng. Thế nhưng đã trôi qua một giờ kể từ khi hắn bước vào khu rừng này, cũng đã đi gần giáp vòng xung quanh bìa rừng. 
+
+Vậy mà Đình Tấn đều không tìm được thứ gì, dù chỉ là một manh mối nhỏ. Hắn cau mày bắt đầu nghi ngờ, chẳng lẽ con trai thợ rèn DeShawn đi vào sâu bên trong nữa. 
+
+Bất chợt, đang lúc Đình Tấn tập trung suy nghĩ thì một tiếng “sột… soạt” từ bụi cây gần đó truyền tới. Hắn như bản năng, gỡ đại kiếm trên lưng cầm chặt trong tay để che chắn và phòng thủ trước người, ánh mắt cẩn thận nhìn tứ phía.
+
+“Gào…” 
+
+Trong một bụi rậm ở bên phải Đình Tấn, một con chó đột nhiên gào thét lao nhanh ra. Chân sau súc lực đạp mạnh trên mặt đất phóng người bay lên, chân trước móng vuốt vồ tới phía trước mặt. Miệng rộng đỏ như máu, đầy răng nanh sắc bén mở rộng ra hướng về phía đầu của Đình Tấn cắn tới.
+
+Đình Tấn không suy nghĩ nhiều. Hắn hành động giống như là bản năng, nhún mạnh, nghiêng người nhảy về bên phải để né tránh cú vồ tới bất ngờ của con chó này.
+
+Lộn người một vòng, nửa quỳ nửa ngồi trên mặt đất, Đình Tấn vội xoay người, hàm răng cắn chặt, một tay nắm lấy đại kiếm vung mạnh về phía sau. 
+
+Con chó vồ hụt con mồi, vừa đạp chân trước xuống đất, quay đầu gào thét hướng Đình Tấn nhìn lại thì ập vào trong mắt nó là một thanh đại kiếm càng ngày càng phóng đại. 
+
+“Ầm… bịch” 
+
+-87
+
+-9
+
+Con chó bị Đình Tấn vung kiếm chém trúng, kêu thảm một tiếng rồi bay người đập vào gốc cây đại thụ ở phía sau lưng nó. 
+
+Lực đánh quá mạnh làm nó va đập vào thân cây thì liền bị dội ngược ra. Hai lần điểm thương tổn nổi lên trên đầu nó. 
+
+Chiến đấu 10 năm dạy cho Đình Tấn một chân lý là "Không bao giờ dừng tay khi chưa kết liễu được kẻ địch". Vừa cảm giác chém trúng, hai mắt hắn lăng lệ ác liệt nhìn rõ phương hướng. 
+
+Hai chân lập tức phát lực bật người về phía con chó bay đi. Đại kiếm thuận thế mà vung lên cao rồi chém xuống, mục tiêu là cái đầu con chó.
+
+“Đùng”
+
+-90 (Chí Mạng)
+
+Lưỡi kiếm đập mạnh vào đầu con chó, lực đạo mạnh mẽ đè ép đầu nó đập mạnh xuống đất. Chưa có dấu hiệu chết đi, con chó vùng vẫy đầu chồm dậy muốn vồ đến Đình Tấn. Nhưng có lẽ do liên tục bị ăn kiếm, động tác của nó đã trở nên chậm chạp, bị trì hoãn lại.
+
+Đình Tấn biết nó còn chưa chết, hai tay liền nắm ngược cán kiếm. Nhất mũi kiếm khỏi đầu con chó, tàn nhẫn mà cắm mạnh xuống một lần nữa.
+
+“Phập”
+
+-34
+
+Mũi kiếm đâm vào đầu, tổn thương cũng vừa hiển thị trên đầu con chó, âm thanh thông báo liền vang lên:
+
+Keng! 
+
+EXP +20
+
+Đình Tấn mặc dù đã nghe thông báo nhận kinh nghiệm, chứng tỏ con chó đã chết, thế nhưng lòng cảnh giác của hắn vẫn chưa hết. 
+
+Mặc kệ kiểm tra vật phẩm rơi ra bên cạnh xác chết của con chó. Đình Tấn giơ lên kiếm đỡ trước người, trở về trạng thái phòng thủ trước đó rồi chậm chạp lùi lại sau gốc cây. 
+
+Hắn đứng tại chỗ im lặng như một tảng đá, ánh mắt bình tĩnh quan sát xung quanh.
+
+Sau một hồi lâu, không có động tĩnh gì khác lạ, Đình Tấn mới dần dần thả lỏng cơ thể, bước chậm từng bước đi tới xác của con chó. 
+
+12 đồng tiền, cùng với một sợi dây chuyền răng nanh. Quan sát xác chết con quái vật, Đình Tấn nhận ra đây là loài Dingo. Nó có vẻ bề ngoài hệt như loài chó Pit Pull trên trái đất, thế nhưng hình thể lớn hơn gấp đôi, lông mỏng, bộ da dày như da bò màu sậm, cơ bắp rắn chắc.
+
+Đang lúc Đình Tấn cúi người xuống nhặt vật phẩm. Chợt, trong bụi rậm ở ngay vị trí cách đó không xa, đột ngột lao ra một con Dingo khác, vồ tới trước mặt Đình Tấn đang cúi người nhặt đồ vật. 
+
+Không cẩn thận cảnh giác, hai mắt Đình Tấn kinh ngạc nhìn nó vồ trúng hai vai mình, rồi mất thăng bằng lùi lại mấy bước.
+
+-26
+
+“Ah…”
+
+Một con số thương tổn nổi lên, kèm theo đó là một cơn đau đớn như bị xé rách da thịt thật sự, truyền đến đại não, làm Đình Tấn không nhịn được kêu rên một tiếng. 
+
+Tuy rằng không đổ máu, quần áo không bị phá hoại, thế nhưng Đình Tấn cảm giác được như có hai bộ móng vuốt thật đang cắm vào vai hắn.
+
+Hệ thống trong game có thể điều chỉnh cài đặt để giảm xuống mức độ mô phỏng hiện thực, tức là giảm xuống mức độ cảm giác chân thật của game. 
+
+Thế nhưng làm một tên chiến sĩ, Đình Tấn phải bảo đảm ngũ giác của mình không bị suy yếu thì mới có thể nắm bắt được hoàn cảnh nguy hiểm xung quanh. 
+
+Đây cũng như là một thói quen, một bản năng được thành lập qua nhiều năm chiến đấu của Đình Tấn. Thế nên hắn không thể điều chỉnh gì cả mà vẫn phải giữ ở mức cao nhất.
+
+Trong chớp mắt bị vồ tới, Đình Tấn không hốt không hoảng. Ánh mắt hắn bình tĩnh, đầu hơi nghiêng sang một bên để né tránh cái miệng của con Dingo đang táp tới. 
+
+Đồng thời, hai tay cũng buông ra thanh đại kiếm rồi chộp vào hai chân đang vồ lấy vai mình của con chó Dingo. Một loạt các động tác liên tục nối tiếp nhau, không chậm trễ một giây, hắn ngã người về phía sau. Chân phải đạp mạnh vào bụng con Dingo, vừa lộn ngược người vừa hất mạnh nó ra phía sau.
+
+Ngay khi cảm giác hai móng vuốt con Dingo rời khỏi vai mình, Đình Tấn nhanh chóng hoàn thành động tác lộn người. Sau đó hai chân một trước một sau chạy chồm về phía thanh đại kiếm đang nằm trên đất cách đó chưa đến 3m. 
+
+Chộp được đại kiếm vào tay, Đình Tấn vẫn không dừng lại kéo dài khoảng cách với con Dingo ra đến 7 mét có hơn. 
+
+Cảm giác đã đạt đến khoảng cách an toàn, hắn liền trượt chân thắng gấp xoay người lại, đồng thời giơ cao đại kiếm, tiến vào trạng thái phòng thủ, hai mắt chăm chăm nhìn vào con Dingo phía trước mặt mình.
+
+Con Dingo hung hãng, vừa bị Đình Tấn đạp bay rơi xuống đất. Nó liền lập tức ngồi dậy, đuổi theo con mồi đang chạy vội. Nhưng khi trông thấy Đình Tấn đã dừng lại và phòng thủ nhìn chăm chăm mình, nó cũng dừng lại theo rồi nhìn kỹ lấy Đình Tấn như đang tìm kiếm cơ hội.
+
+Đình Tấn dường như đã quên cảm giác đau vừa rồi, ánh mắt sắc bén tập trung nhìn lấy từng động tác, từng chuyển động bắp thịt của con Dingo. 
+
+Chỉ cần nó lộ ra sơ hở, hắn đảm bảo chỉ cần dùng một combo là có thể đánh nó không ngóc đầu lên nổi. Trong đầu nghĩ đến “Dò xét”, hệ thống liền hiển thị ra bảng thuộc tính con Dingo
+
+Dingo 
+
+Level: 4
+
+HP: 220/220
+
+Kỹ năng: Vồ tới, cắn xé
+
+Giới thiệu: Thuộc giống chó, sức mạnh bằng một người trưởng thành, nhanh nhẹn linh hoạt, khả năng ẩn nấp săn mồi rất mạnh. Điểm yếu ở bụng, đầu.
+
+Đang tra xét thuộc tính con Dingo, Đình Tấn cũng vừa nhanh chóng tính toán. Lúc nãy chém chết con Dingo trong ba kiếm, thế nên sức phòng ngự của nó cũng sẽ không cao. Hắn cười lạnh một cái rồi từ từ thả lỏng người, để lộ ra sơ hở.
+
+Con Dingo liền lập tức mắc câu, nó phát lực vồ tới con mồi không khác gì những lần đã làm trước đó. 
+
+Dường như đã đoán được, ngay giây phút con Dingo vừa có động tĩnh, Đình Tấn lập tức nhẹ nhàng xoay người sang một bên, đại kiếm chém lên phương hướng ngược lại với phương hướng mà con Dingo đang vồ tới. 
+
+Lưỡi kiếm chém ngay vào miệng máu đang mở rộng của nó. 
+
+‘Ầm!’
+
+-90
+
+‘Ẳng…’
+
+Con Dingo bị đánh bay ngược lên cao hơn 2 mét, kêu rên thảm thiết. 
+
+Đình Tấn nào có bỏ qua cơ hội lần này. Hắn tiếp tục dự đoán phương hướng con Dingo sẽ hạ xuống, rồi tiếp tục vung kiếm nhắm vào bụng con Dingo mà chém tới. 
+
+‘Ầm’
+
+Như một quả bóng chày, con Dingo tiếp tục bị đại kiếm chém bay ngược lại một đoạn, đập mạnh cơ thể vào một gốc đại thụ, dội ngược ra lăn lộn vài vòng trên mặt đất.
+
+-90
+
+-21
+
+Ống HP của con Dingo đã không còn được một phần mười, nhưng là nó vẫn hoạt động bình thường như không có chuyện gì xảy ra. Nếu như ở hiện thực, bị những đòn như vậy đánh lên cơ thể thì nó không chết cũng phải tàn phế rồi. 
+
+‘Gào…’
+
+Lồm cồm bò dậy, nó hướng phía Đình Tấn rống lớn như để hù doạ, lấy dũng khí. 
+
+Một chuỗi động tác chiến đấu hoa lệ đã xong, thế nhưng Đình Tấn vẫn không muốn dừng lại tại đó. Hai mắt sắt lạnh, hắn xung phong kéo theo đại kiếm lao nhanh về phía con Dingo. 
+
+Thời gian khoảng cách không sai một ly, vung kiếm chém một nhát cuối cùng, kết liễu sinh mệnh của con Dingo.
+
+Keng!
+
+EXP +20 
+
+Dừng lại một hồi, Đình Tấn cẩn thận lại quan sát xung quanh. Rút kinh nghiệm lần trước đó, lúc này hắn dành thời gian lâu hơn mà quan sát.
+
+Đến khi chắc chắn không còn uy hiếp nào nữa, Đình Tấn mới thở phào một hơi, cúi người xuống nhặt 10 đồng tiền, cùng một Chiếc Giày Vải.
+
+Quá trình chiến đấu xảy ra rất nhanh. Giải quyết hai con Dingo, tiêu tốn Đình Tấn cũng không quá 5 phút. Chủ yếu thời gian vì cảnh giác, quan sát xung quanh.
+
+Tìm một gốc cây tựa lưng vào, Đình Tấn bắt đầu kiểm tra món đồ vừa nãy nhặt được. 
+
+Sợi dây chuyền khá đơn giản, ba cái răng nanh đều nhỏ hơn một nửa ngón tay hắn, cột trên một sợi dây vải khoảng cách đều nhau. Trên mỗi cái răng có ghi lấy một cái tên DeShawn, Walock, Jenny. Đình Tấn thử kiểm tra thuộc tính của nó.
+
+Dây chuyền răng nanh (Vật phẩm nhiệm vụ)
+
+Chất lượng: Không
+
+Yêu cầu: Không
+
+Cân nặng 0kg
+
+Là quà tặng của DeShawn cho con trai Walock.
+
+Xem đến đây, hắn không khỏi trở nên mừng rỡ. Đây chắc chắn là manh mối vì có lẽ Walock chính là con trai của ông thợ rèn DeShawn, đã vô tình đi vào khu rừng và đã bị hai con Digon này giết chết rồi.
+
+Lại tiếp tục xem xét Chiếc Giày Vải còn lại. Chiếc Giày Vải khá bẩn, bị rách nhiều chỗ, kích cỡ cũng không lớn lắm.
+
+Chiếc Giày Vải (Nhiệm vụ vật phẩm)
+
+Chất lượng: Không
+
+Yêu cầu: Không
+
+Cân nặng 0kg
+
+Một chiếc giày vải rách rưới không rõ của ai.
+
+Nhìn thấy vật phẩm nhiệm vụ, Đình Tấn cũng không nghĩ nhiều, cất vào balô. Bây giờ đã có kết quả, Đình Tấn phải lên đường trở về làng giao nhiệm vụ thôi. 
+
+20 phút sau, đứng trước mặt thợ rèn DeShawn, Đình Tấn lấy dây chuyền răng nanh từ trong ba lô đưa tới. Hắn nhẹ giọng nói.
+
+- Xin lỗi chú DeShawn, ta đã tìm khắp khu rừng phía tây nhưng không tìm được tung tích con trai ngài. Nhưng tình cờ đánh giết hai con Dingo thì phát hiện vật này. Trên đó có ghi tên của ngài, ta nghĩ chắc có lẽ nó có liên quan đến ngài.
+
+DeShawn nhìn thấy sợi dây chuyền răng nanh, hai vai run lên một cái. Hắn mắt nhanh chóng đỏ lên, đôi tay run run tiếp nhận sợi dây chuyền. Xem xét một lúc, hắn nghẹn ngào nói:
+
+- Cảm tạ dũng sĩ.
+
+Sau đó hắn im lặng, nắm chặt lấy sợi dây chuyền ôm vào ngực. Hệ thống âm thanh vang lên thay cho hắn: 
+
+Keng! 
+
+Chúc mừng ngài hoàn thành nhiệm vụ Tìm tung tích con trai DeShawn. 
+
+EXP +400
+
+Nhặt được tiền đồng +200
+
+Ngài nhận được một lần mua đồ miễn phí ở cửa hàng rèn DeShawn
+
+Keng! 
+
+Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 2 điểm tiềm năng. Xin mới cân nhắc lựa chọn.
+
+Keng! 
+
+Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 3 điểm tiềm năng. Xin mới cân nhắc lựa chọn.
+
+Mặc dù biết rằng đây không phải là thật, chỉ là hệ thống trí tuệ được lập trình, vài phút sau có lẽ mọi thứ sẽ lại phục hồi bộ dáng cũ. 
+
+Nhưng Đình Tấn vẫn không nhịn được đau nhói trong lòng một cái. Hắn không phải là một người vô cảm, chỉ là cuộc sống làm cho hắn trầm lặng ít nói mà thôi.
+
+Đợi ông Thợ rèn DeShawn phục hồi lại như cũ, Đình Tấn dùng hệ thống lựa chọn giao dịch. Cửa sổ hiện ra hai cột với nhiều biểu tượng, tên vật phẩm khác nhau.
+
+Xem xét một hồi hắn không biết nên dùng cơ hội miễn phí này mua cái gì. Theo hắn cảm thấy, các trang bị đối với hắn khá là vô dụng ở thời điểm hiện tại vì nó hỗ trợ cũng không được bao nhiêu. 
+
+Riêng vũ khí đại kiếm mà ông thợ rèn DeShawn này bán, lượng công kích của nó cũng không hơn kiếm tân thủ của hắn là bao nhiêu. 
+
+Chợt nhìn thấy Pháp Trượng, Đình Tấn liền quyết định muốn thử xem trong game liệu có thể sử dụng phương pháp tu luyện hoặc kỹ năng triệu hồi của hắn hay không.
+
+Vừa lựa chọn [Mua] Pháp Trượng xong, lão DeShawn liền tiếp lời: 
+
+- Thưa dũng sĩ, con gái lão Donald bên kia hiệu thuốc cũng rời đi theo con trai ta tiến vào khu rừng. Hiện cũng không rõ tung tích. Nếu dũng sĩ có tin tức xin qua giúp hắn báo một tiếng. Dù sao ta và hắn cũng là một thời là anh em.
+
+Đến đây Đình Tấn liền liên tưởng đến Chiếc Giày Vải kia. Gật đầu đáp lại lão DeShawn, bước ra khỏi tiệm rèn. Hắn bước về phía hiệu thuốc đi đến.
+
+Phía sau nhiều người chơi kinh ngạc vì dù sao nhiệm vụ này là của chung nhưng để hoàn thành đến nhiệm vụ này thì rất khó. Hiện tại có nhiều nhóm người chơi kinh nghiệm lâu năm đã nhận nhiệm vụ nhưng hoàn thành thì vẫn chưa có ai.
+
+Có người không nhịn được hỏi lại người xung quanh.
+
+- Cái tên kia có phải là vừa hoàn thành nhiệm vụ tìm con lão DeShawn không vậy? Phải chăng là ta nhìn lầm…
+
+- Haha, chắc là vậy rồi. Dù sao rất nhiều chiến đội như Hoả Long, Xcalibur, DemonHunter…. đã nhận nhiệm vụ nhưng đến giờ trên diễn đàn vẫn chưa có thông tin nào mà. Tên kia nhìn ‘Noob’ như vậy thì làm sao mà có thể một người mà hoàn thành sớm được chứ!
+
+Đình Tấn rời đi mặc kệ giang hồ đồn đại, hắn hiện tại đang kiểm tra thu hoạch nhiệm vụ lần này. Thăng liên hai cấp cùng với một cây Pháp Trượng. 
+
+Điểm thuộc tính tự do chưa nâng, hắn cũng không muốn dùng bây giờ nên thuộc tính nhân vật cũng chưa có gì khác biệt hết. Riêng ống kinh nghiệm thì đã thay đổi trở thành 40/500 rồi. 
+
+Mở balô Đình Tấn kiểm tra thuộc tính Pháp Trượng.
+
+Pháp Trượng
+
+Chất lượng: Đồ trắng
+
+Yêu cầu: Không
+
+Cân nặng 1kg
+
+Công kích ma pháp 0 – 9
+
+Không có gì đặc biệt, Đình Tấn chỉ muốn dùng cơ hội này thử xem suy đoán của mình là thế nào thôi.
+
+Đóng lại giao diện balô, hắn chậm rãi bước về phía tiệm thuốc.

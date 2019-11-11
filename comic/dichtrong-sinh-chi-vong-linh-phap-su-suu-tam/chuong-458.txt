@@ -1,0 +1,799 @@
+Quần Giáp Xác
+
+Giới thiệu: Được chế tạo từ giáp xác của loài Thực Thi Rết, rèn đúc với nhiều loại hợp kim quý hiếm.
+
+Chất lượng: Đồ Tím
+
+Yêu cầu: Đẳng cấp 40
+
+Thuộc tính: 
+
+-Gia tăng lượng HP: 20%
+
+-Gia tăng lượng HP khôi phục: 50%
+
+-Gia tăng tốc độ hấp thụ nguyên tố hệ [Thổ] khi tu luyện: 10%
+
+Hiệu ứng mang theo: Đầm Lầy (Chủ Động) – Giáp xác của Thực Thi Rết có thể tự động hấp thụ nguyên tố [Thổ], tạo ra một loại dịch nhầy tự nhiên, khi phun ngoài sẽ lập tức khiến mặt đất cứng rắng trở thành dầm lầy. 
+
+Hiệu quả: Hóa đầm lầy một khu vực 100 mét vuông, giảm tốc độ di chuyển của kẻ địch đi vào khu vực này xuống 50%, kéo dài trong 5 phút, thời gian làm lạnh 1 tiếng.
+
+(Lưu ý: Trang bị chất lượng [Đồ Tím] (đẳng cấp từ 30 trở lên) có thể chế tác ở hiện thực, điểm thuộc tính dựa trên cơ sở trong game tính toán, độ tương đồng chênh lệch từ 60% - 95% tùy theo cách chế tạo và chất lượng nguyên liệu. Xin mời người chơi cố gắng tìm hiểu, nghiên cứu thêm)
+
+…
+
+Thông số thuộc tính cũng đặc biệt tốt, tuy nhiên vẫn không thể sánh bằng với món Đồ Đỏ mà Đình Tấn đang trang bị từ lúc mới bắt đầu trò chơi đến giờ, được mở ra từ Túi Phần Thưởng hệ thống tặng cho.
+
+Bất quá, có một thứ làm cho Đình Tấn đặc biệt khó hiểu, chính là dòng thuộc tính ‘Gia tăng tốc độ hấp thụ nguyên tố hệ [Thổ] khi tu luyện’ kia.
+
+Trước giờ Đình Tấn chưa từng gặp qua cái thuộc tính này, đối với hắn, nó là một thứ lạ lẫm hoàn toàn mới, làm cho hắn không tự chủ được cảm giác tò mò, muốn tìm hiểu xem nó mang ý nghĩa như thế nào.
+
+-“Chẳng lẽ…”
+
+Trải qua một hồi lâu, bất chợt, Đình Tấn lóe lên một tia linh quang, trong đầu âm thầm liên tưởng đến thời điểm ở trong phụ bản sử dụng lôi điện luyện thể, cùng với nghề nghiệp Vong Linh Pháp Sư, khiến cho đám Bộ Xương Pháp Sư nắm giữ hai loại nguyên tố khác nhau.
+
+Nói vậy, khả năng hấp thụ nắm giữ thêm một loại nguyên tố khác nữa là hoàn toàn có khả năng. Nhưng mà vấn đề lại nằm ở chỗ, hắn không biết làm sao để hấp thụ nguyên tố, xem như ở trong tận thế 10 năm, hắn cũng chưa có cơ hội được chạm đến tầng thứ cao cấp này.
+
+-“Haiz… mặc kệ vậy, tới đâu hay tới đó.’
+
+Ngao ngán thở dài một hơi, Đình Tấn dứt khoát không dây dưa chuyện này nữa, dù có nghĩ thêm thì chưa chắc hắn có thể tìm ra được manh mối. Lại nói, thời gian bắt đầu đợt phòng thủ đợt sóng quái vật cuối cùng sắp bắt đầu, hắn phải làm ra chuẩn bị trước.
+
+Trạng thái sau một thời gian ngồi nghỉ ngơi đã khôi phục lại đầy ắp, Đình Tấn cầm lấy món trang bị [Quần Giáp Xác] này thay đổi lên người mình, sau đó lại hướng về phía sườn núi bên cạnh lớn tiếng gọi lên.
+
+-“Louis lại đây!”
+
+Louis hiện tại cũng đã giải trừ trạng thái "Hóa Hình’, một thân đơn bạc không ốm cũng không gầy nhanh chóng tiếp cận Đình Tấn. 
+
+Trải qua một thời gian dài tu luyện "Minh Tưởng Thuật", được Đình Tấn truyền thụ cho, thuộc tính tinh thần của Louis đã tăng lên rõ rệt, dẫn đến thời gian duy trì "Hóa Hình’ cũng đồng dạng tăng lên theo tỉ lệ thuận.
+
+Hiện tại, Louis có thể kéo dài đến cả ngày mà không sợ bị mất đi lý trí, không thể khống chế bản thân như trước nữa.
+
+-“Cho ngươi, mang vào một hồi chuẩn bị chiến đấu.”
+
+Biết rõ Louis khi "Hóa Hình’ sẽ tăng lên thuộc tính hết sức khủng bố, nhất là khả năng khôi phục HP càng là vượt lên trên Đình Tấn gấp 7 – 8 lần có thừa. Thế nên món trang bị [QuầnPrometheus] với hiệu quả tăng lên 30% (Tốc độ di chuyển) cùng với 200% (tốc độ khôi phục HP), ngoài Louis ra thì thật sự là không thể nào tìm được ai thích hợp hơn để tận dụng nó.
+
+‘Tê…’
+
+Louis nhận lấy món đồ vật, nhìn sơ qua một cái thì đã bị chấn kinh đến hít vào một ngụm khí lạnh. 200% tăng tốc khôi phục HP, bằng gấp hai ba lần so với một món Đồ Đỏ bình thường, có thể nói là hàng cực phẩm, có thể gặp không thể cầu.
+
+Không chút do dự đổi lại món trang bị Đồ Xanh 30 cấp trên người, tuy rằng nội tâm rất hưng phấn, nhưng có vẻ như Louis lại đang cố gắng kìm nén tâm tình của mình.
+
+-“Cảm ơn.”
+
+Không có biểu hiện gì quá lố ra bên ngoài, Louis chỉ lạnh nhạt đáp lại Đình Tấn một câu, sau đó liền xoay người trở về hàng ngũ.
+
+Lắc đầu cười khổ, Đình Tấn cũng không lạ gì với biểu hiện này của Louis, bởi lẽ hắn biết rõ, đối phương là đang chiến tranh lạnh với mình, trong [The Alliance] cũng không thiếu mấy trường hợp như vậy.
+
+Dù sao chuyện Long rời đi khỏi [The Alliance] và gia nhập vào [Hồng Môn Hội] thì ai cũng biết, nhưng nguyên nhân thật sự ẩn tàng phía sau thì không ai hiểu. Bọn họ đa phần đều hiểu lầm, chính là Đình Tấn đối xử bất công trong lần trách phạt công khai trước đó, mới dẫn đến hậu quả như vậy.
+
+Nói không ngoa, trong mắt những người này, Đình Tấn đã trở thành một tên ‘Hôn Quân’, không hiểu rõ đạo lý làm người, lại quá mức độc tài độc đoán.
+
+Ấy thế mà Đình Tấn lại không thể phản bác được gì, do kế hoạch vẫn cần được thực hiện, cho nên hắn chỉ có thể cúi đầu chấp nhận tiếng đồn xấu này.
+
+Keng! – Đợt sóng quái vật tấn công cứ điểm cuối cùng bắt đầu, toàn bộ người 
+
+chơi hãy sẵn sàng chuẩn bị.
+
+Đang lúc hắn lạc trôi trong dòng suy nghĩ, âm thanh hệ thống đột nhiên vang lên, kéo hắn trở về với hiện thực.
+
+Ngẩng đầu nhìn ra phía xa xa, hố đen đường hầm không gian quen thuộc đã xuất hiện, từng đốm đen nho nhỏ mà số lượng lại đông như kiến, đang không ngừng tuôn trào từ bên trong đó ra.
+
+Mặt trời chiều đã khuất bóng một nửa xuống đường chân trời, dẫn đến nguồn ánh sáng càng lúc càng yếu, Đình Tấn đứng ở quá xa cũng là không tài nào nhìn rõ được quái vật lần này là độn thổ, đi bộ hay bay lượn trên không.
+
+‘Đông…’
+
+‘Đang có 50 vật thể lạ tiếp cận…’
+
+Ở bên trong cứ điểm, [Tháp Ra-đa] đang ở trạng thái tĩnh lặng thì bất thình lình phát ra một âm thanh còi báo động inh ỏi, đúng ngay tại thời điểm đám quái vật xuất hiện.
+
+‘Đông…’
+
+‘Đang có 80 vật thể lạ tiếp cận…’
+
+Sau mỗi tiếng còi cảnh báo, chính là một tràng tiếng nói máy móc, được phát ra từ tòa [Tháp Ra-đa] thông báo số lượng mục tiêu được phát hiện.
+
+Đình Tấn có hơi ngạc nhiên, nhưng tức thì đã lấy lại được bình tĩnh, cổng không gian nằm trong khu vực 50 km dò xét của tòa [Tháp Ra-đa] này, thế nên xuất hiện dị tượng như vậy cũng là chuyện bình thường.
+
+Ở ba đợt sóng quái vật tập kích trước đó, cho dù có hiểu rõ được sức mạnh của mấy chủng loài quái vật như Thực Thi Rết, Trâu Mộc Độc, Gai Độc Thú thì Đình Tấn không thể nào ước lượng thực lực của đôi bên, để làm ra được sắp xếp chuẩn xác nhất.
+
+Nhưng hiện tại, có được tòa [Tháp Ra-đa] dò xét này, cho dù không biết rõ được bên trong có bao nhiêu con quái vật bình thường, Tinh Anh hay thậm chí là Boss, thì ít nhất Đình Tấn cũng có thể nắm rõ được số lượng của bầy đàn quái vật này.
+
+Có thêm được thông tin của đối phương, hắn liền có cơ hội làm ra được phán đoán và sắp xếp đội hình chuẩn xác nhất trước tiên. Điều đó cũng đồng nghĩa với việc, tỉ lệ thắng có thể tăng lên một vài phần trăm nho nhỏ.
+
+-“Tất cả tiến vào đội hình, chuẩn bị quái vật công kích.”
+
+Hít thở sâu, Đình Tấn quát lớn một tiếng, kêu gọi mọi người sẵn sàng ứng chiến bất cứ lúc nào, còn riêng mình thì bắt đầu triệu hồi vong linh đại quân.
+
+‘Tinh Thần Áp Súc’ (25% Hiệu quả kỹ năng)
+
+Triệu hồi Bộ Xương Chiến Sĩ (x332)
+
+Triệu hồi Tang Thi (x249)
+
+…
+
+Thời điểm tất cả công việc chuẩn bị được hoàn thành xong, thì cũng là lúc tiếng còi cảnh báo của [Tháp Ra-đa] đã dừng lại, với kết quả số lượng đàn quái vật xuất hiện trong tầm dò xét của Đình Tấn nằm ở con số 251 con.
+
+Lúc ban đầu, khi vừa mới nhận ra được số lượng của đàn quái vật trong đợt sóng cuối cùng này, đôi chân mày của Đình Tấn không kìm được mà cau chặt lại. Số lượng thật sự chênh lệch quá lớn so với mấy đợt sóng quái vật trước đó.
+
+Coi như đàn Thực Thi Rết cường đại trong đợt thứ ba vừa qua cũng có hơn 1.500 con, đằng này đợt sóng cuối cùng lại rút đi chỉ còn không được một phần năm số đó.
+
+Nghĩ vậy, trong lòng Đình Tấn càng trở nên bồn chồn bất an nhiều hơn, đây nhất định là dấu hiệu báo trước, sắp có biến cố xảy ra.
+
+-“Phi hành?!”
+
+Chợt, Đình Tấn kinh hãi vô thức bật thốt lên, trong tầm mắt của hắn là hàng trăm con quái vật đang chập trùng nhấp nhô lên xuống, bay lơ lửng trên không trung, dưới ánh trăng sáng rực vừa mới nhô lên khỏi đường chân trời.
+
+Cho dù khoảng cách xa đến hơn cả cây số có thừa, nhưng với ngoại hình khổng lồ của chúng, Đình Tấn vẫn có thể thấy loáng thoáng được, kia là những con dơi xám, được gắn thêm móng vuốt sắc bén lên bốn chi. 
+
+Hai bên chi trước của chúng là một lớp màn da, xem như là đôi cánh được chúng vũ động liên hồi, phi hành với tốc độ cao trên bầu trời.
+
+Hố sâu, bẫy rập các thứ trên mặt đất ngay tức thì trở nên vô dụng với đàn quái vật này, bọn chúng hướng về cứ điểm phóng thẳng tới mà không hề có một sự trở ngại nào.
+
+Dơi Hút Máu (Tinh Anh)
+
+Đẳng Cấp: 40
+
+HP: 28.000/ 28.000
+
+Dơi Hút Máu (Boss)
+
+Đẳng Cấp: 42
+
+HP: 65.400/ 65.400
+
+Dơi Hút Máu (Thủ Lĩnh Boss)
+
+Đẳng Cấp: 44
+
+HP: 112.500/112.500
+
+Dơi Hút Máu (Lãnh Chúa Boss)
+
+Đẳng Cấp: 45
+
+HP: 165.000/ 165.000
+
+Sau khi nhìn xong bảng thuộc tính của chúng, đầu óc có chút choáng váng, trước mắt Đình Tấn giống như hoa lên một trận, hình ảnh hóa một thành hai.
+
+Xung quanh đám đội viên đã hoàn toàn câm lặng, ngay cả Rose cùng những người tâm trí sắt đá như Vansy, Trần Hạo cũng bị chấn kinh mà đờ người ra, không một ai thốt lên được dù chỉ là một tiếng rên nho nhỏ.
+
+Ấy thế nhưng, đôi bàn tay cầm vũ khí đang run rẩy liên hồi, giống như nói rõ nội tâm của bọn họ ngay lúc này đã bị lấp đầy bởi sự sợ hãi.
+
+Tất cả đàn dơi này không có một con nào thuộc phân cấp quái vật bình thường, tất cả đều là nằm ở phân cấp Tinh Anh trở lên, thậm chí trong đó còn xuất hiện một con Boss Lãnh Chúa. 
+
+Bởi vì số lượng quá đông mà không thể nhận biết rõ số lượng của mỗi chủng loại, thế nhưng cái số lượng ấy cũng thật sự không cần thiết, vì chỉ cần một con Boss Thủ Lĩnh cùng một con Boss Lãnh Chúa đã là quá đỗi kinh khủng với Đình Tấn cùng tất cả những người có mặt ở đây rồi.
+
+-“TRẤN TĨNH!”
+
+Bỗng, một tiếng rống lớn của Đình Tấn bất ngờ truyền vào trong tai đám đội viên, khiến bọn họ giật thót cả người, nỗi lo sợ trong lòng thoáng chốc cũng tiêu tán đi không ít.
+
+-“Chúng ta đã đi được đến bước này, còn một chút khó khăn, các ngươi sẽ không thể vượt qua hay sao?!”
+
+Thấy đám đội viên bên cạnh mình đã bình phục lại chút ít tâm tình xao động, Đình Tấn liền tranh thủ rèn sắt khi còn nóng, cất giọng nói ra.
+
+-“Các ngươi chẳng lẽ đã quên phương châm làm việc của [The Alliance] sao?”
+
+Một câu hỏi vừa được đặt ra, làm cho cả đám đội viên giống như ăn một liều thuốc an thần một dạng, nét bồn chồn trên gương mặt bọn họ dần dần tiêu tán đi không ít.
+
+-“Nếu không quên thì nói cho ta biết, người của [The Alliance] phải làm sao?!”
+
+Đình Tấn vừa nhấc lên một câu nói như vậy, khắp nơi bên trong cứ điểm, thành viên của [The Alliance] liền đột nhiên cảm nhận được một ngọn lửa rực cháy lên trong tim họ.
+
+‘Rầm!’
+
+-“Không sợ hãi, không lùi bước!” 
+
+Không hề có bất kì dấu hiệu nào báo trước, Terrell đột ngột siết chặt vũ khí, đập mạnh xuống đất, gây ra tiếng vang không nhỏ, ngực ưỡn lên, gân cổ khàn giọng hét lên một tiếng.
+
+‘Phịch phịch phịch…’
+
+-“Không sợ hãi, không lùi bước!”
+
+Nối tiếp theo đó, Ameerah, Louis, David từng người dẫm mạnh chân xuống đất, rồi rống to theo, coi như tiếng động không lớn bằng được như Terrell đã làm nhưng vô tình đã tạo ra một nhịp điệu.
+
+Khoảng cách của đàn Dơi Hút Máu đã chỉ còn lại không đến 800 mét, bộ dạng của chúng càng hiển lộ trong mắt mọi người. Đặc biệt nhất là ba con dẫn đầu, với kích cỡ to lớn đến không tưởng, thể tích gần như gấp hai ba lần so với mấy con Trâu Mộc Độc Boss hay Gai Độc Thú Boss, Thực Thi Rết Boss trước đó.
+
+Xung quanh Đình Tấn, đám đội viên cũng bị giật mình bất ngờ trước ngoại hình tràn ngập áp lực của đàn Dơi Hút Máu. Tuy nhiên ngay sau đó, sự chú ý của bọn họ liền chuyển dời sang bốn người Terrell, lập tức đã bắt nhịp mà hô ứng theo.
+
+‘Rầm rầm rầm…’
+
+‘Không sợ hãi, không lùi bước!’
+
+Hàng chục, hàng trăm, cho đến hàng nghìn người, dần dần tạo thành một đợt sóng nối tiếp một đợt sóng, trùng kích vào trái tim bọn họ, chiến ý đã tiêu tán đi trước đó, nhanh chóng lại được bùng cháy lên, nỗi sợ hãi cũng vô thanh vô thức tan biến đi không còn lại chút gì.
+
+Tại bên trong cứ điểm, đoàn người của Rose cùng với những người thuộc về đội Lính Đánh Thuê trong liên minh còn lưu lại được đến bây giờ, cũng bị ảnh hưởng theo khí thế như cầu vồng của thành viên [The Alliance]. 
+
+Chẳng những trong lòng dần dần tiêu tán đi hết sợ hãi, bọn họ còn không tự chủ được bản thân, đi hô ứng theo tiếng hô hào ngoài kia.
+
+‘Rít rít rít…’
+
+Dường như cảm nhận được khí thế chấn động của người ở đây, từ bên trong đàn Dơi Hút Máu truyền đến những tiếng rít kinh thiên, chẳng khác nào đang trấn áp lại khí thế động địa của những người bên trong cứ điểm.
+
+Đình Tấn bất tri bất giác thở phào ra một hơi nhẹ nhõm, hắn chính là sợ đám đội viên này nhụt chí, không chiến mà lui, nhưng cũng may, chỉ một vài hành động nhỏ mà hắn đã thành công kích thích khí thế cùng chiến ý của bọn họ. 
+
+-“Toàn bộ nghề nghiệp cận chiến, tiến vào bên trong cứ điểm, thủ vững cánh cổng ‘Thủy Tinh Thể’. Còn lại nghề nghiệp viễn trình, ở tại chỗ chờ đợi, quái vật đi vào trong tầm công kích thì toàn lực phát ra, không được giữ lại bất cứ thứ gì!”
+
+Nắm chặt thời gian, Đình Tấn bắt đầu phân công ra lệnh, thanh âm chưa dứt, thân thể hắn đã chậm chạp phiêu phù lên không trung bằng "Khống Vật Thuật".
+
+Khoảng cách đàn Dơi Hút Máu càng lúc càng đến gần, đám đội viên tiếp nhận mệnh lệnh người thì tức tốc lui vào bên trong cứ điểm, người thì lưu lại tại chỗ, siết chặt vũ khí trong tay, khẩn trương nhìn chằm chằm vào đàn quái vật kinh khủng trước mắt.
+
+Áp lực mà những người ở đây nhận lấy chẳng những bắt nguồn từ bộ dáng cùng thể hình khổng lồ bên ngoài, mà còn nằm ở thuộc tính siêu cường của con Dơi Hút Máu Boss Lãnh Chúa, vượt qua gấp ba lần so với những con Boss trước đó.
+
+Nếu đã phi hành, đàn Dơi Hút Máu này không thể nào thuộc về phương diện quái vật loại hình phòng ngự hay khôi phục mạnh được. Tất nhiên không khó để nhận ra, thế mạnh của đàn Dơi Hút Máu này nằm ở phương diện tốc độ.
+
+Ấy vậy mà cái thuộc tính HP của con Dơi Hút Máu Boss Lãnh Chúa chia lại cao đến khủng bố 165.000 điểm, như vậy có thể thấy nó đã cường đại đến mức độ không tưởng.
+
+Duy chỉ có Đình Tấn mới hiểu rõ được, đây mới thực sự là nguyên nhân dẫn đến kết cuộc diệt vong của loài người nói riêng, hay cả Trái Đất nói chung.
+
+Chỉ một đàn Dơi Hút Máu, sở hữu một con Boss Lãnh Chúa 45 cấp thôi thì đã kinh khủng đến như vậy thì càng về sau, những con Boss Lãnh Chúa 80, 90 hay thậm chí là 100 cấp sẽ trở nên kinh khủng đến mức độ nào, chỉ nghĩ đến đấy thôi, hắn cũng không dám tưởng tượng phần tiếp sau nữa.
+
+500 mét…
+
+400 mét…
+
+Khoảng cách rút ngắn nhanh chóng theo từng giây, tốc độ đàn dơi phi hành phỏng chừng sẽ không dưới vận tốc 80 km/s.
+
+Đình Tấn lúc này đã lơ lửng trên bầu trời, khoảng cách so với mặt đất là gần 20 mét, đây cũng là khoảng cách cao nhất mà hắn có thể nâng đỡ mình bay lên được.
+
+Nhìn thấy đàn Dơi Hút Máu đang điên cuồng gào thét hướng mình giơ nanh múa vuốt lao tới, Đình Tấn không hề có bất kì sợ hãi nào, mặt vô biểu tình, lặng yên chờ đợi.
+
+300 mét…
+
+250 mét…
+
+Đúng ngay tại thời điểm đàn Dơi Hút Máu sắp tiếp cận vào khoảng cách 200 mét, Đình Tấn bỗng nhiên động.
+
+Dưới ánh sáng mờ ảo của trăng tròn, gương mặt đám đội viên bên dưới tường thành mang theo tràn đầy vẻ kinh ngạc, ánh mắt có chút mê li nhìn lấy Đình Tấn chậm rãi giơ lên hai tay đang buông lỏng ở hai bên eo, hệt như đang nâng đỡ một vật gì đó trong hư không. 
+
+‘Xoẹt xoẹt đùng đùng đùng…’
+
+Từ trong hư vô xung quanh hắn đột ngột vang lên từng tiếng lôi minh chấn động, lôi điện không biết từ đâu chủ động phóng xuất ra bên ngoài, như du long hí phượng vờn quanh thân Đình Tấn.
+
+Áo choàng đỏ rực tự nhiên không gió mà bay, mái tóc ngắn của Đình Tấn như bị lôi điện ảnh hưởng, đồng loạt dựng ngược lên trời. Thiên không vần vũ mây mù như sắp nổi bão, từng cụm mây mù kéo đến nhuộm đỏ cả bầu trời tối om, thanh thế kinh thiên động địa, lấn át cả tiếng rít gào của đàn Dơi Hút Máu.
+
+Đình Tấn ngửa đầu hướng mặt lên trời, mũi hít thật sâu lấy một hơi, kéo một luồng gió lạnh vào trong lồng ngực. Cảm thụ từng dòng máu huyết đang sôi trào bên trong người mình, khóe miệng hắn không tự chủ nổi lên một tia mỉm cười mờ nhạt.
+
+-“Lôi Pháp Tối Thượng…”
+
+Từng dòng chảy ký ức lần lượt hiện về bên trong đại não Đình Tấn, khiến hắn không kìm được mở miệng thì thào ra một hơi, muốn dùng phương pháp ấy để phóng xuất hết tâm tình dồn nén bấy lâu này. 
+
+Tâm trí hắn tại thời điểm hiện tại, bỗng dưng trở nên tĩnh lặng hơn bao giờ hết, ánh mắt sắc lạnh như dao nhìn lấy đàn Dơi Hút Máu đang bay tới tiến vào khu vực ảnh hưởng của kỹ năng.
+
+- “…Phán Quyết!”
+
+100 mét vừa tới, hắn liền không kìm giữ lại nữa, chỉ trầm giọng thốt ra hai chữ rồi hoàn thành nốt ký hiệu cuối cùng đã hoàn thành từ lâu bên trong đại não.
+
+Sau một khắc, phương viên năm trong vòng trăm mét quanh hắn, lóe lên từng trận ánh sáng trắng xóa một mảnh, lôi đình gào thét, từng đạo từng đạo kinh khủng thiểm điện xuất hiện, du tẩu hư không, núi đá nổ tung, thoáng chốc thiên địa như trở nên run rẩy.Quần Giáp Xác
+
+Giới thiệu: Được chế tạo từ giáp xác của loài Thực Thi Rết, rèn đúc với nhiều loại hợp kim quý hiếm.
+
+Chất lượng: Đồ Tím
+
+Yêu cầu: Đẳng cấp 40
+
+Thuộc tính: 
+
+-Gia tăng lượng HP: 20%
+
+-Gia tăng lượng HP khôi phục: 50%
+
+-Gia tăng tốc độ hấp thụ nguyên tố hệ [Thổ] khi tu luyện: 10%
+
+Hiệu ứng mang theo: Đầm Lầy (Chủ Động) – Giáp xác của Thực Thi Rết có thể tự động hấp thụ nguyên tố [Thổ], tạo ra một loại dịch nhầy tự nhiên, khi phun ngoài sẽ lập tức khiến mặt đất cứng rắng trở thành dầm lầy. 
+
+Hiệu quả: Hóa đầm lầy một khu vực 100 mét vuông, giảm tốc độ di chuyển của kẻ địch đi vào khu vực này xuống 50%, kéo dài trong 5 phút, thời gian làm lạnh 1 tiếng.
+
+(Lưu ý: Trang bị chất lượng [Đồ Tím] (đẳng cấp từ 30 trở lên) có thể chế tác ở hiện thực, điểm thuộc tính dựa trên cơ sở trong game tính toán, độ tương đồng chênh lệch từ 60% - 95% tùy theo cách chế tạo và chất lượng nguyên liệu. Xin mời người chơi cố gắng tìm hiểu, nghiên cứu thêm)
+
+…
+
+Thông số thuộc tính cũng đặc biệt tốt, tuy nhiên vẫn không thể sánh bằng với món Đồ Đỏ mà Đình Tấn đang trang bị từ lúc mới bắt đầu trò chơi đến giờ, được mở ra từ Túi Phần Thưởng hệ thống tặng cho.
+
+Bất quá, có một thứ làm cho Đình Tấn đặc biệt khó hiểu, chính là dòng thuộc tính ‘Gia tăng tốc độ hấp thụ nguyên tố hệ [Thổ] khi tu luyện’ kia.
+
+Trước giờ Đình Tấn chưa từng gặp qua cái thuộc tính này, đối với hắn, nó là một thứ lạ lẫm hoàn toàn mới, làm cho hắn không tự chủ được cảm giác tò mò, muốn tìm hiểu xem nó mang ý nghĩa như thế nào.
+
+-“Chẳng lẽ…”
+
+Trải qua một hồi lâu, bất chợt, Đình Tấn lóe lên một tia linh quang, trong đầu âm thầm liên tưởng đến thời điểm ở trong phụ bản sử dụng lôi điện luyện thể, cùng với nghề nghiệp Vong Linh Pháp Sư, khiến cho đám Bộ Xương Pháp Sư nắm giữ hai loại nguyên tố khác nhau.
+
+Nói vậy, khả năng hấp thụ nắm giữ thêm một loại nguyên tố khác nữa là hoàn toàn có khả năng. Nhưng mà vấn đề lại nằm ở chỗ, hắn không biết làm sao để hấp thụ nguyên tố, xem như ở trong tận thế 10 năm, hắn cũng chưa có cơ hội được chạm đến tầng thứ cao cấp này.
+
+-“Haiz… mặc kệ vậy, tới đâu hay tới đó.’
+
+Ngao ngán thở dài một hơi, Đình Tấn dứt khoát không dây dưa chuyện này nữa, dù có nghĩ thêm thì chưa chắc hắn có thể tìm ra được manh mối. Lại nói, thời gian bắt đầu đợt phòng thủ đợt sóng quái vật cuối cùng sắp bắt đầu, hắn phải làm ra chuẩn bị trước.
+
+Trạng thái sau một thời gian ngồi nghỉ ngơi đã khôi phục lại đầy ắp, Đình Tấn cầm lấy món trang bị [Quần Giáp Xác] này thay đổi lên người mình, sau đó lại hướng về phía sườn núi bên cạnh lớn tiếng gọi lên.
+
+-“Louis lại đây!”
+
+Louis hiện tại cũng đã giải trừ trạng thái "Hóa Hình’, một thân đơn bạc không ốm cũng không gầy nhanh chóng tiếp cận Đình Tấn. 
+
+Trải qua một thời gian dài tu luyện "Minh Tưởng Thuật", được Đình Tấn truyền thụ cho, thuộc tính tinh thần của Louis đã tăng lên rõ rệt, dẫn đến thời gian duy trì "Hóa Hình’ cũng đồng dạng tăng lên theo tỉ lệ thuận.
+
+Hiện tại, Louis có thể kéo dài đến cả ngày mà không sợ bị mất đi lý trí, không thể khống chế bản thân như trước nữa.
+
+-“Cho ngươi, mang vào một hồi chuẩn bị chiến đấu.”
+
+Biết rõ Louis khi "Hóa Hình’ sẽ tăng lên thuộc tính hết sức khủng bố, nhất là khả năng khôi phục HP càng là vượt lên trên Đình Tấn gấp 7 – 8 lần có thừa. Thế nên món trang bị [QuầnPrometheus] với hiệu quả tăng lên 30% (Tốc độ di chuyển) cùng với 200% (tốc độ khôi phục HP), ngoài Louis ra thì thật sự là không thể nào tìm được ai thích hợp hơn để tận dụng nó.
+
+‘Tê…’
+
+Louis nhận lấy món đồ vật, nhìn sơ qua một cái thì đã bị chấn kinh đến hít vào một ngụm khí lạnh. 200% tăng tốc khôi phục HP, bằng gấp hai ba lần so với một món Đồ Đỏ bình thường, có thể nói là hàng cực phẩm, có thể gặp không thể cầu.
+
+Không chút do dự đổi lại món trang bị Đồ Xanh 30 cấp trên người, tuy rằng nội tâm rất hưng phấn, nhưng có vẻ như Louis lại đang cố gắng kìm nén tâm tình của mình.
+
+-“Cảm ơn.”
+
+Không có biểu hiện gì quá lố ra bên ngoài, Louis chỉ lạnh nhạt đáp lại Đình Tấn một câu, sau đó liền xoay người trở về hàng ngũ.
+
+Lắc đầu cười khổ, Đình Tấn cũng không lạ gì với biểu hiện này của Louis, bởi lẽ hắn biết rõ, đối phương là đang chiến tranh lạnh với mình, trong [The Alliance] cũng không thiếu mấy trường hợp như vậy.
+
+Dù sao chuyện Long rời đi khỏi [The Alliance] và gia nhập vào [Hồng Môn Hội] thì ai cũng biết, nhưng nguyên nhân thật sự ẩn tàng phía sau thì không ai hiểu. Bọn họ đa phần đều hiểu lầm, chính là Đình Tấn đối xử bất công trong lần trách phạt công khai trước đó, mới dẫn đến hậu quả như vậy.
+
+Nói không ngoa, trong mắt những người này, Đình Tấn đã trở thành một tên ‘Hôn Quân’, không hiểu rõ đạo lý làm người, lại quá mức độc tài độc đoán.
+
+Ấy thế mà Đình Tấn lại không thể phản bác được gì, do kế hoạch vẫn cần được thực hiện, cho nên hắn chỉ có thể cúi đầu chấp nhận tiếng đồn xấu này.
+
+Keng! – Đợt sóng quái vật tấn công cứ điểm cuối cùng bắt đầu, toàn bộ người 
+
+chơi hãy sẵn sàng chuẩn bị.
+
+Đang lúc hắn lạc trôi trong dòng suy nghĩ, âm thanh hệ thống đột nhiên vang lên, kéo hắn trở về với hiện thực.
+
+Ngẩng đầu nhìn ra phía xa xa, hố đen đường hầm không gian quen thuộc đã xuất hiện, từng đốm đen nho nhỏ mà số lượng lại đông như kiến, đang không ngừng tuôn trào từ bên trong đó ra.
+
+Mặt trời chiều đã khuất bóng một nửa xuống đường chân trời, dẫn đến nguồn ánh sáng càng lúc càng yếu, Đình Tấn đứng ở quá xa cũng là không tài nào nhìn rõ được quái vật lần này là độn thổ, đi bộ hay bay lượn trên không.
+
+‘Đông…’
+
+‘Đang có 50 vật thể lạ tiếp cận…’
+
+Ở bên trong cứ điểm, [Tháp Ra-đa] đang ở trạng thái tĩnh lặng thì bất thình lình phát ra một âm thanh còi báo động inh ỏi, đúng ngay tại thời điểm đám quái vật xuất hiện.
+
+‘Đông…’
+
+‘Đang có 80 vật thể lạ tiếp cận…’
+
+Sau mỗi tiếng còi cảnh báo, chính là một tràng tiếng nói máy móc, được phát ra từ tòa [Tháp Ra-đa] thông báo số lượng mục tiêu được phát hiện.
+
+Đình Tấn có hơi ngạc nhiên, nhưng tức thì đã lấy lại được bình tĩnh, cổng không gian nằm trong khu vực 50 km dò xét của tòa [Tháp Ra-đa] này, thế nên xuất hiện dị tượng như vậy cũng là chuyện bình thường.
+
+Ở ba đợt sóng quái vật tập kích trước đó, cho dù có hiểu rõ được sức mạnh của mấy chủng loài quái vật như Thực Thi Rết, Trâu Mộc Độc, Gai Độc Thú thì Đình Tấn không thể nào ước lượng thực lực của đôi bên, để làm ra được sắp xếp chuẩn xác nhất.
+
+Nhưng hiện tại, có được tòa [Tháp Ra-đa] dò xét này, cho dù không biết rõ được bên trong có bao nhiêu con quái vật bình thường, Tinh Anh hay thậm chí là Boss, thì ít nhất Đình Tấn cũng có thể nắm rõ được số lượng của bầy đàn quái vật này.
+
+Có thêm được thông tin của đối phương, hắn liền có cơ hội làm ra được phán đoán và sắp xếp đội hình chuẩn xác nhất trước tiên. Điều đó cũng đồng nghĩa với việc, tỉ lệ thắng có thể tăng lên một vài phần trăm nho nhỏ.
+
+-“Tất cả tiến vào đội hình, chuẩn bị quái vật công kích.”
+
+Hít thở sâu, Đình Tấn quát lớn một tiếng, kêu gọi mọi người sẵn sàng ứng chiến bất cứ lúc nào, còn riêng mình thì bắt đầu triệu hồi vong linh đại quân.
+
+‘Tinh Thần Áp Súc’ (25% Hiệu quả kỹ năng)
+
+Triệu hồi Bộ Xương Chiến Sĩ (x332)
+
+Triệu hồi Tang Thi (x249)
+
+…
+
+Thời điểm tất cả công việc chuẩn bị được hoàn thành xong, thì cũng là lúc tiếng còi cảnh báo của [Tháp Ra-đa] đã dừng lại, với kết quả số lượng đàn quái vật xuất hiện trong tầm dò xét của Đình Tấn nằm ở con số 251 con.
+
+Lúc ban đầu, khi vừa mới nhận ra được số lượng của đàn quái vật trong đợt sóng cuối cùng này, đôi chân mày của Đình Tấn không kìm được mà cau chặt lại. Số lượng thật sự chênh lệch quá lớn so với mấy đợt sóng quái vật trước đó.
+
+Coi như đàn Thực Thi Rết cường đại trong đợt thứ ba vừa qua cũng có hơn 1.500 con, đằng này đợt sóng cuối cùng lại rút đi chỉ còn không được một phần năm số đó.
+
+Nghĩ vậy, trong lòng Đình Tấn càng trở nên bồn chồn bất an nhiều hơn, đây nhất định là dấu hiệu báo trước, sắp có biến cố xảy ra.
+
+-“Phi hành?!”
+
+Chợt, Đình Tấn kinh hãi vô thức bật thốt lên, trong tầm mắt của hắn là hàng trăm con quái vật đang chập trùng nhấp nhô lên xuống, bay lơ lửng trên không trung, dưới ánh trăng sáng rực vừa mới nhô lên khỏi đường chân trời.
+
+Cho dù khoảng cách xa đến hơn cả cây số có thừa, nhưng với ngoại hình khổng lồ của chúng, Đình Tấn vẫn có thể thấy loáng thoáng được, kia là những con dơi xám, được gắn thêm móng vuốt sắc bén lên bốn chi. 
+
+Hai bên chi trước của chúng là một lớp màn da, xem như là đôi cánh được chúng vũ động liên hồi, phi hành với tốc độ cao trên bầu trời.
+
+Hố sâu, bẫy rập các thứ trên mặt đất ngay tức thì trở nên vô dụng với đàn quái vật này, bọn chúng hướng về cứ điểm phóng thẳng tới mà không hề có một sự trở ngại nào.
+
+Dơi Hút Máu (Tinh Anh)
+
+Đẳng Cấp: 40
+
+HP: 28.000/ 28.000
+
+Dơi Hút Máu (Boss)
+
+Đẳng Cấp: 42
+
+HP: 65.400/ 65.400
+
+Dơi Hút Máu (Thủ Lĩnh Boss)
+
+Đẳng Cấp: 44
+
+HP: 112.500/112.500
+
+Dơi Hút Máu (Lãnh Chúa Boss)
+
+Đẳng Cấp: 45
+
+HP: 165.000/ 165.000
+
+Sau khi nhìn xong bảng thuộc tính của chúng, đầu óc có chút choáng váng, trước mắt Đình Tấn giống như hoa lên một trận, hình ảnh hóa một thành hai.
+
+Xung quanh đám đội viên đã hoàn toàn câm lặng, ngay cả Rose cùng những người tâm trí sắt đá như Vansy, Trần Hạo cũng bị chấn kinh mà đờ người ra, không một ai thốt lên được dù chỉ là một tiếng rên nho nhỏ.
+
+Ấy thế nhưng, đôi bàn tay cầm vũ khí đang run rẩy liên hồi, giống như nói rõ nội tâm của bọn họ ngay lúc này đã bị lấp đầy bởi sự sợ hãi.
+
+Tất cả đàn dơi này không có một con nào thuộc phân cấp quái vật bình thường, tất cả đều là nằm ở phân cấp Tinh Anh trở lên, thậm chí trong đó còn xuất hiện một con Boss Lãnh Chúa. 
+
+Bởi vì số lượng quá đông mà không thể nhận biết rõ số lượng của mỗi chủng loại, thế nhưng cái số lượng ấy cũng thật sự không cần thiết, vì chỉ cần một con Boss Thủ Lĩnh cùng một con Boss Lãnh Chúa đã là quá đỗi kinh khủng với Đình Tấn cùng tất cả những người có mặt ở đây rồi.
+
+-“TRẤN TĨNH!”
+
+Bỗng, một tiếng rống lớn của Đình Tấn bất ngờ truyền vào trong tai đám đội viên, khiến bọn họ giật thót cả người, nỗi lo sợ trong lòng thoáng chốc cũng tiêu tán đi không ít.
+
+-“Chúng ta đã đi được đến bước này, còn một chút khó khăn, các ngươi sẽ không thể vượt qua hay sao?!”
+
+Thấy đám đội viên bên cạnh mình đã bình phục lại chút ít tâm tình xao động, Đình Tấn liền tranh thủ rèn sắt khi còn nóng, cất giọng nói ra.
+
+-“Các ngươi chẳng lẽ đã quên phương châm làm việc của [The Alliance] sao?”
+
+Một câu hỏi vừa được đặt ra, làm cho cả đám đội viên giống như ăn một liều thuốc an thần một dạng, nét bồn chồn trên gương mặt bọn họ dần dần tiêu tán đi không ít.
+
+-“Nếu không quên thì nói cho ta biết, người của [The Alliance] phải làm sao?!”
+
+Đình Tấn vừa nhấc lên một câu nói như vậy, khắp nơi bên trong cứ điểm, thành viên của [The Alliance] liền đột nhiên cảm nhận được một ngọn lửa rực cháy lên trong tim họ.
+
+‘Rầm!’
+
+-“Không sợ hãi, không lùi bước!” 
+
+Không hề có bất kì dấu hiệu nào báo trước, Terrell đột ngột siết chặt vũ khí, đập mạnh xuống đất, gây ra tiếng vang không nhỏ, ngực ưỡn lên, gân cổ khàn giọng hét lên một tiếng.
+
+‘Phịch phịch phịch…’
+
+-“Không sợ hãi, không lùi bước!”
+
+Nối tiếp theo đó, Ameerah, Louis, David từng người dẫm mạnh chân xuống đất, rồi rống to theo, coi như tiếng động không lớn bằng được như Terrell đã làm nhưng vô tình đã tạo ra một nhịp điệu.
+
+Khoảng cách của đàn Dơi Hút Máu đã chỉ còn lại không đến 800 mét, bộ dạng của chúng càng hiển lộ trong mắt mọi người. Đặc biệt nhất là ba con dẫn đầu, với kích cỡ to lớn đến không tưởng, thể tích gần như gấp hai ba lần so với mấy con Trâu Mộc Độc Boss hay Gai Độc Thú Boss, Thực Thi Rết Boss trước đó.
+
+Xung quanh Đình Tấn, đám đội viên cũng bị giật mình bất ngờ trước ngoại hình tràn ngập áp lực của đàn Dơi Hút Máu. Tuy nhiên ngay sau đó, sự chú ý của bọn họ liền chuyển dời sang bốn người Terrell, lập tức đã bắt nhịp mà hô ứng theo.
+
+‘Rầm rầm rầm…’
+
+‘Không sợ hãi, không lùi bước!’
+
+Hàng chục, hàng trăm, cho đến hàng nghìn người, dần dần tạo thành một đợt sóng nối tiếp một đợt sóng, trùng kích vào trái tim bọn họ, chiến ý đã tiêu tán đi trước đó, nhanh chóng lại được bùng cháy lên, nỗi sợ hãi cũng vô thanh vô thức tan biến đi không còn lại chút gì.
+
+Tại bên trong cứ điểm, đoàn người của Rose cùng với những người thuộc về đội Lính Đánh Thuê trong liên minh còn lưu lại được đến bây giờ, cũng bị ảnh hưởng theo khí thế như cầu vồng của thành viên [The Alliance]. 
+
+Chẳng những trong lòng dần dần tiêu tán đi hết sợ hãi, bọn họ còn không tự chủ được bản thân, đi hô ứng theo tiếng hô hào ngoài kia.
+
+‘Rít rít rít…’
+
+Dường như cảm nhận được khí thế chấn động của người ở đây, từ bên trong đàn Dơi Hút Máu truyền đến những tiếng rít kinh thiên, chẳng khác nào đang trấn áp lại khí thế động địa của những người bên trong cứ điểm.
+
+Đình Tấn bất tri bất giác thở phào ra một hơi nhẹ nhõm, hắn chính là sợ đám đội viên này nhụt chí, không chiến mà lui, nhưng cũng may, chỉ một vài hành động nhỏ mà hắn đã thành công kích thích khí thế cùng chiến ý của bọn họ. 
+
+-“Toàn bộ nghề nghiệp cận chiến, tiến vào bên trong cứ điểm, thủ vững cánh cổng ‘Thủy Tinh Thể’. Còn lại nghề nghiệp viễn trình, ở tại chỗ chờ đợi, quái vật đi vào trong tầm công kích thì toàn lực phát ra, không được giữ lại bất cứ thứ gì!”
+
+Nắm chặt thời gian, Đình Tấn bắt đầu phân công ra lệnh, thanh âm chưa dứt, thân thể hắn đã chậm chạp phiêu phù lên không trung bằng "Khống Vật Thuật".
+
+Khoảng cách đàn Dơi Hút Máu càng lúc càng đến gần, đám đội viên tiếp nhận mệnh lệnh người thì tức tốc lui vào bên trong cứ điểm, người thì lưu lại tại chỗ, siết chặt vũ khí trong tay, khẩn trương nhìn chằm chằm vào đàn quái vật kinh khủng trước mắt.
+
+Áp lực mà những người ở đây nhận lấy chẳng những bắt nguồn từ bộ dáng cùng thể hình khổng lồ bên ngoài, mà còn nằm ở thuộc tính siêu cường của con Dơi Hút Máu Boss Lãnh Chúa, vượt qua gấp ba lần so với những con Boss trước đó.
+
+Nếu đã phi hành, đàn Dơi Hút Máu này không thể nào thuộc về phương diện quái vật loại hình phòng ngự hay khôi phục mạnh được. Tất nhiên không khó để nhận ra, thế mạnh của đàn Dơi Hút Máu này nằm ở phương diện tốc độ.
+
+Ấy vậy mà cái thuộc tính HP của con Dơi Hút Máu Boss Lãnh Chúa chia lại cao đến khủng bố 165.000 điểm, như vậy có thể thấy nó đã cường đại đến mức độ không tưởng.
+
+Duy chỉ có Đình Tấn mới hiểu rõ được, đây mới thực sự là nguyên nhân dẫn đến kết cuộc diệt vong của loài người nói riêng, hay cả Trái Đất nói chung.
+
+Chỉ một đàn Dơi Hút Máu, sở hữu một con Boss Lãnh Chúa 45 cấp thôi thì đã kinh khủng đến như vậy thì càng về sau, những con Boss Lãnh Chúa 80, 90 hay thậm chí là 100 cấp sẽ trở nên kinh khủng đến mức độ nào, chỉ nghĩ đến đấy thôi, hắn cũng không dám tưởng tượng phần tiếp sau nữa.
+
+500 mét…
+
+400 mét…
+
+Khoảng cách rút ngắn nhanh chóng theo từng giây, tốc độ đàn dơi phi hành phỏng chừng sẽ không dưới vận tốc 80 km/s.
+
+Đình Tấn lúc này đã lơ lửng trên bầu trời, khoảng cách so với mặt đất là gần 20 mét, đây cũng là khoảng cách cao nhất mà hắn có thể nâng đỡ mình bay lên được.
+
+Nhìn thấy đàn Dơi Hút Máu đang điên cuồng gào thét hướng mình giơ nanh múa vuốt lao tới, Đình Tấn không hề có bất kì sợ hãi nào, mặt vô biểu tình, lặng yên chờ đợi.
+
+300 mét…
+
+250 mét…
+
+Đúng ngay tại thời điểm đàn Dơi Hút Máu sắp tiếp cận vào khoảng cách 200 mét, Đình Tấn bỗng nhiên động.
+
+Dưới ánh sáng mờ ảo của trăng tròn, gương mặt đám đội viên bên dưới tường thành mang theo tràn đầy vẻ kinh ngạc, ánh mắt có chút mê li nhìn lấy Đình Tấn chậm rãi giơ lên hai tay đang buông lỏng ở hai bên eo, hệt như đang nâng đỡ một vật gì đó trong hư không. 
+
+‘Xoẹt xoẹt đùng đùng đùng…’
+
+Từ trong hư vô xung quanh hắn đột ngột vang lên từng tiếng lôi minh chấn động, lôi điện không biết từ đâu chủ động phóng xuất ra bên ngoài, như du long hí phượng vờn quanh thân Đình Tấn.
+
+Áo choàng đỏ rực tự nhiên không gió mà bay, mái tóc ngắn của Đình Tấn như bị lôi điện ảnh hưởng, đồng loạt dựng ngược lên trời. Thiên không vần vũ mây mù như sắp nổi bão, từng cụm mây mù kéo đến nhuộm đỏ cả bầu trời tối om, thanh thế kinh thiên động địa, lấn át cả tiếng rít gào của đàn Dơi Hút Máu.
+
+Đình Tấn ngửa đầu hướng mặt lên trời, mũi hít thật sâu lấy một hơi, kéo một luồng gió lạnh vào trong lồng ngực. Cảm thụ từng dòng máu huyết đang sôi trào bên trong người mình, khóe miệng hắn không tự chủ nổi lên một tia mỉm cười mờ nhạt.
+
+-“Lôi Pháp Tối Thượng…”
+
+Từng dòng chảy ký ức lần lượt hiện về bên trong đại não Đình Tấn, khiến hắn không kìm được mở miệng thì thào ra một hơi, muốn dùng phương pháp ấy để phóng xuất hết tâm tình dồn nén bấy lâu này. 
+
+Tâm trí hắn tại thời điểm hiện tại, bỗng dưng trở nên tĩnh lặng hơn bao giờ hết, ánh mắt sắc lạnh như dao nhìn lấy đàn Dơi Hút Máu đang bay tới tiến vào khu vực ảnh hưởng của kỹ năng.
+
+- “…Phán Quyết!”
+
+100 mét vừa tới, hắn liền không kìm giữ lại nữa, chỉ trầm giọng thốt ra hai chữ rồi hoàn thành nốt ký hiệu cuối cùng đã hoàn thành từ lâu bên trong đại não.
+
+Sau một khắc, phương viên năm trong vòng trăm mét quanh hắn, lóe lên từng trận ánh sáng trắng xóa một mảnh, lôi đình gào thét, từng đạo từng đạo kinh khủng thiểm điện xuất hiện, du tẩu hư không, núi đá nổ tung, thoáng chốc thiên địa như trở nên run rẩy.Quần Giáp Xác
+
+Giới thiệu: Được chế tạo từ giáp xác của loài Thực Thi Rết, rèn đúc với nhiều loại hợp kim quý hiếm.
+
+Chất lượng: Đồ Tím
+
+Yêu cầu: Đẳng cấp 40
+
+Thuộc tính: 
+
+-Gia tăng lượng HP: 20%
+
+-Gia tăng lượng HP khôi phục: 50%
+
+-Gia tăng tốc độ hấp thụ nguyên tố hệ [Thổ] khi tu luyện: 10%
+
+Hiệu ứng mang theo: Đầm Lầy (Chủ Động) – Giáp xác của Thực Thi Rết có thể tự động hấp thụ nguyên tố [Thổ], tạo ra một loại dịch nhầy tự nhiên, khi phun ngoài sẽ lập tức khiến mặt đất cứng rắng trở thành dầm lầy. 
+
+Hiệu quả: Hóa đầm lầy một khu vực 100 mét vuông, giảm tốc độ di chuyển của kẻ địch đi vào khu vực này xuống 50%, kéo dài trong 5 phút, thời gian làm lạnh 1 tiếng.
+
+(Lưu ý: Trang bị chất lượng [Đồ Tím] (đẳng cấp từ 30 trở lên) có thể chế tác ở hiện thực, điểm thuộc tính dựa trên cơ sở trong game tính toán, độ tương đồng chênh lệch từ 60% - 95% tùy theo cách chế tạo và chất lượng nguyên liệu. Xin mời người chơi cố gắng tìm hiểu, nghiên cứu thêm)
+
+…
+
+Thông số thuộc tính cũng đặc biệt tốt, tuy nhiên vẫn không thể sánh bằng với món Đồ Đỏ mà Đình Tấn đang trang bị từ lúc mới bắt đầu trò chơi đến giờ, được mở ra từ Túi Phần Thưởng hệ thống tặng cho.
+
+Bất quá, có một thứ làm cho Đình Tấn đặc biệt khó hiểu, chính là dòng thuộc tính ‘Gia tăng tốc độ hấp thụ nguyên tố hệ [Thổ] khi tu luyện’ kia.
+
+Trước giờ Đình Tấn chưa từng gặp qua cái thuộc tính này, đối với hắn, nó là một thứ lạ lẫm hoàn toàn mới, làm cho hắn không tự chủ được cảm giác tò mò, muốn tìm hiểu xem nó mang ý nghĩa như thế nào.
+
+-“Chẳng lẽ…”
+
+Trải qua một hồi lâu, bất chợt, Đình Tấn lóe lên một tia linh quang, trong đầu âm thầm liên tưởng đến thời điểm ở trong phụ bản sử dụng lôi điện luyện thể, cùng với nghề nghiệp Vong Linh Pháp Sư, khiến cho đám Bộ Xương Pháp Sư nắm giữ hai loại nguyên tố khác nhau.
+
+Nói vậy, khả năng hấp thụ nắm giữ thêm một loại nguyên tố khác nữa là hoàn toàn có khả năng. Nhưng mà vấn đề lại nằm ở chỗ, hắn không biết làm sao để hấp thụ nguyên tố, xem như ở trong tận thế 10 năm, hắn cũng chưa có cơ hội được chạm đến tầng thứ cao cấp này.
+
+-“Haiz… mặc kệ vậy, tới đâu hay tới đó.’
+
+Ngao ngán thở dài một hơi, Đình Tấn dứt khoát không dây dưa chuyện này nữa, dù có nghĩ thêm thì chưa chắc hắn có thể tìm ra được manh mối. Lại nói, thời gian bắt đầu đợt phòng thủ đợt sóng quái vật cuối cùng sắp bắt đầu, hắn phải làm ra chuẩn bị trước.
+
+Trạng thái sau một thời gian ngồi nghỉ ngơi đã khôi phục lại đầy ắp, Đình Tấn cầm lấy món trang bị [Quần Giáp Xác] này thay đổi lên người mình, sau đó lại hướng về phía sườn núi bên cạnh lớn tiếng gọi lên.
+
+-“Louis lại đây!”
+
+Louis hiện tại cũng đã giải trừ trạng thái "Hóa Hình’, một thân đơn bạc không ốm cũng không gầy nhanh chóng tiếp cận Đình Tấn. 
+
+Trải qua một thời gian dài tu luyện "Minh Tưởng Thuật", được Đình Tấn truyền thụ cho, thuộc tính tinh thần của Louis đã tăng lên rõ rệt, dẫn đến thời gian duy trì "Hóa Hình’ cũng đồng dạng tăng lên theo tỉ lệ thuận.
+
+Hiện tại, Louis có thể kéo dài đến cả ngày mà không sợ bị mất đi lý trí, không thể khống chế bản thân như trước nữa.
+
+-“Cho ngươi, mang vào một hồi chuẩn bị chiến đấu.”
+
+Biết rõ Louis khi "Hóa Hình’ sẽ tăng lên thuộc tính hết sức khủng bố, nhất là khả năng khôi phục HP càng là vượt lên trên Đình Tấn gấp 7 – 8 lần có thừa. Thế nên món trang bị [QuầnPrometheus] với hiệu quả tăng lên 30% (Tốc độ di chuyển) cùng với 200% (tốc độ khôi phục HP), ngoài Louis ra thì thật sự là không thể nào tìm được ai thích hợp hơn để tận dụng nó.
+
+‘Tê…’
+
+Louis nhận lấy món đồ vật, nhìn sơ qua một cái thì đã bị chấn kinh đến hít vào một ngụm khí lạnh. 200% tăng tốc khôi phục HP, bằng gấp hai ba lần so với một món Đồ Đỏ bình thường, có thể nói là hàng cực phẩm, có thể gặp không thể cầu.
+
+Không chút do dự đổi lại món trang bị Đồ Xanh 30 cấp trên người, tuy rằng nội tâm rất hưng phấn, nhưng có vẻ như Louis lại đang cố gắng kìm nén tâm tình của mình.
+
+-“Cảm ơn.”
+
+Không có biểu hiện gì quá lố ra bên ngoài, Louis chỉ lạnh nhạt đáp lại Đình Tấn một câu, sau đó liền xoay người trở về hàng ngũ.
+
+Lắc đầu cười khổ, Đình Tấn cũng không lạ gì với biểu hiện này của Louis, bởi lẽ hắn biết rõ, đối phương là đang chiến tranh lạnh với mình, trong [The Alliance] cũng không thiếu mấy trường hợp như vậy.
+
+Dù sao chuyện Long rời đi khỏi [The Alliance] và gia nhập vào [Hồng Môn Hội] thì ai cũng biết, nhưng nguyên nhân thật sự ẩn tàng phía sau thì không ai hiểu. Bọn họ đa phần đều hiểu lầm, chính là Đình Tấn đối xử bất công trong lần trách phạt công khai trước đó, mới dẫn đến hậu quả như vậy.
+
+Nói không ngoa, trong mắt những người này, Đình Tấn đã trở thành một tên ‘Hôn Quân’, không hiểu rõ đạo lý làm người, lại quá mức độc tài độc đoán.
+
+Ấy thế mà Đình Tấn lại không thể phản bác được gì, do kế hoạch vẫn cần được thực hiện, cho nên hắn chỉ có thể cúi đầu chấp nhận tiếng đồn xấu này.
+
+Keng! – Đợt sóng quái vật tấn công cứ điểm cuối cùng bắt đầu, toàn bộ người 
+
+chơi hãy sẵn sàng chuẩn bị.
+
+Đang lúc hắn lạc trôi trong dòng suy nghĩ, âm thanh hệ thống đột nhiên vang lên, kéo hắn trở về với hiện thực.
+
+Ngẩng đầu nhìn ra phía xa xa, hố đen đường hầm không gian quen thuộc đã xuất hiện, từng đốm đen nho nhỏ mà số lượng lại đông như kiến, đang không ngừng tuôn trào từ bên trong đó ra.
+
+Mặt trời chiều đã khuất bóng một nửa xuống đường chân trời, dẫn đến nguồn ánh sáng càng lúc càng yếu, Đình Tấn đứng ở quá xa cũng là không tài nào nhìn rõ được quái vật lần này là độn thổ, đi bộ hay bay lượn trên không.
+
+‘Đông…’
+
+‘Đang có 50 vật thể lạ tiếp cận…’
+
+Ở bên trong cứ điểm, [Tháp Ra-đa] đang ở trạng thái tĩnh lặng thì bất thình lình phát ra một âm thanh còi báo động inh ỏi, đúng ngay tại thời điểm đám quái vật xuất hiện.
+
+‘Đông…’
+
+‘Đang có 80 vật thể lạ tiếp cận…’
+
+Sau mỗi tiếng còi cảnh báo, chính là một tràng tiếng nói máy móc, được phát ra từ tòa [Tháp Ra-đa] thông báo số lượng mục tiêu được phát hiện.
+
+Đình Tấn có hơi ngạc nhiên, nhưng tức thì đã lấy lại được bình tĩnh, cổng không gian nằm trong khu vực 50 km dò xét của tòa [Tháp Ra-đa] này, thế nên xuất hiện dị tượng như vậy cũng là chuyện bình thường.
+
+Ở ba đợt sóng quái vật tập kích trước đó, cho dù có hiểu rõ được sức mạnh của mấy chủng loài quái vật như Thực Thi Rết, Trâu Mộc Độc, Gai Độc Thú thì Đình Tấn không thể nào ước lượng thực lực của đôi bên, để làm ra được sắp xếp chuẩn xác nhất.
+
+Nhưng hiện tại, có được tòa [Tháp Ra-đa] dò xét này, cho dù không biết rõ được bên trong có bao nhiêu con quái vật bình thường, Tinh Anh hay thậm chí là Boss, thì ít nhất Đình Tấn cũng có thể nắm rõ được số lượng của bầy đàn quái vật này.
+
+Có thêm được thông tin của đối phương, hắn liền có cơ hội làm ra được phán đoán và sắp xếp đội hình chuẩn xác nhất trước tiên. Điều đó cũng đồng nghĩa với việc, tỉ lệ thắng có thể tăng lên một vài phần trăm nho nhỏ.
+
+-“Tất cả tiến vào đội hình, chuẩn bị quái vật công kích.”
+
+Hít thở sâu, Đình Tấn quát lớn một tiếng, kêu gọi mọi người sẵn sàng ứng chiến bất cứ lúc nào, còn riêng mình thì bắt đầu triệu hồi vong linh đại quân.
+
+‘Tinh Thần Áp Súc’ (25% Hiệu quả kỹ năng)
+
+Triệu hồi Bộ Xương Chiến Sĩ (x332)
+
+Triệu hồi Tang Thi (x249)
+
+…
+
+Thời điểm tất cả công việc chuẩn bị được hoàn thành xong, thì cũng là lúc tiếng còi cảnh báo của [Tháp Ra-đa] đã dừng lại, với kết quả số lượng đàn quái vật xuất hiện trong tầm dò xét của Đình Tấn nằm ở con số 251 con.
+
+Lúc ban đầu, khi vừa mới nhận ra được số lượng của đàn quái vật trong đợt sóng cuối cùng này, đôi chân mày của Đình Tấn không kìm được mà cau chặt lại. Số lượng thật sự chênh lệch quá lớn so với mấy đợt sóng quái vật trước đó.
+
+Coi như đàn Thực Thi Rết cường đại trong đợt thứ ba vừa qua cũng có hơn 1.500 con, đằng này đợt sóng cuối cùng lại rút đi chỉ còn không được một phần năm số đó.
+
+Nghĩ vậy, trong lòng Đình Tấn càng trở nên bồn chồn bất an nhiều hơn, đây nhất định là dấu hiệu báo trước, sắp có biến cố xảy ra.
+
+-“Phi hành?!”
+
+Chợt, Đình Tấn kinh hãi vô thức bật thốt lên, trong tầm mắt của hắn là hàng trăm con quái vật đang chập trùng nhấp nhô lên xuống, bay lơ lửng trên không trung, dưới ánh trăng sáng rực vừa mới nhô lên khỏi đường chân trời.
+
+Cho dù khoảng cách xa đến hơn cả cây số có thừa, nhưng với ngoại hình khổng lồ của chúng, Đình Tấn vẫn có thể thấy loáng thoáng được, kia là những con dơi xám, được gắn thêm móng vuốt sắc bén lên bốn chi. 
+
+Hai bên chi trước của chúng là một lớp màn da, xem như là đôi cánh được chúng vũ động liên hồi, phi hành với tốc độ cao trên bầu trời.
+
+Hố sâu, bẫy rập các thứ trên mặt đất ngay tức thì trở nên vô dụng với đàn quái vật này, bọn chúng hướng về cứ điểm phóng thẳng tới mà không hề có một sự trở ngại nào.
+
+Dơi Hút Máu (Tinh Anh)
+
+Đẳng Cấp: 40
+
+HP: 28.000/ 28.000
+
+Dơi Hút Máu (Boss)
+
+Đẳng Cấp: 42
+
+HP: 65.400/ 65.400
+
+Dơi Hút Máu (Thủ Lĩnh Boss)
+
+Đẳng Cấp: 44
+
+HP: 112.500/112.500
+
+Dơi Hút Máu (Lãnh Chúa Boss)
+
+Đẳng Cấp: 45
+
+HP: 165.000/ 165.000
+
+Sau khi nhìn xong bảng thuộc tính của chúng, đầu óc có chút choáng váng, trước mắt Đình Tấn giống như hoa lên một trận, hình ảnh hóa một thành hai.
+
+Xung quanh đám đội viên đã hoàn toàn câm lặng, ngay cả Rose cùng những người tâm trí sắt đá như Vansy, Trần Hạo cũng bị chấn kinh mà đờ người ra, không một ai thốt lên được dù chỉ là một tiếng rên nho nhỏ.
+
+Ấy thế nhưng, đôi bàn tay cầm vũ khí đang run rẩy liên hồi, giống như nói rõ nội tâm của bọn họ ngay lúc này đã bị lấp đầy bởi sự sợ hãi.
+
+Tất cả đàn dơi này không có một con nào thuộc phân cấp quái vật bình thường, tất cả đều là nằm ở phân cấp Tinh Anh trở lên, thậm chí trong đó còn xuất hiện một con Boss Lãnh Chúa. 
+
+Bởi vì số lượng quá đông mà không thể nhận biết rõ số lượng của mỗi chủng loại, thế nhưng cái số lượng ấy cũng thật sự không cần thiết, vì chỉ cần một con Boss Thủ Lĩnh cùng một con Boss Lãnh Chúa đã là quá đỗi kinh khủng với Đình Tấn cùng tất cả những người có mặt ở đây rồi.
+
+-“TRẤN TĨNH!”
+
+Bỗng, một tiếng rống lớn của Đình Tấn bất ngờ truyền vào trong tai đám đội viên, khiến bọn họ giật thót cả người, nỗi lo sợ trong lòng thoáng chốc cũng tiêu tán đi không ít.
+
+-“Chúng ta đã đi được đến bước này, còn một chút khó khăn, các ngươi sẽ không thể vượt qua hay sao?!”
+
+Thấy đám đội viên bên cạnh mình đã bình phục lại chút ít tâm tình xao động, Đình Tấn liền tranh thủ rèn sắt khi còn nóng, cất giọng nói ra.
+
+-“Các ngươi chẳng lẽ đã quên phương châm làm việc của [The Alliance] sao?”
+
+Một câu hỏi vừa được đặt ra, làm cho cả đám đội viên giống như ăn một liều thuốc an thần một dạng, nét bồn chồn trên gương mặt bọn họ dần dần tiêu tán đi không ít.
+
+-“Nếu không quên thì nói cho ta biết, người của [The Alliance] phải làm sao?!”
+
+Đình Tấn vừa nhấc lên một câu nói như vậy, khắp nơi bên trong cứ điểm, thành viên của [The Alliance] liền đột nhiên cảm nhận được một ngọn lửa rực cháy lên trong tim họ.
+
+‘Rầm!’
+
+-“Không sợ hãi, không lùi bước!” 
+
+Không hề có bất kì dấu hiệu nào báo trước, Terrell đột ngột siết chặt vũ khí, đập mạnh xuống đất, gây ra tiếng vang không nhỏ, ngực ưỡn lên, gân cổ khàn giọng hét lên một tiếng.
+
+‘Phịch phịch phịch…’
+
+-“Không sợ hãi, không lùi bước!”
+
+Nối tiếp theo đó, Ameerah, Louis, David từng người dẫm mạnh chân xuống đất, rồi rống to theo, coi như tiếng động không lớn bằng được như Terrell đã làm nhưng vô tình đã tạo ra một nhịp điệu.
+
+Khoảng cách của đàn Dơi Hút Máu đã chỉ còn lại không đến 800 mét, bộ dạng của chúng càng hiển lộ trong mắt mọi người. Đặc biệt nhất là ba con dẫn đầu, với kích cỡ to lớn đến không tưởng, thể tích gần như gấp hai ba lần so với mấy con Trâu Mộc Độc Boss hay Gai Độc Thú Boss, Thực Thi Rết Boss trước đó.
+
+Xung quanh Đình Tấn, đám đội viên cũng bị giật mình bất ngờ trước ngoại hình tràn ngập áp lực của đàn Dơi Hút Máu. Tuy nhiên ngay sau đó, sự chú ý của bọn họ liền chuyển dời sang bốn người Terrell, lập tức đã bắt nhịp mà hô ứng theo.
+
+‘Rầm rầm rầm…’
+
+‘Không sợ hãi, không lùi bước!’
+
+Hàng chục, hàng trăm, cho đến hàng nghìn người, dần dần tạo thành một đợt sóng nối tiếp một đợt sóng, trùng kích vào trái tim bọn họ, chiến ý đã tiêu tán đi trước đó, nhanh chóng lại được bùng cháy lên, nỗi sợ hãi cũng vô thanh vô thức tan biến đi không còn lại chút gì.
+
+Tại bên trong cứ điểm, đoàn người của Rose cùng với những người thuộc về đội Lính Đánh Thuê trong liên minh còn lưu lại được đến bây giờ, cũng bị ảnh hưởng theo khí thế như cầu vồng của thành viên [The Alliance]. 
+
+Chẳng những trong lòng dần dần tiêu tán đi hết sợ hãi, bọn họ còn không tự chủ được bản thân, đi hô ứng theo tiếng hô hào ngoài kia.
+
+‘Rít rít rít…’
+
+Dường như cảm nhận được khí thế chấn động của người ở đây, từ bên trong đàn Dơi Hút Máu truyền đến những tiếng rít kinh thiên, chẳng khác nào đang trấn áp lại khí thế động địa của những người bên trong cứ điểm.
+
+Đình Tấn bất tri bất giác thở phào ra một hơi nhẹ nhõm, hắn chính là sợ đám đội viên này nhụt chí, không chiến mà lui, nhưng cũng may, chỉ một vài hành động nhỏ mà hắn đã thành công kích thích khí thế cùng chiến ý của bọn họ. 
+
+-“Toàn bộ nghề nghiệp cận chiến, tiến vào bên trong cứ điểm, thủ vững cánh cổng ‘Thủy Tinh Thể’. Còn lại nghề nghiệp viễn trình, ở tại chỗ chờ đợi, quái vật đi vào trong tầm công kích thì toàn lực phát ra, không được giữ lại bất cứ thứ gì!”
+
+Nắm chặt thời gian, Đình Tấn bắt đầu phân công ra lệnh, thanh âm chưa dứt, thân thể hắn đã chậm chạp phiêu phù lên không trung bằng "Khống Vật Thuật".
+
+Khoảng cách đàn Dơi Hút Máu càng lúc càng đến gần, đám đội viên tiếp nhận mệnh lệnh người thì tức tốc lui vào bên trong cứ điểm, người thì lưu lại tại chỗ, siết chặt vũ khí trong tay, khẩn trương nhìn chằm chằm vào đàn quái vật kinh khủng trước mắt.
+
+Áp lực mà những người ở đây nhận lấy chẳng những bắt nguồn từ bộ dáng cùng thể hình khổng lồ bên ngoài, mà còn nằm ở thuộc tính siêu cường của con Dơi Hút Máu Boss Lãnh Chúa, vượt qua gấp ba lần so với những con Boss trước đó.
+
+Nếu đã phi hành, đàn Dơi Hút Máu này không thể nào thuộc về phương diện quái vật loại hình phòng ngự hay khôi phục mạnh được. Tất nhiên không khó để nhận ra, thế mạnh của đàn Dơi Hút Máu này nằm ở phương diện tốc độ.
+
+Ấy vậy mà cái thuộc tính HP của con Dơi Hút Máu Boss Lãnh Chúa chia lại cao đến khủng bố 165.000 điểm, như vậy có thể thấy nó đã cường đại đến mức độ không tưởng.
+
+Duy chỉ có Đình Tấn mới hiểu rõ được, đây mới thực sự là nguyên nhân dẫn đến kết cuộc diệt vong của loài người nói riêng, hay cả Trái Đất nói chung.
+
+Chỉ một đàn Dơi Hút Máu, sở hữu một con Boss Lãnh Chúa 45 cấp thôi thì đã kinh khủng đến như vậy thì càng về sau, những con Boss Lãnh Chúa 80, 90 hay thậm chí là 100 cấp sẽ trở nên kinh khủng đến mức độ nào, chỉ nghĩ đến đấy thôi, hắn cũng không dám tưởng tượng phần tiếp sau nữa.
+
+500 mét…
+
+400 mét…
+
+Khoảng cách rút ngắn nhanh chóng theo từng giây, tốc độ đàn dơi phi hành phỏng chừng sẽ không dưới vận tốc 80 km/s.
+
+Đình Tấn lúc này đã lơ lửng trên bầu trời, khoảng cách so với mặt đất là gần 20 mét, đây cũng là khoảng cách cao nhất mà hắn có thể nâng đỡ mình bay lên được.
+
+Nhìn thấy đàn Dơi Hút Máu đang điên cuồng gào thét hướng mình giơ nanh múa vuốt lao tới, Đình Tấn không hề có bất kì sợ hãi nào, mặt vô biểu tình, lặng yên chờ đợi.
+
+300 mét…
+
+250 mét…
+
+Đúng ngay tại thời điểm đàn Dơi Hút Máu sắp tiếp cận vào khoảng cách 200 mét, Đình Tấn bỗng nhiên động.
+
+Dưới ánh sáng mờ ảo của trăng tròn, gương mặt đám đội viên bên dưới tường thành mang theo tràn đầy vẻ kinh ngạc, ánh mắt có chút mê li nhìn lấy Đình Tấn chậm rãi giơ lên hai tay đang buông lỏng ở hai bên eo, hệt như đang nâng đỡ một vật gì đó trong hư không. 
+
+‘Xoẹt xoẹt đùng đùng đùng…’
+
+Từ trong hư vô xung quanh hắn đột ngột vang lên từng tiếng lôi minh chấn động, lôi điện không biết từ đâu chủ động phóng xuất ra bên ngoài, như du long hí phượng vờn quanh thân Đình Tấn.
+
+Áo choàng đỏ rực tự nhiên không gió mà bay, mái tóc ngắn của Đình Tấn như bị lôi điện ảnh hưởng, đồng loạt dựng ngược lên trời. Thiên không vần vũ mây mù như sắp nổi bão, từng cụm mây mù kéo đến nhuộm đỏ cả bầu trời tối om, thanh thế kinh thiên động địa, lấn át cả tiếng rít gào của đàn Dơi Hút Máu.
+
+Đình Tấn ngửa đầu hướng mặt lên trời, mũi hít thật sâu lấy một hơi, kéo một luồng gió lạnh vào trong lồng ngực. Cảm thụ từng dòng máu huyết đang sôi trào bên trong người mình, khóe miệng hắn không tự chủ nổi lên một tia mỉm cười mờ nhạt.
+
+-“Lôi Pháp Tối Thượng…”
+
+Từng dòng chảy ký ức lần lượt hiện về bên trong đại não Đình Tấn, khiến hắn không kìm được mở miệng thì thào ra một hơi, muốn dùng phương pháp ấy để phóng xuất hết tâm tình dồn nén bấy lâu này. 
+
+Tâm trí hắn tại thời điểm hiện tại, bỗng dưng trở nên tĩnh lặng hơn bao giờ hết, ánh mắt sắc lạnh như dao nhìn lấy đàn Dơi Hút Máu đang bay tới tiến vào khu vực ảnh hưởng của kỹ năng.
+
+- “…Phán Quyết!”
+
+100 mét vừa tới, hắn liền không kìm giữ lại nữa, chỉ trầm giọng thốt ra hai chữ rồi hoàn thành nốt ký hiệu cuối cùng đã hoàn thành từ lâu bên trong đại não.
+
+Sau một khắc, phương viên năm trong vòng trăm mét quanh hắn, lóe lên từng trận ánh sáng trắng xóa một mảnh, lôi đình gào thét, từng đạo từng đạo kinh khủng thiểm điện xuất hiện, du tẩu hư không, núi đá nổ tung, thoáng chốc thiên địa như trở nên run rẩy.

@@ -1,0 +1,565 @@
+Tiêu diệt xong một bàn thức ăn, Đình Tấn tiến lại chủ khách sạn hỏi dò nhiệm vụ tìm kiếm vận may.
+
+- Chào ngài, ta hiện tại đang không có việc làm. Không biết ngài có cần giúp đỡ gì không?
+
+Chủ khách sạn đang tính tiền, ngước mặt lên nhìn lấy Đình Tấn vừa nói vừa xua tay như đuổi ăn mày:
+
+- Không có không có, ta ở đây đủ người rồi ngươi đi nơi khác đi.
+
+Đình Tấn cũng không có cảm giác gì dù sao đây là game cũng không cần phải chấp nhặt với NPC. Riêng Ameerah thì lại khác, nàng tính khí đã không được tốt, vừa định bộc phát thì bị Đình Tấn cản lại. Kéo ra ngoài.
+
+Vừa đi ra đến cửa chợt tiếng của ông chủ quán vang lên từ phía sau:
+
+- Àh, nếu ngươi rãnh rỗi có thế đến nhà lão thợ săn Carter, hắn mấy hôm nay không đến chỗ ta giao hàng rồi. Gia đình hắn chắc hẳn cần sự giúp đỡ của ngươi. Nhà hắn ở phía Nam gần bờ sông của làng.
+
+Đình Tấn mỉm cười quay lại hướng chủ quán gật gật đầu. Xung quanh người chơi nghe thấy cũng đều dồn dập rời đi. Bọn họ từ khi hoàn thành chuỗi 3 nhiệm vụ của trưởng làng cũng đã là tự đi đánh quái không có nhiệm vụ. Làm nhiệm vụ vừa có kinh nghiệm vừa được thưởng không ai lại chê cả.
+
+Đình Tấn không quan tâm lắm chuyện này. Dẫn Ameerah rời đi khách sạn, hướng về hiệu thuốc lão Donald đi đến. Lão Donald cũng không giống trước đây khi Đình Tấn lại giao trả nhiệm vụ mà tiều tuỵ như vậy. Hắn thần sắc bình thường vẫn là chăm chú làm việc với đống dược thảo của mình.
+
+Đình Tấn lựa chọn giao dịch, menu cửa hàng hiển thị ra.
+
+HP thuốc (Nhỏ)
+
+Chất lượng: Đồ dùng tiêu hao 
+
+Yêu cầu: Không
+
+Hiệu quả: Hồi phục 15HP/s, tồn tại trong 5 giây. Cắt đứt khi bị tấn công.
+
+Giá: 10 đồng
+
+MP thuốc (Nhỏ)
+
+Chất lượng: Đồ dùng tiêu hao 
+
+Yêu cầu: Không
+
+Hiệu quả: Hồi phục 20MP/s, tồn tại trong 5 giây. Cắt đứt khi bị tấn công.
+
+Giá: 10 đồng
+
+Thuốc giải độc
+
+Chất lượng: Hạ cấp / Đồ dùng tiêu hao
+
+Yêu cầu: Trạng thái trúng độc
+
+Hiệu quả: Giải trừ trạng thái trúng độc từ các loại độc đẳng cấp Hạ cấp trở xuống.
+
+Giá: 20 đồng
+
+Dùng 2 bạc mua 20 bình MP thuốc, Đình Tấn muốn kéo dài thời gian triệu hồi thì phải có MP chống đỡ. Hiện tại tinh thần đã tăng lên giới hạn triệu hồi đã ở sát biên giới 5 con, chỉ một cấp nữa hắn có thể cùng lúc triệu hồi ra 5 con Bộ xương chiến sĩ. Giải quyết một con Panthiger cũng sẽ giảm bớt thời gian gần một nửa. Thế nên điều kiện tiên quyết là có đủ MP duy trì 5 con Bộ xương chiến sĩ. Không hể không bổ sung thêm đạn dược.
+
+Đồng thời hắn cũng mua thêm 5 bình giải độc phòng hờ. Hắn biết động vật xâm lấn trong đó có rất nhiều loài có độc. Không biết khi nào sẽ gặp phải, cũng không thể không đề phòng.
+
+Ameerah thì ngơ ngơ ngác ngác nhìn xung quanh, một ngày vừa qua Đình Tấn làm cho nàng có thói quen có Đình Tấn ở đây thì chẳng thèm quan tâm thứ gì, mọi thứ cứ để Đình Tấn lo. Có thể nói là xem Đình Tấn như một bảo mẫu vậy.
+
+Nhanh chóng tranh thủ thời gian chạy xuống phía nam ngôi làng. Đây là hạ du của con sông từ khu rừng tWvvjCe phía tây. Cách bờ sông khoảng 400m là một ngôi nhà gỗ. Một đứa bé đang ngồi chơi trước sân, cùng một phụ nữ trung niên đang chặt củi.
+
+Người chơi cũng có người đến ngươi đi không đông lắm. Dù sao ở khách sạn nghe được tin tức người cũng không nhiều. Chờ đợi mọi người tiếp nhiệm vụ rời đi. Đình Tấn tiến lại gần hỏi thăm:
+
+- Xin hỏi, đây có phải là nhà của thợ săn Carter không?
+
+Phụ nhân vẫn tiếp tục bổ củi, không ngước lên nhìn trả lời Đình Tấn:
+
+- Ngươi tìm chồng ta làm gì?
+
+Đình Tấn vội vàng trả lời: 
+
+- Ông chủ quán khách sạn nói hắn mấy hôm nay vẫn không thấy bóng dáng của Carter đâu. Hắn nói ngài có thể cần ta giúp đỡ.
+
+Phụ nữ trung niên tay đang giơ búa trên không trung lập tức khựng lại, giọng run run hỏi:
+
+- Ngươi nói Carter không có ở khách sạn?!
+
+Dừng một chút bà lại nói tiếp: 
+
+- Carter là một thợ săn giỏi, hắn thường đi săn ở cánh rừng phía bắc. Nơi đó có nhiều loài lợn rừng bán rất được giá. Thường thì hắn đi 2-3 ngày mới về nhà một lần. Mỗi ngày buổi tối đi săn về hắn sẽ ở lại khách sạn một đêm, nếu hắn không về khách sạn có lẽ đã gặp nguy hiểm. Dũng sĩ ngươi nguyện ý giúp ta đi tìm tung tích hăn không?
+
+Nói xong phụ nữ ánh mắt chờ mong nhìn lấy Đình Tấn:
+
+- Nguyện vì ngài ra sức. 
+
+Keng! – Tiếp nhận nhiệm vụ Tìm tung tích thợ săn Carter.
+
+Người Phụ nữ mỉm cười giọng nghẹn ngào:
+
+- Hi vọng Carter không gặp nguy hiểm, dũng sĩ xin mời ngài khẩn trương. Xong việc ta sẽ có hậu ta.
+
+Đình Tấn gật đầu nhanh chóng xoay người rời đi. Ameerah cũng nhanh chân theo sau, chạy nhanh đến khu rừng phía bắc.
+
+Gần một giờ sau, hai người bước chân đã đạp lên mảnh đất trong khu rừng phía bắc này. Nơi đây đại thu cao to hơn, ánh nắng cũng khó có thể xuyên vào làm cho không khí âm trầm, ẩm ướt hơn so với khu rừng phía tây. Xung quanh có người chơi chậm rãi đi vào luyện cấp, có người đi thám hiểm, có người làm nhiệm vụ đều đủ cả.
+
+Tại trên con đường mòn vào khu rừng, Đình Tấn phát hiện một mảnh vải màu xám cùng rất nhiều dấu chân. Chân của loài chó, cùng chân của người cũng có. Hắn nghĩ có lẽ đây là của Carter, cùng một đám hung thú sông theo bầy đàn tấn công.
+
+Đình Tấn lần theo dấu chân đi vào sâu phía trong, trên đường đi cây cỏ bị đè xuống bẻ gãy rất nhiều, cứ như một đám thú triều vừa vượt qua đây vậy. 
+
+Kì lạ một điều từ lúc phát hiện dấu chân đi vào khu vực này, Đình Tấn không hề phát hiện bóng một người nào. Hắn không hiểu vì sao dấu hiệu rất dễ bị phát hiện thế nhưng tại sao người chơi đi làm nhiệm vụ lại không thể phát hiện kia chứ. 
+
+Nhưng sự việc đến mức này, suy nghĩ phân tâm là điều không có ý nghĩa. Đình Tấn nhanh chóng vứt bỏ tạp niệm hướng phía trước mà đi. Ameerah lẽo đẽo theo sau, chậm trãi từng bước từng bước đi vào. Càng đi vào sâu phía trong Đình Tấn càng có cảm giác bồn chồn, khó chịu. “Lại có nguy hiểm sắp tới” – Đình Tấn suy nghĩ trong lòng.
+
+Hắn liền lấy pháp trượng triệu hồi ra một tên Bộ xương chiến sĩ. Ra lên cho tên Bộ xương chiến sĩ đi trước dẫn đường, Đình Tấn cùng Ameerah chấm rãi theo sau, tinh thần tập trung ở trạng thái cao nhất cảnh giới xung quanh.
+
+Bộ xương chiến sĩ (Sinh vật triệu hồi)
+
+Chủ nhân: The Dawn
+
+HP: 750/750
+
+MP: 0/0
+
+Sát thương vật lý: 49 – 54
+
+Phòng thủ vật lý: 2.9
+
+Phòng thủ ma pháp: 2.4
+
+Đình Tấn chỉ số gia tăng làm cho sức mạnh triệu hồi của Bộ xương chiến sĩ cũng gia tăng. Với lượng MP cùng khả năng khôi phục MP của Đình Tấn bây giờ, tiêu hao cho một tên Bộ xương chiến sĩ cũng chỉ có 13MP/s hắn có thể duy trì hơn 40 giây. Uống MP thuốc (Nhỏ) có thể giúp hắn duy trì liên tục không bị cắt đứt, chỉ là có hơi đốt tiền.
+
+Vượt qua một đoạn đường ngắn, Đình Tấn, Ameerah 2 người liền phát hiện phía đối diện hơn 20m, có một con giống như sói đang đứng trước một vách đá cảnh giới. Bên cạnh vách đã có khoảng hơn 20 hang động chỉ cao khoảng 1m – 1m5.
+
+Coywolf 
+
+Level: 8
+
+HP: 300/300
+
+Kỹ năng: Kêu gọi bầy đàn, cắn xé, vồ tới, truy tung.
+
+Giới thiệu: một loài thuộc giống chó, có dấu hiệu lai tạp giữa Loài sói đồng cỏ, cùng sói xám Bắc Mỹ. Sống theo bầy đàn, có sự phân biệt lãnh đạo rất cao. Đề nghị không nên đơn đấu.
+
+Khoảng cách cũng khá xa hơn 20m, nhưng Bộ xương chiến sĩ thân hình quá to lớn làm cho bọn Coywolf không muốn chú ý cũng không được. Đình Tấn biết đã bị phát hiện, nếu lao lên chắc chắn có khả năng sẽ rơi vào vòng vây của bọn Coywolf. 
+
+Hắn liền hướng Ameerah ra hiệu. Hai người nhanh chóng trèo lên một cây đại thụ gần đó. Kinh nghiệm chiến đấu với loài Coywolf này của Đình Tấn là không bao giờ nghĩ đến việc chạy. Chạy ngươi cũng không thoát khỏi sự truy tung của bọn nó kể cả khi ngươi có ẩn hình, trừ khi ngươi mọc cánh bay đi. 
+
+Hoặc là chơi diều bắn tỉa, tiêu diệt từng phần một hoặc là đứng lại tử chiến đến cùng. Nếu ngươi may mắn có thể đánh chết được con đầu đàn hoặc thực lực ngươi cao tiêu diệt hết bọn Coywolf vậy thì ngươi thoát nạn. Nếu không, vậy thì bỏ xác lại đi vì bọn Coywolf rất thù vặt nhớ dai.
+
+Trong lúc Ameerah đang trèo lên, Đình Tấn phía đứng dưới bắt đầu vung vẩy pháp trượng. Hắn muốn triệu hồi ra thêm 3 tên Bộ xương chiến sĩ. Bên cạnh đó hướng con Bộ xương chiến sĩ đi dò đường phía trước ra lệnh xông liên tiêu diệt con Coywolf.
+
+Con Coywolf vừa thấy Bộ xương chiến sĩ lao lên liền hướng lên trời tru một tiếng vang vọng cả khu vực. Sau đó cả khu vực hang động, vách đá bìa rừng đều vang vọng tiếng sói tru không dứt.
+
+Bộ xương chiến sĩ nhanh chóng tiếp cận với con Coywolf. Khiên đi phía trước lưỡi búa hướng phía sau súc lực. Con sói lao lên, khiên đón đỡ phía sau lưỡi búa quét ngang hướng đầu con Coywolf bổ tới. 
+
+“Ầm”
+
+-133
+
+Da mỏng thịt ít con Coywolf làm sao chịu nổi 1 đòn sát thương vào điểm yếu gấp 3 lần công kích của Bộ xương chiến sĩ. Liền ăn một búa vào đầu cắt giảm ngay gần một nửa thanh huyết của nó. Bộ xương chiến sĩ cũng không cho nó kịp thở, lại lao lên tấn công.
+
+Đình Tấn đứng phía xa vung vẩy pháp trượng vẽ ấn ký cùng đọc chú ngữ. Xung quanh tiếng chó sủa cùng tiếng bước chân dồn dập càng ngày càng nhiều như đang hối thúc hắn nhanh chóng hoàn thành triệu hoán. Nếu hắn không nhanh chân lên bị phát hiện, bao vây lại thì chắc chắn phải chết.
+
+EXP +95
+
+Ngay khi tên Bộ xương chiến sĩ phía trước vung lên một búa cuối cùng kết liễu sinh mệnh con Coywolf, Đình Tấn cũng vừa hoàn thành xong triệu hoán thuật. 
+
+Không kịp nhìn phép thuật đang được thi triển, Đình Tấn nhanh chóng cắm pháp trượng phía sau lưng, hai tay hai chân dùng sức leo lên cây. Hắn cũng không quên ra lệnh cho tên Bộ xương chiến sĩ lập tức quay trở lại cùng 3 tên khác tựa lưng vào đại thụ cố thủ.
+
+Khoảng hơn 60 con Coywolf ùa đến có lớn có nhỏ bao vây xung quanh 4 tên Bộ xương chiến sĩ sủa lên inh ỏi. Nhưng không con nào tấn công như là đang đợi lệnh.
+
+Tại xác con Coywolf vừa chết xuất hiện một con Coywolf thể hình to lớn hơn rõ rệt so với những con Coywolf khác, không hề thua kém con Panthiger Đình Tấn đã tiêu diệt hôm qua.
+
+Nó hướng phía xác con Coywolf vừa chết dùng đầu ủi ủi, dùng lưỡi liếm, sủa lên vài tiếng nhưng không có phản hồi. Nó biết con Coywolf này đã chết. Như là đau đơn nó hướng lên trời tru lên, trong tiếng tru có thể nghe được như có như không sự phẫn nộ cùng đau đớn của nó. 
+
+Ameerah ngồi trên cành cây phía trên cao nhìn xuống, trong lòng lo lắng thấp thỏm như ngồi trên chảo nóng. Nhìn Đình Tấn đang nhanh chóng leo lên, nàng hận không thể bay xuống kéo hắn lên cho nhanh.
+
+Bọn Coywolf nghe tiếng tru cũng lập tức hung mãnh hơn nhiều. Sủa lên inh ỏi sau đó bắt đầu lao vào tấn công bọn Bộ xương chiến sĩ.
+
+Đình Tấn vừa leo lên đến chỗ cành cây Ameerah đang ngồi. Nàng liền tiến lên hỏi giọng nói tràn ngập lo lắng:
+
+- Làm sao bây giờ Đình Tấn, bọn chúng đông quá. Ta có cần xuống dưới cận chiến với bọn chúng không?
+
+Đình Tấn đổ mồ hôi gấp rút nói:
+
+- Đừng lo lắng, bình tĩnh lại. Bọn Coywolf này không biết leo cây. Ngươi cẩn thận ngồi im đừng động mạnh. Cành cây này rất giòn, té xuống thì nguy hiểm nữa. Ngươi nếu mà leo xuống cận chiến, ta bảo đảm không đến 5 giây ngươi sẽ bị bọn chúng xé xác.
+
+Ameerah rốt cục yên tĩnh lại. Đình Tấn thở phào, đưa mắt nhìn sang con Coywolf to lớn bên kia Đình Tấn thầm nghĩ trong đầu “dò xét”:
+
+Coywolf (Thủ Lĩnh Boss)
+
+Cấp 12
+
+HP: 1450/1450
+
+Kỹ năng: Cuồng bạo, Kêu gọi bầy đàn, Cắn xé, Vồ tới, Gia tốc, Truy tung.
+
+Giới thiệu: Là thủ lĩnh của đàn Coywolf, được chọn ra từ trăm con Coywolf có thực lực mạnh nhất đàn. Khuyến nghị: Không nên đơn đấu nếu đẳng cấp thấp hơn.
+
+Đình Tấn hít một hơi lạnh. 12 cấp, hơn hẳn hắn hiện tại đến 4 cấp. Nếu là hắn trước kia, 1 vạn con này cũng không đủ cho hắn giết. Nhưng hiện tại thì khác, hắn đã không có sức mạnh của hắn trước kia.
+
+Trong lòng gấp rút suy nghĩ đối sách.Tiêu diệt xong một bàn thức ăn, Đình Tấn tiến lại chủ khách sạn hỏi dò nhiệm vụ tìm kiếm vận may.
+
+- Chào ngài, ta hiện tại đang không có việc làm. Không biết ngài có cần giúp đỡ gì không?
+
+Chủ khách sạn đang tính tiền, ngước mặt lên nhìn lấy Đình Tấn vừa nói vừa xua tay như đuổi ăn mày:
+
+- Không có không có, ta ở đây đủ người rồi ngươi đi nơi khác đi.
+
+Đình Tấn cũng không có cảm giác gì dù sao đây là game cũng không cần phải chấp nhặt với NPC. Riêng Ameerah thì lại khác, nàng tính khí đã không được tốt, vừa định bộc phát thì bị Đình Tấn cản lại. Kéo ra ngoài.
+
+Vừa đi ra đến cửa chợt tiếng của ông chủ quán vang lên từ phía sau:
+
+- Àh, nếu ngươi rãnh rỗi có thế đến nhà lão thợ săn Carter, hắn mấy hôm nay không đến chỗ ta giao hàng rồi. Gia đình hắn chắc hẳn cần sự giúp đỡ của ngươi. Nhà hắn ở phía Nam gần bờ sông của làng.
+
+Đình Tấn mỉm cười quay lại hướng chủ quán gật gật đầu. Xung quanh người chơi nghe thấy cũng đều dồn dập rời đi. Bọn họ từ khi hoàn thành chuỗi 3 nhiệm vụ của trưởng làng cũng đã là tự đi đánh quái không có nhiệm vụ. Làm nhiệm vụ vừa có kinh nghiệm vừa được thưởng không ai lại chê cả.
+
+Đình Tấn không quan tâm lắm chuyện này. Dẫn Ameerah rời đi khách sạn, hướng về hiệu thuốc lão Donald đi đến. Lão Donald cũng không giống trước đây khi Đình Tấn lại giao trả nhiệm vụ mà tiều tuỵ như vậy. Hắn thần sắc bình thường vẫn là chăm chú làm việc với đống dược thảo của mình.
+
+Đình Tấn lựa chọn giao dịch, menu cửa hàng hiển thị ra.
+
+HP thuốc (Nhỏ)
+
+Chất lượng: Đồ dùng tiêu hao 
+
+Yêu cầu: Không
+
+Hiệu quả: Hồi phục 15HP/s, tồn tại trong 5 giây. Cắt đứt khi bị tấn công.
+
+Giá: 10 đồng
+
+MP thuốc (Nhỏ)
+
+Chất lượng: Đồ dùng tiêu hao 
+
+Yêu cầu: Không
+
+Hiệu quả: Hồi phục 20MP/s, tồn tại trong 5 giây. Cắt đứt khi bị tấn công.
+
+Giá: 10 đồng
+
+Thuốc giải độc
+
+Chất lượng: Hạ cấp / Đồ dùng tiêu hao
+
+Yêu cầu: Trạng thái trúng độc
+
+Hiệu quả: Giải trừ trạng thái trúng độc từ các loại độc đẳng cấp Hạ cấp trở xuống.
+
+Giá: 20 đồng
+
+Dùng 2 bạc mua 20 bình MP thuốc, Đình Tấn muốn kéo dài thời gian triệu hồi thì phải có MP chống đỡ. Hiện tại tinh thần đã tăng lên giới hạn triệu hồi đã ở sát biên giới 5 con, chỉ một cấp nữa hắn có thể cùng lúc triệu hồi ra 5 con Bộ xương chiến sĩ. Giải quyết một con Panthiger cũng sẽ giảm bớt thời gian gần một nửa. Thế nên điều kiện tiên quyết là có đủ MP duy trì 5 con Bộ xương chiến sĩ. Không hể không bổ sung thêm đạn dược.
+
+Đồng thời hắn cũng mua thêm 5 bình giải độc phòng hờ. Hắn biết động vật xâm lấn trong đó có rất nhiều loài có độc. Không biết khi nào sẽ gặp phải, cũng không thể không đề phòng.
+
+Ameerah thì ngơ ngơ ngác ngác nhìn xung quanh, một ngày vừa qua Đình Tấn làm cho nàng có thói quen có Đình Tấn ở đây thì chẳng thèm quan tâm thứ gì, mọi thứ cứ để Đình Tấn lo. Có thể nói là xem Đình Tấn như một bảo mẫu vậy.
+
+Nhanh chóng tranh thủ thời gian chạy xuống phía nam ngôi làng. Đây là hạ du của con sông từ khu rừng tWvvjCe phía tây. Cách bờ sông khoảng 400m là một ngôi nhà gỗ. Một đứa bé đang ngồi chơi trước sân, cùng một phụ nữ trung niên đang chặt củi.
+
+Người chơi cũng có người đến ngươi đi không đông lắm. Dù sao ở khách sạn nghe được tin tức người cũng không nhiều. Chờ đợi mọi người tiếp nhiệm vụ rời đi. Đình Tấn tiến lại gần hỏi thăm:
+
+- Xin hỏi, đây có phải là nhà của thợ săn Carter không?
+
+Phụ nhân vẫn tiếp tục bổ củi, không ngước lên nhìn trả lời Đình Tấn:
+
+- Ngươi tìm chồng ta làm gì?
+
+Đình Tấn vội vàng trả lời: 
+
+- Ông chủ quán khách sạn nói hắn mấy hôm nay vẫn không thấy bóng dáng của Carter đâu. Hắn nói ngài có thể cần ta giúp đỡ.
+
+Phụ nữ trung niên tay đang giơ búa trên không trung lập tức khựng lại, giọng run run hỏi:
+
+- Ngươi nói Carter không có ở khách sạn?!
+
+Dừng một chút bà lại nói tiếp: 
+
+- Carter là một thợ săn giỏi, hắn thường đi săn ở cánh rừng phía bắc. Nơi đó có nhiều loài lợn rừng bán rất được giá. Thường thì hắn đi 2-3 ngày mới về nhà một lần. Mỗi ngày buổi tối đi săn về hắn sẽ ở lại khách sạn một đêm, nếu hắn không về khách sạn có lẽ đã gặp nguy hiểm. Dũng sĩ ngươi nguyện ý giúp ta đi tìm tung tích hăn không?
+
+Nói xong phụ nữ ánh mắt chờ mong nhìn lấy Đình Tấn:
+
+- Nguyện vì ngài ra sức. 
+
+Keng! – Tiếp nhận nhiệm vụ Tìm tung tích thợ săn Carter.
+
+Người Phụ nữ mỉm cười giọng nghẹn ngào:
+
+- Hi vọng Carter không gặp nguy hiểm, dũng sĩ xin mời ngài khẩn trương. Xong việc ta sẽ có hậu ta.
+
+Đình Tấn gật đầu nhanh chóng xoay người rời đi. Ameerah cũng nhanh chân theo sau, chạy nhanh đến khu rừng phía bắc.
+
+Gần một giờ sau, hai người bước chân đã đạp lên mảnh đất trong khu rừng phía bắc này. Nơi đây đại thu cao to hơn, ánh nắng cũng khó có thể xuyên vào làm cho không khí âm trầm, ẩm ướt hơn so với khu rừng phía tây. Xung quanh có người chơi chậm rãi đi vào luyện cấp, có người đi thám hiểm, có người làm nhiệm vụ đều đủ cả.
+
+Tại trên con đường mòn vào khu rừng, Đình Tấn phát hiện một mảnh vải màu xám cùng rất nhiều dấu chân. Chân của loài chó, cùng chân của người cũng có. Hắn nghĩ có lẽ đây là của Carter, cùng một đám hung thú sông theo bầy đàn tấn công.
+
+Đình Tấn lần theo dấu chân đi vào sâu phía trong, trên đường đi cây cỏ bị đè xuống bẻ gãy rất nhiều, cứ như một đám thú triều vừa vượt qua đây vậy. 
+
+Kì lạ một điều từ lúc phát hiện dấu chân đi vào khu vực này, Đình Tấn không hề phát hiện bóng một người nào. Hắn không hiểu vì sao dấu hiệu rất dễ bị phát hiện thế nhưng tại sao người chơi đi làm nhiệm vụ lại không thể phát hiện kia chứ. 
+
+Nhưng sự việc đến mức này, suy nghĩ phân tâm là điều không có ý nghĩa. Đình Tấn nhanh chóng vứt bỏ tạp niệm hướng phía trước mà đi. Ameerah lẽo đẽo theo sau, chậm trãi từng bước từng bước đi vào. Càng đi vào sâu phía trong Đình Tấn càng có cảm giác bồn chồn, khó chịu. “Lại có nguy hiểm sắp tới” – Đình Tấn suy nghĩ trong lòng.
+
+Hắn liền lấy pháp trượng triệu hồi ra một tên Bộ xương chiến sĩ. Ra lên cho tên Bộ xương chiến sĩ đi trước dẫn đường, Đình Tấn cùng Ameerah chấm rãi theo sau, tinh thần tập trung ở trạng thái cao nhất cảnh giới xung quanh.
+
+Bộ xương chiến sĩ (Sinh vật triệu hồi)
+
+Chủ nhân: The Dawn
+
+HP: 750/750
+
+MP: 0/0
+
+Sát thương vật lý: 49 – 54
+
+Phòng thủ vật lý: 2.9
+
+Phòng thủ ma pháp: 2.4
+
+Đình Tấn chỉ số gia tăng làm cho sức mạnh triệu hồi của Bộ xương chiến sĩ cũng gia tăng. Với lượng MP cùng khả năng khôi phục MP của Đình Tấn bây giờ, tiêu hao cho một tên Bộ xương chiến sĩ cũng chỉ có 13MP/s hắn có thể duy trì hơn 40 giây. Uống MP thuốc (Nhỏ) có thể giúp hắn duy trì liên tục không bị cắt đứt, chỉ là có hơi đốt tiền.
+
+Vượt qua một đoạn đường ngắn, Đình Tấn, Ameerah 2 người liền phát hiện phía đối diện hơn 20m, có một con giống như sói đang đứng trước một vách đá cảnh giới. Bên cạnh vách đã có khoảng hơn 20 hang động chỉ cao khoảng 1m – 1m5.
+
+Coywolf 
+
+Level: 8
+
+HP: 300/300
+
+Kỹ năng: Kêu gọi bầy đàn, cắn xé, vồ tới, truy tung.
+
+Giới thiệu: một loài thuộc giống chó, có dấu hiệu lai tạp giữa Loài sói đồng cỏ, cùng sói xám Bắc Mỹ. Sống theo bầy đàn, có sự phân biệt lãnh đạo rất cao. Đề nghị không nên đơn đấu.
+
+Khoảng cách cũng khá xa hơn 20m, nhưng Bộ xương chiến sĩ thân hình quá to lớn làm cho bọn Coywolf không muốn chú ý cũng không được. Đình Tấn biết đã bị phát hiện, nếu lao lên chắc chắn có khả năng sẽ rơi vào vòng vây của bọn Coywolf. 
+
+Hắn liền hướng Ameerah ra hiệu. Hai người nhanh chóng trèo lên một cây đại thụ gần đó. Kinh nghiệm chiến đấu với loài Coywolf này của Đình Tấn là không bao giờ nghĩ đến việc chạy. Chạy ngươi cũng không thoát khỏi sự truy tung của bọn nó kể cả khi ngươi có ẩn hình, trừ khi ngươi mọc cánh bay đi. 
+
+Hoặc là chơi diều bắn tỉa, tiêu diệt từng phần một hoặc là đứng lại tử chiến đến cùng. Nếu ngươi may mắn có thể đánh chết được con đầu đàn hoặc thực lực ngươi cao tiêu diệt hết bọn Coywolf vậy thì ngươi thoát nạn. Nếu không, vậy thì bỏ xác lại đi vì bọn Coywolf rất thù vặt nhớ dai.
+
+Trong lúc Ameerah đang trèo lên, Đình Tấn phía đứng dưới bắt đầu vung vẩy pháp trượng. Hắn muốn triệu hồi ra thêm 3 tên Bộ xương chiến sĩ. Bên cạnh đó hướng con Bộ xương chiến sĩ đi dò đường phía trước ra lệnh xông liên tiêu diệt con Coywolf.
+
+Con Coywolf vừa thấy Bộ xương chiến sĩ lao lên liền hướng lên trời tru một tiếng vang vọng cả khu vực. Sau đó cả khu vực hang động, vách đá bìa rừng đều vang vọng tiếng sói tru không dứt.
+
+Bộ xương chiến sĩ nhanh chóng tiếp cận với con Coywolf. Khiên đi phía trước lưỡi búa hướng phía sau súc lực. Con sói lao lên, khiên đón đỡ phía sau lưỡi búa quét ngang hướng đầu con Coywolf bổ tới. 
+
+“Ầm”
+
+-133
+
+Da mỏng thịt ít con Coywolf làm sao chịu nổi 1 đòn sát thương vào điểm yếu gấp 3 lần công kích của Bộ xương chiến sĩ. Liền ăn một búa vào đầu cắt giảm ngay gần một nửa thanh huyết của nó. Bộ xương chiến sĩ cũng không cho nó kịp thở, lại lao lên tấn công.
+
+Đình Tấn đứng phía xa vung vẩy pháp trượng vẽ ấn ký cùng đọc chú ngữ. Xung quanh tiếng chó sủa cùng tiếng bước chân dồn dập càng ngày càng nhiều như đang hối thúc hắn nhanh chóng hoàn thành triệu hoán. Nếu hắn không nhanh chân lên bị phát hiện, bao vây lại thì chắc chắn phải chết.
+
+EXP +95
+
+Ngay khi tên Bộ xương chiến sĩ phía trước vung lên một búa cuối cùng kết liễu sinh mệnh con Coywolf, Đình Tấn cũng vừa hoàn thành xong triệu hoán thuật. 
+
+Không kịp nhìn phép thuật đang được thi triển, Đình Tấn nhanh chóng cắm pháp trượng phía sau lưng, hai tay hai chân dùng sức leo lên cây. Hắn cũng không quên ra lệnh cho tên Bộ xương chiến sĩ lập tức quay trở lại cùng 3 tên khác tựa lưng vào đại thụ cố thủ.
+
+Khoảng hơn 60 con Coywolf ùa đến có lớn có nhỏ bao vây xung quanh 4 tên Bộ xương chiến sĩ sủa lên inh ỏi. Nhưng không con nào tấn công như là đang đợi lệnh.
+
+Tại xác con Coywolf vừa chết xuất hiện một con Coywolf thể hình to lớn hơn rõ rệt so với những con Coywolf khác, không hề thua kém con Panthiger Đình Tấn đã tiêu diệt hôm qua.
+
+Nó hướng phía xác con Coywolf vừa chết dùng đầu ủi ủi, dùng lưỡi liếm, sủa lên vài tiếng nhưng không có phản hồi. Nó biết con Coywolf này đã chết. Như là đau đơn nó hướng lên trời tru lên, trong tiếng tru có thể nghe được như có như không sự phẫn nộ cùng đau đớn của nó. 
+
+Ameerah ngồi trên cành cây phía trên cao nhìn xuống, trong lòng lo lắng thấp thỏm như ngồi trên chảo nóng. Nhìn Đình Tấn đang nhanh chóng leo lên, nàng hận không thể bay xuống kéo hắn lên cho nhanh.
+
+Bọn Coywolf nghe tiếng tru cũng lập tức hung mãnh hơn nhiều. Sủa lên inh ỏi sau đó bắt đầu lao vào tấn công bọn Bộ xương chiến sĩ.
+
+Đình Tấn vừa leo lên đến chỗ cành cây Ameerah đang ngồi. Nàng liền tiến lên hỏi giọng nói tràn ngập lo lắng:
+
+- Làm sao bây giờ Đình Tấn, bọn chúng đông quá. Ta có cần xuống dưới cận chiến với bọn chúng không?
+
+Đình Tấn đổ mồ hôi gấp rút nói:
+
+- Đừng lo lắng, bình tĩnh lại. Bọn Coywolf này không biết leo cây. Ngươi cẩn thận ngồi im đừng động mạnh. Cành cây này rất giòn, té xuống thì nguy hiểm nữa. Ngươi nếu mà leo xuống cận chiến, ta bảo đảm không đến 5 giây ngươi sẽ bị bọn chúng xé xác.
+
+Ameerah rốt cục yên tĩnh lại. Đình Tấn thở phào, đưa mắt nhìn sang con Coywolf to lớn bên kia Đình Tấn thầm nghĩ trong đầu “dò xét”:
+
+Coywolf (Thủ Lĩnh Boss)
+
+Cấp 12
+
+HP: 1450/1450
+
+Kỹ năng: Cuồng bạo, Kêu gọi bầy đàn, Cắn xé, Vồ tới, Gia tốc, Truy tung.
+
+Giới thiệu: Là thủ lĩnh của đàn Coywolf, được chọn ra từ trăm con Coywolf có thực lực mạnh nhất đàn. Khuyến nghị: Không nên đơn đấu nếu đẳng cấp thấp hơn.
+
+Đình Tấn hít một hơi lạnh. 12 cấp, hơn hẳn hắn hiện tại đến 4 cấp. Nếu là hắn trước kia, 1 vạn con này cũng không đủ cho hắn giết. Nhưng hiện tại thì khác, hắn đã không có sức mạnh của hắn trước kia.
+
+Trong lòng gấp rút suy nghĩ đối sách.Tiêu diệt xong một bàn thức ăn, Đình Tấn tiến lại chủ khách sạn hỏi dò nhiệm vụ tìm kiếm vận may.
+
+- Chào ngài, ta hiện tại đang không có việc làm. Không biết ngài có cần giúp đỡ gì không?
+
+Chủ khách sạn đang tính tiền, ngước mặt lên nhìn lấy Đình Tấn vừa nói vừa xua tay như đuổi ăn mày:
+
+- Không có không có, ta ở đây đủ người rồi ngươi đi nơi khác đi.
+
+Đình Tấn cũng không có cảm giác gì dù sao đây là game cũng không cần phải chấp nhặt với NPC. Riêng Ameerah thì lại khác, nàng tính khí đã không được tốt, vừa định bộc phát thì bị Đình Tấn cản lại. Kéo ra ngoài.
+
+Vừa đi ra đến cửa chợt tiếng của ông chủ quán vang lên từ phía sau:
+
+- Àh, nếu ngươi rãnh rỗi có thế đến nhà lão thợ săn Carter, hắn mấy hôm nay không đến chỗ ta giao hàng rồi. Gia đình hắn chắc hẳn cần sự giúp đỡ của ngươi. Nhà hắn ở phía Nam gần bờ sông của làng.
+
+Đình Tấn mỉm cười quay lại hướng chủ quán gật gật đầu. Xung quanh người chơi nghe thấy cũng đều dồn dập rời đi. Bọn họ từ khi hoàn thành chuỗi 3 nhiệm vụ của trưởng làng cũng đã là tự đi đánh quái không có nhiệm vụ. Làm nhiệm vụ vừa có kinh nghiệm vừa được thưởng không ai lại chê cả.
+
+Đình Tấn không quan tâm lắm chuyện này. Dẫn Ameerah rời đi khách sạn, hướng về hiệu thuốc lão Donald đi đến. Lão Donald cũng không giống trước đây khi Đình Tấn lại giao trả nhiệm vụ mà tiều tuỵ như vậy. Hắn thần sắc bình thường vẫn là chăm chú làm việc với đống dược thảo của mình.
+
+Đình Tấn lựa chọn giao dịch, menu cửa hàng hiển thị ra.
+
+HP thuốc (Nhỏ)
+
+Chất lượng: Đồ dùng tiêu hao 
+
+Yêu cầu: Không
+
+Hiệu quả: Hồi phục 15HP/s, tồn tại trong 5 giây. Cắt đứt khi bị tấn công.
+
+Giá: 10 đồng
+
+MP thuốc (Nhỏ)
+
+Chất lượng: Đồ dùng tiêu hao 
+
+Yêu cầu: Không
+
+Hiệu quả: Hồi phục 20MP/s, tồn tại trong 5 giây. Cắt đứt khi bị tấn công.
+
+Giá: 10 đồng
+
+Thuốc giải độc
+
+Chất lượng: Hạ cấp / Đồ dùng tiêu hao
+
+Yêu cầu: Trạng thái trúng độc
+
+Hiệu quả: Giải trừ trạng thái trúng độc từ các loại độc đẳng cấp Hạ cấp trở xuống.
+
+Giá: 20 đồng
+
+Dùng 2 bạc mua 20 bình MP thuốc, Đình Tấn muốn kéo dài thời gian triệu hồi thì phải có MP chống đỡ. Hiện tại tinh thần đã tăng lên giới hạn triệu hồi đã ở sát biên giới 5 con, chỉ một cấp nữa hắn có thể cùng lúc triệu hồi ra 5 con Bộ xương chiến sĩ. Giải quyết một con Panthiger cũng sẽ giảm bớt thời gian gần một nửa. Thế nên điều kiện tiên quyết là có đủ MP duy trì 5 con Bộ xương chiến sĩ. Không hể không bổ sung thêm đạn dược.
+
+Đồng thời hắn cũng mua thêm 5 bình giải độc phòng hờ. Hắn biết động vật xâm lấn trong đó có rất nhiều loài có độc. Không biết khi nào sẽ gặp phải, cũng không thể không đề phòng.
+
+Ameerah thì ngơ ngơ ngác ngác nhìn xung quanh, một ngày vừa qua Đình Tấn làm cho nàng có thói quen có Đình Tấn ở đây thì chẳng thèm quan tâm thứ gì, mọi thứ cứ để Đình Tấn lo. Có thể nói là xem Đình Tấn như một bảo mẫu vậy.
+
+Nhanh chóng tranh thủ thời gian chạy xuống phía nam ngôi làng. Đây là hạ du của con sông từ khu rừng tWvvjCe phía tây. Cách bờ sông khoảng 400m là một ngôi nhà gỗ. Một đứa bé đang ngồi chơi trước sân, cùng một phụ nữ trung niên đang chặt củi.
+
+Người chơi cũng có người đến ngươi đi không đông lắm. Dù sao ở khách sạn nghe được tin tức người cũng không nhiều. Chờ đợi mọi người tiếp nhiệm vụ rời đi. Đình Tấn tiến lại gần hỏi thăm:
+
+- Xin hỏi, đây có phải là nhà của thợ săn Carter không?
+
+Phụ nhân vẫn tiếp tục bổ củi, không ngước lên nhìn trả lời Đình Tấn:
+
+- Ngươi tìm chồng ta làm gì?
+
+Đình Tấn vội vàng trả lời: 
+
+- Ông chủ quán khách sạn nói hắn mấy hôm nay vẫn không thấy bóng dáng của Carter đâu. Hắn nói ngài có thể cần ta giúp đỡ.
+
+Phụ nữ trung niên tay đang giơ búa trên không trung lập tức khựng lại, giọng run run hỏi:
+
+- Ngươi nói Carter không có ở khách sạn?!
+
+Dừng một chút bà lại nói tiếp: 
+
+- Carter là một thợ săn giỏi, hắn thường đi săn ở cánh rừng phía bắc. Nơi đó có nhiều loài lợn rừng bán rất được giá. Thường thì hắn đi 2-3 ngày mới về nhà một lần. Mỗi ngày buổi tối đi săn về hắn sẽ ở lại khách sạn một đêm, nếu hắn không về khách sạn có lẽ đã gặp nguy hiểm. Dũng sĩ ngươi nguyện ý giúp ta đi tìm tung tích hăn không?
+
+Nói xong phụ nữ ánh mắt chờ mong nhìn lấy Đình Tấn:
+
+- Nguyện vì ngài ra sức. 
+
+Keng! – Tiếp nhận nhiệm vụ Tìm tung tích thợ săn Carter.
+
+Người Phụ nữ mỉm cười giọng nghẹn ngào:
+
+- Hi vọng Carter không gặp nguy hiểm, dũng sĩ xin mời ngài khẩn trương. Xong việc ta sẽ có hậu ta.
+
+Đình Tấn gật đầu nhanh chóng xoay người rời đi. Ameerah cũng nhanh chân theo sau, chạy nhanh đến khu rừng phía bắc.
+
+Gần một giờ sau, hai người bước chân đã đạp lên mảnh đất trong khu rừng phía bắc này. Nơi đây đại thu cao to hơn, ánh nắng cũng khó có thể xuyên vào làm cho không khí âm trầm, ẩm ướt hơn so với khu rừng phía tây. Xung quanh có người chơi chậm rãi đi vào luyện cấp, có người đi thám hiểm, có người làm nhiệm vụ đều đủ cả.
+
+Tại trên con đường mòn vào khu rừng, Đình Tấn phát hiện một mảnh vải màu xám cùng rất nhiều dấu chân. Chân của loài chó, cùng chân của người cũng có. Hắn nghĩ có lẽ đây là của Carter, cùng một đám hung thú sông theo bầy đàn tấn công.
+
+Đình Tấn lần theo dấu chân đi vào sâu phía trong, trên đường đi cây cỏ bị đè xuống bẻ gãy rất nhiều, cứ như một đám thú triều vừa vượt qua đây vậy. 
+
+Kì lạ một điều từ lúc phát hiện dấu chân đi vào khu vực này, Đình Tấn không hề phát hiện bóng một người nào. Hắn không hiểu vì sao dấu hiệu rất dễ bị phát hiện thế nhưng tại sao người chơi đi làm nhiệm vụ lại không thể phát hiện kia chứ. 
+
+Nhưng sự việc đến mức này, suy nghĩ phân tâm là điều không có ý nghĩa. Đình Tấn nhanh chóng vứt bỏ tạp niệm hướng phía trước mà đi. Ameerah lẽo đẽo theo sau, chậm trãi từng bước từng bước đi vào. Càng đi vào sâu phía trong Đình Tấn càng có cảm giác bồn chồn, khó chịu. “Lại có nguy hiểm sắp tới” – Đình Tấn suy nghĩ trong lòng.
+
+Hắn liền lấy pháp trượng triệu hồi ra một tên Bộ xương chiến sĩ. Ra lên cho tên Bộ xương chiến sĩ đi trước dẫn đường, Đình Tấn cùng Ameerah chấm rãi theo sau, tinh thần tập trung ở trạng thái cao nhất cảnh giới xung quanh.
+
+Bộ xương chiến sĩ (Sinh vật triệu hồi)
+
+Chủ nhân: The Dawn
+
+HP: 750/750
+
+MP: 0/0
+
+Sát thương vật lý: 49 – 54
+
+Phòng thủ vật lý: 2.9
+
+Phòng thủ ma pháp: 2.4
+
+Đình Tấn chỉ số gia tăng làm cho sức mạnh triệu hồi của Bộ xương chiến sĩ cũng gia tăng. Với lượng MP cùng khả năng khôi phục MP của Đình Tấn bây giờ, tiêu hao cho một tên Bộ xương chiến sĩ cũng chỉ có 13MP/s hắn có thể duy trì hơn 40 giây. Uống MP thuốc (Nhỏ) có thể giúp hắn duy trì liên tục không bị cắt đứt, chỉ là có hơi đốt tiền.
+
+Vượt qua một đoạn đường ngắn, Đình Tấn, Ameerah 2 người liền phát hiện phía đối diện hơn 20m, có một con giống như sói đang đứng trước một vách đá cảnh giới. Bên cạnh vách đã có khoảng hơn 20 hang động chỉ cao khoảng 1m – 1m5.
+
+Coywolf 
+
+Level: 8
+
+HP: 300/300
+
+Kỹ năng: Kêu gọi bầy đàn, cắn xé, vồ tới, truy tung.
+
+Giới thiệu: một loài thuộc giống chó, có dấu hiệu lai tạp giữa Loài sói đồng cỏ, cùng sói xám Bắc Mỹ. Sống theo bầy đàn, có sự phân biệt lãnh đạo rất cao. Đề nghị không nên đơn đấu.
+
+Khoảng cách cũng khá xa hơn 20m, nhưng Bộ xương chiến sĩ thân hình quá to lớn làm cho bọn Coywolf không muốn chú ý cũng không được. Đình Tấn biết đã bị phát hiện, nếu lao lên chắc chắn có khả năng sẽ rơi vào vòng vây của bọn Coywolf. 
+
+Hắn liền hướng Ameerah ra hiệu. Hai người nhanh chóng trèo lên một cây đại thụ gần đó. Kinh nghiệm chiến đấu với loài Coywolf này của Đình Tấn là không bao giờ nghĩ đến việc chạy. Chạy ngươi cũng không thoát khỏi sự truy tung của bọn nó kể cả khi ngươi có ẩn hình, trừ khi ngươi mọc cánh bay đi. 
+
+Hoặc là chơi diều bắn tỉa, tiêu diệt từng phần một hoặc là đứng lại tử chiến đến cùng. Nếu ngươi may mắn có thể đánh chết được con đầu đàn hoặc thực lực ngươi cao tiêu diệt hết bọn Coywolf vậy thì ngươi thoát nạn. Nếu không, vậy thì bỏ xác lại đi vì bọn Coywolf rất thù vặt nhớ dai.
+
+Trong lúc Ameerah đang trèo lên, Đình Tấn phía đứng dưới bắt đầu vung vẩy pháp trượng. Hắn muốn triệu hồi ra thêm 3 tên Bộ xương chiến sĩ. Bên cạnh đó hướng con Bộ xương chiến sĩ đi dò đường phía trước ra lệnh xông liên tiêu diệt con Coywolf.
+
+Con Coywolf vừa thấy Bộ xương chiến sĩ lao lên liền hướng lên trời tru một tiếng vang vọng cả khu vực. Sau đó cả khu vực hang động, vách đá bìa rừng đều vang vọng tiếng sói tru không dứt.
+
+Bộ xương chiến sĩ nhanh chóng tiếp cận với con Coywolf. Khiên đi phía trước lưỡi búa hướng phía sau súc lực. Con sói lao lên, khiên đón đỡ phía sau lưỡi búa quét ngang hướng đầu con Coywolf bổ tới. 
+
+“Ầm”
+
+-133
+
+Da mỏng thịt ít con Coywolf làm sao chịu nổi 1 đòn sát thương vào điểm yếu gấp 3 lần công kích của Bộ xương chiến sĩ. Liền ăn một búa vào đầu cắt giảm ngay gần một nửa thanh huyết của nó. Bộ xương chiến sĩ cũng không cho nó kịp thở, lại lao lên tấn công.
+
+Đình Tấn đứng phía xa vung vẩy pháp trượng vẽ ấn ký cùng đọc chú ngữ. Xung quanh tiếng chó sủa cùng tiếng bước chân dồn dập càng ngày càng nhiều như đang hối thúc hắn nhanh chóng hoàn thành triệu hoán. Nếu hắn không nhanh chân lên bị phát hiện, bao vây lại thì chắc chắn phải chết.
+
+EXP +95
+
+Ngay khi tên Bộ xương chiến sĩ phía trước vung lên một búa cuối cùng kết liễu sinh mệnh con Coywolf, Đình Tấn cũng vừa hoàn thành xong triệu hoán thuật. 
+
+Không kịp nhìn phép thuật đang được thi triển, Đình Tấn nhanh chóng cắm pháp trượng phía sau lưng, hai tay hai chân dùng sức leo lên cây. Hắn cũng không quên ra lệnh cho tên Bộ xương chiến sĩ lập tức quay trở lại cùng 3 tên khác tựa lưng vào đại thụ cố thủ.
+
+Khoảng hơn 60 con Coywolf ùa đến có lớn có nhỏ bao vây xung quanh 4 tên Bộ xương chiến sĩ sủa lên inh ỏi. Nhưng không con nào tấn công như là đang đợi lệnh.
+
+Tại xác con Coywolf vừa chết xuất hiện một con Coywolf thể hình to lớn hơn rõ rệt so với những con Coywolf khác, không hề thua kém con Panthiger Đình Tấn đã tiêu diệt hôm qua.
+
+Nó hướng phía xác con Coywolf vừa chết dùng đầu ủi ủi, dùng lưỡi liếm, sủa lên vài tiếng nhưng không có phản hồi. Nó biết con Coywolf này đã chết. Như là đau đơn nó hướng lên trời tru lên, trong tiếng tru có thể nghe được như có như không sự phẫn nộ cùng đau đớn của nó. 
+
+Ameerah ngồi trên cành cây phía trên cao nhìn xuống, trong lòng lo lắng thấp thỏm như ngồi trên chảo nóng. Nhìn Đình Tấn đang nhanh chóng leo lên, nàng hận không thể bay xuống kéo hắn lên cho nhanh.
+
+Bọn Coywolf nghe tiếng tru cũng lập tức hung mãnh hơn nhiều. Sủa lên inh ỏi sau đó bắt đầu lao vào tấn công bọn Bộ xương chiến sĩ.
+
+Đình Tấn vừa leo lên đến chỗ cành cây Ameerah đang ngồi. Nàng liền tiến lên hỏi giọng nói tràn ngập lo lắng:
+
+- Làm sao bây giờ Đình Tấn, bọn chúng đông quá. Ta có cần xuống dưới cận chiến với bọn chúng không?
+
+Đình Tấn đổ mồ hôi gấp rút nói:
+
+- Đừng lo lắng, bình tĩnh lại. Bọn Coywolf này không biết leo cây. Ngươi cẩn thận ngồi im đừng động mạnh. Cành cây này rất giòn, té xuống thì nguy hiểm nữa. Ngươi nếu mà leo xuống cận chiến, ta bảo đảm không đến 5 giây ngươi sẽ bị bọn chúng xé xác.
+
+Ameerah rốt cục yên tĩnh lại. Đình Tấn thở phào, đưa mắt nhìn sang con Coywolf to lớn bên kia Đình Tấn thầm nghĩ trong đầu “dò xét”:
+
+Coywolf (Thủ Lĩnh Boss)
+
+Cấp 12
+
+HP: 1450/1450
+
+Kỹ năng: Cuồng bạo, Kêu gọi bầy đàn, Cắn xé, Vồ tới, Gia tốc, Truy tung.
+
+Giới thiệu: Là thủ lĩnh của đàn Coywolf, được chọn ra từ trăm con Coywolf có thực lực mạnh nhất đàn. Khuyến nghị: Không nên đơn đấu nếu đẳng cấp thấp hơn.
+
+Đình Tấn hít một hơi lạnh. 12 cấp, hơn hẳn hắn hiện tại đến 4 cấp. Nếu là hắn trước kia, 1 vạn con này cũng không đủ cho hắn giết. Nhưng hiện tại thì khác, hắn đã không có sức mạnh của hắn trước kia.
+
+Trong lòng gấp rút suy nghĩ đối sách.

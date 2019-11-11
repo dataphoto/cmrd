@@ -1,0 +1,309 @@
+Chương 65: Kim sắc Metal Slug
+
+	Số hiệu: sv002ms
+
+	Tiếng Trung tên: Kim sắc Metal Slug.
+
+	Loại hình: Tấn công / áp chế / phá hư chiến xa.
+
+	Thân cao: 216cm. Toàn dài: 258cm toàn rộng: 227cm
+
+	Thiết giáp toàn nặng: 2850kg
+
+	Vũ trang: 127 mm chủ pháo (hoặc 127 mm đạn xuyên giáp armorpistol)
+
+	12. 6 mm súng đại liên (6 đạn thân)
+
+	Phân phối bom khói, pháo sáng, thiết giáp giá trị: 4.
+
+	Cao nhất nhảy lên lực 10 m. Tốc độ di chuyển cực nhanh, việt dã năng lực cực mạnh. Khống chế tính vô cùng tốt. Có thể kéo dài chạy khoảng cách, 50 cây số.
+
+	Biến hình công năng: Chưa mở ra.
+
+	Cơ thể có 5 lần phòng ngự tuyệt đối công năng, bản công năng mở ra về sau sẽ tại chiến xa mặt ngoài tạo ra một tầng cường hãn điện từ vòng bảo hộ, kẻ địch đối hắn tiến hành năm vị trí đầu lần bất luận cái gì công kích sẽ xuất hiện cưỡng chế hạn chế tổn thương 50 điểm hạn mức cao nhất hiệu quả.
+
+	Điện từ vòng bảo hộ bổ đầy thời gian là 60 phút đồng hồ, nếu có thể thu hoạch điện từ cung ứng rương, vòng bảo hộ sẽ trong nháy mắt bổ đầy.
+
+	Metal Slug (Metal Slug) có 4 cái loại hình, thí nghiệm bản sv000(màu đồng), tiêu chuẩn sv001(màu bạc), kèm theo bản sv001 II(màu vàng) cùng cường hóa bản sv002(kim sắc). Bản loại hình là nhất mới cường hóa phiên bản.
+
+	Vận chuyển cùng chiến đấu mục tiêu: Đưa vào bắc tuyến chiến trường lấy kiểm tra thật ra thì tế năng lực chiến đấu.
+
+	Emerson nhanh chóng theo bên cạnh trong hộp công cụ mặt lấy ra hé ra mã hóa kim sắc cỡ nhỏ CD, vội vàng giải mã về sau, sau đó nhét vào bên cạnh phát ra biểu thị khí dặm. Kể trên văn tự chính là Phương Lâm nhìn thấy nội dung.
+
+	Mà phía dưới còn có một nhóm giới thiệu, chính là dùng luân hồi giả mới có thể nhìn thấy màu trắng kiểu chữ viết thành:
+
+	Kim sắc Metal Slug (bao con nhộng). Cấp D hoàng kim đạo cụ . Sử dụng về sau sẽ thu hoạch được một cỗ kim sắc Metal Slug chiến xa. Bản đạo cụ chính là Metal Slug thế giới độc nhất. Không thể bị mang theo ra thế giới này, cũng có thể đổi lấy 50000 điểm tích lũy, 2 0 điểm điểm tiềm năng. Chiến xa điện từ vòng bảo hộ tiêu hao hết về sau, ngầm thừa nhận lực phòng ngự vì 7 0 điểm. Bền lâu giá trị (thể lực giá trị)400 0 điểm.
+
+	Chú thích: Bản chiến xa vì thí nghiệm tính chiến xa, cơ thể bên trong lắp đặt có uy lực mạnh mẽ siêu cấp bom. Chiến xa động cơ phát động sau liền bắt đầu đếm ngược, 1 sau 20 phút bùng nổ, hoàn toàn đem cơ thể phá hư.
+
+	Phương Lâm yên lặng nhìn chăm chú trong tay đầu kia hào quang màu đen tinh thể, cái chìa khóa này giống như Kim Cương Đen đồng dạng phát ra óng ánh lung linh ánh sáng, tựa hồ tại dụ hoặc lấy Phương Lâm mau sớm làm ra bản thân lựa chọn. Theo chìa khoá trong đó phun trào năng lượng bên trong liền có thể cảm giác được, Emerson cũng không hề nói dối, cái chìa khóa này bên trong một chút tài liệu thật là vô cùng hiếm có. Bởi vậy đúng là không cách nào phục chế.
+
+	"Như vậy b số nhà kho đây đâu?" Phó bỉ ổi mặc dù tham lam, nhưng cũng là dị thường chi khôn khéo, lập tức không đợi Phương Lâm nói chuyện, liền lên tiếng dò hỏi.
+
+	Emerson khóe miệng co giật một chút, cười khan nói:
+
+	"b số trong kho hàng đồ vật đã bị Varof dời trống. . . . Hắn chính là bởi vì buôn lậu xong mới đem cửa đụng hỏng để cho ta tới sửa chữa."
+
+	Phương Lâm nhẹ nhàng lung lay ngón tay, mỉm cười nói:
+
+	"Nói dối thói quen cũng không tốt nha. Nếu như b số trong kho hàng là trống không, như vậy ngươi khổ tâm chuẩn bị kỹ, nghĩ kĩ phối cái chìa khóa này đi ra làm cái gì? Chẳng lẽ là muốn đem a số trong kho hàng cái này đại gia hỏa mang đi ư?"
+
+	Emerson há hốc mồm lại nói không ra lời nói đến, hắn trong lúc nhất thời trong đầu đổi qua rất nhiều cái cớ. Nhưng đều tại Phương Lâm mỉm cười trước mặt không chỗ che thân. Emerson trước đến giờ đều không có cảm thấy tại ánh mắt của người khác nhìn gần phía dưới, nói dối là gian nan như vậy một việc! Mấy lần há miệng sau vẫn là muốn nói lại thôi, nhưng cuối cùng chán nản ngay tại chỗ lôi kéo tóc nói:
+
+	"Tốt a, bên trong không chỉ có bày đặt Varof vội vàng theo trên thuyền chạy trốn thời điểm sót lại đến, muốn giữ lại về nhà buôn lậu hàng. Còn có ms hình Ất loại thuốc dạng xịt. Đây là do quân đội sinh hóa công trình bộ tập hợp ba năm kỹ thuật lực lượng mở rộng mà ra kiểu mới sinh hóa thuốc, chuyên môn lấy ra chế ước người ngoài hành tinh cùng Morden phản quân khả năng nghiên cứu ra cường hãn sinh thể binh khí. Trước mắt đang đi vào chiến trường kiểm tra sưu tập số liệu giai đoạn."
+
+	Phương Lâm thử dò xét nói:
+
+	"Cái này ms hình Ất loại thuốc dạng xịt tác dụng là?"
+
+	"Khống chế." Emerson vẻ mặt tựa hồ có chút không có ý tứ."Thấp liều lượng lời nói, có thể tạm thời khống chế sinh vật đi vì tư tưởng, đem biến thành nô bộc. Nếu là liều lượng dùng nhiều, như vậy thì sẽ dẫn đến mãi mãi không thể nghịch khống chế hiệu quả."
+
+	"Hình như là gia cường phiên bản bản cường lực Ma Mị thuật?" Phương Lâm đang tại trầm ngâm."Sách hướng dẫn đâu?"
+
+	Emerson nhún nhún vai:
+
+	"Cùng thuốc đặt chung một chỗ, nhất định phải sử dụng chìa khoá mở cửa về sau mới có thể nhìn thấy."
+
+	Lúc này Phó bỉ ổi miệng đã mở đến thật to, thật dài "Nha. . . . ." một tiếng, chỉ vào Emerson bừng tỉnh hiểu ra hét lớn:
+
+	"Ta hiểu được, ngươi khẳng định là muốn trộm một bình đi ra, pha loãng về sau tới mê gian nữ nhân!"
+
+	Emerson tâm sự bị nói thẳng ra, thẹn quá hoá giận tức đến nổ phổi mà nói:
+
+	"Fuck! Ngươi nói láo!"
+
+	Nói liền nhào tới muốn cùng Phó bỉ ổi liều mạng. Hai người lập tức đánh nhau ở cùng một chỗ, hai người kia sức chiến đấu cũng có thể bị sơ sót mức độ, coi là trạch nam bên trong trạch nam, cực phẩm trong cực phẩm, có thể đánh đến kịch liệt tới trình độ nào? Chẳng qua hai người đánh lộn mấy quyền, lập tức phát giác động thủ đều không chiếm được lợi ích đi, từ từ liền bắt đầu thần thương khẩu chiến, Phó bỉ ổi cố nhiên là thao thao bất tuyệt dẫn chứng phong phú. Emerson cũng là tại trong chính phủ loại trừ lấy vô lại nổi tiếng bên ngoài. Diễn thuyết cũng là nhất lưu. Hai người "Giao thủ" quả nhiên là ô ngôn uế ngữ tầng tầng lớp lớp, tập hợp Trung Tây mắng người đại thành. Coi là kỳ phùng địch thủ tương ngộ lương tài. Rất nhanh liền quay đánh lẫn nhau mắng lấy lấy được ngoài mật thất mặt khúc quanh phía sau đi.
+
+	Hai người uốn éo đánh qua góc tường, ngoài miệng không ngừng chút nào, Phó bỉ ổi vừa mắng, một bên nhưng nhổ ngụm nước, cầm chân thấm trên mặt đất cấp tốc viết chữ:
+
+	"Ta xx mẹ ngươi. . . . . (viết chữ: Thật ra thì cái kia thuốc ta cũng muốn. . . ) "
+
+	Emerson há hốc mồm, biểu lộ đầu tiên là tức giận, sau đó kinh ngạc, sau đó xem thường, cuối cùng là ngầm hiểu, học theo, trong miệng tiếp tục mắng:
+
+	"Fuckyour sister. . . . (viết chữ: Vậy ngươi phải khuyên hắn chọn cái này ah. Các ngươi không biết cách dùng, tuyển dùng đến đều sẽ mất đi hiệu lực. )
+
+	". . . . ."
+
+	Phương Lâm lúc này không có chú ý đến cái này hai đại tiện nhân ở sau lưng đem những này làm chuyện mờ ám, lén lút, nhưng cau mày lâm vào trầm tư, mở cái nào nhà kho cửa lớn? a vẫn là b? Không hề nghi ngờ, nếu là lựa chọn a về sau, bộ kia hoàng kim Metal Slug chiến xa chắc chắn có thể cực lớn hạ thấp qua ải độ khó. Không khách khí nói, cuối cùng phá huỷ bộ kia bạch tuộc hình tự đi cự pháo độ khó nếu như là s lời nói, có cái này biến thái chiến xa. Độ khó liền sẽ kịch xuống tới cấp B tin tưởng nếu là Lôi giả tới, không chút do dự liền muốn nó.
+
+	Thế nhưng là Phương Lâm không phải Lôi giả! Hắn không có nhất định muốn mười phần chắc chín hoàn thành nhiệm vụ này ý tứ. Nhưng mà b số kho bảo hiểm bên trong cái này ms hình Ất loại thuốc dạng xịt nghe Emerson giới thiệu sau liền có thể đánh giá ra, hắn công năng có lẽ có bộ phận cùng cường lực Ma Mị thuật chồng chéo. Khó giải quyết nhất, chính là không có giống như a số kho bảo hiểm bên trong đối chiếc kia hoàng kim chiến xa nói rõ chi tiết!
+
+	Phương Lâm trầm tư thật lâu, cuối cùng đưa bàn tay ra, không chút do dự dựa theo Emerson nói tới phương pháp, đem cái kia thanh như Kim Cương Đen đồng dạng óng ánh sáng chói chìa khoá trải phẳng tại trên lòng bàn tay. Cái chìa khóa này chế tạo đến vô cùng tinh xảo, có thể tưởng tượng muốn mở ra khóa cũng hẳn là là bực nào phức tạp tỉ mỉ chính xác!
+
+	Phương Lâm đột nhiên dùng sức nắm chặt. Trong không khí truyền đến "Đùng" một tiếng vang nhỏ, cái kia hẹp dài kim cương cũng tựa như chìa khoá màu đen mặt ngoài, xuất hiện vô số tinh mịn vết rạn. Sau đó theo kẽ ngón tay ở giữa tản mát ra ngoài, lưu loát tại dưới ánh đèn huyễn hóa thành một tiểu trận mười phần mê huyễn xinh đẹp mưa ánh sáng.
+
+	Chìa khoá bên trong. . . . Lại là một hạt thoạt nhìn rất tinh xảo màu trắng vật thể. Nhìn qua rung động có chút, tựa như là một cái vừa mới bị lột đi vỏ trứng chim cút. Non mịn, bóng loáng. Nhưng mà nó mặt ngoài nhưng có thật nhiều khe hở, thoạt nhìn tựa như là rất nhiều máy móc linh kiện tổ hợp mà thành.
+
+	Phương Lâm cho dù trong lòng đã sớm chuẩn bị, nhưng vẫn là có chút ngạc nhiên. Đối trước đây chỗ không thấy "Chìa khoá" thực sự có chút không nghĩ ra cảm giác, thử hỏi nếu là bị ngoại nhân trộm đi, khẳng định là tư duy theo quán tính đem "Chìa khoá" bỏ vào trong lỗ khóa đi. Cái này bịt lại phía dưới kết quả sẽ rất khó nói.
+
+	Phương Lâm đem trải phẳng lấy vật kia bàn tay từ phía dưới xích lại gần lỗ khóa, nơi đó có một cái không chú ý xem thì dễ dàng xem nhẹ, nhưng mà chú ý xem liền tương đối rõ ràng khắc độ. Phương Lâm bàn tay liền vừa mới kề sát tại khắc độ phía trên. Không nhiều một điểm không ít một điểm. Hắn lập tức cảm thấy khắc độ nơi đó có đồ vật hơi hơi co rụt lại, hiển nhiên xúc động cái gì trang bị.
+
+	Ổ khóa đột nhiên bị "Cách cách" một tiếng trực tiếp phá! Trên không trung liền linh kiện bay loạn, rơi xuống đất liền ào ào tản đi, xem ra không phải nhân sĩ chuyên nghiệp lắp ráp lên đều khá khó khăn. Cho dù Phương Lâm lúc trước suy nghĩ qua vô số khả năng, nhưng cũng không có nghĩ đến vậy mà lại có như thế phóng đãng chuyện phát sinh, trong lòng lập tức hiện ra buồn cười vô cùng, cảm giác dở khóc dở cười, cái này chính mình coi trọng đi vô cùng thần bí trân nặng chi khóa, nguyên lai là nhẹ nhàng đụng một cái liền đi. . . Nếu không phải cái này kín kho chung quanh ngăn cách tinh thần lực dò xét, bản thân cũng không trở thành gây ra bậc này Ô Long!
+
+	Thế nhưng là Phương Lâm khóe môi một tia thả lỏng lập tức liền ngưng kết trên mặt! Hắn đột nhiên cảm thấy một cỗ cảm giác cực kỳ nguy hiểm truyền tới, ngay tại thần kinh của hắn căn bản không có làm ra phản ứng thời điểm. Cùng nhau mãnh liệt đến lóa mắt. Ngưng tụ tới cực chí laser theo trước mặt hắn xuyên bắn tới, dường như là theo trong vách tường diễn sinh ra đến chỗ này một con rắn. Lại tại trong chốc lát chui tiến đối diện!
+
+	Cái kia chùm bằng phẳng màu trắng laser liền sát kề Phương Lâm lòng bàn tay bắn tới, vừa lúc đem hắn lòng bàn tay trong đó chìa khoá bên trong lưu lại tới đoàn kia màu trắng vật thể bốc hơi! Toát ra một đoàn như có thực chất khói mù. Phương Lâm tay nếu là thả phía trên một chút, tay liền nhất định không có, thủ hạ đi một chút, thì phát động đạo này laser ròng rã phải tích súc năng lượng 24 giờ sau mới có thể sử dụng!
+
+	Đoàn kia như có thực chất khói mù lượn lờ trôi nổi mà lên, tại cái kia rơi xuống lỗ khóa chỗ bị hút vào, sau đó cánh cửa thứ nhất từ từ trượt ra, lộ ra bên trong đạo thứ hai bóng loáng nội môn, nội môn dường như là lấy màn hình tinh thể lỏng chế tạo làm, phía trên không ngừng biến ảo chớp động lên đủ loại con số, xem bộ dáng là tại đối hút vào khói mù thành phần làm cẩn thận phân tích. Một khi có chỗ sai lầm, khổng lồ tàu ngầm bên trong hạch nhân lò phản ứng liền sẽ phát sinh kịch liệt bùng nổ!
+
+	"Phân tích đo lường thông qua. . . ."
+
+	"Hai trăm mười ba loại thành phần chuẩn xác, ăn khớp tốc độ 100%. . . ."
+
+	"Cửa lớn sẽ tại 10 giây sau thuận lợi mở ra."
+
+	Phương Lâm đối với chìa khoá có hay không giả tạo được thành công ngược lại là nửa điểm đều không có lo lắng tự yêu lặng yên sinh loại người này, khả năng đem cái mạng nhỏ của mình lấy ra đùa giỡn hay sao? Nếu là cái này chìa khoá có 0. 00000001 thất bại tỷ lệ, hắn khẳng định đều sẽ không chút do dự chạy trốn mới là hạch nhân lò phản ứng sắp vỡ, tất cả mọi người không có sống.
+
+	Bóng loáng nếu có máy bay thủy tinh cửa lớn trượt ra về sau, lộ ra. . . .
+
+	Một đống lớn bao tải
+
+	Còn thẩm thấu ra đại lượng nước đi ra, trong không khí quanh quẩn gay mũi mùi tanh. Còn có một cỗ nồng đậm mùi thối.
+
+	"Bà mẹ nó!" Phó bỉ ổi cũng rất là im lặng nhịn không được che cái mũi mắng to: "Varof trong đầu giả bộ tất cả đều là mỡ ư? Cầm quân đội chính phủ cấp bậc cao nhất trước vào tàu ngầm buôn lậu ngược lại cũng thôi, vậy mà tại trong này chất đầy cá chết! Con cá này là làm bằng vàng vẫn là kim cương làm?"
+
+	Emerson cũng sắc mặt cổ quái đi lên giật ra một cái bao tải nhìn một chút, cầm chân đá đá, lại không cam lòng cầm lấy một đầu từ trên xuống dưới tả tả hữu hữu nhìn xem quả nhiên là cá chết. Vẫn là đã bắt đầu bốc mùi hư thối!
+
+	Emerson xanh cả mặt rốt cục chịu đựng không nổi bên trong mùi chạy ra ngoài oa oa đại thổ, mà tiểu Phó mặc dù còn che cái mũi, nhưng cầm hai cái đầu ngón tay nhặt đuôi cá, cật lực nâng bụng cá đem hư thối đi đầu kia cá lớn ném vào bản thân một cái vải bố túi lớn bên trong, tính toán tỉ mỉ vô sỉ nói:
+
+	"Con cá này vào chỗ chết thả chút muối lại ướp hung ác chút. Nói không chừng cũng có thể ăn, cùng lắm thì ta coi như ăn chao."
+
+	Phương Lâm mỉm cười, trong lòng của hắn mặc dù biết tất nhiên có chút kỳ lạ, nhưng mà làm chính sự quan trọng, mình lúc này thế nhưng là đang đào quân đội chính phủ góc tường, mặc dù tại đây tàu ngầm bên trên thế nhưng là nói là hô phong hoán vũ, chỉ khi nào bị tuần tra người ở cái địa phương này bắt cái hiện hành cũng là không được tốt, coi như không đến mức trở mặt tại chỗ. Cùng quân đội chính phủ trở mặt nhưng có khả năng ảnh hưởng đến hoàn thành nhiệm vụ chính tuyến hai đánh giá.
+
+	Ngay sau đó Phương Lâm hai chân đem cái kia mấy chồng buồn nôn vô cùng bao tải đá văng ra về sau, kéo ra cùng nhau thiên nga đen nhung màn vải, có thể gặp đến nội thất có một cái ngang ngực đài cao, phía trên an tĩnh nằm một cái màu bạc trắng rương kim loại, Phương Lâm hai tay để lên nhẹ nhàng nhấn một cái. Mở ra về sau nhìn thấy bên trong trắng như tuyết nhung lụa dưới đáy bày đặt một cái tinh mỹ súng gây mê, bên cạnh còn có ba nhánh ống tiêm, bên trong chất lỏng đỏ tươi như máu, đậm đặc đến tựa hồ tại dựng dục cái gì giống như. Dường như còn tại lấy nhịp tim nhịp lay động động, cho người cảm giác là bên trong giống như nhộn nhạo vô hạn sinh cơ!
+
+	Phương Lâm cầm lên bên cạnh chế tác tinh mỹ sách hướng dẫn:
+
+	"ms hình Ất loại thuốc dạng xịt: Cấp D hoàng kim đạo cụ, giới hạn tại tại Metal Slug trong thế giới sử dụng, không thể mang ra thế giới này. . . . ."
+
+	. . . .
+
+	Chú thích: Mười ngày về sau, Phó bỉ ổi quay về không gian, chuyện thứ nhất đương nhiên là hướng nương tử Mỹ Mỹ khoe khoang bản thân vớt trở về béo bở. . . . Bắt đầu còn tốt, kết quả soạt một tiếng đổ ra một đầu xú khí huân thiên to béo cá chết! Đem vừa mới kéo sạch sẽ sàn nhà làm cho rối tinh rối mù, có bệnh thích sạch sẽ Mỹ Mỹ tự nhiên là mày liễu dựng thẳng. Mắt hạnh trợn lên, sư tử Hà Đông rống, gia pháp hầu hạ. Khó khăn phạt xong, Phó bỉ ổi mày ủ mặt ê bóp mũi lại, tới thu thập cá chết chuẩn bị vứt bỏ, kết quả cá chết bụng quá xấu thấu, một dùng lực phía dưới bóp trượt tay hoàn toàn phá vỡ, thế mà trượt xuống đi ra một mặt màu hồng phấn bên trong mang theo vân trắng xinh đẹp vỏ sò!
+
+	Mặc dù tại hư thối bụng cá bên trong ngây người rất lâu. Thậm chí liền vỏ sò bản thân cũng nát thấu. Nhưng mà vỏ sò mặt ngoài hoa văn mười phần ôn nhu, nếp nhăn tung hoa văn vô cùng khéo léo. Tựa như là một bộ hàng mỹ nghệ đồng dạng. Thích sạch sẽ Mỹ Mỹ sang đây xem đến cũng không lo được mùi thối, gặp mười phần ưa thích. Nàng liền lấy được trong phòng bếp đi rửa mổ. . . , tính toán loại trừ thối về sau, lấy ra làm hộp son phấn, nhưng đao một chút, vỏ sò bên trong lại lăn xuống ra một viên chiếu lấp lánh kim sắc trân châu!
+
+	Chưa qua bao lâu, Phó bỉ ổi trong phòng ngủ truyền đến gào khóc thanh âm:
+
+	"Đã từng có một cái trở thành nhà giàu mới nổi cơ hội đặt ở trước mặt ta, ta không có trân quý. . . . . Ba bao tải ah! Ba đại bao tải ah! !"
+
+	Trở xuống là hai thì theo Metal Slug thế giới tin tức truyền đến:
+
+	. . . . Thiếu tướng Varof hôm nay chịu thẩm, bị toà án quân sự lấy không làm tròn trách nhiệm tội, buôn lậu tội, lạm dụng chức quyền tội phán xử tử hình, lập tức xử bắn. Cư tất cái kia tội phạm tại giữ chức khổng lồ tàu ngầm hope số thuyền trưởng trong lúc đó, lợi dụng chức vụ chi tiện hướng phản quân thổ dân bán ra súng ống đạn dược, đường về thời điểm thuận tiện lấy cực kỳ rẻ tiền giá cả thu mua nơi đó đặc sản mang theo trở về.
+
+	BBd đài truyền hình 《 mỗi ngày tin tức 》
+
+	. . . Cùng cá Lam Ba cộng sinh trai Phấn Hồng, đương cá Lam Ba ăn no về sau, liền ưa thích mở ra miệng rộng để một loại vô cùng tốt ngụy trang, hành động nhanh chóng cỡ nhỏ sò hến trai Phấn Hồng bò vào trong miệng dọn dẹp đồ ăn tro cặn. Bởi vậy ngư dân liền lợi dụng khó mà bắt giữ trai Phấn Hồng loại này tập tính, dùng cá Lam Ba làm mồi nhử tới tiến hành đi săn. Từ đó thu hoạch được trai Phấn Hồng trong cơ thể kim trân châu. Bởi vậy trai Phấn Hồng đã gần như diệt tuyệt, một viên kim trân châu giá cả đã tăng vọt đến so kim cương giá cả còn cao nhất lần không hợp thói thường tình trạng.Chương 65: Kim sắc Metal Slug
+
+	Số hiệu: sv002ms
+
+	Tiếng Trung tên: Kim sắc Metal Slug.
+
+	Loại hình: Tấn công / áp chế / phá hư chiến xa.
+
+	Thân cao: 216cm. Toàn dài: 258cm toàn rộng: 227cm
+
+	Thiết giáp toàn nặng: 2850kg
+
+	Vũ trang: 127 mm chủ pháo (hoặc 127 mm đạn xuyên giáp armorpistol)
+
+	12. 6 mm súng đại liên (6 đạn thân)
+
+	Phân phối bom khói, pháo sáng, thiết giáp giá trị: 4.
+
+	Cao nhất nhảy lên lực 10 m. Tốc độ di chuyển cực nhanh, việt dã năng lực cực mạnh. Khống chế tính vô cùng tốt. Có thể kéo dài chạy khoảng cách, 50 cây số.
+
+	Biến hình công năng: Chưa mở ra.
+
+	Cơ thể có 5 lần phòng ngự tuyệt đối công năng, bản công năng mở ra về sau sẽ tại chiến xa mặt ngoài tạo ra một tầng cường hãn điện từ vòng bảo hộ, kẻ địch đối hắn tiến hành năm vị trí đầu lần bất luận cái gì công kích sẽ xuất hiện cưỡng chế hạn chế tổn thương 50 điểm hạn mức cao nhất hiệu quả.
+
+	Điện từ vòng bảo hộ bổ đầy thời gian là 60 phút đồng hồ, nếu có thể thu hoạch điện từ cung ứng rương, vòng bảo hộ sẽ trong nháy mắt bổ đầy.
+
+	Metal Slug (Metal Slug) có 4 cái loại hình, thí nghiệm bản sv000(màu đồng), tiêu chuẩn sv001(màu bạc), kèm theo bản sv001 II(màu vàng) cùng cường hóa bản sv002(kim sắc). Bản loại hình là nhất mới cường hóa phiên bản.
+
+	Vận chuyển cùng chiến đấu mục tiêu: Đưa vào bắc tuyến chiến trường lấy kiểm tra thật ra thì tế năng lực chiến đấu.
+
+	Emerson nhanh chóng theo bên cạnh trong hộp công cụ mặt lấy ra hé ra mã hóa kim sắc cỡ nhỏ CD, vội vàng giải mã về sau, sau đó nhét vào bên cạnh phát ra biểu thị khí dặm. Kể trên văn tự chính là Phương Lâm nhìn thấy nội dung.
+
+	Mà phía dưới còn có một nhóm giới thiệu, chính là dùng luân hồi giả mới có thể nhìn thấy màu trắng kiểu chữ viết thành:
+
+	Kim sắc Metal Slug (bao con nhộng). Cấp D hoàng kim đạo cụ . Sử dụng về sau sẽ thu hoạch được một cỗ kim sắc Metal Slug chiến xa. Bản đạo cụ chính là Metal Slug thế giới độc nhất. Không thể bị mang theo ra thế giới này, cũng có thể đổi lấy 50000 điểm tích lũy, 2 0 điểm điểm tiềm năng. Chiến xa điện từ vòng bảo hộ tiêu hao hết về sau, ngầm thừa nhận lực phòng ngự vì 7 0 điểm. Bền lâu giá trị (thể lực giá trị)400 0 điểm.
+
+	Chú thích: Bản chiến xa vì thí nghiệm tính chiến xa, cơ thể bên trong lắp đặt có uy lực mạnh mẽ siêu cấp bom. Chiến xa động cơ phát động sau liền bắt đầu đếm ngược, 1 sau 20 phút bùng nổ, hoàn toàn đem cơ thể phá hư.
+
+	Phương Lâm yên lặng nhìn chăm chú trong tay đầu kia hào quang màu đen tinh thể, cái chìa khóa này giống như Kim Cương Đen đồng dạng phát ra óng ánh lung linh ánh sáng, tựa hồ tại dụ hoặc lấy Phương Lâm mau sớm làm ra bản thân lựa chọn. Theo chìa khoá trong đó phun trào năng lượng bên trong liền có thể cảm giác được, Emerson cũng không hề nói dối, cái chìa khóa này bên trong một chút tài liệu thật là vô cùng hiếm có. Bởi vậy đúng là không cách nào phục chế.
+
+	"Như vậy b số nhà kho đây đâu?" Phó bỉ ổi mặc dù tham lam, nhưng cũng là dị thường chi khôn khéo, lập tức không đợi Phương Lâm nói chuyện, liền lên tiếng dò hỏi.
+
+	Emerson khóe miệng co giật một chút, cười khan nói:
+
+	"b số trong kho hàng đồ vật đã bị Varof dời trống. . . . Hắn chính là bởi vì buôn lậu xong mới đem cửa đụng hỏng để cho ta tới sửa chữa."
+
+	Phương Lâm nhẹ nhàng lung lay ngón tay, mỉm cười nói:
+
+	"Nói dối thói quen cũng không tốt nha. Nếu như b số trong kho hàng là trống không, như vậy ngươi khổ tâm chuẩn bị kỹ, nghĩ kĩ phối cái chìa khóa này đi ra làm cái gì? Chẳng lẽ là muốn đem a số trong kho hàng cái này đại gia hỏa mang đi ư?"
+
+	Emerson há hốc mồm lại nói không ra lời nói đến, hắn trong lúc nhất thời trong đầu đổi qua rất nhiều cái cớ. Nhưng đều tại Phương Lâm mỉm cười trước mặt không chỗ che thân. Emerson trước đến giờ đều không có cảm thấy tại ánh mắt của người khác nhìn gần phía dưới, nói dối là gian nan như vậy một việc! Mấy lần há miệng sau vẫn là muốn nói lại thôi, nhưng cuối cùng chán nản ngay tại chỗ lôi kéo tóc nói:
+
+	"Tốt a, bên trong không chỉ có bày đặt Varof vội vàng theo trên thuyền chạy trốn thời điểm sót lại đến, muốn giữ lại về nhà buôn lậu hàng. Còn có ms hình Ất loại thuốc dạng xịt. Đây là do quân đội sinh hóa công trình bộ tập hợp ba năm kỹ thuật lực lượng mở rộng mà ra kiểu mới sinh hóa thuốc, chuyên môn lấy ra chế ước người ngoài hành tinh cùng Morden phản quân khả năng nghiên cứu ra cường hãn sinh thể binh khí. Trước mắt đang đi vào chiến trường kiểm tra sưu tập số liệu giai đoạn."
+
+	Phương Lâm thử dò xét nói:
+
+	"Cái này ms hình Ất loại thuốc dạng xịt tác dụng là?"
+
+	"Khống chế." Emerson vẻ mặt tựa hồ có chút không có ý tứ."Thấp liều lượng lời nói, có thể tạm thời khống chế sinh vật đi vì tư tưởng, đem biến thành nô bộc. Nếu là liều lượng dùng nhiều, như vậy thì sẽ dẫn đến mãi mãi không thể nghịch khống chế hiệu quả."
+
+	"Hình như là gia cường phiên bản bản cường lực Ma Mị thuật?" Phương Lâm đang tại trầm ngâm."Sách hướng dẫn đâu?"
+
+	Emerson nhún nhún vai:
+
+	"Cùng thuốc đặt chung một chỗ, nhất định phải sử dụng chìa khoá mở cửa về sau mới có thể nhìn thấy."
+
+	Lúc này Phó bỉ ổi miệng đã mở đến thật to, thật dài "Nha. . . . ." một tiếng, chỉ vào Emerson bừng tỉnh hiểu ra hét lớn:
+
+	"Ta hiểu được, ngươi khẳng định là muốn trộm một bình đi ra, pha loãng về sau tới mê gian nữ nhân!"
+
+	Emerson tâm sự bị nói thẳng ra, thẹn quá hoá giận tức đến nổ phổi mà nói:
+
+	"Fuck! Ngươi nói láo!"
+
+	Nói liền nhào tới muốn cùng Phó bỉ ổi liều mạng. Hai người lập tức đánh nhau ở cùng một chỗ, hai người kia sức chiến đấu cũng có thể bị sơ sót mức độ, coi là trạch nam bên trong trạch nam, cực phẩm trong cực phẩm, có thể đánh đến kịch liệt tới trình độ nào? Chẳng qua hai người đánh lộn mấy quyền, lập tức phát giác động thủ đều không chiếm được lợi ích đi, từ từ liền bắt đầu thần thương khẩu chiến, Phó bỉ ổi cố nhiên là thao thao bất tuyệt dẫn chứng phong phú. Emerson cũng là tại trong chính phủ loại trừ lấy vô lại nổi tiếng bên ngoài. Diễn thuyết cũng là nhất lưu. Hai người "Giao thủ" quả nhiên là ô ngôn uế ngữ tầng tầng lớp lớp, tập hợp Trung Tây mắng người đại thành. Coi là kỳ phùng địch thủ tương ngộ lương tài. Rất nhanh liền quay đánh lẫn nhau mắng lấy lấy được ngoài mật thất mặt khúc quanh phía sau đi.
+
+	Hai người uốn éo đánh qua góc tường, ngoài miệng không ngừng chút nào, Phó bỉ ổi vừa mắng, một bên nhưng nhổ ngụm nước, cầm chân thấm trên mặt đất cấp tốc viết chữ:
+
+	"Ta xx mẹ ngươi. . . . . (viết chữ: Thật ra thì cái kia thuốc ta cũng muốn. . . ) "
+
+	Emerson há hốc mồm, biểu lộ đầu tiên là tức giận, sau đó kinh ngạc, sau đó xem thường, cuối cùng là ngầm hiểu, học theo, trong miệng tiếp tục mắng:
+
+	"Fuckyour sister. . . . (viết chữ: Vậy ngươi phải khuyên hắn chọn cái này ah. Các ngươi không biết cách dùng, tuyển dùng đến đều sẽ mất đi hiệu lực. )
+
+	". . . . ."
+
+	Phương Lâm lúc này không có chú ý đến cái này hai đại tiện nhân ở sau lưng đem những này làm chuyện mờ ám, lén lút, nhưng cau mày lâm vào trầm tư, mở cái nào nhà kho cửa lớn? a vẫn là b? Không hề nghi ngờ, nếu là lựa chọn a về sau, bộ kia hoàng kim Metal Slug chiến xa chắc chắn có thể cực lớn hạ thấp qua ải độ khó. Không khách khí nói, cuối cùng phá huỷ bộ kia bạch tuộc hình tự đi cự pháo độ khó nếu như là s lời nói, có cái này biến thái chiến xa. Độ khó liền sẽ kịch xuống tới cấp B tin tưởng nếu là Lôi giả tới, không chút do dự liền muốn nó.
+
+	Thế nhưng là Phương Lâm không phải Lôi giả! Hắn không có nhất định muốn mười phần chắc chín hoàn thành nhiệm vụ này ý tứ. Nhưng mà b số kho bảo hiểm bên trong cái này ms hình Ất loại thuốc dạng xịt nghe Emerson giới thiệu sau liền có thể đánh giá ra, hắn công năng có lẽ có bộ phận cùng cường lực Ma Mị thuật chồng chéo. Khó giải quyết nhất, chính là không có giống như a số kho bảo hiểm bên trong đối chiếc kia hoàng kim chiến xa nói rõ chi tiết!
+
+	Phương Lâm trầm tư thật lâu, cuối cùng đưa bàn tay ra, không chút do dự dựa theo Emerson nói tới phương pháp, đem cái kia thanh như Kim Cương Đen đồng dạng óng ánh sáng chói chìa khoá trải phẳng tại trên lòng bàn tay. Cái chìa khóa này chế tạo đến vô cùng tinh xảo, có thể tưởng tượng muốn mở ra khóa cũng hẳn là là bực nào phức tạp tỉ mỉ chính xác!
+
+	Phương Lâm đột nhiên dùng sức nắm chặt. Trong không khí truyền đến "Đùng" một tiếng vang nhỏ, cái kia hẹp dài kim cương cũng tựa như chìa khoá màu đen mặt ngoài, xuất hiện vô số tinh mịn vết rạn. Sau đó theo kẽ ngón tay ở giữa tản mát ra ngoài, lưu loát tại dưới ánh đèn huyễn hóa thành một tiểu trận mười phần mê huyễn xinh đẹp mưa ánh sáng.
+
+	Chìa khoá bên trong. . . . Lại là một hạt thoạt nhìn rất tinh xảo màu trắng vật thể. Nhìn qua rung động có chút, tựa như là một cái vừa mới bị lột đi vỏ trứng chim cút. Non mịn, bóng loáng. Nhưng mà nó mặt ngoài nhưng có thật nhiều khe hở, thoạt nhìn tựa như là rất nhiều máy móc linh kiện tổ hợp mà thành.
+
+	Phương Lâm cho dù trong lòng đã sớm chuẩn bị, nhưng vẫn là có chút ngạc nhiên. Đối trước đây chỗ không thấy "Chìa khoá" thực sự có chút không nghĩ ra cảm giác, thử hỏi nếu là bị ngoại nhân trộm đi, khẳng định là tư duy theo quán tính đem "Chìa khoá" bỏ vào trong lỗ khóa đi. Cái này bịt lại phía dưới kết quả sẽ rất khó nói.
+
+	Phương Lâm đem trải phẳng lấy vật kia bàn tay từ phía dưới xích lại gần lỗ khóa, nơi đó có một cái không chú ý xem thì dễ dàng xem nhẹ, nhưng mà chú ý xem liền tương đối rõ ràng khắc độ. Phương Lâm bàn tay liền vừa mới kề sát tại khắc độ phía trên. Không nhiều một điểm không ít một điểm. Hắn lập tức cảm thấy khắc độ nơi đó có đồ vật hơi hơi co rụt lại, hiển nhiên xúc động cái gì trang bị.
+
+	Ổ khóa đột nhiên bị "Cách cách" một tiếng trực tiếp phá! Trên không trung liền linh kiện bay loạn, rơi xuống đất liền ào ào tản đi, xem ra không phải nhân sĩ chuyên nghiệp lắp ráp lên đều khá khó khăn. Cho dù Phương Lâm lúc trước suy nghĩ qua vô số khả năng, nhưng cũng không có nghĩ đến vậy mà lại có như thế phóng đãng chuyện phát sinh, trong lòng lập tức hiện ra buồn cười vô cùng, cảm giác dở khóc dở cười, cái này chính mình coi trọng đi vô cùng thần bí trân nặng chi khóa, nguyên lai là nhẹ nhàng đụng một cái liền đi. . . Nếu không phải cái này kín kho chung quanh ngăn cách tinh thần lực dò xét, bản thân cũng không trở thành gây ra bậc này Ô Long!
+
+	Thế nhưng là Phương Lâm khóe môi một tia thả lỏng lập tức liền ngưng kết trên mặt! Hắn đột nhiên cảm thấy một cỗ cảm giác cực kỳ nguy hiểm truyền tới, ngay tại thần kinh của hắn căn bản không có làm ra phản ứng thời điểm. Cùng nhau mãnh liệt đến lóa mắt. Ngưng tụ tới cực chí laser theo trước mặt hắn xuyên bắn tới, dường như là theo trong vách tường diễn sinh ra đến chỗ này một con rắn. Lại tại trong chốc lát chui tiến đối diện!
+
+	Cái kia chùm bằng phẳng màu trắng laser liền sát kề Phương Lâm lòng bàn tay bắn tới, vừa lúc đem hắn lòng bàn tay trong đó chìa khoá bên trong lưu lại tới đoàn kia màu trắng vật thể bốc hơi! Toát ra một đoàn như có thực chất khói mù. Phương Lâm tay nếu là thả phía trên một chút, tay liền nhất định không có, thủ hạ đi một chút, thì phát động đạo này laser ròng rã phải tích súc năng lượng 24 giờ sau mới có thể sử dụng!
+
+	Đoàn kia như có thực chất khói mù lượn lờ trôi nổi mà lên, tại cái kia rơi xuống lỗ khóa chỗ bị hút vào, sau đó cánh cửa thứ nhất từ từ trượt ra, lộ ra bên trong đạo thứ hai bóng loáng nội môn, nội môn dường như là lấy màn hình tinh thể lỏng chế tạo làm, phía trên không ngừng biến ảo chớp động lên đủ loại con số, xem bộ dáng là tại đối hút vào khói mù thành phần làm cẩn thận phân tích. Một khi có chỗ sai lầm, khổng lồ tàu ngầm bên trong hạch nhân lò phản ứng liền sẽ phát sinh kịch liệt bùng nổ!
+
+	"Phân tích đo lường thông qua. . . ."
+
+	"Hai trăm mười ba loại thành phần chuẩn xác, ăn khớp tốc độ 100%. . . ."
+
+	"Cửa lớn sẽ tại 10 giây sau thuận lợi mở ra."
+
+	Phương Lâm đối với chìa khoá có hay không giả tạo được thành công ngược lại là nửa điểm đều không có lo lắng tự yêu lặng yên sinh loại người này, khả năng đem cái mạng nhỏ của mình lấy ra đùa giỡn hay sao? Nếu là cái này chìa khoá có 0. 00000001 thất bại tỷ lệ, hắn khẳng định đều sẽ không chút do dự chạy trốn mới là hạch nhân lò phản ứng sắp vỡ, tất cả mọi người không có sống.
+
+	Bóng loáng nếu có máy bay thủy tinh cửa lớn trượt ra về sau, lộ ra. . . .
+
+	Một đống lớn bao tải
+
+	Còn thẩm thấu ra đại lượng nước đi ra, trong không khí quanh quẩn gay mũi mùi tanh. Còn có một cỗ nồng đậm mùi thối.
+
+	"Bà mẹ nó!" Phó bỉ ổi cũng rất là im lặng nhịn không được che cái mũi mắng to: "Varof trong đầu giả bộ tất cả đều là mỡ ư? Cầm quân đội chính phủ cấp bậc cao nhất trước vào tàu ngầm buôn lậu ngược lại cũng thôi, vậy mà tại trong này chất đầy cá chết! Con cá này là làm bằng vàng vẫn là kim cương làm?"
+
+	Emerson cũng sắc mặt cổ quái đi lên giật ra một cái bao tải nhìn một chút, cầm chân đá đá, lại không cam lòng cầm lấy một đầu từ trên xuống dưới tả tả hữu hữu nhìn xem quả nhiên là cá chết. Vẫn là đã bắt đầu bốc mùi hư thối!
+
+	Emerson xanh cả mặt rốt cục chịu đựng không nổi bên trong mùi chạy ra ngoài oa oa đại thổ, mà tiểu Phó mặc dù còn che cái mũi, nhưng cầm hai cái đầu ngón tay nhặt đuôi cá, cật lực nâng bụng cá đem hư thối đi đầu kia cá lớn ném vào bản thân một cái vải bố túi lớn bên trong, tính toán tỉ mỉ vô sỉ nói:
+
+	"Con cá này vào chỗ chết thả chút muối lại ướp hung ác chút. Nói không chừng cũng có thể ăn, cùng lắm thì ta coi như ăn chao."
+
+	Phương Lâm mỉm cười, trong lòng của hắn mặc dù biết tất nhiên có chút kỳ lạ, nhưng mà làm chính sự quan trọng, mình lúc này thế nhưng là đang đào quân đội chính phủ góc tường, mặc dù tại đây tàu ngầm bên trên thế nhưng là nói là hô phong hoán vũ, chỉ khi nào bị tuần tra người ở cái địa phương này bắt cái hiện hành cũng là không được tốt, coi như không đến mức trở mặt tại chỗ. Cùng quân đội chính phủ trở mặt nhưng có khả năng ảnh hưởng đến hoàn thành nhiệm vụ chính tuyến hai đánh giá.
+
+	Ngay sau đó Phương Lâm hai chân đem cái kia mấy chồng buồn nôn vô cùng bao tải đá văng ra về sau, kéo ra cùng nhau thiên nga đen nhung màn vải, có thể gặp đến nội thất có một cái ngang ngực đài cao, phía trên an tĩnh nằm một cái màu bạc trắng rương kim loại, Phương Lâm hai tay để lên nhẹ nhàng nhấn một cái. Mở ra về sau nhìn thấy bên trong trắng như tuyết nhung lụa dưới đáy bày đặt một cái tinh mỹ súng gây mê, bên cạnh còn có ba nhánh ống tiêm, bên trong chất lỏng đỏ tươi như máu, đậm đặc đến tựa hồ tại dựng dục cái gì giống như. Dường như còn tại lấy nhịp tim nhịp lay động động, cho người cảm giác là bên trong giống như nhộn nhạo vô hạn sinh cơ!
+
+	Phương Lâm cầm lên bên cạnh chế tác tinh mỹ sách hướng dẫn:
+
+	"ms hình Ất loại thuốc dạng xịt: Cấp D hoàng kim đạo cụ, giới hạn tại tại Metal Slug trong thế giới sử dụng, không thể mang ra thế giới này. . . . ."
+
+	. . . .
+
+	Chú thích: Mười ngày về sau, Phó bỉ ổi quay về không gian, chuyện thứ nhất đương nhiên là hướng nương tử Mỹ Mỹ khoe khoang bản thân vớt trở về béo bở. . . . Bắt đầu còn tốt, kết quả soạt một tiếng đổ ra một đầu xú khí huân thiên to béo cá chết! Đem vừa mới kéo sạch sẽ sàn nhà làm cho rối tinh rối mù, có bệnh thích sạch sẽ Mỹ Mỹ tự nhiên là mày liễu dựng thẳng. Mắt hạnh trợn lên, sư tử Hà Đông rống, gia pháp hầu hạ. Khó khăn phạt xong, Phó bỉ ổi mày ủ mặt ê bóp mũi lại, tới thu thập cá chết chuẩn bị vứt bỏ, kết quả cá chết bụng quá xấu thấu, một dùng lực phía dưới bóp trượt tay hoàn toàn phá vỡ, thế mà trượt xuống đi ra một mặt màu hồng phấn bên trong mang theo vân trắng xinh đẹp vỏ sò!
+
+	Mặc dù tại hư thối bụng cá bên trong ngây người rất lâu. Thậm chí liền vỏ sò bản thân cũng nát thấu. Nhưng mà vỏ sò mặt ngoài hoa văn mười phần ôn nhu, nếp nhăn tung hoa văn vô cùng khéo léo. Tựa như là một bộ hàng mỹ nghệ đồng dạng. Thích sạch sẽ Mỹ Mỹ sang đây xem đến cũng không lo được mùi thối, gặp mười phần ưa thích. Nàng liền lấy được trong phòng bếp đi rửa mổ. . . , tính toán loại trừ thối về sau, lấy ra làm hộp son phấn, nhưng đao một chút, vỏ sò bên trong lại lăn xuống ra một viên chiếu lấp lánh kim sắc trân châu!
+
+	Chưa qua bao lâu, Phó bỉ ổi trong phòng ngủ truyền đến gào khóc thanh âm:
+
+	"Đã từng có một cái trở thành nhà giàu mới nổi cơ hội đặt ở trước mặt ta, ta không có trân quý. . . . . Ba bao tải ah! Ba đại bao tải ah! !"
+
+	Trở xuống là hai thì theo Metal Slug thế giới tin tức truyền đến:
+
+	. . . . Thiếu tướng Varof hôm nay chịu thẩm, bị toà án quân sự lấy không làm tròn trách nhiệm tội, buôn lậu tội, lạm dụng chức quyền tội phán xử tử hình, lập tức xử bắn. Cư tất cái kia tội phạm tại giữ chức khổng lồ tàu ngầm hope số thuyền trưởng trong lúc đó, lợi dụng chức vụ chi tiện hướng phản quân thổ dân bán ra súng ống đạn dược, đường về thời điểm thuận tiện lấy cực kỳ rẻ tiền giá cả thu mua nơi đó đặc sản mang theo trở về.
+
+	BBd đài truyền hình 《 mỗi ngày tin tức 》
+
+	. . . Cùng cá Lam Ba cộng sinh trai Phấn Hồng, đương cá Lam Ba ăn no về sau, liền ưa thích mở ra miệng rộng để một loại vô cùng tốt ngụy trang, hành động nhanh chóng cỡ nhỏ sò hến trai Phấn Hồng bò vào trong miệng dọn dẹp đồ ăn tro cặn. Bởi vậy ngư dân liền lợi dụng khó mà bắt giữ trai Phấn Hồng loại này tập tính, dùng cá Lam Ba làm mồi nhử tới tiến hành đi săn. Từ đó thu hoạch được trai Phấn Hồng trong cơ thể kim trân châu. Bởi vậy trai Phấn Hồng đã gần như diệt tuyệt, một viên kim trân châu giá cả đã tăng vọt đến so kim cương giá cả còn cao nhất lần không hợp thói thường tình trạng.

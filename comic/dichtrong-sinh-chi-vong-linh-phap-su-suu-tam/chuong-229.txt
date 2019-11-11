@@ -1,0 +1,397 @@
+Lão Tim vừa nghe thấy có tiếng thét thì không khỏi giật mình nhìn lại. Trông thấy vài tên hacker đang tụ tập nói chuyện với nhau thì không khỏi có chút tò mò.
+
+Đợi cho mọi người quay trở lại làm việc, hắn mới tiến lại gần tên hacker vừa hét lên kia hỏi thăm.
+
+- “Có chuyện gì vậy?”
+
+Tên hacker nghe phía sau mình truyền lại giọng nói già nua thì giật bắn người, vội vàng nhìn lại. Thấy người đang hỏi là ông lão Tim quản gia, hắn vội vàng trình báo lại tình hình.
+
+- “Dạ không có gì. Là có hacker khác đánh trả lại ta mà thôi. Ta sẽ nhanh chóng giải quyết hắn.”
+
+Lão quản gia Tim nghe cái hiểu cái không, tuy nhiên hắn cũng nắm được ý chính là bị người phản công rồi. Liền hắn không khỏi nghĩ đến đám người [The Alliance].
+
+Bất quá hiện tại đã không phải là lĩnh vực mà hắn có thể nhúng tay nên chỉ đành đứng đó tiếp tục quan sát xem tình hình thế nào.
+
+‘Rầm!’
+
+Một tiếng đập bàn vang lên, ngay sau đó liên tục có những tiếng chửi rủa từ khắp nơi trong căn phòng dưới tầng hầm này.
+
+- “Khốn kiếp! Có người quấy rối…”
+
+- “Hic… Tao cũng vừa mất ‘Gà’ đây.”
+
+- “Mẹ kiếp, lúc nãy không cẩn thận bị dính lại ‘Malware’ với mã độc rồi…”
+
+*Gà, Malware: virus có chứa mã độc để ăn cắp thông tin…
+
+…
+
+Lão Tim nhíu chặt đôi chân mày có chút không hiểu đám người này đang nói cái gì. Lão ta vội vàng chạy lại gần một tên thanh niên khoảng 30 tuổi, có vẻ như là người cầm đầu của đám người hacker này hỏi thăm.
+
+- “Làm sao vậy? Có chuyện gì xảy ra?”
+
+Tên thanh niên này đang tập trung gõ phím, mắt không rời khỏi màn hình, giọng nói có chút thâm trầm trả lời.
+
+- “Chúng ta bị đột kích! Số lượng người rất đông, chắc có hơn gấp đôi quân số của chúng ta, mà kỹ thuật của bọn họ cũng không kém.”
+
+Trông thấy thái độ của tên thanh niên này không để ý đến mình như vậy, lão Tim vẫn không hề có ý kiến gì nhiều, chỉ là có chút bất ngờ và lo lắng khi nghe lời của hắn vừa nói.
+
+Nhưng chưa dừng lại tại đó, tên thanh niên này lại tiếp tục quăng ra một quả bom nặng ký khác nữa.
+
+- “Chúng ta có thể đã bị lộ vị trí rồi. Đối phương thực lực quá mạnh không thể chống đỡ, rất có thể là người của chính phủ đấy. Bây giờ phải rút thôi, nếu như ngươi không muốn bị tóm.”
+
+Hắn giọng nói rất gấp gáp, vừa gõ phím liên tục vừa nói. Ngay sau khi vừa nhập một dòng lệnh cuối cùng rồi bấm nút xác nhận gửi đi, hắn vội vàng đứng bật người dậy, xoay lưng chạy đến lối ra của tầng hầm. Rõ ràng là hắn muốn nhanh chóng rút khỏi nơi này.
+
+Trong căn phòng dưới tầng hầm dường như cũng đã có nhiều người đoán ra được chuyện này rồi. Ngay khi gã thanh niên đó đứng dậy rời đi thì lập tức có mấy người cũng lục tục, thay phiên nhau rời máy vi tính rồi chạy ra khỏi tầng hầm.
+
+Thấy vậy thì lão Tim cũng có chút hoảng sợ, hắn vội vàng kéo lại một tên ngồi bên cạnh gã thanh niên này hỏi thăm.
+
+- “Có chuyện gì vậy? Sao ai cũng chạy? Chẳng lẽ đụng phải cảnh sát an ninh mạng?”
+
+Gã thanh niên này vội vàng nhập lệnh gì đó lên máy tính, sau đó bấm gửi đi, toàn bộ những thông tin trên màn hình lập tức bị xóa đi. Lúc này hắn mới đứng lên, hướng về lão Tim gấp gáp nói.
+
+- “Chúng ta bị lộ vị trí. Cuộc tấn công này rất nhiều người tham gia, nên khả năng an ninh mạng can thiệp vào là rất cao. Bây giờ tốt nhất là nên rời đi khỏi nơi này thôi. Nhờ chú thu xếp cho mấy anh em còn lại nhé.”
+
+Nói đoạn, hắn lập tức lách người tránh qua lão Tim rồi nhanh chân chạy ra khỏi lối thoát của tầng hầm. 
+
+Ngay sau đó hơn 10 người còn lại trong phòng cũng bắt đầu xóa dữ liệu, cùng với những dấu vết dễ nhận biết FeoOrYCu như vân tay đã lưu lại trên máy tính rồi nhanh chân rời đi.
+
+Ông lão quản gia cũ có chút chột dạ và lo lắng, hắn nhìn quanh căn phòng tầng hầm trống không này một lúc sau đó mới nhanh chân chạy đến lối ra.
+
+Không đến 15 phút sau, hơn 6 chiếc xe cảnh sát nối đuôi nhau chạy đến, bao vây trước cổng của căn biệt thự này lại.
+
+Thân ảnh quen thuộc của Báo Đen cũng xuất hiện, không nhanh không chậm bước ra khỏi một chiếc xe cảnh sát rồi đảo mắt nhìn xung quanh quan cảnh của căn biệt thự này.
+
+- “Chỉ huy trưởng, có cần gọi thêm người không?”
+
+Một tên cảnh sát, dáng người có chút béo mập bước đến bên cạnh Báo Đen rồi hỏi nhỏ hắn.
+
+Báo Đen âm thầm lắc nhẹ đầu một cái, hắn rảo bước đi chậm đến cổng của căn biệt thự. Tên cảnh sát béo mật cũng nhanh chóng đi theo.
+
+Đảo mắt nhìn xuống những rãnh sâu trên mặt đất, Báo Đen âm thầm thở dài một hơi, chậm rãi nói.
+
+- “Không cần gọi người nữa, bọn chúng chạy hết từ lâu rồi. Gọi người vào trong kiểm tra căn biệt thự rồi tịch thu tang vật đi.”
+
+Chỉ nhìn mấy cái rãnh sâu do cánh cổng sắt ma sát với mặt đất tạo ra, cùng với phương hướng mà lớp đất này dồn lại, Báo Đen đã suy đoán ra được đám người trong biệt thự đã rời đi. 
+
+Tuy rằng không biết thời gian rời đi là lúc nào thế nhưng trước khi đến đây Báo Đen đã có điều tra sơ qua. Nơi này là một khu biệt thự ở vùng ngoại ô hẻo lánh, được một người không rõ danh tính mua lại từ lâu và người đứng tên căn nhà này cũng đã chuyển đi nước ngoài sinh sống. 
+
+Thế nên muốn truy lùng tung tích của một nhóm người quả thật là điều không thể, mà Báo Đen cũng chỉ hi vọng có thể bắt được một số manh mối từ trong căn biệt thự này mà thôi.
+
+- “Rõ! Thưa chỉ huy.”
+
+Tên cảnh sát hô lớn một tiếng rồi nhanh chóng chạy đi gọi người vào khám xét căn biệt thự.
+
+Cũng may cho lão quản gia Tim cùng với đám thuộc hạ hacker của hắn đã nhanh chân rời đi trước nếu không là bọn họ đã bị bắt đi rồi.
+
+Rất nhanh sau đó thì đám cảnh sát trở ra, gã mập mạp cảnh sát lúc nãy lại tiến tới trước mặt của Báo Đen rồi báo cáo.
+
+- “Không có phát hiện gì ngoài một nhóm khoảng 26 cái máy tính thưa chỉ huy. Bây giờ chúng ta phải làm sao?”
+
+Báo Đen nghe xong gương mặt không khỏi trở nên trầm trọng thêm. Trong đầu không khỏi chửi thầm. 
+
+- ‘Đám người này thật là xảo quyệt mà… đúng là dân chuyên nghiệp có khác, đến cả vân tay cũng không để lại. Haiz… người anh em à, anh cũng chỉ có thể giúp chú đến đây thôi…’
+
+Nghĩ đến những chuyện rắc rối mà hắn đang gặp phải, Báo Đen không khỏi thở một hơi dài chán ngán. 
+
+Hiện tại thời gian đã là gần 6 giờ tối rồi. Nếu tính toán thời gian trong game thì có lẽ đã trải qua một ngày một đêm mà hắn vẫn chưa thể liên lạc với Đình Tấn. Điều này làm cho hắn cũng đã có chút lo lắng rồi. 
+
+Báo Đen âm thầm lắc đầu, nhanh chóng lên xe quay trở về cục an ninh mạng báo cáo với Thiếu Tướng Mark chuyện ở căn biệt thự này.
+
+Hắn tuy là dưới quyền chỉ huy của lão Tướng Quân Jack trong Bộ quốc phòng, nhưng dù sao lần này cũng là phối hợp hành động với Bộ phận an ninh quốc gia, cho nên việc báo cáo mục tiêu hành động là phải làm.
+
+…
+
+Cùng lúc đó, ở tại văn phòng làm việc của trụ sở [The Alliance], lão Marc và đoàn đội của hắn thì đang vui vẻ, hớn hở ăn mừng.
+
+Nguyên nhân cũng chính là bởi vì bọn họ vừa phá giải được toàn bộ công kích trên mạng của kẻ địch, nên những tài khoản, mạng và máy tính bị khóa trước đó đều được khôi phục lại như cũ.
+
+Trước đó, lão Marc cũng không nghĩ rằng cả đoàn đội chỉ vài người của mình lại có thể thành công ngăn chặn được đối phương, chứ nói chi là đến việc đánh bại bọn họ.
+
+Bởi vì lúc hắn hỏi thăm khắp nơi trong nhóm tuyên truyền và nhân viên dưới tay của mình thì chỉ tìm một người hacker trẻ tuổi. Chính hắn lại nhờ vả thêm 9 người bạn khác của mình thành lập nên một nhóm phòng thủ, chống lại sự tấn công qua mạng của đối phương.
+
+Khởi đầu, cả đội cũng không thể làm được gì nhiều, chỉ có thể bị động phòng thủ, liên tục bị đối phương vùi dập, công kích không thương tiếc. 
+
+Nhưng đến sau đó, không biết từ đâu xuất hiện một nhóm hacker khác cũng rất đông, đứng ra bảo vệ trợ giúp bọn họ phản công. Nhờ vậy mà nhóm của lão Marc mới thành công thủ vững rồi đánh trả lại kẻ địch.
+
+Bây giờ, trên diễn đàn cũng đang bắt đầu dậy sóng vì chuyện có hacker xâm nhập tài khoản của rất nhiều người chơi. 
+
+Nương theo chiều gió này, lão Marc liền nắm bắt lấy cơ hội, ra lệnh cho đám tuyên truyền viên dùng tin tức này phân tán sự chú ý của mọi người trong nước Entire Land khỏi sự kiện lỗi game và gian lận của Đình Tấn.
+
+Tuy rằng chỉ làm kìm hãm được tốc độ lan truyền của tin đồn xấu một chút, thế nhưng bấy nhiêu đó cũng đã là quá đủ với hắn rồi.
+
+Lão Marc không kìm chế được kích động trong lòng, cặp vai ôm lấy một tên thanh niên bên cạnh liên mồm tán thưởng hắn.
+
+- “Hay lắm! Làm tốt lắm Tim. Cám ơn ngươi cùng với mấy anh em trong đội của ngươi nhiều lắm. Sau chuyện này ta nhất định sẽ về báo cáo lại với Uyên quản lý.”
+
+Tên thiếu niên gọi Tim kia có chút xấu hổ, đưa tay gãi gãi sau đầu ngượng ngùng nói.
+
+- “Chú Marc quá khen. Ta chỉ thành công chặn được công kích của một người thôi. Đối phương nhất định là còn có rất nhiều người ở phía sau nữa. Chúng ta lần này may mắn nhờ có người hỗ trợ nên mới có khả năng đẩy lùi được sự công kích của bọn họ mà thôi.”
+
+Lão Marc nghe xong không nói gì, chỉ cười lớn một tiếng liên tục vỗ vai Tim. Lão tuy là nghe không hiểu Tim đang nói gì, nhưng ít nhất cũng biết sơ sơ là lần này có người giúp đỡ [The Alliance] bọn họ mà thôi.
+
+Nhưng lão cũng không nghĩ quá nhiều về chuyện này, vì chỉ cần thoát khỏi được kiếp nạn bây giờ là đã quá đủ rồi.Lão Tim vừa nghe thấy có tiếng thét thì không khỏi giật mình nhìn lại. Trông thấy vài tên hacker đang tụ tập nói chuyện với nhau thì không khỏi có chút tò mò.
+
+Đợi cho mọi người quay trở lại làm việc, hắn mới tiến lại gần tên hacker vừa hét lên kia hỏi thăm.
+
+- “Có chuyện gì vậy?”
+
+Tên hacker nghe phía sau mình truyền lại giọng nói già nua thì giật bắn người, vội vàng nhìn lại. Thấy người đang hỏi là ông lão Tim quản gia, hắn vội vàng trình báo lại tình hình.
+
+- “Dạ không có gì. Là có hacker khác đánh trả lại ta mà thôi. Ta sẽ nhanh chóng giải quyết hắn.”
+
+Lão quản gia Tim nghe cái hiểu cái không, tuy nhiên hắn cũng nắm được ý chính là bị người phản công rồi. Liền hắn không khỏi nghĩ đến đám người [The Alliance].
+
+Bất quá hiện tại đã không phải là lĩnh vực mà hắn có thể nhúng tay nên chỉ đành đứng đó tiếp tục quan sát xem tình hình thế nào.
+
+‘Rầm!’
+
+Một tiếng đập bàn vang lên, ngay sau đó liên tục có những tiếng chửi rủa từ khắp nơi trong căn phòng dưới tầng hầm này.
+
+- “Khốn kiếp! Có người quấy rối…”
+
+- “Hic… Tao cũng vừa mất ‘Gà’ đây.”
+
+- “Mẹ kiếp, lúc nãy không cẩn thận bị dính lại ‘Malware’ với mã độc rồi…”
+
+*Gà, Malware: virus có chứa mã độc để ăn cắp thông tin…
+
+…
+
+Lão Tim nhíu chặt đôi chân mày có chút không hiểu đám người này đang nói cái gì. Lão ta vội vàng chạy lại gần một tên thanh niên khoảng 30 tuổi, có vẻ như là người cầm đầu của đám người hacker này hỏi thăm.
+
+- “Làm sao vậy? Có chuyện gì xảy ra?”
+
+Tên thanh niên này đang tập trung gõ phím, mắt không rời khỏi màn hình, giọng nói có chút thâm trầm trả lời.
+
+- “Chúng ta bị đột kích! Số lượng người rất đông, chắc có hơn gấp đôi quân số của chúng ta, mà kỹ thuật của bọn họ cũng không kém.”
+
+Trông thấy thái độ của tên thanh niên này không để ý đến mình như vậy, lão Tim vẫn không hề có ý kiến gì nhiều, chỉ là có chút bất ngờ và lo lắng khi nghe lời của hắn vừa nói.
+
+Nhưng chưa dừng lại tại đó, tên thanh niên này lại tiếp tục quăng ra một quả bom nặng ký khác nữa.
+
+- “Chúng ta có thể đã bị lộ vị trí rồi. Đối phương thực lực quá mạnh không thể chống đỡ, rất có thể là người của chính phủ đấy. Bây giờ phải rút thôi, nếu như ngươi không muốn bị tóm.”
+
+Hắn giọng nói rất gấp gáp, vừa gõ phím liên tục vừa nói. Ngay sau khi vừa nhập một dòng lệnh cuối cùng rồi bấm nút xác nhận gửi đi, hắn vội vàng đứng bật người dậy, xoay lưng chạy đến lối ra của tầng hầm. Rõ ràng là hắn muốn nhanh chóng rút khỏi nơi này.
+
+Trong căn phòng dưới tầng hầm dường như cũng đã có nhiều người đoán ra được chuyện này rồi. Ngay khi gã thanh niên đó đứng dậy rời đi thì lập tức có mấy người cũng lục tục, thay phiên nhau rời máy vi tính rồi chạy ra khỏi tầng hầm.
+
+Thấy vậy thì lão Tim cũng có chút hoảng sợ, hắn vội vàng kéo lại một tên ngồi bên cạnh gã thanh niên này hỏi thăm.
+
+- “Có chuyện gì vậy? Sao ai cũng chạy? Chẳng lẽ đụng phải cảnh sát an ninh mạng?”
+
+Gã thanh niên này vội vàng nhập lệnh gì đó lên máy tính, sau đó bấm gửi đi, toàn bộ những thông tin trên màn hình lập tức bị xóa đi. Lúc này hắn mới đứng lên, hướng về lão Tim gấp gáp nói.
+
+- “Chúng ta bị lộ vị trí. Cuộc tấn công này rất nhiều người tham gia, nên khả năng an ninh mạng can thiệp vào là rất cao. Bây giờ tốt nhất là nên rời đi khỏi nơi này thôi. Nhờ chú thu xếp cho mấy anh em còn lại nhé.”
+
+Nói đoạn, hắn lập tức lách người tránh qua lão Tim rồi nhanh chân chạy ra khỏi lối thoát của tầng hầm. 
+
+Ngay sau đó hơn 10 người còn lại trong phòng cũng bắt đầu xóa dữ liệu, cùng với những dấu vết dễ nhận biết FeoOrYCu như vân tay đã lưu lại trên máy tính rồi nhanh chân rời đi.
+
+Ông lão quản gia cũ có chút chột dạ và lo lắng, hắn nhìn quanh căn phòng tầng hầm trống không này một lúc sau đó mới nhanh chân chạy đến lối ra.
+
+Không đến 15 phút sau, hơn 6 chiếc xe cảnh sát nối đuôi nhau chạy đến, bao vây trước cổng của căn biệt thự này lại.
+
+Thân ảnh quen thuộc của Báo Đen cũng xuất hiện, không nhanh không chậm bước ra khỏi một chiếc xe cảnh sát rồi đảo mắt nhìn xung quanh quan cảnh của căn biệt thự này.
+
+- “Chỉ huy trưởng, có cần gọi thêm người không?”
+
+Một tên cảnh sát, dáng người có chút béo mập bước đến bên cạnh Báo Đen rồi hỏi nhỏ hắn.
+
+Báo Đen âm thầm lắc nhẹ đầu một cái, hắn rảo bước đi chậm đến cổng của căn biệt thự. Tên cảnh sát béo mật cũng nhanh chóng đi theo.
+
+Đảo mắt nhìn xuống những rãnh sâu trên mặt đất, Báo Đen âm thầm thở dài một hơi, chậm rãi nói.
+
+- “Không cần gọi người nữa, bọn chúng chạy hết từ lâu rồi. Gọi người vào trong kiểm tra căn biệt thự rồi tịch thu tang vật đi.”
+
+Chỉ nhìn mấy cái rãnh sâu do cánh cổng sắt ma sát với mặt đất tạo ra, cùng với phương hướng mà lớp đất này dồn lại, Báo Đen đã suy đoán ra được đám người trong biệt thự đã rời đi. 
+
+Tuy rằng không biết thời gian rời đi là lúc nào thế nhưng trước khi đến đây Báo Đen đã có điều tra sơ qua. Nơi này là một khu biệt thự ở vùng ngoại ô hẻo lánh, được một người không rõ danh tính mua lại từ lâu và người đứng tên căn nhà này cũng đã chuyển đi nước ngoài sinh sống. 
+
+Thế nên muốn truy lùng tung tích của một nhóm người quả thật là điều không thể, mà Báo Đen cũng chỉ hi vọng có thể bắt được một số manh mối từ trong căn biệt thự này mà thôi.
+
+- “Rõ! Thưa chỉ huy.”
+
+Tên cảnh sát hô lớn một tiếng rồi nhanh chóng chạy đi gọi người vào khám xét căn biệt thự.
+
+Cũng may cho lão quản gia Tim cùng với đám thuộc hạ hacker của hắn đã nhanh chân rời đi trước nếu không là bọn họ đã bị bắt đi rồi.
+
+Rất nhanh sau đó thì đám cảnh sát trở ra, gã mập mạp cảnh sát lúc nãy lại tiến tới trước mặt của Báo Đen rồi báo cáo.
+
+- “Không có phát hiện gì ngoài một nhóm khoảng 26 cái máy tính thưa chỉ huy. Bây giờ chúng ta phải làm sao?”
+
+Báo Đen nghe xong gương mặt không khỏi trở nên trầm trọng thêm. Trong đầu không khỏi chửi thầm. 
+
+- ‘Đám người này thật là xảo quyệt mà… đúng là dân chuyên nghiệp có khác, đến cả vân tay cũng không để lại. Haiz… người anh em à, anh cũng chỉ có thể giúp chú đến đây thôi…’
+
+Nghĩ đến những chuyện rắc rối mà hắn đang gặp phải, Báo Đen không khỏi thở một hơi dài chán ngán. 
+
+Hiện tại thời gian đã là gần 6 giờ tối rồi. Nếu tính toán thời gian trong game thì có lẽ đã trải qua một ngày một đêm mà hắn vẫn chưa thể liên lạc với Đình Tấn. Điều này làm cho hắn cũng đã có chút lo lắng rồi. 
+
+Báo Đen âm thầm lắc đầu, nhanh chóng lên xe quay trở về cục an ninh mạng báo cáo với Thiếu Tướng Mark chuyện ở căn biệt thự này.
+
+Hắn tuy là dưới quyền chỉ huy của lão Tướng Quân Jack trong Bộ quốc phòng, nhưng dù sao lần này cũng là phối hợp hành động với Bộ phận an ninh quốc gia, cho nên việc báo cáo mục tiêu hành động là phải làm.
+
+…
+
+Cùng lúc đó, ở tại văn phòng làm việc của trụ sở [The Alliance], lão Marc và đoàn đội của hắn thì đang vui vẻ, hớn hở ăn mừng.
+
+Nguyên nhân cũng chính là bởi vì bọn họ vừa phá giải được toàn bộ công kích trên mạng của kẻ địch, nên những tài khoản, mạng và máy tính bị khóa trước đó đều được khôi phục lại như cũ.
+
+Trước đó, lão Marc cũng không nghĩ rằng cả đoàn đội chỉ vài người của mình lại có thể thành công ngăn chặn được đối phương, chứ nói chi là đến việc đánh bại bọn họ.
+
+Bởi vì lúc hắn hỏi thăm khắp nơi trong nhóm tuyên truyền và nhân viên dưới tay của mình thì chỉ tìm một người hacker trẻ tuổi. Chính hắn lại nhờ vả thêm 9 người bạn khác của mình thành lập nên một nhóm phòng thủ, chống lại sự tấn công qua mạng của đối phương.
+
+Khởi đầu, cả đội cũng không thể làm được gì nhiều, chỉ có thể bị động phòng thủ, liên tục bị đối phương vùi dập, công kích không thương tiếc. 
+
+Nhưng đến sau đó, không biết từ đâu xuất hiện một nhóm hacker khác cũng rất đông, đứng ra bảo vệ trợ giúp bọn họ phản công. Nhờ vậy mà nhóm của lão Marc mới thành công thủ vững rồi đánh trả lại kẻ địch.
+
+Bây giờ, trên diễn đàn cũng đang bắt đầu dậy sóng vì chuyện có hacker xâm nhập tài khoản của rất nhiều người chơi. 
+
+Nương theo chiều gió này, lão Marc liền nắm bắt lấy cơ hội, ra lệnh cho đám tuyên truyền viên dùng tin tức này phân tán sự chú ý của mọi người trong nước Entire Land khỏi sự kiện lỗi game và gian lận của Đình Tấn.
+
+Tuy rằng chỉ làm kìm hãm được tốc độ lan truyền của tin đồn xấu một chút, thế nhưng bấy nhiêu đó cũng đã là quá đủ với hắn rồi.
+
+Lão Marc không kìm chế được kích động trong lòng, cặp vai ôm lấy một tên thanh niên bên cạnh liên mồm tán thưởng hắn.
+
+- “Hay lắm! Làm tốt lắm Tim. Cám ơn ngươi cùng với mấy anh em trong đội của ngươi nhiều lắm. Sau chuyện này ta nhất định sẽ về báo cáo lại với Uyên quản lý.”
+
+Tên thiếu niên gọi Tim kia có chút xấu hổ, đưa tay gãi gãi sau đầu ngượng ngùng nói.
+
+- “Chú Marc quá khen. Ta chỉ thành công chặn được công kích của một người thôi. Đối phương nhất định là còn có rất nhiều người ở phía sau nữa. Chúng ta lần này may mắn nhờ có người hỗ trợ nên mới có khả năng đẩy lùi được sự công kích của bọn họ mà thôi.”
+
+Lão Marc nghe xong không nói gì, chỉ cười lớn một tiếng liên tục vỗ vai Tim. Lão tuy là nghe không hiểu Tim đang nói gì, nhưng ít nhất cũng biết sơ sơ là lần này có người giúp đỡ [The Alliance] bọn họ mà thôi.
+
+Nhưng lão cũng không nghĩ quá nhiều về chuyện này, vì chỉ cần thoát khỏi được kiếp nạn bây giờ là đã quá đủ rồi.Lão Tim vừa nghe thấy có tiếng thét thì không khỏi giật mình nhìn lại. Trông thấy vài tên hacker đang tụ tập nói chuyện với nhau thì không khỏi có chút tò mò.
+
+Đợi cho mọi người quay trở lại làm việc, hắn mới tiến lại gần tên hacker vừa hét lên kia hỏi thăm.
+
+- “Có chuyện gì vậy?”
+
+Tên hacker nghe phía sau mình truyền lại giọng nói già nua thì giật bắn người, vội vàng nhìn lại. Thấy người đang hỏi là ông lão Tim quản gia, hắn vội vàng trình báo lại tình hình.
+
+- “Dạ không có gì. Là có hacker khác đánh trả lại ta mà thôi. Ta sẽ nhanh chóng giải quyết hắn.”
+
+Lão quản gia Tim nghe cái hiểu cái không, tuy nhiên hắn cũng nắm được ý chính là bị người phản công rồi. Liền hắn không khỏi nghĩ đến đám người [The Alliance].
+
+Bất quá hiện tại đã không phải là lĩnh vực mà hắn có thể nhúng tay nên chỉ đành đứng đó tiếp tục quan sát xem tình hình thế nào.
+
+‘Rầm!’
+
+Một tiếng đập bàn vang lên, ngay sau đó liên tục có những tiếng chửi rủa từ khắp nơi trong căn phòng dưới tầng hầm này.
+
+- “Khốn kiếp! Có người quấy rối…”
+
+- “Hic… Tao cũng vừa mất ‘Gà’ đây.”
+
+- “Mẹ kiếp, lúc nãy không cẩn thận bị dính lại ‘Malware’ với mã độc rồi…”
+
+*Gà, Malware: virus có chứa mã độc để ăn cắp thông tin…
+
+…
+
+Lão Tim nhíu chặt đôi chân mày có chút không hiểu đám người này đang nói cái gì. Lão ta vội vàng chạy lại gần một tên thanh niên khoảng 30 tuổi, có vẻ như là người cầm đầu của đám người hacker này hỏi thăm.
+
+- “Làm sao vậy? Có chuyện gì xảy ra?”
+
+Tên thanh niên này đang tập trung gõ phím, mắt không rời khỏi màn hình, giọng nói có chút thâm trầm trả lời.
+
+- “Chúng ta bị đột kích! Số lượng người rất đông, chắc có hơn gấp đôi quân số của chúng ta, mà kỹ thuật của bọn họ cũng không kém.”
+
+Trông thấy thái độ của tên thanh niên này không để ý đến mình như vậy, lão Tim vẫn không hề có ý kiến gì nhiều, chỉ là có chút bất ngờ và lo lắng khi nghe lời của hắn vừa nói.
+
+Nhưng chưa dừng lại tại đó, tên thanh niên này lại tiếp tục quăng ra một quả bom nặng ký khác nữa.
+
+- “Chúng ta có thể đã bị lộ vị trí rồi. Đối phương thực lực quá mạnh không thể chống đỡ, rất có thể là người của chính phủ đấy. Bây giờ phải rút thôi, nếu như ngươi không muốn bị tóm.”
+
+Hắn giọng nói rất gấp gáp, vừa gõ phím liên tục vừa nói. Ngay sau khi vừa nhập một dòng lệnh cuối cùng rồi bấm nút xác nhận gửi đi, hắn vội vàng đứng bật người dậy, xoay lưng chạy đến lối ra của tầng hầm. Rõ ràng là hắn muốn nhanh chóng rút khỏi nơi này.
+
+Trong căn phòng dưới tầng hầm dường như cũng đã có nhiều người đoán ra được chuyện này rồi. Ngay khi gã thanh niên đó đứng dậy rời đi thì lập tức có mấy người cũng lục tục, thay phiên nhau rời máy vi tính rồi chạy ra khỏi tầng hầm.
+
+Thấy vậy thì lão Tim cũng có chút hoảng sợ, hắn vội vàng kéo lại một tên ngồi bên cạnh gã thanh niên này hỏi thăm.
+
+- “Có chuyện gì vậy? Sao ai cũng chạy? Chẳng lẽ đụng phải cảnh sát an ninh mạng?”
+
+Gã thanh niên này vội vàng nhập lệnh gì đó lên máy tính, sau đó bấm gửi đi, toàn bộ những thông tin trên màn hình lập tức bị xóa đi. Lúc này hắn mới đứng lên, hướng về lão Tim gấp gáp nói.
+
+- “Chúng ta bị lộ vị trí. Cuộc tấn công này rất nhiều người tham gia, nên khả năng an ninh mạng can thiệp vào là rất cao. Bây giờ tốt nhất là nên rời đi khỏi nơi này thôi. Nhờ chú thu xếp cho mấy anh em còn lại nhé.”
+
+Nói đoạn, hắn lập tức lách người tránh qua lão Tim rồi nhanh chân chạy ra khỏi lối thoát của tầng hầm. 
+
+Ngay sau đó hơn 10 người còn lại trong phòng cũng bắt đầu xóa dữ liệu, cùng với những dấu vết dễ nhận biết FeoOrYCu như vân tay đã lưu lại trên máy tính rồi nhanh chân rời đi.
+
+Ông lão quản gia cũ có chút chột dạ và lo lắng, hắn nhìn quanh căn phòng tầng hầm trống không này một lúc sau đó mới nhanh chân chạy đến lối ra.
+
+Không đến 15 phút sau, hơn 6 chiếc xe cảnh sát nối đuôi nhau chạy đến, bao vây trước cổng của căn biệt thự này lại.
+
+Thân ảnh quen thuộc của Báo Đen cũng xuất hiện, không nhanh không chậm bước ra khỏi một chiếc xe cảnh sát rồi đảo mắt nhìn xung quanh quan cảnh của căn biệt thự này.
+
+- “Chỉ huy trưởng, có cần gọi thêm người không?”
+
+Một tên cảnh sát, dáng người có chút béo mập bước đến bên cạnh Báo Đen rồi hỏi nhỏ hắn.
+
+Báo Đen âm thầm lắc nhẹ đầu một cái, hắn rảo bước đi chậm đến cổng của căn biệt thự. Tên cảnh sát béo mật cũng nhanh chóng đi theo.
+
+Đảo mắt nhìn xuống những rãnh sâu trên mặt đất, Báo Đen âm thầm thở dài một hơi, chậm rãi nói.
+
+- “Không cần gọi người nữa, bọn chúng chạy hết từ lâu rồi. Gọi người vào trong kiểm tra căn biệt thự rồi tịch thu tang vật đi.”
+
+Chỉ nhìn mấy cái rãnh sâu do cánh cổng sắt ma sát với mặt đất tạo ra, cùng với phương hướng mà lớp đất này dồn lại, Báo Đen đã suy đoán ra được đám người trong biệt thự đã rời đi. 
+
+Tuy rằng không biết thời gian rời đi là lúc nào thế nhưng trước khi đến đây Báo Đen đã có điều tra sơ qua. Nơi này là một khu biệt thự ở vùng ngoại ô hẻo lánh, được một người không rõ danh tính mua lại từ lâu và người đứng tên căn nhà này cũng đã chuyển đi nước ngoài sinh sống. 
+
+Thế nên muốn truy lùng tung tích của một nhóm người quả thật là điều không thể, mà Báo Đen cũng chỉ hi vọng có thể bắt được một số manh mối từ trong căn biệt thự này mà thôi.
+
+- “Rõ! Thưa chỉ huy.”
+
+Tên cảnh sát hô lớn một tiếng rồi nhanh chóng chạy đi gọi người vào khám xét căn biệt thự.
+
+Cũng may cho lão quản gia Tim cùng với đám thuộc hạ hacker của hắn đã nhanh chân rời đi trước nếu không là bọn họ đã bị bắt đi rồi.
+
+Rất nhanh sau đó thì đám cảnh sát trở ra, gã mập mạp cảnh sát lúc nãy lại tiến tới trước mặt của Báo Đen rồi báo cáo.
+
+- “Không có phát hiện gì ngoài một nhóm khoảng 26 cái máy tính thưa chỉ huy. Bây giờ chúng ta phải làm sao?”
+
+Báo Đen nghe xong gương mặt không khỏi trở nên trầm trọng thêm. Trong đầu không khỏi chửi thầm. 
+
+- ‘Đám người này thật là xảo quyệt mà… đúng là dân chuyên nghiệp có khác, đến cả vân tay cũng không để lại. Haiz… người anh em à, anh cũng chỉ có thể giúp chú đến đây thôi…’
+
+Nghĩ đến những chuyện rắc rối mà hắn đang gặp phải, Báo Đen không khỏi thở một hơi dài chán ngán. 
+
+Hiện tại thời gian đã là gần 6 giờ tối rồi. Nếu tính toán thời gian trong game thì có lẽ đã trải qua một ngày một đêm mà hắn vẫn chưa thể liên lạc với Đình Tấn. Điều này làm cho hắn cũng đã có chút lo lắng rồi. 
+
+Báo Đen âm thầm lắc đầu, nhanh chóng lên xe quay trở về cục an ninh mạng báo cáo với Thiếu Tướng Mark chuyện ở căn biệt thự này.
+
+Hắn tuy là dưới quyền chỉ huy của lão Tướng Quân Jack trong Bộ quốc phòng, nhưng dù sao lần này cũng là phối hợp hành động với Bộ phận an ninh quốc gia, cho nên việc báo cáo mục tiêu hành động là phải làm.
+
+…
+
+Cùng lúc đó, ở tại văn phòng làm việc của trụ sở [The Alliance], lão Marc và đoàn đội của hắn thì đang vui vẻ, hớn hở ăn mừng.
+
+Nguyên nhân cũng chính là bởi vì bọn họ vừa phá giải được toàn bộ công kích trên mạng của kẻ địch, nên những tài khoản, mạng và máy tính bị khóa trước đó đều được khôi phục lại như cũ.
+
+Trước đó, lão Marc cũng không nghĩ rằng cả đoàn đội chỉ vài người của mình lại có thể thành công ngăn chặn được đối phương, chứ nói chi là đến việc đánh bại bọn họ.
+
+Bởi vì lúc hắn hỏi thăm khắp nơi trong nhóm tuyên truyền và nhân viên dưới tay của mình thì chỉ tìm một người hacker trẻ tuổi. Chính hắn lại nhờ vả thêm 9 người bạn khác của mình thành lập nên một nhóm phòng thủ, chống lại sự tấn công qua mạng của đối phương.
+
+Khởi đầu, cả đội cũng không thể làm được gì nhiều, chỉ có thể bị động phòng thủ, liên tục bị đối phương vùi dập, công kích không thương tiếc. 
+
+Nhưng đến sau đó, không biết từ đâu xuất hiện một nhóm hacker khác cũng rất đông, đứng ra bảo vệ trợ giúp bọn họ phản công. Nhờ vậy mà nhóm của lão Marc mới thành công thủ vững rồi đánh trả lại kẻ địch.
+
+Bây giờ, trên diễn đàn cũng đang bắt đầu dậy sóng vì chuyện có hacker xâm nhập tài khoản của rất nhiều người chơi. 
+
+Nương theo chiều gió này, lão Marc liền nắm bắt lấy cơ hội, ra lệnh cho đám tuyên truyền viên dùng tin tức này phân tán sự chú ý của mọi người trong nước Entire Land khỏi sự kiện lỗi game và gian lận của Đình Tấn.
+
+Tuy rằng chỉ làm kìm hãm được tốc độ lan truyền của tin đồn xấu một chút, thế nhưng bấy nhiêu đó cũng đã là quá đủ với hắn rồi.
+
+Lão Marc không kìm chế được kích động trong lòng, cặp vai ôm lấy một tên thanh niên bên cạnh liên mồm tán thưởng hắn.
+
+- “Hay lắm! Làm tốt lắm Tim. Cám ơn ngươi cùng với mấy anh em trong đội của ngươi nhiều lắm. Sau chuyện này ta nhất định sẽ về báo cáo lại với Uyên quản lý.”
+
+Tên thiếu niên gọi Tim kia có chút xấu hổ, đưa tay gãi gãi sau đầu ngượng ngùng nói.
+
+- “Chú Marc quá khen. Ta chỉ thành công chặn được công kích của một người thôi. Đối phương nhất định là còn có rất nhiều người ở phía sau nữa. Chúng ta lần này may mắn nhờ có người hỗ trợ nên mới có khả năng đẩy lùi được sự công kích của bọn họ mà thôi.”
+
+Lão Marc nghe xong không nói gì, chỉ cười lớn một tiếng liên tục vỗ vai Tim. Lão tuy là nghe không hiểu Tim đang nói gì, nhưng ít nhất cũng biết sơ sơ là lần này có người giúp đỡ [The Alliance] bọn họ mà thôi.
+
+Nhưng lão cũng không nghĩ quá nhiều về chuyện này, vì chỉ cần thoát khỏi được kiếp nạn bây giờ là đã quá đủ rồi.

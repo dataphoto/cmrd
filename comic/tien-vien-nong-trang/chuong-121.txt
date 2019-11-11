@@ -1,0 +1,449 @@
+Converter Dzung Kiều cầu phiếu 
+ 
+ 	Nói tới chỗ này Trương Khang cảm thấy miệng có chút phát khô, dừng lại liếm môi một cái tiếp tục nói: "Đối với giống như ngươi như vậy hoành hành bá đạo làm hại một phe ung thư, chúng ta trước sau như một tôn chỉ đó chính là phải kiên quyết đả kích tiến hành nghiêm trị, ngươi nếu bị ta bắt tại trận, vậy ta ngày hôm nay liền đem ngươi mang về tới thật tốt thẩm vấn một phen, đem ngươi trước kia nơi đã làm chuyện ác cũng đào ra, là thôn Long Oa diệt trừ cái này gieo họa."
+ 
+ 	Trương Khang trước miệng lưỡi lưu loát địa tiến hành suy nghĩ chủ quan suy đoán, sau đó sẽ thêm chư tội danh, giống nhau đem mình giả trang thành một cái vì dân trừ hại phá án cao thủ hình tượng huy hoàng.
+ 
+ 	"Bây giờ mệnh lệnh ta các ngươi, đem cái này người hiềm nghi phạm tội bắt quy án." Trương Khang cằn nhằn một trận sau khi nói xong, bất đồng người khác phản bác liền đối với mang tới cảnh sát nói.
+ 
+ 	Trương Khang thanh âm vừa dứt, hắn mang tới cảnh sát trong thì có ba người hướng Mưu Huy Dương vọt tới, còn lại 2 cảnh sát một cái khinh bỉ nhìn Tôn Kim Vượng cùng Trương Khang, đứng ở nơi đó không nhúc nhích.
+ 
+ 	"Hề hề, ngươi suy nghĩ chủ quan lực thật là phong phú, làm một cái nho nhỏ đồn trưởng thật là ủy khuất ngươi tài hoa, ngươi hẳn đi làm một cái nói bình thư, nói như vậy không bao lâu ngươi khẳng định thì sẽ phát đại tài." Mưu Huy Dương châm chọc nói.
+ 
+ 	/*Dzung Kiều : Bình thư (một hình thức văn nghệ dân gian của Trung Quốc, khi kể một câu chuyện dài dùng quạt, khăn làm đạo cụ)*/
+ 
+ 	"Ta khuyên các ngươi đừng làm thương để cho người lợi dụng, trước hay là đem sự việc làm rõ ràng động thủ nữa, tránh cho đến lúc đó cho người cõng oan uổng cũng không biết." Mưu Huy Dương bỏ mặc bị mình lời nói đem mặt giận đến xanh mét Trương Khang, đối trùng đến trước mặt mình ba cảnh sát nói.
+ 
+ 	Ba cái mới vừa vọt tới Mưu Huy Dương trước mặt cảnh sát nghe được Mưu Huy Dương mà nói, không khỏi đều ngừng lại, Tôn Kim Vượng làm làm, thành tựu cảnh sát bọn họ lại làm sao không biết, thật đúng là sợ cho hắn cõng cái này oan uổng.
+ 
+ 	"Đừng nghe hắn tranh cãi, cho ta đem hắn còng, đã xảy ra chuyện gì có ta chỉa vào." Trương Khang gặp ba người dừng lại, vội vàng hướng ba người nói.
+ 
+ 	"Ngươi nha. . . Không phải rất trâu sao? Bây giờ nha. . . Ở bò một cái cho ta xem xem."
+ 
+ 	Tôn Kim Vượng nghe Trương Khang mà nói, lại nhìn xem đứng ở Mưu Huy Dương trước mặt ba cảnh sát, lập tức trở nên tức giận, chỉa vào bị Mưu Huy Dương đánh cho thành đầu heo đầu dương dương đắc ý mắng.
+ 
+ 	Hắn mỗi nói một chữ, thì sẽ kéo đến vết thương trên mặt miệng, dường như đau đến hắn tê tê quất thẳng tới hơi lạnh, nhưng hắn cảm thấy rất hả giận, vẫn kiên trì nói.
+ 
+ 	"Ngươi đặc biệt không phải mới vừa rất có thể đánh sao? Ngươi đánh một người cảnh sát thử một chút!"
+ 
+ 	Thấy được Mưu Huy Dương không phản ứng hắn, Tôn Kim Vượng lại dương dương đắc ý nói: "Sợ, không dám? Có thể ngươi đặc biệt bây giờ mới nhớ sợ, đã muộn, chờ một lát đến đồn công an xem bố làm sao thu thập ngươi cái rùa con."
+ 
+ 	"Ngươi giống như một con ruồi vậy, không chỉ có phiền người, còn để cho người cảm thấy ghét, vậy ta liền đem ngươi cái này cuộc hành trình đầu con ruồi cho một cái tát đập chết." Mưu Huy Dương nói xong, hướng về phía Tôn Kim Vượng trên mặt chính là một cái tát.
+ 
+ 	"À. . ."
+ 
+ 	Tôn Kim Vượng không nghĩ tới Mưu Huy Dương lại dám ngay trước cảnh sát mặt tát mình, hắn bị một tát này cho rút ra ngu.
+ 
+ 	Chung quanh người trong thôn cũng cảm thấy Mưu Huy Dương là ở là quá lỗ mãng, cảnh sát kia rõ ràng liền đang thiên vị Tôn Kim Vượng các người, một tát này không phải tốt cho bọn họ lấy càng cái tốt mượn cớ sao?
+ 
+ 	Thấy Mưu Huy Dương lại dám ngay trước mình mặt tát em vợ 1 bạt tai, Trương Khang cảm thấy một tát này giống như là quất vào mình trên mặt tựa như, hắn nhất thời bạo giận lên, đưa tay rút ra đừng ở bên hông súng lục, nổi giận mắng: "Cmn, lại dám ngay trước cảnh sát mặt đánh người, thật sự là quá càn rỡ, có tin hay không bố một phát súng giết chết ngươi."
+ 
+ 	"Ngươi dám, ngươi nếu là dám động hắn một cọng tóc gáy, bố sẽ để cho các ngươi không đi ra lọt thôn Long Oa."
+ 
+ 	Đột nhiên một tiếng quát to truyền tới, Mưu Huy Dương chú Hai đi theo phía sau một đám người chạy tới, lập tức đem mấy cảnh sát cùng những tên côn đồ kia lưu manh vây ở trong, bọn họ trong tay đều cầm cái cuốc, xẻng cùng công cụ.
+ 
+ 	Thấy được đi theo các hương thân phía sau một cái thằng nhóc choai choai, Mưu Huy Dương mới làm rõ ràng, núi Tiểu Nam các hương thân tại sao sẽ đột nhiên tới.
+ 
+ 	Cái đó thằng nhóc choai choai cha mẹ cũng ở đây núi Tiểu Nam hỗ trợ, nguyên lai ở những người đó hướng Mưu Huy Dương vây tới lúc này cái đó thằng nhóc choai choai sợ Mưu Huy Dương thua thiệt, liền nhanh chóng hướng núi Tiểu Nam chạy đi báo tin đi, lúc này mới ở thời điểm mấu chốt nhất để cho các hương thân kịp thời chạy tới.
+ 
+ 	Thấy mấy chục cầm các loại nông cụ nông dân khí thế hung hăng đem bọn họ vì đứng lên, Trương Khang tâm lý cũng có chút luống cuống, hắn bên ngoài mạnh trong rỗng hướng về phía các hương thân hét: "Chúng ta đây là đang thi hành công vụ, nếu như các ngươi ở không để cho mở mà nói, ta liền đem các ngươi lấy làm trở ngại chấp pháp tội danh tất cả đều bắt lại."
+ 
+ 	Đây là hắn gặp phải loại chuyện này lúc trước sau như một cách làm, Hoa Hạ lão nhân dân đối với cảnh sát cái này cường lực ngành, trước sau như một cũng tâm tồn kính sợ, chỉ cần hắn như thế nói, lão nhân dân thì sẽ bởi vì sợ lập tức rời đi.
+ 
+ 	Các thôn dân nghe Trương Khang mà nói, không chỉ không có tránh ra ngược lại về phía trước lại đi mấy bước, đem bọn họ vây càng chặt hơn.
+ 
+ 	"Ngươi để những thứ này lường gạt vơ vét tài sản, ép mua ép bán côn đồ lưu manh không bắt, mà phải đem người bị hại bắt đi, ngươi đây là chấp cái gì pháp?" Mưu Huy Dương chú Hai chất vấn.
+ 
+ 	" Đúng vậy, dám đến chúng ta thôn Long Oa tới qua loa bắt người, ngươi phải hỏi hỏi chúng ta thôn Long Oa già trẻ có đáp ứng hay không." Chu Nhất Thương giơ giơ lên trong tay cái cuốc nói.
+ 
+ 	"Đúng vậy, cảnh sát không dậy nổi à, cảnh sát là có thể bắt loạn người tốt?"
+ 
+ 	"Cái gì cảnh sát à, ta mới vừa rồi nghe nói hắn là tên côn đồ kia đầu tử anh rể, nhất định là cùng bọn họ là một phe, hắn đây là giả mạo cảnh sát hù doạ hù dọa người thôi."
+ 
+ 	Các hương thân ngươi một câu ta một câu cái gì cũng nói, thấy nhiều người như vậy vây quanh bọn họ, hơn nữa đều rất bộ dáng tức giận, Trương Khang nhất thời trợn tròn mắt.
+ 
+ 	Vốn là muốn giúp trước em vợ xuất một chút đầu, không nghĩ tới đầu này không ra ở trên, mình còn bị người trong thôn vây lại.
+ 
+ 	Nhìn quần tình công phẫn đám người này, Trương Khang tâm lý không ngừng mắng mình em vợ, lần này hắn nhưng mà tự mình xuất cảnh, nếu là chuyện này lớn chuyện rồi, mình nhất định sẽ không ăn nổi bao đi.
+ 
+ 	Phê bình xuống chức không nói, nếu như bị người cố ý đem mình chuyện trước kia đào lên, mình cái này người cảnh phục không chỉ biết bị rút, nói không chừng còn phải đi vào ăn mấy năm miễn phí cơ quan cơm.
+ 
+ 	Bất quá sự việc đến bước này hắn cũng không có biện pháp khác, chỉ có thể đem sai liền sai một con đường đi tới đen, đem Mưu Huy Dương mang về, cho hắn gắn một cái tụ tập đám người đánh lộn, cố ý tổn thương tội danh, chỉ cần đem chuyện này làm thành thiết án, là có thể đem mình từ trong chuyện này hái đi ra.
+ 
+ 	Mặc dù vây quanh bọn họ người trong thôn rất nhiều, nhưng là hắn thật đúng là không tin những người này thật dám động thủ đánh cảnh sát, vì vậy hắn hướng về phía còn đứng ba cảnh sát mắng: "Còn đứng ngốc ở đó làm gì, vội vàng đem cái này cố ý tổn thương người khác hung thủ mang đi."
+ 
+ 	"Ta xem các ngươi ai dám."
+ 
+ 	" Đúng vậy, muốn đem hắn bắt đi trừ phi các ngươi từ chúng ta trên người bước qua đi."
+ 
+ 	"Cmn, ta xem các ngươi căn bản cũng không phải là cảnh sát, cảnh sát tuyệt đối sẽ không giống như các ngươi như vậy thị phi chẳng phân biệt được."
+ 
+ 	"Đánh hắn cái chó ghẻ, đang còn muốn chúng ta thôn Long Oa bắt người."
+ 
+ 	. . .
+ 
+ 	Trương Khang thấy được người càng ngày càng nhiều, già trẻ trai gái đều có, thật giống như cái này thôn Long Oa thôn dân đều tới tựa như, từng cái tức giận không thôi, có vậy tánh tình nóng nảy đã động thủ xô đẩy khởi người tới.
+ 
+ 	Lại xem mình mang tới thủ hạ, đối mặt đồng hương xô đẩy cũng không dám trả đủa, từng cái chỉ có thể hết sức né tránh. Em vợ mình mang tới những người đó, từng cái giống như là chết lão nương tựa như vẻ mặt đưa đám, lại cũng không có trước kia vậy phách lối ngang ngược bộ dáng.
+ 
+ 	Nhiều như vậy người vây quanh không để cho, Trương Khang lúc này cũng cảm thấy nhá nhem móng, bất quá mắt xem sự việc có càng diễn càng ác liệt khuynh hướng, hắn còn phải nhanh chóng nghĩ biện pháp đem đây là thở bình thường lại, nếu không theo cái này khuynh hướng phát triển tiếp, rất có thể sẽ gây thành một trận dùng binh khí đánh nhau sự kiện phát sinh, như vậy ngày hôm nay hắn thì thật thọt ngất trời, ai cũng không cứu được hắn.
+ 
+ 	Hắn trong lòng quýnh lên, đem súng trong tay bảo hiểm mở ra hướng về phía trên trời bắn ra 1 phát.
+ 
+ 	Tiếng súng chấn mọi người lỗ tai ông ông tác hưởng, nghe được tiếng súng, coi mắt cửa trên mặt đều lộ ra hoảng sợ thần sắc, cũng không khỏi hướng về phía sau lui.
+ 
+ 	Thấy mới vừa rồi còn khí thế hung hăng vây quanh mình những nông dân kia, lúc này trên mặt lộ ra hoảng sợ vẻ mặt không ngừng lui về phía sau, Trương Khang trên mặt lộ ra nụ cười đắc ý.
+ 
+ 	"Còn chế không được các ngươi cái này đám điêu dân, đang làm làm trở ngại chúng ta thi hành công vụ, liền đem các ngươi tất cả đều bắt lại." Trương Khang mặt lạnh đối với người chung quanh nói.
+ 
+ 	Thấy trong mắt những người kia thần sắc sợ hãi, Trương Khang tâm lý rất đắc ý, chỉ Mưu Huy Dương nói: "Đem hắn bắt lại cho ta mang đi."
+ 
+ 	Đối với mệnh lệnh của hắn, vậy ba cảnh sát do dự một chút, cuối cùng vẫn là đi tới, đưa tay hướng Mưu Huy Dương trên tay bắt đi.
+ 
+ 	"Đồn trưởng Trương oai phong còn thật không nhỏ, lại dám hướng về phía lão nhân dân bắn súng, nếu ngươi như vậy oai phong, khẳng định không ngại ta gọi điện thoại chứ ?" Mưu Huy Dương không để ý đến chu tới ba người, hướng về phía Trương Khang hỏi.
+ 
+ 	Ba người không dám làm quyết định, đều nhìn về Trương Khang.
+ 
+ 	Thấy Trương Khang sắc mặt, Mưu Huy Dương cũng biết hắn chắc chắn sẽ không đáp ứng, liền đối với hắn nói: "Ngươi tốt nhất hay là để cho ta gọi điện thoại, hay không người, ngươi sẽ hơn nữa hối hận."
+ 
+ 	Thấy Mưu Huy Dương một chút cũng không có hốt hoảng dấu hiệu, Trương Khang trong lòng bắt đầu đả khởi cổ lai, bất quá hắn ngay sau đó liền nghĩ đến thằng nhóc này chỉ là một nông dân nhỏ không có gì bối cảnh, xem bộ dáng là muốn tới một chiêu kéo da hổ làm bộ cờ người thủ đoạn, để cho mình cho rằng hắn có cái gì cường ngạnh phía sau đài, để cho mình thả qua hắn.
+ 
+ 	Trương Khang tự cho là đúng cho rằng mình khám phá Mưu Huy Dương muốn chơi người thủ đoạn, hắn vẫn là quyết định để cho Mưu Huy Dương gọi điện thoại này, liền lúc ấy vui một chút vui một chút, nếu là vạn nhất thằng nhóc này thật có bối cảnh gì mà nói, mình cũng tốt kịp thời bổ túc, nếu là chẳng qua là kéo da hổ làm bộ cờ, làm ra vẻ so, một hồi cũng có là thời gian thu thập hắn.
+ 
+ 	Converter Dzung Kiều cầu ủng hộ bộ HỒI ĐÁO ĐỊA CẦU ĐƯƠNG THẦN CÔN nhéConverter Dzung Kiều cầu phiếu 
+ 
+ 	Nói tới chỗ này Trương Khang cảm thấy miệng có chút phát khô, dừng lại liếm môi một cái tiếp tục nói: "Đối với giống như ngươi như vậy hoành hành bá đạo làm hại một phe ung thư, chúng ta trước sau như một tôn chỉ đó chính là phải kiên quyết đả kích tiến hành nghiêm trị, ngươi nếu bị ta bắt tại trận, vậy ta ngày hôm nay liền đem ngươi mang về tới thật tốt thẩm vấn một phen, đem ngươi trước kia nơi đã làm chuyện ác cũng đào ra, là thôn Long Oa diệt trừ cái này gieo họa."
+ 
+ 	Trương Khang trước miệng lưỡi lưu loát địa tiến hành suy nghĩ chủ quan suy đoán, sau đó sẽ thêm chư tội danh, giống nhau đem mình giả trang thành một cái vì dân trừ hại phá án cao thủ hình tượng huy hoàng.
+ 
+ 	"Bây giờ mệnh lệnh ta các ngươi, đem cái này người hiềm nghi phạm tội bắt quy án." Trương Khang cằn nhằn một trận sau khi nói xong, bất đồng người khác phản bác liền đối với mang tới cảnh sát nói.
+ 
+ 	Trương Khang thanh âm vừa dứt, hắn mang tới cảnh sát trong thì có ba người hướng Mưu Huy Dương vọt tới, còn lại 2 cảnh sát một cái khinh bỉ nhìn Tôn Kim Vượng cùng Trương Khang, đứng ở nơi đó không nhúc nhích.
+ 
+ 	"Hề hề, ngươi suy nghĩ chủ quan lực thật là phong phú, làm một cái nho nhỏ đồn trưởng thật là ủy khuất ngươi tài hoa, ngươi hẳn đi làm một cái nói bình thư, nói như vậy không bao lâu ngươi khẳng định thì sẽ phát đại tài." Mưu Huy Dương châm chọc nói.
+ 
+ 	/*Dzung Kiều : Bình thư (một hình thức văn nghệ dân gian của Trung Quốc, khi kể một câu chuyện dài dùng quạt, khăn làm đạo cụ)*/
+ 
+ 	"Ta khuyên các ngươi đừng làm thương để cho người lợi dụng, trước hay là đem sự việc làm rõ ràng động thủ nữa, tránh cho đến lúc đó cho người cõng oan uổng cũng không biết." Mưu Huy Dương bỏ mặc bị mình lời nói đem mặt giận đến xanh mét Trương Khang, đối trùng đến trước mặt mình ba cảnh sát nói.
+ 
+ 	Ba cái mới vừa vọt tới Mưu Huy Dương trước mặt cảnh sát nghe được Mưu Huy Dương mà nói, không khỏi đều ngừng lại, Tôn Kim Vượng làm làm, thành tựu cảnh sát bọn họ lại làm sao không biết, thật đúng là sợ cho hắn cõng cái này oan uổng.
+ 
+ 	"Đừng nghe hắn tranh cãi, cho ta đem hắn còng, đã xảy ra chuyện gì có ta chỉa vào." Trương Khang gặp ba người dừng lại, vội vàng hướng ba người nói.
+ 
+ 	"Ngươi nha. . . Không phải rất trâu sao? Bây giờ nha. . . Ở bò một cái cho ta xem xem."
+ 
+ 	Tôn Kim Vượng nghe Trương Khang mà nói, lại nhìn xem đứng ở Mưu Huy Dương trước mặt ba cảnh sát, lập tức trở nên tức giận, chỉa vào bị Mưu Huy Dương đánh cho thành đầu heo đầu dương dương đắc ý mắng.
+ 
+ 	Hắn mỗi nói một chữ, thì sẽ kéo đến vết thương trên mặt miệng, dường như đau đến hắn tê tê quất thẳng tới hơi lạnh, nhưng hắn cảm thấy rất hả giận, vẫn kiên trì nói.
+ 
+ 	"Ngươi đặc biệt không phải mới vừa rất có thể đánh sao? Ngươi đánh một người cảnh sát thử một chút!"
+ 
+ 	Thấy được Mưu Huy Dương không phản ứng hắn, Tôn Kim Vượng lại dương dương đắc ý nói: "Sợ, không dám? Có thể ngươi đặc biệt bây giờ mới nhớ sợ, đã muộn, chờ một lát đến đồn công an xem bố làm sao thu thập ngươi cái rùa con."
+ 
+ 	"Ngươi giống như một con ruồi vậy, không chỉ có phiền người, còn để cho người cảm thấy ghét, vậy ta liền đem ngươi cái này cuộc hành trình đầu con ruồi cho một cái tát đập chết." Mưu Huy Dương nói xong, hướng về phía Tôn Kim Vượng trên mặt chính là một cái tát.
+ 
+ 	"À. . ."
+ 
+ 	Tôn Kim Vượng không nghĩ tới Mưu Huy Dương lại dám ngay trước cảnh sát mặt tát mình, hắn bị một tát này cho rút ra ngu.
+ 
+ 	Chung quanh người trong thôn cũng cảm thấy Mưu Huy Dương là ở là quá lỗ mãng, cảnh sát kia rõ ràng liền đang thiên vị Tôn Kim Vượng các người, một tát này không phải tốt cho bọn họ lấy càng cái tốt mượn cớ sao?
+ 
+ 	Thấy Mưu Huy Dương lại dám ngay trước mình mặt tát em vợ 1 bạt tai, Trương Khang cảm thấy một tát này giống như là quất vào mình trên mặt tựa như, hắn nhất thời bạo giận lên, đưa tay rút ra đừng ở bên hông súng lục, nổi giận mắng: "Cmn, lại dám ngay trước cảnh sát mặt đánh người, thật sự là quá càn rỡ, có tin hay không bố một phát súng giết chết ngươi."
+ 
+ 	"Ngươi dám, ngươi nếu là dám động hắn một cọng tóc gáy, bố sẽ để cho các ngươi không đi ra lọt thôn Long Oa."
+ 
+ 	Đột nhiên một tiếng quát to truyền tới, Mưu Huy Dương chú Hai đi theo phía sau một đám người chạy tới, lập tức đem mấy cảnh sát cùng những tên côn đồ kia lưu manh vây ở trong, bọn họ trong tay đều cầm cái cuốc, xẻng cùng công cụ.
+ 
+ 	Thấy được đi theo các hương thân phía sau một cái thằng nhóc choai choai, Mưu Huy Dương mới làm rõ ràng, núi Tiểu Nam các hương thân tại sao sẽ đột nhiên tới.
+ 
+ 	Cái đó thằng nhóc choai choai cha mẹ cũng ở đây núi Tiểu Nam hỗ trợ, nguyên lai ở những người đó hướng Mưu Huy Dương vây tới lúc này cái đó thằng nhóc choai choai sợ Mưu Huy Dương thua thiệt, liền nhanh chóng hướng núi Tiểu Nam chạy đi báo tin đi, lúc này mới ở thời điểm mấu chốt nhất để cho các hương thân kịp thời chạy tới.
+ 
+ 	Thấy mấy chục cầm các loại nông cụ nông dân khí thế hung hăng đem bọn họ vì đứng lên, Trương Khang tâm lý cũng có chút luống cuống, hắn bên ngoài mạnh trong rỗng hướng về phía các hương thân hét: "Chúng ta đây là đang thi hành công vụ, nếu như các ngươi ở không để cho mở mà nói, ta liền đem các ngươi lấy làm trở ngại chấp pháp tội danh tất cả đều bắt lại."
+ 
+ 	Đây là hắn gặp phải loại chuyện này lúc trước sau như một cách làm, Hoa Hạ lão nhân dân đối với cảnh sát cái này cường lực ngành, trước sau như một cũng tâm tồn kính sợ, chỉ cần hắn như thế nói, lão nhân dân thì sẽ bởi vì sợ lập tức rời đi.
+ 
+ 	Các thôn dân nghe Trương Khang mà nói, không chỉ không có tránh ra ngược lại về phía trước lại đi mấy bước, đem bọn họ vây càng chặt hơn.
+ 
+ 	"Ngươi để những thứ này lường gạt vơ vét tài sản, ép mua ép bán côn đồ lưu manh không bắt, mà phải đem người bị hại bắt đi, ngươi đây là chấp cái gì pháp?" Mưu Huy Dương chú Hai chất vấn.
+ 
+ 	" Đúng vậy, dám đến chúng ta thôn Long Oa tới qua loa bắt người, ngươi phải hỏi hỏi chúng ta thôn Long Oa già trẻ có đáp ứng hay không." Chu Nhất Thương giơ giơ lên trong tay cái cuốc nói.
+ 
+ 	"Đúng vậy, cảnh sát không dậy nổi à, cảnh sát là có thể bắt loạn người tốt?"
+ 
+ 	"Cái gì cảnh sát à, ta mới vừa rồi nghe nói hắn là tên côn đồ kia đầu tử anh rể, nhất định là cùng bọn họ là một phe, hắn đây là giả mạo cảnh sát hù doạ hù dọa người thôi."
+ 
+ 	Các hương thân ngươi một câu ta một câu cái gì cũng nói, thấy nhiều người như vậy vây quanh bọn họ, hơn nữa đều rất bộ dáng tức giận, Trương Khang nhất thời trợn tròn mắt.
+ 
+ 	Vốn là muốn giúp trước em vợ xuất một chút đầu, không nghĩ tới đầu này không ra ở trên, mình còn bị người trong thôn vây lại.
+ 
+ 	Nhìn quần tình công phẫn đám người này, Trương Khang tâm lý không ngừng mắng mình em vợ, lần này hắn nhưng mà tự mình xuất cảnh, nếu là chuyện này lớn chuyện rồi, mình nhất định sẽ không ăn nổi bao đi.
+ 
+ 	Phê bình xuống chức không nói, nếu như bị người cố ý đem mình chuyện trước kia đào lên, mình cái này người cảnh phục không chỉ biết bị rút, nói không chừng còn phải đi vào ăn mấy năm miễn phí cơ quan cơm.
+ 
+ 	Bất quá sự việc đến bước này hắn cũng không có biện pháp khác, chỉ có thể đem sai liền sai một con đường đi tới đen, đem Mưu Huy Dương mang về, cho hắn gắn một cái tụ tập đám người đánh lộn, cố ý tổn thương tội danh, chỉ cần đem chuyện này làm thành thiết án, là có thể đem mình từ trong chuyện này hái đi ra.
+ 
+ 	Mặc dù vây quanh bọn họ người trong thôn rất nhiều, nhưng là hắn thật đúng là không tin những người này thật dám động thủ đánh cảnh sát, vì vậy hắn hướng về phía còn đứng ba cảnh sát mắng: "Còn đứng ngốc ở đó làm gì, vội vàng đem cái này cố ý tổn thương người khác hung thủ mang đi."
+ 
+ 	"Ta xem các ngươi ai dám."
+ 
+ 	" Đúng vậy, muốn đem hắn bắt đi trừ phi các ngươi từ chúng ta trên người bước qua đi."
+ 
+ 	"Cmn, ta xem các ngươi căn bản cũng không phải là cảnh sát, cảnh sát tuyệt đối sẽ không giống như các ngươi như vậy thị phi chẳng phân biệt được."
+ 
+ 	"Đánh hắn cái chó ghẻ, đang còn muốn chúng ta thôn Long Oa bắt người."
+ 
+ 	. . .
+ 
+ 	Trương Khang thấy được người càng ngày càng nhiều, già trẻ trai gái đều có, thật giống như cái này thôn Long Oa thôn dân đều tới tựa như, từng cái tức giận không thôi, có vậy tánh tình nóng nảy đã động thủ xô đẩy khởi người tới.
+ 
+ 	Lại xem mình mang tới thủ hạ, đối mặt đồng hương xô đẩy cũng không dám trả đủa, từng cái chỉ có thể hết sức né tránh. Em vợ mình mang tới những người đó, từng cái giống như là chết lão nương tựa như vẻ mặt đưa đám, lại cũng không có trước kia vậy phách lối ngang ngược bộ dáng.
+ 
+ 	Nhiều như vậy người vây quanh không để cho, Trương Khang lúc này cũng cảm thấy nhá nhem móng, bất quá mắt xem sự việc có càng diễn càng ác liệt khuynh hướng, hắn còn phải nhanh chóng nghĩ biện pháp đem đây là thở bình thường lại, nếu không theo cái này khuynh hướng phát triển tiếp, rất có thể sẽ gây thành một trận dùng binh khí đánh nhau sự kiện phát sinh, như vậy ngày hôm nay hắn thì thật thọt ngất trời, ai cũng không cứu được hắn.
+ 
+ 	Hắn trong lòng quýnh lên, đem súng trong tay bảo hiểm mở ra hướng về phía trên trời bắn ra 1 phát.
+ 
+ 	Tiếng súng chấn mọi người lỗ tai ông ông tác hưởng, nghe được tiếng súng, coi mắt cửa trên mặt đều lộ ra hoảng sợ thần sắc, cũng không khỏi hướng về phía sau lui.
+ 
+ 	Thấy mới vừa rồi còn khí thế hung hăng vây quanh mình những nông dân kia, lúc này trên mặt lộ ra hoảng sợ vẻ mặt không ngừng lui về phía sau, Trương Khang trên mặt lộ ra nụ cười đắc ý.
+ 
+ 	"Còn chế không được các ngươi cái này đám điêu dân, đang làm làm trở ngại chúng ta thi hành công vụ, liền đem các ngươi tất cả đều bắt lại." Trương Khang mặt lạnh đối với người chung quanh nói.
+ 
+ 	Thấy trong mắt những người kia thần sắc sợ hãi, Trương Khang tâm lý rất đắc ý, chỉ Mưu Huy Dương nói: "Đem hắn bắt lại cho ta mang đi."
+ 
+ 	Đối với mệnh lệnh của hắn, vậy ba cảnh sát do dự một chút, cuối cùng vẫn là đi tới, đưa tay hướng Mưu Huy Dương trên tay bắt đi.
+ 
+ 	"Đồn trưởng Trương oai phong còn thật không nhỏ, lại dám hướng về phía lão nhân dân bắn súng, nếu ngươi như vậy oai phong, khẳng định không ngại ta gọi điện thoại chứ ?" Mưu Huy Dương không để ý đến chu tới ba người, hướng về phía Trương Khang hỏi.
+ 
+ 	Ba người không dám làm quyết định, đều nhìn về Trương Khang.
+ 
+ 	Thấy Trương Khang sắc mặt, Mưu Huy Dương cũng biết hắn chắc chắn sẽ không đáp ứng, liền đối với hắn nói: "Ngươi tốt nhất hay là để cho ta gọi điện thoại, hay không người, ngươi sẽ hơn nữa hối hận."
+ 
+ 	Thấy Mưu Huy Dương một chút cũng không có hốt hoảng dấu hiệu, Trương Khang trong lòng bắt đầu đả khởi cổ lai, bất quá hắn ngay sau đó liền nghĩ đến thằng nhóc này chỉ là một nông dân nhỏ không có gì bối cảnh, xem bộ dáng là muốn tới một chiêu kéo da hổ làm bộ cờ người thủ đoạn, để cho mình cho rằng hắn có cái gì cường ngạnh phía sau đài, để cho mình thả qua hắn.
+ 
+ 	Trương Khang tự cho là đúng cho rằng mình khám phá Mưu Huy Dương muốn chơi người thủ đoạn, hắn vẫn là quyết định để cho Mưu Huy Dương gọi điện thoại này, liền lúc ấy vui một chút vui một chút, nếu là vạn nhất thằng nhóc này thật có bối cảnh gì mà nói, mình cũng tốt kịp thời bổ túc, nếu là chẳng qua là kéo da hổ làm bộ cờ, làm ra vẻ so, một hồi cũng có là thời gian thu thập hắn.
+ 
+ 	Converter Dzung Kiều cầu ủng hộ bộ HỒI ĐÁO ĐỊA CẦU ĐƯƠNG THẦN CÔN nhéConverter Dzung Kiều cầu phiếu 
+ 
+ 	Nói tới chỗ này Trương Khang cảm thấy miệng có chút phát khô, dừng lại liếm môi một cái tiếp tục nói: "Đối với giống như ngươi như vậy hoành hành bá đạo làm hại một phe ung thư, chúng ta trước sau như một tôn chỉ đó chính là phải kiên quyết đả kích tiến hành nghiêm trị, ngươi nếu bị ta bắt tại trận, vậy ta ngày hôm nay liền đem ngươi mang về tới thật tốt thẩm vấn một phen, đem ngươi trước kia nơi đã làm chuyện ác cũng đào ra, là thôn Long Oa diệt trừ cái này gieo họa."
+ 
+ 	Trương Khang trước miệng lưỡi lưu loát địa tiến hành suy nghĩ chủ quan suy đoán, sau đó sẽ thêm chư tội danh, giống nhau đem mình giả trang thành một cái vì dân trừ hại phá án cao thủ hình tượng huy hoàng.
+ 
+ 	"Bây giờ mệnh lệnh ta các ngươi, đem cái này người hiềm nghi phạm tội bắt quy án." Trương Khang cằn nhằn một trận sau khi nói xong, bất đồng người khác phản bác liền đối với mang tới cảnh sát nói.
+ 
+ 	Trương Khang thanh âm vừa dứt, hắn mang tới cảnh sát trong thì có ba người hướng Mưu Huy Dương vọt tới, còn lại 2 cảnh sát một cái khinh bỉ nhìn Tôn Kim Vượng cùng Trương Khang, đứng ở nơi đó không nhúc nhích.
+ 
+ 	"Hề hề, ngươi suy nghĩ chủ quan lực thật là phong phú, làm một cái nho nhỏ đồn trưởng thật là ủy khuất ngươi tài hoa, ngươi hẳn đi làm một cái nói bình thư, nói như vậy không bao lâu ngươi khẳng định thì sẽ phát đại tài." Mưu Huy Dương châm chọc nói.
+ 
+ 	/*Dzung Kiều : Bình thư (một hình thức văn nghệ dân gian của Trung Quốc, khi kể một câu chuyện dài dùng quạt, khăn làm đạo cụ)*/
+ 
+ 	"Ta khuyên các ngươi đừng làm thương để cho người lợi dụng, trước hay là đem sự việc làm rõ ràng động thủ nữa, tránh cho đến lúc đó cho người cõng oan uổng cũng không biết." Mưu Huy Dương bỏ mặc bị mình lời nói đem mặt giận đến xanh mét Trương Khang, đối trùng đến trước mặt mình ba cảnh sát nói.
+ 
+ 	Ba cái mới vừa vọt tới Mưu Huy Dương trước mặt cảnh sát nghe được Mưu Huy Dương mà nói, không khỏi đều ngừng lại, Tôn Kim Vượng làm làm, thành tựu cảnh sát bọn họ lại làm sao không biết, thật đúng là sợ cho hắn cõng cái này oan uổng.
+ 
+ 	"Đừng nghe hắn tranh cãi, cho ta đem hắn còng, đã xảy ra chuyện gì có ta chỉa vào." Trương Khang gặp ba người dừng lại, vội vàng hướng ba người nói.
+ 
+ 	"Ngươi nha. . . Không phải rất trâu sao? Bây giờ nha. . . Ở bò một cái cho ta xem xem."
+ 
+ 	Tôn Kim Vượng nghe Trương Khang mà nói, lại nhìn xem đứng ở Mưu Huy Dương trước mặt ba cảnh sát, lập tức trở nên tức giận, chỉa vào bị Mưu Huy Dương đánh cho thành đầu heo đầu dương dương đắc ý mắng.
+ 
+ 	Hắn mỗi nói một chữ, thì sẽ kéo đến vết thương trên mặt miệng, dường như đau đến hắn tê tê quất thẳng tới hơi lạnh, nhưng hắn cảm thấy rất hả giận, vẫn kiên trì nói.
+ 
+ 	"Ngươi đặc biệt không phải mới vừa rất có thể đánh sao? Ngươi đánh một người cảnh sát thử một chút!"
+ 
+ 	Thấy được Mưu Huy Dương không phản ứng hắn, Tôn Kim Vượng lại dương dương đắc ý nói: "Sợ, không dám? Có thể ngươi đặc biệt bây giờ mới nhớ sợ, đã muộn, chờ một lát đến đồn công an xem bố làm sao thu thập ngươi cái rùa con."
+ 
+ 	"Ngươi giống như một con ruồi vậy, không chỉ có phiền người, còn để cho người cảm thấy ghét, vậy ta liền đem ngươi cái này cuộc hành trình đầu con ruồi cho một cái tát đập chết." Mưu Huy Dương nói xong, hướng về phía Tôn Kim Vượng trên mặt chính là một cái tát.
+ 
+ 	"À. . ."
+ 
+ 	Tôn Kim Vượng không nghĩ tới Mưu Huy Dương lại dám ngay trước cảnh sát mặt tát mình, hắn bị một tát này cho rút ra ngu.
+ 
+ 	Chung quanh người trong thôn cũng cảm thấy Mưu Huy Dương là ở là quá lỗ mãng, cảnh sát kia rõ ràng liền đang thiên vị Tôn Kim Vượng các người, một tát này không phải tốt cho bọn họ lấy càng cái tốt mượn cớ sao?
+ 
+ 	Thấy Mưu Huy Dương lại dám ngay trước mình mặt tát em vợ 1 bạt tai, Trương Khang cảm thấy một tát này giống như là quất vào mình trên mặt tựa như, hắn nhất thời bạo giận lên, đưa tay rút ra đừng ở bên hông súng lục, nổi giận mắng: "Cmn, lại dám ngay trước cảnh sát mặt đánh người, thật sự là quá càn rỡ, có tin hay không bố một phát súng giết chết ngươi."
+ 
+ 	"Ngươi dám, ngươi nếu là dám động hắn một cọng tóc gáy, bố sẽ để cho các ngươi không đi ra lọt thôn Long Oa."
+ 
+ 	Đột nhiên một tiếng quát to truyền tới, Mưu Huy Dương chú Hai đi theo phía sau một đám người chạy tới, lập tức đem mấy cảnh sát cùng những tên côn đồ kia lưu manh vây ở trong, bọn họ trong tay đều cầm cái cuốc, xẻng cùng công cụ.
+ 
+ 	Thấy được đi theo các hương thân phía sau một cái thằng nhóc choai choai, Mưu Huy Dương mới làm rõ ràng, núi Tiểu Nam các hương thân tại sao sẽ đột nhiên tới.
+ 
+ 	Cái đó thằng nhóc choai choai cha mẹ cũng ở đây núi Tiểu Nam hỗ trợ, nguyên lai ở những người đó hướng Mưu Huy Dương vây tới lúc này cái đó thằng nhóc choai choai sợ Mưu Huy Dương thua thiệt, liền nhanh chóng hướng núi Tiểu Nam chạy đi báo tin đi, lúc này mới ở thời điểm mấu chốt nhất để cho các hương thân kịp thời chạy tới.
+ 
+ 	Thấy mấy chục cầm các loại nông cụ nông dân khí thế hung hăng đem bọn họ vì đứng lên, Trương Khang tâm lý cũng có chút luống cuống, hắn bên ngoài mạnh trong rỗng hướng về phía các hương thân hét: "Chúng ta đây là đang thi hành công vụ, nếu như các ngươi ở không để cho mở mà nói, ta liền đem các ngươi lấy làm trở ngại chấp pháp tội danh tất cả đều bắt lại."
+ 
+ 	Đây là hắn gặp phải loại chuyện này lúc trước sau như một cách làm, Hoa Hạ lão nhân dân đối với cảnh sát cái này cường lực ngành, trước sau như một cũng tâm tồn kính sợ, chỉ cần hắn như thế nói, lão nhân dân thì sẽ bởi vì sợ lập tức rời đi.
+ 
+ 	Các thôn dân nghe Trương Khang mà nói, không chỉ không có tránh ra ngược lại về phía trước lại đi mấy bước, đem bọn họ vây càng chặt hơn.
+ 
+ 	"Ngươi để những thứ này lường gạt vơ vét tài sản, ép mua ép bán côn đồ lưu manh không bắt, mà phải đem người bị hại bắt đi, ngươi đây là chấp cái gì pháp?" Mưu Huy Dương chú Hai chất vấn.
+ 
+ 	" Đúng vậy, dám đến chúng ta thôn Long Oa tới qua loa bắt người, ngươi phải hỏi hỏi chúng ta thôn Long Oa già trẻ có đáp ứng hay không." Chu Nhất Thương giơ giơ lên trong tay cái cuốc nói.
+ 
+ 	"Đúng vậy, cảnh sát không dậy nổi à, cảnh sát là có thể bắt loạn người tốt?"
+ 
+ 	"Cái gì cảnh sát à, ta mới vừa rồi nghe nói hắn là tên côn đồ kia đầu tử anh rể, nhất định là cùng bọn họ là một phe, hắn đây là giả mạo cảnh sát hù doạ hù dọa người thôi."
+ 
+ 	Các hương thân ngươi một câu ta một câu cái gì cũng nói, thấy nhiều người như vậy vây quanh bọn họ, hơn nữa đều rất bộ dáng tức giận, Trương Khang nhất thời trợn tròn mắt.
+ 
+ 	Vốn là muốn giúp trước em vợ xuất một chút đầu, không nghĩ tới đầu này không ra ở trên, mình còn bị người trong thôn vây lại.
+ 
+ 	Nhìn quần tình công phẫn đám người này, Trương Khang tâm lý không ngừng mắng mình em vợ, lần này hắn nhưng mà tự mình xuất cảnh, nếu là chuyện này lớn chuyện rồi, mình nhất định sẽ không ăn nổi bao đi.
+ 
+ 	Phê bình xuống chức không nói, nếu như bị người cố ý đem mình chuyện trước kia đào lên, mình cái này người cảnh phục không chỉ biết bị rút, nói không chừng còn phải đi vào ăn mấy năm miễn phí cơ quan cơm.
+ 
+ 	Bất quá sự việc đến bước này hắn cũng không có biện pháp khác, chỉ có thể đem sai liền sai một con đường đi tới đen, đem Mưu Huy Dương mang về, cho hắn gắn một cái tụ tập đám người đánh lộn, cố ý tổn thương tội danh, chỉ cần đem chuyện này làm thành thiết án, là có thể đem mình từ trong chuyện này hái đi ra.
+ 
+ 	Mặc dù vây quanh bọn họ người trong thôn rất nhiều, nhưng là hắn thật đúng là không tin những người này thật dám động thủ đánh cảnh sát, vì vậy hắn hướng về phía còn đứng ba cảnh sát mắng: "Còn đứng ngốc ở đó làm gì, vội vàng đem cái này cố ý tổn thương người khác hung thủ mang đi."
+ 
+ 	"Ta xem các ngươi ai dám."
+ 
+ 	" Đúng vậy, muốn đem hắn bắt đi trừ phi các ngươi từ chúng ta trên người bước qua đi."
+ 
+ 	"Cmn, ta xem các ngươi căn bản cũng không phải là cảnh sát, cảnh sát tuyệt đối sẽ không giống như các ngươi như vậy thị phi chẳng phân biệt được."
+ 
+ 	"Đánh hắn cái chó ghẻ, đang còn muốn chúng ta thôn Long Oa bắt người."
+ 
+ 	. . .
+ 
+ 	Trương Khang thấy được người càng ngày càng nhiều, già trẻ trai gái đều có, thật giống như cái này thôn Long Oa thôn dân đều tới tựa như, từng cái tức giận không thôi, có vậy tánh tình nóng nảy đã động thủ xô đẩy khởi người tới.
+ 
+ 	Lại xem mình mang tới thủ hạ, đối mặt đồng hương xô đẩy cũng không dám trả đủa, từng cái chỉ có thể hết sức né tránh. Em vợ mình mang tới những người đó, từng cái giống như là chết lão nương tựa như vẻ mặt đưa đám, lại cũng không có trước kia vậy phách lối ngang ngược bộ dáng.
+ 
+ 	Nhiều như vậy người vây quanh không để cho, Trương Khang lúc này cũng cảm thấy nhá nhem móng, bất quá mắt xem sự việc có càng diễn càng ác liệt khuynh hướng, hắn còn phải nhanh chóng nghĩ biện pháp đem đây là thở bình thường lại, nếu không theo cái này khuynh hướng phát triển tiếp, rất có thể sẽ gây thành một trận dùng binh khí đánh nhau sự kiện phát sinh, như vậy ngày hôm nay hắn thì thật thọt ngất trời, ai cũng không cứu được hắn.
+ 
+ 	Hắn trong lòng quýnh lên, đem súng trong tay bảo hiểm mở ra hướng về phía trên trời bắn ra 1 phát.
+ 
+ 	Tiếng súng chấn mọi người lỗ tai ông ông tác hưởng, nghe được tiếng súng, coi mắt cửa trên mặt đều lộ ra hoảng sợ thần sắc, cũng không khỏi hướng về phía sau lui.
+ 
+ 	Thấy mới vừa rồi còn khí thế hung hăng vây quanh mình những nông dân kia, lúc này trên mặt lộ ra hoảng sợ vẻ mặt không ngừng lui về phía sau, Trương Khang trên mặt lộ ra nụ cười đắc ý.
+ 
+ 	"Còn chế không được các ngươi cái này đám điêu dân, đang làm làm trở ngại chúng ta thi hành công vụ, liền đem các ngươi tất cả đều bắt lại." Trương Khang mặt lạnh đối với người chung quanh nói.
+ 
+ 	Thấy trong mắt những người kia thần sắc sợ hãi, Trương Khang tâm lý rất đắc ý, chỉ Mưu Huy Dương nói: "Đem hắn bắt lại cho ta mang đi."
+ 
+ 	Đối với mệnh lệnh của hắn, vậy ba cảnh sát do dự một chút, cuối cùng vẫn là đi tới, đưa tay hướng Mưu Huy Dương trên tay bắt đi.
+ 
+ 	"Đồn trưởng Trương oai phong còn thật không nhỏ, lại dám hướng về phía lão nhân dân bắn súng, nếu ngươi như vậy oai phong, khẳng định không ngại ta gọi điện thoại chứ ?" Mưu Huy Dương không để ý đến chu tới ba người, hướng về phía Trương Khang hỏi.
+ 
+ 	Ba người không dám làm quyết định, đều nhìn về Trương Khang.
+ 
+ 	Thấy Trương Khang sắc mặt, Mưu Huy Dương cũng biết hắn chắc chắn sẽ không đáp ứng, liền đối với hắn nói: "Ngươi tốt nhất hay là để cho ta gọi điện thoại, hay không người, ngươi sẽ hơn nữa hối hận."
+ 
+ 	Thấy Mưu Huy Dương một chút cũng không có hốt hoảng dấu hiệu, Trương Khang trong lòng bắt đầu đả khởi cổ lai, bất quá hắn ngay sau đó liền nghĩ đến thằng nhóc này chỉ là một nông dân nhỏ không có gì bối cảnh, xem bộ dáng là muốn tới một chiêu kéo da hổ làm bộ cờ người thủ đoạn, để cho mình cho rằng hắn có cái gì cường ngạnh phía sau đài, để cho mình thả qua hắn.
+ 
+ 	Trương Khang tự cho là đúng cho rằng mình khám phá Mưu Huy Dương muốn chơi người thủ đoạn, hắn vẫn là quyết định để cho Mưu Huy Dương gọi điện thoại này, liền lúc ấy vui một chút vui một chút, nếu là vạn nhất thằng nhóc này thật có bối cảnh gì mà nói, mình cũng tốt kịp thời bổ túc, nếu là chẳng qua là kéo da hổ làm bộ cờ, làm ra vẻ so, một hồi cũng có là thời gian thu thập hắn.
+ 
+ 	Converter Dzung Kiều cầu ủng hộ bộ HỒI ĐÁO ĐỊA CẦU ĐƯƠNG THẦN CÔN nhéConverter Dzung Kiều cầu phiếu 
+ 
+ 	Nói tới chỗ này Trương Khang cảm thấy miệng có chút phát khô, dừng lại liếm môi một cái tiếp tục nói: "Đối với giống như ngươi như vậy hoành hành bá đạo làm hại một phe ung thư, chúng ta trước sau như một tôn chỉ đó chính là phải kiên quyết đả kích tiến hành nghiêm trị, ngươi nếu bị ta bắt tại trận, vậy ta ngày hôm nay liền đem ngươi mang về tới thật tốt thẩm vấn một phen, đem ngươi trước kia nơi đã làm chuyện ác cũng đào ra, là thôn Long Oa diệt trừ cái này gieo họa."
+ 
+ 	Trương Khang trước miệng lưỡi lưu loát địa tiến hành suy nghĩ chủ quan suy đoán, sau đó sẽ thêm chư tội danh, giống nhau đem mình giả trang thành một cái vì dân trừ hại phá án cao thủ hình tượng huy hoàng.
+ 
+ 	"Bây giờ mệnh lệnh ta các ngươi, đem cái này người hiềm nghi phạm tội bắt quy án." Trương Khang cằn nhằn một trận sau khi nói xong, bất đồng người khác phản bác liền đối với mang tới cảnh sát nói.
+ 
+ 	Trương Khang thanh âm vừa dứt, hắn mang tới cảnh sát trong thì có ba người hướng Mưu Huy Dương vọt tới, còn lại 2 cảnh sát một cái khinh bỉ nhìn Tôn Kim Vượng cùng Trương Khang, đứng ở nơi đó không nhúc nhích.
+ 
+ 	"Hề hề, ngươi suy nghĩ chủ quan lực thật là phong phú, làm một cái nho nhỏ đồn trưởng thật là ủy khuất ngươi tài hoa, ngươi hẳn đi làm một cái nói bình thư, nói như vậy không bao lâu ngươi khẳng định thì sẽ phát đại tài." Mưu Huy Dương châm chọc nói.
+ 
+ 	/*Dzung Kiều : Bình thư (một hình thức văn nghệ dân gian của Trung Quốc, khi kể một câu chuyện dài dùng quạt, khăn làm đạo cụ)*/
+ 
+ 	"Ta khuyên các ngươi đừng làm thương để cho người lợi dụng, trước hay là đem sự việc làm rõ ràng động thủ nữa, tránh cho đến lúc đó cho người cõng oan uổng cũng không biết." Mưu Huy Dương bỏ mặc bị mình lời nói đem mặt giận đến xanh mét Trương Khang, đối trùng đến trước mặt mình ba cảnh sát nói.
+ 
+ 	Ba cái mới vừa vọt tới Mưu Huy Dương trước mặt cảnh sát nghe được Mưu Huy Dương mà nói, không khỏi đều ngừng lại, Tôn Kim Vượng làm làm, thành tựu cảnh sát bọn họ lại làm sao không biết, thật đúng là sợ cho hắn cõng cái này oan uổng.
+ 
+ 	"Đừng nghe hắn tranh cãi, cho ta đem hắn còng, đã xảy ra chuyện gì có ta chỉa vào." Trương Khang gặp ba người dừng lại, vội vàng hướng ba người nói.
+ 
+ 	"Ngươi nha. . . Không phải rất trâu sao? Bây giờ nha. . . Ở bò một cái cho ta xem xem."
+ 
+ 	Tôn Kim Vượng nghe Trương Khang mà nói, lại nhìn xem đứng ở Mưu Huy Dương trước mặt ba cảnh sát, lập tức trở nên tức giận, chỉa vào bị Mưu Huy Dương đánh cho thành đầu heo đầu dương dương đắc ý mắng.
+ 
+ 	Hắn mỗi nói một chữ, thì sẽ kéo đến vết thương trên mặt miệng, dường như đau đến hắn tê tê quất thẳng tới hơi lạnh, nhưng hắn cảm thấy rất hả giận, vẫn kiên trì nói.
+ 
+ 	"Ngươi đặc biệt không phải mới vừa rất có thể đánh sao? Ngươi đánh một người cảnh sát thử một chút!"
+ 
+ 	Thấy được Mưu Huy Dương không phản ứng hắn, Tôn Kim Vượng lại dương dương đắc ý nói: "Sợ, không dám? Có thể ngươi đặc biệt bây giờ mới nhớ sợ, đã muộn, chờ một lát đến đồn công an xem bố làm sao thu thập ngươi cái rùa con."
+ 
+ 	"Ngươi giống như một con ruồi vậy, không chỉ có phiền người, còn để cho người cảm thấy ghét, vậy ta liền đem ngươi cái này cuộc hành trình đầu con ruồi cho một cái tát đập chết." Mưu Huy Dương nói xong, hướng về phía Tôn Kim Vượng trên mặt chính là một cái tát.
+ 
+ 	"À. . ."
+ 
+ 	Tôn Kim Vượng không nghĩ tới Mưu Huy Dương lại dám ngay trước cảnh sát mặt tát mình, hắn bị một tát này cho rút ra ngu.
+ 
+ 	Chung quanh người trong thôn cũng cảm thấy Mưu Huy Dương là ở là quá lỗ mãng, cảnh sát kia rõ ràng liền đang thiên vị Tôn Kim Vượng các người, một tát này không phải tốt cho bọn họ lấy càng cái tốt mượn cớ sao?
+ 
+ 	Thấy Mưu Huy Dương lại dám ngay trước mình mặt tát em vợ 1 bạt tai, Trương Khang cảm thấy một tát này giống như là quất vào mình trên mặt tựa như, hắn nhất thời bạo giận lên, đưa tay rút ra đừng ở bên hông súng lục, nổi giận mắng: "Cmn, lại dám ngay trước cảnh sát mặt đánh người, thật sự là quá càn rỡ, có tin hay không bố một phát súng giết chết ngươi."
+ 
+ 	"Ngươi dám, ngươi nếu là dám động hắn một cọng tóc gáy, bố sẽ để cho các ngươi không đi ra lọt thôn Long Oa."
+ 
+ 	Đột nhiên một tiếng quát to truyền tới, Mưu Huy Dương chú Hai đi theo phía sau một đám người chạy tới, lập tức đem mấy cảnh sát cùng những tên côn đồ kia lưu manh vây ở trong, bọn họ trong tay đều cầm cái cuốc, xẻng cùng công cụ.
+ 
+ 	Thấy được đi theo các hương thân phía sau một cái thằng nhóc choai choai, Mưu Huy Dương mới làm rõ ràng, núi Tiểu Nam các hương thân tại sao sẽ đột nhiên tới.
+ 
+ 	Cái đó thằng nhóc choai choai cha mẹ cũng ở đây núi Tiểu Nam hỗ trợ, nguyên lai ở những người đó hướng Mưu Huy Dương vây tới lúc này cái đó thằng nhóc choai choai sợ Mưu Huy Dương thua thiệt, liền nhanh chóng hướng núi Tiểu Nam chạy đi báo tin đi, lúc này mới ở thời điểm mấu chốt nhất để cho các hương thân kịp thời chạy tới.
+ 
+ 	Thấy mấy chục cầm các loại nông cụ nông dân khí thế hung hăng đem bọn họ vì đứng lên, Trương Khang tâm lý cũng có chút luống cuống, hắn bên ngoài mạnh trong rỗng hướng về phía các hương thân hét: "Chúng ta đây là đang thi hành công vụ, nếu như các ngươi ở không để cho mở mà nói, ta liền đem các ngươi lấy làm trở ngại chấp pháp tội danh tất cả đều bắt lại."
+ 
+ 	Đây là hắn gặp phải loại chuyện này lúc trước sau như một cách làm, Hoa Hạ lão nhân dân đối với cảnh sát cái này cường lực ngành, trước sau như một cũng tâm tồn kính sợ, chỉ cần hắn như thế nói, lão nhân dân thì sẽ bởi vì sợ lập tức rời đi.
+ 
+ 	Các thôn dân nghe Trương Khang mà nói, không chỉ không có tránh ra ngược lại về phía trước lại đi mấy bước, đem bọn họ vây càng chặt hơn.
+ 
+ 	"Ngươi để những thứ này lường gạt vơ vét tài sản, ép mua ép bán côn đồ lưu manh không bắt, mà phải đem người bị hại bắt đi, ngươi đây là chấp cái gì pháp?" Mưu Huy Dương chú Hai chất vấn.
+ 
+ 	" Đúng vậy, dám đến chúng ta thôn Long Oa tới qua loa bắt người, ngươi phải hỏi hỏi chúng ta thôn Long Oa già trẻ có đáp ứng hay không." Chu Nhất Thương giơ giơ lên trong tay cái cuốc nói.
+ 
+ 	"Đúng vậy, cảnh sát không dậy nổi à, cảnh sát là có thể bắt loạn người tốt?"
+ 
+ 	"Cái gì cảnh sát à, ta mới vừa rồi nghe nói hắn là tên côn đồ kia đầu tử anh rể, nhất định là cùng bọn họ là một phe, hắn đây là giả mạo cảnh sát hù doạ hù dọa người thôi."
+ 
+ 	Các hương thân ngươi một câu ta một câu cái gì cũng nói, thấy nhiều người như vậy vây quanh bọn họ, hơn nữa đều rất bộ dáng tức giận, Trương Khang nhất thời trợn tròn mắt.
+ 
+ 	Vốn là muốn giúp trước em vợ xuất một chút đầu, không nghĩ tới đầu này không ra ở trên, mình còn bị người trong thôn vây lại.
+ 
+ 	Nhìn quần tình công phẫn đám người này, Trương Khang tâm lý không ngừng mắng mình em vợ, lần này hắn nhưng mà tự mình xuất cảnh, nếu là chuyện này lớn chuyện rồi, mình nhất định sẽ không ăn nổi bao đi.
+ 
+ 	Phê bình xuống chức không nói, nếu như bị người cố ý đem mình chuyện trước kia đào lên, mình cái này người cảnh phục không chỉ biết bị rút, nói không chừng còn phải đi vào ăn mấy năm miễn phí cơ quan cơm.
+ 
+ 	Bất quá sự việc đến bước này hắn cũng không có biện pháp khác, chỉ có thể đem sai liền sai một con đường đi tới đen, đem Mưu Huy Dương mang về, cho hắn gắn một cái tụ tập đám người đánh lộn, cố ý tổn thương tội danh, chỉ cần đem chuyện này làm thành thiết án, là có thể đem mình từ trong chuyện này hái đi ra.
+ 
+ 	Mặc dù vây quanh bọn họ người trong thôn rất nhiều, nhưng là hắn thật đúng là không tin những người này thật dám động thủ đánh cảnh sát, vì vậy hắn hướng về phía còn đứng ba cảnh sát mắng: "Còn đứng ngốc ở đó làm gì, vội vàng đem cái này cố ý tổn thương người khác hung thủ mang đi."
+ 
+ 	"Ta xem các ngươi ai dám."
+ 
+ 	" Đúng vậy, muốn đem hắn bắt đi trừ phi các ngươi từ chúng ta trên người bước qua đi."
+ 
+ 	"Cmn, ta xem các ngươi căn bản cũng không phải là cảnh sát, cảnh sát tuyệt đối sẽ không giống như các ngươi như vậy thị phi chẳng phân biệt được."
+ 
+ 	"Đánh hắn cái chó ghẻ, đang còn muốn chúng ta thôn Long Oa bắt người."
+ 
+ 	. . .
+ 
+ 	Trương Khang thấy được người càng ngày càng nhiều, già trẻ trai gái đều có, thật giống như cái này thôn Long Oa thôn dân đều tới tựa như, từng cái tức giận không thôi, có vậy tánh tình nóng nảy đã động thủ xô đẩy khởi người tới.
+ 
+ 	Lại xem mình mang tới thủ hạ, đối mặt đồng hương xô đẩy cũng không dám trả đủa, từng cái chỉ có thể hết sức né tránh. Em vợ mình mang tới những người đó, từng cái giống như là chết lão nương tựa như vẻ mặt đưa đám, lại cũng không có trước kia vậy phách lối ngang ngược bộ dáng.
+ 
+ 	Nhiều như vậy người vây quanh không để cho, Trương Khang lúc này cũng cảm thấy nhá nhem móng, bất quá mắt xem sự việc có càng diễn càng ác liệt khuynh hướng, hắn còn phải nhanh chóng nghĩ biện pháp đem đây là thở bình thường lại, nếu không theo cái này khuynh hướng phát triển tiếp, rất có thể sẽ gây thành một trận dùng binh khí đánh nhau sự kiện phát sinh, như vậy ngày hôm nay hắn thì thật thọt ngất trời, ai cũng không cứu được hắn.
+ 
+ 	Hắn trong lòng quýnh lên, đem súng trong tay bảo hiểm mở ra hướng về phía trên trời bắn ra 1 phát.
+ 
+ 	Tiếng súng chấn mọi người lỗ tai ông ông tác hưởng, nghe được tiếng súng, coi mắt cửa trên mặt đều lộ ra hoảng sợ thần sắc, cũng không khỏi hướng về phía sau lui.
+ 
+ 	Thấy mới vừa rồi còn khí thế hung hăng vây quanh mình những nông dân kia, lúc này trên mặt lộ ra hoảng sợ vẻ mặt không ngừng lui về phía sau, Trương Khang trên mặt lộ ra nụ cười đắc ý.
+ 
+ 	"Còn chế không được các ngươi cái này đám điêu dân, đang làm làm trở ngại chúng ta thi hành công vụ, liền đem các ngươi tất cả đều bắt lại." Trương Khang mặt lạnh đối với người chung quanh nói.
+ 
+ 	Thấy trong mắt những người kia thần sắc sợ hãi, Trương Khang tâm lý rất đắc ý, chỉ Mưu Huy Dương nói: "Đem hắn bắt lại cho ta mang đi."
+ 
+ 	Đối với mệnh lệnh của hắn, vậy ba cảnh sát do dự một chút, cuối cùng vẫn là đi tới, đưa tay hướng Mưu Huy Dương trên tay bắt đi.
+ 
+ 	"Đồn trưởng Trương oai phong còn thật không nhỏ, lại dám hướng về phía lão nhân dân bắn súng, nếu ngươi như vậy oai phong, khẳng định không ngại ta gọi điện thoại chứ ?" Mưu Huy Dương không để ý đến chu tới ba người, hướng về phía Trương Khang hỏi.
+ 
+ 	Ba người không dám làm quyết định, đều nhìn về Trương Khang.
+ 
+ 	Thấy Trương Khang sắc mặt, Mưu Huy Dương cũng biết hắn chắc chắn sẽ không đáp ứng, liền đối với hắn nói: "Ngươi tốt nhất hay là để cho ta gọi điện thoại, hay không người, ngươi sẽ hơn nữa hối hận."
+ 
+ 	Thấy Mưu Huy Dương một chút cũng không có hốt hoảng dấu hiệu, Trương Khang trong lòng bắt đầu đả khởi cổ lai, bất quá hắn ngay sau đó liền nghĩ đến thằng nhóc này chỉ là một nông dân nhỏ không có gì bối cảnh, xem bộ dáng là muốn tới một chiêu kéo da hổ làm bộ cờ người thủ đoạn, để cho mình cho rằng hắn có cái gì cường ngạnh phía sau đài, để cho mình thả qua hắn.
+ 
+ 	Trương Khang tự cho là đúng cho rằng mình khám phá Mưu Huy Dương muốn chơi người thủ đoạn, hắn vẫn là quyết định để cho Mưu Huy Dương gọi điện thoại này, liền lúc ấy vui một chút vui một chút, nếu là vạn nhất thằng nhóc này thật có bối cảnh gì mà nói, mình cũng tốt kịp thời bổ túc, nếu là chẳng qua là kéo da hổ làm bộ cờ, làm ra vẻ so, một hồi cũng có là thời gian thu thập hắn.
+ 
+ 	Converter Dzung Kiều cầu ủng hộ bộ HỒI ĐÁO ĐỊA CẦU ĐƯƠNG THẦN CÔN nhé

@@ -1,0 +1,703 @@
+Keng! – Chúc mừng, kỹ năng "Minh Tưởng Thuật" (Trung Cấp) của ngài đã được nâng cấp thành "Minh Tưởng Thuật" (Cao Cấp).
+
+… "Cốt Thứ" (Hạ Cấp) của ngài đã tiến giai thành "Thiên Cốt Thứ" (Cao Cấp).
+
+… "Cốt Giáp’ (Trung Cấp) của ngài đã tiến giai thành "Hắc Ám Cốt Giáp" (Cao Cấp). 
+
+… "Nguyền Rủa Suy Yếu" (Hạ Cấp) của ngài đã tiến giai thành ‘Nguyền Rủa Phong Ấn’ (Cao Cấp). 
+
+… ‘Triệu hồi Bộ Xương Chiến Sĩ’ (Trung Cấp) của ngài đã tiến giai thành ‘Triệu hồi Bộ Xương Đấu Sĩ’ (Cao Cấp).
+
+… ‘Triệu hồi Tang Thi’ (Trung Cấp) của ngài đã tiến giai thành ‘Triệu hồi Hắc Ám Tang Thi’ (Cao Cấp).
+
+… ‘Triệu hồi Bộ Xương Cung Thủ’ (Trung Cấp) của ngài đã tiến giai thành ‘Triệu hồi Bộ Xương Thần Tiễn Thủ’ (Cao Cấp). 
+
+Ngay khi Đình Tấn vừa mở lên bảng kỹ năng của mình, lập tức một loạt âm thanh thông báo dồn dập kéo đến tập kích lỗ tai của hắn một hồi lâu.
+
+Không ngừng lại tại đó, thông báo của hệ thống vừa chấm dứt, đầu óc Đình Tấn lại tiếp tục cảm thấy mơ hồ đi, trạng thái nửa mê nửa tỉnh không thể suy nghĩ được gì.
+
+Đến một lúc sau tình trạng ấy mới ngừng lại, hắn liền cảm giác như mình vừa được bơm cái gì vào não, mà trí nhớ lại có thêm một vài vật nhưng lại không biết rõ đó là thứ gì.
+
+-“Ngươi đã chuyển chức thành công, hiện tại có thể học thêm kỹ năng liên quan đến hấp thu và sử dụng các loại nguyên tố hoặc một vài kỹ năng đặc biệt tại ta nơi này.”
+
+Chợt, đã im lặng được một khoảng thời gian, gã [NPC Hướng Dẫn] lúc này lại bất ngờ lên tiếng.
+
+Đình Tấn cũng bị đối phương nói làm cho phục hồi lại tinh thần, bất quá, hắn không có lập tức mở giao tiếp với gã [NPC Hướng Dẫn] để học kỹ năng, mà chỉ chuyển dời tầm mắt trở lại bảng giao diện hệ thống thông tin kỹ năng trước mặt mình.
+
+Đập vào mắt Đình Tấn là toàn bộ kỹ năng thuộc về nhánh Vong Linh Pháp Sư của hắn đều đã bị thay thế, hay nói đúng hơn là được miễn phí thăng cấp lên Cao Cấp không bỏ sót lại cái nào.
+
+‘Bộ Xương Chiến Sĩ’ đã thay đổi thành ‘Bộ Xương Đấu Sĩ’, ‘Tang Thi’ lại thấy có thêm một cái danh từ [Hắc Ám] đứng đầu, mà ‘Bộ Xương Cung Thủ’ cũng đồng dạng bị biến thành ‘Bộ Xương Thần Tiễn Thủ’.
+
+Mặc dù chưa được xem qua thuộc tính hay làm thử triệu hồi bọn chúng ra để kiểm chứng, nhưng chỉ dựa vào cái tên đại khí này, Đình Tấn đã có một loại cảm giác ‘Mạnh’, mạnh hơn rất nhiều so với những tên vong linh cũ trước đó.
+
+Trong lòng hồi hộp không ngớt, Đình Tấn cố gắng hít thở sâu, đưa tay bấm chọn một kỹ năng triệu hồi cơ bản nhất của mình, thử kiểm tra xem thay đổi của nó là bao lớn.
+
+Triệu hồi Bộ Xương Đấu Sĩ
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 90 MP (Kéo dài tiêu hao 30MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 45
+
+[Nguyên Tố Sát Thương] = [Nguyên Tố Sát Thương] của chủ nhân
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố] / 10
+
+Sát thương cơ bản = [Điểm tinh thần] * 1.3
+
+Phòng thủ cơ bản = [Điểm sức mạnh] / 2
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 18
+
+Đồng bộ hóa hiện thực: hiệu quả không đổi, tiêu hao không đổi. Độ chuẩn xác thông số 90%. Hệ thống sẽ khóa DNA của ngài nếu có tố cáo ngài phạm tội từ phía chính phủ. Xin hãy cẩn thận sử dụng. (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+…
+
+-“[Nguyên Tố Sát Thương]?! Bộ Xương Chiến Sĩ mà lại có [Nguyên Tố Sát Thương]!”
+
+Chỉ nhìn sơ qua một hồi biến đổi, Đình Tấn bất chợt cảm thấy thế giới bỗng nhiên mở rộng ra rất nhiều.
+
+Tuy nhiên, tại thời điểm hắn đang kinh ngạc đó, một luồng tin tức tin ẩn nấp từ nơi sâu xa trong não hải của hắn bỗng nhiên tràn về.
+
+Cách triệu hồi, cách thiết lập phân bố, phương pháp điều chỉnh số lượng khi triệu hồi… tất cả đều lần lượt trôi chảy qua ký ức của Đình Tấn, hệt như là những thứ đó hắn đều đã từng học và sử dụng qua cách đây rất lâu nhưng thoáng quên đi, bây giờ mới nhớ lại được một cách kỹ càng không sót chi tiết nào.
+
+-“Thì ra là vậy…”
+
+Chỉ trong một thoáng chốc ấy, trong lòng Đình Tấn bỗng hiện ra một tia minh ngộ, những điều thắc mắc hay khó hiểu của hắn về cách sử dụng và triệu hồi pháp thuật, giờ phút này đã được mở rộng ra không ít.
+
+Trước đây, hắn chỉ biết triệu hồi kỹ năng theo một cách máy móc, học thuộc nằm lòng mà không hiểu ý nghĩa của bất kì loại ấn ký nào, thì giờ khắc này đây, hắn đã có thể hiểu rõ hơn nhiều. 
+
+Ví như vì sao lại phải thay đổi ấn ký tại vị trí nào đó, để có thể thay đổi số lượng của vong linh được triệu hồi. Hoặc chuyển đổi vị trí của một vài ấn ký ma pháp để triệu hồi vong linh có cấp độ thấp hơn.
+
+Bỏ ra một vài giây chỉnh chu lại những thông tin vừa xuất hiện trong đại não của mình, Đình Tấn lại tiếp tục bấm chọn kiểm tra kỹ lưỡng lại hai kỹ năng triệu hồi còn lại trong bảng hệ thống kỹ năng của hắn. 
+
+Triệu hồi Hắc Ám Tang Thi 
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 180 MP (Kéo dài tiêu hao 60MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 30
+
+[Nguyên Tố Sát Thương] = [Nguyên Tố Sát Thương] của chủ nhân
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố] / 10
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1.7
+
+Phòng thủ vật lý = [Điểm Sức mạnh] / 10
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 24
+
+Mang theo kỹ năng: 
+
+-Hắc Ám Hủ Thực (Bị Động): Ăn mòn 1% khả năng phòng thủ cùng đề kháng nguyên tố công kích của kẻ địch, có thể chất chồng đến tối đa 10%, duy trì trong 15 giây.
+
+-Độc Huyết (Bị Động): Lấy thi độc công kích vào máu huyết của quái vật, khiến chúng bị suy yếu đi 1% khả năng phòng thủ cùng đề kháng nguyên tố công kích của kẻ địch, có thể chất chồng đến tối đa 5%, duy trì trong 5 giây.
+
+Triệu hồi Bộ Xương Thần Tiễn Thủ 
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 360 MP (Kéo dài tiêu hao 120 MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 25
+
+[Nguyên Tố Sát Thương] = [Nguyên Tố Sát Thương] của chủ nhân
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố / 10]
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1.7
+
+Phòng thủ vật lý = [Điểm Sức mạnh] / 20
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 36
+
+Mang theo kỹ năng: 
+
+-Hủy Diệt Chi Tiễn (Chủ Động): Hiến tế linh hồn vào một mũi tên, công kích bỏ qua phòng ngự và nguyên tố đề kháng của kẻ địch, gây ra trạng thái choáng trong 2 giây, tùy vào đẳng cấp chênh lệch giữa đôi bên.
+
+-Phá Ma Chi Tiễn (Chủ Động): Tiến hành tập trung năng lượng, bắn ra một mũi tên có khả năng xuyên thủng phòng ngự dạng lồng năng lượng của kẻ địch, nhưng đổi lại sẽ bị tê liệt trong 5 giây.
+
+Giống như trước, mỗi một lần bấm chọn vào xem thông tin kỹ năng mới, trong đầu Đình Tấn liền thoáng hiện ra những tin tức mới.
+
+Hắn nghĩ thầm, đây chắc chắn là do hệ thống làm ra động tác, truyền một luồng tin tức vào đại não để người chơi có thể không cần phải mất quá nhiều thời gian để nghiên cứu tài liệu về kỹ năng.
+
+Duy chỉ có một điều làm Đình Tấn khá là tiếc nuối, chính là Tu La Huyết Chiến Sĩ lại không nằm trong số những kỹ năng được thăng cấp. 
+
+Mặc dù nó vẫn còn là kỹ năng trung cấp, nhưng phỏng chừng do Đình Tấn không đủ thực lực để học tập và sử dụng nó tại đẳng cấp 43, cho nên kỹ năng triệu hồi Tu La Huyết Chiến Sĩ không được hệ thống tiến giai lên hàng ngũ cao cấp.
+
+Bỏ ra một hồi lâu kiểm tra, Đình Tấn cuối cùng mới đưa ra một nhận định, hết thảy những kỹ năng triệu hồi vong linh cấp thấp của hắn đã trải qua một hồi biến đổi về chất.
+
+Không chỉ được tăng thêm công kích chưa đựng [Nguyên Tố Sát Thương] mà kỹ năng và thuộc tính của chúng cũng có được một hồi lột xác thấy rõ.
+
+Hiện tại, nội tâm Đình Tấn thật sự là kích động không ngớt, bởi lẽ hắn đã bước nửa bước lên một tầm cao mới mà coi như là ở thời điểm trước khi trùng sinh về, hắn cũng chưa từng bao giờ chạm tới được nơi đó.
+
+Tuy rằng số lượng vong linh bị giảm lại một nửa, tiêu hao cũng nhiều hơn gấp bội, nhưng Đình Tấn tin tưởng, lấy thực lực của chúng được tăng lên nhiều như vậy cũng đủ để ăn đứt những tên vong linh trước yếu ớt trước đây của hắn rồi.
+
+-“Kiểm tra xem thử những kỹ năng khác xem.”
+
+Bất quá, Đình Tấn không vì thế mà trở nên ngạo mạn, tự cho mình là người mạnh nhất. Hắn rất nhanh thì đã bình ổn lại được tâm tình của mình, tiếp đến mới trầm ngâm một hồi, đưa ánh mắt trở về phía đầu bảng kỹ năng.
+
+Nơi đó chính là một loạt các kỹ năng cơ bản của nghề nghiệp Vong Linh Pháp Sư đã được đặc cấp tiến giai lên hàng ngũ cao cấp.
+
+"Nguyền Rủa Phong Ấn"
+
+Cấp bậc: Cao Cấp
+
+Tiêu hao: [Điểm tinh thần / 2] (HP)
+
+Hiệu quả: 
+
+-Kẻ địch dưới 10 cấp: Phong ấn 30% điểm thuộc tính
+
+-Kẻ địch dưới 1 – 9 cấp: Phong ấn 20% điểm thuộc tính 
+
+-Kẻ địch đồng cấp - trên 9 cấp: Phong ấn 15% điểm thuộc tính
+
+-Kẻ địch trên 10 cấp: Phong ấn 10% điểm thuộc tính.
+
+Thời gian duy trì trong trong [Điểm tinh thần] giây, không cần làm lạnh. (Không thể chồng chất)
+
+…
+
+‘Địa Ngục Cốt Giáp"
+
+Cấp bậc: Cao Cấp
+
+Tiêu hao: [Điểm tinh thần] MP
+
+Hiệu quả: 
+
+-Triệu hồi ra 10 tấm cốt giáp
+
+-Mỗi tấm sở hữu lượng HP = [Điểm tinh thần*3]
+
+-Khả năng kháng đỡ [Nguyên Tố Sát Thương] = [Tổng Năng Lượng Nguyên Tố] * 0.5
+
+-Duy trì trong [Điểm tinh thần] giây
+
+Thời gian làm lạnh: [Điểm tinh thần / 2] giây
+
+"Thiên Cốt Thứ"
+
+Cấp bậc: Cao Cấp
+
+Giới thiệu: Triệu hồi một rừng xương cốt mọc ra từ mặt đất tấn công kẻ địch trong một khuôn viên nhất định.
+
+Tiêu hao: [Bán kính khu vực công kích * 10] MP
+
+Hiệu quả: 
+
+-Bán kính khu vực bao trùm = [Điểm tinh thần / 10]
+
+-Sát thương cơ bản = [Điểm tinh thần * 2]
+
+-Mang theo [Nguyên Tố Sát Thương] tối đa bằng gấp hai [Nguyên Tố Sát Thương] của người triệu hồi.
+
+Thời gian làm lạnh: 300 giây – [Điểm tinh thần / 100]
+
+…
+
+‘Tê’
+
+-“Thật mạnh!!!”
+
+Một hơi hít sâu vào, Đình Tấn mới kìm lại được cơn kích động, không cho mình hét lên, chỉ nhẹ giọng trầm thán ra.
+
+Ba kỹ năng này, Đình Tấn trước đây chỉ thường sử dụng có hai cái là ‘Cốt Giáp" để bảo hộ sinh mạng trong lúc nguy cấp, cùng với ‘"Nguyền Rủa Suy Yếu’ để dễ dàng hơn đối phó với Boss.
+
+Cả hai kỹ năng đó tác dụng có thể nói là không quá lớn, thỉnh thoảng mới sẽ mang lại cho Đình Tấn một chút ít hiệu quả bất ngờ mà thôi.
+
+Còn về phần "Cốt Thứ" thì không cần phải nói, từ lúc Đình Tấn đạt được 20 cấp trở đi về sau thì tác dụng của nó hiển lộ ra đã không còn nhiều nữa, hay không muốn nói là vô dụng.
+
+Sát thương của nó so với quân đoàn vong linh của hắn quả thật là một trời một vực, lại tốn thời gian triệu hồi ra, công kích lại là đơn thể mục tiêu, đó cũng chính là nguyên do Đình Tấn rất ít khi sử dụng kỹ năng này.
+
+Nhưng bây giờ thì đã khác, ‘Cốt Thứ" tiến giai thành "Thiên Cốt Thứ", có thể nói là chẳng khác gì ná cao su biến hình thành súng rocket. 
+
+Không chỉ mang tính chất quần công, sở hữu sát thương cơ bản và [Nguyên Tố Sát Thương] cao, mà thời gian làm lạnh của nó còn giảm theo thực lực tăng nhanh. 
+
+Ngoài ra, càng đặc biệt hơn hết là thông qua tin tức truyền vào đại não khi kiểm tra thông tin kỹ năng, Đình Tấn lại phát hiện ra một điều, kỹ năng này còn có thể chuyển đổi thành loại hình đơn thể công kích, mà sát thương cũng sẽ vì thế tăng lên gấp bội.
+
+Coi như chưa từng triệu hồi ra kỹ năng này, thì Đình Tấn cũng đã đại khái đoán ra được cách mà nó công kích.
+
+-“Thật tốt, xem ra sau này không phải lo về thiếu thốn sát thương quần công nữa rồi.”
+
+Tâm trạng rất vui vẻ, Đình Tấn âm thầm cảm khái một câu, sau đó chuyển dời ánh mắt về phía tên [NPC Hướng Dẫn], bên trong tràn ngập vẻ háo hức cùng chờ mong.
+
+Hiện tại là lúc Đình Tấn muốn kiểm tra xem với bảy điểm kỹ năng tự do được tích lũy từ lúc 20 cấp cho đến giờ, liệu rằng có thể cho hắn học thêm được một vài kỹ năng gì đó hiệu quả nữa hay không.Keng! – Chúc mừng, kỹ năng "Minh Tưởng Thuật" (Trung Cấp) của ngài đã được nâng cấp thành "Minh Tưởng Thuật" (Cao Cấp).
+
+… "Cốt Thứ" (Hạ Cấp) của ngài đã tiến giai thành "Thiên Cốt Thứ" (Cao Cấp).
+
+… "Cốt Giáp’ (Trung Cấp) của ngài đã tiến giai thành "Hắc Ám Cốt Giáp" (Cao Cấp). 
+
+… "Nguyền Rủa Suy Yếu" (Hạ Cấp) của ngài đã tiến giai thành ‘Nguyền Rủa Phong Ấn’ (Cao Cấp). 
+
+… ‘Triệu hồi Bộ Xương Chiến Sĩ’ (Trung Cấp) của ngài đã tiến giai thành ‘Triệu hồi Bộ Xương Đấu Sĩ’ (Cao Cấp).
+
+… ‘Triệu hồi Tang Thi’ (Trung Cấp) của ngài đã tiến giai thành ‘Triệu hồi Hắc Ám Tang Thi’ (Cao Cấp).
+
+… ‘Triệu hồi Bộ Xương Cung Thủ’ (Trung Cấp) của ngài đã tiến giai thành ‘Triệu hồi Bộ Xương Thần Tiễn Thủ’ (Cao Cấp). 
+
+Ngay khi Đình Tấn vừa mở lên bảng kỹ năng của mình, lập tức một loạt âm thanh thông báo dồn dập kéo đến tập kích lỗ tai của hắn một hồi lâu.
+
+Không ngừng lại tại đó, thông báo của hệ thống vừa chấm dứt, đầu óc Đình Tấn lại tiếp tục cảm thấy mơ hồ đi, trạng thái nửa mê nửa tỉnh không thể suy nghĩ được gì.
+
+Đến một lúc sau tình trạng ấy mới ngừng lại, hắn liền cảm giác như mình vừa được bơm cái gì vào não, mà trí nhớ lại có thêm một vài vật nhưng lại không biết rõ đó là thứ gì.
+
+-“Ngươi đã chuyển chức thành công, hiện tại có thể học thêm kỹ năng liên quan đến hấp thu và sử dụng các loại nguyên tố hoặc một vài kỹ năng đặc biệt tại ta nơi này.”
+
+Chợt, đã im lặng được một khoảng thời gian, gã [NPC Hướng Dẫn] lúc này lại bất ngờ lên tiếng.
+
+Đình Tấn cũng bị đối phương nói làm cho phục hồi lại tinh thần, bất quá, hắn không có lập tức mở giao tiếp với gã [NPC Hướng Dẫn] để học kỹ năng, mà chỉ chuyển dời tầm mắt trở lại bảng giao diện hệ thống thông tin kỹ năng trước mặt mình.
+
+Đập vào mắt Đình Tấn là toàn bộ kỹ năng thuộc về nhánh Vong Linh Pháp Sư của hắn đều đã bị thay thế, hay nói đúng hơn là được miễn phí thăng cấp lên Cao Cấp không bỏ sót lại cái nào.
+
+‘Bộ Xương Chiến Sĩ’ đã thay đổi thành ‘Bộ Xương Đấu Sĩ’, ‘Tang Thi’ lại thấy có thêm một cái danh từ [Hắc Ám] đứng đầu, mà ‘Bộ Xương Cung Thủ’ cũng đồng dạng bị biến thành ‘Bộ Xương Thần Tiễn Thủ’.
+
+Mặc dù chưa được xem qua thuộc tính hay làm thử triệu hồi bọn chúng ra để kiểm chứng, nhưng chỉ dựa vào cái tên đại khí này, Đình Tấn đã có một loại cảm giác ‘Mạnh’, mạnh hơn rất nhiều so với những tên vong linh cũ trước đó.
+
+Trong lòng hồi hộp không ngớt, Đình Tấn cố gắng hít thở sâu, đưa tay bấm chọn một kỹ năng triệu hồi cơ bản nhất của mình, thử kiểm tra xem thay đổi của nó là bao lớn.
+
+Triệu hồi Bộ Xương Đấu Sĩ
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 90 MP (Kéo dài tiêu hao 30MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 45
+
+[Nguyên Tố Sát Thương] = [Nguyên Tố Sát Thương] của chủ nhân
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố] / 10
+
+Sát thương cơ bản = [Điểm tinh thần] * 1.3
+
+Phòng thủ cơ bản = [Điểm sức mạnh] / 2
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 18
+
+Đồng bộ hóa hiện thực: hiệu quả không đổi, tiêu hao không đổi. Độ chuẩn xác thông số 90%. Hệ thống sẽ khóa DNA của ngài nếu có tố cáo ngài phạm tội từ phía chính phủ. Xin hãy cẩn thận sử dụng. (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+…
+
+-“[Nguyên Tố Sát Thương]?! Bộ Xương Chiến Sĩ mà lại có [Nguyên Tố Sát Thương]!”
+
+Chỉ nhìn sơ qua một hồi biến đổi, Đình Tấn bất chợt cảm thấy thế giới bỗng nhiên mở rộng ra rất nhiều.
+
+Tuy nhiên, tại thời điểm hắn đang kinh ngạc đó, một luồng tin tức tin ẩn nấp từ nơi sâu xa trong não hải của hắn bỗng nhiên tràn về.
+
+Cách triệu hồi, cách thiết lập phân bố, phương pháp điều chỉnh số lượng khi triệu hồi… tất cả đều lần lượt trôi chảy qua ký ức của Đình Tấn, hệt như là những thứ đó hắn đều đã từng học và sử dụng qua cách đây rất lâu nhưng thoáng quên đi, bây giờ mới nhớ lại được một cách kỹ càng không sót chi tiết nào.
+
+-“Thì ra là vậy…”
+
+Chỉ trong một thoáng chốc ấy, trong lòng Đình Tấn bỗng hiện ra một tia minh ngộ, những điều thắc mắc hay khó hiểu của hắn về cách sử dụng và triệu hồi pháp thuật, giờ phút này đã được mở rộng ra không ít.
+
+Trước đây, hắn chỉ biết triệu hồi kỹ năng theo một cách máy móc, học thuộc nằm lòng mà không hiểu ý nghĩa của bất kì loại ấn ký nào, thì giờ khắc này đây, hắn đã có thể hiểu rõ hơn nhiều. 
+
+Ví như vì sao lại phải thay đổi ấn ký tại vị trí nào đó, để có thể thay đổi số lượng của vong linh được triệu hồi. Hoặc chuyển đổi vị trí của một vài ấn ký ma pháp để triệu hồi vong linh có cấp độ thấp hơn.
+
+Bỏ ra một vài giây chỉnh chu lại những thông tin vừa xuất hiện trong đại não của mình, Đình Tấn lại tiếp tục bấm chọn kiểm tra kỹ lưỡng lại hai kỹ năng triệu hồi còn lại trong bảng hệ thống kỹ năng của hắn. 
+
+Triệu hồi Hắc Ám Tang Thi 
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 180 MP (Kéo dài tiêu hao 60MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 30
+
+[Nguyên Tố Sát Thương] = [Nguyên Tố Sát Thương] của chủ nhân
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố] / 10
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1.7
+
+Phòng thủ vật lý = [Điểm Sức mạnh] / 10
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 24
+
+Mang theo kỹ năng: 
+
+-Hắc Ám Hủ Thực (Bị Động): Ăn mòn 1% khả năng phòng thủ cùng đề kháng nguyên tố công kích của kẻ địch, có thể chất chồng đến tối đa 10%, duy trì trong 15 giây.
+
+-Độc Huyết (Bị Động): Lấy thi độc công kích vào máu huyết của quái vật, khiến chúng bị suy yếu đi 1% khả năng phòng thủ cùng đề kháng nguyên tố công kích của kẻ địch, có thể chất chồng đến tối đa 5%, duy trì trong 5 giây.
+
+Triệu hồi Bộ Xương Thần Tiễn Thủ 
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 360 MP (Kéo dài tiêu hao 120 MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 25
+
+[Nguyên Tố Sát Thương] = [Nguyên Tố Sát Thương] của chủ nhân
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố / 10]
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1.7
+
+Phòng thủ vật lý = [Điểm Sức mạnh] / 20
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 36
+
+Mang theo kỹ năng: 
+
+-Hủy Diệt Chi Tiễn (Chủ Động): Hiến tế linh hồn vào một mũi tên, công kích bỏ qua phòng ngự và nguyên tố đề kháng của kẻ địch, gây ra trạng thái choáng trong 2 giây, tùy vào đẳng cấp chênh lệch giữa đôi bên.
+
+-Phá Ma Chi Tiễn (Chủ Động): Tiến hành tập trung năng lượng, bắn ra một mũi tên có khả năng xuyên thủng phòng ngự dạng lồng năng lượng của kẻ địch, nhưng đổi lại sẽ bị tê liệt trong 5 giây.
+
+Giống như trước, mỗi một lần bấm chọn vào xem thông tin kỹ năng mới, trong đầu Đình Tấn liền thoáng hiện ra những tin tức mới.
+
+Hắn nghĩ thầm, đây chắc chắn là do hệ thống làm ra động tác, truyền một luồng tin tức vào đại não để người chơi có thể không cần phải mất quá nhiều thời gian để nghiên cứu tài liệu về kỹ năng.
+
+Duy chỉ có một điều làm Đình Tấn khá là tiếc nuối, chính là Tu La Huyết Chiến Sĩ lại không nằm trong số những kỹ năng được thăng cấp. 
+
+Mặc dù nó vẫn còn là kỹ năng trung cấp, nhưng phỏng chừng do Đình Tấn không đủ thực lực để học tập và sử dụng nó tại đẳng cấp 43, cho nên kỹ năng triệu hồi Tu La Huyết Chiến Sĩ không được hệ thống tiến giai lên hàng ngũ cao cấp.
+
+Bỏ ra một hồi lâu kiểm tra, Đình Tấn cuối cùng mới đưa ra một nhận định, hết thảy những kỹ năng triệu hồi vong linh cấp thấp của hắn đã trải qua một hồi biến đổi về chất.
+
+Không chỉ được tăng thêm công kích chưa đựng [Nguyên Tố Sát Thương] mà kỹ năng và thuộc tính của chúng cũng có được một hồi lột xác thấy rõ.
+
+Hiện tại, nội tâm Đình Tấn thật sự là kích động không ngớt, bởi lẽ hắn đã bước nửa bước lên một tầm cao mới mà coi như là ở thời điểm trước khi trùng sinh về, hắn cũng chưa từng bao giờ chạm tới được nơi đó.
+
+Tuy rằng số lượng vong linh bị giảm lại một nửa, tiêu hao cũng nhiều hơn gấp bội, nhưng Đình Tấn tin tưởng, lấy thực lực của chúng được tăng lên nhiều như vậy cũng đủ để ăn đứt những tên vong linh trước yếu ớt trước đây của hắn rồi.
+
+-“Kiểm tra xem thử những kỹ năng khác xem.”
+
+Bất quá, Đình Tấn không vì thế mà trở nên ngạo mạn, tự cho mình là người mạnh nhất. Hắn rất nhanh thì đã bình ổn lại được tâm tình của mình, tiếp đến mới trầm ngâm một hồi, đưa ánh mắt trở về phía đầu bảng kỹ năng.
+
+Nơi đó chính là một loạt các kỹ năng cơ bản của nghề nghiệp Vong Linh Pháp Sư đã được đặc cấp tiến giai lên hàng ngũ cao cấp.
+
+"Nguyền Rủa Phong Ấn"
+
+Cấp bậc: Cao Cấp
+
+Tiêu hao: [Điểm tinh thần / 2] (HP)
+
+Hiệu quả: 
+
+-Kẻ địch dưới 10 cấp: Phong ấn 30% điểm thuộc tính
+
+-Kẻ địch dưới 1 – 9 cấp: Phong ấn 20% điểm thuộc tính 
+
+-Kẻ địch đồng cấp - trên 9 cấp: Phong ấn 15% điểm thuộc tính
+
+-Kẻ địch trên 10 cấp: Phong ấn 10% điểm thuộc tính.
+
+Thời gian duy trì trong trong [Điểm tinh thần] giây, không cần làm lạnh. (Không thể chồng chất)
+
+…
+
+‘Địa Ngục Cốt Giáp"
+
+Cấp bậc: Cao Cấp
+
+Tiêu hao: [Điểm tinh thần] MP
+
+Hiệu quả: 
+
+-Triệu hồi ra 10 tấm cốt giáp
+
+-Mỗi tấm sở hữu lượng HP = [Điểm tinh thần*3]
+
+-Khả năng kháng đỡ [Nguyên Tố Sát Thương] = [Tổng Năng Lượng Nguyên Tố] * 0.5
+
+-Duy trì trong [Điểm tinh thần] giây
+
+Thời gian làm lạnh: [Điểm tinh thần / 2] giây
+
+"Thiên Cốt Thứ"
+
+Cấp bậc: Cao Cấp
+
+Giới thiệu: Triệu hồi một rừng xương cốt mọc ra từ mặt đất tấn công kẻ địch trong một khuôn viên nhất định.
+
+Tiêu hao: [Bán kính khu vực công kích * 10] MP
+
+Hiệu quả: 
+
+-Bán kính khu vực bao trùm = [Điểm tinh thần / 10]
+
+-Sát thương cơ bản = [Điểm tinh thần * 2]
+
+-Mang theo [Nguyên Tố Sát Thương] tối đa bằng gấp hai [Nguyên Tố Sát Thương] của người triệu hồi.
+
+Thời gian làm lạnh: 300 giây – [Điểm tinh thần / 100]
+
+…
+
+‘Tê’
+
+-“Thật mạnh!!!”
+
+Một hơi hít sâu vào, Đình Tấn mới kìm lại được cơn kích động, không cho mình hét lên, chỉ nhẹ giọng trầm thán ra.
+
+Ba kỹ năng này, Đình Tấn trước đây chỉ thường sử dụng có hai cái là ‘Cốt Giáp" để bảo hộ sinh mạng trong lúc nguy cấp, cùng với ‘"Nguyền Rủa Suy Yếu’ để dễ dàng hơn đối phó với Boss.
+
+Cả hai kỹ năng đó tác dụng có thể nói là không quá lớn, thỉnh thoảng mới sẽ mang lại cho Đình Tấn một chút ít hiệu quả bất ngờ mà thôi.
+
+Còn về phần "Cốt Thứ" thì không cần phải nói, từ lúc Đình Tấn đạt được 20 cấp trở đi về sau thì tác dụng của nó hiển lộ ra đã không còn nhiều nữa, hay không muốn nói là vô dụng.
+
+Sát thương của nó so với quân đoàn vong linh của hắn quả thật là một trời một vực, lại tốn thời gian triệu hồi ra, công kích lại là đơn thể mục tiêu, đó cũng chính là nguyên do Đình Tấn rất ít khi sử dụng kỹ năng này.
+
+Nhưng bây giờ thì đã khác, ‘Cốt Thứ" tiến giai thành "Thiên Cốt Thứ", có thể nói là chẳng khác gì ná cao su biến hình thành súng rocket. 
+
+Không chỉ mang tính chất quần công, sở hữu sát thương cơ bản và [Nguyên Tố Sát Thương] cao, mà thời gian làm lạnh của nó còn giảm theo thực lực tăng nhanh. 
+
+Ngoài ra, càng đặc biệt hơn hết là thông qua tin tức truyền vào đại não khi kiểm tra thông tin kỹ năng, Đình Tấn lại phát hiện ra một điều, kỹ năng này còn có thể chuyển đổi thành loại hình đơn thể công kích, mà sát thương cũng sẽ vì thế tăng lên gấp bội.
+
+Coi như chưa từng triệu hồi ra kỹ năng này, thì Đình Tấn cũng đã đại khái đoán ra được cách mà nó công kích.
+
+-“Thật tốt, xem ra sau này không phải lo về thiếu thốn sát thương quần công nữa rồi.”
+
+Tâm trạng rất vui vẻ, Đình Tấn âm thầm cảm khái một câu, sau đó chuyển dời ánh mắt về phía tên [NPC Hướng Dẫn], bên trong tràn ngập vẻ háo hức cùng chờ mong.
+
+Hiện tại là lúc Đình Tấn muốn kiểm tra xem với bảy điểm kỹ năng tự do được tích lũy từ lúc 20 cấp cho đến giờ, liệu rằng có thể cho hắn học thêm được một vài kỹ năng gì đó hiệu quả nữa hay không.Keng! – Chúc mừng, kỹ năng "Minh Tưởng Thuật" (Trung Cấp) của ngài đã được nâng cấp thành "Minh Tưởng Thuật" (Cao Cấp).
+
+… "Cốt Thứ" (Hạ Cấp) của ngài đã tiến giai thành "Thiên Cốt Thứ" (Cao Cấp).
+
+… "Cốt Giáp’ (Trung Cấp) của ngài đã tiến giai thành "Hắc Ám Cốt Giáp" (Cao Cấp). 
+
+… "Nguyền Rủa Suy Yếu" (Hạ Cấp) của ngài đã tiến giai thành ‘Nguyền Rủa Phong Ấn’ (Cao Cấp). 
+
+… ‘Triệu hồi Bộ Xương Chiến Sĩ’ (Trung Cấp) của ngài đã tiến giai thành ‘Triệu hồi Bộ Xương Đấu Sĩ’ (Cao Cấp).
+
+… ‘Triệu hồi Tang Thi’ (Trung Cấp) của ngài đã tiến giai thành ‘Triệu hồi Hắc Ám Tang Thi’ (Cao Cấp).
+
+… ‘Triệu hồi Bộ Xương Cung Thủ’ (Trung Cấp) của ngài đã tiến giai thành ‘Triệu hồi Bộ Xương Thần Tiễn Thủ’ (Cao Cấp). 
+
+Ngay khi Đình Tấn vừa mở lên bảng kỹ năng của mình, lập tức một loạt âm thanh thông báo dồn dập kéo đến tập kích lỗ tai của hắn một hồi lâu.
+
+Không ngừng lại tại đó, thông báo của hệ thống vừa chấm dứt, đầu óc Đình Tấn lại tiếp tục cảm thấy mơ hồ đi, trạng thái nửa mê nửa tỉnh không thể suy nghĩ được gì.
+
+Đến một lúc sau tình trạng ấy mới ngừng lại, hắn liền cảm giác như mình vừa được bơm cái gì vào não, mà trí nhớ lại có thêm một vài vật nhưng lại không biết rõ đó là thứ gì.
+
+-“Ngươi đã chuyển chức thành công, hiện tại có thể học thêm kỹ năng liên quan đến hấp thu và sử dụng các loại nguyên tố hoặc một vài kỹ năng đặc biệt tại ta nơi này.”
+
+Chợt, đã im lặng được một khoảng thời gian, gã [NPC Hướng Dẫn] lúc này lại bất ngờ lên tiếng.
+
+Đình Tấn cũng bị đối phương nói làm cho phục hồi lại tinh thần, bất quá, hắn không có lập tức mở giao tiếp với gã [NPC Hướng Dẫn] để học kỹ năng, mà chỉ chuyển dời tầm mắt trở lại bảng giao diện hệ thống thông tin kỹ năng trước mặt mình.
+
+Đập vào mắt Đình Tấn là toàn bộ kỹ năng thuộc về nhánh Vong Linh Pháp Sư của hắn đều đã bị thay thế, hay nói đúng hơn là được miễn phí thăng cấp lên Cao Cấp không bỏ sót lại cái nào.
+
+‘Bộ Xương Chiến Sĩ’ đã thay đổi thành ‘Bộ Xương Đấu Sĩ’, ‘Tang Thi’ lại thấy có thêm một cái danh từ [Hắc Ám] đứng đầu, mà ‘Bộ Xương Cung Thủ’ cũng đồng dạng bị biến thành ‘Bộ Xương Thần Tiễn Thủ’.
+
+Mặc dù chưa được xem qua thuộc tính hay làm thử triệu hồi bọn chúng ra để kiểm chứng, nhưng chỉ dựa vào cái tên đại khí này, Đình Tấn đã có một loại cảm giác ‘Mạnh’, mạnh hơn rất nhiều so với những tên vong linh cũ trước đó.
+
+Trong lòng hồi hộp không ngớt, Đình Tấn cố gắng hít thở sâu, đưa tay bấm chọn một kỹ năng triệu hồi cơ bản nhất của mình, thử kiểm tra xem thay đổi của nó là bao lớn.
+
+Triệu hồi Bộ Xương Đấu Sĩ
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 90 MP (Kéo dài tiêu hao 30MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 45
+
+[Nguyên Tố Sát Thương] = [Nguyên Tố Sát Thương] của chủ nhân
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố] / 10
+
+Sát thương cơ bản = [Điểm tinh thần] * 1.3
+
+Phòng thủ cơ bản = [Điểm sức mạnh] / 2
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 18
+
+Đồng bộ hóa hiện thực: hiệu quả không đổi, tiêu hao không đổi. Độ chuẩn xác thông số 90%. Hệ thống sẽ khóa DNA của ngài nếu có tố cáo ngài phạm tội từ phía chính phủ. Xin hãy cẩn thận sử dụng. (Chỉ mở ra cho người dùng tự chủ sử dụng kỹ năng)
+
+…
+
+-“[Nguyên Tố Sát Thương]?! Bộ Xương Chiến Sĩ mà lại có [Nguyên Tố Sát Thương]!”
+
+Chỉ nhìn sơ qua một hồi biến đổi, Đình Tấn bất chợt cảm thấy thế giới bỗng nhiên mở rộng ra rất nhiều.
+
+Tuy nhiên, tại thời điểm hắn đang kinh ngạc đó, một luồng tin tức tin ẩn nấp từ nơi sâu xa trong não hải của hắn bỗng nhiên tràn về.
+
+Cách triệu hồi, cách thiết lập phân bố, phương pháp điều chỉnh số lượng khi triệu hồi… tất cả đều lần lượt trôi chảy qua ký ức của Đình Tấn, hệt như là những thứ đó hắn đều đã từng học và sử dụng qua cách đây rất lâu nhưng thoáng quên đi, bây giờ mới nhớ lại được một cách kỹ càng không sót chi tiết nào.
+
+-“Thì ra là vậy…”
+
+Chỉ trong một thoáng chốc ấy, trong lòng Đình Tấn bỗng hiện ra một tia minh ngộ, những điều thắc mắc hay khó hiểu của hắn về cách sử dụng và triệu hồi pháp thuật, giờ phút này đã được mở rộng ra không ít.
+
+Trước đây, hắn chỉ biết triệu hồi kỹ năng theo một cách máy móc, học thuộc nằm lòng mà không hiểu ý nghĩa của bất kì loại ấn ký nào, thì giờ khắc này đây, hắn đã có thể hiểu rõ hơn nhiều. 
+
+Ví như vì sao lại phải thay đổi ấn ký tại vị trí nào đó, để có thể thay đổi số lượng của vong linh được triệu hồi. Hoặc chuyển đổi vị trí của một vài ấn ký ma pháp để triệu hồi vong linh có cấp độ thấp hơn.
+
+Bỏ ra một vài giây chỉnh chu lại những thông tin vừa xuất hiện trong đại não của mình, Đình Tấn lại tiếp tục bấm chọn kiểm tra kỹ lưỡng lại hai kỹ năng triệu hồi còn lại trong bảng hệ thống kỹ năng của hắn. 
+
+Triệu hồi Hắc Ám Tang Thi 
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 180 MP (Kéo dài tiêu hao 60MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 30
+
+[Nguyên Tố Sát Thương] = [Nguyên Tố Sát Thương] của chủ nhân
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố] / 10
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1.7
+
+Phòng thủ vật lý = [Điểm Sức mạnh] / 10
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 24
+
+Mang theo kỹ năng: 
+
+-Hắc Ám Hủ Thực (Bị Động): Ăn mòn 1% khả năng phòng thủ cùng đề kháng nguyên tố công kích của kẻ địch, có thể chất chồng đến tối đa 10%, duy trì trong 15 giây.
+
+-Độc Huyết (Bị Động): Lấy thi độc công kích vào máu huyết của quái vật, khiến chúng bị suy yếu đi 1% khả năng phòng thủ cùng đề kháng nguyên tố công kích của kẻ địch, có thể chất chồng đến tối đa 5%, duy trì trong 5 giây.
+
+Triệu hồi Bộ Xương Thần Tiễn Thủ 
+
+Đẳng cấp: Cao Cấp
+
+Tiêu hao ma pháp: 360 MP (Kéo dài tiêu hao 120 MP/s)
+
+Hiệu quả:
+
+HP = [Điểm Thể chất] x 25
+
+[Nguyên Tố Sát Thương] = [Nguyên Tố Sát Thương] của chủ nhân
+
+[Nguyên Tố Đề Kháng] = [Tổng Năng Lượng Nguyên Tố / 10]
+
+Sát thương vật lý cao nhất = [Điểm Tinh thần] x 1.7
+
+Phòng thủ vật lý = [Điểm Sức mạnh] / 20
+
+Số lượng triệu hồi cao nhất = [Điểm Tinh thần] / 36
+
+Mang theo kỹ năng: 
+
+-Hủy Diệt Chi Tiễn (Chủ Động): Hiến tế linh hồn vào một mũi tên, công kích bỏ qua phòng ngự và nguyên tố đề kháng của kẻ địch, gây ra trạng thái choáng trong 2 giây, tùy vào đẳng cấp chênh lệch giữa đôi bên.
+
+-Phá Ma Chi Tiễn (Chủ Động): Tiến hành tập trung năng lượng, bắn ra một mũi tên có khả năng xuyên thủng phòng ngự dạng lồng năng lượng của kẻ địch, nhưng đổi lại sẽ bị tê liệt trong 5 giây.
+
+Giống như trước, mỗi một lần bấm chọn vào xem thông tin kỹ năng mới, trong đầu Đình Tấn liền thoáng hiện ra những tin tức mới.
+
+Hắn nghĩ thầm, đây chắc chắn là do hệ thống làm ra động tác, truyền một luồng tin tức vào đại não để người chơi có thể không cần phải mất quá nhiều thời gian để nghiên cứu tài liệu về kỹ năng.
+
+Duy chỉ có một điều làm Đình Tấn khá là tiếc nuối, chính là Tu La Huyết Chiến Sĩ lại không nằm trong số những kỹ năng được thăng cấp. 
+
+Mặc dù nó vẫn còn là kỹ năng trung cấp, nhưng phỏng chừng do Đình Tấn không đủ thực lực để học tập và sử dụng nó tại đẳng cấp 43, cho nên kỹ năng triệu hồi Tu La Huyết Chiến Sĩ không được hệ thống tiến giai lên hàng ngũ cao cấp.
+
+Bỏ ra một hồi lâu kiểm tra, Đình Tấn cuối cùng mới đưa ra một nhận định, hết thảy những kỹ năng triệu hồi vong linh cấp thấp của hắn đã trải qua một hồi biến đổi về chất.
+
+Không chỉ được tăng thêm công kích chưa đựng [Nguyên Tố Sát Thương] mà kỹ năng và thuộc tính của chúng cũng có được một hồi lột xác thấy rõ.
+
+Hiện tại, nội tâm Đình Tấn thật sự là kích động không ngớt, bởi lẽ hắn đã bước nửa bước lên một tầm cao mới mà coi như là ở thời điểm trước khi trùng sinh về, hắn cũng chưa từng bao giờ chạm tới được nơi đó.
+
+Tuy rằng số lượng vong linh bị giảm lại một nửa, tiêu hao cũng nhiều hơn gấp bội, nhưng Đình Tấn tin tưởng, lấy thực lực của chúng được tăng lên nhiều như vậy cũng đủ để ăn đứt những tên vong linh trước yếu ớt trước đây của hắn rồi.
+
+-“Kiểm tra xem thử những kỹ năng khác xem.”
+
+Bất quá, Đình Tấn không vì thế mà trở nên ngạo mạn, tự cho mình là người mạnh nhất. Hắn rất nhanh thì đã bình ổn lại được tâm tình của mình, tiếp đến mới trầm ngâm một hồi, đưa ánh mắt trở về phía đầu bảng kỹ năng.
+
+Nơi đó chính là một loạt các kỹ năng cơ bản của nghề nghiệp Vong Linh Pháp Sư đã được đặc cấp tiến giai lên hàng ngũ cao cấp.
+
+"Nguyền Rủa Phong Ấn"
+
+Cấp bậc: Cao Cấp
+
+Tiêu hao: [Điểm tinh thần / 2] (HP)
+
+Hiệu quả: 
+
+-Kẻ địch dưới 10 cấp: Phong ấn 30% điểm thuộc tính
+
+-Kẻ địch dưới 1 – 9 cấp: Phong ấn 20% điểm thuộc tính 
+
+-Kẻ địch đồng cấp - trên 9 cấp: Phong ấn 15% điểm thuộc tính
+
+-Kẻ địch trên 10 cấp: Phong ấn 10% điểm thuộc tính.
+
+Thời gian duy trì trong trong [Điểm tinh thần] giây, không cần làm lạnh. (Không thể chồng chất)
+
+…
+
+‘Địa Ngục Cốt Giáp"
+
+Cấp bậc: Cao Cấp
+
+Tiêu hao: [Điểm tinh thần] MP
+
+Hiệu quả: 
+
+-Triệu hồi ra 10 tấm cốt giáp
+
+-Mỗi tấm sở hữu lượng HP = [Điểm tinh thần*3]
+
+-Khả năng kháng đỡ [Nguyên Tố Sát Thương] = [Tổng Năng Lượng Nguyên Tố] * 0.5
+
+-Duy trì trong [Điểm tinh thần] giây
+
+Thời gian làm lạnh: [Điểm tinh thần / 2] giây
+
+"Thiên Cốt Thứ"
+
+Cấp bậc: Cao Cấp
+
+Giới thiệu: Triệu hồi một rừng xương cốt mọc ra từ mặt đất tấn công kẻ địch trong một khuôn viên nhất định.
+
+Tiêu hao: [Bán kính khu vực công kích * 10] MP
+
+Hiệu quả: 
+
+-Bán kính khu vực bao trùm = [Điểm tinh thần / 10]
+
+-Sát thương cơ bản = [Điểm tinh thần * 2]
+
+-Mang theo [Nguyên Tố Sát Thương] tối đa bằng gấp hai [Nguyên Tố Sát Thương] của người triệu hồi.
+
+Thời gian làm lạnh: 300 giây – [Điểm tinh thần / 100]
+
+…
+
+‘Tê’
+
+-“Thật mạnh!!!”
+
+Một hơi hít sâu vào, Đình Tấn mới kìm lại được cơn kích động, không cho mình hét lên, chỉ nhẹ giọng trầm thán ra.
+
+Ba kỹ năng này, Đình Tấn trước đây chỉ thường sử dụng có hai cái là ‘Cốt Giáp" để bảo hộ sinh mạng trong lúc nguy cấp, cùng với ‘"Nguyền Rủa Suy Yếu’ để dễ dàng hơn đối phó với Boss.
+
+Cả hai kỹ năng đó tác dụng có thể nói là không quá lớn, thỉnh thoảng mới sẽ mang lại cho Đình Tấn một chút ít hiệu quả bất ngờ mà thôi.
+
+Còn về phần "Cốt Thứ" thì không cần phải nói, từ lúc Đình Tấn đạt được 20 cấp trở đi về sau thì tác dụng của nó hiển lộ ra đã không còn nhiều nữa, hay không muốn nói là vô dụng.
+
+Sát thương của nó so với quân đoàn vong linh của hắn quả thật là một trời một vực, lại tốn thời gian triệu hồi ra, công kích lại là đơn thể mục tiêu, đó cũng chính là nguyên do Đình Tấn rất ít khi sử dụng kỹ năng này.
+
+Nhưng bây giờ thì đã khác, ‘Cốt Thứ" tiến giai thành "Thiên Cốt Thứ", có thể nói là chẳng khác gì ná cao su biến hình thành súng rocket. 
+
+Không chỉ mang tính chất quần công, sở hữu sát thương cơ bản và [Nguyên Tố Sát Thương] cao, mà thời gian làm lạnh của nó còn giảm theo thực lực tăng nhanh. 
+
+Ngoài ra, càng đặc biệt hơn hết là thông qua tin tức truyền vào đại não khi kiểm tra thông tin kỹ năng, Đình Tấn lại phát hiện ra một điều, kỹ năng này còn có thể chuyển đổi thành loại hình đơn thể công kích, mà sát thương cũng sẽ vì thế tăng lên gấp bội.
+
+Coi như chưa từng triệu hồi ra kỹ năng này, thì Đình Tấn cũng đã đại khái đoán ra được cách mà nó công kích.
+
+-“Thật tốt, xem ra sau này không phải lo về thiếu thốn sát thương quần công nữa rồi.”
+
+Tâm trạng rất vui vẻ, Đình Tấn âm thầm cảm khái một câu, sau đó chuyển dời ánh mắt về phía tên [NPC Hướng Dẫn], bên trong tràn ngập vẻ háo hức cùng chờ mong.
+
+Hiện tại là lúc Đình Tấn muốn kiểm tra xem với bảy điểm kỹ năng tự do được tích lũy từ lúc 20 cấp cho đến giờ, liệu rằng có thể cho hắn học thêm được một vài kỹ năng gì đó hiệu quả nữa hay không.

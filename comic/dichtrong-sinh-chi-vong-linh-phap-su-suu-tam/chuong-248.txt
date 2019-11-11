@@ -1,0 +1,409 @@
+Một hồi sau, tất cả những gì xảy ra trong thời gian gần đây đều được báo cáo lại hết, Đình Tấn cũng đã hoàn toàn nắm rõ được tình huống hiện tại của [The Alliance].
+
+Thành viên chính thức thì vẫn đang hoạt động rất tích cực, làm nhiệm vụ và thăng cấp thì vẫn không bỏ sót một ngày nào. Còn việc kinh doanh thì trong game vẫn chưa đến nỗi suy sụp nhiều lắm, nhưng ở hiện thực thì có chút thê thảm.
+
+Sau đợt bạo động tin tức xấu lần này, có rất nhiều công ty đối tác và người chơi bởi vì quá kích động mà đã tiến hành tẩy chay [The Alliance]. Đạo lý ‘Cây cao đón gió’ thì Đình Tấn cũng hiểu, thế nên tình huống trước mắt là phải giải quyết được vấn đề lòng tin của người dùng.
+
+Bất chợt, Đình Tấn lại nhớ đến mình cũng đã hoàn thành xong phần mềm trí tuệ nhân tạo trong lúc đang cày phụ bản. 
+
+Thế là mặc kệ vẫn còn có rất nhiều người trong phòng ăn, hắn vội vàng gọi lại Lý Uyên hỏi thăm.
+
+- “Uyên! Phần mềm trí tuệ nhân tạo ta đã làm xong rồi, hay là chúng ta mượn dGHc45pS nhờ buổi đấu giá lần này để đưa nó vào tầm mắt của người dùng luôn một thể?”
+
+Đang ngồi tập trung kiểm tra trang bị, Lý Uyên bị Đình Tấn gọi thì ngừng tay một chút, nghe hắn giải thích.
+
+Ý kiến của Đình Tấn làm cho nàng nhíu chặt đôi chân mày, đôi mắt đảo quanh dường như đang suy tính cách thực hiện và độ khả thi của kế hoạch này.
+
+- “Ừm… ta hiện tại cũng chưa biết là nó ra sao cho nên ngươi nói làm ta cũng rất mơ hồ không biết phải áp dụng thế nào nữa.”
+
+Sau một lúc, Lý Uyên lắc nhẹ đầu mà nói. Điều này làm Đình Tấn không khỏi tự mắng mình đãng trí. 
+
+Thế là hắn nhanh chóng mở ra giao diện máy tính, đôi bàn tay gõ nhẹ như đang lướt sóng trên phím ảo.
+
+‘Ten ten…’
+
+Màn hình hệ thống giải lập giao diện máy tính, từ từ biến mất. Sau đó giữa không trung, trước mặt Đình Tấn dần dần hiện lên phù hiệu vòng tròn với chữ A cách điệu ở giữa. Hay nói đúng hơn đây sẽ là logo của [The Alliance]. Kèm theo đó là âm thanh mở màn khá vui tai.
+
+‘Bịch’
+
+Không biết từ đâu trên không lại đột nhiên rơi xuống một con vật, hình tượng như một chú mèo truyện tranh, vừa mập vừa tròn có hai tai nhọn ở trên đầu, tứ chi ngắn ngủn, với đôi mắt híp lại thành một đường thẳng trông rất dễ thương.
+
+Nó dùng hai cái tay ngắn chống đỡ thân thể ục ịch của mình đứng dậy, con vật này hướng về phía Đình Tấn mà mở miệng nói.
+
+- “Ba Đậu Đậu xin hân hạnh được phục vụ ông chủ”
+
+Giọng nói như một đứa trẻ con, không phân biệt được trai gái. Con vật gọi Ba Đậu Đậu này tự giới thiệu bản thân mình cho Đình Tấn.
+
+Do Đình Tấn mở chức năng chia sẻ âm thanh cũng chỉ ở mức độ nhỏ, thế nên mọi người xung quanh cũng không ai nghe được giọng nói của con Ba Đậu Đậu này. Bọn họ vẫn tiếp tục chăm chú nói chuyện, thảo luận với nhau.
+
+Riêng có Lý Uyên ngồi bên cạnh hắn thì đã nghe rõ được giọng nói của con Ba Đậu Đậu. Nàng trông thấy một màn này thì cũng khá là kinh ngạc. Nhưng không phải vì trí thông minh của phần mềm này mà là bởi vì tốc độ lập trình của Đình Tấn.
+
+- “Có thật là ngươi lập trình ra bộ phần mềm trí tuệ nhân tạo này chỉ trong một tuần thời gian trong game, chứ không phải là đã chuẩn bị từ trước?”
+
+Có chút khó tin, nàng nhịn không được hỏi lại Đình Tấn. Phải biết từ lúc quay trở lại game sau khi đi cứu anh em David, Đình Tấn mới bắt đầu bàn luận đến chuyện lập trình phần mềm nhân tạo này.
+
+Nếu như tính từ khoảng thời gian đó đến hiện tại, thời gian trôi qua cũng chỉ mới 7 ngày thôi. Mà đó là thời gian trong game, nếu mang ra hiện thực thì sẽ giảm đi một nửa, chỉ còn lại 3 ngày.
+
+Lý Uyên tuy rằng không biết công việc lập trình có khó hay không, thế nhưng nhìn những công ty lớn đầu tư một số tiền lớn vào trong quá trình nghiên cứu và phát triển thuật toán ứng dụng vào bộ phần mềm trí tuệ nhân tạo của họ, lại kết hợp thêm một số đông nhân thủ làm việc trong một khoảng thời gian dài mới có thể đưa ra một bộ phần mềm hoàn chỉnh. 
+
+Bấy nhiêu đó cũng đã đủ nói lên độ khó của công việc này rồi. Vậy mà ở đây, Đình Tấn chỉ một mình một người làm việc trong một tuần thì quả thật điều này cũng là có chút khó tin.
+
+- “Thật ra thì nó cũng chưa hoàn thiện lắm.”
+
+Đình Tấn trông thấy biểu hiện của Lý Uyên như vậy thì biết rằng mình đã làm việc hơi bị lố. Hắn có chút ngượng ngùng giải thích.
+
+- “Ba Đậu Đậu lúc này cũng chỉ mới đạt đến phiên bản thử nghiệm thôi. Như ngươi thấy đó, hiểu biết của nó cũng còn quá nông cạn. Quá trình hoàn thiện kiến thức vẫn còn cần có một đoạn thời gian dài tích lũy nữa thì mới có thể gọi là trí tuệ nhân tạo.”
+
+Như để chứng minh cho lời nói của mình, Đình Tấn hướng về con Ba Đậu Đậu này ra lệnh.
+
+- “Ba Đậu Đậu, đây là người quản lý của [The Alliance], Lý Uyên. Ghi nhớ người này đi.”
+
+Hắn đưa tay vừa chỉ về phía Lý Uyên vừa nói với con Ba Đậu Đậu.
+
+Bất quá, trả lời lại hắn là một gương mặt ục ịch có chút ngáo ngơ của con Ba Đậu Đậu cùng với một câu hỏi rất ngây thơ như con nít hỏi người lớn.
+
+- “Ông chủ, quản lý với [The Alliance] là cái gì vậy?”
+
+Nghe lời nói của con Ba Đậu Đậu này, Đình Tấn cũng không có quá nhiều kinh ngạc, bởi vì con vật ảo trí tuệ nhân tạo này chính là do hắn tạo ra. Trạng thái của nó thế nào thì hắn phải biết rõ nhất.
+
+‘Phì…’
+
+Lý Uyên trông thấy thái độ và cách giải thích của hắn, lại thêm hình dáng của con Ba Đậu Đậu cũng rất buồn cười nên không kìm được phì cười một tiếng. Đây cũng là lần đầu tiên nàng nhìn thấy một người trầm ổn như Đình Tấn lại có biểu hiện gấp gáp, vội vàng như vậy.
+
+Giọng cười của Lý Uyên cũng làm cho những người xung quanh chú ý đến tình huống bên này.
+
+Mọi người khi trông thấy có một con vật hoạt hình rất dễ thương đang lơ lửng trước mặt Đình Tấn thì không khỏi tò mò quan sát.
+
+- “Anh Đình Tấn, con này là thú nuôi ảo của anh à?”
+
+Ameerah không thể kháng cự được vẻ dễ thương của con Ba Đậu Đậu, nàng ngay lập tức hỏi Đình Tấn nguồn gốc của con vật này, dường như đang có ý định tìm về nuôi một con chơi.
+
+- “Ba Đậu Đậu không phải vật nuôi. Ba Đậu Đậu là người hầu của ông chủ!”
+
+Con Ba Đậu Đậu giống như là nghe được lời nói của Ameerah, nó lập tức xoay người lại phản bác. Tuy giọng nói bình thường thế nhưng gương mặt biểu hiện có chút cứng đờ.
+
+Ameerah cùng với mọi người xung quanh cũng bị nó làm cho kinh ngạc không thôi.
+
+- “Nó là do ta làm ra, bây giờ vẫn chưa có công bố ra đâu. Để sắp tới có thời gian ta lại cho ngươi một con.”
+
+Đình Tấn ngay lập tức đoán biết được ý đồ của Ameerah. Hắn vừa cười vừa hứa hẹn để cho cô nàng này không làm lộn xộn lên.
+
+- “Phần mềm này có áp dụng vào trí tuệ nhân tạo phải không hội trưởng?”
+
+Làm một tên hacker, thanh niên Tim rất nhanh thì nhận ra sự khác biệt ở trong con vật Ba Đậu Đậu này. Hắn liền lên tiếng hỏi lại Đình Tấn để xác nhận suy đoán của mình. 
+
+Bất quá, Đình Tấn cũng không trả lời hắn câu nào, chỉ nở một nụ cười rồi gật đầu với hắn một cái mà thôi. Thế nhưng bấy nhiêu đó cũng đã quá đủ với Tim rồi. Hắn cùng với Ameerah, hai người nhanh chóng bay tới bên cạnh Đình Tấn bắt đầu mò mẫm, vọc vạch với con Ba Đậu Đậu.
+
+- “Tốt rồi, ta nghĩ là một sản phẩm chưa hoàn thịện mà lại đem tung ra sớm như vậy thì chẳng khác nào là đem ấn tượng đầu tiên của nó với người dùng giết đi không thương tiếc. 
+
+Cho nên kế hoạch của ngươi cứ để lại sau này đi rồi tính. Đừng quá nôn nóng, gấp gáp làm gì, chờ đến khi ngươi hoàn thiện tất cả rồi tung ra thị trường cũng không muộn đâu.
+
+Với lại bây giờ, điều chúng ta cần phải làm là tập trung phát triển [The Alliance Y Dược] trước cái đã. Chỉ khi nó đứng vững được trên thị trường dược phẩm thì chúng ta mới có khả năng tính toán đến những lĩnh vực khác.”
+
+Lúc này, Lý Uyên mới từ tốn giải thích cho Đình Tấn những vấn đề trong kinh doanh cần được đặt ra trong chuyện đưa ra sản phẩm công nghệ này. 
+
+Điều này cũng không khỏi làm Đình Tấn có chút hụt hẫng. Nếu đem so sánh chuyên môn kinh doanh thì quả thật, hắn không thể nào sánh bằng được Lý Uyên, thế nên bây giờ có chút nôn nóng thì cũng không thể trách hắn. Dù sao lần này hắn cũng chỉ muốn làm luôn một thể cho tiện mà thôi.
+
+Lý Uyên nói đoạn, nàng lại trầm ngâm như đang suy tính vài chuyện sau đó lại bổ sung thêm.
+
+- “Tuy nhiên, nếu như ngươi có thể sửa lại một chút vài vấn đề thì ta nghĩ vẫn có thể đưa nó vào lần hội đấu giá này.”
+
+- “Ngươi muốn làm thế nào?”
+
+Đình Tấn có chút tò mò hỏi lại. Ngoài chuyện giới thiệu sản phẩm ra thì hắn đã không nghĩ ra để cho một phần mềm trí tuệ nhân tạo làm cái gì nữa.
+
+Nở một nụ cười bí hiểm, Lý Uyên hướng về hắn chậm rãi bày kế.
+
+- “Nếu ngươi có thể làm cho nó có đủ khả năng phụ trợ ta chủ trì lần hội đấu giá này thì chẳng phải là có cơ hội cho nó ra mắt công chúng rồi sao. Chúng ta có thể thành lập một công ty phần mềm trước, sau đó đưa phiên bản thử nghiệm này ra cho người dùng sử dụng miễn phí. Đến lúc ngươi hoàn thành toàn bộ phần mềm của Ba Đậu Đậu thì chúng ta lại chuyển về thu phí cũng không muộn.”
+
+Có được lời giải thích của Lý Uyên, đôi mắt của Đình Tấn lập tức sáng lên thấy rõ.
+
+- “Tốt! Vậy ta sẽ cố gắng làm xong trong ngày mai rồi giao cho ngươi.”
+
+Đã có được sự thống nhất về ý kiến, Lý Uyên mỉm cười, gật đầu với hắn một cái.
+
+Hiện tại thời gian cũng đã hơn 11 giờ đêm trong game, Đình Tấn nhìn lại đồng hồ thì cũng không kìm được kinh ngạc một chút. Chỉ ngồi bàn chuyện quá tập trung làm hắn cũng không để ý đến giờ giấc.
+
+Đình Tấn nhanh chóng hướng về những người có mặt trong phòng ăn này nói.
+
+- “Đã trễ rồi, mọi chuyện hôm nay cũng bàn xong. Mọi người tranh thủ về nghỉ ngơi đi. Ameerah, Louis, David và Terrell, các ngươi nhớ chăm chỉ tu luyện. Chúng ta chỉ còn không tới 3 ngày nữa thôi đấy.”
+
+Gọi mọi người giải tán, Đình Tấn cũng không quên nhắc nhở những đồng đội của mình thời gian chuẩn bị cho nhiệm vụ sắp tới đã không còn nhiều nữa.
+
+Những người trong phòng ăn nghe được lời của Đình Tấn thì cũng lục tục thay phiên nhau đứng lên, chào hắn một cái rồi trở về phòng.
+
+Bất quá, đang lúc Lạc Hồng định đi ra khỏi phòng thì giọng nói của Đình Tấn lại vang lên.
+
+- “Lạc Hồng ngươi có thể nán lại một chút được không? Ta có chút chuyện muốn hỏi.”Một hồi sau, tất cả những gì xảy ra trong thời gian gần đây đều được báo cáo lại hết, Đình Tấn cũng đã hoàn toàn nắm rõ được tình huống hiện tại của [The Alliance].
+
+Thành viên chính thức thì vẫn đang hoạt động rất tích cực, làm nhiệm vụ và thăng cấp thì vẫn không bỏ sót một ngày nào. Còn việc kinh doanh thì trong game vẫn chưa đến nỗi suy sụp nhiều lắm, nhưng ở hiện thực thì có chút thê thảm.
+
+Sau đợt bạo động tin tức xấu lần này, có rất nhiều công ty đối tác và người chơi bởi vì quá kích động mà đã tiến hành tẩy chay [The Alliance]. Đạo lý ‘Cây cao đón gió’ thì Đình Tấn cũng hiểu, thế nên tình huống trước mắt là phải giải quyết được vấn đề lòng tin của người dùng.
+
+Bất chợt, Đình Tấn lại nhớ đến mình cũng đã hoàn thành xong phần mềm trí tuệ nhân tạo trong lúc đang cày phụ bản. 
+
+Thế là mặc kệ vẫn còn có rất nhiều người trong phòng ăn, hắn vội vàng gọi lại Lý Uyên hỏi thăm.
+
+- “Uyên! Phần mềm trí tuệ nhân tạo ta đã làm xong rồi, hay là chúng ta mượn dGHc45pS nhờ buổi đấu giá lần này để đưa nó vào tầm mắt của người dùng luôn một thể?”
+
+Đang ngồi tập trung kiểm tra trang bị, Lý Uyên bị Đình Tấn gọi thì ngừng tay một chút, nghe hắn giải thích.
+
+Ý kiến của Đình Tấn làm cho nàng nhíu chặt đôi chân mày, đôi mắt đảo quanh dường như đang suy tính cách thực hiện và độ khả thi của kế hoạch này.
+
+- “Ừm… ta hiện tại cũng chưa biết là nó ra sao cho nên ngươi nói làm ta cũng rất mơ hồ không biết phải áp dụng thế nào nữa.”
+
+Sau một lúc, Lý Uyên lắc nhẹ đầu mà nói. Điều này làm Đình Tấn không khỏi tự mắng mình đãng trí. 
+
+Thế là hắn nhanh chóng mở ra giao diện máy tính, đôi bàn tay gõ nhẹ như đang lướt sóng trên phím ảo.
+
+‘Ten ten…’
+
+Màn hình hệ thống giải lập giao diện máy tính, từ từ biến mất. Sau đó giữa không trung, trước mặt Đình Tấn dần dần hiện lên phù hiệu vòng tròn với chữ A cách điệu ở giữa. Hay nói đúng hơn đây sẽ là logo của [The Alliance]. Kèm theo đó là âm thanh mở màn khá vui tai.
+
+‘Bịch’
+
+Không biết từ đâu trên không lại đột nhiên rơi xuống một con vật, hình tượng như một chú mèo truyện tranh, vừa mập vừa tròn có hai tai nhọn ở trên đầu, tứ chi ngắn ngủn, với đôi mắt híp lại thành một đường thẳng trông rất dễ thương.
+
+Nó dùng hai cái tay ngắn chống đỡ thân thể ục ịch của mình đứng dậy, con vật này hướng về phía Đình Tấn mà mở miệng nói.
+
+- “Ba Đậu Đậu xin hân hạnh được phục vụ ông chủ”
+
+Giọng nói như một đứa trẻ con, không phân biệt được trai gái. Con vật gọi Ba Đậu Đậu này tự giới thiệu bản thân mình cho Đình Tấn.
+
+Do Đình Tấn mở chức năng chia sẻ âm thanh cũng chỉ ở mức độ nhỏ, thế nên mọi người xung quanh cũng không ai nghe được giọng nói của con Ba Đậu Đậu này. Bọn họ vẫn tiếp tục chăm chú nói chuyện, thảo luận với nhau.
+
+Riêng có Lý Uyên ngồi bên cạnh hắn thì đã nghe rõ được giọng nói của con Ba Đậu Đậu. Nàng trông thấy một màn này thì cũng khá là kinh ngạc. Nhưng không phải vì trí thông minh của phần mềm này mà là bởi vì tốc độ lập trình của Đình Tấn.
+
+- “Có thật là ngươi lập trình ra bộ phần mềm trí tuệ nhân tạo này chỉ trong một tuần thời gian trong game, chứ không phải là đã chuẩn bị từ trước?”
+
+Có chút khó tin, nàng nhịn không được hỏi lại Đình Tấn. Phải biết từ lúc quay trở lại game sau khi đi cứu anh em David, Đình Tấn mới bắt đầu bàn luận đến chuyện lập trình phần mềm nhân tạo này.
+
+Nếu như tính từ khoảng thời gian đó đến hiện tại, thời gian trôi qua cũng chỉ mới 7 ngày thôi. Mà đó là thời gian trong game, nếu mang ra hiện thực thì sẽ giảm đi một nửa, chỉ còn lại 3 ngày.
+
+Lý Uyên tuy rằng không biết công việc lập trình có khó hay không, thế nhưng nhìn những công ty lớn đầu tư một số tiền lớn vào trong quá trình nghiên cứu và phát triển thuật toán ứng dụng vào bộ phần mềm trí tuệ nhân tạo của họ, lại kết hợp thêm một số đông nhân thủ làm việc trong một khoảng thời gian dài mới có thể đưa ra một bộ phần mềm hoàn chỉnh. 
+
+Bấy nhiêu đó cũng đã đủ nói lên độ khó của công việc này rồi. Vậy mà ở đây, Đình Tấn chỉ một mình một người làm việc trong một tuần thì quả thật điều này cũng là có chút khó tin.
+
+- “Thật ra thì nó cũng chưa hoàn thiện lắm.”
+
+Đình Tấn trông thấy biểu hiện của Lý Uyên như vậy thì biết rằng mình đã làm việc hơi bị lố. Hắn có chút ngượng ngùng giải thích.
+
+- “Ba Đậu Đậu lúc này cũng chỉ mới đạt đến phiên bản thử nghiệm thôi. Như ngươi thấy đó, hiểu biết của nó cũng còn quá nông cạn. Quá trình hoàn thiện kiến thức vẫn còn cần có một đoạn thời gian dài tích lũy nữa thì mới có thể gọi là trí tuệ nhân tạo.”
+
+Như để chứng minh cho lời nói của mình, Đình Tấn hướng về con Ba Đậu Đậu này ra lệnh.
+
+- “Ba Đậu Đậu, đây là người quản lý của [The Alliance], Lý Uyên. Ghi nhớ người này đi.”
+
+Hắn đưa tay vừa chỉ về phía Lý Uyên vừa nói với con Ba Đậu Đậu.
+
+Bất quá, trả lời lại hắn là một gương mặt ục ịch có chút ngáo ngơ của con Ba Đậu Đậu cùng với một câu hỏi rất ngây thơ như con nít hỏi người lớn.
+
+- “Ông chủ, quản lý với [The Alliance] là cái gì vậy?”
+
+Nghe lời nói của con Ba Đậu Đậu này, Đình Tấn cũng không có quá nhiều kinh ngạc, bởi vì con vật ảo trí tuệ nhân tạo này chính là do hắn tạo ra. Trạng thái của nó thế nào thì hắn phải biết rõ nhất.
+
+‘Phì…’
+
+Lý Uyên trông thấy thái độ và cách giải thích của hắn, lại thêm hình dáng của con Ba Đậu Đậu cũng rất buồn cười nên không kìm được phì cười một tiếng. Đây cũng là lần đầu tiên nàng nhìn thấy một người trầm ổn như Đình Tấn lại có biểu hiện gấp gáp, vội vàng như vậy.
+
+Giọng cười của Lý Uyên cũng làm cho những người xung quanh chú ý đến tình huống bên này.
+
+Mọi người khi trông thấy có một con vật hoạt hình rất dễ thương đang lơ lửng trước mặt Đình Tấn thì không khỏi tò mò quan sát.
+
+- “Anh Đình Tấn, con này là thú nuôi ảo của anh à?”
+
+Ameerah không thể kháng cự được vẻ dễ thương của con Ba Đậu Đậu, nàng ngay lập tức hỏi Đình Tấn nguồn gốc của con vật này, dường như đang có ý định tìm về nuôi một con chơi.
+
+- “Ba Đậu Đậu không phải vật nuôi. Ba Đậu Đậu là người hầu của ông chủ!”
+
+Con Ba Đậu Đậu giống như là nghe được lời nói của Ameerah, nó lập tức xoay người lại phản bác. Tuy giọng nói bình thường thế nhưng gương mặt biểu hiện có chút cứng đờ.
+
+Ameerah cùng với mọi người xung quanh cũng bị nó làm cho kinh ngạc không thôi.
+
+- “Nó là do ta làm ra, bây giờ vẫn chưa có công bố ra đâu. Để sắp tới có thời gian ta lại cho ngươi một con.”
+
+Đình Tấn ngay lập tức đoán biết được ý đồ của Ameerah. Hắn vừa cười vừa hứa hẹn để cho cô nàng này không làm lộn xộn lên.
+
+- “Phần mềm này có áp dụng vào trí tuệ nhân tạo phải không hội trưởng?”
+
+Làm một tên hacker, thanh niên Tim rất nhanh thì nhận ra sự khác biệt ở trong con vật Ba Đậu Đậu này. Hắn liền lên tiếng hỏi lại Đình Tấn để xác nhận suy đoán của mình. 
+
+Bất quá, Đình Tấn cũng không trả lời hắn câu nào, chỉ nở một nụ cười rồi gật đầu với hắn một cái mà thôi. Thế nhưng bấy nhiêu đó cũng đã quá đủ với Tim rồi. Hắn cùng với Ameerah, hai người nhanh chóng bay tới bên cạnh Đình Tấn bắt đầu mò mẫm, vọc vạch với con Ba Đậu Đậu.
+
+- “Tốt rồi, ta nghĩ là một sản phẩm chưa hoàn thịện mà lại đem tung ra sớm như vậy thì chẳng khác nào là đem ấn tượng đầu tiên của nó với người dùng giết đi không thương tiếc. 
+
+Cho nên kế hoạch của ngươi cứ để lại sau này đi rồi tính. Đừng quá nôn nóng, gấp gáp làm gì, chờ đến khi ngươi hoàn thiện tất cả rồi tung ra thị trường cũng không muộn đâu.
+
+Với lại bây giờ, điều chúng ta cần phải làm là tập trung phát triển [The Alliance Y Dược] trước cái đã. Chỉ khi nó đứng vững được trên thị trường dược phẩm thì chúng ta mới có khả năng tính toán đến những lĩnh vực khác.”
+
+Lúc này, Lý Uyên mới từ tốn giải thích cho Đình Tấn những vấn đề trong kinh doanh cần được đặt ra trong chuyện đưa ra sản phẩm công nghệ này. 
+
+Điều này cũng không khỏi làm Đình Tấn có chút hụt hẫng. Nếu đem so sánh chuyên môn kinh doanh thì quả thật, hắn không thể nào sánh bằng được Lý Uyên, thế nên bây giờ có chút nôn nóng thì cũng không thể trách hắn. Dù sao lần này hắn cũng chỉ muốn làm luôn một thể cho tiện mà thôi.
+
+Lý Uyên nói đoạn, nàng lại trầm ngâm như đang suy tính vài chuyện sau đó lại bổ sung thêm.
+
+- “Tuy nhiên, nếu như ngươi có thể sửa lại một chút vài vấn đề thì ta nghĩ vẫn có thể đưa nó vào lần hội đấu giá này.”
+
+- “Ngươi muốn làm thế nào?”
+
+Đình Tấn có chút tò mò hỏi lại. Ngoài chuyện giới thiệu sản phẩm ra thì hắn đã không nghĩ ra để cho một phần mềm trí tuệ nhân tạo làm cái gì nữa.
+
+Nở một nụ cười bí hiểm, Lý Uyên hướng về hắn chậm rãi bày kế.
+
+- “Nếu ngươi có thể làm cho nó có đủ khả năng phụ trợ ta chủ trì lần hội đấu giá này thì chẳng phải là có cơ hội cho nó ra mắt công chúng rồi sao. Chúng ta có thể thành lập một công ty phần mềm trước, sau đó đưa phiên bản thử nghiệm này ra cho người dùng sử dụng miễn phí. Đến lúc ngươi hoàn thành toàn bộ phần mềm của Ba Đậu Đậu thì chúng ta lại chuyển về thu phí cũng không muộn.”
+
+Có được lời giải thích của Lý Uyên, đôi mắt của Đình Tấn lập tức sáng lên thấy rõ.
+
+- “Tốt! Vậy ta sẽ cố gắng làm xong trong ngày mai rồi giao cho ngươi.”
+
+Đã có được sự thống nhất về ý kiến, Lý Uyên mỉm cười, gật đầu với hắn một cái.
+
+Hiện tại thời gian cũng đã hơn 11 giờ đêm trong game, Đình Tấn nhìn lại đồng hồ thì cũng không kìm được kinh ngạc một chút. Chỉ ngồi bàn chuyện quá tập trung làm hắn cũng không để ý đến giờ giấc.
+
+Đình Tấn nhanh chóng hướng về những người có mặt trong phòng ăn này nói.
+
+- “Đã trễ rồi, mọi chuyện hôm nay cũng bàn xong. Mọi người tranh thủ về nghỉ ngơi đi. Ameerah, Louis, David và Terrell, các ngươi nhớ chăm chỉ tu luyện. Chúng ta chỉ còn không tới 3 ngày nữa thôi đấy.”
+
+Gọi mọi người giải tán, Đình Tấn cũng không quên nhắc nhở những đồng đội của mình thời gian chuẩn bị cho nhiệm vụ sắp tới đã không còn nhiều nữa.
+
+Những người trong phòng ăn nghe được lời của Đình Tấn thì cũng lục tục thay phiên nhau đứng lên, chào hắn một cái rồi trở về phòng.
+
+Bất quá, đang lúc Lạc Hồng định đi ra khỏi phòng thì giọng nói của Đình Tấn lại vang lên.
+
+- “Lạc Hồng ngươi có thể nán lại một chút được không? Ta có chút chuyện muốn hỏi.”Một hồi sau, tất cả những gì xảy ra trong thời gian gần đây đều được báo cáo lại hết, Đình Tấn cũng đã hoàn toàn nắm rõ được tình huống hiện tại của [The Alliance].
+
+Thành viên chính thức thì vẫn đang hoạt động rất tích cực, làm nhiệm vụ và thăng cấp thì vẫn không bỏ sót một ngày nào. Còn việc kinh doanh thì trong game vẫn chưa đến nỗi suy sụp nhiều lắm, nhưng ở hiện thực thì có chút thê thảm.
+
+Sau đợt bạo động tin tức xấu lần này, có rất nhiều công ty đối tác và người chơi bởi vì quá kích động mà đã tiến hành tẩy chay [The Alliance]. Đạo lý ‘Cây cao đón gió’ thì Đình Tấn cũng hiểu, thế nên tình huống trước mắt là phải giải quyết được vấn đề lòng tin của người dùng.
+
+Bất chợt, Đình Tấn lại nhớ đến mình cũng đã hoàn thành xong phần mềm trí tuệ nhân tạo trong lúc đang cày phụ bản. 
+
+Thế là mặc kệ vẫn còn có rất nhiều người trong phòng ăn, hắn vội vàng gọi lại Lý Uyên hỏi thăm.
+
+- “Uyên! Phần mềm trí tuệ nhân tạo ta đã làm xong rồi, hay là chúng ta mượn dGHc45pS nhờ buổi đấu giá lần này để đưa nó vào tầm mắt của người dùng luôn một thể?”
+
+Đang ngồi tập trung kiểm tra trang bị, Lý Uyên bị Đình Tấn gọi thì ngừng tay một chút, nghe hắn giải thích.
+
+Ý kiến của Đình Tấn làm cho nàng nhíu chặt đôi chân mày, đôi mắt đảo quanh dường như đang suy tính cách thực hiện và độ khả thi của kế hoạch này.
+
+- “Ừm… ta hiện tại cũng chưa biết là nó ra sao cho nên ngươi nói làm ta cũng rất mơ hồ không biết phải áp dụng thế nào nữa.”
+
+Sau một lúc, Lý Uyên lắc nhẹ đầu mà nói. Điều này làm Đình Tấn không khỏi tự mắng mình đãng trí. 
+
+Thế là hắn nhanh chóng mở ra giao diện máy tính, đôi bàn tay gõ nhẹ như đang lướt sóng trên phím ảo.
+
+‘Ten ten…’
+
+Màn hình hệ thống giải lập giao diện máy tính, từ từ biến mất. Sau đó giữa không trung, trước mặt Đình Tấn dần dần hiện lên phù hiệu vòng tròn với chữ A cách điệu ở giữa. Hay nói đúng hơn đây sẽ là logo của [The Alliance]. Kèm theo đó là âm thanh mở màn khá vui tai.
+
+‘Bịch’
+
+Không biết từ đâu trên không lại đột nhiên rơi xuống một con vật, hình tượng như một chú mèo truyện tranh, vừa mập vừa tròn có hai tai nhọn ở trên đầu, tứ chi ngắn ngủn, với đôi mắt híp lại thành một đường thẳng trông rất dễ thương.
+
+Nó dùng hai cái tay ngắn chống đỡ thân thể ục ịch của mình đứng dậy, con vật này hướng về phía Đình Tấn mà mở miệng nói.
+
+- “Ba Đậu Đậu xin hân hạnh được phục vụ ông chủ”
+
+Giọng nói như một đứa trẻ con, không phân biệt được trai gái. Con vật gọi Ba Đậu Đậu này tự giới thiệu bản thân mình cho Đình Tấn.
+
+Do Đình Tấn mở chức năng chia sẻ âm thanh cũng chỉ ở mức độ nhỏ, thế nên mọi người xung quanh cũng không ai nghe được giọng nói của con Ba Đậu Đậu này. Bọn họ vẫn tiếp tục chăm chú nói chuyện, thảo luận với nhau.
+
+Riêng có Lý Uyên ngồi bên cạnh hắn thì đã nghe rõ được giọng nói của con Ba Đậu Đậu. Nàng trông thấy một màn này thì cũng khá là kinh ngạc. Nhưng không phải vì trí thông minh của phần mềm này mà là bởi vì tốc độ lập trình của Đình Tấn.
+
+- “Có thật là ngươi lập trình ra bộ phần mềm trí tuệ nhân tạo này chỉ trong một tuần thời gian trong game, chứ không phải là đã chuẩn bị từ trước?”
+
+Có chút khó tin, nàng nhịn không được hỏi lại Đình Tấn. Phải biết từ lúc quay trở lại game sau khi đi cứu anh em David, Đình Tấn mới bắt đầu bàn luận đến chuyện lập trình phần mềm nhân tạo này.
+
+Nếu như tính từ khoảng thời gian đó đến hiện tại, thời gian trôi qua cũng chỉ mới 7 ngày thôi. Mà đó là thời gian trong game, nếu mang ra hiện thực thì sẽ giảm đi một nửa, chỉ còn lại 3 ngày.
+
+Lý Uyên tuy rằng không biết công việc lập trình có khó hay không, thế nhưng nhìn những công ty lớn đầu tư một số tiền lớn vào trong quá trình nghiên cứu và phát triển thuật toán ứng dụng vào bộ phần mềm trí tuệ nhân tạo của họ, lại kết hợp thêm một số đông nhân thủ làm việc trong một khoảng thời gian dài mới có thể đưa ra một bộ phần mềm hoàn chỉnh. 
+
+Bấy nhiêu đó cũng đã đủ nói lên độ khó của công việc này rồi. Vậy mà ở đây, Đình Tấn chỉ một mình một người làm việc trong một tuần thì quả thật điều này cũng là có chút khó tin.
+
+- “Thật ra thì nó cũng chưa hoàn thiện lắm.”
+
+Đình Tấn trông thấy biểu hiện của Lý Uyên như vậy thì biết rằng mình đã làm việc hơi bị lố. Hắn có chút ngượng ngùng giải thích.
+
+- “Ba Đậu Đậu lúc này cũng chỉ mới đạt đến phiên bản thử nghiệm thôi. Như ngươi thấy đó, hiểu biết của nó cũng còn quá nông cạn. Quá trình hoàn thiện kiến thức vẫn còn cần có một đoạn thời gian dài tích lũy nữa thì mới có thể gọi là trí tuệ nhân tạo.”
+
+Như để chứng minh cho lời nói của mình, Đình Tấn hướng về con Ba Đậu Đậu này ra lệnh.
+
+- “Ba Đậu Đậu, đây là người quản lý của [The Alliance], Lý Uyên. Ghi nhớ người này đi.”
+
+Hắn đưa tay vừa chỉ về phía Lý Uyên vừa nói với con Ba Đậu Đậu.
+
+Bất quá, trả lời lại hắn là một gương mặt ục ịch có chút ngáo ngơ của con Ba Đậu Đậu cùng với một câu hỏi rất ngây thơ như con nít hỏi người lớn.
+
+- “Ông chủ, quản lý với [The Alliance] là cái gì vậy?”
+
+Nghe lời nói của con Ba Đậu Đậu này, Đình Tấn cũng không có quá nhiều kinh ngạc, bởi vì con vật ảo trí tuệ nhân tạo này chính là do hắn tạo ra. Trạng thái của nó thế nào thì hắn phải biết rõ nhất.
+
+‘Phì…’
+
+Lý Uyên trông thấy thái độ và cách giải thích của hắn, lại thêm hình dáng của con Ba Đậu Đậu cũng rất buồn cười nên không kìm được phì cười một tiếng. Đây cũng là lần đầu tiên nàng nhìn thấy một người trầm ổn như Đình Tấn lại có biểu hiện gấp gáp, vội vàng như vậy.
+
+Giọng cười của Lý Uyên cũng làm cho những người xung quanh chú ý đến tình huống bên này.
+
+Mọi người khi trông thấy có một con vật hoạt hình rất dễ thương đang lơ lửng trước mặt Đình Tấn thì không khỏi tò mò quan sát.
+
+- “Anh Đình Tấn, con này là thú nuôi ảo của anh à?”
+
+Ameerah không thể kháng cự được vẻ dễ thương của con Ba Đậu Đậu, nàng ngay lập tức hỏi Đình Tấn nguồn gốc của con vật này, dường như đang có ý định tìm về nuôi một con chơi.
+
+- “Ba Đậu Đậu không phải vật nuôi. Ba Đậu Đậu là người hầu của ông chủ!”
+
+Con Ba Đậu Đậu giống như là nghe được lời nói của Ameerah, nó lập tức xoay người lại phản bác. Tuy giọng nói bình thường thế nhưng gương mặt biểu hiện có chút cứng đờ.
+
+Ameerah cùng với mọi người xung quanh cũng bị nó làm cho kinh ngạc không thôi.
+
+- “Nó là do ta làm ra, bây giờ vẫn chưa có công bố ra đâu. Để sắp tới có thời gian ta lại cho ngươi một con.”
+
+Đình Tấn ngay lập tức đoán biết được ý đồ của Ameerah. Hắn vừa cười vừa hứa hẹn để cho cô nàng này không làm lộn xộn lên.
+
+- “Phần mềm này có áp dụng vào trí tuệ nhân tạo phải không hội trưởng?”
+
+Làm một tên hacker, thanh niên Tim rất nhanh thì nhận ra sự khác biệt ở trong con vật Ba Đậu Đậu này. Hắn liền lên tiếng hỏi lại Đình Tấn để xác nhận suy đoán của mình. 
+
+Bất quá, Đình Tấn cũng không trả lời hắn câu nào, chỉ nở một nụ cười rồi gật đầu với hắn một cái mà thôi. Thế nhưng bấy nhiêu đó cũng đã quá đủ với Tim rồi. Hắn cùng với Ameerah, hai người nhanh chóng bay tới bên cạnh Đình Tấn bắt đầu mò mẫm, vọc vạch với con Ba Đậu Đậu.
+
+- “Tốt rồi, ta nghĩ là một sản phẩm chưa hoàn thịện mà lại đem tung ra sớm như vậy thì chẳng khác nào là đem ấn tượng đầu tiên của nó với người dùng giết đi không thương tiếc. 
+
+Cho nên kế hoạch của ngươi cứ để lại sau này đi rồi tính. Đừng quá nôn nóng, gấp gáp làm gì, chờ đến khi ngươi hoàn thiện tất cả rồi tung ra thị trường cũng không muộn đâu.
+
+Với lại bây giờ, điều chúng ta cần phải làm là tập trung phát triển [The Alliance Y Dược] trước cái đã. Chỉ khi nó đứng vững được trên thị trường dược phẩm thì chúng ta mới có khả năng tính toán đến những lĩnh vực khác.”
+
+Lúc này, Lý Uyên mới từ tốn giải thích cho Đình Tấn những vấn đề trong kinh doanh cần được đặt ra trong chuyện đưa ra sản phẩm công nghệ này. 
+
+Điều này cũng không khỏi làm Đình Tấn có chút hụt hẫng. Nếu đem so sánh chuyên môn kinh doanh thì quả thật, hắn không thể nào sánh bằng được Lý Uyên, thế nên bây giờ có chút nôn nóng thì cũng không thể trách hắn. Dù sao lần này hắn cũng chỉ muốn làm luôn một thể cho tiện mà thôi.
+
+Lý Uyên nói đoạn, nàng lại trầm ngâm như đang suy tính vài chuyện sau đó lại bổ sung thêm.
+
+- “Tuy nhiên, nếu như ngươi có thể sửa lại một chút vài vấn đề thì ta nghĩ vẫn có thể đưa nó vào lần hội đấu giá này.”
+
+- “Ngươi muốn làm thế nào?”
+
+Đình Tấn có chút tò mò hỏi lại. Ngoài chuyện giới thiệu sản phẩm ra thì hắn đã không nghĩ ra để cho một phần mềm trí tuệ nhân tạo làm cái gì nữa.
+
+Nở một nụ cười bí hiểm, Lý Uyên hướng về hắn chậm rãi bày kế.
+
+- “Nếu ngươi có thể làm cho nó có đủ khả năng phụ trợ ta chủ trì lần hội đấu giá này thì chẳng phải là có cơ hội cho nó ra mắt công chúng rồi sao. Chúng ta có thể thành lập một công ty phần mềm trước, sau đó đưa phiên bản thử nghiệm này ra cho người dùng sử dụng miễn phí. Đến lúc ngươi hoàn thành toàn bộ phần mềm của Ba Đậu Đậu thì chúng ta lại chuyển về thu phí cũng không muộn.”
+
+Có được lời giải thích của Lý Uyên, đôi mắt của Đình Tấn lập tức sáng lên thấy rõ.
+
+- “Tốt! Vậy ta sẽ cố gắng làm xong trong ngày mai rồi giao cho ngươi.”
+
+Đã có được sự thống nhất về ý kiến, Lý Uyên mỉm cười, gật đầu với hắn một cái.
+
+Hiện tại thời gian cũng đã hơn 11 giờ đêm trong game, Đình Tấn nhìn lại đồng hồ thì cũng không kìm được kinh ngạc một chút. Chỉ ngồi bàn chuyện quá tập trung làm hắn cũng không để ý đến giờ giấc.
+
+Đình Tấn nhanh chóng hướng về những người có mặt trong phòng ăn này nói.
+
+- “Đã trễ rồi, mọi chuyện hôm nay cũng bàn xong. Mọi người tranh thủ về nghỉ ngơi đi. Ameerah, Louis, David và Terrell, các ngươi nhớ chăm chỉ tu luyện. Chúng ta chỉ còn không tới 3 ngày nữa thôi đấy.”
+
+Gọi mọi người giải tán, Đình Tấn cũng không quên nhắc nhở những đồng đội của mình thời gian chuẩn bị cho nhiệm vụ sắp tới đã không còn nhiều nữa.
+
+Những người trong phòng ăn nghe được lời của Đình Tấn thì cũng lục tục thay phiên nhau đứng lên, chào hắn một cái rồi trở về phòng.
+
+Bất quá, đang lúc Lạc Hồng định đi ra khỏi phòng thì giọng nói của Đình Tấn lại vang lên.
+
+- “Lạc Hồng ngươi có thể nán lại một chút được không? Ta có chút chuyện muốn hỏi.”

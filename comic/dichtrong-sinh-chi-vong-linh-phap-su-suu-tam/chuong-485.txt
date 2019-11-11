@@ -1,0 +1,595 @@
+-“Giao dịch!”
+
+Đình Tấn nhìn tới gã [NPC Hướng Dẫn] rồi nhẩm thầm trong đầu một đạo mệnh lệnh.
+
+Ngay lập tức, trước mặt Đình Tấn liền chậm rãi hiện ra một bảng giao diện giống như của cửa hàng vậy. Thế nhưng vật phẩm buôn bán ở đây lại toàn là kỹ năng và giá tiền không gì khác hơn điểm kỹ năng tự do của người chơi.
+
+Trên bảng giao diện cũng có rất nhiều thẻ phân loại riêng biệt, trong đó chia ra làm năm loại thẻ lớn nằm ở phần trên cùng của giao diện là [Tu Luyện], [Cận Chiến], [Viễn Trình], [Phụ Trợ], [Ma Pháp]. 
+
+Hiện tại, Đình Tấn đang nhìn thấy những kỹ năng là nằm ở tại thẻ đầu tiên [Tu Luyện], với thật nhiều những kỹ năng từ cơ bản cho đến cao cấp đều có. 
+
+Hơn nữa, giá cả cũng tăng dần theo từng cấp độ, ví như kỹ năng cơ bản, hạ cấp chỉ cần lấy một điểm kỹ năng tự do là có thể học được, mà phân loại cao cấp thì cần đến ba, bốn điểm.
+
+Bên trái của giao diện đồng dạng còn có thể những thẻ phân loại chi tiết hơn đối với các loại tu luyện thuật, tựa như các loại kỹ năng tu luyện thiên về thuộc tính nhân vật [Thể Chất], [Tinh Thần], hoặc kỹ năng tu luyện hấp thụ và sử dụng các loại [Nguyên Tố Thuộc Tính Lôi], [Nguyên Tố Thuộc Tính Lôi] v.v…
+
+[Hỏa Ngưng Quyết]
+
+Cấp Độ: Hạ Cấp
+
+Giới Thiệu: Pháp quyết hấp thụ và ngưng tụ nguyên tố [Hỏa] của đạo gia chính tông, tốc độ hấp thu khá chậm, không yêu cầu môi trường tu luyện.
+
+Hiệu Quả: Khôi phục hoặc Tăng Cường 1 điểm nguyên tố thuộc tính [Hỏa] sau mỗi giờ minh tưởng.
+
+-Cần 1 điểm kỹ năng tự do.
+
+[Tôi Thể Quyền]
+
+Cấp Độ: Trung Cấp
+
+Giới Thiệu: Một bộ quyền pháp rèn luyện thể chất và sức mạnh của phương tây cổ đại.
+
+Hiệu quả: Tăng cường 2 điểm Thể Chất và Sức Mạnh sau mỗi lần hoàn thành đúng chuẩn toàn bộ bài quyền, giới hạn một ngày tôi luyện trong 5 lần.
+
+-Cần 2 điểm kỹ năng tự do
+
+[Lạc Thủy Niệm Thuật]
+
+Cấp Độ: Cao Cấp
+
+Giới Thiệu: Thuật pháp tu luyện cao cấp của Long tộc Lạc gia tại Bách Việt đại tộc, yêu cầu tinh thần lực trên 800 điểm, môi trường chứa đựng nhiều nguyên tố thuộc tính [Thủy], tốt nhất gần biển.
+
+Hiệu quả: Khôi phục hoặc Tăng Cường 4 điểm nguyên tố thuộc tính [Thủy] sau mỗi giờ minh tưởng.
+
+-Cần 4 điểm kỹ năng tự do
+
+…
+
+-“Thật nhiều quá… nên chọn cái nào đây?”
+
+Đình Tấn hơi nhíu nhíu đôi chân mày lại, ánh mắt đăm chiêu nhìn lấy từng cái kỹ năng mà lẩm bẩm thì thào trong miệng.
+
+-“Hiện tại, ta cảm thấy trong người của ngươi đang sở hữu hai loại nguyên tố [Lôi] và [Hắc Ám] có số lượng rất nồng nặc. Ta kiến nghị ngươi trước hết nên lựa chọn kỹ năng tu luyện của hai thuộc tính này.”
+
+Nghe được câu tự hỏi của Đình Tấn, [NPC Hướng Dẫn] bỗng dưng nhàn nhạt cất lời, thái độ bình thản tự nhiên với nụ cười mỉm trên môi.
+
+Có chút kinh ngạc nhìn tới gã [NPC Hướng Dẫn] trước mặt mình, nhưng Đình Tấn rất nhanh khôi phục lại vẻ bình thản tự nhiên của mình. Hắn dĩ nhiên phải biết rõ hai cái nguyên tố thuộc tính [Lôi] và [Hắc Ám] đó là đến từ đâu.
+
+Trải qua hai lần thử thách chuyển chức nghề nghiệp cấp hai, Đình Tấn cũng vô tình đã tiến vào môi trường rất nồng nặc các loại nguyên tố đó. Nói không có hấp thụ hay tích trữ một ít hai loại nguyên tố ấy vào trong người là chuyện không thể nào.
+
+-“Điểm kỹ năng tự do yêu cầu cũng quá cao đi, nếu như không phải ta trải qua hai lần thử thách, cộng với tích lũy từ trước mà đạt được 7 điểm, thì phỏng chừng muốn học được một cái kỹ năng cao cấp cũng phải chờ đến 60 cấp mới tích lũy đủ điểm kỹ năng tự do quá.”
+
+Nhìn một đống kỹ năng cao cấp trôi qua trước mắt mình, Đình Tấn không kìm được mà cảm thán. Quả thật kỹ năng quá đa dạng, muốn cái gì sẽ có cái đó, coi như Thuật Ẩn Thân, Thuật Phân Bóng, Khống Vật Thuật, Minh Tưởng Thuật các loại… tất cả đẳng cấp từ thấp đến cao đều có ở đây. 
+
+Chỉ cần đạt tới điều kiện và có đủ điểm kỹ năng là sẽ lập tức học được ngay, nhưng với một người chơi, mỗi 10 cấp mới có 1 điểm kỹ năng tự do mà nói, bốn điểm kỹ năng tự do, đó chẳng khác nào là cả một gia tài.
+
+-“Đối với điểm kỹ năng tự do, người chơi có xác xuất 1 ~ 10% nhận được tại ta nơi này mỗi khi hoàn thành nhiệm vụ. Cho nên nếu ngươi thiếu điểm kỹ năng tự do, có thể tiếp nhận nhiệm vụ của ta ở nơi này, sau đó chăm chỉ đi làm nhiệm vụ tích lũy. Chờ khi nào đủ lại đến học cũng không muộn.
+
+[NPC Hướng Dẫn] tiếp tục nhẹ giọng từ tốn giải thích, nói đoạn hắn im lặng một lúc, rồi lại tiếp tục thêm vào.
+
+-“Cho ngươi một lời khuyên, thực lực mạnh không phải nằm ở chỗ nhiều kỹ năng. Chỉ cần ngươi hiểu cách sử dụng kỹ năng của mình, coi như chỉ có vài cái kỹ năng cơ bản cũng đủ để ngươi tung hoành rồi.
+
+Chiến đấu với quái vật, bọn chúng chắc chắn sẽ không cho ngươi có cơ hội xuất ra kỹ năng Cao Cấp đâu, ngươi cần phải hiểu cách phối hợp giữa kỹ năng cấp thấp để tạo điều kiện thi triển kỹ năng cấp cao nữa.”
+
+Lời của hắn nói không khỏi khiến cho Đình Tấn rơi vào trong trầm tư, ngộ ra được một vài vấn đề quan trọng.
+
+‘Nhất nghệ tinh, nhất thân vinh’, có thể nắm giữ một loại tạo nghệ đến đỉnh điểm mới có thể mang lại một thành tựu vượt bậc cho mình. Tham thì thâm, có khi lại tự rước lấy khổ cho bản thân.
+
+-“Bất quá, đã ngươi là người đầu tiên mở ra hệ thống và tới đây học tập kỹ năng, ta có thể mở ưu đãi cho ngươi lựa chọn một số kỹ năng duy nhất ở nơi này, dĩ nhiên giá cả là sẽ không thể nào giảm xuống được.”
+
+Tuy nhiên, đang lúc Đình Tấn trầm ngâm rà soát lại các kỹ năng tu luyện hai hệ nguyên tố [Lôi] và [Hắc Ám], gã [NPC Hướng Dẫn] đột nhiên lại cất lời, ngữ khí cũng tự nhiên, mang hàm ý trêu đùa, chứ không còn cứng nhắc như thường lệ.
+
+-“Ưu đãi gì?”
+
+Đình Tấn ngạc nhiên hỏi lại, không ngờ lại có chuyện tốt chợt đến với mình.
+
+Gã [NPC Hướng Dẫn] cũng không trả lời câu hỏi của Đình Tấn, mà chỉ lấy từ trong người ra ba quyển sách da, rồi nhếch mép nói.
+
+-“Mời ngươi chọn.”
+
+[Song Pháp Tối Thượng – Thủy Long Cuồng Bạo]
+
+Cấp bậc: Siêu Cấp
+
+Giới thiệu: Bí thuật của Long tộc Lạc gia thuộc Bách Việt tộc, dẫn động năng lượng nguyên tố hệ [Lôi] và hệ [Thủy] có trong không gian xung quanh, tạo dựng lên một đầu Thủy Long. Bên trong có ẩn chứa lôi điện cường đại, lấy thủy làm gốc bổ trợ cho lôi điện công kích càng thêm mạnh mẽ hơn.
+
+Hiệu quả: 
+
+-[Sát Thương Thuộc Tính Thủy] = [Điểm tinh thần]
+
+-[Sát Thương Thuộc Tính Lôi] = [Điểm tinh thần] * [Sát Thương Thuộc Tính Thủy] của người triệu hồi.
+
+-Bán kính khu vực bao trùm xung quanh người thi triển [Điểm tinh thần / 20] mét
+
+-Kéo dài đến khi người triệu hồi tiêu hao hết MP.
+
+Tiêu Hao: [Bán kính khu vực bao trùm] * 1.000 MP / giây 
+
+Thời gian làm lạnh: Một ngày
+
+-Cần 7 điểm kỹ năng tự do
+
+…
+
+Sơ ý liếc mắt nhìn qua quyển sách da ngoài cùng bên trái, Đình Tấn lập tức bị thông tin của nó làm cho trợn mắt lên, hô hấp cũng vượt ra khỏi khả năng khống chế của hắn, bắt đầu trở nên dồn dập hơn.
+
+Ngay tức khắc, không hề có chút chần chờ, Đình Tấn vội chuyển dời tầm mắt của mình lên hai quyển sách da còn lại trong tay gã [NPC Hướng Dẫn].
+
+[Ám Pháp Tối Thượng – Hắc Ám Thiên Mạc]
+
+Cấp bậc: Siêu Cấp
+
+Giới thiệu: Bí thuật ác quỷ phương tây đã thất truyền từ thời xa xưa cổ đại, dẫn động nguyên tố hệ [Hắc Ám] trong thiên địa, tạo ra một lĩnh vực rộng lớn, được bao trùm bởi khói đen hắc ám.
+
+Hiệu quả: 
+
+-Khi sinh vật sống tiến vào trong khu vực bao trùm của kỹ năng, bất kể đẳng cấp chênh lệch với người triệu hồi, sinh vật sẽ bị giảm 20% thuộc tính. 
+
+-Mỗi giây bị nguyên tố hệ [Hắc Ám] ăn mòn, [Sát Thương Thuộc Tính Hắc Ám] = [Điểm tinh thần] / 3
+
+-Xác chết của sinh vật tử vong không quá 24 giờ nằm trong khu vực bao trùm của kỹ năng sẽ tự động bị biến thành sinh vật vong linh, chịu sự chi phối của người thi triển kỹ năng.
+
+-Bán kính khu vực bao trùm xung quanh người thi triển [Điểm tinh thần / 20] mét
+
+-Kéo dài đến khi người triệu hồi tiêu hao hết MP.
+
+Tiêu Hao: [Bán kính khu vực bao trùm] * 1.000 MP / giây 
+
+Thời gian làm lạnh: Một ngày
+
+-Cần 7 điểm kỹ năng tự do
+
+… 
+
+[Tạp Giới Tĩnh Lự]
+
+Cấp bậc: Siêu Cấp
+
+Giới thiệu: Là Đế Lai bí pháp tu luyện thuật truyền thụ cho ái nữ Âu Cơ thuộc Bách Việt tộc, lấy tinh thần dẫn dắt Linh Khí, phân chia ra thành ngũ hành, ngũ dị nguyên tố. Trong đó ngũ hành bao gồm Kim – Mộc – Thủy – Hỏa – Thổ, ngũ dị bao gồm Lôi – Phong – Băng – Quang – Ám các loại nguyên tố. 
+
+Hiệu quả: 
+
+-Mỗi giờ tu luyện tăng cường 1 điểm toàn bộ 4 hạng thuộc tính nhân vật.
+
+-Mỗi giờ tu luyện tăng cường 4 điểm toàn bộ 10 loại thuộc tính nguyên tố.
+
+Yêu Cầu: Người tu luyện cần có lực ý chí cường đại, để duy trì thể xác và tinh thần vượt qua quá trình tu luyện thống khổ. Kỹ năng chỉ dành cho Nhất Đế tu luyện, không thể truyền thụ người thứ hai, nếu không sẽ dẫn động lôi kiếp diệt sát.
+
+-Cần 7 điểm kỹ năng tự do
+
+…
+
+Ba cái hô hấp vừa xong, Đình Tấn đã đọc xong thông tin của hai quyển sách da còn lại.
+
+Hồi lâu im lặng trôi qua, đầu óc của Đình Tấn lúc bấy giờ giống như được đi tàu lượn siêu tốc cảm giác mạnh, vừa mới tuột dốc một tí thì đã phải vượt lên dốc cao hơn, để rồi khi đạt đến đỉnh điểm, hô hấp hắn cũng đã đứng lại quên hoạt động.
+
+Cường đại, quá sức mạnh mẽ!
+
+Đình Tấn đã triệt để bị những kỹ năng này thuyết phục, từng cái không ai chịu thua kém ai.
+
+So sánh với bọn chúng, kỹ năng mạnh nhất là ‘Lôi Pháp Tối Thượng – Phán Quyết", mà Đình Tấn nắm giữ trong tay lại giống như một trò chơi nho nhỏ mà thôi.
+
+Nếu như muốn nói ngang hàng với ba kỹ năng này, chắc chỉ có ‘Thượng Cấp Triệu Hồi Thuật – Địa Ngục Môn’ kết hợp với Mephisto là có thể mang ra so sánh mà thôi.
+
+Thế nhưng Mephisto là Mephisto, Đình Tấn là Đình Tấn. Sức mạnh của Mephisto không thuộc về Đình Tấn, một khi Mephisto xảy ra chuyện, Đình Tấn xem như mất hết tất cả.
+
+Cho nên quy kết ra, sức mạnh thuộc về bản thân Đình Tấn độc nhất chỉ có "Phán Quyết" là mạnh mẽ nhất mà thôi.
+
+Một lần này, thật sự làm hắn cảm thấy rất khó mà lựa chọn được, ba cái kỹ năng, trong đó sở hữu hai cái đại chiêu, một cái kỹ năng tu luyện cường đại. Cái nào cũng đặc biệt mạnh mẽ không thể chê vào đâu được.
+
+Ban đầu, mục tiêu hướng tới của Đình Tấn là cần một kỹ năng tu luyện, mà bây giờ xuất hiện kỹ năng tu luyện, nhưng nó lại đánh lên một cái chữ ‘Tạp’, đây rõ ràng đã không thuộc về tiêu chí hắn đang hướng tới.
+
+Còn lại hai cái kỹ năng đại chiêu kia, bọn chúng đều mạnh mẽ quá sức tưởng tượng của Đình Tấn. 
+
+"Phán Quyết" có thể giúp Đình Tấn lật ngửa một thế cờ thua, nhưng ở đây hai cái kỹ năng này chỉ hơn chứ không kém so với "Phán Quyết".
+
+Đình Tấn thật sự đang có thiên hướng lựa chọn một trong hai kỹ năng này, vì cơ hội chỉ có một, nắm giữ một kỹ năng mạnh mẽ trong tay thì sẽ có thêm một phần bảo đảm an toàn cho mình.
+
+Còn về phần kỹ năng tu luyện, hắn có thể đi làm nhiệm vụ kiếm thêm điểm kỹ năng tự do về sau sẽ học lại cũng được.
+
+Với tốc độ đi giết quái thăng cấp của Đình Tấn, muốn làm một cái nhiệm vụ giống như [NPC Hướng Dẫn] vừa giao cho nhóm Ameerah thì quả thật là đơn giản, chỉ cần một ngày sẽ có thể hoàn thành.
+
+Lấy số lượng nghiền ép, 1 ~ 10% xuất hiện phần thưởng điểm kỹ năng tự do cũng không phải chuyện gì khó.
+
+-“Ta…”
+
+Đình Tấn ấp úng, ánh mắt đảo quanh hai cái kỹ năng thứ nhất [Thủy Long Cuồng Bạo] cùng kỹ năng thứ hai [Hắc Ám Thiên Mạc], nội tâm phân vân khó lòng đưa ra được quyết định sau cùng.
+
+-“Nên nhớ, chỉ có một lần lựa chọn duy nhất, kỹ năng này sẽ không lại xuất hiện ở nơi của ta nữa, mà sẽ thông qua một phương thức nào đó xuất hiện. Ngươi cần suy nghĩ kỹ.”
+
+Gã [NPC Hướng Dẫn] thấy Đình Tấn ấp úng như vậy thì lại nhàn nhạt nói.-“Giao dịch!”
+
+Đình Tấn nhìn tới gã [NPC Hướng Dẫn] rồi nhẩm thầm trong đầu một đạo mệnh lệnh.
+
+Ngay lập tức, trước mặt Đình Tấn liền chậm rãi hiện ra một bảng giao diện giống như của cửa hàng vậy. Thế nhưng vật phẩm buôn bán ở đây lại toàn là kỹ năng và giá tiền không gì khác hơn điểm kỹ năng tự do của người chơi.
+
+Trên bảng giao diện cũng có rất nhiều thẻ phân loại riêng biệt, trong đó chia ra làm năm loại thẻ lớn nằm ở phần trên cùng của giao diện là [Tu Luyện], [Cận Chiến], [Viễn Trình], [Phụ Trợ], [Ma Pháp]. 
+
+Hiện tại, Đình Tấn đang nhìn thấy những kỹ năng là nằm ở tại thẻ đầu tiên [Tu Luyện], với thật nhiều những kỹ năng từ cơ bản cho đến cao cấp đều có. 
+
+Hơn nữa, giá cả cũng tăng dần theo từng cấp độ, ví như kỹ năng cơ bản, hạ cấp chỉ cần lấy một điểm kỹ năng tự do là có thể học được, mà phân loại cao cấp thì cần đến ba, bốn điểm.
+
+Bên trái của giao diện đồng dạng còn có thể những thẻ phân loại chi tiết hơn đối với các loại tu luyện thuật, tựa như các loại kỹ năng tu luyện thiên về thuộc tính nhân vật [Thể Chất], [Tinh Thần], hoặc kỹ năng tu luyện hấp thụ và sử dụng các loại [Nguyên Tố Thuộc Tính Lôi], [Nguyên Tố Thuộc Tính Lôi] v.v…
+
+[Hỏa Ngưng Quyết]
+
+Cấp Độ: Hạ Cấp
+
+Giới Thiệu: Pháp quyết hấp thụ và ngưng tụ nguyên tố [Hỏa] của đạo gia chính tông, tốc độ hấp thu khá chậm, không yêu cầu môi trường tu luyện.
+
+Hiệu Quả: Khôi phục hoặc Tăng Cường 1 điểm nguyên tố thuộc tính [Hỏa] sau mỗi giờ minh tưởng.
+
+-Cần 1 điểm kỹ năng tự do.
+
+[Tôi Thể Quyền]
+
+Cấp Độ: Trung Cấp
+
+Giới Thiệu: Một bộ quyền pháp rèn luyện thể chất và sức mạnh của phương tây cổ đại.
+
+Hiệu quả: Tăng cường 2 điểm Thể Chất và Sức Mạnh sau mỗi lần hoàn thành đúng chuẩn toàn bộ bài quyền, giới hạn một ngày tôi luyện trong 5 lần.
+
+-Cần 2 điểm kỹ năng tự do
+
+[Lạc Thủy Niệm Thuật]
+
+Cấp Độ: Cao Cấp
+
+Giới Thiệu: Thuật pháp tu luyện cao cấp của Long tộc Lạc gia tại Bách Việt đại tộc, yêu cầu tinh thần lực trên 800 điểm, môi trường chứa đựng nhiều nguyên tố thuộc tính [Thủy], tốt nhất gần biển.
+
+Hiệu quả: Khôi phục hoặc Tăng Cường 4 điểm nguyên tố thuộc tính [Thủy] sau mỗi giờ minh tưởng.
+
+-Cần 4 điểm kỹ năng tự do
+
+…
+
+-“Thật nhiều quá… nên chọn cái nào đây?”
+
+Đình Tấn hơi nhíu nhíu đôi chân mày lại, ánh mắt đăm chiêu nhìn lấy từng cái kỹ năng mà lẩm bẩm thì thào trong miệng.
+
+-“Hiện tại, ta cảm thấy trong người của ngươi đang sở hữu hai loại nguyên tố [Lôi] và [Hắc Ám] có số lượng rất nồng nặc. Ta kiến nghị ngươi trước hết nên lựa chọn kỹ năng tu luyện của hai thuộc tính này.”
+
+Nghe được câu tự hỏi của Đình Tấn, [NPC Hướng Dẫn] bỗng dưng nhàn nhạt cất lời, thái độ bình thản tự nhiên với nụ cười mỉm trên môi.
+
+Có chút kinh ngạc nhìn tới gã [NPC Hướng Dẫn] trước mặt mình, nhưng Đình Tấn rất nhanh khôi phục lại vẻ bình thản tự nhiên của mình. Hắn dĩ nhiên phải biết rõ hai cái nguyên tố thuộc tính [Lôi] và [Hắc Ám] đó là đến từ đâu.
+
+Trải qua hai lần thử thách chuyển chức nghề nghiệp cấp hai, Đình Tấn cũng vô tình đã tiến vào môi trường rất nồng nặc các loại nguyên tố đó. Nói không có hấp thụ hay tích trữ một ít hai loại nguyên tố ấy vào trong người là chuyện không thể nào.
+
+-“Điểm kỹ năng tự do yêu cầu cũng quá cao đi, nếu như không phải ta trải qua hai lần thử thách, cộng với tích lũy từ trước mà đạt được 7 điểm, thì phỏng chừng muốn học được một cái kỹ năng cao cấp cũng phải chờ đến 60 cấp mới tích lũy đủ điểm kỹ năng tự do quá.”
+
+Nhìn một đống kỹ năng cao cấp trôi qua trước mắt mình, Đình Tấn không kìm được mà cảm thán. Quả thật kỹ năng quá đa dạng, muốn cái gì sẽ có cái đó, coi như Thuật Ẩn Thân, Thuật Phân Bóng, Khống Vật Thuật, Minh Tưởng Thuật các loại… tất cả đẳng cấp từ thấp đến cao đều có ở đây. 
+
+Chỉ cần đạt tới điều kiện và có đủ điểm kỹ năng là sẽ lập tức học được ngay, nhưng với một người chơi, mỗi 10 cấp mới có 1 điểm kỹ năng tự do mà nói, bốn điểm kỹ năng tự do, đó chẳng khác nào là cả một gia tài.
+
+-“Đối với điểm kỹ năng tự do, người chơi có xác xuất 1 ~ 10% nhận được tại ta nơi này mỗi khi hoàn thành nhiệm vụ. Cho nên nếu ngươi thiếu điểm kỹ năng tự do, có thể tiếp nhận nhiệm vụ của ta ở nơi này, sau đó chăm chỉ đi làm nhiệm vụ tích lũy. Chờ khi nào đủ lại đến học cũng không muộn.
+
+[NPC Hướng Dẫn] tiếp tục nhẹ giọng từ tốn giải thích, nói đoạn hắn im lặng một lúc, rồi lại tiếp tục thêm vào.
+
+-“Cho ngươi một lời khuyên, thực lực mạnh không phải nằm ở chỗ nhiều kỹ năng. Chỉ cần ngươi hiểu cách sử dụng kỹ năng của mình, coi như chỉ có vài cái kỹ năng cơ bản cũng đủ để ngươi tung hoành rồi.
+
+Chiến đấu với quái vật, bọn chúng chắc chắn sẽ không cho ngươi có cơ hội xuất ra kỹ năng Cao Cấp đâu, ngươi cần phải hiểu cách phối hợp giữa kỹ năng cấp thấp để tạo điều kiện thi triển kỹ năng cấp cao nữa.”
+
+Lời của hắn nói không khỏi khiến cho Đình Tấn rơi vào trong trầm tư, ngộ ra được một vài vấn đề quan trọng.
+
+‘Nhất nghệ tinh, nhất thân vinh’, có thể nắm giữ một loại tạo nghệ đến đỉnh điểm mới có thể mang lại một thành tựu vượt bậc cho mình. Tham thì thâm, có khi lại tự rước lấy khổ cho bản thân.
+
+-“Bất quá, đã ngươi là người đầu tiên mở ra hệ thống và tới đây học tập kỹ năng, ta có thể mở ưu đãi cho ngươi lựa chọn một số kỹ năng duy nhất ở nơi này, dĩ nhiên giá cả là sẽ không thể nào giảm xuống được.”
+
+Tuy nhiên, đang lúc Đình Tấn trầm ngâm rà soát lại các kỹ năng tu luyện hai hệ nguyên tố [Lôi] và [Hắc Ám], gã [NPC Hướng Dẫn] đột nhiên lại cất lời, ngữ khí cũng tự nhiên, mang hàm ý trêu đùa, chứ không còn cứng nhắc như thường lệ.
+
+-“Ưu đãi gì?”
+
+Đình Tấn ngạc nhiên hỏi lại, không ngờ lại có chuyện tốt chợt đến với mình.
+
+Gã [NPC Hướng Dẫn] cũng không trả lời câu hỏi của Đình Tấn, mà chỉ lấy từ trong người ra ba quyển sách da, rồi nhếch mép nói.
+
+-“Mời ngươi chọn.”
+
+[Song Pháp Tối Thượng – Thủy Long Cuồng Bạo]
+
+Cấp bậc: Siêu Cấp
+
+Giới thiệu: Bí thuật của Long tộc Lạc gia thuộc Bách Việt tộc, dẫn động năng lượng nguyên tố hệ [Lôi] và hệ [Thủy] có trong không gian xung quanh, tạo dựng lên một đầu Thủy Long. Bên trong có ẩn chứa lôi điện cường đại, lấy thủy làm gốc bổ trợ cho lôi điện công kích càng thêm mạnh mẽ hơn.
+
+Hiệu quả: 
+
+-[Sát Thương Thuộc Tính Thủy] = [Điểm tinh thần]
+
+-[Sát Thương Thuộc Tính Lôi] = [Điểm tinh thần] * [Sát Thương Thuộc Tính Thủy] của người triệu hồi.
+
+-Bán kính khu vực bao trùm xung quanh người thi triển [Điểm tinh thần / 20] mét
+
+-Kéo dài đến khi người triệu hồi tiêu hao hết MP.
+
+Tiêu Hao: [Bán kính khu vực bao trùm] * 1.000 MP / giây 
+
+Thời gian làm lạnh: Một ngày
+
+-Cần 7 điểm kỹ năng tự do
+
+…
+
+Sơ ý liếc mắt nhìn qua quyển sách da ngoài cùng bên trái, Đình Tấn lập tức bị thông tin của nó làm cho trợn mắt lên, hô hấp cũng vượt ra khỏi khả năng khống chế của hắn, bắt đầu trở nên dồn dập hơn.
+
+Ngay tức khắc, không hề có chút chần chờ, Đình Tấn vội chuyển dời tầm mắt của mình lên hai quyển sách da còn lại trong tay gã [NPC Hướng Dẫn].
+
+[Ám Pháp Tối Thượng – Hắc Ám Thiên Mạc]
+
+Cấp bậc: Siêu Cấp
+
+Giới thiệu: Bí thuật ác quỷ phương tây đã thất truyền từ thời xa xưa cổ đại, dẫn động nguyên tố hệ [Hắc Ám] trong thiên địa, tạo ra một lĩnh vực rộng lớn, được bao trùm bởi khói đen hắc ám.
+
+Hiệu quả: 
+
+-Khi sinh vật sống tiến vào trong khu vực bao trùm của kỹ năng, bất kể đẳng cấp chênh lệch với người triệu hồi, sinh vật sẽ bị giảm 20% thuộc tính. 
+
+-Mỗi giây bị nguyên tố hệ [Hắc Ám] ăn mòn, [Sát Thương Thuộc Tính Hắc Ám] = [Điểm tinh thần] / 3
+
+-Xác chết của sinh vật tử vong không quá 24 giờ nằm trong khu vực bao trùm của kỹ năng sẽ tự động bị biến thành sinh vật vong linh, chịu sự chi phối của người thi triển kỹ năng.
+
+-Bán kính khu vực bao trùm xung quanh người thi triển [Điểm tinh thần / 20] mét
+
+-Kéo dài đến khi người triệu hồi tiêu hao hết MP.
+
+Tiêu Hao: [Bán kính khu vực bao trùm] * 1.000 MP / giây 
+
+Thời gian làm lạnh: Một ngày
+
+-Cần 7 điểm kỹ năng tự do
+
+… 
+
+[Tạp Giới Tĩnh Lự]
+
+Cấp bậc: Siêu Cấp
+
+Giới thiệu: Là Đế Lai bí pháp tu luyện thuật truyền thụ cho ái nữ Âu Cơ thuộc Bách Việt tộc, lấy tinh thần dẫn dắt Linh Khí, phân chia ra thành ngũ hành, ngũ dị nguyên tố. Trong đó ngũ hành bao gồm Kim – Mộc – Thủy – Hỏa – Thổ, ngũ dị bao gồm Lôi – Phong – Băng – Quang – Ám các loại nguyên tố. 
+
+Hiệu quả: 
+
+-Mỗi giờ tu luyện tăng cường 1 điểm toàn bộ 4 hạng thuộc tính nhân vật.
+
+-Mỗi giờ tu luyện tăng cường 4 điểm toàn bộ 10 loại thuộc tính nguyên tố.
+
+Yêu Cầu: Người tu luyện cần có lực ý chí cường đại, để duy trì thể xác và tinh thần vượt qua quá trình tu luyện thống khổ. Kỹ năng chỉ dành cho Nhất Đế tu luyện, không thể truyền thụ người thứ hai, nếu không sẽ dẫn động lôi kiếp diệt sát.
+
+-Cần 7 điểm kỹ năng tự do
+
+…
+
+Ba cái hô hấp vừa xong, Đình Tấn đã đọc xong thông tin của hai quyển sách da còn lại.
+
+Hồi lâu im lặng trôi qua, đầu óc của Đình Tấn lúc bấy giờ giống như được đi tàu lượn siêu tốc cảm giác mạnh, vừa mới tuột dốc một tí thì đã phải vượt lên dốc cao hơn, để rồi khi đạt đến đỉnh điểm, hô hấp hắn cũng đã đứng lại quên hoạt động.
+
+Cường đại, quá sức mạnh mẽ!
+
+Đình Tấn đã triệt để bị những kỹ năng này thuyết phục, từng cái không ai chịu thua kém ai.
+
+So sánh với bọn chúng, kỹ năng mạnh nhất là ‘Lôi Pháp Tối Thượng – Phán Quyết", mà Đình Tấn nắm giữ trong tay lại giống như một trò chơi nho nhỏ mà thôi.
+
+Nếu như muốn nói ngang hàng với ba kỹ năng này, chắc chỉ có ‘Thượng Cấp Triệu Hồi Thuật – Địa Ngục Môn’ kết hợp với Mephisto là có thể mang ra so sánh mà thôi.
+
+Thế nhưng Mephisto là Mephisto, Đình Tấn là Đình Tấn. Sức mạnh của Mephisto không thuộc về Đình Tấn, một khi Mephisto xảy ra chuyện, Đình Tấn xem như mất hết tất cả.
+
+Cho nên quy kết ra, sức mạnh thuộc về bản thân Đình Tấn độc nhất chỉ có "Phán Quyết" là mạnh mẽ nhất mà thôi.
+
+Một lần này, thật sự làm hắn cảm thấy rất khó mà lựa chọn được, ba cái kỹ năng, trong đó sở hữu hai cái đại chiêu, một cái kỹ năng tu luyện cường đại. Cái nào cũng đặc biệt mạnh mẽ không thể chê vào đâu được.
+
+Ban đầu, mục tiêu hướng tới của Đình Tấn là cần một kỹ năng tu luyện, mà bây giờ xuất hiện kỹ năng tu luyện, nhưng nó lại đánh lên một cái chữ ‘Tạp’, đây rõ ràng đã không thuộc về tiêu chí hắn đang hướng tới.
+
+Còn lại hai cái kỹ năng đại chiêu kia, bọn chúng đều mạnh mẽ quá sức tưởng tượng của Đình Tấn. 
+
+"Phán Quyết" có thể giúp Đình Tấn lật ngửa một thế cờ thua, nhưng ở đây hai cái kỹ năng này chỉ hơn chứ không kém so với "Phán Quyết".
+
+Đình Tấn thật sự đang có thiên hướng lựa chọn một trong hai kỹ năng này, vì cơ hội chỉ có một, nắm giữ một kỹ năng mạnh mẽ trong tay thì sẽ có thêm một phần bảo đảm an toàn cho mình.
+
+Còn về phần kỹ năng tu luyện, hắn có thể đi làm nhiệm vụ kiếm thêm điểm kỹ năng tự do về sau sẽ học lại cũng được.
+
+Với tốc độ đi giết quái thăng cấp của Đình Tấn, muốn làm một cái nhiệm vụ giống như [NPC Hướng Dẫn] vừa giao cho nhóm Ameerah thì quả thật là đơn giản, chỉ cần một ngày sẽ có thể hoàn thành.
+
+Lấy số lượng nghiền ép, 1 ~ 10% xuất hiện phần thưởng điểm kỹ năng tự do cũng không phải chuyện gì khó.
+
+-“Ta…”
+
+Đình Tấn ấp úng, ánh mắt đảo quanh hai cái kỹ năng thứ nhất [Thủy Long Cuồng Bạo] cùng kỹ năng thứ hai [Hắc Ám Thiên Mạc], nội tâm phân vân khó lòng đưa ra được quyết định sau cùng.
+
+-“Nên nhớ, chỉ có một lần lựa chọn duy nhất, kỹ năng này sẽ không lại xuất hiện ở nơi của ta nữa, mà sẽ thông qua một phương thức nào đó xuất hiện. Ngươi cần suy nghĩ kỹ.”
+
+Gã [NPC Hướng Dẫn] thấy Đình Tấn ấp úng như vậy thì lại nhàn nhạt nói.-“Giao dịch!”
+
+Đình Tấn nhìn tới gã [NPC Hướng Dẫn] rồi nhẩm thầm trong đầu một đạo mệnh lệnh.
+
+Ngay lập tức, trước mặt Đình Tấn liền chậm rãi hiện ra một bảng giao diện giống như của cửa hàng vậy. Thế nhưng vật phẩm buôn bán ở đây lại toàn là kỹ năng và giá tiền không gì khác hơn điểm kỹ năng tự do của người chơi.
+
+Trên bảng giao diện cũng có rất nhiều thẻ phân loại riêng biệt, trong đó chia ra làm năm loại thẻ lớn nằm ở phần trên cùng của giao diện là [Tu Luyện], [Cận Chiến], [Viễn Trình], [Phụ Trợ], [Ma Pháp]. 
+
+Hiện tại, Đình Tấn đang nhìn thấy những kỹ năng là nằm ở tại thẻ đầu tiên [Tu Luyện], với thật nhiều những kỹ năng từ cơ bản cho đến cao cấp đều có. 
+
+Hơn nữa, giá cả cũng tăng dần theo từng cấp độ, ví như kỹ năng cơ bản, hạ cấp chỉ cần lấy một điểm kỹ năng tự do là có thể học được, mà phân loại cao cấp thì cần đến ba, bốn điểm.
+
+Bên trái của giao diện đồng dạng còn có thể những thẻ phân loại chi tiết hơn đối với các loại tu luyện thuật, tựa như các loại kỹ năng tu luyện thiên về thuộc tính nhân vật [Thể Chất], [Tinh Thần], hoặc kỹ năng tu luyện hấp thụ và sử dụng các loại [Nguyên Tố Thuộc Tính Lôi], [Nguyên Tố Thuộc Tính Lôi] v.v…
+
+[Hỏa Ngưng Quyết]
+
+Cấp Độ: Hạ Cấp
+
+Giới Thiệu: Pháp quyết hấp thụ và ngưng tụ nguyên tố [Hỏa] của đạo gia chính tông, tốc độ hấp thu khá chậm, không yêu cầu môi trường tu luyện.
+
+Hiệu Quả: Khôi phục hoặc Tăng Cường 1 điểm nguyên tố thuộc tính [Hỏa] sau mỗi giờ minh tưởng.
+
+-Cần 1 điểm kỹ năng tự do.
+
+[Tôi Thể Quyền]
+
+Cấp Độ: Trung Cấp
+
+Giới Thiệu: Một bộ quyền pháp rèn luyện thể chất và sức mạnh của phương tây cổ đại.
+
+Hiệu quả: Tăng cường 2 điểm Thể Chất và Sức Mạnh sau mỗi lần hoàn thành đúng chuẩn toàn bộ bài quyền, giới hạn một ngày tôi luyện trong 5 lần.
+
+-Cần 2 điểm kỹ năng tự do
+
+[Lạc Thủy Niệm Thuật]
+
+Cấp Độ: Cao Cấp
+
+Giới Thiệu: Thuật pháp tu luyện cao cấp của Long tộc Lạc gia tại Bách Việt đại tộc, yêu cầu tinh thần lực trên 800 điểm, môi trường chứa đựng nhiều nguyên tố thuộc tính [Thủy], tốt nhất gần biển.
+
+Hiệu quả: Khôi phục hoặc Tăng Cường 4 điểm nguyên tố thuộc tính [Thủy] sau mỗi giờ minh tưởng.
+
+-Cần 4 điểm kỹ năng tự do
+
+…
+
+-“Thật nhiều quá… nên chọn cái nào đây?”
+
+Đình Tấn hơi nhíu nhíu đôi chân mày lại, ánh mắt đăm chiêu nhìn lấy từng cái kỹ năng mà lẩm bẩm thì thào trong miệng.
+
+-“Hiện tại, ta cảm thấy trong người của ngươi đang sở hữu hai loại nguyên tố [Lôi] và [Hắc Ám] có số lượng rất nồng nặc. Ta kiến nghị ngươi trước hết nên lựa chọn kỹ năng tu luyện của hai thuộc tính này.”
+
+Nghe được câu tự hỏi của Đình Tấn, [NPC Hướng Dẫn] bỗng dưng nhàn nhạt cất lời, thái độ bình thản tự nhiên với nụ cười mỉm trên môi.
+
+Có chút kinh ngạc nhìn tới gã [NPC Hướng Dẫn] trước mặt mình, nhưng Đình Tấn rất nhanh khôi phục lại vẻ bình thản tự nhiên của mình. Hắn dĩ nhiên phải biết rõ hai cái nguyên tố thuộc tính [Lôi] và [Hắc Ám] đó là đến từ đâu.
+
+Trải qua hai lần thử thách chuyển chức nghề nghiệp cấp hai, Đình Tấn cũng vô tình đã tiến vào môi trường rất nồng nặc các loại nguyên tố đó. Nói không có hấp thụ hay tích trữ một ít hai loại nguyên tố ấy vào trong người là chuyện không thể nào.
+
+-“Điểm kỹ năng tự do yêu cầu cũng quá cao đi, nếu như không phải ta trải qua hai lần thử thách, cộng với tích lũy từ trước mà đạt được 7 điểm, thì phỏng chừng muốn học được một cái kỹ năng cao cấp cũng phải chờ đến 60 cấp mới tích lũy đủ điểm kỹ năng tự do quá.”
+
+Nhìn một đống kỹ năng cao cấp trôi qua trước mắt mình, Đình Tấn không kìm được mà cảm thán. Quả thật kỹ năng quá đa dạng, muốn cái gì sẽ có cái đó, coi như Thuật Ẩn Thân, Thuật Phân Bóng, Khống Vật Thuật, Minh Tưởng Thuật các loại… tất cả đẳng cấp từ thấp đến cao đều có ở đây. 
+
+Chỉ cần đạt tới điều kiện và có đủ điểm kỹ năng là sẽ lập tức học được ngay, nhưng với một người chơi, mỗi 10 cấp mới có 1 điểm kỹ năng tự do mà nói, bốn điểm kỹ năng tự do, đó chẳng khác nào là cả một gia tài.
+
+-“Đối với điểm kỹ năng tự do, người chơi có xác xuất 1 ~ 10% nhận được tại ta nơi này mỗi khi hoàn thành nhiệm vụ. Cho nên nếu ngươi thiếu điểm kỹ năng tự do, có thể tiếp nhận nhiệm vụ của ta ở nơi này, sau đó chăm chỉ đi làm nhiệm vụ tích lũy. Chờ khi nào đủ lại đến học cũng không muộn.
+
+[NPC Hướng Dẫn] tiếp tục nhẹ giọng từ tốn giải thích, nói đoạn hắn im lặng một lúc, rồi lại tiếp tục thêm vào.
+
+-“Cho ngươi một lời khuyên, thực lực mạnh không phải nằm ở chỗ nhiều kỹ năng. Chỉ cần ngươi hiểu cách sử dụng kỹ năng của mình, coi như chỉ có vài cái kỹ năng cơ bản cũng đủ để ngươi tung hoành rồi.
+
+Chiến đấu với quái vật, bọn chúng chắc chắn sẽ không cho ngươi có cơ hội xuất ra kỹ năng Cao Cấp đâu, ngươi cần phải hiểu cách phối hợp giữa kỹ năng cấp thấp để tạo điều kiện thi triển kỹ năng cấp cao nữa.”
+
+Lời của hắn nói không khỏi khiến cho Đình Tấn rơi vào trong trầm tư, ngộ ra được một vài vấn đề quan trọng.
+
+‘Nhất nghệ tinh, nhất thân vinh’, có thể nắm giữ một loại tạo nghệ đến đỉnh điểm mới có thể mang lại một thành tựu vượt bậc cho mình. Tham thì thâm, có khi lại tự rước lấy khổ cho bản thân.
+
+-“Bất quá, đã ngươi là người đầu tiên mở ra hệ thống và tới đây học tập kỹ năng, ta có thể mở ưu đãi cho ngươi lựa chọn một số kỹ năng duy nhất ở nơi này, dĩ nhiên giá cả là sẽ không thể nào giảm xuống được.”
+
+Tuy nhiên, đang lúc Đình Tấn trầm ngâm rà soát lại các kỹ năng tu luyện hai hệ nguyên tố [Lôi] và [Hắc Ám], gã [NPC Hướng Dẫn] đột nhiên lại cất lời, ngữ khí cũng tự nhiên, mang hàm ý trêu đùa, chứ không còn cứng nhắc như thường lệ.
+
+-“Ưu đãi gì?”
+
+Đình Tấn ngạc nhiên hỏi lại, không ngờ lại có chuyện tốt chợt đến với mình.
+
+Gã [NPC Hướng Dẫn] cũng không trả lời câu hỏi của Đình Tấn, mà chỉ lấy từ trong người ra ba quyển sách da, rồi nhếch mép nói.
+
+-“Mời ngươi chọn.”
+
+[Song Pháp Tối Thượng – Thủy Long Cuồng Bạo]
+
+Cấp bậc: Siêu Cấp
+
+Giới thiệu: Bí thuật của Long tộc Lạc gia thuộc Bách Việt tộc, dẫn động năng lượng nguyên tố hệ [Lôi] và hệ [Thủy] có trong không gian xung quanh, tạo dựng lên một đầu Thủy Long. Bên trong có ẩn chứa lôi điện cường đại, lấy thủy làm gốc bổ trợ cho lôi điện công kích càng thêm mạnh mẽ hơn.
+
+Hiệu quả: 
+
+-[Sát Thương Thuộc Tính Thủy] = [Điểm tinh thần]
+
+-[Sát Thương Thuộc Tính Lôi] = [Điểm tinh thần] * [Sát Thương Thuộc Tính Thủy] của người triệu hồi.
+
+-Bán kính khu vực bao trùm xung quanh người thi triển [Điểm tinh thần / 20] mét
+
+-Kéo dài đến khi người triệu hồi tiêu hao hết MP.
+
+Tiêu Hao: [Bán kính khu vực bao trùm] * 1.000 MP / giây 
+
+Thời gian làm lạnh: Một ngày
+
+-Cần 7 điểm kỹ năng tự do
+
+…
+
+Sơ ý liếc mắt nhìn qua quyển sách da ngoài cùng bên trái, Đình Tấn lập tức bị thông tin của nó làm cho trợn mắt lên, hô hấp cũng vượt ra khỏi khả năng khống chế của hắn, bắt đầu trở nên dồn dập hơn.
+
+Ngay tức khắc, không hề có chút chần chờ, Đình Tấn vội chuyển dời tầm mắt của mình lên hai quyển sách da còn lại trong tay gã [NPC Hướng Dẫn].
+
+[Ám Pháp Tối Thượng – Hắc Ám Thiên Mạc]
+
+Cấp bậc: Siêu Cấp
+
+Giới thiệu: Bí thuật ác quỷ phương tây đã thất truyền từ thời xa xưa cổ đại, dẫn động nguyên tố hệ [Hắc Ám] trong thiên địa, tạo ra một lĩnh vực rộng lớn, được bao trùm bởi khói đen hắc ám.
+
+Hiệu quả: 
+
+-Khi sinh vật sống tiến vào trong khu vực bao trùm của kỹ năng, bất kể đẳng cấp chênh lệch với người triệu hồi, sinh vật sẽ bị giảm 20% thuộc tính. 
+
+-Mỗi giây bị nguyên tố hệ [Hắc Ám] ăn mòn, [Sát Thương Thuộc Tính Hắc Ám] = [Điểm tinh thần] / 3
+
+-Xác chết của sinh vật tử vong không quá 24 giờ nằm trong khu vực bao trùm của kỹ năng sẽ tự động bị biến thành sinh vật vong linh, chịu sự chi phối của người thi triển kỹ năng.
+
+-Bán kính khu vực bao trùm xung quanh người thi triển [Điểm tinh thần / 20] mét
+
+-Kéo dài đến khi người triệu hồi tiêu hao hết MP.
+
+Tiêu Hao: [Bán kính khu vực bao trùm] * 1.000 MP / giây 
+
+Thời gian làm lạnh: Một ngày
+
+-Cần 7 điểm kỹ năng tự do
+
+… 
+
+[Tạp Giới Tĩnh Lự]
+
+Cấp bậc: Siêu Cấp
+
+Giới thiệu: Là Đế Lai bí pháp tu luyện thuật truyền thụ cho ái nữ Âu Cơ thuộc Bách Việt tộc, lấy tinh thần dẫn dắt Linh Khí, phân chia ra thành ngũ hành, ngũ dị nguyên tố. Trong đó ngũ hành bao gồm Kim – Mộc – Thủy – Hỏa – Thổ, ngũ dị bao gồm Lôi – Phong – Băng – Quang – Ám các loại nguyên tố. 
+
+Hiệu quả: 
+
+-Mỗi giờ tu luyện tăng cường 1 điểm toàn bộ 4 hạng thuộc tính nhân vật.
+
+-Mỗi giờ tu luyện tăng cường 4 điểm toàn bộ 10 loại thuộc tính nguyên tố.
+
+Yêu Cầu: Người tu luyện cần có lực ý chí cường đại, để duy trì thể xác và tinh thần vượt qua quá trình tu luyện thống khổ. Kỹ năng chỉ dành cho Nhất Đế tu luyện, không thể truyền thụ người thứ hai, nếu không sẽ dẫn động lôi kiếp diệt sát.
+
+-Cần 7 điểm kỹ năng tự do
+
+…
+
+Ba cái hô hấp vừa xong, Đình Tấn đã đọc xong thông tin của hai quyển sách da còn lại.
+
+Hồi lâu im lặng trôi qua, đầu óc của Đình Tấn lúc bấy giờ giống như được đi tàu lượn siêu tốc cảm giác mạnh, vừa mới tuột dốc một tí thì đã phải vượt lên dốc cao hơn, để rồi khi đạt đến đỉnh điểm, hô hấp hắn cũng đã đứng lại quên hoạt động.
+
+Cường đại, quá sức mạnh mẽ!
+
+Đình Tấn đã triệt để bị những kỹ năng này thuyết phục, từng cái không ai chịu thua kém ai.
+
+So sánh với bọn chúng, kỹ năng mạnh nhất là ‘Lôi Pháp Tối Thượng – Phán Quyết", mà Đình Tấn nắm giữ trong tay lại giống như một trò chơi nho nhỏ mà thôi.
+
+Nếu như muốn nói ngang hàng với ba kỹ năng này, chắc chỉ có ‘Thượng Cấp Triệu Hồi Thuật – Địa Ngục Môn’ kết hợp với Mephisto là có thể mang ra so sánh mà thôi.
+
+Thế nhưng Mephisto là Mephisto, Đình Tấn là Đình Tấn. Sức mạnh của Mephisto không thuộc về Đình Tấn, một khi Mephisto xảy ra chuyện, Đình Tấn xem như mất hết tất cả.
+
+Cho nên quy kết ra, sức mạnh thuộc về bản thân Đình Tấn độc nhất chỉ có "Phán Quyết" là mạnh mẽ nhất mà thôi.
+
+Một lần này, thật sự làm hắn cảm thấy rất khó mà lựa chọn được, ba cái kỹ năng, trong đó sở hữu hai cái đại chiêu, một cái kỹ năng tu luyện cường đại. Cái nào cũng đặc biệt mạnh mẽ không thể chê vào đâu được.
+
+Ban đầu, mục tiêu hướng tới của Đình Tấn là cần một kỹ năng tu luyện, mà bây giờ xuất hiện kỹ năng tu luyện, nhưng nó lại đánh lên một cái chữ ‘Tạp’, đây rõ ràng đã không thuộc về tiêu chí hắn đang hướng tới.
+
+Còn lại hai cái kỹ năng đại chiêu kia, bọn chúng đều mạnh mẽ quá sức tưởng tượng của Đình Tấn. 
+
+"Phán Quyết" có thể giúp Đình Tấn lật ngửa một thế cờ thua, nhưng ở đây hai cái kỹ năng này chỉ hơn chứ không kém so với "Phán Quyết".
+
+Đình Tấn thật sự đang có thiên hướng lựa chọn một trong hai kỹ năng này, vì cơ hội chỉ có một, nắm giữ một kỹ năng mạnh mẽ trong tay thì sẽ có thêm một phần bảo đảm an toàn cho mình.
+
+Còn về phần kỹ năng tu luyện, hắn có thể đi làm nhiệm vụ kiếm thêm điểm kỹ năng tự do về sau sẽ học lại cũng được.
+
+Với tốc độ đi giết quái thăng cấp của Đình Tấn, muốn làm một cái nhiệm vụ giống như [NPC Hướng Dẫn] vừa giao cho nhóm Ameerah thì quả thật là đơn giản, chỉ cần một ngày sẽ có thể hoàn thành.
+
+Lấy số lượng nghiền ép, 1 ~ 10% xuất hiện phần thưởng điểm kỹ năng tự do cũng không phải chuyện gì khó.
+
+-“Ta…”
+
+Đình Tấn ấp úng, ánh mắt đảo quanh hai cái kỹ năng thứ nhất [Thủy Long Cuồng Bạo] cùng kỹ năng thứ hai [Hắc Ám Thiên Mạc], nội tâm phân vân khó lòng đưa ra được quyết định sau cùng.
+
+-“Nên nhớ, chỉ có một lần lựa chọn duy nhất, kỹ năng này sẽ không lại xuất hiện ở nơi của ta nữa, mà sẽ thông qua một phương thức nào đó xuất hiện. Ngươi cần suy nghĩ kỹ.”
+
+Gã [NPC Hướng Dẫn] thấy Đình Tấn ấp úng như vậy thì lại nhàn nhạt nói.

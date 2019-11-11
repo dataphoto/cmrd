@@ -1,0 +1,703 @@
+Hướng về phía âm thanh tiếng rống nhìn lại, Đình Tấn phát hiện con thủ lĩnh Coywolf đang bị 2 tảng đá lớn đè lên thân hình làm nó bị kẹt lại. Nó đang gào thét cố gắng vương mình thoát ra chém giết tên địch nhân đáng hận này.
+
+Đình Tấn có thể thấy trong mắt nó đỏ chót một mảnh hung tàn. Hắn dám chắc chỉ cần nó thoát ra được thì mặc kệ hắn bên cạnh có ai. Hắn đều sẽ bị nó truy giết đên cùng.
+
+Lão thợ săn Carter vừa móc thuốc nổ định ném về phía con thủ lĩnh Coywolf bị Đình Tấn bắt gặp. Hắn hốt hoảng vương tay cản lại hét lớn:
+
+- Ngươi điên sao?!
+
+- Để ta ném thuốc nổ giết chết nó. – Lão thợ săn bướng bỉnh trả lời.
+
+- Ngươi có chắc chắn thuốc nổ giết được nó không? Hay là nổ để giải thoát, đưa nó ra chém giết chúng ta? – Đình Tấn tức giận hét vào mặt lão Carter.
+
+Lão Carter mồ hôi lạnh sau lưng ứa ra. Hắn lập tức bình tĩnh lại, tâm lý hốt hoảng làm hắn không nghĩ đến vấn đề phía sau. May nhờ có Đình Tấn bình tĩnh suy nghĩ ngăn lại hắn. 
+
+Thấy lão Carter không có ý định dùng thuốc nổ nữa, Đình Tấn buông tay ngăn lão. Tay chống lên trán gấp rút suy nghĩ phương hướng giải quyết.
+
+Bên cạnh Ameerah thấy Đình Tấn im lặng suy nghĩ, nàng không muốn xen vào chen ngang suy nghĩ của hắn. Thế nhưng tình huống trước mắt, con Coywolf thủ lĩnh đang vùng vẫy càng ngày càng mạnh. Không biết lúc nào sẽ thoát ra. Nàng liền đánh liêu hỏi:
+
+- Đình Tấn ca ca, hay là dùng cây hoặc đá ném chết nó?
+
+Đình Tấn hướng Ameerah nhìn qua, cũng hơn nửa ngày rồi hắn mới thấy nàng bắt đầu đề ra ý kiến. Hắn bình tĩnh lắc đầu:
+
+- Không thể, nó sức phòng thủ rất mạnh. Chúng ta sức tấn công vật lý không cao hệ thống sẽ phán định lượng sát thương rất thấp. Nếu dùng đá ném cũng không gây được đủ lượng sát thương giết nó, còn tiêu hao thời gian nữa. Chờ nó thoát ra được thì rất mệt.
+
+Ameerah ỉu xìu lại, cúi đầu. Đình Tấn thấy vậy không đành lòng nói:
+
+- Đừng buồn, ý kiến của ngươi rất hay. Nếu không tìm được cách chắc chỉ có thể dùng cách đó đánh liều thôi.
+
+Ameerah gật đầu, hung tính bắt đầu nổi lên:
+
+- Nếu ném đá không chết, ta ôm thuốc nổ lại nổ chết nó. Không giết chết thì cũng phải cạo được một lớp da của nó.
+
+Đình Tấn nghe đến câu “ôm thuốc nổi lại nổ chết nó” linh quang loé lên. Hắn kích động ôm Ameerah hôn lên má nàng nói:
+
+- Haha Ameerah, ngươi quả thật thông minh. Đúng vậy ôm thuốc nổ nổ chết cha nó.
+
+Ameerah bị Đình Tấn tập kích bất ngờ, gương mặt ngẩn ngơ. Sau đó một luồng nhiệt từ dưới cằm hướng lên trán tràn lan lên. Nàng nay cũng đã 16 tuổi, sống ở một đất nước cởi mở phương tây, nàng cũng đã biết một chút những chuyện đó. E thẹn cúi đầu xuống tận ngực không dám ngẩn lên nhìn Đình Tấn.
+
+Đình Tấn như vẫn không hay biết chuyện mình vừa làm gây ra hậu quả thế nào. Hắn lập tức vung vẩy pháp trượng cùng niệm chú, lần lượt triệu hồi ra 4 tên Bộ Xương Chiến Sĩ. Sau đó gọi lão Carter lại nói với lão kế hoạch.
+
+Lão Carter lập tức hành động, dùng thuốc nổ gắn vào rìu lớn của bọn Bộ Xương Chiến Sĩ. Sau khi gắn xong Đình Tấn ra lệnh cho bọn Bộ Xương Chiến Sĩ từng tên thay nhau tiến lên. Tiện tay lấy ra 1 bình MP thuốc nốc sạch vào.
+
+Dùng rìu chém vào thân hình của con Coywolf thủ lĩnh bị lộ ra bên ngoài những tảng đá.
+
+-12
+
+-11
+
+-12
+
+-11
+
+Coywolf (Thủ Lĩnh Boss)
+
+Cấp 12
+
+HP: 734/1450
+
+Kỹ năng: Cuồng bGqzReK bạo, Kêu gọi bầy đàn, Cắn xé, Vồ tới, Gia tốc, Truy tung.
+
+Giới thiệu: Là thủ lĩnh của đàn Coywolf, được chọn ra từ trăm con Coywolf có thực lực mạnh nhất đàn. Khuyến nghị: Không nên đơn đấu nếu đẳng cấp thấp hơn.
+
+Từng tên Bộ Xương Chiến Sĩ thay phiên nhau chém vào con thủ lĩnh Coywolf. Sát thương ít đến đáng thương nhưng 4 tên đồng thời phát ra 50 sát thương một giây cũng khá khả quan.
+
+Khi HP con thủ lĩnh Coywolf tụt xuống còn khoảng 20%. Nó rống lớn gào thét, con ngươi đỏ chót bộ lông xù lên. Bộ lông như có năng lượng truyền vào, trông cứng cỏi hơn có thể đâm thủng cả đá. Cả người nó cơ bắp như nở rộng ra, làm thân hình của nó bành trướng lên một vòng thấy rõ. Đình Tấn vội vàng tra xét xem chuyện gì xảy ra.
+
+Coywolf (Thủ Lĩnh Boss)
+
+Cấp 12
+
+HP: 365/1450
+
+Kỹ năng: Cuồng bạo, Kêu gọi bầy đàn, Cắn xé, Vồ tới, Gia tốc, Truy tung.
+
+Giới thiệu: Là thủ lĩnh của đàn Coywolf, được chọn ra từ trăm con Coywolf có thực lực mạnh nhất đàn. Khuyến nghị: Không nên đơn đấu nếu đẳng cấp thấp hơn.
+
+Trạng thái hiện tại: 
+
+- Cuồng bạo: Kích hoạt khi HP thấp hơn 20%. Gia tăng sức mạnh cùng phòng thủ lên 100% duy trì trong 1 phút, sau một phút trạng thái suy yếu giảm toàn bộ thuộc tính xuống 50%.
+
+Đình Tấn rõ ràng, đây là cuồng hoá. Chỉ là trong game thiết lập lại nhìn có hơi chút khoa trương. Hoặc, cũng có thể là trước kia hắn chiến đấu chém giết cùng quái thú chưa gặp phải thủ lĩnh của loài Coywolf này.
+
+Liền Đình Tấn ra lệnh cho 4 tên Bộ Xương Chiến Sĩ xông lên dùng rìu của bọn chúng tấn công phía bên dưới của con Coywolf đang cố vùng lên. 
+
+Ngay khi 4 thanh rìu chặt vào bụng và ngực con Coywolf thủ lĩnh. Hắn quay sang hướng Carter gật đầu trầm giọng: - Kích hoạt đi.
+
+Gần 1kg thuốc nổ phát nổ cùng một lúc làm cho đất đá xung quanh cũng rung chuyển một hồi. Con Coywolf thủ lĩnh gào thét lên một tiếng thê thảm.
+
+-300
+
+Thật kinh khủng sức phòng thủ. Mặc dù đã dự đoán đến tình huống thuốc nổ không thể giết chết con Coywolf thủ lĩnh này nhưng khi sự thực xảy ra trước mắt cũng làm cho Đình Tấn không kìm được kinh ngạc một hồi.
+
+Giải trừ triệu hoá với 4 tên Bộ Xương Chiến Sĩ, Đình Tấn uống MP tranh thủ thời gian hồi phục. Triệu hồi ra 4 tên Bộ Xương Chiến Sĩ chém giết nãy giờ làm cho MP hắn cũng đã đến đáy, mặc dù chỉ khoảng 10 giây nhưng cũng là cực hạn của hắn.
+
+Bên cạnh đó, hắn cũng hướng Ameerah cùng lão Carter đang đứng ở phía trên dốc ra hiệu. Hai người lập tức nhất lên tảng đá đã chuẩn bị xung quanh chân, ném mạnh hướng phía con Coywolf thủ lĩnh đang vùng lên.
+
+-1
+
+-1
+
+-1
+
+-1
+
+2 đợt ném đá -4 HP nhìn thanh máu của con Coywolf thủ lĩnh vãn còn đến hơn 60 điểm tụt xuống từ từ. Đình Tấn tinh thần chăm chú nhìn chăm chăm lấy con Coywolf thủ lĩnh.
+
+Vừa uống được 2 bình MP thuốc Đình Tấn cảm thấy con Coywolf thủ lĩnh sắp thoát ra được, mặc kệ MP vẫn chưa hồi đầy. Hắn đứng dậy vung vẫy pháp trượng triệu hoán 4 tên Bộ xương chuẩn bị chiến đấu.
+
+“Ầm”
+
+“Gào”
+
+Con Coywolf thủ lĩnh cuối cùng cũng thoát ra được, đá tảng bị nó vung ra vỡ nát. Nó rống lớn một tiếng hướng về Đình Tấn đang vung vẩy pháp trượng gia tốc vồ đến.
+
+Ngay khi con Coywolf thủ lĩnh vừa thoát ra khỏi góc kẹt, Đình Tấn cũng đã hoàn thành triệu hoán. Nhìn con Coywolf thủ lĩnh ngày càng đến gần Đình Tấn trong lòng cũng khá hồi hộp. Nhưng bản năng làm cho hắn bình tĩnh lại ngay lập tức, giơ pháp trượng ra trước ngực chuẩn bị phòng thủ.
+
+Con Coywolf thủ lĩnh vồ lên hướng Đình Tấn cắn tới. Đình Tấn lập tức cúi người lăn lộn một vòng về phía trước. Nhìn như hắn đang tự hướng vào lợi trảo của con Coywolf thủ lĩnh vậy, nhưng chuẩn xác không sai một ly, móng vuốt của con Coywolf thủ lĩnh lướt ngang qua đầu hắn. Lúc này 4 con Bộ Xương Chiến Sĩ cũng đã lần lượt chui ra khỏi vòng xoáy đen ngòm dưới đất. Chúng quay người hướng phía sau con Coywolf thủ lĩnh mà đến.
+
+-1
+
+-1
+
+Hai tảng đá đập lên người con Coywolf thủ lĩnh nhưng nó không hề quan tâm những vết thương muỗi cắn này. Mục tiêu của nó vẫn là Đình Tấn vì 4 tên Bộ Xương Chiến Sĩ tạo ra sát thương nên thù hận của nó vẫn là tập trung vào Đình Tấn nhiều nhất.
+
+Con thủ lĩnh Coywolf lại hướng Đình Tấn vồ tới, lúc này đây 1 con Bộ Xương Chiến Sĩ tiến lên tấn công nó. Đây là Đình Tấn chỉ lệnh vì hắn biết, có phòng thủ cũng vô ích vì sức mạnh con Coywolf thủ lĩnh này quá chênh lệch với bọn hắn hiện tại.
+
+“Ầm”
+
+-436
+
+-43
+
+Một con số sát thương khủng bố hiện lên trên đầu con Bộ Xương Chiến Sĩ xông lên. Nó chưa kịp chém búa xuống thì đã bị con Coywolf một trảo vỗ trúng thân mình bay ngược ra phía sau đập vào mạnh vào tường va ngược lại. Tiêu diệt hơn một nửa lượng HP của nó.
+
+Nhưng nó cũng hoàn thành nhiệm vụ, chặn lại con Coywolf thủ lĩnh một giây. Tranh thủ cơ hội cho 3 tên Bộ Xương Chiến Sĩ đồng đội phía sau tiến lên đột kích.
+
+-12
+
+-11
+
+-13
+
+Ba con số thương tổn hiện lên trên đầu con Coywolf thủ lĩnh cắt giảm đi một nửa lượng máu mong manh hiện tại của nó. Điều này càng làm kích phát huyết tính của con Coywolf thủ lĩnh. Nó rống lên giận dữ, vung trảo quét ngang 3 tên Bộ Xương Chiến Sĩ, đánh bay bọn chúng về phía sau lăn lộn nhiều vòng trên đất.
+
+Lập tức con Coywolf thủ lĩnh lại hướng Đình Tấn mà đến. Nó muốn tiêu diệt tên nhân loại này.
+
+Tốc độ quá nhanh, mặc dù Đình Tấn đã biết, đã dự phán được hướng phía sau lộn người. Nhưng vẫn không kịp tránh móng vuốt như dao cắt của con Coywolf thủ lĩnh.
+
+“Ầm”
+
+-118
+
+-11
+
+Đình Tấn bị đập bay ngang qua một bên, lưng đập mạnh vào vách đá làm hắn đau xót. Mặc dù không tránh né nhưng hắn vẫn kịp thời giơ pháp trượng đón đỡ. Cánh tay chịu lực lượng cường đại làm cho hắn run rẩy dữ dội. Nhưng dù có chống đỡ cũng không thể giảm bớt sát thương hệ thống phán định ra. Đình Tấn lập tức bị cắt giảm 1/5 HP.
+
+Nhanh chóng kìm nén đau đớn, Đình Tấn ngồi dậy hai tay run rẩy lấy từ trong túi một bình HP cùng MP thuốc ra uống vào. Hắn vừa uống xong thuốc, chưa kịp chuẩn bị thì lại đã thấy thân ảnh con Coywolf thủ lĩnh tiến đến trước mặt.
+
+Một trảo đến trước mặt làm Đình Tấn, với thể chất hiện tại mặc dù tốt nhưng vẫn không thể so với hắn trước khi. Hắn có thể phán đoán có thể làm ra phản ứng, thế nhưng sức bật, nhanh nhẹn cơ thể theo không kịp nhịp điệu suy nghĩ của hắn. Không thể tránh né, một vuốt của con Coywolf thủ lĩnh đập ngay vào bờ vai Đình Tấn. Vỗ hắn bay ngang hơn 3m lăn lộn nhiều vòng trên đất.
+
+“soạt… phịch” 
+
+-236
+
+Đòn tấn công vào bờ vai Đình Tấn của con Coywolf thủ lĩnh bị hệ thống phán định là tấn công vào điểm yếu. Gấp đôi thương tổn làm HP của hắn tụt một mảng lớn, chỉ cần một vuốt nữa vào đầu hoặc thân mình thôi thì hắn sẽ chầu ông bà ngay.
+
+Đình Tấn vai lưng cảm thấy đau rát, không có thời gian xuýt xoa, suy nghĩ. Đình Tấn nhanh chóng lấy ra HP và MP thuốc bổ sung lượng máu đã thấy đáy của mình. Lồm cồm bò dậy ý định bỏ chạy.
+
+Trong rủi có may, đòn đánh đó của con Coywolf thủ lĩnh đánh Đình Tấn bay về phía 4 con Bộ Xương Chiến Sĩ làm cho khoảng cách được rút ngắn lại. Lúc này 4 con Bộ Xương Chiến Sĩ vẫn đang hướng đến Đình Tấn hộ giá. Thế nhưng làm sao kịp được tốc độ cực hạn của con Coywolf thủ lĩnh đang cuồng bạo.
+
+“Yaaah”
+
+Chợt ngay tại thời khắc mấu chốt từ trên trời giáng xuống một bóng người. Ameerah từ trên dốc hét lớn bay người xuống, nấm đấm hướng ngay đầu con Coywolf thủ lĩnh đấm xuống.
+
+-8
+
+-1 (Bỏ độc)
+
+Nấm đấm vừa chạm vào con Coywolf thủ lĩnh gây ra sát thương thì lực đạo xông tới của nó cũng va đập mạnh vào người Ameerah hất tung nàng về vách đá phía sau.
+
+“Ầm”
+
+“A..aah”
+
+Ameerah đau đớn kêu rên một tiếng. Mặc dù không thể giết chết con Coywolf thủ lĩnh nhưng cũng làm nó chậm lại 1 giây cho Đình Tấn có thời gian thở lấy hơi. Đình Tấn xoay người, chạy nhanh về phía vách đá phía sau đồng thời chỉ huy 4 tên Bộ Xương Chiến Sĩ xông lại phía trước mặt hắn đón đầu.
+
+Ngay khi Đình Tấn vừa tới trước mặt vách đá. Con Coywolf thủ lĩnh cũng đã đến ngay phía sau hắn. Nó nhảy chồm người lên hướng Đình Tấn sau lưng vỗ tới.
+
+Ngay lúc này, Đình Tấn chân đạp mạnh, nghiêng người bay người lên. Vững vàng thân mình song song với mặt đất, bước đi trên vách đá. Móng vuốt như dao của con Coywolf thủ lĩnh cắm sâu vào trong vách đá như cắt đậu hũ.
+
+Cũng vừa tại thời khắc con Coywolf thủ lĩnh lợi trảo chụp hụt Đình Tấn mà cắm móng vuốt vào vách đá. 4 tên Bộ Xương Chiến Sĩ đã tiến đến trước mặt Đình Tấn, vượt ra phía sau hắn hướng về con Coywolf thủ lĩnh vung búa mà tới. Ameerah cũng chạy nhanh hướng lại đây. Bộ Xương Chiến Sĩ vung lên rìu lớn bổ xuống người con Coywolf thủ lĩnh. Ameerah cũng nhanh chóng tung người lên chân đá mạnh vào bụng nó.
+
+-12
+
+-11
+
+-13
+
+-9
+
+“Gàoooo”
+
+“Rầm”
+
+Con Coywolf thủ lĩnh gào thét không cam lòng thân mình lung lay ầm ầm ngã xuống. 4 tên Bộ Xương Chiến Sĩ cũng bị vòng xoáy đen hút vào trong lòng đất. MP của Đình Tấn đã cạn đến đáy.
+
+Mặc dù có MP thuốc duy trì nhưng thời gian cũng không được nhiều. Từ lúc ngồi uống MP thuốc khôi phục đến lúc đứng dậy chiến đấu, thời gian cũng không quá 30 giây.
+
+Hệ thống âm thanh thông bao vang dội lên bên tai Đình Tấn cùng Ameerah như là để chúc mừng hai người chiến đấu thắng lợi.
+
+EXP +4760
+
+Keng! - Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Keng! – Chúc mừng ngài tổ đội đã tiêu diệt Boss thủ lĩnh Coywolf hoàn thành phụ bản “Hang ổ Coywolf”.
+
+Keng! – Chúc mừng tổ đội ngài là người đầu tiên tiêu diệt Boss thủ lĩnh khu vực tân thủ (Level 1 – 10)
+
+Chúc mừng ngài là người đầu tiên hoàn thành phó bản, hệ thống ban thưởng EXP + 1500, Đồng tiền +800, Túi trang bị màu đỏ 1 phần.
+
+Chúc mừng ngài là người đầu tiên hoàn thành phó bản, hệ thống thông cáo toàn bộ máy chủ thế giới.
+
+Thế giới thông báo: Cùng nâng ly chúc mừng người chơi The Dawn đã dẫn dắt đội viên Siêu cấp Ammida hoàn thành phụ bản “Hang ổ Coywolf”
+
+Thế giới thông báo: Cùng nâng ly chúc mừng người chơi The Dawn đã dẫn dắt đội viên Siêu cấp Ammida hoàn thành phụ bản “Hang ổ Coywolf”
+
+Thế giới thông báo: Cùng nâng ly chúc mừng người chơi The Dawn đã dẫn dắt đội viên Siêu cấp Ammida hoàn thành phụ bản “Hang ổ Coywolf”
+
+Tại một nơi khác, một nhóm tiểu đội hơn 20 người chỉnh tề có quy luật đang vây quanh chiến đấu với những con Coywolf. Xung quanh con Coywolf thủ lĩnh đang cuồng bạo có hơn 10 xác chết, chứng tỏ tiểu đội có hơn 30 người này đã hi sinh mất 10.
+
+Một người đàn ông tráng niên khoảng 36 tuổi nghe được hệ thống thông cáo lòng giật mình không thôi. Bọn họ sau khi bắt được thông tin về nhiệm vụ này lập tức rời đi thi hành. Đồng thời nơi đây có hơn 30 người nhưng lại không thể chém giết xong trước tổ đội 2 người quả thật có chút khó mà tin. Hắn trầm giọng uy nghiêm hét lớn:
+
+- Tiger Squad giữ vững không được phân tâm. Eagle Squad tiếp tục nhắm bắn. Nhiệm vụ sắp hoàn thành.
+
+- Spider Squad, liên hệ FBI cùng CIA truy tìm tung tích người gọi The Dawn cùng Siêu cấp Ammida kia. Cả hiện thực lẫn trong game. Thượng tướng ra lệnh phải lôi kéo tất cả cao thủ thành lập một thế lực trong thời gian sớm nhất không được chậm trễ.Hướng về phía âm thanh tiếng rống nhìn lại, Đình Tấn phát hiện con thủ lĩnh Coywolf đang bị 2 tảng đá lớn đè lên thân hình làm nó bị kẹt lại. Nó đang gào thét cố gắng vương mình thoát ra chém giết tên địch nhân đáng hận này.
+
+Đình Tấn có thể thấy trong mắt nó đỏ chót một mảnh hung tàn. Hắn dám chắc chỉ cần nó thoát ra được thì mặc kệ hắn bên cạnh có ai. Hắn đều sẽ bị nó truy giết đên cùng.
+
+Lão thợ săn Carter vừa móc thuốc nổ định ném về phía con thủ lĩnh Coywolf bị Đình Tấn bắt gặp. Hắn hốt hoảng vương tay cản lại hét lớn:
+
+- Ngươi điên sao?!
+
+- Để ta ném thuốc nổ giết chết nó. – Lão thợ săn bướng bỉnh trả lời.
+
+- Ngươi có chắc chắn thuốc nổ giết được nó không? Hay là nổ để giải thoát, đưa nó ra chém giết chúng ta? – Đình Tấn tức giận hét vào mặt lão Carter.
+
+Lão Carter mồ hôi lạnh sau lưng ứa ra. Hắn lập tức bình tĩnh lại, tâm lý hốt hoảng làm hắn không nghĩ đến vấn đề phía sau. May nhờ có Đình Tấn bình tĩnh suy nghĩ ngăn lại hắn. 
+
+Thấy lão Carter không có ý định dùng thuốc nổ nữa, Đình Tấn buông tay ngăn lão. Tay chống lên trán gấp rút suy nghĩ phương hướng giải quyết.
+
+Bên cạnh Ameerah thấy Đình Tấn im lặng suy nghĩ, nàng không muốn xen vào chen ngang suy nghĩ của hắn. Thế nhưng tình huống trước mắt, con Coywolf thủ lĩnh đang vùng vẫy càng ngày càng mạnh. Không biết lúc nào sẽ thoát ra. Nàng liền đánh liêu hỏi:
+
+- Đình Tấn ca ca, hay là dùng cây hoặc đá ném chết nó?
+
+Đình Tấn hướng Ameerah nhìn qua, cũng hơn nửa ngày rồi hắn mới thấy nàng bắt đầu đề ra ý kiến. Hắn bình tĩnh lắc đầu:
+
+- Không thể, nó sức phòng thủ rất mạnh. Chúng ta sức tấn công vật lý không cao hệ thống sẽ phán định lượng sát thương rất thấp. Nếu dùng đá ném cũng không gây được đủ lượng sát thương giết nó, còn tiêu hao thời gian nữa. Chờ nó thoát ra được thì rất mệt.
+
+Ameerah ỉu xìu lại, cúi đầu. Đình Tấn thấy vậy không đành lòng nói:
+
+- Đừng buồn, ý kiến của ngươi rất hay. Nếu không tìm được cách chắc chỉ có thể dùng cách đó đánh liều thôi.
+
+Ameerah gật đầu, hung tính bắt đầu nổi lên:
+
+- Nếu ném đá không chết, ta ôm thuốc nổ lại nổ chết nó. Không giết chết thì cũng phải cạo được một lớp da của nó.
+
+Đình Tấn nghe đến câu “ôm thuốc nổi lại nổ chết nó” linh quang loé lên. Hắn kích động ôm Ameerah hôn lên má nàng nói:
+
+- Haha Ameerah, ngươi quả thật thông minh. Đúng vậy ôm thuốc nổ nổ chết cha nó.
+
+Ameerah bị Đình Tấn tập kích bất ngờ, gương mặt ngẩn ngơ. Sau đó một luồng nhiệt từ dưới cằm hướng lên trán tràn lan lên. Nàng nay cũng đã 16 tuổi, sống ở một đất nước cởi mở phương tây, nàng cũng đã biết một chút những chuyện đó. E thẹn cúi đầu xuống tận ngực không dám ngẩn lên nhìn Đình Tấn.
+
+Đình Tấn như vẫn không hay biết chuyện mình vừa làm gây ra hậu quả thế nào. Hắn lập tức vung vẩy pháp trượng cùng niệm chú, lần lượt triệu hồi ra 4 tên Bộ Xương Chiến Sĩ. Sau đó gọi lão Carter lại nói với lão kế hoạch.
+
+Lão Carter lập tức hành động, dùng thuốc nổ gắn vào rìu lớn của bọn Bộ Xương Chiến Sĩ. Sau khi gắn xong Đình Tấn ra lệnh cho bọn Bộ Xương Chiến Sĩ từng tên thay nhau tiến lên. Tiện tay lấy ra 1 bình MP thuốc nốc sạch vào.
+
+Dùng rìu chém vào thân hình của con Coywolf thủ lĩnh bị lộ ra bên ngoài những tảng đá.
+
+-12
+
+-11
+
+-12
+
+-11
+
+Coywolf (Thủ Lĩnh Boss)
+
+Cấp 12
+
+HP: 734/1450
+
+Kỹ năng: Cuồng bGqzReK bạo, Kêu gọi bầy đàn, Cắn xé, Vồ tới, Gia tốc, Truy tung.
+
+Giới thiệu: Là thủ lĩnh của đàn Coywolf, được chọn ra từ trăm con Coywolf có thực lực mạnh nhất đàn. Khuyến nghị: Không nên đơn đấu nếu đẳng cấp thấp hơn.
+
+Từng tên Bộ Xương Chiến Sĩ thay phiên nhau chém vào con thủ lĩnh Coywolf. Sát thương ít đến đáng thương nhưng 4 tên đồng thời phát ra 50 sát thương một giây cũng khá khả quan.
+
+Khi HP con thủ lĩnh Coywolf tụt xuống còn khoảng 20%. Nó rống lớn gào thét, con ngươi đỏ chót bộ lông xù lên. Bộ lông như có năng lượng truyền vào, trông cứng cỏi hơn có thể đâm thủng cả đá. Cả người nó cơ bắp như nở rộng ra, làm thân hình của nó bành trướng lên một vòng thấy rõ. Đình Tấn vội vàng tra xét xem chuyện gì xảy ra.
+
+Coywolf (Thủ Lĩnh Boss)
+
+Cấp 12
+
+HP: 365/1450
+
+Kỹ năng: Cuồng bạo, Kêu gọi bầy đàn, Cắn xé, Vồ tới, Gia tốc, Truy tung.
+
+Giới thiệu: Là thủ lĩnh của đàn Coywolf, được chọn ra từ trăm con Coywolf có thực lực mạnh nhất đàn. Khuyến nghị: Không nên đơn đấu nếu đẳng cấp thấp hơn.
+
+Trạng thái hiện tại: 
+
+- Cuồng bạo: Kích hoạt khi HP thấp hơn 20%. Gia tăng sức mạnh cùng phòng thủ lên 100% duy trì trong 1 phút, sau một phút trạng thái suy yếu giảm toàn bộ thuộc tính xuống 50%.
+
+Đình Tấn rõ ràng, đây là cuồng hoá. Chỉ là trong game thiết lập lại nhìn có hơi chút khoa trương. Hoặc, cũng có thể là trước kia hắn chiến đấu chém giết cùng quái thú chưa gặp phải thủ lĩnh của loài Coywolf này.
+
+Liền Đình Tấn ra lệnh cho 4 tên Bộ Xương Chiến Sĩ xông lên dùng rìu của bọn chúng tấn công phía bên dưới của con Coywolf đang cố vùng lên. 
+
+Ngay khi 4 thanh rìu chặt vào bụng và ngực con Coywolf thủ lĩnh. Hắn quay sang hướng Carter gật đầu trầm giọng: - Kích hoạt đi.
+
+Gần 1kg thuốc nổ phát nổ cùng một lúc làm cho đất đá xung quanh cũng rung chuyển một hồi. Con Coywolf thủ lĩnh gào thét lên một tiếng thê thảm.
+
+-300
+
+Thật kinh khủng sức phòng thủ. Mặc dù đã dự đoán đến tình huống thuốc nổ không thể giết chết con Coywolf thủ lĩnh này nhưng khi sự thực xảy ra trước mắt cũng làm cho Đình Tấn không kìm được kinh ngạc một hồi.
+
+Giải trừ triệu hoá với 4 tên Bộ Xương Chiến Sĩ, Đình Tấn uống MP tranh thủ thời gian hồi phục. Triệu hồi ra 4 tên Bộ Xương Chiến Sĩ chém giết nãy giờ làm cho MP hắn cũng đã đến đáy, mặc dù chỉ khoảng 10 giây nhưng cũng là cực hạn của hắn.
+
+Bên cạnh đó, hắn cũng hướng Ameerah cùng lão Carter đang đứng ở phía trên dốc ra hiệu. Hai người lập tức nhất lên tảng đá đã chuẩn bị xung quanh chân, ném mạnh hướng phía con Coywolf thủ lĩnh đang vùng lên.
+
+-1
+
+-1
+
+-1
+
+-1
+
+2 đợt ném đá -4 HP nhìn thanh máu của con Coywolf thủ lĩnh vãn còn đến hơn 60 điểm tụt xuống từ từ. Đình Tấn tinh thần chăm chú nhìn chăm chăm lấy con Coywolf thủ lĩnh.
+
+Vừa uống được 2 bình MP thuốc Đình Tấn cảm thấy con Coywolf thủ lĩnh sắp thoát ra được, mặc kệ MP vẫn chưa hồi đầy. Hắn đứng dậy vung vẫy pháp trượng triệu hoán 4 tên Bộ xương chuẩn bị chiến đấu.
+
+“Ầm”
+
+“Gào”
+
+Con Coywolf thủ lĩnh cuối cùng cũng thoát ra được, đá tảng bị nó vung ra vỡ nát. Nó rống lớn một tiếng hướng về Đình Tấn đang vung vẩy pháp trượng gia tốc vồ đến.
+
+Ngay khi con Coywolf thủ lĩnh vừa thoát ra khỏi góc kẹt, Đình Tấn cũng đã hoàn thành triệu hoán. Nhìn con Coywolf thủ lĩnh ngày càng đến gần Đình Tấn trong lòng cũng khá hồi hộp. Nhưng bản năng làm cho hắn bình tĩnh lại ngay lập tức, giơ pháp trượng ra trước ngực chuẩn bị phòng thủ.
+
+Con Coywolf thủ lĩnh vồ lên hướng Đình Tấn cắn tới. Đình Tấn lập tức cúi người lăn lộn một vòng về phía trước. Nhìn như hắn đang tự hướng vào lợi trảo của con Coywolf thủ lĩnh vậy, nhưng chuẩn xác không sai một ly, móng vuốt của con Coywolf thủ lĩnh lướt ngang qua đầu hắn. Lúc này 4 con Bộ Xương Chiến Sĩ cũng đã lần lượt chui ra khỏi vòng xoáy đen ngòm dưới đất. Chúng quay người hướng phía sau con Coywolf thủ lĩnh mà đến.
+
+-1
+
+-1
+
+Hai tảng đá đập lên người con Coywolf thủ lĩnh nhưng nó không hề quan tâm những vết thương muỗi cắn này. Mục tiêu của nó vẫn là Đình Tấn vì 4 tên Bộ Xương Chiến Sĩ tạo ra sát thương nên thù hận của nó vẫn là tập trung vào Đình Tấn nhiều nhất.
+
+Con thủ lĩnh Coywolf lại hướng Đình Tấn vồ tới, lúc này đây 1 con Bộ Xương Chiến Sĩ tiến lên tấn công nó. Đây là Đình Tấn chỉ lệnh vì hắn biết, có phòng thủ cũng vô ích vì sức mạnh con Coywolf thủ lĩnh này quá chênh lệch với bọn hắn hiện tại.
+
+“Ầm”
+
+-436
+
+-43
+
+Một con số sát thương khủng bố hiện lên trên đầu con Bộ Xương Chiến Sĩ xông lên. Nó chưa kịp chém búa xuống thì đã bị con Coywolf một trảo vỗ trúng thân mình bay ngược ra phía sau đập vào mạnh vào tường va ngược lại. Tiêu diệt hơn một nửa lượng HP của nó.
+
+Nhưng nó cũng hoàn thành nhiệm vụ, chặn lại con Coywolf thủ lĩnh một giây. Tranh thủ cơ hội cho 3 tên Bộ Xương Chiến Sĩ đồng đội phía sau tiến lên đột kích.
+
+-12
+
+-11
+
+-13
+
+Ba con số thương tổn hiện lên trên đầu con Coywolf thủ lĩnh cắt giảm đi một nửa lượng máu mong manh hiện tại của nó. Điều này càng làm kích phát huyết tính của con Coywolf thủ lĩnh. Nó rống lên giận dữ, vung trảo quét ngang 3 tên Bộ Xương Chiến Sĩ, đánh bay bọn chúng về phía sau lăn lộn nhiều vòng trên đất.
+
+Lập tức con Coywolf thủ lĩnh lại hướng Đình Tấn mà đến. Nó muốn tiêu diệt tên nhân loại này.
+
+Tốc độ quá nhanh, mặc dù Đình Tấn đã biết, đã dự phán được hướng phía sau lộn người. Nhưng vẫn không kịp tránh móng vuốt như dao cắt của con Coywolf thủ lĩnh.
+
+“Ầm”
+
+-118
+
+-11
+
+Đình Tấn bị đập bay ngang qua một bên, lưng đập mạnh vào vách đá làm hắn đau xót. Mặc dù không tránh né nhưng hắn vẫn kịp thời giơ pháp trượng đón đỡ. Cánh tay chịu lực lượng cường đại làm cho hắn run rẩy dữ dội. Nhưng dù có chống đỡ cũng không thể giảm bớt sát thương hệ thống phán định ra. Đình Tấn lập tức bị cắt giảm 1/5 HP.
+
+Nhanh chóng kìm nén đau đớn, Đình Tấn ngồi dậy hai tay run rẩy lấy từ trong túi một bình HP cùng MP thuốc ra uống vào. Hắn vừa uống xong thuốc, chưa kịp chuẩn bị thì lại đã thấy thân ảnh con Coywolf thủ lĩnh tiến đến trước mặt.
+
+Một trảo đến trước mặt làm Đình Tấn, với thể chất hiện tại mặc dù tốt nhưng vẫn không thể so với hắn trước khi. Hắn có thể phán đoán có thể làm ra phản ứng, thế nhưng sức bật, nhanh nhẹn cơ thể theo không kịp nhịp điệu suy nghĩ của hắn. Không thể tránh né, một vuốt của con Coywolf thủ lĩnh đập ngay vào bờ vai Đình Tấn. Vỗ hắn bay ngang hơn 3m lăn lộn nhiều vòng trên đất.
+
+“soạt… phịch” 
+
+-236
+
+Đòn tấn công vào bờ vai Đình Tấn của con Coywolf thủ lĩnh bị hệ thống phán định là tấn công vào điểm yếu. Gấp đôi thương tổn làm HP của hắn tụt một mảng lớn, chỉ cần một vuốt nữa vào đầu hoặc thân mình thôi thì hắn sẽ chầu ông bà ngay.
+
+Đình Tấn vai lưng cảm thấy đau rát, không có thời gian xuýt xoa, suy nghĩ. Đình Tấn nhanh chóng lấy ra HP và MP thuốc bổ sung lượng máu đã thấy đáy của mình. Lồm cồm bò dậy ý định bỏ chạy.
+
+Trong rủi có may, đòn đánh đó của con Coywolf thủ lĩnh đánh Đình Tấn bay về phía 4 con Bộ Xương Chiến Sĩ làm cho khoảng cách được rút ngắn lại. Lúc này 4 con Bộ Xương Chiến Sĩ vẫn đang hướng đến Đình Tấn hộ giá. Thế nhưng làm sao kịp được tốc độ cực hạn của con Coywolf thủ lĩnh đang cuồng bạo.
+
+“Yaaah”
+
+Chợt ngay tại thời khắc mấu chốt từ trên trời giáng xuống một bóng người. Ameerah từ trên dốc hét lớn bay người xuống, nấm đấm hướng ngay đầu con Coywolf thủ lĩnh đấm xuống.
+
+-8
+
+-1 (Bỏ độc)
+
+Nấm đấm vừa chạm vào con Coywolf thủ lĩnh gây ra sát thương thì lực đạo xông tới của nó cũng va đập mạnh vào người Ameerah hất tung nàng về vách đá phía sau.
+
+“Ầm”
+
+“A..aah”
+
+Ameerah đau đớn kêu rên một tiếng. Mặc dù không thể giết chết con Coywolf thủ lĩnh nhưng cũng làm nó chậm lại 1 giây cho Đình Tấn có thời gian thở lấy hơi. Đình Tấn xoay người, chạy nhanh về phía vách đá phía sau đồng thời chỉ huy 4 tên Bộ Xương Chiến Sĩ xông lại phía trước mặt hắn đón đầu.
+
+Ngay khi Đình Tấn vừa tới trước mặt vách đá. Con Coywolf thủ lĩnh cũng đã đến ngay phía sau hắn. Nó nhảy chồm người lên hướng Đình Tấn sau lưng vỗ tới.
+
+Ngay lúc này, Đình Tấn chân đạp mạnh, nghiêng người bay người lên. Vững vàng thân mình song song với mặt đất, bước đi trên vách đá. Móng vuốt như dao của con Coywolf thủ lĩnh cắm sâu vào trong vách đá như cắt đậu hũ.
+
+Cũng vừa tại thời khắc con Coywolf thủ lĩnh lợi trảo chụp hụt Đình Tấn mà cắm móng vuốt vào vách đá. 4 tên Bộ Xương Chiến Sĩ đã tiến đến trước mặt Đình Tấn, vượt ra phía sau hắn hướng về con Coywolf thủ lĩnh vung búa mà tới. Ameerah cũng chạy nhanh hướng lại đây. Bộ Xương Chiến Sĩ vung lên rìu lớn bổ xuống người con Coywolf thủ lĩnh. Ameerah cũng nhanh chóng tung người lên chân đá mạnh vào bụng nó.
+
+-12
+
+-11
+
+-13
+
+-9
+
+“Gàoooo”
+
+“Rầm”
+
+Con Coywolf thủ lĩnh gào thét không cam lòng thân mình lung lay ầm ầm ngã xuống. 4 tên Bộ Xương Chiến Sĩ cũng bị vòng xoáy đen hút vào trong lòng đất. MP của Đình Tấn đã cạn đến đáy.
+
+Mặc dù có MP thuốc duy trì nhưng thời gian cũng không được nhiều. Từ lúc ngồi uống MP thuốc khôi phục đến lúc đứng dậy chiến đấu, thời gian cũng không quá 30 giây.
+
+Hệ thống âm thanh thông bao vang dội lên bên tai Đình Tấn cùng Ameerah như là để chúc mừng hai người chiến đấu thắng lợi.
+
+EXP +4760
+
+Keng! - Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Keng! – Chúc mừng ngài tổ đội đã tiêu diệt Boss thủ lĩnh Coywolf hoàn thành phụ bản “Hang ổ Coywolf”.
+
+Keng! – Chúc mừng tổ đội ngài là người đầu tiên tiêu diệt Boss thủ lĩnh khu vực tân thủ (Level 1 – 10)
+
+Chúc mừng ngài là người đầu tiên hoàn thành phó bản, hệ thống ban thưởng EXP + 1500, Đồng tiền +800, Túi trang bị màu đỏ 1 phần.
+
+Chúc mừng ngài là người đầu tiên hoàn thành phó bản, hệ thống thông cáo toàn bộ máy chủ thế giới.
+
+Thế giới thông báo: Cùng nâng ly chúc mừng người chơi The Dawn đã dẫn dắt đội viên Siêu cấp Ammida hoàn thành phụ bản “Hang ổ Coywolf”
+
+Thế giới thông báo: Cùng nâng ly chúc mừng người chơi The Dawn đã dẫn dắt đội viên Siêu cấp Ammida hoàn thành phụ bản “Hang ổ Coywolf”
+
+Thế giới thông báo: Cùng nâng ly chúc mừng người chơi The Dawn đã dẫn dắt đội viên Siêu cấp Ammida hoàn thành phụ bản “Hang ổ Coywolf”
+
+Tại một nơi khác, một nhóm tiểu đội hơn 20 người chỉnh tề có quy luật đang vây quanh chiến đấu với những con Coywolf. Xung quanh con Coywolf thủ lĩnh đang cuồng bạo có hơn 10 xác chết, chứng tỏ tiểu đội có hơn 30 người này đã hi sinh mất 10.
+
+Một người đàn ông tráng niên khoảng 36 tuổi nghe được hệ thống thông cáo lòng giật mình không thôi. Bọn họ sau khi bắt được thông tin về nhiệm vụ này lập tức rời đi thi hành. Đồng thời nơi đây có hơn 30 người nhưng lại không thể chém giết xong trước tổ đội 2 người quả thật có chút khó mà tin. Hắn trầm giọng uy nghiêm hét lớn:
+
+- Tiger Squad giữ vững không được phân tâm. Eagle Squad tiếp tục nhắm bắn. Nhiệm vụ sắp hoàn thành.
+
+- Spider Squad, liên hệ FBI cùng CIA truy tìm tung tích người gọi The Dawn cùng Siêu cấp Ammida kia. Cả hiện thực lẫn trong game. Thượng tướng ra lệnh phải lôi kéo tất cả cao thủ thành lập một thế lực trong thời gian sớm nhất không được chậm trễ.Hướng về phía âm thanh tiếng rống nhìn lại, Đình Tấn phát hiện con thủ lĩnh Coywolf đang bị 2 tảng đá lớn đè lên thân hình làm nó bị kẹt lại. Nó đang gào thét cố gắng vương mình thoát ra chém giết tên địch nhân đáng hận này.
+
+Đình Tấn có thể thấy trong mắt nó đỏ chót một mảnh hung tàn. Hắn dám chắc chỉ cần nó thoát ra được thì mặc kệ hắn bên cạnh có ai. Hắn đều sẽ bị nó truy giết đên cùng.
+
+Lão thợ săn Carter vừa móc thuốc nổ định ném về phía con thủ lĩnh Coywolf bị Đình Tấn bắt gặp. Hắn hốt hoảng vương tay cản lại hét lớn:
+
+- Ngươi điên sao?!
+
+- Để ta ném thuốc nổ giết chết nó. – Lão thợ săn bướng bỉnh trả lời.
+
+- Ngươi có chắc chắn thuốc nổ giết được nó không? Hay là nổ để giải thoát, đưa nó ra chém giết chúng ta? – Đình Tấn tức giận hét vào mặt lão Carter.
+
+Lão Carter mồ hôi lạnh sau lưng ứa ra. Hắn lập tức bình tĩnh lại, tâm lý hốt hoảng làm hắn không nghĩ đến vấn đề phía sau. May nhờ có Đình Tấn bình tĩnh suy nghĩ ngăn lại hắn. 
+
+Thấy lão Carter không có ý định dùng thuốc nổ nữa, Đình Tấn buông tay ngăn lão. Tay chống lên trán gấp rút suy nghĩ phương hướng giải quyết.
+
+Bên cạnh Ameerah thấy Đình Tấn im lặng suy nghĩ, nàng không muốn xen vào chen ngang suy nghĩ của hắn. Thế nhưng tình huống trước mắt, con Coywolf thủ lĩnh đang vùng vẫy càng ngày càng mạnh. Không biết lúc nào sẽ thoát ra. Nàng liền đánh liêu hỏi:
+
+- Đình Tấn ca ca, hay là dùng cây hoặc đá ném chết nó?
+
+Đình Tấn hướng Ameerah nhìn qua, cũng hơn nửa ngày rồi hắn mới thấy nàng bắt đầu đề ra ý kiến. Hắn bình tĩnh lắc đầu:
+
+- Không thể, nó sức phòng thủ rất mạnh. Chúng ta sức tấn công vật lý không cao hệ thống sẽ phán định lượng sát thương rất thấp. Nếu dùng đá ném cũng không gây được đủ lượng sát thương giết nó, còn tiêu hao thời gian nữa. Chờ nó thoát ra được thì rất mệt.
+
+Ameerah ỉu xìu lại, cúi đầu. Đình Tấn thấy vậy không đành lòng nói:
+
+- Đừng buồn, ý kiến của ngươi rất hay. Nếu không tìm được cách chắc chỉ có thể dùng cách đó đánh liều thôi.
+
+Ameerah gật đầu, hung tính bắt đầu nổi lên:
+
+- Nếu ném đá không chết, ta ôm thuốc nổ lại nổ chết nó. Không giết chết thì cũng phải cạo được một lớp da của nó.
+
+Đình Tấn nghe đến câu “ôm thuốc nổi lại nổ chết nó” linh quang loé lên. Hắn kích động ôm Ameerah hôn lên má nàng nói:
+
+- Haha Ameerah, ngươi quả thật thông minh. Đúng vậy ôm thuốc nổ nổ chết cha nó.
+
+Ameerah bị Đình Tấn tập kích bất ngờ, gương mặt ngẩn ngơ. Sau đó một luồng nhiệt từ dưới cằm hướng lên trán tràn lan lên. Nàng nay cũng đã 16 tuổi, sống ở một đất nước cởi mở phương tây, nàng cũng đã biết một chút những chuyện đó. E thẹn cúi đầu xuống tận ngực không dám ngẩn lên nhìn Đình Tấn.
+
+Đình Tấn như vẫn không hay biết chuyện mình vừa làm gây ra hậu quả thế nào. Hắn lập tức vung vẩy pháp trượng cùng niệm chú, lần lượt triệu hồi ra 4 tên Bộ Xương Chiến Sĩ. Sau đó gọi lão Carter lại nói với lão kế hoạch.
+
+Lão Carter lập tức hành động, dùng thuốc nổ gắn vào rìu lớn của bọn Bộ Xương Chiến Sĩ. Sau khi gắn xong Đình Tấn ra lệnh cho bọn Bộ Xương Chiến Sĩ từng tên thay nhau tiến lên. Tiện tay lấy ra 1 bình MP thuốc nốc sạch vào.
+
+Dùng rìu chém vào thân hình của con Coywolf thủ lĩnh bị lộ ra bên ngoài những tảng đá.
+
+-12
+
+-11
+
+-12
+
+-11
+
+Coywolf (Thủ Lĩnh Boss)
+
+Cấp 12
+
+HP: 734/1450
+
+Kỹ năng: Cuồng bGqzReK bạo, Kêu gọi bầy đàn, Cắn xé, Vồ tới, Gia tốc, Truy tung.
+
+Giới thiệu: Là thủ lĩnh của đàn Coywolf, được chọn ra từ trăm con Coywolf có thực lực mạnh nhất đàn. Khuyến nghị: Không nên đơn đấu nếu đẳng cấp thấp hơn.
+
+Từng tên Bộ Xương Chiến Sĩ thay phiên nhau chém vào con thủ lĩnh Coywolf. Sát thương ít đến đáng thương nhưng 4 tên đồng thời phát ra 50 sát thương một giây cũng khá khả quan.
+
+Khi HP con thủ lĩnh Coywolf tụt xuống còn khoảng 20%. Nó rống lớn gào thét, con ngươi đỏ chót bộ lông xù lên. Bộ lông như có năng lượng truyền vào, trông cứng cỏi hơn có thể đâm thủng cả đá. Cả người nó cơ bắp như nở rộng ra, làm thân hình của nó bành trướng lên một vòng thấy rõ. Đình Tấn vội vàng tra xét xem chuyện gì xảy ra.
+
+Coywolf (Thủ Lĩnh Boss)
+
+Cấp 12
+
+HP: 365/1450
+
+Kỹ năng: Cuồng bạo, Kêu gọi bầy đàn, Cắn xé, Vồ tới, Gia tốc, Truy tung.
+
+Giới thiệu: Là thủ lĩnh của đàn Coywolf, được chọn ra từ trăm con Coywolf có thực lực mạnh nhất đàn. Khuyến nghị: Không nên đơn đấu nếu đẳng cấp thấp hơn.
+
+Trạng thái hiện tại: 
+
+- Cuồng bạo: Kích hoạt khi HP thấp hơn 20%. Gia tăng sức mạnh cùng phòng thủ lên 100% duy trì trong 1 phút, sau một phút trạng thái suy yếu giảm toàn bộ thuộc tính xuống 50%.
+
+Đình Tấn rõ ràng, đây là cuồng hoá. Chỉ là trong game thiết lập lại nhìn có hơi chút khoa trương. Hoặc, cũng có thể là trước kia hắn chiến đấu chém giết cùng quái thú chưa gặp phải thủ lĩnh của loài Coywolf này.
+
+Liền Đình Tấn ra lệnh cho 4 tên Bộ Xương Chiến Sĩ xông lên dùng rìu của bọn chúng tấn công phía bên dưới của con Coywolf đang cố vùng lên. 
+
+Ngay khi 4 thanh rìu chặt vào bụng và ngực con Coywolf thủ lĩnh. Hắn quay sang hướng Carter gật đầu trầm giọng: - Kích hoạt đi.
+
+Gần 1kg thuốc nổ phát nổ cùng một lúc làm cho đất đá xung quanh cũng rung chuyển một hồi. Con Coywolf thủ lĩnh gào thét lên một tiếng thê thảm.
+
+-300
+
+Thật kinh khủng sức phòng thủ. Mặc dù đã dự đoán đến tình huống thuốc nổ không thể giết chết con Coywolf thủ lĩnh này nhưng khi sự thực xảy ra trước mắt cũng làm cho Đình Tấn không kìm được kinh ngạc một hồi.
+
+Giải trừ triệu hoá với 4 tên Bộ Xương Chiến Sĩ, Đình Tấn uống MP tranh thủ thời gian hồi phục. Triệu hồi ra 4 tên Bộ Xương Chiến Sĩ chém giết nãy giờ làm cho MP hắn cũng đã đến đáy, mặc dù chỉ khoảng 10 giây nhưng cũng là cực hạn của hắn.
+
+Bên cạnh đó, hắn cũng hướng Ameerah cùng lão Carter đang đứng ở phía trên dốc ra hiệu. Hai người lập tức nhất lên tảng đá đã chuẩn bị xung quanh chân, ném mạnh hướng phía con Coywolf thủ lĩnh đang vùng lên.
+
+-1
+
+-1
+
+-1
+
+-1
+
+2 đợt ném đá -4 HP nhìn thanh máu của con Coywolf thủ lĩnh vãn còn đến hơn 60 điểm tụt xuống từ từ. Đình Tấn tinh thần chăm chú nhìn chăm chăm lấy con Coywolf thủ lĩnh.
+
+Vừa uống được 2 bình MP thuốc Đình Tấn cảm thấy con Coywolf thủ lĩnh sắp thoát ra được, mặc kệ MP vẫn chưa hồi đầy. Hắn đứng dậy vung vẫy pháp trượng triệu hoán 4 tên Bộ xương chuẩn bị chiến đấu.
+
+“Ầm”
+
+“Gào”
+
+Con Coywolf thủ lĩnh cuối cùng cũng thoát ra được, đá tảng bị nó vung ra vỡ nát. Nó rống lớn một tiếng hướng về Đình Tấn đang vung vẩy pháp trượng gia tốc vồ đến.
+
+Ngay khi con Coywolf thủ lĩnh vừa thoát ra khỏi góc kẹt, Đình Tấn cũng đã hoàn thành triệu hoán. Nhìn con Coywolf thủ lĩnh ngày càng đến gần Đình Tấn trong lòng cũng khá hồi hộp. Nhưng bản năng làm cho hắn bình tĩnh lại ngay lập tức, giơ pháp trượng ra trước ngực chuẩn bị phòng thủ.
+
+Con Coywolf thủ lĩnh vồ lên hướng Đình Tấn cắn tới. Đình Tấn lập tức cúi người lăn lộn một vòng về phía trước. Nhìn như hắn đang tự hướng vào lợi trảo của con Coywolf thủ lĩnh vậy, nhưng chuẩn xác không sai một ly, móng vuốt của con Coywolf thủ lĩnh lướt ngang qua đầu hắn. Lúc này 4 con Bộ Xương Chiến Sĩ cũng đã lần lượt chui ra khỏi vòng xoáy đen ngòm dưới đất. Chúng quay người hướng phía sau con Coywolf thủ lĩnh mà đến.
+
+-1
+
+-1
+
+Hai tảng đá đập lên người con Coywolf thủ lĩnh nhưng nó không hề quan tâm những vết thương muỗi cắn này. Mục tiêu của nó vẫn là Đình Tấn vì 4 tên Bộ Xương Chiến Sĩ tạo ra sát thương nên thù hận của nó vẫn là tập trung vào Đình Tấn nhiều nhất.
+
+Con thủ lĩnh Coywolf lại hướng Đình Tấn vồ tới, lúc này đây 1 con Bộ Xương Chiến Sĩ tiến lên tấn công nó. Đây là Đình Tấn chỉ lệnh vì hắn biết, có phòng thủ cũng vô ích vì sức mạnh con Coywolf thủ lĩnh này quá chênh lệch với bọn hắn hiện tại.
+
+“Ầm”
+
+-436
+
+-43
+
+Một con số sát thương khủng bố hiện lên trên đầu con Bộ Xương Chiến Sĩ xông lên. Nó chưa kịp chém búa xuống thì đã bị con Coywolf một trảo vỗ trúng thân mình bay ngược ra phía sau đập vào mạnh vào tường va ngược lại. Tiêu diệt hơn một nửa lượng HP của nó.
+
+Nhưng nó cũng hoàn thành nhiệm vụ, chặn lại con Coywolf thủ lĩnh một giây. Tranh thủ cơ hội cho 3 tên Bộ Xương Chiến Sĩ đồng đội phía sau tiến lên đột kích.
+
+-12
+
+-11
+
+-13
+
+Ba con số thương tổn hiện lên trên đầu con Coywolf thủ lĩnh cắt giảm đi một nửa lượng máu mong manh hiện tại của nó. Điều này càng làm kích phát huyết tính của con Coywolf thủ lĩnh. Nó rống lên giận dữ, vung trảo quét ngang 3 tên Bộ Xương Chiến Sĩ, đánh bay bọn chúng về phía sau lăn lộn nhiều vòng trên đất.
+
+Lập tức con Coywolf thủ lĩnh lại hướng Đình Tấn mà đến. Nó muốn tiêu diệt tên nhân loại này.
+
+Tốc độ quá nhanh, mặc dù Đình Tấn đã biết, đã dự phán được hướng phía sau lộn người. Nhưng vẫn không kịp tránh móng vuốt như dao cắt của con Coywolf thủ lĩnh.
+
+“Ầm”
+
+-118
+
+-11
+
+Đình Tấn bị đập bay ngang qua một bên, lưng đập mạnh vào vách đá làm hắn đau xót. Mặc dù không tránh né nhưng hắn vẫn kịp thời giơ pháp trượng đón đỡ. Cánh tay chịu lực lượng cường đại làm cho hắn run rẩy dữ dội. Nhưng dù có chống đỡ cũng không thể giảm bớt sát thương hệ thống phán định ra. Đình Tấn lập tức bị cắt giảm 1/5 HP.
+
+Nhanh chóng kìm nén đau đớn, Đình Tấn ngồi dậy hai tay run rẩy lấy từ trong túi một bình HP cùng MP thuốc ra uống vào. Hắn vừa uống xong thuốc, chưa kịp chuẩn bị thì lại đã thấy thân ảnh con Coywolf thủ lĩnh tiến đến trước mặt.
+
+Một trảo đến trước mặt làm Đình Tấn, với thể chất hiện tại mặc dù tốt nhưng vẫn không thể so với hắn trước khi. Hắn có thể phán đoán có thể làm ra phản ứng, thế nhưng sức bật, nhanh nhẹn cơ thể theo không kịp nhịp điệu suy nghĩ của hắn. Không thể tránh né, một vuốt của con Coywolf thủ lĩnh đập ngay vào bờ vai Đình Tấn. Vỗ hắn bay ngang hơn 3m lăn lộn nhiều vòng trên đất.
+
+“soạt… phịch” 
+
+-236
+
+Đòn tấn công vào bờ vai Đình Tấn của con Coywolf thủ lĩnh bị hệ thống phán định là tấn công vào điểm yếu. Gấp đôi thương tổn làm HP của hắn tụt một mảng lớn, chỉ cần một vuốt nữa vào đầu hoặc thân mình thôi thì hắn sẽ chầu ông bà ngay.
+
+Đình Tấn vai lưng cảm thấy đau rát, không có thời gian xuýt xoa, suy nghĩ. Đình Tấn nhanh chóng lấy ra HP và MP thuốc bổ sung lượng máu đã thấy đáy của mình. Lồm cồm bò dậy ý định bỏ chạy.
+
+Trong rủi có may, đòn đánh đó của con Coywolf thủ lĩnh đánh Đình Tấn bay về phía 4 con Bộ Xương Chiến Sĩ làm cho khoảng cách được rút ngắn lại. Lúc này 4 con Bộ Xương Chiến Sĩ vẫn đang hướng đến Đình Tấn hộ giá. Thế nhưng làm sao kịp được tốc độ cực hạn của con Coywolf thủ lĩnh đang cuồng bạo.
+
+“Yaaah”
+
+Chợt ngay tại thời khắc mấu chốt từ trên trời giáng xuống một bóng người. Ameerah từ trên dốc hét lớn bay người xuống, nấm đấm hướng ngay đầu con Coywolf thủ lĩnh đấm xuống.
+
+-8
+
+-1 (Bỏ độc)
+
+Nấm đấm vừa chạm vào con Coywolf thủ lĩnh gây ra sát thương thì lực đạo xông tới của nó cũng va đập mạnh vào người Ameerah hất tung nàng về vách đá phía sau.
+
+“Ầm”
+
+“A..aah”
+
+Ameerah đau đớn kêu rên một tiếng. Mặc dù không thể giết chết con Coywolf thủ lĩnh nhưng cũng làm nó chậm lại 1 giây cho Đình Tấn có thời gian thở lấy hơi. Đình Tấn xoay người, chạy nhanh về phía vách đá phía sau đồng thời chỉ huy 4 tên Bộ Xương Chiến Sĩ xông lại phía trước mặt hắn đón đầu.
+
+Ngay khi Đình Tấn vừa tới trước mặt vách đá. Con Coywolf thủ lĩnh cũng đã đến ngay phía sau hắn. Nó nhảy chồm người lên hướng Đình Tấn sau lưng vỗ tới.
+
+Ngay lúc này, Đình Tấn chân đạp mạnh, nghiêng người bay người lên. Vững vàng thân mình song song với mặt đất, bước đi trên vách đá. Móng vuốt như dao của con Coywolf thủ lĩnh cắm sâu vào trong vách đá như cắt đậu hũ.
+
+Cũng vừa tại thời khắc con Coywolf thủ lĩnh lợi trảo chụp hụt Đình Tấn mà cắm móng vuốt vào vách đá. 4 tên Bộ Xương Chiến Sĩ đã tiến đến trước mặt Đình Tấn, vượt ra phía sau hắn hướng về con Coywolf thủ lĩnh vung búa mà tới. Ameerah cũng chạy nhanh hướng lại đây. Bộ Xương Chiến Sĩ vung lên rìu lớn bổ xuống người con Coywolf thủ lĩnh. Ameerah cũng nhanh chóng tung người lên chân đá mạnh vào bụng nó.
+
+-12
+
+-11
+
+-13
+
+-9
+
+“Gàoooo”
+
+“Rầm”
+
+Con Coywolf thủ lĩnh gào thét không cam lòng thân mình lung lay ầm ầm ngã xuống. 4 tên Bộ Xương Chiến Sĩ cũng bị vòng xoáy đen hút vào trong lòng đất. MP của Đình Tấn đã cạn đến đáy.
+
+Mặc dù có MP thuốc duy trì nhưng thời gian cũng không được nhiều. Từ lúc ngồi uống MP thuốc khôi phục đến lúc đứng dậy chiến đấu, thời gian cũng không quá 30 giây.
+
+Hệ thống âm thanh thông bao vang dội lên bên tai Đình Tấn cùng Ameerah như là để chúc mừng hai người chiến đấu thắng lợi.
+
+EXP +4760
+
+Keng! - Chúc mừng ngài đã thăng 1 cấp, hiện ngài đang có 1 điểm tiềm năng. Xin mời cân nhắc lựa chọn.
+
+Keng! – Chúc mừng ngài tổ đội đã tiêu diệt Boss thủ lĩnh Coywolf hoàn thành phụ bản “Hang ổ Coywolf”.
+
+Keng! – Chúc mừng tổ đội ngài là người đầu tiên tiêu diệt Boss thủ lĩnh khu vực tân thủ (Level 1 – 10)
+
+Chúc mừng ngài là người đầu tiên hoàn thành phó bản, hệ thống ban thưởng EXP + 1500, Đồng tiền +800, Túi trang bị màu đỏ 1 phần.
+
+Chúc mừng ngài là người đầu tiên hoàn thành phó bản, hệ thống thông cáo toàn bộ máy chủ thế giới.
+
+Thế giới thông báo: Cùng nâng ly chúc mừng người chơi The Dawn đã dẫn dắt đội viên Siêu cấp Ammida hoàn thành phụ bản “Hang ổ Coywolf”
+
+Thế giới thông báo: Cùng nâng ly chúc mừng người chơi The Dawn đã dẫn dắt đội viên Siêu cấp Ammida hoàn thành phụ bản “Hang ổ Coywolf”
+
+Thế giới thông báo: Cùng nâng ly chúc mừng người chơi The Dawn đã dẫn dắt đội viên Siêu cấp Ammida hoàn thành phụ bản “Hang ổ Coywolf”
+
+Tại một nơi khác, một nhóm tiểu đội hơn 20 người chỉnh tề có quy luật đang vây quanh chiến đấu với những con Coywolf. Xung quanh con Coywolf thủ lĩnh đang cuồng bạo có hơn 10 xác chết, chứng tỏ tiểu đội có hơn 30 người này đã hi sinh mất 10.
+
+Một người đàn ông tráng niên khoảng 36 tuổi nghe được hệ thống thông cáo lòng giật mình không thôi. Bọn họ sau khi bắt được thông tin về nhiệm vụ này lập tức rời đi thi hành. Đồng thời nơi đây có hơn 30 người nhưng lại không thể chém giết xong trước tổ đội 2 người quả thật có chút khó mà tin. Hắn trầm giọng uy nghiêm hét lớn:
+
+- Tiger Squad giữ vững không được phân tâm. Eagle Squad tiếp tục nhắm bắn. Nhiệm vụ sắp hoàn thành.
+
+- Spider Squad, liên hệ FBI cùng CIA truy tìm tung tích người gọi The Dawn cùng Siêu cấp Ammida kia. Cả hiện thực lẫn trong game. Thượng tướng ra lệnh phải lôi kéo tất cả cao thủ thành lập một thế lực trong thời gian sớm nhất không được chậm trễ.

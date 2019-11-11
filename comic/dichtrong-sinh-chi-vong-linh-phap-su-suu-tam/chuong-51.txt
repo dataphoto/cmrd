@@ -1,0 +1,421 @@
+Một đêm chậm rãi cứ thế trôi qua. 2 lượt Dẻo Dai Cường Hóa, 5 lượt Cơ Bắp Cường Hóa như cũ, sau đó Đình Tấn tu luyện thêm 6 lượt Minh Tưởng Thuật đến sáng. Lại thêm hôm qua buổi chiều, hắn tu luyện được 4 lượt Minh Tưởng Thuật nữa nên Đình Tấn chỉ số có một lần biến động lớn, xem như đã bù đắp cho mấy ngày luyện cấp không thể tu luyện.
+
+---- Thông số ----
+
+Lực lượng: 75
+
+Nhanh nhẹn: 54
+
+Thể lực: 74 (+1)
+
+Tinh thần: 194 (+6)
+
+Điểm tự do: 0
+
+---- Chi tiết ----
+
+Level: 20
+
+HP: 2980/2980 (+5.7/s)
+
+MP: 2879/2879 (+18/s)
+
+EXP: 0/756350
+
+Sát thương vật lý: 75 – 75
+
+Sát thương phép thuật: 260 – 260
+
+Phòng thủ vật lý: 8.7
+
+Phòng thủ pháp thuật: 22
+
+Trang bị hiện tại: 
+
+Áo vải (Đồ xanh)
+
+Mũ da trùm đầu (Đồ trắng)
+
+Sách ma thuật của Gauss (Đồ Đỏ)
+
+Bao tay Nemesis (Đồ Đỏ)
+
+Quần Prometheus (Đồ Đỏ)
+
+Giày Mercuries (Đồ Đỏ)
+
+Áo khoác ma pháp (Đồ Đỏ)
+
+Huy chương lính đánh thuê 
+
+Thuộc tính hiện tại của Đình Tấn đã có thay đổi rất lớn 200 điểm tinh thần đồng nghĩa với việc hắn có thể triệu hồi 22 tên Bộ Xương Chiến Sĩ cùng với 16 tên Tang Thi. Lại thêm chiếc nhẫn bị nguyền rủa hỗ trợ nữa, nghĩ đến đây thôi Đình Tấn đã không nhịn được nôn nóng muốn đi thử nghiệm.
+
+Ôm tâm tình này, hắn nhanh chóng bước xuống lầu gọi cả nhóm Ameerah, David, cùng với Terrell dậy. Hôm nay hắn muốn đến gặp Thành Chủ Albert để hoàn thành nhiệm vụ chức nghiệp phụ.
+
+Rời khỏi nhà đi đến quán ăn, 4 người nhanh chóng làm một bàn ăn sáng thịnh soạn sau đó bước lên đường lớn đi đến Tòa Thị Chính. 
+
+15 phút sau, 4 người đã đứng trước bàn làm việc của Thành Chủ Albert.
+
+- Rất tốt, không ngờ nhanh như vậy đã đạt đến yêu cầu của ta. Thế nhưng đồng đội của ngươi có phải là quá ít không?
+
+Thành Chủ Albert giọng uy nghiêm mà tán thưởng Đình Tấn. Đình Tấn không chậm đáp lại:
+
+- Thưa thành chủ chúng ta muốn làm nhiệm vụ chức nghiệp phụ xin ngài cấp phép. Hoàn thành yêu cầu của chúng ta.
+
+Lúc này Thành Chủ Albert lắc đầu nói:
+
+- Về chức nghiệp phụ, ta thỏa thuận cho ngươi chỉ có 2 người. Ngươi mang đội hôm nay đến 4 người, tha thứ ta không thể thỏa mãn được.
+
+Đình Tấn khuôn mặt có chút bất ngờ, chân mày hơi nhíu lại. Lúc này Thành Chủ Albert lại nói tiếp:
+
+- Thế nhưng… ta có thể thay đổi số lượng người nếu ngươi có thể hoàn thành nhiệm vụ lần này ta giao cho.
+
+Đình Tấn thở phào ra khi nghe được điều kiện này, lập tức mắ nhìn chăm chăm chờ đợi Thành Chủ Albert nói tiếp.
+
+- Doanh trại quân đội đóng quân ở phía Nam đang thiếu đạn dược, lương thực cần phải tiếp tế. Nếu ngươi có thể dẫn đội giúp ta vận chuyển tiếp tế đến nơi, ta sẽ cấp cho ngươi 5 vị trí để học tập nghề nghiệp phụ.
+
+Đình Tấn vui vẻ, có cách giải quyết là tốt rồi. Hắn nghiêm người, hô lớn:
+
+- Xin ngài ra chỉ lệnh. 
+
+Thành Chủ Albert gật đầu nghiêm túc nói:
+
+- Lần này chuyến đi sẽ rất nguy hiểm, các ngươi cần chuẩn bị sung túc đầy đủ dược phẩm thức ăn khôi phục. Nếu có thể thì mang thêm vài người nữa sẽ an toàn hơn. Mang lấy tờ giấy này đi đến kho vũ khí phía nam thành gặp trung úy Ammite hắn sẽ nói chi tiết cho ngươi phần còn lại của nhiệm vụ.
+
+Đình Tấn đưa hai tay tiếp nhận tờ giấy từ tay Thành Chủ Albert. Ngay khi cầm lấy tờ giấy hệ thống âm thanh liền vang lên.
+
+Keng! - Chúc mừng ngài đã nhận được nhiệm vụ “Vận chuyển tiếp tế”.
+
+Nghiêm người chào Thành Chủ Albert một cái. Đình Tấn xoay người dẫn đội bước đi đến địa điểm kho vũ khí mà nhiệm vụ chỉ dẫn. Trên đường đi, thuận tiện cả đội 4 người ghé qua hiệu thuốc và khách sạn để tiếp tế nhu yếu phẩm. Đình Tấn lần này mang 300 bình HP vừa và lượng lớn thức ăn phòng hờ thời gian làm nhiệm vụ quá dài không thể trở về.
+
+Chuyến đi này không biết sẽ phải tiêu tốn thời gian bao lâu nên hắn phải dự trữ sẵn. 3 người David, Ameerah, Terrell cũng tiếp tế hơn 100 bình mỗi loại cùng với thức ăn. Sau đó cả nhóm lại tiếp tục lên đường đi đến kho vũ khí. Từ Tòa Thị Chính đi đến khu phía nam thành tiêu tốn của nhóm người Đình Tấn hơn nửa giờ.
+
+Ở phía nam thành, trong một khu đất rộng lớn có một nhà kho được rào sắt bao vây xung quanh, cách ly hoàn toàn với khu dân cư. Nhà kho xung quanh được nhiều người thủ vệ liên tục tuần tra qua lại. Đình Tấn tiến đến trước cổng rào sắt nơi có 2 người lính thủ vệ chào hỏi:
+
+- Xin chào, ta là đội Lính Đánh Thuê [The Alliance] nhận mệnh lệnh từ Thành Chủ Albert đến đây để gặp ngài Ammite, tiếp nhận vận chuyển nhóm tiếp tế cho doanh trại quân đội phía nam.
+
+- Xin chờ. - Người thủ vệ nghiêm cẩn nói. Sau đó xoay người đi vào bên trong.
+
+Một lúc sau hắn đi ra cùng một người đàn ông trung niên tóc hoa râm, da hơi sạm nắng, dáng người cao to lực lưỡng. Người đàn ông trung niên gương mặt thô to có vài vết sẹo, hướng về Đình Tấn chào.
+
+- Chào ngươi, xin xuất trình giấy chỉ lệnh của Thành Chủ Albert. 
+
+Đình Tấn giao ra tờ giấy thành chủ đưa cho hắn. Tên trung úy Ammite này tiếp nhận tờ giấy sau đó kiểm tra một chút. Nghiêm người chào Đình Tấn lại, rồi nói:
+
+- Xin mời theo ta.
+
+Nói xong hắn xoay người dẫn đầu hướng vào nhà kho bên trong rào sắt đi đến. Vừa đi hắn vừa nói:
+
+- Chúng ta lần này tiếp tế yêu cầu đội Lính Đánh Thuê phải có người cấp A dẫn đội. Các ngươi vừa đủ yêu cầu để nhận nhiệm vụ, thế nhưng ta khuyên các ngươi nên tìm thêm một ít người nữa vì trên đường đi sẽ rất nguy hiểm. 
+
+- Chuyến đi bắt đầu từ EL Thành xuyên qua 20km khu rừng nhiệt đới ở phía nam. Sau đó sẽ đến vùng bình nguyên, các ngươi tiến vào 10km trong vùng bình nguyên thì sẽ đến được một doanh trại lớn nơi quân đội đang trú đóng. Gặp tướng Mark bàn giao tài nguyên tiếp tế cho hắn thì các ngươi hoàn thành nhiệm vụ. 
+
+Lúc hắn nói xong cũng là lúc cả nhóm người đi đến bên trong kho. Nơi đây khá rộng lớn, xung quanh nhiều thùng chứa đạn, pháo cùng các kệ gác súng chất đầy các loại vũ khí nóng. Ở giữa sân trống có một cái ván trượt từ trường rất lớn, ngang 3m dài 5m, đang trôi nổi trên không cách mặt đất hơn 1m. Phía bên trên ván trượt chở lấy nhiều thùng đủ kích cỡ khác nhau, cùng với một bục điều khiển ở phần đuôi ván trượt.
+
+Trung úy Ammite hướng về Đình Tấn giới thiệu:
+
+- Đây là xe ván trượt từ trường chuyên chở vũ khí. Nó có thể vượt mọi địa hình, kèm theo một vòng năng lượng phòng hộ có thể chống đỡ 10.000 lượng sát thương. Năng lượng được nạp lại bằng ánh sáng mặt trời với tốc độ 600 điểm mỗi tiếng. Ở đây là bảng điều khiển phía trên có bản đồ cùng với các lệnh điều khiển.
+
+Nói xong Trung Úy Ammite leo lên 1 cái bục phía trên, đối mặt có một bảng máy tính cảm ứng. Điều khiển khá đơn giản một góc hiển thị con số 10.000, bên cạnh là các nút bấm chạy, tạm dừng. Ở giữa là một bản đồ có đánh dấu vị trí hiện tại và con đường sẽ đi cùng với các loại thông số như khoảng cách, tốc độ.
+
+Đã giải thích xong, lúc này Trung Úy Ammite hướng về Đình Tấn hỏi. 
+
+- Các ngươi chắc chắn với quyết định sẽ đi ngay bây giờ? Ta xin nhắc lại nhiệm vụ này rất nguy hiểm, nhiều người khả năng sẽ gia tăng tỉ lệ thành công của nhiệm vụ. Tiếp tế lần này rất quan trọng, nếu như thất bại các ngươi đội Lính Đánh Thuê sẽ bị trừng phạt rất FUWvHgJK nặng.
+
+Đình Tấn quay lại nhìn 3 người Ameerah, David cùng Terrell rồi hướng Trung úy Ammite gật đầu. Trung Úy Ammite không nói gì, tay giơ lên bấm nút chạy trên bảng điều khiển. Hệ thống âm thanh lập tức vang lên bên tai 4 người.
+
+Keng! - Vận chuyển đã bắt đầu xin hãy cẩn trọng đường đi.
+
+- Cẩn trọng quái vật công kích vì trên xe có rất nhiều lương thực hấp dẫn chúng. Chúc các ngươi thuận buồm xuôi gió.
+
+Trung Úy Ammite mở miệng cảnh báo cho cả đội. Sau đó đứng tại chỗ, nhìn lấy chiếc ván trượt lơ lửng trên không chầm chậm chạy đi. Đình Tấn đứng phía trên bục điều khiển quan sát các thông số, hắn nhận ra tốc độ chậm đến đáng thương. Đoạn đường phải đi cần vượt qua 30km thế nhưng tốc độ này có thể nói là ít nhất hai ngày sau mới đến được doanh trại.
+
+Làm Đình Tấn chú ý thêm một điều nữa, chính là xe chạy năng lượng là dùng chung với năng lượng lá chắn nên nếu xe bị hết năng lượng, lá chắn cũng sẽ biến mất. Bọn họ phải dừng lại chờ xe nạp điện rồi mới tiếp tục đi được. Nhưng cũng may tiêu tốn năng lượng cũng không nhiều, dựa theo Đình Tấn tính toán một giờ chỉ 100 điểm thôi.
+
+Vậy là cả nhóm ngồi lên trên ván trượt dần dần đi ra khỏi thành trong ánh mắt kinh ngạc, tò mò của nhiều người chơi.
+
+Lúc này, tên Henry đang tu luyện ở bãi quái vật cây ăn thịt Ragora. Xung quanh hắn là hơn trăm người hội viên The Throne đang càn quét các con quái vật, góp nhặt về chút ít điểm kinh nghiệm cho hắn. Chợt, hắn nhận được một tin nhắn mật từ một tên chó săn. Sau khi mở ra xem xong hắn khóe miệng mỉm cười giọng thì thầm:
+
+- Cơ hội cuối cùng cũng đến.
+
+Vung tay ra lệnh cho lão quản gia bên cạnh, sau đó Henry lại tiếp tục tiến vào trạng thái tu luyện. Những tên hội viên xung quanh vẫn tiếp tục hì hục mà đánh quái vật.Một đêm chậm rãi cứ thế trôi qua. 2 lượt Dẻo Dai Cường Hóa, 5 lượt Cơ Bắp Cường Hóa như cũ, sau đó Đình Tấn tu luyện thêm 6 lượt Minh Tưởng Thuật đến sáng. Lại thêm hôm qua buổi chiều, hắn tu luyện được 4 lượt Minh Tưởng Thuật nữa nên Đình Tấn chỉ số có một lần biến động lớn, xem như đã bù đắp cho mấy ngày luyện cấp không thể tu luyện.
+
+---- Thông số ----
+
+Lực lượng: 75
+
+Nhanh nhẹn: 54
+
+Thể lực: 74 (+1)
+
+Tinh thần: 194 (+6)
+
+Điểm tự do: 0
+
+---- Chi tiết ----
+
+Level: 20
+
+HP: 2980/2980 (+5.7/s)
+
+MP: 2879/2879 (+18/s)
+
+EXP: 0/756350
+
+Sát thương vật lý: 75 – 75
+
+Sát thương phép thuật: 260 – 260
+
+Phòng thủ vật lý: 8.7
+
+Phòng thủ pháp thuật: 22
+
+Trang bị hiện tại: 
+
+Áo vải (Đồ xanh)
+
+Mũ da trùm đầu (Đồ trắng)
+
+Sách ma thuật của Gauss (Đồ Đỏ)
+
+Bao tay Nemesis (Đồ Đỏ)
+
+Quần Prometheus (Đồ Đỏ)
+
+Giày Mercuries (Đồ Đỏ)
+
+Áo khoác ma pháp (Đồ Đỏ)
+
+Huy chương lính đánh thuê 
+
+Thuộc tính hiện tại của Đình Tấn đã có thay đổi rất lớn 200 điểm tinh thần đồng nghĩa với việc hắn có thể triệu hồi 22 tên Bộ Xương Chiến Sĩ cùng với 16 tên Tang Thi. Lại thêm chiếc nhẫn bị nguyền rủa hỗ trợ nữa, nghĩ đến đây thôi Đình Tấn đã không nhịn được nôn nóng muốn đi thử nghiệm.
+
+Ôm tâm tình này, hắn nhanh chóng bước xuống lầu gọi cả nhóm Ameerah, David, cùng với Terrell dậy. Hôm nay hắn muốn đến gặp Thành Chủ Albert để hoàn thành nhiệm vụ chức nghiệp phụ.
+
+Rời khỏi nhà đi đến quán ăn, 4 người nhanh chóng làm một bàn ăn sáng thịnh soạn sau đó bước lên đường lớn đi đến Tòa Thị Chính. 
+
+15 phút sau, 4 người đã đứng trước bàn làm việc của Thành Chủ Albert.
+
+- Rất tốt, không ngờ nhanh như vậy đã đạt đến yêu cầu của ta. Thế nhưng đồng đội của ngươi có phải là quá ít không?
+
+Thành Chủ Albert giọng uy nghiêm mà tán thưởng Đình Tấn. Đình Tấn không chậm đáp lại:
+
+- Thưa thành chủ chúng ta muốn làm nhiệm vụ chức nghiệp phụ xin ngài cấp phép. Hoàn thành yêu cầu của chúng ta.
+
+Lúc này Thành Chủ Albert lắc đầu nói:
+
+- Về chức nghiệp phụ, ta thỏa thuận cho ngươi chỉ có 2 người. Ngươi mang đội hôm nay đến 4 người, tha thứ ta không thể thỏa mãn được.
+
+Đình Tấn khuôn mặt có chút bất ngờ, chân mày hơi nhíu lại. Lúc này Thành Chủ Albert lại nói tiếp:
+
+- Thế nhưng… ta có thể thay đổi số lượng người nếu ngươi có thể hoàn thành nhiệm vụ lần này ta giao cho.
+
+Đình Tấn thở phào ra khi nghe được điều kiện này, lập tức mắ nhìn chăm chăm chờ đợi Thành Chủ Albert nói tiếp.
+
+- Doanh trại quân đội đóng quân ở phía Nam đang thiếu đạn dược, lương thực cần phải tiếp tế. Nếu ngươi có thể dẫn đội giúp ta vận chuyển tiếp tế đến nơi, ta sẽ cấp cho ngươi 5 vị trí để học tập nghề nghiệp phụ.
+
+Đình Tấn vui vẻ, có cách giải quyết là tốt rồi. Hắn nghiêm người, hô lớn:
+
+- Xin ngài ra chỉ lệnh. 
+
+Thành Chủ Albert gật đầu nghiêm túc nói:
+
+- Lần này chuyến đi sẽ rất nguy hiểm, các ngươi cần chuẩn bị sung túc đầy đủ dược phẩm thức ăn khôi phục. Nếu có thể thì mang thêm vài người nữa sẽ an toàn hơn. Mang lấy tờ giấy này đi đến kho vũ khí phía nam thành gặp trung úy Ammite hắn sẽ nói chi tiết cho ngươi phần còn lại của nhiệm vụ.
+
+Đình Tấn đưa hai tay tiếp nhận tờ giấy từ tay Thành Chủ Albert. Ngay khi cầm lấy tờ giấy hệ thống âm thanh liền vang lên.
+
+Keng! - Chúc mừng ngài đã nhận được nhiệm vụ “Vận chuyển tiếp tế”.
+
+Nghiêm người chào Thành Chủ Albert một cái. Đình Tấn xoay người dẫn đội bước đi đến địa điểm kho vũ khí mà nhiệm vụ chỉ dẫn. Trên đường đi, thuận tiện cả đội 4 người ghé qua hiệu thuốc và khách sạn để tiếp tế nhu yếu phẩm. Đình Tấn lần này mang 300 bình HP vừa và lượng lớn thức ăn phòng hờ thời gian làm nhiệm vụ quá dài không thể trở về.
+
+Chuyến đi này không biết sẽ phải tiêu tốn thời gian bao lâu nên hắn phải dự trữ sẵn. 3 người David, Ameerah, Terrell cũng tiếp tế hơn 100 bình mỗi loại cùng với thức ăn. Sau đó cả nhóm lại tiếp tục lên đường đi đến kho vũ khí. Từ Tòa Thị Chính đi đến khu phía nam thành tiêu tốn của nhóm người Đình Tấn hơn nửa giờ.
+
+Ở phía nam thành, trong một khu đất rộng lớn có một nhà kho được rào sắt bao vây xung quanh, cách ly hoàn toàn với khu dân cư. Nhà kho xung quanh được nhiều người thủ vệ liên tục tuần tra qua lại. Đình Tấn tiến đến trước cổng rào sắt nơi có 2 người lính thủ vệ chào hỏi:
+
+- Xin chào, ta là đội Lính Đánh Thuê [The Alliance] nhận mệnh lệnh từ Thành Chủ Albert đến đây để gặp ngài Ammite, tiếp nhận vận chuyển nhóm tiếp tế cho doanh trại quân đội phía nam.
+
+- Xin chờ. - Người thủ vệ nghiêm cẩn nói. Sau đó xoay người đi vào bên trong.
+
+Một lúc sau hắn đi ra cùng một người đàn ông trung niên tóc hoa râm, da hơi sạm nắng, dáng người cao to lực lưỡng. Người đàn ông trung niên gương mặt thô to có vài vết sẹo, hướng về Đình Tấn chào.
+
+- Chào ngươi, xin xuất trình giấy chỉ lệnh của Thành Chủ Albert. 
+
+Đình Tấn giao ra tờ giấy thành chủ đưa cho hắn. Tên trung úy Ammite này tiếp nhận tờ giấy sau đó kiểm tra một chút. Nghiêm người chào Đình Tấn lại, rồi nói:
+
+- Xin mời theo ta.
+
+Nói xong hắn xoay người dẫn đầu hướng vào nhà kho bên trong rào sắt đi đến. Vừa đi hắn vừa nói:
+
+- Chúng ta lần này tiếp tế yêu cầu đội Lính Đánh Thuê phải có người cấp A dẫn đội. Các ngươi vừa đủ yêu cầu để nhận nhiệm vụ, thế nhưng ta khuyên các ngươi nên tìm thêm một ít người nữa vì trên đường đi sẽ rất nguy hiểm. 
+
+- Chuyến đi bắt đầu từ EL Thành xuyên qua 20km khu rừng nhiệt đới ở phía nam. Sau đó sẽ đến vùng bình nguyên, các ngươi tiến vào 10km trong vùng bình nguyên thì sẽ đến được một doanh trại lớn nơi quân đội đang trú đóng. Gặp tướng Mark bàn giao tài nguyên tiếp tế cho hắn thì các ngươi hoàn thành nhiệm vụ. 
+
+Lúc hắn nói xong cũng là lúc cả nhóm người đi đến bên trong kho. Nơi đây khá rộng lớn, xung quanh nhiều thùng chứa đạn, pháo cùng các kệ gác súng chất đầy các loại vũ khí nóng. Ở giữa sân trống có một cái ván trượt từ trường rất lớn, ngang 3m dài 5m, đang trôi nổi trên không cách mặt đất hơn 1m. Phía bên trên ván trượt chở lấy nhiều thùng đủ kích cỡ khác nhau, cùng với một bục điều khiển ở phần đuôi ván trượt.
+
+Trung úy Ammite hướng về Đình Tấn giới thiệu:
+
+- Đây là xe ván trượt từ trường chuyên chở vũ khí. Nó có thể vượt mọi địa hình, kèm theo một vòng năng lượng phòng hộ có thể chống đỡ 10.000 lượng sát thương. Năng lượng được nạp lại bằng ánh sáng mặt trời với tốc độ 600 điểm mỗi tiếng. Ở đây là bảng điều khiển phía trên có bản đồ cùng với các lệnh điều khiển.
+
+Nói xong Trung Úy Ammite leo lên 1 cái bục phía trên, đối mặt có một bảng máy tính cảm ứng. Điều khiển khá đơn giản một góc hiển thị con số 10.000, bên cạnh là các nút bấm chạy, tạm dừng. Ở giữa là một bản đồ có đánh dấu vị trí hiện tại và con đường sẽ đi cùng với các loại thông số như khoảng cách, tốc độ.
+
+Đã giải thích xong, lúc này Trung Úy Ammite hướng về Đình Tấn hỏi. 
+
+- Các ngươi chắc chắn với quyết định sẽ đi ngay bây giờ? Ta xin nhắc lại nhiệm vụ này rất nguy hiểm, nhiều người khả năng sẽ gia tăng tỉ lệ thành công của nhiệm vụ. Tiếp tế lần này rất quan trọng, nếu như thất bại các ngươi đội Lính Đánh Thuê sẽ bị trừng phạt rất FUWvHgJK nặng.
+
+Đình Tấn quay lại nhìn 3 người Ameerah, David cùng Terrell rồi hướng Trung úy Ammite gật đầu. Trung Úy Ammite không nói gì, tay giơ lên bấm nút chạy trên bảng điều khiển. Hệ thống âm thanh lập tức vang lên bên tai 4 người.
+
+Keng! - Vận chuyển đã bắt đầu xin hãy cẩn trọng đường đi.
+
+- Cẩn trọng quái vật công kích vì trên xe có rất nhiều lương thực hấp dẫn chúng. Chúc các ngươi thuận buồm xuôi gió.
+
+Trung Úy Ammite mở miệng cảnh báo cho cả đội. Sau đó đứng tại chỗ, nhìn lấy chiếc ván trượt lơ lửng trên không chầm chậm chạy đi. Đình Tấn đứng phía trên bục điều khiển quan sát các thông số, hắn nhận ra tốc độ chậm đến đáng thương. Đoạn đường phải đi cần vượt qua 30km thế nhưng tốc độ này có thể nói là ít nhất hai ngày sau mới đến được doanh trại.
+
+Làm Đình Tấn chú ý thêm một điều nữa, chính là xe chạy năng lượng là dùng chung với năng lượng lá chắn nên nếu xe bị hết năng lượng, lá chắn cũng sẽ biến mất. Bọn họ phải dừng lại chờ xe nạp điện rồi mới tiếp tục đi được. Nhưng cũng may tiêu tốn năng lượng cũng không nhiều, dựa theo Đình Tấn tính toán một giờ chỉ 100 điểm thôi.
+
+Vậy là cả nhóm ngồi lên trên ván trượt dần dần đi ra khỏi thành trong ánh mắt kinh ngạc, tò mò của nhiều người chơi.
+
+Lúc này, tên Henry đang tu luyện ở bãi quái vật cây ăn thịt Ragora. Xung quanh hắn là hơn trăm người hội viên The Throne đang càn quét các con quái vật, góp nhặt về chút ít điểm kinh nghiệm cho hắn. Chợt, hắn nhận được một tin nhắn mật từ một tên chó săn. Sau khi mở ra xem xong hắn khóe miệng mỉm cười giọng thì thầm:
+
+- Cơ hội cuối cùng cũng đến.
+
+Vung tay ra lệnh cho lão quản gia bên cạnh, sau đó Henry lại tiếp tục tiến vào trạng thái tu luyện. Những tên hội viên xung quanh vẫn tiếp tục hì hục mà đánh quái vật.Một đêm chậm rãi cứ thế trôi qua. 2 lượt Dẻo Dai Cường Hóa, 5 lượt Cơ Bắp Cường Hóa như cũ, sau đó Đình Tấn tu luyện thêm 6 lượt Minh Tưởng Thuật đến sáng. Lại thêm hôm qua buổi chiều, hắn tu luyện được 4 lượt Minh Tưởng Thuật nữa nên Đình Tấn chỉ số có một lần biến động lớn, xem như đã bù đắp cho mấy ngày luyện cấp không thể tu luyện.
+
+---- Thông số ----
+
+Lực lượng: 75
+
+Nhanh nhẹn: 54
+
+Thể lực: 74 (+1)
+
+Tinh thần: 194 (+6)
+
+Điểm tự do: 0
+
+---- Chi tiết ----
+
+Level: 20
+
+HP: 2980/2980 (+5.7/s)
+
+MP: 2879/2879 (+18/s)
+
+EXP: 0/756350
+
+Sát thương vật lý: 75 – 75
+
+Sát thương phép thuật: 260 – 260
+
+Phòng thủ vật lý: 8.7
+
+Phòng thủ pháp thuật: 22
+
+Trang bị hiện tại: 
+
+Áo vải (Đồ xanh)
+
+Mũ da trùm đầu (Đồ trắng)
+
+Sách ma thuật của Gauss (Đồ Đỏ)
+
+Bao tay Nemesis (Đồ Đỏ)
+
+Quần Prometheus (Đồ Đỏ)
+
+Giày Mercuries (Đồ Đỏ)
+
+Áo khoác ma pháp (Đồ Đỏ)
+
+Huy chương lính đánh thuê 
+
+Thuộc tính hiện tại của Đình Tấn đã có thay đổi rất lớn 200 điểm tinh thần đồng nghĩa với việc hắn có thể triệu hồi 22 tên Bộ Xương Chiến Sĩ cùng với 16 tên Tang Thi. Lại thêm chiếc nhẫn bị nguyền rủa hỗ trợ nữa, nghĩ đến đây thôi Đình Tấn đã không nhịn được nôn nóng muốn đi thử nghiệm.
+
+Ôm tâm tình này, hắn nhanh chóng bước xuống lầu gọi cả nhóm Ameerah, David, cùng với Terrell dậy. Hôm nay hắn muốn đến gặp Thành Chủ Albert để hoàn thành nhiệm vụ chức nghiệp phụ.
+
+Rời khỏi nhà đi đến quán ăn, 4 người nhanh chóng làm một bàn ăn sáng thịnh soạn sau đó bước lên đường lớn đi đến Tòa Thị Chính. 
+
+15 phút sau, 4 người đã đứng trước bàn làm việc của Thành Chủ Albert.
+
+- Rất tốt, không ngờ nhanh như vậy đã đạt đến yêu cầu của ta. Thế nhưng đồng đội của ngươi có phải là quá ít không?
+
+Thành Chủ Albert giọng uy nghiêm mà tán thưởng Đình Tấn. Đình Tấn không chậm đáp lại:
+
+- Thưa thành chủ chúng ta muốn làm nhiệm vụ chức nghiệp phụ xin ngài cấp phép. Hoàn thành yêu cầu của chúng ta.
+
+Lúc này Thành Chủ Albert lắc đầu nói:
+
+- Về chức nghiệp phụ, ta thỏa thuận cho ngươi chỉ có 2 người. Ngươi mang đội hôm nay đến 4 người, tha thứ ta không thể thỏa mãn được.
+
+Đình Tấn khuôn mặt có chút bất ngờ, chân mày hơi nhíu lại. Lúc này Thành Chủ Albert lại nói tiếp:
+
+- Thế nhưng… ta có thể thay đổi số lượng người nếu ngươi có thể hoàn thành nhiệm vụ lần này ta giao cho.
+
+Đình Tấn thở phào ra khi nghe được điều kiện này, lập tức mắ nhìn chăm chăm chờ đợi Thành Chủ Albert nói tiếp.
+
+- Doanh trại quân đội đóng quân ở phía Nam đang thiếu đạn dược, lương thực cần phải tiếp tế. Nếu ngươi có thể dẫn đội giúp ta vận chuyển tiếp tế đến nơi, ta sẽ cấp cho ngươi 5 vị trí để học tập nghề nghiệp phụ.
+
+Đình Tấn vui vẻ, có cách giải quyết là tốt rồi. Hắn nghiêm người, hô lớn:
+
+- Xin ngài ra chỉ lệnh. 
+
+Thành Chủ Albert gật đầu nghiêm túc nói:
+
+- Lần này chuyến đi sẽ rất nguy hiểm, các ngươi cần chuẩn bị sung túc đầy đủ dược phẩm thức ăn khôi phục. Nếu có thể thì mang thêm vài người nữa sẽ an toàn hơn. Mang lấy tờ giấy này đi đến kho vũ khí phía nam thành gặp trung úy Ammite hắn sẽ nói chi tiết cho ngươi phần còn lại của nhiệm vụ.
+
+Đình Tấn đưa hai tay tiếp nhận tờ giấy từ tay Thành Chủ Albert. Ngay khi cầm lấy tờ giấy hệ thống âm thanh liền vang lên.
+
+Keng! - Chúc mừng ngài đã nhận được nhiệm vụ “Vận chuyển tiếp tế”.
+
+Nghiêm người chào Thành Chủ Albert một cái. Đình Tấn xoay người dẫn đội bước đi đến địa điểm kho vũ khí mà nhiệm vụ chỉ dẫn. Trên đường đi, thuận tiện cả đội 4 người ghé qua hiệu thuốc và khách sạn để tiếp tế nhu yếu phẩm. Đình Tấn lần này mang 300 bình HP vừa và lượng lớn thức ăn phòng hờ thời gian làm nhiệm vụ quá dài không thể trở về.
+
+Chuyến đi này không biết sẽ phải tiêu tốn thời gian bao lâu nên hắn phải dự trữ sẵn. 3 người David, Ameerah, Terrell cũng tiếp tế hơn 100 bình mỗi loại cùng với thức ăn. Sau đó cả nhóm lại tiếp tục lên đường đi đến kho vũ khí. Từ Tòa Thị Chính đi đến khu phía nam thành tiêu tốn của nhóm người Đình Tấn hơn nửa giờ.
+
+Ở phía nam thành, trong một khu đất rộng lớn có một nhà kho được rào sắt bao vây xung quanh, cách ly hoàn toàn với khu dân cư. Nhà kho xung quanh được nhiều người thủ vệ liên tục tuần tra qua lại. Đình Tấn tiến đến trước cổng rào sắt nơi có 2 người lính thủ vệ chào hỏi:
+
+- Xin chào, ta là đội Lính Đánh Thuê [The Alliance] nhận mệnh lệnh từ Thành Chủ Albert đến đây để gặp ngài Ammite, tiếp nhận vận chuyển nhóm tiếp tế cho doanh trại quân đội phía nam.
+
+- Xin chờ. - Người thủ vệ nghiêm cẩn nói. Sau đó xoay người đi vào bên trong.
+
+Một lúc sau hắn đi ra cùng một người đàn ông trung niên tóc hoa râm, da hơi sạm nắng, dáng người cao to lực lưỡng. Người đàn ông trung niên gương mặt thô to có vài vết sẹo, hướng về Đình Tấn chào.
+
+- Chào ngươi, xin xuất trình giấy chỉ lệnh của Thành Chủ Albert. 
+
+Đình Tấn giao ra tờ giấy thành chủ đưa cho hắn. Tên trung úy Ammite này tiếp nhận tờ giấy sau đó kiểm tra một chút. Nghiêm người chào Đình Tấn lại, rồi nói:
+
+- Xin mời theo ta.
+
+Nói xong hắn xoay người dẫn đầu hướng vào nhà kho bên trong rào sắt đi đến. Vừa đi hắn vừa nói:
+
+- Chúng ta lần này tiếp tế yêu cầu đội Lính Đánh Thuê phải có người cấp A dẫn đội. Các ngươi vừa đủ yêu cầu để nhận nhiệm vụ, thế nhưng ta khuyên các ngươi nên tìm thêm một ít người nữa vì trên đường đi sẽ rất nguy hiểm. 
+
+- Chuyến đi bắt đầu từ EL Thành xuyên qua 20km khu rừng nhiệt đới ở phía nam. Sau đó sẽ đến vùng bình nguyên, các ngươi tiến vào 10km trong vùng bình nguyên thì sẽ đến được một doanh trại lớn nơi quân đội đang trú đóng. Gặp tướng Mark bàn giao tài nguyên tiếp tế cho hắn thì các ngươi hoàn thành nhiệm vụ. 
+
+Lúc hắn nói xong cũng là lúc cả nhóm người đi đến bên trong kho. Nơi đây khá rộng lớn, xung quanh nhiều thùng chứa đạn, pháo cùng các kệ gác súng chất đầy các loại vũ khí nóng. Ở giữa sân trống có một cái ván trượt từ trường rất lớn, ngang 3m dài 5m, đang trôi nổi trên không cách mặt đất hơn 1m. Phía bên trên ván trượt chở lấy nhiều thùng đủ kích cỡ khác nhau, cùng với một bục điều khiển ở phần đuôi ván trượt.
+
+Trung úy Ammite hướng về Đình Tấn giới thiệu:
+
+- Đây là xe ván trượt từ trường chuyên chở vũ khí. Nó có thể vượt mọi địa hình, kèm theo một vòng năng lượng phòng hộ có thể chống đỡ 10.000 lượng sát thương. Năng lượng được nạp lại bằng ánh sáng mặt trời với tốc độ 600 điểm mỗi tiếng. Ở đây là bảng điều khiển phía trên có bản đồ cùng với các lệnh điều khiển.
+
+Nói xong Trung Úy Ammite leo lên 1 cái bục phía trên, đối mặt có một bảng máy tính cảm ứng. Điều khiển khá đơn giản một góc hiển thị con số 10.000, bên cạnh là các nút bấm chạy, tạm dừng. Ở giữa là một bản đồ có đánh dấu vị trí hiện tại và con đường sẽ đi cùng với các loại thông số như khoảng cách, tốc độ.
+
+Đã giải thích xong, lúc này Trung Úy Ammite hướng về Đình Tấn hỏi. 
+
+- Các ngươi chắc chắn với quyết định sẽ đi ngay bây giờ? Ta xin nhắc lại nhiệm vụ này rất nguy hiểm, nhiều người khả năng sẽ gia tăng tỉ lệ thành công của nhiệm vụ. Tiếp tế lần này rất quan trọng, nếu như thất bại các ngươi đội Lính Đánh Thuê sẽ bị trừng phạt rất FUWvHgJK nặng.
+
+Đình Tấn quay lại nhìn 3 người Ameerah, David cùng Terrell rồi hướng Trung úy Ammite gật đầu. Trung Úy Ammite không nói gì, tay giơ lên bấm nút chạy trên bảng điều khiển. Hệ thống âm thanh lập tức vang lên bên tai 4 người.
+
+Keng! - Vận chuyển đã bắt đầu xin hãy cẩn trọng đường đi.
+
+- Cẩn trọng quái vật công kích vì trên xe có rất nhiều lương thực hấp dẫn chúng. Chúc các ngươi thuận buồm xuôi gió.
+
+Trung Úy Ammite mở miệng cảnh báo cho cả đội. Sau đó đứng tại chỗ, nhìn lấy chiếc ván trượt lơ lửng trên không chầm chậm chạy đi. Đình Tấn đứng phía trên bục điều khiển quan sát các thông số, hắn nhận ra tốc độ chậm đến đáng thương. Đoạn đường phải đi cần vượt qua 30km thế nhưng tốc độ này có thể nói là ít nhất hai ngày sau mới đến được doanh trại.
+
+Làm Đình Tấn chú ý thêm một điều nữa, chính là xe chạy năng lượng là dùng chung với năng lượng lá chắn nên nếu xe bị hết năng lượng, lá chắn cũng sẽ biến mất. Bọn họ phải dừng lại chờ xe nạp điện rồi mới tiếp tục đi được. Nhưng cũng may tiêu tốn năng lượng cũng không nhiều, dựa theo Đình Tấn tính toán một giờ chỉ 100 điểm thôi.
+
+Vậy là cả nhóm ngồi lên trên ván trượt dần dần đi ra khỏi thành trong ánh mắt kinh ngạc, tò mò của nhiều người chơi.
+
+Lúc này, tên Henry đang tu luyện ở bãi quái vật cây ăn thịt Ragora. Xung quanh hắn là hơn trăm người hội viên The Throne đang càn quét các con quái vật, góp nhặt về chút ít điểm kinh nghiệm cho hắn. Chợt, hắn nhận được một tin nhắn mật từ một tên chó săn. Sau khi mở ra xem xong hắn khóe miệng mỉm cười giọng thì thầm:
+
+- Cơ hội cuối cùng cũng đến.
+
+Vung tay ra lệnh cho lão quản gia bên cạnh, sau đó Henry lại tiếp tục tiến vào trạng thái tu luyện. Những tên hội viên xung quanh vẫn tiếp tục hì hục mà đánh quái vật.

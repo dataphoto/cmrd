@@ -1,0 +1,171 @@
+Bạch Vũ trả lời là, "Bởi vì công chúa đã già, vương tử còn rất trẻ, sợ hắn thay lòng đổi dạ. "
+
+Cái này kỳ thật không có gì đặc biệt tiêu chuẩn đáp án, bởi vì ngươi có thể não đại động mở, nói bất luận cái gì ngươi cảm thấy đáp án chính xác, đối phương đã không có cách nào nói ngươi đúng, cũng không có cách nào nói ngươi sai, chỉ cần đáp án của ngươi phụ họa logic là được.
+
+Chỉ là Bạch Vũ vừa lúc tại trên mạng nhìn qua cái này một đề mà thôi.
+
+Lý Liên Tinh gật gật đầu, ra hiệu Bạch Vũ tiếp tục.
+
+Bạch Vũ suy nghĩ một chút nói.
+
+Có người đi mua hành, hỏi hành bao nhiêu tiền một cân? Bán hành người nói 1 khối tiền 1 cân, đây là 100 cân, tổng cộng 100 nguyên.
+
+Mua hành người lại hỏi: Xanh nhạt cùng xanh tươi tách ra bán không, bán hành người nói: Bán, xanh nhạt 7 cọng lông. Xanh tươi 3 cọng lông.
+
+Sau đó, mua hành người đều mua, xưng xưng xanh nhạt 50 cân, xanh tươi 50 cân. Cuối cùng tính toán xanh nhạt 50* 7 tương đương 35 nguyên, xanh tươi 50* 3 tương đương 15 nguyên. Mua hành người cho bán hành người 50 nguyên liền đi, mà bán hành người nhưng buồn bực , vì cái gì rõ ràng muốn bán 100 nguyên hành, mua hành người làm sao chỉ tốn 50 nguyên liền mua đi đây? Ngươi nói đây là vì cái gì?
+
+Vấn đề này Lý Liên Tinh suy nghĩ một chút cũng phát hiện vấn đề.
+
+Song phương cứ như vậy ngươi tới ta đi ra mấy đạo đề, trong đó hỗn tạp một chút dị thường gian nan, cổ quái kỳ lạ đề mục, nhưng hai người đều đáp đi ra , cũng đều thắng được trận trận tiếng vỗ tay.
+
+Mãi cho đến cuối cùng mấy đề
+
+Bạch Vũ hỏi, "Tại một đầu thông hướng bảo tàng đường đường đá miệng, hai bên các trạm một người. Đã biết trong đó một cái chỉ nói nói thật, một cái chỉ nói lời nói dối, ta nên hỏi cái gì, mới có thể đi đến chính xác bảo tàng đường đâu?"
+
+Cái này đề cũng bị Lý Liên Tinh đáp đi ra.
+
+Lý Liên Tinh lại ra một đạo.
+
+5 cái hải tặc cướp được 100 viên kim tệ, rút thăm quyết định mọi người 1 đến 5 dãy số.
+
+Đầu tiên, từ số 1 đưa ra phân phối phương án, sau đó mọi người tiến hành biểu quyết, làm nhiều hơn phân nửa người đồng ý lúc (bao quát một nửa) , dựa theo hắn đề án tiến hành phân phối, nếu không hắn đem bị ném vào biển cả cho cá mập ăn.
+
+Nếu như số 1 sau khi chết, lại từ số 2 đưa ra phân phối phương án, sau đó mọi người 4 người tiến hành biểu quyết, làm lại vẻn vẹn làm một nửa hoặc vượt qua một nửa người đồng ý lúc, dựa theo hắn đề án tiến hành phân phối, nếu không đem bị ném vào biển cả cho cá mập ăn.
+
+Theo thứ tự suy ra...
+
+Mỗi cái hải tặc đều là người rất thông minh, đều có thể rất lý trí phán đoán được mất, từ đó làm ra lựa chọn.
+
+Xin hỏi, cái thứ nhất hải tặc đưa ra như thế nào phân phối phương án mới có thể làm mình ích lợi tối đại hóa?
+
+Bạch Vũ trở về câu, số 1 chỉ dùng cho số 3, số 5 các 1 viên kim tệ, mình cầm 98 viên kim tệ là được rồi.
+
+Nói xong không đợi Lý Liên Tinh trả lời, đã trực tiếp đi lên đài, tại trên bảng đen bắt đầu vẽ tranh .
+
+Hạ Tân thấp giọng hỏi hướng bên cạnh Chúc Hiểu Huyên nói, " ngươi hiểu không?"
+
+Chúc Hiểu Huyên tức giận trả lời, "Đương nhiên hiểu."
+
+Hạ Tân còn muốn cho nàng giảng giải xuống . Cũng chỉ có thể từ bỏ .
+
+Sau đó, Bạch Vũ tiếp lấy ra đạo này đề có thể lợi hại.
+
+Chỉ gặp hắn tại trên bảng đen lấy xuống một cái to lớn hình vuông, sau đó đem hình vuông mỗi đường nét phân thất đẳng, phân biệt tại cảng vẽ một điểm đen.
+
+Tức lằn ngang lên điểm là a, B. c, D, E,f,g,h điểm, dựng thẳng xuống điểm là a, B',c', D', E',f',g',h', lại tại đối diện đường lên cũng vẽ lên giống nhau điểm, tổng cộng 28 cái điểm.
+
+Sau đó về sau, từ mỗi điểm dọc theo đi phân biệt đồng dạng đường nét , liên tiếp lên cái khác 27 cái điểm.
+
+Một mực vẽ lấy vẽ lấy. Họa dưới đáy nhìn mắt người đều lộn xộn , cuối cùng viết xuống một câu, xin hỏi: Xin hỏi nơi này có bao nhiêu góc vuông hình tam giác.
+
+Này đề mới ra, toàn bộ hội trường đều sôi trào.
+
+Nói như vậy, đây chính là trận hình vuông thượng đẳng bên cạnh cách 28 cái điểm, phân biệt cùng cái khác 27 cái điểm nối liền, ở giữa đường tung hoành phân bố, lít nha lít nhít lẫn nhau giao thoa cùng mạng nhện, mắt thường cơ hồ đều không phân rõ , quỷ mới biết bên trong có bao nhiêu góc vuông hình tam giác.
+
+"Ta dựa vào. Cái này đề biến thái như vậy?"
+
+"Có lầm hay không?"
+
+"Đây là người có thể tính ra? Này làm sao tính?"
+
+"Đây chỉ có Thượng Đế mới biết."
+
+"Ta đoán chừng phải cầm cái kính hiển vi đến xem, Elise đều kết không ra cái lưới này a."
+
+"Đây là người sao?"
+
+Dưới đáy là một trận sóng to gió lớn.
+
+Liền Lý Liên Tinh cũng là sắc mặt cứng ngắc nhìn chằm chằm cái này lít nha lít nhít cùng mạng nhện giống như đồ chơi, hoàn toàn nói không nên lời, mặc dù biết là từ từng cái điểm dọc theo đi , có thể trời mới biết tính thế nào góc vuông hình tam giác. Trong này có có hơn mấy trăm cái đường thẳng.
+
+Một đống người, liền thấy Lý Liên Tinh đi vào Bạch Vũ bên người, ngơ ngác đứng tại đồ hình trước, chăm chú nhìn nửa ngày, sửng sốt không có thể nói ra lời nói tới.
+
+Cuối cùng toát ra một câu, "Được rồi, ta từ bỏ , con mắt ta đều nhìn bỏ ra."
+
+Lý Liên Tinh quyết định trân quý chính mình con mắt.
+
+Tại Bạch Vũ viết ra đáp án về sau, dưới đáy vang lên cho đến nay nhiệt liệt nhất tiếng vỗ tay.
+
+Liền phía trước mấy cái lão sư, cũng vì Bạch Vũ trống chưởng.
+
+Trận đầu so tài. Cuối cùng lấy Bạch Vũ chiến thắng.
+
+Điều này cũng làm cho Hạ Tân yên tâm, thầm nghĩ lão tam quả nhiên là có có chút tài năng , khó trách cố ý đem ưu thế để mất, chỉ vì cùng Lý Liên Tinh công bằng quyết đấu.
+
+Hắn thắng quang minh chính đại, làm cho đối phương thua tâm phục khẩu phục. Bạch Vũ tự tin mình có thực lực này.
+
+Hắn cũng quả thật làm cho tất cả người xem nhìn thấy hắn thực lực.
+
+Hạ Tân chính suy tư đâu, liền bị Chúc Hiểu Huyên kéo lên đi nói lời xã giao.
+
+"Tốt, kinh lịch khẩn trương kích thích hiệp một tranh tài, hiện tại là Bạch hội trưởng trước thắng một bậc, mọi người có phải là nhìn rất đã đâu, như vậy để chúng ta nghỉ ngơi một lát."
+
+Hạ Tân bổ sung một câu, "Quảng cáo về sau, càng thêm đặc sắc."
+
+Vừa nói xong, liền gây nên dưới đài một trận khen ngược thanh âm.
+
+"Tiếp tục, tiếp tục."
+
+"Đặc sắc đây, nghỉ ngơi cái gì."
+
+"Nhanh một chút."
+
+Liền kém không đối Hạ Tân mất trứng gà vỏ chuối .
+
+Hạ Tân còn muốn lấy để Bạch Vũ nghỉ ngơi một chút đâu.
+
+Bạch Vũ đi vào Hạ Tân bên người nhỏ giọng nói câu, "Ta có thể tiếp tục, không cần nghỉ ngơi."
+
+"A, không cần uống nước sao?"
+
+"Không có việc gì, "Bạch Vũ cười cười ôn hòa.
+
+Kỳ thật, hắn đã nói miệng đắng lưỡi khô , trí lực trò chơi cũng tương đối hao tổn não.
+
+Bất quá, người xem nhiệt tình như vậy, hắn lựa chọn tiếp tục.
+
+Bởi vì hai người thanh âm đều là thông qua Microphone trực tiếp phát thanh đi ra , cái này lập tức để Bạch Vũ nhân khí tăng vọt, thắng được dưới đài không ít người hảo cảm.
+
+Lý Liên Tinh đương nhiên không thể để cho một mình hắn làm náo động, mặc dù có chút ảo não mình thua, bất quá, hắn không hoảng hốt, tận lực bồi tiếp hắn hiệp .
+
+Hắn cũng tới đến Hạ Tân bên người nói câu, "Vậy ta cũng tiếp tục, không sao."
+
+Hạ Tân rất muốn nói, ai quản ngươi a.
+
+Việc đã đến nước này, hắn cũng không thể nói cái gì , đập Bạch Vũ bả vai nói, "Cố lên."
+
+Sau đó hướng về phía dưới đài lớn tiếng tuyên bố, ", tiếp tục tranh tài."
+
+Tiếp xuống, chính là Lý Liên Tinh ra đề.
+
+Không cần nghĩ, Hạ Tân cũng biết. Con hàng này sẽ không ra cái gì công bằng đề , nhưng Bạch Vũ cũng không phải dễ dàng như vậy sống chung .
+
+Hạ Tân đối với Bạch Vũ còn là có lòng tin.
+
+Liền thấy Lý Liên Tinh một mặt cười đắc ý nói, "Vừa mới chúng ta liều mạng trí đúng không, đón lấy, chúng ta liền so tài một chút dũng đi, một cái tốt hội trưởng hội học sinh, nhất định phải có can đảm đối mặt bất kỳ khó khăn, phải có có can đảm cùng bất luận cái gì ác thế lực làm đấu tranh dũng khí, dù là, ngươi cần đối mặt thảm đạm nhân sinh. Cần nhìn thẳng vào lâm ly hiến máu!"
+
+"Đề mục của ta cũng rất đơn giản, ngươi có lẽ đều nghe qua, nhưng ta cần ngươi cho ta cái đáp án rõ ràng."
+
+"Hiện tại, ngươi lái một cỗ thông hướng trung tâm thành phố bệnh viện nhân dân xe lửa, tình huống tương đương nguy cấp, trên xe lửa có vượt qua 10 cái trọng thương bệnh nhân chờ sốt ruột cứu, ngươi chỉ cần dừng lại xe lửa, liền sẽ để bọn hắn không kịp cấp cứu, mà mất đi Máu, sau đó, tại phía trước ngươi xuất hiện một đạo chỗ ngã ba."
+
+"Tại chỗ ngã ba, chính xác con đường lên, có 5 cái 10 đến tuổi tiểu hài tử, uổng Cố đại nhân, mệnh lệnh của lão sư, tại trên đường ray chơi bóng da, mà tại sai lầm trên đường, kia là vứt bỏ đường sắt, có 1 cái tiểu hài tử nghe theo lão sư tại mệnh lệnh, tại vứt bỏ đường sắt lên chơi."
+
+"Hiện tại, xe lửa tiếp cận chỗ ngã ba, xin hỏi, ngươi hội lựa chọn thế nào?"
+
+"Đây là" Hạ Tân hơi nhíu cau mày, hắn nhớ rõ, cái này đề Ức Toa cũng thi qua hắn.
+
+Lúc ấy, hắn lựa chọn xe lửa vượt quá giới hạn.
+
+Bởi vì, Hạ Tân chính là người như vậy, hắn không có cách nào tuyển chọn tổn thương bất cứ người nào, hắn tình nguyện thương tổn tới mình, dù là. Xe lửa vượt quá giới hạn mình sẽ chết, hắn cũng tuyệt đối sẽ không nghiền ép hài tử qua đi.
+
+Nhưng, Lý Liên Tinh đề mục này có chút không đồng dạng, mặc kệ Bạch Vũ là lựa chọn xe lửa vượt quá giới hạn, còn là xe lửa dừng lại, hắn đều muốn hại tử hỏa trên xe 10 cái chờ sốt ruột cứu người.
+
+Ở đây, hắn nhất định phải làm ra một lựa chọn khó khăn.
+
+Hạ Tân thoáng tưởng xuống liền phát hiện , đề mục này có vấn đề, mặc kệ Bạch Vũ lựa chọn như thế nào, hắn đều là sai, là chú định không có khả năng thắng .
+
+Dũng khí, không phải giết người lấy cớ.
+
+Đáp án giữ tại Lý Liên Tinh trong tay.
+
+Dưới đáy lập tức náo nhiệt, một đống người đều tại nghị luận ầm ĩ, sau đó, tuyệt đại bộ phận người đều trận ánh mắt ném đến một mặt ngưng trọng Bạch Vũ trên mặt, chờ lấy câu trả lời của hắn!
