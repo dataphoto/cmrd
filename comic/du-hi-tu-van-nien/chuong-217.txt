@@ -1,0 +1,111 @@
+###Quyển 6: Thắng lợi bắt đầu từ mộ địa
+
+	( sương mù binh doanh (cỡ lớn bản vẽ) )
+
+	( đẳng cấp: lv1 hạn mức cao nhất lv3 )
+
+	( phẩm chất: Màu tím )
+
+	( thuộc tính: Âm thuộc tính, thực vật thuộc tính, vong linh thuộc tính )
+
+	( nhu cầu: lv1 vật tư 450 đơn vị, trong đó màu tím đã ngoài vật tư 150 đơn vị, màu lam phẩm chất vật tư 300 đơn vị )
+
+	( phụ thuộc kiến trúc: Sương mù mê cung (binh doanh tự mang bộ đội +1), rừng rậm sân huấn luyện (bộ đội huấn luyện hiệu quả +1), ẩn dấu tế đàn (bộ đội tăng hiệu quả +3), nhàn rỗi phụ thuộc kiến trúc hai nơi )
+
+	Liếc nhìn vừa mới tới tay kiến trúc bản vẽ, Liễu Tông vấn Lữ Thượng đạo: "Acara không nói gì sao?"
+
+	Lữ Thượng khẳng định gật đầu, "Nàng có nói nàng chỉ có thể an bài Kurast người lùn không cùng chúng ta đối kháng, nhưng không thể an bài bọn họ trợ giúp chúng ta chiến đấu, hơn nữa bởi nàng cần bế quan, chỗ đó của nàng đem bị phong cấm, ba tháng sau đem là người của chúng ta một lần cuối cùng tiến nhập vậy cánh rừng."
+
+	Liễu Tông thở dài, "Xem ra hệ thống cũng chú ý tới tình huống của bên này."
+
+	Than thở xong sau, Liễu Tông lại bắt đầu liếc nhìn Acara cho ra cái khác mấy món đồ, Hứa Anh bọn họ chiếm được cái gì, Liễu Tông là không biết, bất quá Acara trả lại cho Liễu Tông ba tấm màu lam bản vẽ, một tấm lv2, hai tấm lv3 tất cả đều là kiến trúc bản vẽ.
+
+	( U Linh hoa nhà thảo dược (loại nhỏ bản vẽ) )
+
+	( đẳng cấp: lv1 hạn mức cao nhất lv3 )
+
+	( phẩm chất: Màu lam )
+
+	( thuộc tính: Âm thuộc tính, thực vật thuộc tính, vong linh thuộc tính )
+
+	( nhu cầu: lv1 vật tư 150 đơn vị, trong đó màu tím đã ngoài vật tư 25 đơn vị, màu lam phẩm chất vật tư 50 đơn vị, màu lục phẩm chất vật tư 75 đơn vị )
+
+	( phụ thuộc kiến trúc: U Linh hoa tùng (có thể an bài 25 tên chỉ định chủng tộc vong linh tiến nhập, phụ trách vườn thuốc cùng thảo dược địa mạch trồng cùng thu hoạch), thảo dược phòng nhỏ (có thể an bài 1 tên chỉ định vong linh tôi tớ tiến nhập, phụ trách trồng chỉ định thuộc tính hoặc chỉ định chủng loại thảo dược), nhàn rỗi phụ thuộc kiến trúc một chỗ )
+
+	( yên tĩnh phòng bếp (cỡ trung bản vẽ) )
+
+	( đẳng cấp: lv1 hạn mức cao nhất lv2 )
+
+	( phẩm chất: Màu lam )
+
+	( thuộc tính: Thực vật thuộc tính, vong linh thuộc tính )
+
+	( nhu cầu lv1 vật tư 300 đơn vị, trong đó màu tím đã ngoài vật tư 50 đơn vị, màu lam phẩm chất vật tư 100 đơn vị, màu lục phẩm chất vật tư 150 đơn vị )
+
+	( phụ thuộc kiến trúc: Phun ra nuốt vào chi nồi (có thể đồng thời giữ ấm đôn nấu 9 chủng loại bất đồng thức ăn), xấu xa nồi lớn (vì 3 chi vong linh bộ đội cung cấp mang thuộc tính thức ăn), nhàn rỗi phụ thuộc kiến trúc một chỗ )
+
+	( Quỷ Hỏa xưởng công binh (cỡ lớn bản vẽ) )
+
+	( đẳng cấp: lv1 hạn mức cao nhất lv3 )
+
+	( phẩm chất: Màu lam )
+
+	( thuộc tính: Vong linh thuộc tính, âm thuộc tính )
+
+	( nhu cầu: lv1 vật tư 450 đơn vị, trong đó màu tím đã ngoài vật tư 75 đơn vị, màu lam phẩm chất vật tư 150 đơn vị, màu lục phẩm chất vật tư 225 đơn vị )
+
+	( phụ thuộc kiến trúc: Quỷ Hỏa lò luyện (bộ đội thay đổi quần áo tốc độ +1), tiểu thiết chiên (vong linh tôi tớ trang bị thuộc tính +15%), nhàn rỗi phụ thuộc kiến trúc một chỗ )
+
+	Ngoài ra trang bị mảnh nhỏ vừa lúc có thể chắp vá thành hai kiện lv2 màu lam trang bị, một cái là áo choàng đối ứng Liễu Tông Thương Long cứ điểm Hắc Ám Thiên Mạc hiệu quả, một khác món là Long đầu giáp, là cho Minh giới Tường Long mặc, có thể tăng Minh giới Tường Long cắn xé năng lực.
+
+	( Hắc Ám Thiên Mạc áo choàng) )
+
+	( phẩm chất: lv2(màu lam   áo choàng) )
+
+	( thuộc tính: +2 thể chất, +2 tinh thần )
+
+	( trang bị đặc tính: Sương mù (phóng xuất Hắc Ám Thiên Mạc, 10 mét bên ngoài không cách nào tập trung trang bị người) )
+
+	( trang bị đẳng cấp: lv2 )
+
+	( giải thích: Acara đem bản thân sương trắng lĩnh vực sức mạnh dung nhập vào Hắc Ám Thiên Mạc giữa. )
+
+	( U Linh hoa Long Lân giáp (Long đầu) )
+
+	( phẩm chất: lv2(màu lam) )
+
+	( thuộc tính: +1 sức mạnh, +1 nhanh nhẹn, +1 thể chất )
+
+	( trang bị đặc tính: Cắn xé (tăng cường Long loại sinh vật cắn xé năng lực) )
+
+	( trang bị chức nghiệp: Hình rồng sinh vật )
+
+	( trang bị đẳng cấp: lv2 )
+
+	Ở Liễu Tông liếc nhìn những thứ này lúc, Lữ Thượng cũng từ Liễu Tông lời trong phản ứng kịp, hắn có chút thật không dám tin tưởng mà hỏi thăm: "Bọn họ thật sự dự định làm như vậy, ta còn tưởng rằng đây chỉ là lời đồn đãi."
+
+	"Vậy ngươi cũng phải nhìn lời đồn đãi là từ đâu trong truyền tới, ở ngươi trở về sở hoa trong vòng một ngày, ta đã bị ba vị trực tuần quan hẹn nói chuyện, hơn nữa ngươi không phát hiện, lời đồn đãi sau khi truyền ra, nhanh chóng có mới lời đồn đãi truyền ra, rất nhiều đều là nhằm vào cộng minh hổ phách đi, một ít cộng minh hổ phách thuộc tính đều bị truyền ra ngoài, điều này nói rõ cái gì?"
+
+	Liễu Tông lời khiến cho Lữ Thượng rơi vào trầm tư, "Ý của ngươi là, bọn họ muốn cho Trung Học số Hai người đem lực chú ý đều tập trung ở cộng minh hổ phách trên?"
+
+	"Đúng vậy, hơn nữa ngươi cũng đã nghe được, từ hôm qua khởi, rất nhiều nhiệm vụ cũng thay đổi." Liễu Tông lại nói một câu.
+
+	Lữ Thượng rất nghiêm túc gật đầu, "Ta nhìn một chút nhiệm vụ, bọn họ dường như tạm thời ngừng đối npc đề thăng, chính đang toàn lực xây cứ điểm, lấy tình huống hiện tại đến xem, khoảng chừng chỉ cần ba. . . Ba tháng nhiều một chút thời gian, cứ điểm sẽ hoàn thành, chúng ta bên này nói trước đã hơn một năm, có thể mở ra trung lập khu vực bản đồ?"
+
+	Liễu Tông không trả lời Lữ Thượng lời, chỉ là hơi gật đầu, vẻ mặt đây là ngươi đoán được vẻ mặt.
+
+	"Như vậy kế hoạch lần này, áp lực liền rơi vào trên người ngươi?" Lữ Thượng vẻ mặt không tin nhìn Liễu Tông, "Ngươi có thể không tham dự. Ngươi đã lấy được cộng minh hổ phách, hổ phách quang này nhiệm vụ sau khi hoàn thành, ngươi đối trường học cống hiến đã vượt ra khỏi những người khác, bọn họ không có lý do gì cưỡng ép ngươi."
+
+	"Đúng vậy a, bọn họ cũng không ép buộc ta, bọn họ lấy ra ta không cách nào cự tuyệt điều kiện, chỉ cần ta đáp ứng cũng cố gắng đi hoàn thành này nhiệm vụ, bọn họ sắp xuất hiện bản vẽ, giúp ta đem ngoại thành khu mười hai cá vị trí tất cả lắp đặt lên ta muốn thứ, tuy rằng không có biện pháp bảo chứng tất cả đều có thăng cấp lv2 khả năng, nhưng bọn hắn có thể bảo chứng tất cả đều là lv1 màu tím kiến trúc, quan trọng nhất chính là kiến trúc tài liệu từ bọn họ cung cấp, trong vòng ba tháng hoàn thành."
+
+	Nói đến đây, Liễu Tông nhún vai, "Mặt khác này tháng trong, ta sẽ tiến hành tử vong khôi phục, đang khôi phục‘ trong lúc, ta sẽ tới trường học diễn đàn cùng một chút cao nhân nghiên cứu, nhìn có phương pháp gì có thể ở thời gian ngắn nhất trong, đem trên tay ta vong linh bộ đội tất cả bổ sung đầy đủ hết.
+
+	Dù cho không có cách nào ở trước tiên đề thăng tới lv1, ta cũng nhất định phải bảo chứng vong linh bộ đội nhân số."
+
+	Lữ Thượng lúc này mới nhớ tới, Liễu Tông trước không có lo lắng vong linh bộ đội sự tình, là bởi vì hắn đối với vong linh bộ đội có điều yêu cầu, hắn cũng không cần những kia thông thường vong linh, hắn cần phải có đặc điểm vong linh bộ đội tới bảo chứng hắn Thương Long cứ điểm an toàn.
+
+	Lúc trước thời gian mấy tháng trong, Liễu Tông mỗi ngày lúc nghỉ ngơi, đều ở đó cầm bản ghi chép viết viết vẽ một chút, suy tính vong linh bộ đội nơi phát ra cùng cường hóa phương hướng.
+
+	Bất quá thẳng đến cuối cùng Liễu Tông cũng không có làm ra lựa chọn cuối cùng.
+
+	Nghĩ đến ở sau này ba tháng trong, Liễu Tông cần phải làm là chuyện này, hắn nhất định phải vì mình Thương Long cứ điểm tuyển chọn ra tương ứng bộ đội, này nhất định phải chính hắn đưa ra yêu cầu, bởi vì trừ hắn ra không ai sẽ đối với Thương Long cứ điểm có quá nhiều lý giải, chỉ có hắn mới biết được Thương Long cứ điểm cần gì dạng bộ đội.

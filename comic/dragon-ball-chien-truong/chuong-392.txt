@@ -1,0 +1,153 @@
+[ số hiệu N2199 chiến đấu viên trạng thái: ]
+
+	[ sức chiến đấu đáng giá: 30046 vạn +30400 vạn ]
+
+	[ chiến đấu viên huyết thống: Sơ đại Xên Bọ Hung ]
+
+	[ sức chiến đấu hạn: 10 ức (đặc biệt ngoại trừ)]
+
+	[ tốc độ tu luyện: S+(đặc biệt ngoại trừ)]
+
+	...
+
+	...
+
+	[ năng lực đặc thù: Hành tinh Namek tự lành năng lực, vũ trụ sinh tồn năng lực, hấp thu loài người năng lực, hấp thu người nhân tạo tiến hóa năng lực;PS: Căn cứ vào phó bản bổ sung quy định, có 【 Xên Bọ Hung huyết thống 】 chiến đấu viên, tương không cụ bị 【 nội hạch vô hạn tái sinh năng lực 】 cùng với 【 sắp chết sống lại sức chiến đấu tăng lên năng lực 】]
+
+	...
+
+	Nhìn mình lúc này trạng thái lan, Hàn Chính thật là nửa mừng nửa hận.
+
+	Hỉ đương nhiên là bản thân thành công thăng cấp huyết thống, tự thân khắp mọi mặt đều có đại phúc tăng lên ——
+
+	Trừ sức chiến đấu gấp bội ngoại, sức chiến đấu thượng hạn cũng đạt tới 10 ức cái này một con số, đồng thời tốc độ tu luyện cũng tiến hơn một bước.
+
+	Mà oán mà...
+
+	Dĩ nhiên chính là chiến trường đối với 【 Xên Bọ Hung huyết thống 】 suy yếu... 【 nội hạch vô hạn tái sinh 】 cùng 【 sắp chết sống lại 】 hai thứ này bản thân chính là BUG, phối hợp lại chính là siêu cấp BUG năng lực, rốt cuộc vẫn bị chiến trường thiết định vô tình giết chết...
+
+	Bất quá, ở chỗ này trước, Hàn Chính đối với lần này đã có quá dự liệu, cũng từng nghe người nhắc qua —— cái này hai hạng năng lực, là nhất định phải bị tước giảm.
+
+	Nhất là 【 nội hạch vô hạn tái sinh 】, ở nguyên kịch tình trung, Xên Bọ Hung mất đi 18 số sau, hắn đầu tiên là tự bạo, ngay sau đó thông qua nữa nội hạch tái sinh sống lại, kết quả lại còn có thể biến thành hoàn toàn thể...
+
+	Hơn nữa, hắn không chỉ là khôi phục hoàn toàn thể, thậm chí còn bằng vào 【 sắp chết sống lại 】, trực tiếp từ hoàn toàn thể trạng thái tấn thăng làm chớp nhoáng trạng thái, thật sự là quá mức BUG...
+
+	Hàn Chính ở bên trong tâm nhạo báng rủa xả mấy câu sau, liền không nữa đi suy nghĩ nhiều những thứ này, ngược lại cẩn thận kiểm tra khởi trước mắt bản thân cho phép thi triển năng lực đặc thù ——
+
+	[ năng lực đặc thù: Hành tinh Namek tự lành năng lực ]
+
+	[ năng lực người cầm được: Người Namek, Xên Bọ Hung ]
+
+	[ công hiệu: Năng lực người ở gặp công kích tổn thương lúc, khả bằng vào năng lực này, nhanh chóng chữa khỏi bản thân bị tổn thương, sử bản thân thân thể khôi phục khỏe mạnh trạng thái ]
+
+	[ năng lực hạn chế: Mỗi lần sử dụng, cũng cần tiêu hao khí lực, khí lực hao hết tương không cách nào thi triển ]
+
+	[ nhiều hơn nói rõ: Chỉ cần đầu giữ vững đầy đủ, thân thể còn lại bất kỳ bộ vị gặp trình độ nào hư mất tổn thương, đều khả tự lành ]
+
+	...
+
+	[ năng lực đặc thù: Vũ trụ sinh tồn năng lực ]
+
+	[ năng lực người cầm được: Frost Demon, Xên Bọ Hung, Ma Bư vân vân ]
+
+	[ công hiệu: Năng lực người có thể có thể bằng vào năng lực này, tự do ở vũ trụ gian sinh tồn, không nữa lệ thuộc với hành tinh tầng khí quyển, phóng bay tự mình, mại hướng mênh mông ngân hà ]
+
+	[ năng lực hạn chế: Tuy nói có thể không cần hô hấp, nhưng cơm hay là muốn ăn ]
+
+	[ nhiều hơn nói rõ: Bất quá, giống vậy gồm có người Namek tế bào Xên Bọ Hung, liên ăn cơm cũng là có thể tỉnh lược rơi ]
+
+	...
+
+	[ năng lực đặc thù: Hấp thu loài người năng lực ]
+
+	[ năng lực người cầm được: Xên Bọ Hung ]
+
+	[ công hiệu: Năng lực người khả dựa vào cái đuôi, đem hắn người thân thể toàn bộ hấp thu, cũng lấy thử lấy được năng lượng bổ sung, sức chiến đấu tăng trưởng, cùng với nhiều hơn kỹ năng và năng lực ]
+
+	[ năng lực hạn chế: Dựa vào hấp thu tăng trưởng tới sức chiến đấu, bị sức chiến đấu thượng hạn ước thúc ]
+
+	[ nhiều hơn nói rõ: Bị 【 phó bản tăng lên hạn chế 】 ảnh hưởng, năng lực người hấp thu tới sức chiến đấu, kỹ năng, năng lực, chỉ giới hạn ở ở nên phó bản trung sử dụng, rời đi phó bản sau, hấp thu tới sức chiến đấu tương bị đổi mới dọn dẹp; đồng thời, thi triển năng lực này lúc, cần năng lực người thiết đổi trở về 【 huyết thống hình thái 】]
+
+	...
+
+	[ năng lực đặc thù: Hấp thu người nhân tạo tiến hóa năng lực ]
+
+	[ năng lực người cầm được: Xên Bọ Hung ]
+
+	[ công hiệu: Năng lực người có thể bằng vào cái đuôi, tương trọng yếu phó bản nhân vật —— người nhân tạo 17/18 số tiến hành hấp thu, hấp thu phía sau một người khả tiến hóa thành 【 nhị đại Xên Bọ Hung 】 hình thái, hấp thu hai người sau, khả tiến hóa thành 【 hoàn toàn thể 】 hình thái ]
+
+	[ năng lực hạn chế: Chỉ hạn hấp thu phó bản nhân vật, không thể hấp thu 【 người nhân tạo 17/18 huyết thống 】 chiến đấu viên ]
+
+	[ nhiều hơn nói rõ: Bị 【 phó bản tăng lên hạn chế 】 ảnh hưởng,
+
+	Năng lực người dựa vào hấp thu người nhân tạo mà lấy được thăng cấp trạng thái, chỉ giới hạn ở ở nên phó bản trung sử dụng, rời đi phó bản sau, chiến đấu viên trạng thái cùng với sức chiến đấu tương bị đổi mới trở về nguyên dạng; đồng thời, thi triển năng lực này lúc, cần năng lực người thiết đổi trở về 【 huyết thống hình thái 】]
+
+	...
+
+	Tự tiến vào phó bản tới nay, Hàn Chính hay là đầu một lần ở trạng thái của mình lan trong, thấy nhiều như vậy 【 năng lực đặc thù 】.
+
+	Ước chừng bốn hạng năng lực, Hàn Chính từ đầu tới đuôi, tới tới lui lui nhìn nhiều lần.
+
+	Đối với trước hai hạng năng lực, Hàn Chính trong lòng vốn liền nắm chắc, bản thân trước kia dù sao cũng gặp gỡ quá rất nhiều người Namek cùng Frost Demon, đối với 【 tự lành tái sinh 】 cùng 【 vũ trụ sinh tồn 】 cái này hai hạng năng lực, cũng đều có rất sâu hiểu.
+
+	Về phần sau hai hạng dành riêng cho Xên Bọ Hung năng lực, Hàn Chính trước cũng có sở nghe nói.
+
+	Giống như người Saya 【 sắp chết sống lại 】 vậy, Xên Bọ Hung hấp thu năng lực, cũng phải bị 【 phó bản nhắc nhở hạn chế 】 ước thúc.
+
+	Vô luận ở phó bản trung thế nào hấp thu, thế nào tiến hóa, đều là giới hạn nên vòng phó bản, không cụ bị vĩnh cửu tính.
+
+	Nhưng bất kể như thế nào, phó bản đúng là vẫn còn cho phép 【 Xên Bọ Hung huyết thống 】 chiến đấu viên đi hấp thu 【 người nhân tạo 】 phó bản nhân vật, cứ như vậy, hay là cho mình loại này huyết thống, lưu lại cực lớn ưu thế cùng phát huy không gian.
+
+	Suy nghĩ một chút, chỉ cần có thể ở phó bản trung thành công hấp thu hết 17 số hoặc là 18 số, bản thân liền có thể từ 【 sơ đại Xên Bọ Hung 】 lên cấp vì 【 nhị đại Xên Bọ Hung 】 thậm chí là 【 hoàn toàn thể Xên Bọ Hung 】.
+
+	Lên cấp sau sức chiến đấu, tự nhiên sẽ hết sức tăng lên, rất dễ dàng địa là được chúa tể toàn bộ phó bản.
+
+	Hơn nữa, cho dù phó bản thời gian tuyến trung, không có 17 cùng với 18 tồn tại, hay hoặc là cái này hai tên người nhân tạo bị còn lại chiến đấu viên trước hạn giết chết; bản thân cũng như cũ có biện pháp!
+
+	Lúc này bản thân, đã có 【 cỗ máy thời gian 】 nơi tay, chỉ cần có 【 cỗ máy thời gian 】, tìm 17 số cùng 18 số, tương nếu không là vấn đề gì!
+
+	Hàn Chính mở ra trạng thái của mình lan, qua lại nhìn đã lâu mới đưa kỳ đóng cửa.
+
+	Giày vò thời gian lâu như vậy, 【 cấp thấp tràng 】 8 mạnh tái cũng sắp bắt đầu, Hàn Chính ăn đại một miếng cơm, liền nhanh chóng ra nhà, chạy tới lộ thiên lôi đài tỷ võ cạnh, ghi tạc người trong đống chuẩn bị xem cuộc chiến.
+
+	Rất nhanh, 8 mạnh tái liền chính là đánh vang!
+
+	Lần này, Tôn Dục Càn lại không có giao cho cái gì may mắn, trải qua rút thăm sau, hắn ở vòng thứ nhất trung liền gặp gỡ cực mạnh đối thủ, bất quá hai chiêu thời gian, liền bị đối thủ đánh rớt lôi đài, dừng bước tứ kết.
+
+	Mặc dù không có thể tiến hơn một bước, nhưng có thể lấy được như vậy thành tích, đã rất vượt quá Tôn Dục Càn dự trù.
+
+	Mà khi hắn đi trở về đến bản thân đội hữu bên người lúc, cũng là nghênh đón trận trận hoan hô khích lệ tiếng.
+
+	Chỉ dùng nửa ngày thời gian, 【 cấp thấp tràng 】 8 mạnh tái liền chính thức chung kết, một kẻ đến từ 【 Bạo Phong binh đoàn 】 chiến đấu viên, chém lấy được 【 cấp thấp tràng 】 vô địch.
+
+	Đến đây, lần này 【 đại hội võ thuật 】 tiến trình, đã kết thúc một nửa.
+
+	【 cấp thấp tràng 】 sau khi kết thúc, nhóm lớn cấp thấp tuyển thủ lục tục rời đi phó bản, www. uukanshu. com chỉ có một số ít lưu lại tiếp tục xem cuộc chiến 【 cao cấp tràng 】.
+
+	Mà Tôn Dục Càn, chính là đông đảo rời đi người một trong, bởi vì bọn họ 【 Khinh Vũ chiến đội 】 kế tiếp khác có hoạt động an bài, vì vậy cũng liền không ở nơi này tiếp tục trễ nải thời gian.
+
+	Cùng Hàn Chính thông qua văn tự tin tức cáo biệt sau, Tôn Dục Càn liền đi theo các đồng đội, cùng nhau rời đi phó bản.
+
+	Mà Hàn Chính, cũng nhanh chóng trở lại bản thân phòng một người ở gian, bắt đầu hết lòng chuẩn bị ngày mai thuộc về mình tranh tài.
+
+	Thông qua Tôn Dục Càn có được những thứ kia tình báo, có thể hiểu được, lần này 【 cao cấp tràng 】 tuyển thủ trung, nhưng là không thiếu cao nhân!
+
+	Thiệu Tôn, minh ca, Hướng Bác Long, Tang Khâu, Phùng Mạc Phong... Vân vân
+
+	Sức chiến đấu vượt qua 10 ức cao thủ, hiển nhiên không chỉ một hai cái!
+
+	Hàn Chính thậm chí hoài nghi, những cao thủ này trong, không làm được có người, sức chiến đấu là xa ở 10 ức trở lên...
+
+	Mặc dù mình mới vừa thăng cấp huyết thống, sức chiến đấu gấp bội, nhưng trước mắt cũng chỉ có 6 ức ra mặt thực lực.
+
+	Đối mặt như vậy cao thủ, nhất định là không có phần thắng chút nào.
+
+	Ngay cả Tôn Dục Càn, cũng không coi trọng bản thân, hắn thậm chí cho là, bản thân sợ rằng liên tứ kết đều không cách nào chen vào.
+
+	Hàn Chính dĩ nhiên cũng rất rõ ràng cân lượng của mình, biết bản thân tất nhiên không phải những cao thủ kia đối thủ, chỉ bất quá...
+
+	Hàn Chính khác có dựa vào!
+
+	Sau khi trở lại phòng, Hàn Chính ở bên trong nhà đi tới lui một vòng, sau đó hắn giơ tay lên hướng bên cạnh một chỗ trên đất trống vung lên ——
+
+	Trong nháy mắt sau, 【 nhị đại Xên Bọ Hung 】 xuất hiện ở trước mặt của hắn...

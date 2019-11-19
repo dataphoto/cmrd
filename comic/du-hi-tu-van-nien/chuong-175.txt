@@ -1,0 +1,94 @@
+####Quyển 5: Thiếp Diện vũ hội dưới hổ phách quang
+####Thương Long: Mosasauridae
+
+	( Thương Long cứ điểm (chưa mệnh danh) )
+
+	( người sở hữu: Không (chưa nắm trong tay) )
+
+	( đẳng cấp: lv1(có thể thăng cấp) hạn mức cao nhất lv3(có thể cường hóa) )
+
+	( phẩm chất: Màu lục 17%(có thể đề thăng) )
+
+	( thuộc tính: Âm thuộc tính, thực vật thuộc tính, vong linh thuộc tính )
+
+	( di động phương thức: Phi hành (200km/h), lục hành (0), trong nước (180km/h) )
+
+	( nguồn năng lượng số lượng dự trữ: 3713/6000 )
+
+	( vật tư số lượng dự trữ: Tổng 127/10000, lv3(0/0/0/0), lv2(0/0/0/0), lv1(0/0/9/13), lv0(0/12/27/66) )
+
+	( nội thành khu: 0/1(đại), 0/3 (trung), 0/3(tiểu) )
+
+	( ngoại thành khu: 0/0(đại), 0/6 (trung), 0/6(tiểu) )
+
+	( huyễn thành khu: 0/2(đại), 0/2 (trung), 0/6(tiểu) )
+
+	( quặng sắt: 0/0(hầm mỏ), 0/0(mạch khoáng) )
+
+	( thảo dược: 0/12(vườn thuốc), 5/5(địa mạch) )
+
+	( cứ điểm pháo: Huyễn tưởng pháo lv1(100/100) )
+
+	( vong linh tôi tớ (tùy tùng): 4/12(thành thị tự mang), 0/12(Bàn khống chế nhiệm vụ) )
+
+	( vong linh bộ đội (lv0 trăm người cấp): 0/1(thành thị tự mang), 1/1(phòng phân phối năng lượng), 0/2(Bàn khống chế nhiệm vụ), 0/1(dạ dày túi đại mộ địa), 1/2(Hắc Ám Thiên Mạc), 1/1(phần lưng trói buộc) )
+
+	( vong linh chủng tộc: 0/3(tam đại thành khu tự mang), 0/2(viễn cổ Chiêu Hồn tháp), 0/1(phần lưng hoang dại) )
+
+	( trang bị: 0/1(mũi tàu), 0/1(Chiêu Hồn tháp), 0/1(hai vây cá), 0/1(nội thành khu), 0/1(phòng phân phối năng lượng), 0/1(đuôi rồng), 0/1(Hắc Ám Thiên Mạc) )
+
+	(chú: Này bảy chỗ vì phương đông Long hệ mệnh tinh, phân biệt đối ứng sừng, kháng, để, phòng, tâm, đuôi, ki bảy vị trí, theo thứ tự là Long Châu, sừng rồng, chân trước, lồng ngực, trái tim, đuôi rồng cùng đuôi rồng mang lên Phong Bạo. )
+
+	( trang sức: 0/2(mũi tàu), 0/4(Chiêu Hồn tháp), 0/4(hai vây cá), 0/4(nội thành khu), 0/3(phòng phân phối năng lượng), 0/9(lưng rồng, đuôi rồng), 0/4(Hắc Ám Thiên Mạc) )
+
+	( giao thông phương thức: Một tầng Long đầu thuyền buồm (5 người) )
+
+	( đặc tính: Linh hoạt (có thể tự do mà ở các loại không gian nội chuyển ngoặt, không bị địa hình hạn chế) )
+
+	( đặc tính: Đi bộ đường xa (ở năng lượng đầy đủ dưới tình huống, có thể vẫn luôn bảo trì đi tới tốc độ vĩnh viễn không ngừng nghỉ) )
+
+	. . .
+
+	Nhìn trước mắt này một chuỗi dài thuộc tính số liệu, Liễu Tông muốn hoa cả mắt, bất quá phía trên nhất vậy (chưa nắm trong tay) ba chữ khiến cho Liễu Tông trong lòng mát lạnh, này Thương Long cứ điểm chỉ là chế tác được, vẫn không thể coi như là thuộc về Liễu Tông.
+
+	Liễu Tông nhất định phải thỏa mãn hai cái điều kiện, mới có thể đạp này tòa với hắn mà nói tương đối hoa lệ Thương Long cứ điểm chuyển chức.
+
+	Điều kiện thứ nhất tự nhiên là đem đẳng cấp đề thăng tới lv0(12 sao), điểm này đối với Liễu Tông tới nói cũng không phải việc khó gì, chỉ cần hắn chịu đàng hoàng soạt nhiệm vụ thăng cấp, khoảng chừng chỉ cần nửa năm liền có thể đạt tới yêu cầu này, coi như là chậm một chút bận rộn một điểm, trong vòng ba năm Liễu Tông cũng có thể làm được điểm này.
+
+	Nhưng điều kiện thứ hai sẽ không đơn giản như vậy, Liễu Tông phải tự mình chế tạo ra phong cương liệt thổ bộ ba trang bị tới.
+
+	Đây đã là đơn giản nhất yêu cầu, sở người lãnh chúa loại người chơi đều phải tự mình làm ra có thể cùng bản thân trưởng thành bộ ba trang bị, lấy này tới khiến cho lãnh địa cộng minh.
+
+	Này kỳ thực mới là lãnh chúa loại người chơi then chốt, hay là sau đó người chơi sẽ buông tha mình thứ nhất cứ điểm, thứ nhất thành thị, nhưng này bộ ba trang bị đem vẫn luôn cùng bọn họ đi xuống, thẳng đến tử vong.
+
+	Này phong cương liệt thổ chỉ là đại biểu cho khai cương vũ khí, đại biểu cho thân phận bội hoặc ấn, còn có đại biểu cho đối lãnh địa hoàn toàn khống chế bảo tọa hoặc là vương miện.
+
+	Mấy thứ này có thể là không có thuộc tính, có thể là tùy tiện đang dùng gỗ làm thành, nhưng thứ này cuối cùng là muốn đi theo Liễu Tông cùng nhau trưởng thành, cho nên Liễu Tông tuyệt không dự định qua loa.
+
+	Hắn chuẩn bị căn cứ trưởng thành của mình kinh lịch cùng phong cách, bản thân chế tác thích hợp nhất bộ ba trang bị.
+
+	Liễu Tông lựa chọn vũ khí đương nhiên là trường mâu, bất kể là ( Chu Liễu Cự Nhân cháy đen trường mâu ) còn là Liễu Tông linh hồn mảnh nhỏ trong tự mang bộ kia bí vũ kỹ, đều định ra rồi Liễu Tông sau này vũ khí, trường mâu.
+
+	Liễu Tông hiện tại phải làm là một bả dùng để chứng minh bản thân vũ dũng trường mâu, cái chuôi này trường mâu cũng không phải dùng để chiến đấu, mà là dùng để ghi chép Liễu Tông ở quá trình trưởng thành giữa sở trải qua chiến đấu, chỉ cần cái chuôi này trường mâu làm thành sau, sau đó mặc kệ Liễu Tông dùng cái gì trường mâu, nó hình thức đều sẽ biến thành cùng cái chuôi này trường mâu giống nhau như đúc.
+
+	Đồng thời Liễu Tông đối cái chuôi này trường mâu trang sức cùng hệ thống đối cái chuôi này trường mâu khen thưởng cùng cải biến, cũng đều sẽ thể hiện ở Liễu Tông cái khác trường mâu trên, có thể nói cái chuôi này trường mâu sau đó sẽ là Liễu Tông tượng trưng của thân phận.
+
+	Ngoài ra làm Liễu Tông ở lv3 kích hoạt rồi ( Chu Liễu Cự Nhân cháy đen trường mâu ) sau, nó Titan tạo vật thuộc tính cũng sẽ chuyển tới cái chuôi này trường mâu trên, khiến cho trường mâu trở thành Liễu Tông vũ khí duy nhất.
+
+	Sau chỉ dùng để chứng minh Liễu Tông thân phận bội hoặc ấn, hình dáng này thức liền có thể có bao nhiêu chủng loại tuyển chọn, có phương đông ngọc bội, đồng ấn, cũng có phương Tây quyền trượng hoặc là giới tỳ, Liễu Tông lối suy nghĩ là muốn một mảnh Long bội.
+
+	Đây là đối ứng bản thân linh hồn mảnh nhỏ giữa lối suy nghĩ, hắn có một loại cảm giác, bản thân tuy rằng đi là pháp lực cùng vũ lực song thân hòa, chuyển chức sau tốt nhất còn là thiên hướng với phương đông hệ khá hơn một chút.
+
+	Long bội hình thức Liễu Tông cũng có cơ bản kế hoạch, dùng là thượng cổ hoàn Long bội hình thức, về phần tính chất Liễu Tông cũng không có quá lớn yêu cầu, dù sao phía sau sẽ theo Liễu Tông đẳng cấp đề thăng, còn có các loại nhiệm vụ gia trì không ngừng tiến hóa, chỉ cần ngay từ đầu hình thức không ra sai là được.
+
+	Cuối cùng cũng là quan trọng nhất chính là, đại biểu cho Liễu Tông đối với lãnh địa khống chế vũ khí, Liễu Tông cũng không có tuyển chọn có thể tùy ý mang theo đi vương miện, bởi vì hắn lãnh địa bản thân thì có di động hiệu quả, hắn không cần như cái khác lãnh chúa như vậy, không có vương miện thì không thể rời khỏi tiến nhập các bản đồ thăng cấp.
+
+	Vì thế Liễu Tông lựa chọn đối với mình trưởng thành càng có lợi bảo tọa, mà đối bảo tọa tuyển chọn, Liễu Tông là nhất nghiêm khắc, hắn lựa chọn Cấm Cố Vương Tọa làm vì mình bảo tọa hàng mẫu.
+
+	Này Cấm Cố Vương Tọa là một loại âm thuộc tính vương tọa phương pháp luyện chế, nó chỉ dùng bạch cốt vì dàn giáo, lấy vong hồn vì trang sức bảo tọa, cùng đồng dạng chế tác phương thức Hài Cốt Vương Tọa bất đồng, Cấm Cố Vương Tọa cũng không chỉ là vong linh thuộc tính tồn tại, đối với ánh trăng, đối với hắc ám cũng có tương ứng nhu cầu.
+
+	Cũng chính bởi vì như vậy, Cấm Cố Vương Tọa vong linh trang sức cũng không có bị xóa đi linh trí, phản mà trở thành vương tọa chủ nhân người thủ hộ, cùng vương tọa chủ nhân cùng nhau trưởng thành, thậm chí ở vương tọa chủ nhân tử vong sau, chúng nó còn có thể vẫn luôn mà bảo vệ.
+
+	Đối với này bộ ba trang bị chế tác, Liễu Tông lối suy nghĩ cứ như vậy nhiều, thế nhưng chân chính muốn làm nhưng tương đối khó, bởi vì mỗi một món vật phẩm chế tác, đều cần vong linh thuộc tính vật tư 500, trừ lần đó ra còn cần đại lượng vong linh thuộc tính tài liệu, nói thí dụ như Cấm Cố Vương Tọa liền cần đạt tới yêu cầu thi thể, trường mâu liền cần các loại bó củi cùng kim loại còn có trang sức phẩm, Long bội cần chính là ngọc cùng Bảo Thạch.
+
+	Những này đều cần Liễu Tông đi tìm, khá tốt Liễu Tông bây giờ không phải là một người đang chiến đấu, hắn còn có vong linh tôi tớ, còn có ( Bàn khống chế nhiệm vụ ).

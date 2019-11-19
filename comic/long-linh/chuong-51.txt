@@ -1,0 +1,90 @@
+Chương thứ năm mươi mốt nhiệm vụ SASS
+ 
+ 	Thờì gian đổi mới 2009-3-12 15:51:28 số lượng từ: 3054
+ 
+ 	Vài cái lính đánh thuê tiến đến trả lại nhiệm vụ, hi hi ha ha rời đi, thương lượng dùng tiền thưởng đi nơi nào khoái hoạt một cái.
+ 
+ 	Lạc giữa bọn họ bầu không khí có một ít nặng nề, nguyên bản hảo hảo muốn trở thành lập 1 cái lính đánh thuê đoàn, lại bởi vì Tạp Lạc Nhi cùng Băng Trĩ Tà cũng không thể tham gia mà làm đến không vui.
+ 
+ 	Tạp Lạc Nhi thấy thế nói: "Các ngươi đừng như vậy thôi, 4 cá nhân cũng một dạng có thể a, tin tưởng ngươi về sau nhất định cũng có thể phát triển được rất cường đại, tựa như 7S một dạng, nói không chắc còn sẽ trở thành thứ tám cái S đây."
+ 
+ 	Duy Ân đột nhiên nói: "Ai, nếu không chúng ta cùng nhau gia nhập Băng Trĩ Tà chỗ ở lính đánh thuê đoàn được không?"
+ 
+ 	"A. . ." Băng Trĩ Tà có một ít kinh ngạc.
+ 
+ 	Y Lâm Na nói: "Đồ đần, phải có cán bộ cao cấp mới có thể tiếp thu chúng ta vào đoàn a, Băng Trĩ Tà bên trên chỗ nào đi tìm bọn họ đoàn cán bộ cao cấp đến a? Lại nói, nhân gia đồng ý muốn hay không giống chúng ta như vậy tiểu binh còn không biết đây."
+ 
+ 	Khả Ni Lị Nhã cũng nói: "Chúng ta vẫn là bản thân thành lập 1 cái đoàn đi, học viện bên trong không phải cũng có rất nhiều bằng hữu sao? Nói không chắc có người nguyện ý gia nhập chúng ta đây?"
+ 
+ 	"Ừ." Y Lâm Na nói: "Dựa Khả Ni Lị Nhã thánh khiết vô cùng độc giác thú, nhất định sẽ có rất nhiều người cướp vào đoàn, đến lúc đó chúng ta sợ rằng tiếp thu người đều bận không qua nổi, nhất định phải tiên(trước) cướp cái cán bộ chức vị."
+ 
+ 	"Cán bộ, lãnh đạo!" Duy Ân cười khúc khích hề hề bắt đầu: "Oa ha ha, đến lúc đó ta Duy Ân đại gia mang theo một đám các tiểu đệ Sở Hướng Vô Địch! Ha ha ha ha. . ."
+ 
+ 	Bốn cá nhân đồng thời thở dài: "Ngu ngốc, lại tới rồi."
+ 
+ 	Lạc hỏi: "Chúng ta lính đánh thuê đoàn tên gọi là gì tốt lắm?"
+ 
+ 	Duy Ân lập tức liền cướp miệng nói: " 'Vô địch lão đại', ha ha, cái này tên quá cường đại, ta ưa thích ha ha. . ."
+ 
+ 	Y Lâm Na nắm chặt nắm tay nhẫn nại lấy: "Khi hắn không tồn tại, chúng ta nói."
+ 
+ 	Mọi người thương lượng đến thương lượng đi, bởi vì cảm thấy Khả Ni Lị Nhã độc giác thú tối sử thi tối thần thoại, mọi người quyết định đã kêu 'Thần thánh độc giác thú' lính đánh thuê đoàn, do(từ) Khả Ni Lị Nhã đảm nhiệm đội trưởng, công điểm cao nhất Lạc đảm nhiệm phó đoàn trưởng kiêm chiến đấu tổ chức đội trưởng, Y Lâm Na đảm nhiệm phó đoàn trưởng kiêm nhân sự hậu cần đội trưởng, chỉ để lại 1 cái chính ở chỗ này cười khúc khích Duy Ân đương tiểu binh.
+ 
+ 	Khả Ni Lị Nhã hướng lính đánh thuê công hội người thành lập xin sau đó, 'Thần thánh độc giác thú' lính đánh thuê đoàn chính thức thành lập. Bởi vì bọn họ mỗi cá nhân đều là D cấp lính đánh thuê, cá nhân D cấp lính đánh thuê 8000 công điểm * nhân số 4 người /2, vì 16000 công điểm, bọn họ bốn cá nhân cộng lại công điểm vài đã có 3 hơn vạn, xa xa cao hơn cái này tiêu chuẩn , cho nên bọn họ thành lập lính đánh thuê đoàn cũng là D cấp. Chẳng qua muốn lên tới C cấp lời, bọn họ bốn cá nhân được muốn 94000*4/2=188000 công điểm mới được.
+ 
+ 	Cụ thể cá nhân lính đánh thuê thăng chức quy tắc chi tiết như sau.
+ 
+ 	Đến F cấp: yêu cầu 0 phân. F cấp nhiệm vụ phân 10-80 phân dưới. Ít nhất yêu cầu 12 cái nhiệm vụ bản cấp nhiệm vụ thăng chức.
+ 
+ 	Đến E cấp: yêu cầu 960 phân. E cấp nhiệm vụ phân 80-200 dưới. Ít nhất yêu cầu 40 cái nhiệm vụ bản cấp nhiệm vụ thăng chức.
+ 
+ 	Đến D cấp: yêu cầu 8000 phân. D cấp nhiệm vụ phân 200-1000 dưới. Ít nhất yêu cầu 94 cái nhiệm vụ bản cấp nhiệm vụ thăng chức.
+ 
+ 	Đến C cấp: yêu cầu 94000 phân. C cấp nhiệm vụ phân 1000-5000 dưới. Ít nhất yêu cầu 150 cái nhiệm vụ bản cấp nhiệm vụ thăng chức.
+ 
+ 	Đến B cấp: yêu cầu 750000 phân. B cấp nhiệm vụ phân 5000-30000 dưới. Ít nhất yêu cầu 114 cái nhiệm vụ bản cấp nhiệm vụ thăng chức.
+ 
+ 	Đến A cấp: yêu cầu 3400000 phân. A cấp nhiệm vụ phân 30000-150000 dưới. Ít nhất yêu cầu 67 cái nhiệm vụ bản cấp nhiệm vụ thăng chức.
+ 
+ 	Đến S cấp: yêu cầu 10000000 phân. S cấp nhiệm vụ phân 150000-500000 dưới. SS cấp nhiệm vụ phân 500000-1000000 dưới. SSS cấp nhiệm vụ chia làm trước mặt lính đánh thuê cấp bậc 25%.
+ 
+ 	Y Lâm Na sở dĩ theo F cấp đến D cấp tìm 5 năm, là bởi vì hắn cũng không phải đang không ngừng làm nhiệm vụ, mà chẳng qua là sau khi học xong mà thôi. B, C, D cấp nhiệm vụ mặc dù có rất lớn khó khăn, đại đa số người lính đánh thuê cấp bậc đều ở cấp này đoạn,, chẳng qua này vài cấp nhiệm vụ tương đối số lượng rất nhiều, chỉ cần có thực lực vẫn có thể tái tiến một bước.
+ 
+ 	Khả Ni Lị Nhã bọn họ mỗi người đều tiếp ba năm cái nhiệm vụ, D cấp E cấp đều có, phi thường may mắn chính là còn nhận được 1 cái D cấp đoàn thể nhiệm vụ, có thể đạt được 500 công điểm, hơn nữa là đoàn bên trong mỗi cá nhân.
+ 
+ 	Tiếp(cận) hoàn nhiệm vụ Khả Ni Lị Nhã vui vẻ nói: "Vì chúng ta 'Thần thánh độc giác thú' lính đánh thuê đoàn thành lập sau lần đầu tiên nhiệm vụ, mọi người nhất định phải cố gắng cố gắng lên, không nên khiến 1 cái nhiệm vụ thất bại!"
+ 
+ 	"Hảo(tốt)!" Bốn cá nhân nắm tay bối(rời,thuộc) chồng lên nhau, làm tới 1 cái truyền thống tinh điển đánh cách thức phương thức: "Một, hai, ba, cố gắng lên!"
+ 
+ 	Chung quanh người trưởng thành thấy được cái này tuổi trẻ tiểu tử bộ dáng đều nở nụ cười, 1 người cảm thán nói: "Ta lúc còn trẻ cũng là tượng bọn họ một dạng đây, tràn đầy nhiệt huyết cùng nhiệt tình."
+ 
+ 	Cướp được rất tốt nhiệm vụ, kế tiếp tự nhiên là chuẩn bị yêu cầu đồ dùng. Chánh quy chế cách thức áo giáp, vũ khí đẳng(đợi) mấy cái này học viện đều có cung cấp, nhưng có chút người còn là hy vọng mua được tốt hơn. Chữa thương dược, đạt đạt thát cùng phong mật chế thành nước trái cây ( có thể tốt hơn khôi phục tiêu hao ma lực ), có thể trị liệu độc dược, cùng với trừ doanh khối ngoài ra dã ngoại nghỉ ngơi đồ dùng, còn có thay và giặt sạch quần áo... Mấy cái này đều là ắt không thể thiếu.
+ 
+ 	Học viện cũng không trách bọn họ không có tới lên lớp, bởi vì mỗi lần thực tế chiến đấu mấy ngày này đều là như thế này, học viện cũng bị vây nửa nghỉ trạng thái, dạy nội dung phần lớn cũng là lặp lại dã ngoại chỗ cần phải chú ý một ít nội dung.
+ 
+ 	Duy Ân, Khả Ni Lị Nhã, Y Lâm Na, Tạp Lạc Nhi đều là lần đầu tiên gặp được loại chuyện này, hưng phấn vô cùng, biểu hiện được rất là tích cập, từng người tại đường cái bên trên, cửa hàng bên trong thu mua bản thân cần có đồ vật.
+ 
+ 	"Gần nhất cũng không tiền dùng đây. . ." Băng Trĩ Tà trong đầu than thở một tiếng, cũng mượn mua đồ cơ hội ly khai, lại về tới lính đánh thuê công hội hội sở. Tìm cái không ai cửa sổ, đối bên trong nhân viên công tác nói: "Tỷ tỷ, ta tới tiếp nhiệm vụ."
+ 
+ 	Hội sở nữ nhân viên công tác gặp cái này so quầy cao không được bao nhiêu tiểu vóc người, khẽ cười nói: "Tiểu tiên sinh ngươi nghĩ tiếp(cận) nhiệm vụ gì a? Ngươi là cấp mấy lính đánh thuê, ta có thể cho ngươi tìm một phần thích hợp nhiệm vụ biểu đan(đơn)."
+ 
+ 	Băng Trĩ Tà đè ép đè vành nón lắc đầu nói: "Không cần." Từ miệng túi bên trong lấy ra một tờ tờ giấy đến nói: "Ta liền tiếp(cận) này ba cái nhiệm vụ."
+ 
+ 	Hội sở nhân viên cười tủm tỉm tiếp nhận tờ giấy nhìn 1 cái, tức thì lại càng hoảng sợ, đối Băng Trĩ Tà cười nói: "Tiểu tiên sinh, ta đang làm việc, không nên cùng tỷ tỷ khai mở loại này vui đùa được không."
+ 
+ 	Băng Trĩ Tà bả(nắm) bản thân lính đánh thuê tạp đưa cho hắn.
+ 
+ 	"A ~!" Hội sở nhân viên hít một hơi lạnh, kia trương tinh phiến tạp bên trên bên trái dưới giác(sừng) chính viết cái đỏ tươi 'S' . Hắn rất là kinh ngạc nhìn, trong lòng nói: "Không thể nào đâu, S cấp lính đánh thuê! Ta ở chỗ này công tác tới nay còn chưa từng thấy S cấp lính đánh thuê, hắn 1 cái tiểu hài tử tại sao có thể có? Có phải hay không là giả?" Tưởng(nghĩ) đến nơi này, liền đối với Băng Trĩ Tà nói: "Ngươi. . . Ngươi xin chờ một chút, ta đi nghiệm chứng một cái tấm thẻ này."
+ 
+ 	Lính đánh thuê công hội lính đánh thuê tạp đều là do(từ) lính đánh thuê công hội dùng đặc thù tài liệu tăng thêm một ít miếng truyền tin thạch làm, thẻ bên trong bố trí chỉ có lính đánh thuê công hội cao tầng mới biết được đặc thù ghi nhớ ma pháp trận ( phòng giả ), chỉ cần rót vào ma lực kiểm tra sau sẽ có thể biết rõ có phải thật vậy hay không. Mà truyền tin thạch nội bộ là ghi chép là lính đánh thuê tư liệu cùng nhiệm vụ tin tức, loại này hòn đá nhỏ phiến bên trong cũng bố(vải) có trận pháp, là căn cứ mỗi cá nhân bao gồm bất đồng nguyên tố lượng cùng sinh mệnh đặc thù ghi chép, chỉ có kỳ chủ mới có thể mở ra tìm đọc. Tổng cộng hai mảnh, một mảnh khảm tại lính đánh thuê tạp bên trên, một mảnh do(từ) lính đánh thuê công hội dành trước.
+ 
+ 	Lính đánh thuê công hội sở dĩ vì làm như vậy, 1 cái là mọi người tư ẩn vấn đề. Còn có liền là lính đánh thuê công hội là do các nước thành lập, mỗi cái quốc gia nhân viên đều không hy vọng người một nhà dân, đặc biệt nặng người quan viên tình báo bị địch quốc biết rõ , cho nên công hội người xây dựng bả(nắm) bản thân tìm đọc lính đánh thuê tin tức quyền lợi dùng loại phương pháp này bình phong điệu, đỡ phải các nước tìm bản thân phiền toái, cuối cùng trở thành toàn dân kẻ thù chung.
+ 
+ 	Cũng không lâu lắm hội sở nhân viên công tác sẽ trở lại, thất kinh hỏi: "Ngươi thật là S cấp lính đánh thuê?" Hắn rõ ràng bản thân đã nghiệm chứng qua không sai, lại vẫn không thể tin được. Đích thực không thể tin được, những kia chính trị năm đó tráng hán liền A cấp B cấp đều chưa hẳn có thể đạt đạt được, như vậy 1 cái tiểu tử kia làm sao có thể sẽ có S cấp lính đánh thuê tư cách. Chính là sự thật vừa bày ở trước mắt nàng, làm cho nàng lại không thể không tin.
+ 
+ 	Băng Trĩ Tà chỗ ở cửa sổ rất thiên, trong công hội lại tương đối ầm ĩ, hội sở nhân viên lời cũng không có bị người khác nghe được. Chẳng qua, rất nhanh truyền đến một trận tiếng kinh hô. Một vị hội sở nhân viên công tác tại cao nhất nhiệm vụ truyền tin phiến đá bên trên rót vào ma lực sau đó, 1 cái S cấp nhiệm vụ cùng mới có khác 1 cái SS cấp nhiệm vụ đều biến thành màu xanh, điều này nói rõ mấy cái này đan(đơn) lần trao lý nhiệm vụ đừng để bên ngoài người tiếp nhận rồi, hơn nữa là tại này gian lính đánh thuê hội sở tiếp nhận.
+ 
+ 	"Là ai, là ai. . ." Chỉ có S cấp lính đánh thuê mới có thể tiếp thu S cấp cùng SS cấp nhiệm vụ, này tất cả mọi người biết rõ. Nhất thời hội sở bên trong náo loạn lên, đều muốn nhìn một cái là cái nào 1 gia hỏa có thể tiếp thu cao nhất nhiệm vụ, đều muốn nhìn một cái S cấp lính đánh thuê lớn lên cái dạng gì. Lúc này hội sở tỷ tỷ ánh mắt bên trong, cái kia nhỏ gầy thân ảnh biến mất tại lính đánh thuê công hội ngoài cửa.
+ 
+ 
+          Chương trình ủng hộ Thương hiệu Việt của Tàng Thư Viện

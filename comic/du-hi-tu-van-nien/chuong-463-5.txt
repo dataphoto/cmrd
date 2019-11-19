@@ -1,0 +1,22 @@
+T: Tank, người đỡ đòn, có chủ tank / tank chính (main tank / MT), phó tank / tank phụ,... 
+
+Khống / Khống tràng: người dùng kỹ năng khống chế, trói buộc, đánh choáng, nguyền rủa...
+ 
+Nãi / bổ sư / bổ huyết: Healer, người dùng kỹ năng hồi máu, cường hóa, tăng trạng thái, giải trạng thái mặt trái , cũng có chủ nãi,...
+
+DPS: Damage per seconds: Gây sát thương theo thời gian, là dạng gây sát thương chủ lực nhiều và kéo dài liên tục
+
+Cừu hận: Hate, threat, aggro, là giá trị xác định mục tiêu của quái, ai có cừu hận cao thì quái đánh kẻ đó, thường tính theo nhiều yếu tố như sát thương gây ra, số máu hồi, kỹ tăng khiêu khích của tank,...
+
+OT: over tanker? over threat? Đại khái khi những người không phải tank mà gây sát thương / hồi máu cho tank / khiêu khích ... nhiều quá khiến mức cừu hận vượt qua tank thì quái/boss quay qua đập người đó, và thường là máu giấy nên tạch ngay -&gt; đội hình tan tác
+
+DKP:  Dragon kill points: Có thể hiểu như điểm cống hiến khi đánh phó bản, đánh boss hoặc làm nhiệm vụ, các tính tùy ý. Thường dùng để phân chia chiến lợi phẩm sau khi xong.
+
+CD: Cooldown: Thời gian làm mát, thời gian hồi chiêu
+
+Miểu sát / miểu / giây / giây giết: Instant kill: Đấm phát chết luôn, Phồng Tôm nhất quyền, Saitama hiển linh....
+
+Kim đoàn: đoàn đội nhận tiền mang theo người đánh phó bản
+
+
+/// Nếu có thuật ngữ nào không hiểu thì hỏi mình và sẽ bổ sung vào bài này

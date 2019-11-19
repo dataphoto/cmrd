@@ -1,0 +1,91 @@
+( Bụi Gai Ngân Long thành (Giao Long Đệ Thất chi vệ tinh thành) )
+
+	( người sở hữu: Chu Liễu Cự Nhân )
+
+	( đẳng cấp: Lv1(có thể thăng cấp) hạn mức cao nhất Lv3(có thể cường hóa) )
+
+	( phẩm chất: Màu lục 31%(có thể đề thăng) )
+
+	( thuộc tính: Long huyết thuộc tính, âm thuộc tính, ánh mặt trời thuộc tính, vong linh thuộc tính, hỏa diễm thuộc tính )
+
+	( di động phương thức: Phi hành (300km/h), lục hành (0), trong nước (290km/h) )
+
+	( nguồn năng lượng số lượng dự trữ: 10000/10000 )
+
+	( vật tư số lượng dự trữ: Tổng 0/10000, Lv3(0/0/0/0), Lv2(0/0/0/0), Lv1(0/0/0/0), Lv0(0/0/0/0) )
+
+	( tự do không gian: 0/3(đại), 0/6 (trung), 0/8(tiểu) )
+
+	( sẵn có kiến trúc: 3/3(đại, binh chủng huấn luyện: Người Quạ Màu Bạc, Vong Linh Nặn Tượng, Long Huyết Tích Dịch), 3/3 (trung, nguồn năng lượng, vật tư, tài chính cung cấp), 6/6(tiểu, phụ trợ trang bị chế tác) )
+
+	( Minh thiết mạch khoáng: 1/1(hầm mỏ), 5/5(loại nhỏ mạch khoáng) )
+
+	( hỏa diễm sông hộ thành: 1/1 )
+
+	( hủ bùn tường thành: 5/5 )
+
+	( Năng Nguyên tháp: 5/5 )
+
+	( vong linh tôi tớ (tùy tùng): 0/6(thành thị tự mang) )
+
+	( vong linh bộ đội (Lv1 đội trăm người): 0/1(thành thị tự mang), 0/1(thành chủ hộ vệ), 0/1(thành thị thủ vệ bộ đội)3/3(chủ thành giao lưu bộ đội: Người Quạ Màu Bạc, Vong Linh Nặn Tượng, Long Huyết Tích Dịch) )
+
+	( vong linh chủng tộc: 3/3(Người Quạ Màu Bạc: Rukhmar chi tử vong linh chuyển hóa, Vong Linh Nặn Tượng: Bị hủy pho tượng Lajie cùng Rukhmar ánh mặt trời sức mạnh chuyển hóa vong linh, Long Huyết Tích Dịch: Ngân Long bổn tộc vong linh chuyển hóa) )
+
+	( trang bị: 0/1(sừng rồng), 0/1(Long Châu), 0/1(cây long nhãn), 0/1(bên trái chân trước), 0/1(bên phải chân trước), 0/1(bên trái sau móng), 0/1(bên phải sau móng) )
+
+	( trang sức: 0/2(sừng rồng), 0/1(Long Châu), 0/2(cây long nhãn), 0/4(bên trái chân trước), 0/4(bên phải chân trước), 0/4(bên trái sau móng), 0/4(bên phải sau móng) )
+
+	( giao thông phương thức: Ngân sắc phi long (1 người), ngân sắc thuyền rồng (bộ đội di động) )
+
+	( đặc tính: Thủ vệ (thành này thị làm Thương Long cứ điểm thủ vệ thành thị, ở không mệnh lệnh dưới tình huống, đem một mực xoay quanh ở Thương Long cứ điểm ngoại vi) )
+
+	( đặc tính: Bổ sung (thành này thị làm Thương Long cứ điểm thành thị phụ, là đối Thương Long cứ điểm tài nguyên, vật tư thậm chí bộ đội hữu hiệu bổ sung mà) )
+
+	( đặc tính: Phục tùng (thành này thị có thể đơn độc phái ra hoàn thành tương ứng nhiệm vụ, sau khi hoàn thành trở về tại chỗ) )
+
+	Bụi Gai Ngân Long thành về vị trí sau, vẫn ở Thương Long cứ điểm Hắc Ám Thiên Mạc ngoại vi lẩn quẩn, Liễu Tông chú ý tới hắn xoay quanh tốc độ cùng quỹ đạo mảnh xương tương tự, rất rõ ràng đây là Bụi Gai Ngân Long thành đối Thương Long cứ điểm một bảo hộ.
+
+	Vốn là muốn muốn đánh vào Thương Long cứ điểm, phải trải qua Thương Long cứ điểm quỹ đạo mảnh xương, trước nội vòng đã bố trí xong, giữa vòng đã hoàn thành phân nửa, bên ngoài vòng còn chưa bắt đầu.
+
+	Hiện tại thế nào muốn đánh vào quỹ đạo mảnh xương phạm vi, còn phải trải qua Bụi Gai Ngân Long thành, như vậy liền thật to tăng cường Thương Long cứ điểm an toàn tính, ít nhất này thành thị phụ không hề giống như trước như vậy hữu danh vô thực.
+
+	Bụi Gai Minh Nguyệt bị hủy diệt sau, Liễu Tông trực tiếp bị từ Minh giới đưa đi ra, hắn nhìn thoáng qua nhiệm vụ danh sách trên nhiệm vụ hoàn thành đánh dấu, bất quá vào lúc này Liễu Tông phát hiện phía dưới một cái chữ nhỏ chú thích, hoàn thành tự thân nhiệm vụ người chơi, có thể chủ động công kích cái khác Cầu thành, nhiều hoàn thành một Cầu thành, có thể có nhiều một ít chỗ tốt.
+
+	Liễu Tông đương nhiên minh bạch phương diện này nói chỗ tốt là cái gì, liền một Cầu thành liền khiến cho hắn Ngân Long biến thành Bụi Gai Ngân Long thành, nhiều đánh mấy cái xuống tới, lãnh địa của mình sẽ nhiều hơn vài cá thành thị phụ.
+
+	Đây đối với lãnh chúa tới nói, đều là mê hoặc, quan trọng nhất chính là ngay từ đầu bọn họ không nói chuyện này, ở khiến cho người chơi bản thân phát hiện điểm ấy sau sẽ đem sự tình điểm ra, liền lần này phần lớn người chơi đều biết động tâm.
+
+	Liễu Tông cũng thuộc về với cái loại này động tâm người chơi, bất quá hắn cuối cùng vẫn là đè xuống ý nghĩ trong lòng, hắn quen mắt mấy cái này Cầu thành, nhưng hắn đồng dạng cũng minh bạch thực lực của chính mình.
+
+	Bây giờ không phải là chơi cái này lúc, đồ đạc chỉ có tới tay mới tính là của mình.
+
+	Mang theo ý nghĩ như vậy, Liễu Tông thay đổi Thương Long cứ điểm phương hướng đi tới, hướng về Apexis đi, hắn dự định trở lại đem nhiệm vụ nộp liền rời đi nơi này.
+
+	Tấm bản đồ này cục diện khiến cho càng ngày càng quỷ dị, Liễu Tông hoài nghi làm thứ chín cá Cầu thành bị hủy diệt lúc, đúng là tấm bản đồ này giữa ba vị cường giả ở giữa đại chiến là lúc.
+
+	Nếu như Liễu Tông có đầy đủ thực lực nói, hay là có thể ở bên trong trộn lẫn tốt hơn chỗ, nhưng liền thực lực của hắn bây giờ đến xem, sẽ ở bản đồ trong ngây ngô cũng chỉ là tốt thí mệnh.
+
+	Có tính toán như vậy, Liễu Tông hành động cũng rất mau, dọc theo con đường này Liễu Tông không có đi để ý tới bất luận cái gì chỗ không đúng, chính là cúi đầu một mực bay về phía trước đi.
+
+	Khoảng chừng bay hai ngày thời gian, Liễu Tông trong tửu điếm đột nhiên soạt ra mới vong linh tôi tớ.
+
+	Sở dĩ muốn nói một chút này mới vong linh tôi tớ, hoàn toàn là bởi vì lần này Liễu Tông Thương Long cứ điểm có thành thị phụ sau, hắn trong tửu điếm soạt ra một loại mới vong linh thành chủ.
+
+	Lần này xuất hiện là ba vị, chỉ có ở thành thị phụ xác định sau mới phải xuất hiện, phẩm chất, thuộc tính cái gì cùng thành thị phụ tương thông, về phần xuất hiện số lượng một lần là xuất hiện ba vị, tuyển chọn sau khi hoàn thành, trừ phi lại có một mới thành thị phụ thành chủ vị trí ghế trống, bằng không sẽ thấy cũng sẽ không xuất hiện loại này vong linh tôi tớ.
+
+	Lần này xuất hiện ba vị tự nhiên cùng Bụi Gai Ngân Long thành tình huống tương quan, một vị là toàn thân màu bạc trắng Rukhmar chi tử, đương nhiên tại đây trong bọn họ được xưng là Người Quạ Màu Bạc, một vị là người bình thường thân cao đầu ưng thân người ngân sắc pho tượng, còn có một vị lại là mọc Tích Dịch đầu hình người vong linh.
+
+	Ba vị này trên người trang bị nhìn chân tình làm đều tương đối hoa lệ, mỗi người trong tay cầm đồ đạc cũng không giống với, Người Quạ Màu Bạc cầm là một cây trường mâu, ngân sắc pho tượng cầm trong tay chính là quyền trượng, Tích Dịch đầu vị kia cầm trong tay dĩ nhiên là một quyển sách.
+
+	Ba vị cũng không có thuộc tính, đẳng cấp Lv1, phẩm chất tất cả đều là màu lục, không có tên của mình, duy nhất có thể lấy biết đến là, Người Quạ Màu Bạc là chiến đấu hình thành chủ, sẽ chủ động mang theo thủ hạ xuất chiến, nếu như trở thành Bụi Gai Ngân Long thành chủ, thành trung bộ đội chiến lực đem đề thăng 5%.
+
+	Ngân sắc pho tượng là quyền lực hình thành chủ, đối thành trung hành công tác chính trị làm sẽ có rất lớn khống chế, nếu như trở thành Bụi Gai Ngân Long thành chủ, thành chủ kiến trúc cùng phát triển tốc độ đem đề thăng 5%.
+
+	Cuối cùng vị kia Long Huyết Tích Dịch người là nghiên cứu hình thành chủ, đối với thành giữa khoa học kỹ thuật nghiên cứu phương diện có tăng lên, nếu như trở thành Bụi Gai Ngân Long thành chủ, thành giữa khoa học kỹ thuật nghiên cứu tốc độ nói đem thăng 5%, nhưng bây giờ vấn đề là Bụi Gai Ngân Long thành sẽ trở thành một nghiên cứu hình thành thị sao?
+
+	Ở trước tiên Long Huyết Tích Dịch người đã bị từ bỏ, Liễu Tông tính toán một hạ tối hậu lựa chọn con kia Người Quạ Màu Bạc trở thành Bụi Gai Ngân Long thành mới thành chủ.
+
+	Ở Liễu Tông tuyển chọn sau khi hoàn thành trong nháy mắt, mặt khác hai vị trực tiếp liền từ trong tửu điếm rời đi, tiếp đó Liễu Tông nhận được tin tức, Bụi Gai Ngân Long thành giữa một trăm người thành chủ hộ vệ đã vào chỗ, chỉ chờ thành chủ về vị trí.
+
+	Không ngờ vị này Người Quạ Màu Bạc vậy mà không có trực tiếp rời khỏi, mà là đối Liễu Tông nói: "Bụi Gai Ngân Long thành năm tên vong linh tôi tớ chỗ trống cũng cho ta được không?"

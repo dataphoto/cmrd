@@ -1,4 +1,4 @@
- 	Chương 03: Tu hành cảnh giới
+Chương 03: Tu hành cảnh giới
 
 	Say quá mới biết rượu đậm đặc, có yêu mới biết tình trọng, có được cùng mất đi qua mới biết trân quý!
 
@@ -205,5 +205,3 @@
 	Bịch ——
 
 	Lọt vào trong hồ nước, bọt nước một mảnh.
-
- 

@@ -1,0 +1,72 @@
+Năm 2012 ngày 1 tháng 5 TQ một cái đất liền thành phố nhỏ
+ 
+ 	"Ai ~~ "
+ 
+ 	Diêm Thành một tòa trường ĐH-CĐ phổ thông phòng ngủ nam sinh bên trong truyền ra một tiếng kéo dài than thở, trong thanh âm xen lẫn có chút không biết làm sao cùng không có sức. Thanh âm chủ nhân tên là Trần Tấn Nguyên, năm nay 22 tuổi, lớn lên 1 gương mặt, thuộc về cái loại đó mất mặt trong đống liền tìm không ra người, dùng một cái từ để hình dung, đó chính là phổ thông, đạt tới phổ thông. Tốt nghiệp trung học sau bổ túc một năm thi đậu một cái đại học loại 2 Diêm Đô học viện, học một cái thiên môn chuyên nghiệp. Năm thứ tư đại học đã qua một nửa, học kỳ kế liền tốt nghiệp vẫn còn không tìm được công tác, suy nghĩ một chút cảm thấy bi thảm, trường học đã nghỉ phép sắp một tuần lễ, ngủ chung phòng các anh em cũng thật sớm về nhà ăn tết, chỉ còn lại Trần Tấn Nguyên cùng một cái chuẩn bị thi lão huynh còn tiếp tục trạch ở phòng ngủ.
+ 
+ 	Một cái đầu đầy tóc rối bời, thần thái mệt mỏi, lối ăn mặc sắc bén thiếu niên đang ngồi ở trước bàn máy vi tính mắt không chớp xem trên trang mạng tuyển mộ tin tức, chỉ thấy người này trên người mặc một bộ áo khoác màu xanh lá cây nhái Adidas, hạ thân nhưng chỉ mặc trước một cái quần len màu lửa đỏ, trên chân còn treo một đôi thêu Hỉ Dương Dương đồ án lông dép. Quả nhiên đủ sắc bén. . . Đây cũng là chủ nhân của chúng ta Trần Tấn Nguyên.
+ 
+ 	" Chửi thề một tiếng. . . Vừa không có. . ."
+ 
+ 	Nhìn trên trang mạng biểu hiện tìm kiếm kết quả, Trần Tấn Nguyên trong lòng có chút phiền não, những thứ này tuyển mộ tin tức không phải yêu cầu quá cao coi thường mình chính là đãi ngộ quá thấp mình coi thường, đầu mấy phần sơ lược lý lịch nhưng cũng thạch chìm biển khơi, một chút hồi âm cũng không có, quay đầu nhìn phòng ngủ trống rỗng, Trần Tấn Nguyên lần đầu cảm giác được cái gì gọi là không giúp. Tạm thời bi từ trong tới, không nhịn được nghĩ khóc: "Ai. . . Còn có so với ta càng bi thảm người sao? Đi học mấy chục năm sách, quay đầu lại liền công tác cũng không tìm được, tiểu gia đời người làm sao cứ như vậy đa suyễn à?"
+ 
+ 	Đang than thở ở giữa, cửa rắc rắc một tiếng mở ra, cửa xuất hiện một cái thô bỉ bóng người, người này mặc một bộ thật dầy lông phục, tay xách một cái giữ tươi túi, trên lưng bội bạc một cái thật to túi sách, "Ơ. . . Tiểu Lục tử, lại đang cảm thán gì chứ?"
+ 
+ 	Nguyên lai là thi lão huynh Trương Tuấn trở về, Trần Tấn Nguyên ở phòng ngủ trong 6 người tuổi tác nhỏ nhất, cho nên mọi người cũng gọi hắn Tiểu Lục tử, Trương Tuấn là người Phong Đô , Du châu, lớn lên 1 bản gương mặt người Tân Cương, ngày thường mọi người đều cảm thấy thằng nhóc này hiền lành, thật ra thì tiểu tử này là phòng ngủ trong 6 người nhất im lìm một cái, trong đầu đựng số lượng cao không tốt tư tưởng, mỗi ngày buổi tối phòng ngủ tắt đèn sau cũng sẽ cho mọi người nói mấy cái không tốt tiết mục ngắn, trực tiếp đưa đến kỳ được cái ngoại hiệu nhỏ **. Bởi vì là thành tích tốt, cho nên Trương Tuấn muốn kiểm tra Du châu đại học nghiên cứu sinh, tiếp tục học thêm, cho nên mỗi ngày đều thức khuya dậy sớm tự học, trời chưa sáng cũng thức dậy đi thư viện, trời tối mới trở về phòng ngủ, ngày hôm nay làm sao biết trở về sớm như vậy đâu ? Trần Tấn Nguyên trong lòng có chút buồn bực.
+ 
+ 	/*Dzung Kiều : Du Châu(tên gọi khác của Trùng Khánh, tỉnh Tứ Xuyên, Trung Quốc)*/
+ 
+ 	"Là ngươi à lão Tam, không tìm được việc làm phiền thôi! Áp lực lớn à, cũng không dám về nhà ăn tết!"
+ 
+ 	"Phiền cái quái gì à! Ngươi còn có thể có ta áp lực lớn! Ta ngày mốt thì phải cuộc thi, cái này hai ngày cứ sợ hết hồn hết vía, làm sao cũng học tập không đi vào, áp lực núi lớn à! Tới ăn hột đào!" Vừa nói liền từ trên tay giữ tươi trong túi lấy ra một cái hột đào, hướng Trần Tấn Nguyên ném tới.
+ 
+ 	Trần Tấn Nguyên thuận tay nhận lấy, tiện tay để ở một bên trên bàn, nói: "Ta nói lão Tam, ngày hôm nay sao sớm như vậy trở về? Không giống ngươi tác phong à?"
+ 
+ 	"Hey! Sớm một chút hồi tới thu dọn đồ đạc thôi, chờ lát nữa buổi chiều ngồi xe đi Du châu tìm một quán trọ trước ở, ngày mốt liền trực tiếp đi Du châu đại học thi!" Kiểm tra qua nghiên cứu sinh sư huynh hẳn đều biết, nếu như muốn kiểm tra trường học nào nghiên cứu sinh, vậy tốt nhất đi ngay cái đó trường học tham gia thi, mặc dù phiền toái một chút nhưng là thi đậu tỷ lệ rất cao, "Tình huống gì, ngươi buổi chiều phải đi, vậy phòng ngủ không cũng chỉ còn lại có ta một người?" Trần Tấn Nguyên trong lòng thoáng qua một tia cô tịch.
+ 
+ 	/*Dzung Kiều : là ĐH Trùng Khánh*/
+ 
+ 	"Ai bảo thằng nhóc ngươi nghỉ phép không trở về nhà, một người ở trường học vui à?"
+ 
+ 	"Ta đây là đang chơi sao? Ta ở tìm việc làm có được hay không, phòng ngủ liền ta một người không tìm được công tác, tim đập rộn lên à! Đi mấy lần Thành Đô, công tác không tìm được, tiền xe ngược lại là xài không thiếu, ai, không đả thương nổi à!" Trần Tấn Nguyên bất đắc dĩ tả oán nói.
+ 
+ 	" Mẹ kiếp, thằng nhóc ngươi hoảng cái rắm à, ngươi cũng không xem xem bọn họ tìm là công việc gì, 800 đồng tiền một tháng, còn một đám người cướp đoạt, thôn chúng ta đi kinh thành tu xe điện ngầm nông dân công một ngày cũng kiếm 200, 800 đồng tiền tương lai cho đứa nhỏ mua sửa bột cũng không đủ, không phải còn có một cái học kỳ sao, học kỳ kế nói sau mà, trước đưa cái này tuổi đã hơn tốt mới là vương đạo!" Trương Tuấn một bên thu dọn đồ đạc, một bên cười mắng.
+ 
+ 	"Ách. . Cũng đúng à, bây giờ sinh viên khắp nơi đều là, sớm biết tốt nghiệp trung học đệ nhất cấp đi ngay đi làm thôi, nói không chừng bây giờ con trai cũng có thể đả tương du, ta đời này coi như là phá hủy, ta quyết định, về nhà ăn tết, mẹ, câu nói kia tại sao nói 'Xe tới trước núi tất có đường, thuyền đến đầu cầu tự nhiên dường như' mà, ta cũng không tin thiên hạ lớn không có ta đất dung thân "
+ 
+ 	"Vậy thì đúng rồi, sau này phát đạt cũng đừng quên ta à!" Trương Tuấn trêu nói.
+ 
+ 	"Cho mượn ngươi chúc lành rồi, chúc ngươi thi một thành tích tốt à! Ông già này trước ngủ trưa nói sau, ngủ nhưng mà trốn tránh thực tế phương pháp tốt nhất, thu dọn đồ đạc nhỏ tiếng một chút à, đừng quấy rầy liền ông già này mộng đẹp!" Trần Tấn Nguyên vừa nói một bên cởi giầy đi trên giường leo đi, đậy lại chăn liền bắt đầu hô hô ngủ say, chỉ chốc lát sau liền ngáy lên! Trương Tuấn thấy tình cảnh này, không khỏi lắc đầu một cái.
+ 
+ 	Thằng nhóc này không phải là thuộc heo đi, kề cận gối liền ngáy, thật là thần nhân à.
+ 
+ 	Tỉnh dậy, lật lấy điện thoại ra vừa thấy sắp sáu giờ, bên trong phòng ngủ trống rỗng, lão Tam thằng nhóc này không biết lúc nào đã đi rồi, lúc đi cũng không kêu một tiếng, giấc ngủ này thật là trời đất u ám, Trần Tấn Nguyên vừa trách móc bên mau mặc vào quần áo, chuẩn bị đi ra ngoài ăn cơm tối, đi ra phòng ngủ cửa, bị tháng chạp gió lạnh thổi Trần Tấn Nguyên đột nhiên cảm giác tâm tình thoải mái rất nhiều, đem cái gì phiền não cũng quên mất, phát hiện ở trường học đã không có người nào, phòng ăn cũng thật sớm liền phải chuẩn bị đóng cửa, khá tốt Trần Tấn Nguyên tới kịp thời, xài năm đồng tiền kêu tô mì thịt bò lấp đầy bụng.
+ 
+ 	Trở lại phòng ngủ liền lấy điện thoại di động ra cho nhà gọi điện thoại, Trần Tấn Nguyên nhà ở nông thôn, cha mẹ đều ở đây việc nhà nông, trông nom mấy mẫu ruộng cằn, một năm đến cuối cũng kiếm không được mấy đồng tiền, trong nhà còn có một cái 15 tuổi em gái Trần Tĩnh Dong, người một nhà hy vọng đều đặt ở Trần Tấn Nguyên trên người, mỗi lần về nhà thấy mệt nhọc cha mẹ dùng mong đợi ánh mắt nhìn mình thời điểm, Trần Tấn Nguyên đều sẽ có một loại xung động muốn khóc.
+ 
+ 	"Ca. . ." Điện thoại thông.
+ 
+ 	Trần Tấn Nguyên còn không nói chuyện, bên đầu điện thoại kia thì đã truyền tới thanh âm quen thuộc: "Này . Là Tấn Nguyên sao. . . ." Nhận điện thoại là Trần Tấn Nguyên mẹ Vương Tú Trân.
+ 
+ 	Thanh âm quen thuộc để cho Trần Tấn Nguyên cảm thấy có chút ấm áp, làm mẹ Trần nghe nói Trần Tấn Nguyên cái này mấy ngày bất quá làm Trần Tấn Nguyên hỏi tới tình huống trong nhà, mẹ giọng có chút né tránh, chẳng qua là nói cho trong nhà hắn hết thảy đều tốt. Trần Tấn Nguyên trực giác nhà tựa hồ đã xảy ra chuyện gì, bất quá mặc dù trong lòng có nghi vấn, nhưng là cũng không suy nghĩ nhiều. Tiếp lại là một hồi ân cần hỏi han sau đó sau đó, liền cúp điện thoại.
+ 
+ 	Không có chuyện gì làm liền mở máy vi tính ra nhìn lên điện ảnh tới, Trần Tấn Nguyên dùng là một máy vi tính cũ. Hai ngày trước liền thiếu phí cắt Net, dứt khoát đến điện tín cục làm ngừng số bảo vệ thẻ, dù sao mấy ngày nay liền về nhà. Máy vi tính liền không nối mạng, cũng chỉ có thể nhảy ra trước kia tải xuống điện ảnh xem, Trần Tấn Nguyên là một mười phần trạch nam, không có gì đặc biệt yêu thích, cả ngày trạch ở phòng ngủ lên Net, lại không thích chơi trò chơi, lên Net cũng giới hạn với xem phim, xem tiểu thuyết cùng nói chuyện phiếm, nhất là thích xem Kim đại hiệp mấy bộ nổi tiếng tiểu thuyết soạn lại phim truyền hình, thật là trăm xem không chán, còn có gần đây lại si mê một bộ quốc sản kinh điển võ hiệp động tràn đầy 《 Tần Thì Minh Nguyệt 》, bị trong đó gợn sóng vĩ đại đủ loại trào lưu văn hóa nơi xuất chinh phục, vì vậy thật sớm liền kế tiếp đến trong máy vi tính, chuẩn bị giữ lại sau này sẽ chậm chậm thưởng thức, bây giờ xem vừa vặn!
+ 
+ 	Cầm lên lão Tam cho hột đào, thả trong miệng dùng răng cắn một cái.
+ 
+ 	"Cmn ! Đây là gì trò vui, răng thiếu chút nữa cho gia các hết!" Nhổ mấy bãi nước miếng, vây quanh phòng ngủ vòng vo một vòng, cứng rắn là không có tìm được có thể sử dụng tới chùy hột đào công cụ, vì vậy giao trái tim đưa ngang một cái, đem hột đào đặt lên bàn, một cái tát vỗ tới.
+ 
+ 	"Ngao. ."
+ 
+ 	Một hồi thê lương sói tru ở phòng ngủ bầu trời vang vọng, "Con bà nó, lão Tam mua là gì hột đào, đồ chơi này là hột đào sao? Không phải là trứng sắt đi!" Trần Tấn Nguyên che tay phải chảy máu nhảy cỡn lên.
+ 
+ 	"Mẹ, liền một cái hột đào nho nhỏ đều khi dễ tiểu gia ta!" Chịu đựng đau đớn kịch liệt, đem cái đó ở mình thiết chưởng hạ không hư hao chút nào hột đào bắt được trước mắt nghiên cứu cẩn thận đứng lên."Đồ chơi này là hột đào sao? Sao càng xem càng không giống đây?" Nhìn cái này cái hột đào không bị thương chút nào, Trần Tấn Nguyên có chút im lặng, chỉ gặp đồ chơi này toàn thân đen nhánh, bề ngoài gồ ghề như một khối ngọc đen vậy tản ra quỷ dị hắc mang, thoáng như một cái mô hình nhỏ hắc động vậy có thể hút khiếp người tâm thần.
+ 
+ 	Mà lúc này Trần Tấn Nguyên lại không có phát hiện mình tay phải trong vết thương chảy ra huyết dịch đang theo ngón tay chảy hướng hột đào, cũng nhanh chóng bị kỳ hấp thu, "Mẹ, đồ chơi này tà môn mà, làm sao cảm giác đầu mơ màng nặng trĩu, cả người không có sức đâu, không phải là trúng tà đi!" Trần Tấn Nguyên cảm giác cả người nhiệt lượng tựa hồ đang cách mình đi, quay đầu nhìn một chút phòng ngủ trống rỗng, Trần Tấn Nguyên cảm thấy một hồi da đầu tê dại, sống lưng lạnh cả người.
+ 
+ 	Điều kiện phản xạ tựa như muốn đem điều này hột đào tà môn vứt bỏ, nhưng mà đồ chơi này giống như lớn lên ở trên tay mình vậy, kéo cũng kéo không xuống, cẩn thận nhìn một cái Trần Tấn Nguyên rốt cuộc phát hiện tình trạng "Nó đang hút máu, nó đang hút ta máu. . .", sợ hãi mãnh liệt khiến cho Trần Tấn Nguyên tim đập càng lúc càng nhanh, viên này quỷ dị hột đào hút máu tốc độ cũng càng lúc càng nhanh, theo huyết dịch hấp thu, viên này giống như hột đào trò vui trở nên càng ngày càng dịch thấu trong suốt, càng ngày càng ánh sáng theo người, nhiều mất máu khiến cho Trần Tấn Nguyên đầu càng ngày càng chìm, ánh mắt đều tựa hồ không mở ra được, rốt cuộc chịu đựng không nổi ngất đi, ở mất đi ý thức trước, Trần Tấn Nguyên tựa như thấy được viên kia quỷ dị hột đào hóa là một luồng ánh sáng đen hướng ót của mình đánh tới, có thể hắn lúc này liền khí lực tránh né cũng không có, trong đầu chỉ có một ý niệm: "Chết, chết, cái này chết chắc! Anh vẫn là trai tơ đâu, lão Tam ta hận ngươi. . ."
+ 
+ 
+ 	
+ Converter Dzung Kiều cầu ủng hộ bộ Đạo Tàng Mỹ Lợi Kiên này nhé  	
+ /*Dzung Kiều : cầu phiếu đề cử bên web mới và các bạn đọc trên app vote * cao dùm mình*/

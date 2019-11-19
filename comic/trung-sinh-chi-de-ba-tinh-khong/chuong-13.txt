@@ -1,4 +1,4 @@
- 	Chương 13: Đánh nện tiệm thợ may
+Chương 13: Đánh nện tiệm thợ may
 
 	Dương Quang hoa viên, cư xá bên ngoài trên đường phố, có một nhà tiểu tiệm thợ may.
 
@@ -189,5 +189,3 @@
 	Vèo ——
 
 	'Lâm thúc' chỉ cảm thấy bên cạnh trong lúc đó chà xát một trận gió, trong phòng Mục Vân Phong, đã biến mất không thấy gì nữa.
-
- 
