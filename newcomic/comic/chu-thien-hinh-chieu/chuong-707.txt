@@ -1,0 +1,915 @@
+Chương 704: Nghịch tìm Thanh Ngưu
+
+	Vạn tộc thi đấu quy tắc rất đơn giản, một tầng mãi cho đến chín tầng, không ngừng chém giết lẫn nhau, cũng muốn cùng Tĩnh Hải Hầu huyễn hóa ra tới huyễn ảnh chém giết.
+
+	Mấy năm kéo lên một tầng, chỗ tao ngộ huyễn ảnh cũng càng cường đại, tương truyền sáu tầng phía trên thậm chí có Thần Ma cửu trọng thiên huyễn ảnh.
+
+	Là lấy, vạn tộc thi đấu thời hạn mặc dù chừng trăm năm, nhưng kì thực bên trên, nhiều nhất mấy chục năm cũng có thể phân ra thắng bại tới.
+
+	"Bây giờ bất quá vừa mới thời gian ba, bốn năm, đại đa số người còn tại Vạn Ma Tháp ba bốn tầng, trọn vẹn mấy vạn tiểu thế giới, muốn giải quyết, nói nghe thì dễ?"
+
+	Miêu Tiêu Tiêu lắc đầu.
+
+	Cho dù Cố Thiếu Thương cùng Vương Nguyên Thủy thực lực có một không hai lần này Vạn Ma Tháp, những người khác không phải là đối thủ, muốn kết thúc cái này vạn tộc thi đấu, cũng không phải dễ dàng như vậy.
+
+	Dù sao, mấy vạn cái tiểu thế giới, giấu kín, muốn tìm kiếm, đơn giản như là mò kim đáy biển.
+
+	"Cái này Vạn Ma Tháp bên trong, sáu tầng phía trên đều là mỗi tầng một chỗ tiểu thế giới, năm tầng cũng chỉ có chín nơi tiểu thế giới mà thôi, từng cái tìm kiếm, cũng không dùng đến bao nhiêu thời gian."
+
+	Cố Thiếu Thương mỉm cười, ánh mắt nhìn thấy nơi xa núi tuyết phía trên Trần Tử Ngang, Thiên Binh Phương Thiên, Man Cương bọn người.
+
+	Có những người này làm giúp đỡ, tự nhiên cũng không dùng đến quá nhiều thời gian.
+
+	Vương Nguyên Thủy khẽ vuốt cằm.
+
+	Nơi xa núi tuyết phía trên, Trần Tử Ngang bọn người ngồi xếp bằng, sắc mặt khác nhau.
+
+	Cố Thiếu Thương ba người trò chuyện không có cố ý giấu diếm, bọn hắn tự nhiên cũng nghe đến ba người trò chuyện.
+
+	"Xác thực, cũng không có cái gì cần thiết."
+
+	Man Cương lắc đầu.
+
+	Mấy người bọn họ tất cả đều giải quyết đối thủ, xem như hoàn thành trong tộc trưởng bối nhắc nhở, ở ngoài sáng biết không phải Cố Thiếu Thương hai người đối thủ tình huống phía dưới, tự nhiên cũng sẽ không truy cầu vạn tộc thi đấu thứ hạng.
+
+	Liên tục Thiên Nhân Đế Thích đều bại, Nhân tộc thu hoạch được thứ nhất, đã không thể nghi ngờ.
+
+	Tu La Vô Sinh khẽ lắc đầu, phiếm hồng sắc mặt phía trên mang theo một tia không hiểu ý cười: "Nghe nói, Thiên Nhân tộc tham gia lần này vạn tộc thi đấu lúc đầu có hai người, Thiên Nhân Đế Thích tự cao tự đại, một mình tiến vào, giờ phút này nghĩ đến cũng có chút hối hận."
+
+	Thiên Nhân Đế Thích trời sinh Thần Ma, càng là Thiên Nhân tộc thiên kiêu, hơn xa phổ thông Thiên Nhân tộc, tại vạn tộc gây nên trung hoà đều có cực lớn danh khí.
+
+	Lần này ăn như thế nhất cái thiệt thòi lớn, đang ngồi mấy người trong lòng đều có chút thống khoái.
+
+	"Sớm đi cũng tốt, cái này thi đấu không có ý gì."
+
+	Thiên Binh Phương Thiên khuôn mặt nhỏ băng lãnh, trắng thuần tay nhỏ lau sạch lấy trong tay Phương Thiên Họa Kích.
+
+	"Người này, đến cùng là từ đâu xuất hiện?"
+
+	Chỉ có Trần Tử Ngang, cắn răng nhìn xem Cố Thiếu Thương, trong lòng trăm mối vẫn không có cách giải.
+
+	Nhất cái rõ ràng không bằng hắn người, tại ngắn ngủi thời gian một năm, thực lực liền nghiền ép đánh bại liên tục hắn cũng không phải đối thủ Thiên Nhân Đế Thích, đây cũng quá qua bất khả tư nghị.
+
+	Đây không phải thiên tư có thể giải thích.
+
+	Trong lúc nhất thời, trong lòng của hắn miên man bất định.
+
+	Hô hô ~
+
+	Hàn phong quét mà qua, Cố Thiếu Thương cùng Vương Nguyên Thủy sóng vai mà tới.
+
+	Ngắn ngủi trò chuyện về sau, tính cả Thiên Binh Phương Thiên ở bên trong mấy người đi tứ tán, đi hướng cái khác tiểu thế giới.
+
+	"Thiên Nhân Đế Thích còn chưa rời khỏi, ta đi tìm nàng."
+
+	Vương Nguyên Thủy nhìn Cố Thiếu Thương một chút, cùng Miêu Tiêu Tiêu hai người phiêu nhiên mà đi.
+
+	Hắn cả đời kiên cường, Thiên Nhân Đế Thích dám can đảm đuổi giết hắn, cũng phải làm tốt bị hắn phản sát chuẩn bị.
+
+	Trong lúc nhất thời, núi tuyết phía trên, chỉ còn lại có Cố Thiếu Thương, cùng tâm sự nặng nề Trần Tử Ngang.
+
+	Cố Thiếu Thương nhìn về phía Trần Tử Ngang, tự tiếu phi tiếu nói: "Ngươi còn muốn giết ta sao?"
+
+	"Hô!"
+
+	Trần Tử Ngang có chút hít một hơi, sắc mặt bình tĩnh nói ra: "Lấy ngươi thực lực hôm nay, ta vô luận như thế nào cũng không phải đối thủ, ngươi nếu muốn động thủ, cứ việc động thủ là được."
+
+	Hắn sở dĩ đi theo Man Cương bọn người sau lưng, ngoại trừ có quan hệ Thái Thanh sự tình bên ngoài, cũng là hắn biết rõ, lấy Cố Thiếu Thương bây giờ tu vi, thật muốn đuổi giết hắn, cái này Vạn Ma Tháp mặc dù lớn, hắn cũng không có chỗ có thể trốn.
+
+	"Con khỉ kia, cái gì lai lịch?"
+
+	Cố Thiếu Thương cười cười, mở miệng hỏi.
+
+	Đại Minh Sơn Yêu Đình lần này dẫn đội con kia lão hầu tử, trước đó dám ở Tĩnh Hải Hầu phủ ra tay với hắn, Cố Thiếu Thương đương nhiên sẽ không buông tha hắn.
+
+	Trần Tử Ngang nao nao, cũng không có giấu diếm, nói ra: "Thái Viêm Võ là Đại Minh Sơn Thánh Long Vương tọa hạ một con Thần Hầu,
+
+	Huyết mạch truyền lại từ Hồn Thiên Thần Hầu, Thần Ma lục trọng thiên tu vi."
+
+	"Thần Ma lục trọng thiên. . . ."
+
+	Cố Thiếu Thương khẽ vuốt cằm, nói: "Xem ra, Đại Minh Sơn kia lão Long, cũng không có quá mức để ý lần này vạn tộc thi đấu, dẫn đội cũng chỉ là một con lục trọng thiên lão Khỉ mà thôi."
+
+	Trần Tử Ngang khóe miệng giật một cái.
+
+	Yêu tộc nhân số mặc dù to lớn, nhưng là Thần Ma cấp đã không hề nghi ngờ là một phương đại năng, Thái Viêm Võ dạng này Thần Ma lục trọng Thần Thú huyết mạch, tại Đại Minh Sơn Thánh Long Vương tọa hạ, cũng là hết sức quan trọng đại nhân vật.
+
+	Dẫn đội đối phó Yến quốc như thế nhất cái nơi chật hẹp nhỏ bé, xuất động như vậy đại nhân vật, đã là cực kì để ý.
+
+	Hắn chỗ nào biết được, Yến quốc một cái dân cư bất quá mấy vạn vạn tiểu quốc, trong đó thế mà có thể có một tôn bất mãn năm ngàn tuổi Thần Ma cấp thiên kiêu!
+
+	Đây quả thực so vũng bùn bên trong nhảy ra Chân Long còn muốn không thể tưởng tượng nổi.
+
+	Gặp Trần Tử Ngang trầm mặc không nói, Cố Thiếu Thương lần nữa mở miệng nói: "Liên quan tới Thái Thanh ta biết rải rác, đối với kia Đại Đạo Thanh Ngưu, ta cũng không rõ ràng."
+
+	Có chút dừng lại, Cố Thiếu Thương ánh mắt hơi sáng lấy: "Bất quá, đối với trên người ngươi Đại Đạo Thanh Ngưu huyết mạch, ta còn là có chút hứng thú."
+
+	Đại Đạo Thanh Ngưu không hề nghi ngờ chính là Tiên Thiên Thần Thánh cấp số tồn tại, loại tồn tại này, một giọt máu cũng đủ để bằng được thế gian bất luận cái gì thần Binh Linh thuốc, đủ để cho hết thảy Thần Ma cấp cường giả tâm động.
+
+	Mà Cố Thiếu Thương, quanh thân hạt mô phỏng hạt, trên bản chất là nửa bước Thất tinh Bàn Thương, nhưng là Bàn Thương cũng chỉ có bỏ mình sát na mới có một tia Tiên Thiên Thần Ma khí tượng.
+
+	Muốn mạnh hơn, tự nhiên muốn hiểu rõ Tiên Thiên Thần Ma huyền bí.
+
+	Một giọt này Đại Đạo Thanh Ngưu huyết mạch, đối với hắn tác dụng, tự nhiên là không nhỏ.
+
+	"Ngươi muốn quất ta huyết mạch?"
+
+	Trần Tử Ngang lông mày khẽ nhúc nhích, nhưng không có thất kinh.
+
+	Sớm tại Cố Thiếu Thương xuất thủ đánh bại Thiên Nhân Đế Thích, Trần Tử Ngang liền biết một ngày này đến, cũng không có cái gì quá lớn ngoài ý muốn cùng hoảng sợ.
+
+	"A."
+
+	Nhìn xem sắc mặt bình tĩnh Trần Tử Ngang, Cố Thiếu Thương có chút lung lay, mang theo một chút thương hại nói: "Đại Đạo Thanh Ngưu Biến tu hành, vốn là từng bước một đưa ngươi bản nguyên hướng Đại Đạo Thanh Ngưu rảo bước tiến lên, cho đến thành tựu Đại Đạo Thanh Ngưu thân thể pháp môn, tu luyện tới cuối cùng, thân thể của ngươi, liền sẽ biến thành Đại Đạo Thanh Ngưu giáng lâm nơi đây vật dẫn."
+
+	"Buồn cười ngươi còn không tự biết!"
+
+	"Cái gì?"
+
+	Trần Tử Ngang biến sắc, ánh mắt bên trong thanh quang tăng vọt ba thước: "Ngươi đang gạt ta!"
+
+	"Cái này, không có khả năng!"
+
+	Trần Tử Ngang cắn răng.
+
+	Hắn vốn là nhất huyết mạch hỗn tạp bán yêu, cả đời nhận hết khổ sở, cái này Đại Đạo Thanh Ngưu Biến là cải biến hắn cả đời kỳ ngộ, không có cái này kỳ ngộ, hắn hôm nay đã sớm vùi sâu vào đất vàng.
+
+	Bây giờ nghe nói cái này kỳ ngộ chính là cái bẫy, trong lòng của hắn lập tức nhấc lên sóng to gió lớn.
+
+	Hắn gầm thét nói không tin, nhưng trong lòng ẩn ẩn có cái ý niệm tại nói cho hắn biết, cái này rất có thể là thật.
+
+	Ầm ầm!
+
+	Mười vạn dặm bên trong núi tuyết trong nháy mắt bị Trần Tử Ngang tiết ra ngoài khí cơ nghiền ép mà nát, đất rung núi chuyển, đếm bằng ức vạn bùn đất nhấp nhô tựa như từng đạo cự long tại phía dưới mặt đất xoay người bình thường.
+
+	Cố Thiếu Thương đứng chắp tay, lẳng lặng nhìn xem.
+
+	Thế gian khó có cơm trưa miễn phí, tại Chư Thiên Vạn Giới bên trong, không biết có bao nhiêu người vì cái gì "Kỳ ngộ" lưu truyền.
+
+	Những kỳ ngộ này càng giống là từng cái mồi nhử, nghe ngóng mùi thơm xông vào mũi, quả thật cửa vào , chờ đợi ngươi, có lẽ cũng không thật là khéo.
+
+	Giống như, Cố Thiếu Thương một mực tại không ngừng học tập nghiên cứu Chư Thiên Kính rất nhiều vận chuyển pháp môn, Nguyên lực sử dụng, hắn trên bản chất, sao lại không phải đối Chư Thiên Kính có chỗ kiêng kị đâu.
+
+	Thật lâu, Trần Tử Ngang cảm xúc bình tĩnh trở lại.
+
+	"Ta, không, tướng, tin!"
+
+	Trần Tử Ngang nhìn xem Cố Thiếu Thương, từng chữ nói ra nói ra: "Ngươi cho dù giết ta, ta cũng sẽ không tin tưởng!"
+
+	"Ta không cần ngươi tin?"
+
+	Cố Thiếu Thương cười nhạt một tiếng, bàn tay có chút lật một cái, tìm tòi, hướng về Trần Tử Ngang tìm tòi mà xuống: "Ta tin như vậy đủ rồi!"
+
+	Ầm ầm!
+
+	Trần Tử Ngang trong lòng giật mình, cảm giác hết thảy tia sáng đều bị cái này một cái tay che đậy, chỉ cảm thấy một cỗ tràn trề không làm tuyệt nhiên đại lực nghiền ép mà xuống.
+
+	"Ngươi!"
+
+	Hắn vừa mới mở miệng phun ra một chữ, kia hạo nhiên không thể đỡ, phách tuyệt thiên địa một chưởng, liền đã ầm ầm đánh xuống!
+
+	Ông ~~~
+
+	Trần Tử Ngang chỉ cảm thấy mắt tối sầm lại, trong đầu ông minh chi thanh chấn động không ngớt.
+
+	Trong thoáng chốc, hắn nhìn thấy một đạo bá liệt cường tuyệt quyền ý, tại trong đầu của hắn tìm tòi mà vào, đi ngược dòng nước, ngược dòng tìm hiểu lấy cái gì.
+
+	Rầm rầm ~~~
+
+	Tựa như dòng nước đánh ra thanh âm bên trong, Trần Tử Ngang nhìn thấy trí nhớ của mình lưu chuyển mà qua, mấy ngàn năm trải qua sự tình, hắn nhớ kỹ, hắn quên lãng đều không đoạn hiện lên, hóa thành một đạo ký ức trường hà không ngừng chảy xiết.
+
+	Mà kia một đạo bá liệt quyền ý, ngay tại trường hà bên trong truy tìm mà lên.
+
+	Ầm ầm!
+
+	Cuối cùng, một tiếng nổ ầm ầm âm thanh bên trong, hắn thấy được còn nhỏ rớt xuống vách núi.
+
+	Tại cái kia đạo quyền ý chiếu triệt phía dưới, hắn nhìn thấy tự cho là đúng trong lúc vô tình nhảy núi mình, kì thực là bị một cỗ thanh quang mê tâm hồn, tự phát tự trên vách núi nhảy xuống!
+
+	"Đây là. . . . ."
+
+	Trần Tử Ngang trong lòng chấn kinh khó tả.
+
+	Vẫn là kia nhất tòa quen thuộc vách núi, cùng kia một vòng màu thiên thanh "Mặt trời" tản ra đạo đạo thanh quang.
+
+	Kia một vòng màu xanh mặt trời, chính là ẩn chứa Đại Đạo Thanh Ngưu Biến kia một giọt máu.
+
+	Dưới vách núi, ngàn vạn dặm bên trong đều bị thanh quang bao phủ, nhưng là quỷ dị chính là, vô luận là gào thét tới lui Yêu tộc, vẫn là lao nhanh chơi đùa yêu thú, không có bất kỳ cái gì sinh linh có thể phát giác được kia một đạo thanh quang tồn tại.
+
+	Hô ~
+
+	Cố Thiếu Thương quyền ý hoành không mà tới, tựa như Thiên Hà chảy xiết mà đi, đem kia một vòng màu xanh mặt trời bao phủ tại quyền ý dòng lũ bên trong.
+
+	Răng rắc ~
+
+	Hình tượng ầm ầm xé rách.
+
+	"A!"
+
+	Trần Tử Ngang lấy lại tinh thần, trong lòng kịch liệt sôi trào, trong óc dời sông lấp biển bình thường đau đớn.
+
+	Lấy hắn trầm ổn, cũng không khỏi kêu thảm một tiếng.
+
+	Lấy lại tinh thần, liền thấy Cố Thiếu Thương đứng ở nơi xa hư không bên trong, một tay chấp sau lưng, một tay nâng một viên màu xanh nhỏ "Mặt trời" .
+
+	"Quả thật là Tiên Thiên Thần Ma chi huyết."
+
+	Cố Thiếu Thương ánh mắt lấp lóe, nhìn xem một giọt này máu tươi, như có điều suy nghĩ.
+
+	Trần Tử Ngang tự cho là mình đạt được Đại Đạo Thanh Ngưu huyết mạch, kì thực, hắn bất quá là bị một sợi khí tức cải tạo thôi.
+
+	Một giọt máu này một mực tồn tại ở trí nhớ của hắn chỗ sâu, hư ảo cùng chân thực bên trong, chỉ là lẳng lặng chờ đợi Trần Tử Ngang tu vi đạt tới cái nào đó giới hạn về sau, mới có thể cùng hắn dung hợp, triệt để đem hắn thân thể cải tạo thành Đại Đạo Thanh Ngưu thân thể.
+
+	Đến lúc đó, cũng chính là Đại Đạo Thanh Ngưu giáng lâm thời điểm.
+
+	Ầm ầm!Chương 704: Nghịch tìm Thanh Ngưu
+
+	Vạn tộc thi đấu quy tắc rất đơn giản, một tầng mãi cho đến chín tầng, không ngừng chém giết lẫn nhau, cũng muốn cùng Tĩnh Hải Hầu huyễn hóa ra tới huyễn ảnh chém giết.
+
+	Mấy năm kéo lên một tầng, chỗ tao ngộ huyễn ảnh cũng càng cường đại, tương truyền sáu tầng phía trên thậm chí có Thần Ma cửu trọng thiên huyễn ảnh.
+
+	Là lấy, vạn tộc thi đấu thời hạn mặc dù chừng trăm năm, nhưng kì thực bên trên, nhiều nhất mấy chục năm cũng có thể phân ra thắng bại tới.
+
+	"Bây giờ bất quá vừa mới thời gian ba, bốn năm, đại đa số người còn tại Vạn Ma Tháp ba bốn tầng, trọn vẹn mấy vạn tiểu thế giới, muốn giải quyết, nói nghe thì dễ?"
+
+	Miêu Tiêu Tiêu lắc đầu.
+
+	Cho dù Cố Thiếu Thương cùng Vương Nguyên Thủy thực lực có một không hai lần này Vạn Ma Tháp, những người khác không phải là đối thủ, muốn kết thúc cái này vạn tộc thi đấu, cũng không phải dễ dàng như vậy.
+
+	Dù sao, mấy vạn cái tiểu thế giới, giấu kín, muốn tìm kiếm, đơn giản như là mò kim đáy biển.
+
+	"Cái này Vạn Ma Tháp bên trong, sáu tầng phía trên đều là mỗi tầng một chỗ tiểu thế giới, năm tầng cũng chỉ có chín nơi tiểu thế giới mà thôi, từng cái tìm kiếm, cũng không dùng đến bao nhiêu thời gian."
+
+	Cố Thiếu Thương mỉm cười, ánh mắt nhìn thấy nơi xa núi tuyết phía trên Trần Tử Ngang, Thiên Binh Phương Thiên, Man Cương bọn người.
+
+	Có những người này làm giúp đỡ, tự nhiên cũng không dùng đến quá nhiều thời gian.
+
+	Vương Nguyên Thủy khẽ vuốt cằm.
+
+	Nơi xa núi tuyết phía trên, Trần Tử Ngang bọn người ngồi xếp bằng, sắc mặt khác nhau.
+
+	Cố Thiếu Thương ba người trò chuyện không có cố ý giấu diếm, bọn hắn tự nhiên cũng nghe đến ba người trò chuyện.
+
+	"Xác thực, cũng không có cái gì cần thiết."
+
+	Man Cương lắc đầu.
+
+	Mấy người bọn họ tất cả đều giải quyết đối thủ, xem như hoàn thành trong tộc trưởng bối nhắc nhở, ở ngoài sáng biết không phải Cố Thiếu Thương hai người đối thủ tình huống phía dưới, tự nhiên cũng sẽ không truy cầu vạn tộc thi đấu thứ hạng.
+
+	Liên tục Thiên Nhân Đế Thích đều bại, Nhân tộc thu hoạch được thứ nhất, đã không thể nghi ngờ.
+
+	Tu La Vô Sinh khẽ lắc đầu, phiếm hồng sắc mặt phía trên mang theo một tia không hiểu ý cười: "Nghe nói, Thiên Nhân tộc tham gia lần này vạn tộc thi đấu lúc đầu có hai người, Thiên Nhân Đế Thích tự cao tự đại, một mình tiến vào, giờ phút này nghĩ đến cũng có chút hối hận."
+
+	Thiên Nhân Đế Thích trời sinh Thần Ma, càng là Thiên Nhân tộc thiên kiêu, hơn xa phổ thông Thiên Nhân tộc, tại vạn tộc gây nên trung hoà đều có cực lớn danh khí.
+
+	Lần này ăn như thế nhất cái thiệt thòi lớn, đang ngồi mấy người trong lòng đều có chút thống khoái.
+
+	"Sớm đi cũng tốt, cái này thi đấu không có ý gì."
+
+	Thiên Binh Phương Thiên khuôn mặt nhỏ băng lãnh, trắng thuần tay nhỏ lau sạch lấy trong tay Phương Thiên Họa Kích.
+
+	"Người này, đến cùng là từ đâu xuất hiện?"
+
+	Chỉ có Trần Tử Ngang, cắn răng nhìn xem Cố Thiếu Thương, trong lòng trăm mối vẫn không có cách giải.
+
+	Nhất cái rõ ràng không bằng hắn người, tại ngắn ngủi thời gian một năm, thực lực liền nghiền ép đánh bại liên tục hắn cũng không phải đối thủ Thiên Nhân Đế Thích, đây cũng quá qua bất khả tư nghị.
+
+	Đây không phải thiên tư có thể giải thích.
+
+	Trong lúc nhất thời, trong lòng của hắn miên man bất định.
+
+	Hô hô ~
+
+	Hàn phong quét mà qua, Cố Thiếu Thương cùng Vương Nguyên Thủy sóng vai mà tới.
+
+	Ngắn ngủi trò chuyện về sau, tính cả Thiên Binh Phương Thiên ở bên trong mấy người đi tứ tán, đi hướng cái khác tiểu thế giới.
+
+	"Thiên Nhân Đế Thích còn chưa rời khỏi, ta đi tìm nàng."
+
+	Vương Nguyên Thủy nhìn Cố Thiếu Thương một chút, cùng Miêu Tiêu Tiêu hai người phiêu nhiên mà đi.
+
+	Hắn cả đời kiên cường, Thiên Nhân Đế Thích dám can đảm đuổi giết hắn, cũng phải làm tốt bị hắn phản sát chuẩn bị.
+
+	Trong lúc nhất thời, núi tuyết phía trên, chỉ còn lại có Cố Thiếu Thương, cùng tâm sự nặng nề Trần Tử Ngang.
+
+	Cố Thiếu Thương nhìn về phía Trần Tử Ngang, tự tiếu phi tiếu nói: "Ngươi còn muốn giết ta sao?"
+
+	"Hô!"
+
+	Trần Tử Ngang có chút hít một hơi, sắc mặt bình tĩnh nói ra: "Lấy ngươi thực lực hôm nay, ta vô luận như thế nào cũng không phải đối thủ, ngươi nếu muốn động thủ, cứ việc động thủ là được."
+
+	Hắn sở dĩ đi theo Man Cương bọn người sau lưng, ngoại trừ có quan hệ Thái Thanh sự tình bên ngoài, cũng là hắn biết rõ, lấy Cố Thiếu Thương bây giờ tu vi, thật muốn đuổi giết hắn, cái này Vạn Ma Tháp mặc dù lớn, hắn cũng không có chỗ có thể trốn.
+
+	"Con khỉ kia, cái gì lai lịch?"
+
+	Cố Thiếu Thương cười cười, mở miệng hỏi.
+
+	Đại Minh Sơn Yêu Đình lần này dẫn đội con kia lão hầu tử, trước đó dám ở Tĩnh Hải Hầu phủ ra tay với hắn, Cố Thiếu Thương đương nhiên sẽ không buông tha hắn.
+
+	Trần Tử Ngang nao nao, cũng không có giấu diếm, nói ra: "Thái Viêm Võ là Đại Minh Sơn Thánh Long Vương tọa hạ một con Thần Hầu,
+
+	Huyết mạch truyền lại từ Hồn Thiên Thần Hầu, Thần Ma lục trọng thiên tu vi."
+
+	"Thần Ma lục trọng thiên. . . ."
+
+	Cố Thiếu Thương khẽ vuốt cằm, nói: "Xem ra, Đại Minh Sơn kia lão Long, cũng không có quá mức để ý lần này vạn tộc thi đấu, dẫn đội cũng chỉ là một con lục trọng thiên lão Khỉ mà thôi."
+
+	Trần Tử Ngang khóe miệng giật một cái.
+
+	Yêu tộc nhân số mặc dù to lớn, nhưng là Thần Ma cấp đã không hề nghi ngờ là một phương đại năng, Thái Viêm Võ dạng này Thần Ma lục trọng Thần Thú huyết mạch, tại Đại Minh Sơn Thánh Long Vương tọa hạ, cũng là hết sức quan trọng đại nhân vật.
+
+	Dẫn đội đối phó Yến quốc như thế nhất cái nơi chật hẹp nhỏ bé, xuất động như vậy đại nhân vật, đã là cực kì để ý.
+
+	Hắn chỗ nào biết được, Yến quốc một cái dân cư bất quá mấy vạn vạn tiểu quốc, trong đó thế mà có thể có một tôn bất mãn năm ngàn tuổi Thần Ma cấp thiên kiêu!
+
+	Đây quả thực so vũng bùn bên trong nhảy ra Chân Long còn muốn không thể tưởng tượng nổi.
+
+	Gặp Trần Tử Ngang trầm mặc không nói, Cố Thiếu Thương lần nữa mở miệng nói: "Liên quan tới Thái Thanh ta biết rải rác, đối với kia Đại Đạo Thanh Ngưu, ta cũng không rõ ràng."
+
+	Có chút dừng lại, Cố Thiếu Thương ánh mắt hơi sáng lấy: "Bất quá, đối với trên người ngươi Đại Đạo Thanh Ngưu huyết mạch, ta còn là có chút hứng thú."
+
+	Đại Đạo Thanh Ngưu không hề nghi ngờ chính là Tiên Thiên Thần Thánh cấp số tồn tại, loại tồn tại này, một giọt máu cũng đủ để bằng được thế gian bất luận cái gì thần Binh Linh thuốc, đủ để cho hết thảy Thần Ma cấp cường giả tâm động.
+
+	Mà Cố Thiếu Thương, quanh thân hạt mô phỏng hạt, trên bản chất là nửa bước Thất tinh Bàn Thương, nhưng là Bàn Thương cũng chỉ có bỏ mình sát na mới có một tia Tiên Thiên Thần Ma khí tượng.
+
+	Muốn mạnh hơn, tự nhiên muốn hiểu rõ Tiên Thiên Thần Ma huyền bí.
+
+	Một giọt này Đại Đạo Thanh Ngưu huyết mạch, đối với hắn tác dụng, tự nhiên là không nhỏ.
+
+	"Ngươi muốn quất ta huyết mạch?"
+
+	Trần Tử Ngang lông mày khẽ nhúc nhích, nhưng không có thất kinh.
+
+	Sớm tại Cố Thiếu Thương xuất thủ đánh bại Thiên Nhân Đế Thích, Trần Tử Ngang liền biết một ngày này đến, cũng không có cái gì quá lớn ngoài ý muốn cùng hoảng sợ.
+
+	"A."
+
+	Nhìn xem sắc mặt bình tĩnh Trần Tử Ngang, Cố Thiếu Thương có chút lung lay, mang theo một chút thương hại nói: "Đại Đạo Thanh Ngưu Biến tu hành, vốn là từng bước một đưa ngươi bản nguyên hướng Đại Đạo Thanh Ngưu rảo bước tiến lên, cho đến thành tựu Đại Đạo Thanh Ngưu thân thể pháp môn, tu luyện tới cuối cùng, thân thể của ngươi, liền sẽ biến thành Đại Đạo Thanh Ngưu giáng lâm nơi đây vật dẫn."
+
+	"Buồn cười ngươi còn không tự biết!"
+
+	"Cái gì?"
+
+	Trần Tử Ngang biến sắc, ánh mắt bên trong thanh quang tăng vọt ba thước: "Ngươi đang gạt ta!"
+
+	"Cái này, không có khả năng!"
+
+	Trần Tử Ngang cắn răng.
+
+	Hắn vốn là nhất huyết mạch hỗn tạp bán yêu, cả đời nhận hết khổ sở, cái này Đại Đạo Thanh Ngưu Biến là cải biến hắn cả đời kỳ ngộ, không có cái này kỳ ngộ, hắn hôm nay đã sớm vùi sâu vào đất vàng.
+
+	Bây giờ nghe nói cái này kỳ ngộ chính là cái bẫy, trong lòng của hắn lập tức nhấc lên sóng to gió lớn.
+
+	Hắn gầm thét nói không tin, nhưng trong lòng ẩn ẩn có cái ý niệm tại nói cho hắn biết, cái này rất có thể là thật.
+
+	Ầm ầm!
+
+	Mười vạn dặm bên trong núi tuyết trong nháy mắt bị Trần Tử Ngang tiết ra ngoài khí cơ nghiền ép mà nát, đất rung núi chuyển, đếm bằng ức vạn bùn đất nhấp nhô tựa như từng đạo cự long tại phía dưới mặt đất xoay người bình thường.
+
+	Cố Thiếu Thương đứng chắp tay, lẳng lặng nhìn xem.
+
+	Thế gian khó có cơm trưa miễn phí, tại Chư Thiên Vạn Giới bên trong, không biết có bao nhiêu người vì cái gì "Kỳ ngộ" lưu truyền.
+
+	Những kỳ ngộ này càng giống là từng cái mồi nhử, nghe ngóng mùi thơm xông vào mũi, quả thật cửa vào , chờ đợi ngươi, có lẽ cũng không thật là khéo.
+
+	Giống như, Cố Thiếu Thương một mực tại không ngừng học tập nghiên cứu Chư Thiên Kính rất nhiều vận chuyển pháp môn, Nguyên lực sử dụng, hắn trên bản chất, sao lại không phải đối Chư Thiên Kính có chỗ kiêng kị đâu.
+
+	Thật lâu, Trần Tử Ngang cảm xúc bình tĩnh trở lại.
+
+	"Ta, không, tướng, tin!"
+
+	Trần Tử Ngang nhìn xem Cố Thiếu Thương, từng chữ nói ra nói ra: "Ngươi cho dù giết ta, ta cũng sẽ không tin tưởng!"
+
+	"Ta không cần ngươi tin?"
+
+	Cố Thiếu Thương cười nhạt một tiếng, bàn tay có chút lật một cái, tìm tòi, hướng về Trần Tử Ngang tìm tòi mà xuống: "Ta tin như vậy đủ rồi!"
+
+	Ầm ầm!
+
+	Trần Tử Ngang trong lòng giật mình, cảm giác hết thảy tia sáng đều bị cái này một cái tay che đậy, chỉ cảm thấy một cỗ tràn trề không làm tuyệt nhiên đại lực nghiền ép mà xuống.
+
+	"Ngươi!"
+
+	Hắn vừa mới mở miệng phun ra một chữ, kia hạo nhiên không thể đỡ, phách tuyệt thiên địa một chưởng, liền đã ầm ầm đánh xuống!
+
+	Ông ~~~
+
+	Trần Tử Ngang chỉ cảm thấy mắt tối sầm lại, trong đầu ông minh chi thanh chấn động không ngớt.
+
+	Trong thoáng chốc, hắn nhìn thấy một đạo bá liệt cường tuyệt quyền ý, tại trong đầu của hắn tìm tòi mà vào, đi ngược dòng nước, ngược dòng tìm hiểu lấy cái gì.
+
+	Rầm rầm ~~~
+
+	Tựa như dòng nước đánh ra thanh âm bên trong, Trần Tử Ngang nhìn thấy trí nhớ của mình lưu chuyển mà qua, mấy ngàn năm trải qua sự tình, hắn nhớ kỹ, hắn quên lãng đều không đoạn hiện lên, hóa thành một đạo ký ức trường hà không ngừng chảy xiết.
+
+	Mà kia một đạo bá liệt quyền ý, ngay tại trường hà bên trong truy tìm mà lên.
+
+	Ầm ầm!
+
+	Cuối cùng, một tiếng nổ ầm ầm âm thanh bên trong, hắn thấy được còn nhỏ rớt xuống vách núi.
+
+	Tại cái kia đạo quyền ý chiếu triệt phía dưới, hắn nhìn thấy tự cho là đúng trong lúc vô tình nhảy núi mình, kì thực là bị một cỗ thanh quang mê tâm hồn, tự phát tự trên vách núi nhảy xuống!
+
+	"Đây là. . . . ."
+
+	Trần Tử Ngang trong lòng chấn kinh khó tả.
+
+	Vẫn là kia nhất tòa quen thuộc vách núi, cùng kia một vòng màu thiên thanh "Mặt trời" tản ra đạo đạo thanh quang.
+
+	Kia một vòng màu xanh mặt trời, chính là ẩn chứa Đại Đạo Thanh Ngưu Biến kia một giọt máu.
+
+	Dưới vách núi, ngàn vạn dặm bên trong đều bị thanh quang bao phủ, nhưng là quỷ dị chính là, vô luận là gào thét tới lui Yêu tộc, vẫn là lao nhanh chơi đùa yêu thú, không có bất kỳ cái gì sinh linh có thể phát giác được kia một đạo thanh quang tồn tại.
+
+	Hô ~
+
+	Cố Thiếu Thương quyền ý hoành không mà tới, tựa như Thiên Hà chảy xiết mà đi, đem kia một vòng màu xanh mặt trời bao phủ tại quyền ý dòng lũ bên trong.
+
+	Răng rắc ~
+
+	Hình tượng ầm ầm xé rách.
+
+	"A!"
+
+	Trần Tử Ngang lấy lại tinh thần, trong lòng kịch liệt sôi trào, trong óc dời sông lấp biển bình thường đau đớn.
+
+	Lấy hắn trầm ổn, cũng không khỏi kêu thảm một tiếng.
+
+	Lấy lại tinh thần, liền thấy Cố Thiếu Thương đứng ở nơi xa hư không bên trong, một tay chấp sau lưng, một tay nâng một viên màu xanh nhỏ "Mặt trời" .
+
+	"Quả thật là Tiên Thiên Thần Ma chi huyết."
+
+	Cố Thiếu Thương ánh mắt lấp lóe, nhìn xem một giọt này máu tươi, như có điều suy nghĩ.
+
+	Trần Tử Ngang tự cho là mình đạt được Đại Đạo Thanh Ngưu huyết mạch, kì thực, hắn bất quá là bị một sợi khí tức cải tạo thôi.
+
+	Một giọt máu này một mực tồn tại ở trí nhớ của hắn chỗ sâu, hư ảo cùng chân thực bên trong, chỉ là lẳng lặng chờ đợi Trần Tử Ngang tu vi đạt tới cái nào đó giới hạn về sau, mới có thể cùng hắn dung hợp, triệt để đem hắn thân thể cải tạo thành Đại Đạo Thanh Ngưu thân thể.
+
+	Đến lúc đó, cũng chính là Đại Đạo Thanh Ngưu giáng lâm thời điểm.
+
+	Ầm ầm!Chương 704: Nghịch tìm Thanh Ngưu
+
+	Vạn tộc thi đấu quy tắc rất đơn giản, một tầng mãi cho đến chín tầng, không ngừng chém giết lẫn nhau, cũng muốn cùng Tĩnh Hải Hầu huyễn hóa ra tới huyễn ảnh chém giết.
+
+	Mấy năm kéo lên một tầng, chỗ tao ngộ huyễn ảnh cũng càng cường đại, tương truyền sáu tầng phía trên thậm chí có Thần Ma cửu trọng thiên huyễn ảnh.
+
+	Là lấy, vạn tộc thi đấu thời hạn mặc dù chừng trăm năm, nhưng kì thực bên trên, nhiều nhất mấy chục năm cũng có thể phân ra thắng bại tới.
+
+	"Bây giờ bất quá vừa mới thời gian ba, bốn năm, đại đa số người còn tại Vạn Ma Tháp ba bốn tầng, trọn vẹn mấy vạn tiểu thế giới, muốn giải quyết, nói nghe thì dễ?"
+
+	Miêu Tiêu Tiêu lắc đầu.
+
+	Cho dù Cố Thiếu Thương cùng Vương Nguyên Thủy thực lực có một không hai lần này Vạn Ma Tháp, những người khác không phải là đối thủ, muốn kết thúc cái này vạn tộc thi đấu, cũng không phải dễ dàng như vậy.
+
+	Dù sao, mấy vạn cái tiểu thế giới, giấu kín, muốn tìm kiếm, đơn giản như là mò kim đáy biển.
+
+	"Cái này Vạn Ma Tháp bên trong, sáu tầng phía trên đều là mỗi tầng một chỗ tiểu thế giới, năm tầng cũng chỉ có chín nơi tiểu thế giới mà thôi, từng cái tìm kiếm, cũng không dùng đến bao nhiêu thời gian."
+
+	Cố Thiếu Thương mỉm cười, ánh mắt nhìn thấy nơi xa núi tuyết phía trên Trần Tử Ngang, Thiên Binh Phương Thiên, Man Cương bọn người.
+
+	Có những người này làm giúp đỡ, tự nhiên cũng không dùng đến quá nhiều thời gian.
+
+	Vương Nguyên Thủy khẽ vuốt cằm.
+
+	Nơi xa núi tuyết phía trên, Trần Tử Ngang bọn người ngồi xếp bằng, sắc mặt khác nhau.
+
+	Cố Thiếu Thương ba người trò chuyện không có cố ý giấu diếm, bọn hắn tự nhiên cũng nghe đến ba người trò chuyện.
+
+	"Xác thực, cũng không có cái gì cần thiết."
+
+	Man Cương lắc đầu.
+
+	Mấy người bọn họ tất cả đều giải quyết đối thủ, xem như hoàn thành trong tộc trưởng bối nhắc nhở, ở ngoài sáng biết không phải Cố Thiếu Thương hai người đối thủ tình huống phía dưới, tự nhiên cũng sẽ không truy cầu vạn tộc thi đấu thứ hạng.
+
+	Liên tục Thiên Nhân Đế Thích đều bại, Nhân tộc thu hoạch được thứ nhất, đã không thể nghi ngờ.
+
+	Tu La Vô Sinh khẽ lắc đầu, phiếm hồng sắc mặt phía trên mang theo một tia không hiểu ý cười: "Nghe nói, Thiên Nhân tộc tham gia lần này vạn tộc thi đấu lúc đầu có hai người, Thiên Nhân Đế Thích tự cao tự đại, một mình tiến vào, giờ phút này nghĩ đến cũng có chút hối hận."
+
+	Thiên Nhân Đế Thích trời sinh Thần Ma, càng là Thiên Nhân tộc thiên kiêu, hơn xa phổ thông Thiên Nhân tộc, tại vạn tộc gây nên trung hoà đều có cực lớn danh khí.
+
+	Lần này ăn như thế nhất cái thiệt thòi lớn, đang ngồi mấy người trong lòng đều có chút thống khoái.
+
+	"Sớm đi cũng tốt, cái này thi đấu không có ý gì."
+
+	Thiên Binh Phương Thiên khuôn mặt nhỏ băng lãnh, trắng thuần tay nhỏ lau sạch lấy trong tay Phương Thiên Họa Kích.
+
+	"Người này, đến cùng là từ đâu xuất hiện?"
+
+	Chỉ có Trần Tử Ngang, cắn răng nhìn xem Cố Thiếu Thương, trong lòng trăm mối vẫn không có cách giải.
+
+	Nhất cái rõ ràng không bằng hắn người, tại ngắn ngủi thời gian một năm, thực lực liền nghiền ép đánh bại liên tục hắn cũng không phải đối thủ Thiên Nhân Đế Thích, đây cũng quá qua bất khả tư nghị.
+
+	Đây không phải thiên tư có thể giải thích.
+
+	Trong lúc nhất thời, trong lòng của hắn miên man bất định.
+
+	Hô hô ~
+
+	Hàn phong quét mà qua, Cố Thiếu Thương cùng Vương Nguyên Thủy sóng vai mà tới.
+
+	Ngắn ngủi trò chuyện về sau, tính cả Thiên Binh Phương Thiên ở bên trong mấy người đi tứ tán, đi hướng cái khác tiểu thế giới.
+
+	"Thiên Nhân Đế Thích còn chưa rời khỏi, ta đi tìm nàng."
+
+	Vương Nguyên Thủy nhìn Cố Thiếu Thương một chút, cùng Miêu Tiêu Tiêu hai người phiêu nhiên mà đi.
+
+	Hắn cả đời kiên cường, Thiên Nhân Đế Thích dám can đảm đuổi giết hắn, cũng phải làm tốt bị hắn phản sát chuẩn bị.
+
+	Trong lúc nhất thời, núi tuyết phía trên, chỉ còn lại có Cố Thiếu Thương, cùng tâm sự nặng nề Trần Tử Ngang.
+
+	Cố Thiếu Thương nhìn về phía Trần Tử Ngang, tự tiếu phi tiếu nói: "Ngươi còn muốn giết ta sao?"
+
+	"Hô!"
+
+	Trần Tử Ngang có chút hít một hơi, sắc mặt bình tĩnh nói ra: "Lấy ngươi thực lực hôm nay, ta vô luận như thế nào cũng không phải đối thủ, ngươi nếu muốn động thủ, cứ việc động thủ là được."
+
+	Hắn sở dĩ đi theo Man Cương bọn người sau lưng, ngoại trừ có quan hệ Thái Thanh sự tình bên ngoài, cũng là hắn biết rõ, lấy Cố Thiếu Thương bây giờ tu vi, thật muốn đuổi giết hắn, cái này Vạn Ma Tháp mặc dù lớn, hắn cũng không có chỗ có thể trốn.
+
+	"Con khỉ kia, cái gì lai lịch?"
+
+	Cố Thiếu Thương cười cười, mở miệng hỏi.
+
+	Đại Minh Sơn Yêu Đình lần này dẫn đội con kia lão hầu tử, trước đó dám ở Tĩnh Hải Hầu phủ ra tay với hắn, Cố Thiếu Thương đương nhiên sẽ không buông tha hắn.
+
+	Trần Tử Ngang nao nao, cũng không có giấu diếm, nói ra: "Thái Viêm Võ là Đại Minh Sơn Thánh Long Vương tọa hạ một con Thần Hầu,
+
+	Huyết mạch truyền lại từ Hồn Thiên Thần Hầu, Thần Ma lục trọng thiên tu vi."
+
+	"Thần Ma lục trọng thiên. . . ."
+
+	Cố Thiếu Thương khẽ vuốt cằm, nói: "Xem ra, Đại Minh Sơn kia lão Long, cũng không có quá mức để ý lần này vạn tộc thi đấu, dẫn đội cũng chỉ là một con lục trọng thiên lão Khỉ mà thôi."
+
+	Trần Tử Ngang khóe miệng giật một cái.
+
+	Yêu tộc nhân số mặc dù to lớn, nhưng là Thần Ma cấp đã không hề nghi ngờ là một phương đại năng, Thái Viêm Võ dạng này Thần Ma lục trọng Thần Thú huyết mạch, tại Đại Minh Sơn Thánh Long Vương tọa hạ, cũng là hết sức quan trọng đại nhân vật.
+
+	Dẫn đội đối phó Yến quốc như thế nhất cái nơi chật hẹp nhỏ bé, xuất động như vậy đại nhân vật, đã là cực kì để ý.
+
+	Hắn chỗ nào biết được, Yến quốc một cái dân cư bất quá mấy vạn vạn tiểu quốc, trong đó thế mà có thể có một tôn bất mãn năm ngàn tuổi Thần Ma cấp thiên kiêu!
+
+	Đây quả thực so vũng bùn bên trong nhảy ra Chân Long còn muốn không thể tưởng tượng nổi.
+
+	Gặp Trần Tử Ngang trầm mặc không nói, Cố Thiếu Thương lần nữa mở miệng nói: "Liên quan tới Thái Thanh ta biết rải rác, đối với kia Đại Đạo Thanh Ngưu, ta cũng không rõ ràng."
+
+	Có chút dừng lại, Cố Thiếu Thương ánh mắt hơi sáng lấy: "Bất quá, đối với trên người ngươi Đại Đạo Thanh Ngưu huyết mạch, ta còn là có chút hứng thú."
+
+	Đại Đạo Thanh Ngưu không hề nghi ngờ chính là Tiên Thiên Thần Thánh cấp số tồn tại, loại tồn tại này, một giọt máu cũng đủ để bằng được thế gian bất luận cái gì thần Binh Linh thuốc, đủ để cho hết thảy Thần Ma cấp cường giả tâm động.
+
+	Mà Cố Thiếu Thương, quanh thân hạt mô phỏng hạt, trên bản chất là nửa bước Thất tinh Bàn Thương, nhưng là Bàn Thương cũng chỉ có bỏ mình sát na mới có một tia Tiên Thiên Thần Ma khí tượng.
+
+	Muốn mạnh hơn, tự nhiên muốn hiểu rõ Tiên Thiên Thần Ma huyền bí.
+
+	Một giọt này Đại Đạo Thanh Ngưu huyết mạch, đối với hắn tác dụng, tự nhiên là không nhỏ.
+
+	"Ngươi muốn quất ta huyết mạch?"
+
+	Trần Tử Ngang lông mày khẽ nhúc nhích, nhưng không có thất kinh.
+
+	Sớm tại Cố Thiếu Thương xuất thủ đánh bại Thiên Nhân Đế Thích, Trần Tử Ngang liền biết một ngày này đến, cũng không có cái gì quá lớn ngoài ý muốn cùng hoảng sợ.
+
+	"A."
+
+	Nhìn xem sắc mặt bình tĩnh Trần Tử Ngang, Cố Thiếu Thương có chút lung lay, mang theo một chút thương hại nói: "Đại Đạo Thanh Ngưu Biến tu hành, vốn là từng bước một đưa ngươi bản nguyên hướng Đại Đạo Thanh Ngưu rảo bước tiến lên, cho đến thành tựu Đại Đạo Thanh Ngưu thân thể pháp môn, tu luyện tới cuối cùng, thân thể của ngươi, liền sẽ biến thành Đại Đạo Thanh Ngưu giáng lâm nơi đây vật dẫn."
+
+	"Buồn cười ngươi còn không tự biết!"
+
+	"Cái gì?"
+
+	Trần Tử Ngang biến sắc, ánh mắt bên trong thanh quang tăng vọt ba thước: "Ngươi đang gạt ta!"
+
+	"Cái này, không có khả năng!"
+
+	Trần Tử Ngang cắn răng.
+
+	Hắn vốn là nhất huyết mạch hỗn tạp bán yêu, cả đời nhận hết khổ sở, cái này Đại Đạo Thanh Ngưu Biến là cải biến hắn cả đời kỳ ngộ, không có cái này kỳ ngộ, hắn hôm nay đã sớm vùi sâu vào đất vàng.
+
+	Bây giờ nghe nói cái này kỳ ngộ chính là cái bẫy, trong lòng của hắn lập tức nhấc lên sóng to gió lớn.
+
+	Hắn gầm thét nói không tin, nhưng trong lòng ẩn ẩn có cái ý niệm tại nói cho hắn biết, cái này rất có thể là thật.
+
+	Ầm ầm!
+
+	Mười vạn dặm bên trong núi tuyết trong nháy mắt bị Trần Tử Ngang tiết ra ngoài khí cơ nghiền ép mà nát, đất rung núi chuyển, đếm bằng ức vạn bùn đất nhấp nhô tựa như từng đạo cự long tại phía dưới mặt đất xoay người bình thường.
+
+	Cố Thiếu Thương đứng chắp tay, lẳng lặng nhìn xem.
+
+	Thế gian khó có cơm trưa miễn phí, tại Chư Thiên Vạn Giới bên trong, không biết có bao nhiêu người vì cái gì "Kỳ ngộ" lưu truyền.
+
+	Những kỳ ngộ này càng giống là từng cái mồi nhử, nghe ngóng mùi thơm xông vào mũi, quả thật cửa vào , chờ đợi ngươi, có lẽ cũng không thật là khéo.
+
+	Giống như, Cố Thiếu Thương một mực tại không ngừng học tập nghiên cứu Chư Thiên Kính rất nhiều vận chuyển pháp môn, Nguyên lực sử dụng, hắn trên bản chất, sao lại không phải đối Chư Thiên Kính có chỗ kiêng kị đâu.
+
+	Thật lâu, Trần Tử Ngang cảm xúc bình tĩnh trở lại.
+
+	"Ta, không, tướng, tin!"
+
+	Trần Tử Ngang nhìn xem Cố Thiếu Thương, từng chữ nói ra nói ra: "Ngươi cho dù giết ta, ta cũng sẽ không tin tưởng!"
+
+	"Ta không cần ngươi tin?"
+
+	Cố Thiếu Thương cười nhạt một tiếng, bàn tay có chút lật một cái, tìm tòi, hướng về Trần Tử Ngang tìm tòi mà xuống: "Ta tin như vậy đủ rồi!"
+
+	Ầm ầm!
+
+	Trần Tử Ngang trong lòng giật mình, cảm giác hết thảy tia sáng đều bị cái này một cái tay che đậy, chỉ cảm thấy một cỗ tràn trề không làm tuyệt nhiên đại lực nghiền ép mà xuống.
+
+	"Ngươi!"
+
+	Hắn vừa mới mở miệng phun ra một chữ, kia hạo nhiên không thể đỡ, phách tuyệt thiên địa một chưởng, liền đã ầm ầm đánh xuống!
+
+	Ông ~~~
+
+	Trần Tử Ngang chỉ cảm thấy mắt tối sầm lại, trong đầu ông minh chi thanh chấn động không ngớt.
+
+	Trong thoáng chốc, hắn nhìn thấy một đạo bá liệt cường tuyệt quyền ý, tại trong đầu của hắn tìm tòi mà vào, đi ngược dòng nước, ngược dòng tìm hiểu lấy cái gì.
+
+	Rầm rầm ~~~
+
+	Tựa như dòng nước đánh ra thanh âm bên trong, Trần Tử Ngang nhìn thấy trí nhớ của mình lưu chuyển mà qua, mấy ngàn năm trải qua sự tình, hắn nhớ kỹ, hắn quên lãng đều không đoạn hiện lên, hóa thành một đạo ký ức trường hà không ngừng chảy xiết.
+
+	Mà kia một đạo bá liệt quyền ý, ngay tại trường hà bên trong truy tìm mà lên.
+
+	Ầm ầm!
+
+	Cuối cùng, một tiếng nổ ầm ầm âm thanh bên trong, hắn thấy được còn nhỏ rớt xuống vách núi.
+
+	Tại cái kia đạo quyền ý chiếu triệt phía dưới, hắn nhìn thấy tự cho là đúng trong lúc vô tình nhảy núi mình, kì thực là bị một cỗ thanh quang mê tâm hồn, tự phát tự trên vách núi nhảy xuống!
+
+	"Đây là. . . . ."
+
+	Trần Tử Ngang trong lòng chấn kinh khó tả.
+
+	Vẫn là kia nhất tòa quen thuộc vách núi, cùng kia một vòng màu thiên thanh "Mặt trời" tản ra đạo đạo thanh quang.
+
+	Kia một vòng màu xanh mặt trời, chính là ẩn chứa Đại Đạo Thanh Ngưu Biến kia một giọt máu.
+
+	Dưới vách núi, ngàn vạn dặm bên trong đều bị thanh quang bao phủ, nhưng là quỷ dị chính là, vô luận là gào thét tới lui Yêu tộc, vẫn là lao nhanh chơi đùa yêu thú, không có bất kỳ cái gì sinh linh có thể phát giác được kia một đạo thanh quang tồn tại.
+
+	Hô ~
+
+	Cố Thiếu Thương quyền ý hoành không mà tới, tựa như Thiên Hà chảy xiết mà đi, đem kia một vòng màu xanh mặt trời bao phủ tại quyền ý dòng lũ bên trong.
+
+	Răng rắc ~
+
+	Hình tượng ầm ầm xé rách.
+
+	"A!"
+
+	Trần Tử Ngang lấy lại tinh thần, trong lòng kịch liệt sôi trào, trong óc dời sông lấp biển bình thường đau đớn.
+
+	Lấy hắn trầm ổn, cũng không khỏi kêu thảm một tiếng.
+
+	Lấy lại tinh thần, liền thấy Cố Thiếu Thương đứng ở nơi xa hư không bên trong, một tay chấp sau lưng, một tay nâng một viên màu xanh nhỏ "Mặt trời" .
+
+	"Quả thật là Tiên Thiên Thần Ma chi huyết."
+
+	Cố Thiếu Thương ánh mắt lấp lóe, nhìn xem một giọt này máu tươi, như có điều suy nghĩ.
+
+	Trần Tử Ngang tự cho là mình đạt được Đại Đạo Thanh Ngưu huyết mạch, kì thực, hắn bất quá là bị một sợi khí tức cải tạo thôi.
+
+	Một giọt máu này một mực tồn tại ở trí nhớ của hắn chỗ sâu, hư ảo cùng chân thực bên trong, chỉ là lẳng lặng chờ đợi Trần Tử Ngang tu vi đạt tới cái nào đó giới hạn về sau, mới có thể cùng hắn dung hợp, triệt để đem hắn thân thể cải tạo thành Đại Đạo Thanh Ngưu thân thể.
+
+	Đến lúc đó, cũng chính là Đại Đạo Thanh Ngưu giáng lâm thời điểm.
+
+	Ầm ầm!Chương 704: Nghịch tìm Thanh Ngưu
+
+	Vạn tộc thi đấu quy tắc rất đơn giản, một tầng mãi cho đến chín tầng, không ngừng chém giết lẫn nhau, cũng muốn cùng Tĩnh Hải Hầu huyễn hóa ra tới huyễn ảnh chém giết.
+
+	Mấy năm kéo lên một tầng, chỗ tao ngộ huyễn ảnh cũng càng cường đại, tương truyền sáu tầng phía trên thậm chí có Thần Ma cửu trọng thiên huyễn ảnh.
+
+	Là lấy, vạn tộc thi đấu thời hạn mặc dù chừng trăm năm, nhưng kì thực bên trên, nhiều nhất mấy chục năm cũng có thể phân ra thắng bại tới.
+
+	"Bây giờ bất quá vừa mới thời gian ba, bốn năm, đại đa số người còn tại Vạn Ma Tháp ba bốn tầng, trọn vẹn mấy vạn tiểu thế giới, muốn giải quyết, nói nghe thì dễ?"
+
+	Miêu Tiêu Tiêu lắc đầu.
+
+	Cho dù Cố Thiếu Thương cùng Vương Nguyên Thủy thực lực có một không hai lần này Vạn Ma Tháp, những người khác không phải là đối thủ, muốn kết thúc cái này vạn tộc thi đấu, cũng không phải dễ dàng như vậy.
+
+	Dù sao, mấy vạn cái tiểu thế giới, giấu kín, muốn tìm kiếm, đơn giản như là mò kim đáy biển.
+
+	"Cái này Vạn Ma Tháp bên trong, sáu tầng phía trên đều là mỗi tầng một chỗ tiểu thế giới, năm tầng cũng chỉ có chín nơi tiểu thế giới mà thôi, từng cái tìm kiếm, cũng không dùng đến bao nhiêu thời gian."
+
+	Cố Thiếu Thương mỉm cười, ánh mắt nhìn thấy nơi xa núi tuyết phía trên Trần Tử Ngang, Thiên Binh Phương Thiên, Man Cương bọn người.
+
+	Có những người này làm giúp đỡ, tự nhiên cũng không dùng đến quá nhiều thời gian.
+
+	Vương Nguyên Thủy khẽ vuốt cằm.
+
+	Nơi xa núi tuyết phía trên, Trần Tử Ngang bọn người ngồi xếp bằng, sắc mặt khác nhau.
+
+	Cố Thiếu Thương ba người trò chuyện không có cố ý giấu diếm, bọn hắn tự nhiên cũng nghe đến ba người trò chuyện.
+
+	"Xác thực, cũng không có cái gì cần thiết."
+
+	Man Cương lắc đầu.
+
+	Mấy người bọn họ tất cả đều giải quyết đối thủ, xem như hoàn thành trong tộc trưởng bối nhắc nhở, ở ngoài sáng biết không phải Cố Thiếu Thương hai người đối thủ tình huống phía dưới, tự nhiên cũng sẽ không truy cầu vạn tộc thi đấu thứ hạng.
+
+	Liên tục Thiên Nhân Đế Thích đều bại, Nhân tộc thu hoạch được thứ nhất, đã không thể nghi ngờ.
+
+	Tu La Vô Sinh khẽ lắc đầu, phiếm hồng sắc mặt phía trên mang theo một tia không hiểu ý cười: "Nghe nói, Thiên Nhân tộc tham gia lần này vạn tộc thi đấu lúc đầu có hai người, Thiên Nhân Đế Thích tự cao tự đại, một mình tiến vào, giờ phút này nghĩ đến cũng có chút hối hận."
+
+	Thiên Nhân Đế Thích trời sinh Thần Ma, càng là Thiên Nhân tộc thiên kiêu, hơn xa phổ thông Thiên Nhân tộc, tại vạn tộc gây nên trung hoà đều có cực lớn danh khí.
+
+	Lần này ăn như thế nhất cái thiệt thòi lớn, đang ngồi mấy người trong lòng đều có chút thống khoái.
+
+	"Sớm đi cũng tốt, cái này thi đấu không có ý gì."
+
+	Thiên Binh Phương Thiên khuôn mặt nhỏ băng lãnh, trắng thuần tay nhỏ lau sạch lấy trong tay Phương Thiên Họa Kích.
+
+	"Người này, đến cùng là từ đâu xuất hiện?"
+
+	Chỉ có Trần Tử Ngang, cắn răng nhìn xem Cố Thiếu Thương, trong lòng trăm mối vẫn không có cách giải.
+
+	Nhất cái rõ ràng không bằng hắn người, tại ngắn ngủi thời gian một năm, thực lực liền nghiền ép đánh bại liên tục hắn cũng không phải đối thủ Thiên Nhân Đế Thích, đây cũng quá qua bất khả tư nghị.
+
+	Đây không phải thiên tư có thể giải thích.
+
+	Trong lúc nhất thời, trong lòng của hắn miên man bất định.
+
+	Hô hô ~
+
+	Hàn phong quét mà qua, Cố Thiếu Thương cùng Vương Nguyên Thủy sóng vai mà tới.
+
+	Ngắn ngủi trò chuyện về sau, tính cả Thiên Binh Phương Thiên ở bên trong mấy người đi tứ tán, đi hướng cái khác tiểu thế giới.
+
+	"Thiên Nhân Đế Thích còn chưa rời khỏi, ta đi tìm nàng."
+
+	Vương Nguyên Thủy nhìn Cố Thiếu Thương một chút, cùng Miêu Tiêu Tiêu hai người phiêu nhiên mà đi.
+
+	Hắn cả đời kiên cường, Thiên Nhân Đế Thích dám can đảm đuổi giết hắn, cũng phải làm tốt bị hắn phản sát chuẩn bị.
+
+	Trong lúc nhất thời, núi tuyết phía trên, chỉ còn lại có Cố Thiếu Thương, cùng tâm sự nặng nề Trần Tử Ngang.
+
+	Cố Thiếu Thương nhìn về phía Trần Tử Ngang, tự tiếu phi tiếu nói: "Ngươi còn muốn giết ta sao?"
+
+	"Hô!"
+
+	Trần Tử Ngang có chút hít một hơi, sắc mặt bình tĩnh nói ra: "Lấy ngươi thực lực hôm nay, ta vô luận như thế nào cũng không phải đối thủ, ngươi nếu muốn động thủ, cứ việc động thủ là được."
+
+	Hắn sở dĩ đi theo Man Cương bọn người sau lưng, ngoại trừ có quan hệ Thái Thanh sự tình bên ngoài, cũng là hắn biết rõ, lấy Cố Thiếu Thương bây giờ tu vi, thật muốn đuổi giết hắn, cái này Vạn Ma Tháp mặc dù lớn, hắn cũng không có chỗ có thể trốn.
+
+	"Con khỉ kia, cái gì lai lịch?"
+
+	Cố Thiếu Thương cười cười, mở miệng hỏi.
+
+	Đại Minh Sơn Yêu Đình lần này dẫn đội con kia lão hầu tử, trước đó dám ở Tĩnh Hải Hầu phủ ra tay với hắn, Cố Thiếu Thương đương nhiên sẽ không buông tha hắn.
+
+	Trần Tử Ngang nao nao, cũng không có giấu diếm, nói ra: "Thái Viêm Võ là Đại Minh Sơn Thánh Long Vương tọa hạ một con Thần Hầu,
+
+	Huyết mạch truyền lại từ Hồn Thiên Thần Hầu, Thần Ma lục trọng thiên tu vi."
+
+	"Thần Ma lục trọng thiên. . . ."
+
+	Cố Thiếu Thương khẽ vuốt cằm, nói: "Xem ra, Đại Minh Sơn kia lão Long, cũng không có quá mức để ý lần này vạn tộc thi đấu, dẫn đội cũng chỉ là một con lục trọng thiên lão Khỉ mà thôi."
+
+	Trần Tử Ngang khóe miệng giật một cái.
+
+	Yêu tộc nhân số mặc dù to lớn, nhưng là Thần Ma cấp đã không hề nghi ngờ là một phương đại năng, Thái Viêm Võ dạng này Thần Ma lục trọng Thần Thú huyết mạch, tại Đại Minh Sơn Thánh Long Vương tọa hạ, cũng là hết sức quan trọng đại nhân vật.
+
+	Dẫn đội đối phó Yến quốc như thế nhất cái nơi chật hẹp nhỏ bé, xuất động như vậy đại nhân vật, đã là cực kì để ý.
+
+	Hắn chỗ nào biết được, Yến quốc một cái dân cư bất quá mấy vạn vạn tiểu quốc, trong đó thế mà có thể có một tôn bất mãn năm ngàn tuổi Thần Ma cấp thiên kiêu!
+
+	Đây quả thực so vũng bùn bên trong nhảy ra Chân Long còn muốn không thể tưởng tượng nổi.
+
+	Gặp Trần Tử Ngang trầm mặc không nói, Cố Thiếu Thương lần nữa mở miệng nói: "Liên quan tới Thái Thanh ta biết rải rác, đối với kia Đại Đạo Thanh Ngưu, ta cũng không rõ ràng."
+
+	Có chút dừng lại, Cố Thiếu Thương ánh mắt hơi sáng lấy: "Bất quá, đối với trên người ngươi Đại Đạo Thanh Ngưu huyết mạch, ta còn là có chút hứng thú."
+
+	Đại Đạo Thanh Ngưu không hề nghi ngờ chính là Tiên Thiên Thần Thánh cấp số tồn tại, loại tồn tại này, một giọt máu cũng đủ để bằng được thế gian bất luận cái gì thần Binh Linh thuốc, đủ để cho hết thảy Thần Ma cấp cường giả tâm động.
+
+	Mà Cố Thiếu Thương, quanh thân hạt mô phỏng hạt, trên bản chất là nửa bước Thất tinh Bàn Thương, nhưng là Bàn Thương cũng chỉ có bỏ mình sát na mới có một tia Tiên Thiên Thần Ma khí tượng.
+
+	Muốn mạnh hơn, tự nhiên muốn hiểu rõ Tiên Thiên Thần Ma huyền bí.
+
+	Một giọt này Đại Đạo Thanh Ngưu huyết mạch, đối với hắn tác dụng, tự nhiên là không nhỏ.
+
+	"Ngươi muốn quất ta huyết mạch?"
+
+	Trần Tử Ngang lông mày khẽ nhúc nhích, nhưng không có thất kinh.
+
+	Sớm tại Cố Thiếu Thương xuất thủ đánh bại Thiên Nhân Đế Thích, Trần Tử Ngang liền biết một ngày này đến, cũng không có cái gì quá lớn ngoài ý muốn cùng hoảng sợ.
+
+	"A."
+
+	Nhìn xem sắc mặt bình tĩnh Trần Tử Ngang, Cố Thiếu Thương có chút lung lay, mang theo một chút thương hại nói: "Đại Đạo Thanh Ngưu Biến tu hành, vốn là từng bước một đưa ngươi bản nguyên hướng Đại Đạo Thanh Ngưu rảo bước tiến lên, cho đến thành tựu Đại Đạo Thanh Ngưu thân thể pháp môn, tu luyện tới cuối cùng, thân thể của ngươi, liền sẽ biến thành Đại Đạo Thanh Ngưu giáng lâm nơi đây vật dẫn."
+
+	"Buồn cười ngươi còn không tự biết!"
+
+	"Cái gì?"
+
+	Trần Tử Ngang biến sắc, ánh mắt bên trong thanh quang tăng vọt ba thước: "Ngươi đang gạt ta!"
+
+	"Cái này, không có khả năng!"
+
+	Trần Tử Ngang cắn răng.
+
+	Hắn vốn là nhất huyết mạch hỗn tạp bán yêu, cả đời nhận hết khổ sở, cái này Đại Đạo Thanh Ngưu Biến là cải biến hắn cả đời kỳ ngộ, không có cái này kỳ ngộ, hắn hôm nay đã sớm vùi sâu vào đất vàng.
+
+	Bây giờ nghe nói cái này kỳ ngộ chính là cái bẫy, trong lòng của hắn lập tức nhấc lên sóng to gió lớn.
+
+	Hắn gầm thét nói không tin, nhưng trong lòng ẩn ẩn có cái ý niệm tại nói cho hắn biết, cái này rất có thể là thật.
+
+	Ầm ầm!
+
+	Mười vạn dặm bên trong núi tuyết trong nháy mắt bị Trần Tử Ngang tiết ra ngoài khí cơ nghiền ép mà nát, đất rung núi chuyển, đếm bằng ức vạn bùn đất nhấp nhô tựa như từng đạo cự long tại phía dưới mặt đất xoay người bình thường.
+
+	Cố Thiếu Thương đứng chắp tay, lẳng lặng nhìn xem.
+
+	Thế gian khó có cơm trưa miễn phí, tại Chư Thiên Vạn Giới bên trong, không biết có bao nhiêu người vì cái gì "Kỳ ngộ" lưu truyền.
+
+	Những kỳ ngộ này càng giống là từng cái mồi nhử, nghe ngóng mùi thơm xông vào mũi, quả thật cửa vào , chờ đợi ngươi, có lẽ cũng không thật là khéo.
+
+	Giống như, Cố Thiếu Thương một mực tại không ngừng học tập nghiên cứu Chư Thiên Kính rất nhiều vận chuyển pháp môn, Nguyên lực sử dụng, hắn trên bản chất, sao lại không phải đối Chư Thiên Kính có chỗ kiêng kị đâu.
+
+	Thật lâu, Trần Tử Ngang cảm xúc bình tĩnh trở lại.
+
+	"Ta, không, tướng, tin!"
+
+	Trần Tử Ngang nhìn xem Cố Thiếu Thương, từng chữ nói ra nói ra: "Ngươi cho dù giết ta, ta cũng sẽ không tin tưởng!"
+
+	"Ta không cần ngươi tin?"
+
+	Cố Thiếu Thương cười nhạt một tiếng, bàn tay có chút lật một cái, tìm tòi, hướng về Trần Tử Ngang tìm tòi mà xuống: "Ta tin như vậy đủ rồi!"
+
+	Ầm ầm!
+
+	Trần Tử Ngang trong lòng giật mình, cảm giác hết thảy tia sáng đều bị cái này một cái tay che đậy, chỉ cảm thấy một cỗ tràn trề không làm tuyệt nhiên đại lực nghiền ép mà xuống.
+
+	"Ngươi!"
+
+	Hắn vừa mới mở miệng phun ra một chữ, kia hạo nhiên không thể đỡ, phách tuyệt thiên địa một chưởng, liền đã ầm ầm đánh xuống!
+
+	Ông ~~~
+
+	Trần Tử Ngang chỉ cảm thấy mắt tối sầm lại, trong đầu ông minh chi thanh chấn động không ngớt.
+
+	Trong thoáng chốc, hắn nhìn thấy một đạo bá liệt cường tuyệt quyền ý, tại trong đầu của hắn tìm tòi mà vào, đi ngược dòng nước, ngược dòng tìm hiểu lấy cái gì.
+
+	Rầm rầm ~~~
+
+	Tựa như dòng nước đánh ra thanh âm bên trong, Trần Tử Ngang nhìn thấy trí nhớ của mình lưu chuyển mà qua, mấy ngàn năm trải qua sự tình, hắn nhớ kỹ, hắn quên lãng đều không đoạn hiện lên, hóa thành một đạo ký ức trường hà không ngừng chảy xiết.
+
+	Mà kia một đạo bá liệt quyền ý, ngay tại trường hà bên trong truy tìm mà lên.
+
+	Ầm ầm!
+
+	Cuối cùng, một tiếng nổ ầm ầm âm thanh bên trong, hắn thấy được còn nhỏ rớt xuống vách núi.
+
+	Tại cái kia đạo quyền ý chiếu triệt phía dưới, hắn nhìn thấy tự cho là đúng trong lúc vô tình nhảy núi mình, kì thực là bị một cỗ thanh quang mê tâm hồn, tự phát tự trên vách núi nhảy xuống!
+
+	"Đây là. . . . ."
+
+	Trần Tử Ngang trong lòng chấn kinh khó tả.
+
+	Vẫn là kia nhất tòa quen thuộc vách núi, cùng kia một vòng màu thiên thanh "Mặt trời" tản ra đạo đạo thanh quang.
+
+	Kia một vòng màu xanh mặt trời, chính là ẩn chứa Đại Đạo Thanh Ngưu Biến kia một giọt máu.
+
+	Dưới vách núi, ngàn vạn dặm bên trong đều bị thanh quang bao phủ, nhưng là quỷ dị chính là, vô luận là gào thét tới lui Yêu tộc, vẫn là lao nhanh chơi đùa yêu thú, không có bất kỳ cái gì sinh linh có thể phát giác được kia một đạo thanh quang tồn tại.
+
+	Hô ~
+
+	Cố Thiếu Thương quyền ý hoành không mà tới, tựa như Thiên Hà chảy xiết mà đi, đem kia một vòng màu xanh mặt trời bao phủ tại quyền ý dòng lũ bên trong.
+
+	Răng rắc ~
+
+	Hình tượng ầm ầm xé rách.
+
+	"A!"
+
+	Trần Tử Ngang lấy lại tinh thần, trong lòng kịch liệt sôi trào, trong óc dời sông lấp biển bình thường đau đớn.
+
+	Lấy hắn trầm ổn, cũng không khỏi kêu thảm một tiếng.
+
+	Lấy lại tinh thần, liền thấy Cố Thiếu Thương đứng ở nơi xa hư không bên trong, một tay chấp sau lưng, một tay nâng một viên màu xanh nhỏ "Mặt trời" .
+
+	"Quả thật là Tiên Thiên Thần Ma chi huyết."
+
+	Cố Thiếu Thương ánh mắt lấp lóe, nhìn xem một giọt này máu tươi, như có điều suy nghĩ.
+
+	Trần Tử Ngang tự cho là mình đạt được Đại Đạo Thanh Ngưu huyết mạch, kì thực, hắn bất quá là bị một sợi khí tức cải tạo thôi.
+
+	Một giọt máu này một mực tồn tại ở trí nhớ của hắn chỗ sâu, hư ảo cùng chân thực bên trong, chỉ là lẳng lặng chờ đợi Trần Tử Ngang tu vi đạt tới cái nào đó giới hạn về sau, mới có thể cùng hắn dung hợp, triệt để đem hắn thân thể cải tạo thành Đại Đạo Thanh Ngưu thân thể.
+
+	Đến lúc đó, cũng chính là Đại Đạo Thanh Ngưu giáng lâm thời điểm.
+
+	Ầm ầm!Chương 704: Nghịch tìm Thanh Ngưu
+
+	Vạn tộc thi đấu quy tắc rất đơn giản, một tầng mãi cho đến chín tầng, không ngừng chém giết lẫn nhau, cũng muốn cùng Tĩnh Hải Hầu huyễn hóa ra tới huyễn ảnh chém giết.
+
+	Mấy năm kéo lên một tầng, chỗ tao ngộ huyễn ảnh cũng càng cường đại, tương truyền sáu tầng phía trên thậm chí có Thần Ma cửu trọng thiên huyễn ảnh.
+
+	Là lấy, vạn tộc thi đấu thời hạn mặc dù chừng trăm năm, nhưng kì thực bên trên, nhiều nhất mấy chục năm cũng có thể phân ra thắng bại tới.
+
+	"Bây giờ bất quá vừa mới thời gian ba, bốn năm, đại đa số người còn tại Vạn Ma Tháp ba bốn tầng, trọn vẹn mấy vạn tiểu thế giới, muốn giải quyết, nói nghe thì dễ?"
+
+	Miêu Tiêu Tiêu lắc đầu.
+
+	Cho dù Cố Thiếu Thương cùng Vương Nguyên Thủy thực lực có một không hai lần này Vạn Ma Tháp, những người khác không phải là đối thủ, muốn kết thúc cái này vạn tộc thi đấu, cũng không phải dễ dàng như vậy.
+
+	Dù sao, mấy vạn cái tiểu thế giới, giấu kín, muốn tìm kiếm, đơn giản như là mò kim đáy biển.
+
+	"Cái này Vạn Ma Tháp bên trong, sáu tầng phía trên đều là mỗi tầng một chỗ tiểu thế giới, năm tầng cũng chỉ có chín nơi tiểu thế giới mà thôi, từng cái tìm kiếm, cũng không dùng đến bao nhiêu thời gian."
+
+	Cố Thiếu Thương mỉm cườ

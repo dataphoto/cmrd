@@ -1,0 +1,43 @@
+Logic diễn dịch đi từ cái chung đến cái riêng. Cốt lõi của lập luận diễn dịch là phép tam đoạn luận “Mọi người đều phải chết; Socrates là người; suy ra Socrates phải chết.” Điều đáng ngạc nhiên là mọi người rất hay lẫn lộn, và họ lập luận thế này, “Mọi người đều phải chết; Socrates chết, suy ra Socrates là người,” như vậy là phi logic. Nói thế chẳng khác nào nói, “Mọi người đều phải chết, con chuột lang của thằng con tôi chết, vậy con chuột lang là người.”
+ 
+ Một cách khác để làm hỏng suy luận diễn dịch là lập luận từ một tiền đề sai.
+ 
+ Một anh cao bồi già bước vào quán rượu gọi một ly. Trong lúc anh ta đang ngồi nhấm nháp whiskey thì có một cô gái trẻ ngồi xuống bên cạnh. Cô gái quay sang hỏi, “Anh có phải là cao bồi chính hiệu không?”
+ 
+ Anh ta đáp, “Ờ, tôi sống cả đời ở nông trại, chăn ngựa, chữa hàng rào, đóng dấu gia súc, nên tôi nghĩ tôi là cao bồi.”
+ 
+ Cô gái nói, “Còn tôi là người đồng tính nữ, suốt ngày tôi chỉ nghĩ về đàn bà. Buổi sáng vừa ngủ dậy tôi nghĩ ngay đến đàn bà. Khi tôi tắm hay xem ti vi, dường như cái gì cũng khiến tôi nghĩ đến đàn bà cả.”
+ 
+ Lát sau, một đôi trai gái ngồi xuống bên cạnh gã cao bồi và hỏi, “Anh có phải là cao bồi chính hiệu không?”
+ 
+ Anh ta đáp, “Trước tôi cứ tưởng tôi là cao bồi, nhưng tôi vừa mới phát hiện hóa ra tôi là người đồng tính nữ.”
+ 
+ Phân tích chính xác xem anh chàng cao bồi kia đã sai ở đâu có lẽ là một việc khá vui. Cũng có thể không vui. Nhưng dù sao chúng tôi cũng sẽ thử.
+ 
+ Lần đầu tiên, trả lời cho câu hỏi anh ta có phải cao bồi thật không, anh ta lập luận như sau:
+ 
+ 1. Nếu ai đó dành toàn bộ thời gian của mình làm những công việc của cao bồi, thì anh ta là cao bồi chính hiệu.
+ 
+ 2. Tôi dùng toàn bộ thời gian của tôi làm những công việc của cao bồi.
+ 
+ 3. Do đó, tôi là một cao bồi chính hiệu.
+ 
+ Cô gái lập luận:
+ 
+ 1. Nếu một người phụ nữ dành toàn bộ thời gian của mình nghĩ về phụ nữ, thì cô ta là một người đồng tính nữ.
+ 
+ 2. Tôi là một phụ nữ.
+ 
+ 3. Tôi dành toàn bộ thời gian của mình nghĩ về phụ nữ.
+ 
+ 4. Do đó, tôi là một người đồng tính nữ.
+ 
+ Khi anh cao bồi đi đến cùng kết luận như cô gái, anh ta đã thừa nhận một tiền đề sai đối với trường hợp của bản thân: đó là (2) - tôi là một phụ nữ.
+ 
+ Sao nào, chúng tôi chưa từng hứa với các bạn rằng triết học và truyện cười là một.Logic diễn dịch đi từ cái chung đến cái riêng. Cốt lõi của lập luận diễn dịch là phép tam đoạn luận “Mọi người đều phải chết; Socrates là người; suy ra Socrates phải chết.” Điều đáng ngạc nhiên là mọi người rất hay lẫn lộn, và họ lập luận thế này, “Mọi người đều phải chết; Socrates chết, suy ra Socrates là người,” như vậy là phi logic. Nói thế chẳng khác nào nói, “Mọi người đều phải chết, con chuột lang của thằng con tôi chết, vậy con chuột lang là người.”
+ 
+ Một cách khác để làm hỏng suy luận diễn dịch là lập luận từ một tiền đề sai.
+ 
+ Một anh cao bồi già bước vào quán rượu gọi một ly. Trong lúc anh ta đang ngồi nhấm nháp whiskey thì có một cô gái trẻ ngồi xuống bên cạnh. Cô gái quay sang hỏi, “Anh có phải là cao bồi chính hiệu không?”
+ 
+ Anh ta đáp, “Ờ, tôi sống cả đời ở nông trại, chăn

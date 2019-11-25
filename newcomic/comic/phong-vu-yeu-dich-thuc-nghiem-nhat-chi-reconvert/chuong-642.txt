@@ -1,0 +1,567 @@
+Chương 642: Cứu viện triển khai
+
+	Tuyết lông ngỗng càng rơi xuống càng lớn, bị liên lụy đến phạm vi cũng càng ngày càng rộng, mà cho dù tại mấy chục cây số bên ngoài, vẫn như cũ có ma triều ác ma cảm giác được nguy hiểm, hoặc là quay đầu co cẳng liền chạy, hoặc là, liền chém giết đồng bạn xông ra con đường, đến đây trừ tận gốc kia xuất phát từ bản năng uy hiếp.
+
+	Trật tự thần chi cùng Thâm Uyên ác ma vĩnh hằng Thánh chiến trình diễn vô số lần, nhưng ngay từ đầu đánh thảm liệt như vậy, nhưng như cũ là số ít, chí cao Chủ Thần giống như là nhốt vào sân thi đấu sư tử, không có đường lui tương hỗ giác đấu, chém giết lẫn nhau.
+
+	Mỗi một khắc, đều có vô số anh linh, thần sứ đổ xuống, đây là một trận không có đường lui, không cách nào tránh né chiến tranh, ưu nhã tinh linh võ kỹ không như điên bạo dã tính cùng bản năng chiến đấu, ma pháp sẽ chỉ sớm dẫn bạo những này điên cuồng chiến thú, tại vô tận pháo hôi trước mặt, những cái kia các tinh linh truyền kỳ cường giả bị Thâm Uyên chiến nô xé nát, nổ nát vụn.
+
+	Nhưng tinh linh chư thần không có lùi bước không gian cùng dư lực, vô số thời đại tích lũy, giống như cược đỏ mắt dân cờ bạc, bị nện tiến thấy thế nào đều không có hi vọng cối xay thịt, gây nên, chỉ là tranh thủ thêm một chút thời gian.
+
+	Tại bọn hắn phía sau, một tòa đen nhánh phù không thành phiêu phù ở Nguyệt Luân Chi Đô bầu trời, nó hướng phía dưới mở ra thông đạo đã chứa đầy, vô số lơ lửng hạm, máy bay chiến đấu ở trong đó xuyên tới xuyên lui, trợ giúp mang theo người sống sót tiến vào toà này lơ lửng thành thị.
+
+	Vĩnh Dạ thành, ở thời điểm này đưa đến rất mấu chốt tác dụng, chờ nó bị đổ đầy, mặc kệ là đem để vào Minh phủ chi địa, vẫn là trực tiếp tốc độ như rùa chuồn đi, đều là rất phòng bị lựa chọn.
+
+	Tiện thể nhấc lên, trước đó nói một chút qua, kia bug chi địa giống nhau là Minh phủ chi địa một bộ phận, trong đó tử vong chi tức mặc dù không bằng Minh phủ bản thân, nhưng cũng là phụ năng lượng một loại, đối người sống vẫn như cũ là có hại thậm chí trí mạng, đây cũng là ta Vĩnh Dạ thành, trường kỳ không có người sống hộ gia đình nguyên nhân căn bản.
+
+	Đối cường giả đến nói, loại này ác ý không đủ "Phụ năng lượng" nếu không xuẩn chủ động hút vào thể nội, là có thể phòng ngự, nhưng đối không có cái gì siêu tự nhiên năng lực người bình thường đến nói, lại là không cách nào phòng ngự trí mạng chi độc.
+
+	Ta làm qua thí nghiệm. Tại dạng này hoàn cảnh bên trong, người bình thường nhiều nhất ba giờ liền vĩnh viễn không cần đi, người sống sẽ trực tiếp chuyển đổi thành người chết, nhưng vẫn như cũ có thể lấy tử linh thân phận sống ở thế gian. Nhưng ta nghĩ, những cái kia tinh linh đại khái sẽ không thích dạng này luôn luôn đen như mực trụ sở.
+
+	Cân nhắc đến tinh linh so với nhân loại còn muốn hơi kém thể chất, tinh linh kỳ an toàn hẳn là chỉ có chừng hai giờ, nếu là tại Vĩnh Dạ chi thành bên trong, mở ra phòng ngự. Giống như là phòng ngự công kích pháp thuật bài trừ tử vong chi tức, thời gian này hẳn là sẽ có thể kéo dài.
+
+	Nhưng cân nhắc đến Pháp Sư tháp, phù không thành ma lực là có hạn, trường kỳ mở ra pháp thuật phòng ngự tương đương tìm đường chết, cái này phòng ngự thời gian cũng sẽ không quá dài. . . . Tốt a, đã có người chú ý tới, ta nói chính là, ta Vĩnh Dạ thành làm sao có thể, hắn nhưng là có "Vô tận ma lực nội hạch".
+
+	Khục, cũng không nên hỏi cái này vô tận ma lực là thế nào đến, nhưng dù cho phòng ngự có thể bảo trì. Vị diện quy tắc vẫn là lại không ngừng ăn mòn trong đó hộ gia đình, cũng chỉ là kéo dài hộ gia đình thời gian, sau khi rời khỏi đây bệnh nặng một trận xem như may mắn, ở lâu, chết bên trong cũng bình thường, cân nhắc đến nào đó bầy xui xẻo sơn tặc tại ngày thứ năm bắt đầu liền có nhân hóa làm vong linh, trong bảy ngày toàn bộ hóa thành vong linh, cá nhân ta cảm thấy, nếu là tinh linh, ba, bốn ngày đại khái còn tính là kỳ an toàn.
+
+	Đương nhiên. Nếu không phải khi lúc cần thiết, ta vẫn là không muốn tiết lộ ta cái này Minh phủ chi địa át chủ bài, nó thế nhưng là chính cống đòn sát thủ, nhưng nhìn hôm nay cái này tình thế. Có một số việc là không thể tránh được.
+
+	Nguyên bản kế hoạch của ta là nếu chỉ mang hài tử đi, những cái kia lơ lửng hạm hẳn là liền đủ, như di chuyển nhân số quá nhiều, liền lấy ra phù không thành, chậm rãi bay.
+
+	Như bị buộc hung ác, cất vào phù không thành lại cất vào Minh phủ chi địa. Ta một người liền có thể chuồn đi, đuổi tại người ở bên trong chết sạch quang chi trước, bay qua bị thế nhân xem như không thể vượt qua dãy núi Heluite núi tuyết, tại đối diện bình nguyên mở ra thế giới, đem người đều phóng xuất, để chính bọn hắn đi.
+
+	Đương nhiên, đây hết thảy tiền đề, là đem tất cả mọi người chuyển di tiến phù không thành, dạng này, chúng ta chỗ trống liền sẽ nhiều rất nhiều.
+
+	"Hài tử cùng lão nhân, nữ nhân ưu tiên. Uy, ngươi một cái đại lão gia, không đi cùng ma triều liều mạng, còn cùng nữ nhân hài tử đoạt vị trí, mất mặt không?"
+
+	Heloise một cước đá bay một cái hướng phía trước cướp tuổi trẻ tinh linh, mà sự xuất hiện của nàng, nhưng cũng yên ổn lòng người.
+
+	Heloise mang theo bốn thượng vị tinh linh toàn lực đầu nhập cứu tế bên trong, hoàng kim tinh linh đặc thù loá mắt tóc vàng da trắng cùng cao gầy dáng người dị thường gây chú ý, tinh linh hoàng quyền ba Thần khí càng là hấp dẫn vô số ánh mắt, không ít nguyệt tinh linh cùng ngân tinh linh nhìn nàng ánh mắt thực tế rất là phức tạp.
+
+	Sở dĩ để các tinh linh đi cứu viện hỗ trợ, trừ bởi vì đồng tộc có thể trấn an lòng người giải trừ phòng bị bên ngoài, càng là bởi vì ta thực tế nghĩ không ra, còn có cái gì so cứu tế hành động tốt hơn xoát danh vọng hành động.
+
+	Chúng ta cứu viện cũng không có vòng qua những cái kia "Tinh Linh đế quốc" thượng vị tinh linh cùng "Hoàng thất", nhưng ít ra từ hiện tại đến xem, bọn hắn còn không có rút lui dự định, cũng không có ngăn cản chúng ta di chuyển hành động, dù cho cái này nói rõ chính là đang đào bọn hắn góc tường. . . Bọn hắn cũng không thể ngăn cản người một nhà dân chạy trốn con đường đi.
+
+	Ân, lúc ấy ném cho các nàng vài khung chiến cơ đi.
+
+	Lúc này, mới Aurora không có di động, cũng vô pháp di động, lấy nó là hạch tâm, vô số hàn băng, băng tuyết, băng sương, bông tuyết đã bao trùm hết thảy, ánh mắt chiếu tới chỗ tuyết lớn đầy trời, trắng lóa như tuyết, tại thiên không cùng đại địa ở giữa, khắp nơi đều là bay múa nguyên tố băng tuyết tinh linh.
+
+	Mà để người kinh ngạc, lại là tại mới Aurora quanh mình cùng chính phía dưới Nguyệt Luân chi thành, mặc dù hàn phong vẫn như cũ, nhưng tuyết lớn lại đình chỉ, tại mắt thường đi tới biên cảnh, đây là duy nhất không đất tuyết.
+
+	Cấm chú cũng là muốn có khu vực an toàn, đó chính là người thi pháp vị trí, mà bây giờ, tất cả phe Thâm Uyên chiến lực, đều lấy cái phương hướng này làm mục tiêu.
+
+	Trừ ta chỗ Aurora, cái khác chiến hạm cùng chiến sĩ đều đã đầu nhập vào chiến trường, nhưng bọn hắn không có đến chiến trường một tuyến cùng tinh linh chư thần kề vai chiến đấu (sung làm pháo hôi), mà là tại Nguyệt Luân Chi Đô tường thành bên ngoài, bắt đầu chặn đường những cái kia lọt lưới ma thú, ác ma.
+
+	Dạng này không chỉ có phong hiểm nhỏ bé, cũng có thể thu được tinh linh cảm kích cùng ân tình, càng thêm thích hợp những phàm nhân này chiến sĩ tích lũy kinh nghiệm chiến đấu cùng thu thập trang bị số liệu, mà không phải vội vã chiến tử.
+
+	Phù Không Chiến Hạm hạm pháo thay phiên phát uy, mỗi một lần bạo tạc, đều thanh không quanh mình mấy chục con, trăm con ác ma, loại này hiệu suất cao cùng thấp nguy hiểm phương thức chiến đấu, để các tinh linh càng phát ra cảm thấy mình đã lạc hậu hơn toàn bộ thời đại.
+
+	Trên bầu trời nhất chói mắt, lại không phải cự hình chiến hạm, mà là kia nho nhỏ chu nho Phượng Hoàng chiến cơ.
+
+	Nó là chu nho máy bay trực thăng một loại cải tiến hình, chu nho máy bay trực thăng kỳ thật cũng không thể tính phát minh mới, nhưng một mực không cách nào trở thành không kỵ sĩ lựa chọn, chủ yếu là trục trặc suất cực cao. Mà một khi phát sinh trục trặc, không kỵ sĩ cùng máy bay trực thăng đều đem quẳng thành khối vụn.
+
+	Cái này Phượng Hoàng chiến cơ cùng trục trặc suất cực cao máy nguyên hình khác biệt, hắn có tương hỗ điệp gia song cánh quạt xuất lực, như vậy. Dù cho ra trục trặc, cũng chỉ là động lực giảm xuống, còn có thể an toàn hạ xuống, mà coi như hai cái cánh quạt đều hư mất, chúng ta còn chuẩn bị dù nhảy. . . Loại này "Khởi tử hoàn sinh" năng lực. Chính là được xưng là Phượng Hoàng nguyên do.
+
+	Bản thân nó không có vũ khí, chính là tinh giản giá kim loại kết cấu, nói là chiến cơ, duy nhất công năng đại khái là mang người bay lên, mà bây giờ, những này thiết kế đơn giản, chi phí rẻ tiền yếu nhất chiến cơ, lại lấy được cực kỳ huy hoàng chiến quả.
+
+	Bọn hắn không ngừng hướng phía dưới rơi vãi một loại đặc thù dược tề, "Sạch sẽ số hai", kia là Olvy trong thí nghiệm sản phẩm phụ, nó nguyên thiết kế là dùng tới làm giặt quần áo dịch. Kết quả đang thí nghiệm về sau, lại phát hiện là một loại hiệu quả cực kỳ tốt thuốc kích thích cùng xuân dược. . . Khụ khụ, loại này khoa học nhỏ phát minh ngoài ý muốn mang tới "Kinh hỉ", chúng ta đều quen thuộc, không phải sao?
+
+	Thích hợp hưng phấn trên chiến trường là một chuyện tốt, sợ hãi cùng phẫn nộ là tốt nhất thuốc kích thích, điều này có thể để các chiến sĩ phát huy toàn lực của mình, nhưng quá độ sục sôi hưng phấn tâm tính cùng cảm xúc, lại ngược lại sẽ ảnh hưởng trên chiến trường phát huy, dùng sức quá sai lầm, cơ bắp quá tải run rẩy, cực độ hưng phấn sau siêu rã rời. Đều là cực kỳ muốn mạng.
+
+	Còn nếu là loại này hiệu quả nhanh thuốc kích thích gặp một khi hưng phấn quá độ liền sẽ tự bạo Thâm Uyên chiến nô, quả thực là hoàn mỹ nhất phối hợp, như vậy, lấy được cái dạng gì chiến quả đều không kỳ quái.
+
+	Bọn hắn chỗ đến. Từng cái cái bình bị mở ra, dược tề cùng bột phấn rơi xuống dưới, phía dưới lại từng đợt tiếng nổ, mà bây giờ bọn hắn vì vây công tường thành, đều lít nha lít nhít tiến đến cùng một chỗ, một cái Thâm Uyên chiến nô tự bạo. Nổ chết mấy cái khác Thâm Uyên chiến nô, trong đó có mấy cái cũng cùng nhau tự bạo. . . Một cái tổng phí tổn không cao hơn mười cái ngân tệ dược tề, thế mà xử lý mấy chục con trung vị ác ma, đây quả thực là không thể tưởng tượng nổi chiến quả.
+
+	Cái này hơn 300 con cực kỳ đơn bạc Phượng Hoàng chiến cơ, trở thành chiến trường tiêu điểm, bọn hắn chỗ đến, chính là từng đợt bạo tạc, nhưng ta biết, dạng này chiến tích tiếp tục không được bao lâu.
+
+	Vì thí nghiệm vũ khí, chúng ta mang đến các loại vũ khí mới trang bị cùng dược tề, mỗi một loại số lượng đều là có hạn, nhưng đã hiệu quả tốt như vậy, quay đầu chúng ta liền sẽ mở rộng sản xuất, mà lại đem xem như quý giá vũ khí mới bán ra.
+
+	"Đem xuân dược cùng thuốc kích thích xem như sinh hóa vũ khí bán ra, thật làm cho người vô pháp đánh giá. . ."
+
+	Nhưng cân nhắc đến ma triều qua đi, lại tiến vào chủ vị diện đều chỉ là phổ thông ác ma, loại thuốc này lượng tiêu thụ đoán chừng cũng liền, ngược lại là gặp được Hỏa thuộc tính ác ma có thể thử nghiệm thêm, chỉ cần có thể dụ làm một con Viêm Ma tự bạo, liền có thể tạo thành thành tấn tổn thương.
+
+	"Được rồi, đừng nghĩ nhiều như vậy, còn có hơn bốn mươi loại dược tề chờ lấy thí nghiệm."
+
+	Băng Hà Thế Kỷ đã tiến vào sau cùng bộc phát kỳ, pháp thuật mô hình đã ổn định, ta ngược lại có thể phân tâm, mặc dù trong miệng còn muốn muốn lẩm bẩm cái này lại thối lại lớn lên chú văn, nhưng lại có rảnh rỗi có thể quan tâm nhiều hơn một chút chiến trường.
+
+	Mặt đất chiến trường đồng dạng lâm vào thế bí, Lam Minh nhân loại chiến sĩ gia nhập, để các tinh linh thở phào, nhưng để người không thích, lại là tại đợt thứ nhất tiếp xúc bên trong, chiến sĩ loài người liền xuất hiện thương vong.
+
+	Nhìn xem những này tinh linh tựa hồ ứng phó rất dễ dàng, nhưng vừa mới tiếp nhận, Lam Minh bộ binh hạng nặng, ma kiếm sĩ liền ăn phải cái lỗ vốn, những này ác ma lực lớn vô cùng không sợ đau đớn, mà lại tùy thời có khả năng bạo tạc, đích thật là nhất làm cho đầu người đau vật lộn đối thủ.
+
+	Dù cho có rất nhiều chuẩn bị, đối mặt đối thủ như vậy, tân binh muốn trở thành lão binh, thương vong vẫn như cũ là không cách nào tránh khỏi, may mắn, Renee các nàng tự thân lên trận, một trận chém giết, ổn định chiến cuộc.
+
+	Mà để ta ngoài ý muốn, lại là nàng hai cái hoàng phi cũng tới chiến trường, một cái là thân thủ cứng rắn khoái kiếm sĩ, một cái là thần thuật, ma pháp song tu xuất thủ người thi pháp, thực lực thật đúng là không tầm thường.
+
+	"Cấm chú còn bao lâu nữa?"
+
+	"Chừng một giờ."
+
+	". . . . Ai nói nửa giờ liền có thể giải quyết, hiện tại đã mười phút đi! Ngươi bây giờ nói cho ta còn muốn một giờ."
+
+	Heloise cùng Renee giao lưu tràn đầy hỏa khí, ta hiện tại không cách nào hành động, tất cả ngôn ngữ vẫn như cũ chỉ có thể dựa vào Heloise thuật lại.
+
+	Vẻn vẹn một cái tiếp xúc, liền tổn thất trên trăm vị chiến sĩ tinh nhuệ, lại âm thầm cảm thán ma triều hoàn toàn chính xác danh bất hư truyền thời điểm, Renee cũng rất là đau lòng, tự nhiên hỏa khí liền lên đến.
+
+	"Hắn nói là ít nhất nửa giờ, nhiều nhất ba giờ. . ."
+
+	Heloise càng nói càng nhỏ âm thanh, tình huống này hoàn toàn chính xác rất không ổn, mỗi một giây đều có vô số chiến sĩ hi sinh, chiến đấu cường độ viễn siêu mong muốn.
+
+	Nhưng đến lúc này, song phương cũng chỉ có thể liều mạng chống đỡ xuống dưới, mở cung không quay đầu lại tiễn, ngõ hẹp gặp nhau dũng giả thắng, ai trước nhịn không được, ai chơi xong.
+
+	"Roland, ngươi không hổ là ngàn năm thứ nhất hố người, ngươi không chỉ có hố đối thủ, còn hố đồng đội!"
+
+	Khục, cái này liên quan ta chuyện gì, ta tại sao lại vô tội trúng đạn.Chương 642: Cứu viện triển khai
+
+	Tuyết lông ngỗng càng rơi xuống càng lớn, bị liên lụy đến phạm vi cũng càng ngày càng rộng, mà cho dù tại mấy chục cây số bên ngoài, vẫn như cũ có ma triều ác ma cảm giác được nguy hiểm, hoặc là quay đầu co cẳng liền chạy, hoặc là, liền chém giết đồng bạn xông ra con đường, đến đây trừ tận gốc kia xuất phát từ bản năng uy hiếp.
+
+	Trật tự thần chi cùng Thâm Uyên ác ma vĩnh hằng Thánh chiến trình diễn vô số lần, nhưng ngay từ đầu đánh thảm liệt như vậy, nhưng như cũ là số ít, chí cao Chủ Thần giống như là nhốt vào sân thi đấu sư tử, không có đường lui tương hỗ giác đấu, chém giết lẫn nhau.
+
+	Mỗi một khắc, đều có vô số anh linh, thần sứ đổ xuống, đây là một trận không có đường lui, không cách nào tránh né chiến tranh, ưu nhã tinh linh võ kỹ không như điên bạo dã tính cùng bản năng chiến đấu, ma pháp sẽ chỉ sớm dẫn bạo những này điên cuồng chiến thú, tại vô tận pháo hôi trước mặt, những cái kia các tinh linh truyền kỳ cường giả bị Thâm Uyên chiến nô xé nát, nổ nát vụn.
+
+	Nhưng tinh linh chư thần không có lùi bước không gian cùng dư lực, vô số thời đại tích lũy, giống như cược đỏ mắt dân cờ bạc, bị nện tiến thấy thế nào đều không có hi vọng cối xay thịt, gây nên, chỉ là tranh thủ thêm một chút thời gian.
+
+	Tại bọn hắn phía sau, một tòa đen nhánh phù không thành phiêu phù ở Nguyệt Luân Chi Đô bầu trời, nó hướng phía dưới mở ra thông đạo đã chứa đầy, vô số lơ lửng hạm, máy bay chiến đấu ở trong đó xuyên tới xuyên lui, trợ giúp mang theo người sống sót tiến vào toà này lơ lửng thành thị.
+
+	Vĩnh Dạ thành, ở thời điểm này đưa đến rất mấu chốt tác dụng, chờ nó bị đổ đầy, mặc kệ là đem để vào Minh phủ chi địa, vẫn là trực tiếp tốc độ như rùa chuồn đi, đều là rất phòng bị lựa chọn.
+
+	Tiện thể nhấc lên, trước đó nói một chút qua, kia bug chi địa giống nhau là Minh phủ chi địa một bộ phận, trong đó tử vong chi tức mặc dù không bằng Minh phủ bản thân, nhưng cũng là phụ năng lượng một loại, đối người sống vẫn như cũ là có hại thậm chí trí mạng, đây cũng là ta Vĩnh Dạ thành, trường kỳ không có người sống hộ gia đình nguyên nhân căn bản.
+
+	Đối cường giả đến nói, loại này ác ý không đủ "Phụ năng lượng" nếu không xuẩn chủ động hút vào thể nội, là có thể phòng ngự, nhưng đối không có cái gì siêu tự nhiên năng lực người bình thường đến nói, lại là không cách nào phòng ngự trí mạng chi độc.
+
+	Ta làm qua thí nghiệm. Tại dạng này hoàn cảnh bên trong, người bình thường nhiều nhất ba giờ liền vĩnh viễn không cần đi, người sống sẽ trực tiếp chuyển đổi thành người chết, nhưng vẫn như cũ có thể lấy tử linh thân phận sống ở thế gian. Nhưng ta nghĩ, những cái kia tinh linh đại khái sẽ không thích dạng này luôn luôn đen như mực trụ sở.
+
+	Cân nhắc đến tinh linh so với nhân loại còn muốn hơi kém thể chất, tinh linh kỳ an toàn hẳn là chỉ có chừng hai giờ, nếu là tại Vĩnh Dạ chi thành bên trong, mở ra phòng ngự. Giống như là phòng ngự công kích pháp thuật bài trừ tử vong chi tức, thời gian này hẳn là sẽ có thể kéo dài.
+
+	Nhưng cân nhắc đến Pháp Sư tháp, phù không thành ma lực là có hạn, trường kỳ mở ra pháp thuật phòng ngự tương đương tìm đường chết, cái này phòng ngự thời gian cũng sẽ không quá dài. . . . Tốt a, đã có người chú ý tới, ta nói chính là, ta Vĩnh Dạ thành làm sao có thể, hắn nhưng là có "Vô tận ma lực nội hạch".
+
+	Khục, cũng không nên hỏi cái này vô tận ma lực là thế nào đến, nhưng dù cho phòng ngự có thể bảo trì. Vị diện quy tắc vẫn là lại không ngừng ăn mòn trong đó hộ gia đình, cũng chỉ là kéo dài hộ gia đình thời gian, sau khi rời khỏi đây bệnh nặng một trận xem như may mắn, ở lâu, chết bên trong cũng bình thường, cân nhắc đến nào đó bầy xui xẻo sơn tặc tại ngày thứ năm bắt đầu liền có nhân hóa làm vong linh, trong bảy ngày toàn bộ hóa thành vong linh, cá nhân ta cảm thấy, nếu là tinh linh, ba, bốn ngày đại khái còn tính là kỳ an toàn.
+
+	Đương nhiên. Nếu không phải khi lúc cần thiết, ta vẫn là không muốn tiết lộ ta cái này Minh phủ chi địa át chủ bài, nó thế nhưng là chính cống đòn sát thủ, nhưng nhìn hôm nay cái này tình thế. Có một số việc là không thể tránh được.
+
+	Nguyên bản kế hoạch của ta là nếu chỉ mang hài tử đi, những cái kia lơ lửng hạm hẳn là liền đủ, như di chuyển nhân số quá nhiều, liền lấy ra phù không thành, chậm rãi bay.
+
+	Như bị buộc hung ác, cất vào phù không thành lại cất vào Minh phủ chi địa. Ta một người liền có thể chuồn đi, đuổi tại người ở bên trong chết sạch quang chi trước, bay qua bị thế nhân xem như không thể vượt qua dãy núi Heluite núi tuyết, tại đối diện bình nguyên mở ra thế giới, đem người đều phóng xuất, để chính bọn hắn đi.
+
+	Đương nhiên, đây hết thảy tiền đề, là đem tất cả mọi người chuyển di tiến phù không thành, dạng này, chúng ta chỗ trống liền sẽ nhiều rất nhiều.
+
+	"Hài tử cùng lão nhân, nữ nhân ưu tiên. Uy, ngươi một cái đại lão gia, không đi cùng ma triều liều mạng, còn cùng nữ nhân hài tử đoạt vị trí, mất mặt không?"
+
+	Heloise một cước đá bay một cái hướng phía trước cướp tuổi trẻ tinh linh, mà sự xuất hiện của nàng, nhưng cũng yên ổn lòng người.
+
+	Heloise mang theo bốn thượng vị tinh linh toàn lực đầu nhập cứu tế bên trong, hoàng kim tinh linh đặc thù loá mắt tóc vàng da trắng cùng cao gầy dáng người dị thường gây chú ý, tinh linh hoàng quyền ba Thần khí càng là hấp dẫn vô số ánh mắt, không ít nguyệt tinh linh cùng ngân tinh linh nhìn nàng ánh mắt thực tế rất là phức tạp.
+
+	Sở dĩ để các tinh linh đi cứu viện hỗ trợ, trừ bởi vì đồng tộc có thể trấn an lòng người giải trừ phòng bị bên ngoài, càng là bởi vì ta thực tế nghĩ không ra, còn có cái gì so cứu tế hành động tốt hơn xoát danh vọng hành động.
+
+	Chúng ta cứu viện cũng không có vòng qua những cái kia "Tinh Linh đế quốc" thượng vị tinh linh cùng "Hoàng thất", nhưng ít ra từ hiện tại đến xem, bọn hắn còn không có rút lui dự định, cũng không có ngăn cản chúng ta di chuyển hành động, dù cho cái này nói rõ chính là đang đào bọn hắn góc tường. . . Bọn hắn cũng không thể ngăn cản người một nhà dân chạy trốn con đường đi.
+
+	Ân, lúc ấy ném cho các nàng vài khung chiến cơ đi.
+
+	Lúc này, mới Aurora không có di động, cũng vô pháp di động, lấy nó là hạch tâm, vô số hàn băng, băng tuyết, băng sương, bông tuyết đã bao trùm hết thảy, ánh mắt chiếu tới chỗ tuyết lớn đầy trời, trắng lóa như tuyết, tại thiên không cùng đại địa ở giữa, khắp nơi đều là bay múa nguyên tố băng tuyết tinh linh.
+
+	Mà để người kinh ngạc, lại là tại mới Aurora quanh mình cùng chính phía dưới Nguyệt Luân chi thành, mặc dù hàn phong vẫn như cũ, nhưng tuyết lớn lại đình chỉ, tại mắt thường đi tới biên cảnh, đây là duy nhất không đất tuyết.
+
+	Cấm chú cũng là muốn có khu vực an toàn, đó chính là người thi pháp vị trí, mà bây giờ, tất cả phe Thâm Uyên chiến lực, đều lấy cái phương hướng này làm mục tiêu.
+
+	Trừ ta chỗ Aurora, cái khác chiến hạm cùng chiến sĩ đều đã đầu nhập vào chiến trường, nhưng bọn hắn không có đến chiến trường một tuyến cùng tinh linh chư thần kề vai chiến đấu (sung làm pháo hôi), mà là tại Nguyệt Luân Chi Đô tường thành bên ngoài, bắt đầu chặn đường những cái kia lọt lưới ma thú, ác ma.
+
+	Dạng này không chỉ có phong hiểm nhỏ bé, cũng có thể thu được tinh linh cảm kích cùng ân tình, càng thêm thích hợp những phàm nhân này chiến sĩ tích lũy kinh nghiệm chiến đấu cùng thu thập trang bị số liệu, mà không phải vội vã chiến tử.
+
+	Phù Không Chiến Hạm hạm pháo thay phiên phát uy, mỗi một lần bạo tạc, đều thanh không quanh mình mấy chục con, trăm con ác ma, loại này hiệu suất cao cùng thấp nguy hiểm phương thức chiến đấu, để các tinh linh càng phát ra cảm thấy mình đã lạc hậu hơn toàn bộ thời đại.
+
+	Trên bầu trời nhất chói mắt, lại không phải cự hình chiến hạm, mà là kia nho nhỏ chu nho Phượng Hoàng chiến cơ.
+
+	Nó là chu nho máy bay trực thăng một loại cải tiến hình, chu nho máy bay trực thăng kỳ thật cũng không thể tính phát minh mới, nhưng một mực không cách nào trở thành không kỵ sĩ lựa chọn, chủ yếu là trục trặc suất cực cao. Mà một khi phát sinh trục trặc, không kỵ sĩ cùng máy bay trực thăng đều đem quẳng thành khối vụn.
+
+	Cái này Phượng Hoàng chiến cơ cùng trục trặc suất cực cao máy nguyên hình khác biệt, hắn có tương hỗ điệp gia song cánh quạt xuất lực, như vậy. Dù cho ra trục trặc, cũng chỉ là động lực giảm xuống, còn có thể an toàn hạ xuống, mà coi như hai cái cánh quạt đều hư mất, chúng ta còn chuẩn bị dù nhảy. . . Loại này "Khởi tử hoàn sinh" năng lực. Chính là được xưng là Phượng Hoàng nguyên do.
+
+	Bản thân nó không có vũ khí, chính là tinh giản giá kim loại kết cấu, nói là chiến cơ, duy nhất công năng đại khái là mang người bay lên, mà bây giờ, những này thiết kế đơn giản, chi phí rẻ tiền yếu nhất chiến cơ, lại lấy được cực kỳ huy hoàng chiến quả.
+
+	Bọn hắn không ngừng hướng phía dưới rơi vãi một loại đặc thù dược tề, "Sạch sẽ số hai", kia là Olvy trong thí nghiệm sản phẩm phụ, nó nguyên thiết kế là dùng tới làm giặt quần áo dịch. Kết quả đang thí nghiệm về sau, lại phát hiện là một loại hiệu quả cực kỳ tốt thuốc kích thích cùng xuân dược. . . Khụ khụ, loại này khoa học nhỏ phát minh ngoài ý muốn mang tới "Kinh hỉ", chúng ta đều quen thuộc, không phải sao?
+
+	Thích hợp hưng phấn trên chiến trường là một chuyện tốt, sợ hãi cùng phẫn nộ là tốt nhất thuốc kích thích, điều này có thể để các chiến sĩ phát huy toàn lực của mình, nhưng quá độ sục sôi hưng phấn tâm tính cùng cảm xúc, lại ngược lại sẽ ảnh hưởng trên chiến trường phát huy, dùng sức quá sai lầm, cơ bắp quá tải run rẩy, cực độ hưng phấn sau siêu rã rời. Đều là cực kỳ muốn mạng.
+
+	Còn nếu là loại này hiệu quả nhanh thuốc kích thích gặp một khi hưng phấn quá độ liền sẽ tự bạo Thâm Uyên chiến nô, quả thực là hoàn mỹ nhất phối hợp, như vậy, lấy được cái dạng gì chiến quả đều không kỳ quái.
+
+	Bọn hắn chỗ đến. Từng cái cái bình bị mở ra, dược tề cùng bột phấn rơi xuống dưới, phía dưới lại từng đợt tiếng nổ, mà bây giờ bọn hắn vì vây công tường thành, đều lít nha lít nhít tiến đến cùng một chỗ, một cái Thâm Uyên chiến nô tự bạo. Nổ chết mấy cái khác Thâm Uyên chiến nô, trong đó có mấy cái cũng cùng nhau tự bạo. . . Một cái tổng phí tổn không cao hơn mười cái ngân tệ dược tề, thế mà xử lý mấy chục con trung vị ác ma, đây quả thực là không thể tưởng tượng nổi chiến quả.
+
+	Cái này hơn 300 con cực kỳ đơn bạc Phượng Hoàng chiến cơ, trở thành chiến trường tiêu điểm, bọn hắn chỗ đến, chính là từng đợt bạo tạc, nhưng ta biết, dạng này chiến tích tiếp tục không được bao lâu.
+
+	Vì thí nghiệm vũ khí, chúng ta mang đến các loại vũ khí mới trang bị cùng dược tề, mỗi một loại số lượng đều là có hạn, nhưng đã hiệu quả tốt như vậy, quay đầu chúng ta liền sẽ mở rộng sản xuất, mà lại đem xem như quý giá vũ khí mới bán ra.
+
+	"Đem xuân dược cùng thuốc kích thích xem như sinh hóa vũ khí bán ra, thật làm cho người vô pháp đánh giá. . ."
+
+	Nhưng cân nhắc đến ma triều qua đi, lại tiến vào chủ vị diện đều chỉ là phổ thông ác ma, loại thuốc này lượng tiêu thụ đoán chừng cũng liền, ngược lại là gặp được Hỏa thuộc tính ác ma có thể thử nghiệm thêm, chỉ cần có thể dụ làm một con Viêm Ma tự bạo, liền có thể tạo thành thành tấn tổn thương.
+
+	"Được rồi, đừng nghĩ nhiều như vậy, còn có hơn bốn mươi loại dược tề chờ lấy thí nghiệm."
+
+	Băng Hà Thế Kỷ đã tiến vào sau cùng bộc phát kỳ, pháp thuật mô hình đã ổn định, ta ngược lại có thể phân tâm, mặc dù trong miệng còn muốn muốn lẩm bẩm cái này lại thối lại lớn lên chú văn, nhưng lại có rảnh rỗi có thể quan tâm nhiều hơn một chút chiến trường.
+
+	Mặt đất chiến trường đồng dạng lâm vào thế bí, Lam Minh nhân loại chiến sĩ gia nhập, để các tinh linh thở phào, nhưng để người không thích, lại là tại đợt thứ nhất tiếp xúc bên trong, chiến sĩ loài người liền xuất hiện thương vong.
+
+	Nhìn xem những này tinh linh tựa hồ ứng phó rất dễ dàng, nhưng vừa mới tiếp nhận, Lam Minh bộ binh hạng nặng, ma kiếm sĩ liền ăn phải cái lỗ vốn, những này ác ma lực lớn vô cùng không sợ đau đớn, mà lại tùy thời có khả năng bạo tạc, đích thật là nhất làm cho đầu người đau vật lộn đối thủ.
+
+	Dù cho có rất nhiều chuẩn bị, đối mặt đối thủ như vậy, tân binh muốn trở thành lão binh, thương vong vẫn như cũ là không cách nào tránh khỏi, may mắn, Renee các nàng tự thân lên trận, một trận chém giết, ổn định chiến cuộc.
+
+	Mà để ta ngoài ý muốn, lại là nàng hai cái hoàng phi cũng tới chiến trường, một cái là thân thủ cứng rắn khoái kiếm sĩ, một cái là thần thuật, ma pháp song tu xuất thủ người thi pháp, thực lực thật đúng là không tầm thường.
+
+	"Cấm chú còn bao lâu nữa?"
+
+	"Chừng một giờ."
+
+	". . . . Ai nói nửa giờ liền có thể giải quyết, hiện tại đã mười phút đi! Ngươi bây giờ nói cho ta còn muốn một giờ."
+
+	Heloise cùng Renee giao lưu tràn đầy hỏa khí, ta hiện tại không cách nào hành động, tất cả ngôn ngữ vẫn như cũ chỉ có thể dựa vào Heloise thuật lại.
+
+	Vẻn vẹn một cái tiếp xúc, liền tổn thất trên trăm vị chiến sĩ tinh nhuệ, lại âm thầm cảm thán ma triều hoàn toàn chính xác danh bất hư truyền thời điểm, Renee cũng rất là đau lòng, tự nhiên hỏa khí liền lên đến.
+
+	"Hắn nói là ít nhất nửa giờ, nhiều nhất ba giờ. . ."
+
+	Heloise càng nói càng nhỏ âm thanh, tình huống này hoàn toàn chính xác rất không ổn, mỗi một giây đều có vô số chiến sĩ hi sinh, chiến đấu cường độ viễn siêu mong muốn.
+
+	Nhưng đến lúc này, song phương cũng chỉ có thể liều mạng chống đỡ xuống dưới, mở cung không quay đầu lại tiễn, ngõ hẹp gặp nhau dũng giả thắng, ai trước nhịn không được, ai chơi xong.
+
+	"Roland, ngươi không hổ là ngàn năm thứ nhất hố người, ngươi không chỉ có hố đối thủ, còn hố đồng đội!"
+
+	Khục, cái này liên quan ta chuyện gì, ta tại sao lại vô tội trúng đạn.Chương 642: Cứu viện triển khai
+
+	Tuyết lông ngỗng càng rơi xuống càng lớn, bị liên lụy đến phạm vi cũng càng ngày càng rộng, mà cho dù tại mấy chục cây số bên ngoài, vẫn như cũ có ma triều ác ma cảm giác được nguy hiểm, hoặc là quay đầu co cẳng liền chạy, hoặc là, liền chém giết đồng bạn xông ra con đường, đến đây trừ tận gốc kia xuất phát từ bản năng uy hiếp.
+
+	Trật tự thần chi cùng Thâm Uyên ác ma vĩnh hằng Thánh chiến trình diễn vô số lần, nhưng ngay từ đầu đánh thảm liệt như vậy, nhưng như cũ là số ít, chí cao Chủ Thần giống như là nhốt vào sân thi đấu sư tử, không có đường lui tương hỗ giác đấu, chém giết lẫn nhau.
+
+	Mỗi một khắc, đều có vô số anh linh, thần sứ đổ xuống, đây là một trận không có đường lui, không cách nào tránh né chiến tranh, ưu nhã tinh linh võ kỹ không như điên bạo dã tính cùng bản năng chiến đấu, ma pháp sẽ chỉ sớm dẫn bạo những này điên cuồng chiến thú, tại vô tận pháo hôi trước mặt, những cái kia các tinh linh truyền kỳ cường giả bị Thâm Uyên chiến nô xé nát, nổ nát vụn.
+
+	Nhưng tinh linh chư thần không có lùi bước không gian cùng dư lực, vô số thời đại tích lũy, giống như cược đỏ mắt dân cờ bạc, bị nện tiến thấy thế nào đều không có hi vọng cối xay thịt, gây nên, chỉ là tranh thủ thêm một chút thời gian.
+
+	Tại bọn hắn phía sau, một tòa đen nhánh phù không thành phiêu phù ở Nguyệt Luân Chi Đô bầu trời, nó hướng phía dưới mở ra thông đạo đã chứa đầy, vô số lơ lửng hạm, máy bay chiến đấu ở trong đó xuyên tới xuyên lui, trợ giúp mang theo người sống sót tiến vào toà này lơ lửng thành thị.
+
+	Vĩnh Dạ thành, ở thời điểm này đưa đến rất mấu chốt tác dụng, chờ nó bị đổ đầy, mặc kệ là đem để vào Minh phủ chi địa, vẫn là trực tiếp tốc độ như rùa chuồn đi, đều là rất phòng bị lựa chọn.
+
+	Tiện thể nhấc lên, trước đó nói một chút qua, kia bug chi địa giống nhau là Minh phủ chi địa một bộ phận, trong đó tử vong chi tức mặc dù không bằng Minh phủ bản thân, nhưng cũng là phụ năng lượng một loại, đối người sống vẫn như cũ là có hại thậm chí trí mạng, đây cũng là ta Vĩnh Dạ thành, trường kỳ không có người sống hộ gia đình nguyên nhân căn bản.
+
+	Đối cường giả đến nói, loại này ác ý không đủ "Phụ năng lượng" nếu không xuẩn chủ động hút vào thể nội, là có thể phòng ngự, nhưng đối không có cái gì siêu tự nhiên năng lực người bình thường đến nói, lại là không cách nào phòng ngự trí mạng chi độc.
+
+	Ta làm qua thí nghiệm. Tại dạng này hoàn cảnh bên trong, người bình thường nhiều nhất ba giờ liền vĩnh viễn không cần đi, người sống sẽ trực tiếp chuyển đổi thành người chết, nhưng vẫn như cũ có thể lấy tử linh thân phận sống ở thế gian. Nhưng ta nghĩ, những cái kia tinh linh đại khái sẽ không thích dạng này luôn luôn đen như mực trụ sở.
+
+	Cân nhắc đến tinh linh so với nhân loại còn muốn hơi kém thể chất, tinh linh kỳ an toàn hẳn là chỉ có chừng hai giờ, nếu là tại Vĩnh Dạ chi thành bên trong, mở ra phòng ngự. Giống như là phòng ngự công kích pháp thuật bài trừ tử vong chi tức, thời gian này hẳn là sẽ có thể kéo dài.
+
+	Nhưng cân nhắc đến Pháp Sư tháp, phù không thành ma lực là có hạn, trường kỳ mở ra pháp thuật phòng ngự tương đương tìm đường chết, cái này phòng ngự thời gian cũng sẽ không quá dài. . . . Tốt a, đã có người chú ý tới, ta nói chính là, ta Vĩnh Dạ thành làm sao có thể, hắn nhưng là có "Vô tận ma lực nội hạch".
+
+	Khục, cũng không nên hỏi cái này vô tận ma lực là thế nào đến, nhưng dù cho phòng ngự có thể bảo trì. Vị diện quy tắc vẫn là lại không ngừng ăn mòn trong đó hộ gia đình, cũng chỉ là kéo dài hộ gia đình thời gian, sau khi rời khỏi đây bệnh nặng một trận xem như may mắn, ở lâu, chết bên trong cũng bình thường, cân nhắc đến nào đó bầy xui xẻo sơn tặc tại ngày thứ năm bắt đầu liền có nhân hóa làm vong linh, trong bảy ngày toàn bộ hóa thành vong linh, cá nhân ta cảm thấy, nếu là tinh linh, ba, bốn ngày đại khái còn tính là kỳ an toàn.
+
+	Đương nhiên. Nếu không phải khi lúc cần thiết, ta vẫn là không muốn tiết lộ ta cái này Minh phủ chi địa át chủ bài, nó thế nhưng là chính cống đòn sát thủ, nhưng nhìn hôm nay cái này tình thế. Có một số việc là không thể tránh được.
+
+	Nguyên bản kế hoạch của ta là nếu chỉ mang hài tử đi, những cái kia lơ lửng hạm hẳn là liền đủ, như di chuyển nhân số quá nhiều, liền lấy ra phù không thành, chậm rãi bay.
+
+	Như bị buộc hung ác, cất vào phù không thành lại cất vào Minh phủ chi địa. Ta một người liền có thể chuồn đi, đuổi tại người ở bên trong chết sạch quang chi trước, bay qua bị thế nhân xem như không thể vượt qua dãy núi Heluite núi tuyết, tại đối diện bình nguyên mở ra thế giới, đem người đều phóng xuất, để chính bọn hắn đi.
+
+	Đương nhiên, đây hết thảy tiền đề, là đem tất cả mọi người chuyển di tiến phù không thành, dạng này, chúng ta chỗ trống liền sẽ nhiều rất nhiều.
+
+	"Hài tử cùng lão nhân, nữ nhân ưu tiên. Uy, ngươi một cái đại lão gia, không đi cùng ma triều liều mạng, còn cùng nữ nhân hài tử đoạt vị trí, mất mặt không?"
+
+	Heloise một cước đá bay một cái hướng phía trước cướp tuổi trẻ tinh linh, mà sự xuất hiện của nàng, nhưng cũng yên ổn lòng người.
+
+	Heloise mang theo bốn thượng vị tinh linh toàn lực đầu nhập cứu tế bên trong, hoàng kim tinh linh đặc thù loá mắt tóc vàng da trắng cùng cao gầy dáng người dị thường gây chú ý, tinh linh hoàng quyền ba Thần khí càng là hấp dẫn vô số ánh mắt, không ít nguyệt tinh linh cùng ngân tinh linh nhìn nàng ánh mắt thực tế rất là phức tạp.
+
+	Sở dĩ để các tinh linh đi cứu viện hỗ trợ, trừ bởi vì đồng tộc có thể trấn an lòng người giải trừ phòng bị bên ngoài, càng là bởi vì ta thực tế nghĩ không ra, còn có cái gì so cứu tế hành động tốt hơn xoát danh vọng hành động.
+
+	Chúng ta cứu viện cũng không có vòng qua những cái kia "Tinh Linh đế quốc" thượng vị tinh linh cùng "Hoàng thất", nhưng ít ra từ hiện tại đến xem, bọn hắn còn không có rút lui dự định, cũng không có ngăn cản chúng ta di chuyển hành động, dù cho cái này nói rõ chính là đang đào bọn hắn góc tường. . . Bọn hắn cũng không thể ngăn cản người một nhà dân chạy trốn con đường đi.
+
+	Ân, lúc ấy ném cho các nàng vài khung chiến cơ đi.
+
+	Lúc này, mới Aurora không có di động, cũng vô pháp di động, lấy nó là hạch tâm, vô số hàn băng, băng tuyết, băng sương, bông tuyết đã bao trùm hết thảy, ánh mắt chiếu tới chỗ tuyết lớn đầy trời, trắng lóa như tuyết, tại thiên không cùng đại địa ở giữa, khắp nơi đều là bay múa nguyên tố băng tuyết tinh linh.
+
+	Mà để người kinh ngạc, lại là tại mới Aurora quanh mình cùng chính phía dưới Nguyệt Luân chi thành, mặc dù hàn phong vẫn như cũ, nhưng tuyết lớn lại đình chỉ, tại mắt thường đi tới biên cảnh, đây là duy nhất không đất tuyết.
+
+	Cấm chú cũng là muốn có khu vực an toàn, đó chính là người thi pháp vị trí, mà bây giờ, tất cả phe Thâm Uyên chiến lực, đều lấy cái phương hướng này làm mục tiêu.
+
+	Trừ ta chỗ Aurora, cái khác chiến hạm cùng chiến sĩ đều đã đầu nhập vào chiến trường, nhưng bọn hắn không có đến chiến trường một tuyến cùng tinh linh chư thần kề vai chiến đấu (sung làm pháo hôi), mà là tại Nguyệt Luân Chi Đô tường thành bên ngoài, bắt đầu chặn đường những cái kia lọt lưới ma thú, ác ma.
+
+	Dạng này không chỉ có phong hiểm nhỏ bé, cũng có thể thu được tinh linh cảm kích cùng ân tình, càng thêm thích hợp những phàm nhân này chiến sĩ tích lũy kinh nghiệm chiến đấu cùng thu thập trang bị số liệu, mà không phải vội vã chiến tử.
+
+	Phù Không Chiến Hạm hạm pháo thay phiên phát uy, mỗi một lần bạo tạc, đều thanh không quanh mình mấy chục con, trăm con ác ma, loại này hiệu suất cao cùng thấp nguy hiểm phương thức chiến đấu, để các tinh linh càng phát ra cảm thấy mình đã lạc hậu hơn toàn bộ thời đại.
+
+	Trên bầu trời nhất chói mắt, lại không phải cự hình chiến hạm, mà là kia nho nhỏ chu nho Phượng Hoàng chiến cơ.
+
+	Nó là chu nho máy bay trực thăng một loại cải tiến hình, chu nho máy bay trực thăng kỳ thật cũng không thể tính phát minh mới, nhưng một mực không cách nào trở thành không kỵ sĩ lựa chọn, chủ yếu là trục trặc suất cực cao. Mà một khi phát sinh trục trặc, không kỵ sĩ cùng máy bay trực thăng đều đem quẳng thành khối vụn.
+
+	Cái này Phượng Hoàng chiến cơ cùng trục trặc suất cực cao máy nguyên hình khác biệt, hắn có tương hỗ điệp gia song cánh quạt xuất lực, như vậy. Dù cho ra trục trặc, cũng chỉ là động lực giảm xuống, còn có thể an toàn hạ xuống, mà coi như hai cái cánh quạt đều hư mất, chúng ta còn chuẩn bị dù nhảy. . . Loại này "Khởi tử hoàn sinh" năng lực. Chính là được xưng là Phượng Hoàng nguyên do.
+
+	Bản thân nó không có vũ khí, chính là tinh giản giá kim loại kết cấu, nói là chiến cơ, duy nhất công năng đại khái là mang người bay lên, mà bây giờ, những này thiết kế đơn giản, chi phí rẻ tiền yếu nhất chiến cơ, lại lấy được cực kỳ huy hoàng chiến quả.
+
+	Bọn hắn không ngừng hướng phía dưới rơi vãi một loại đặc thù dược tề, "Sạch sẽ số hai", kia là Olvy trong thí nghiệm sản phẩm phụ, nó nguyên thiết kế là dùng tới làm giặt quần áo dịch. Kết quả đang thí nghiệm về sau, lại phát hiện là một loại hiệu quả cực kỳ tốt thuốc kích thích cùng xuân dược. . . Khụ khụ, loại này khoa học nhỏ phát minh ngoài ý muốn mang tới "Kinh hỉ", chúng ta đều quen thuộc, không phải sao?
+
+	Thích hợp hưng phấn trên chiến trường là một chuyện tốt, sợ hãi cùng phẫn nộ là tốt nhất thuốc kích thích, điều này có thể để các chiến sĩ phát huy toàn lực của mình, nhưng quá độ sục sôi hưng phấn tâm tính cùng cảm xúc, lại ngược lại sẽ ảnh hưởng trên chiến trường phát huy, dùng sức quá sai lầm, cơ bắp quá tải run rẩy, cực độ hưng phấn sau siêu rã rời. Đều là cực kỳ muốn mạng.
+
+	Còn nếu là loại này hiệu quả nhanh thuốc kích thích gặp một khi hưng phấn quá độ liền sẽ tự bạo Thâm Uyên chiến nô, quả thực là hoàn mỹ nhất phối hợp, như vậy, lấy được cái dạng gì chiến quả đều không kỳ quái.
+
+	Bọn hắn chỗ đến. Từng cái cái bình bị mở ra, dược tề cùng bột phấn rơi xuống dưới, phía dưới lại từng đợt tiếng nổ, mà bây giờ bọn hắn vì vây công tường thành, đều lít nha lít nhít tiến đến cùng một chỗ, một cái Thâm Uyên chiến nô tự bạo. Nổ chết mấy cái khác Thâm Uyên chiến nô, trong đó có mấy cái cũng cùng nhau tự bạo. . . Một cái tổng phí tổn không cao hơn mười cái ngân tệ dược tề, thế mà xử lý mấy chục con trung vị ác ma, đây quả thực là không thể tưởng tượng nổi chiến quả.
+
+	Cái này hơn 300 con cực kỳ đơn bạc Phượng Hoàng chiến cơ, trở thành chiến trường tiêu điểm, bọn hắn chỗ đến, chính là từng đợt bạo tạc, nhưng ta biết, dạng này chiến tích tiếp tục không được bao lâu.
+
+	Vì thí nghiệm vũ khí, chúng ta mang đến các loại vũ khí mới trang bị cùng dược tề, mỗi một loại số lượng đều là có hạn, nhưng đã hiệu quả tốt như vậy, quay đầu chúng ta liền sẽ mở rộng sản xuất, mà lại đem xem như quý giá vũ khí mới bán ra.
+
+	"Đem xuân dược cùng thuốc kích thích xem như sinh hóa vũ khí bán ra, thật làm cho người vô pháp đánh giá. . ."
+
+	Nhưng cân nhắc đến ma triều qua đi, lại tiến vào chủ vị diện đều chỉ là phổ thông ác ma, loại thuốc này lượng tiêu thụ đoán chừng cũng liền, ngược lại là gặp được Hỏa thuộc tính ác ma có thể thử nghiệm thêm, chỉ cần có thể dụ làm một con Viêm Ma tự bạo, liền có thể tạo thành thành tấn tổn thương.
+
+	"Được rồi, đừng nghĩ nhiều như vậy, còn có hơn bốn mươi loại dược tề chờ lấy thí nghiệm."
+
+	Băng Hà Thế Kỷ đã tiến vào sau cùng bộc phát kỳ, pháp thuật mô hình đã ổn định, ta ngược lại có thể phân tâm, mặc dù trong miệng còn muốn muốn lẩm bẩm cái này lại thối lại lớn lên chú văn, nhưng lại có rảnh rỗi có thể quan tâm nhiều hơn một chút chiến trường.
+
+	Mặt đất chiến trường đồng dạng lâm vào thế bí, Lam Minh nhân loại chiến sĩ gia nhập, để các tinh linh thở phào, nhưng để người không thích, lại là tại đợt thứ nhất tiếp xúc bên trong, chiến sĩ loài người liền xuất hiện thương vong.
+
+	Nhìn xem những này tinh linh tựa hồ ứng phó rất dễ dàng, nhưng vừa mới tiếp nhận, Lam Minh bộ binh hạng nặng, ma kiếm sĩ liền ăn phải cái lỗ vốn, những này ác ma lực lớn vô cùng không sợ đau đớn, mà lại tùy thời có khả năng bạo tạc, đích thật là nhất làm cho đầu người đau vật lộn đối thủ.
+
+	Dù cho có rất nhiều chuẩn bị, đối mặt đối thủ như vậy, tân binh muốn trở thành lão binh, thương vong vẫn như cũ là không cách nào tránh khỏi, may mắn, Renee các nàng tự thân lên trận, một trận chém giết, ổn định chiến cuộc.
+
+	Mà để ta ngoài ý muốn, lại là nàng hai cái hoàng phi cũng tới chiến trường, một cái là thân thủ cứng rắn khoái kiếm sĩ, một cái là thần thuật, ma pháp song tu xuất thủ người thi pháp, thực lực thật đúng là không tầm thường.
+
+	"Cấm chú còn bao lâu nữa?"
+
+	"Chừng một giờ."
+
+	". . . . Ai nói nửa giờ liền có thể giải quyết, hiện tại đã mười phút đi! Ngươi bây giờ nói cho ta còn muốn một giờ."
+
+	Heloise cùng Renee giao lưu tràn đầy hỏa khí, ta hiện tại không cách nào hành động, tất cả ngôn ngữ vẫn như cũ chỉ có thể dựa vào Heloise thuật lại.
+
+	Vẻn vẹn một cái tiếp xúc, liền tổn thất trên trăm vị chiến sĩ tinh nhuệ, lại âm thầm cảm thán ma triều hoàn toàn chính xác danh bất hư truyền thời điểm, Renee cũng rất là đau lòng, tự nhiên hỏa khí liền lên đến.
+
+	"Hắn nói là ít nhất nửa giờ, nhiều nhất ba giờ. . ."
+
+	Heloise càng nói càng nhỏ âm thanh, tình huống này hoàn toàn chính xác rất không ổn, mỗi một giây đều có vô số chiến sĩ hi sinh, chiến đấu cường độ viễn siêu mong muốn.
+
+	Nhưng đến lúc này, song phương cũng chỉ có thể liều mạng chống đỡ xuống dưới, mở cung không quay đầu lại tiễn, ngõ hẹp gặp nhau dũng giả thắng, ai trước nhịn không được, ai chơi xong.
+
+	"Roland, ngươi không hổ là ngàn năm thứ nhất hố người, ngươi không chỉ có hố đối thủ, còn hố đồng đội!"
+
+	Khục, cái này liên quan ta chuyện gì, ta tại sao lại vô tội trúng đạn.Chương 642: Cứu viện triển khai
+
+	Tuyết lông ngỗng càng rơi xuống càng lớn, bị liên lụy đến phạm vi cũng càng ngày càng rộng, mà cho dù tại mấy chục cây số bên ngoài, vẫn như cũ có ma triều ác ma cảm giác được nguy hiểm, hoặc là quay đầu co cẳng liền chạy, hoặc là, liền chém giết đồng bạn xông ra con đường, đến đây trừ tận gốc kia xuất phát từ bản năng uy hiếp.
+
+	Trật tự thần chi cùng Thâm Uyên ác ma vĩnh hằng Thánh chiến trình diễn vô số lần, nhưng ngay từ đầu đánh thảm liệt như vậy, nhưng như cũ là số ít, chí cao Chủ Thần giống như là nhốt vào sân thi đấu sư tử, không có đường lui tương hỗ giác đấu, chém giết lẫn nhau.
+
+	Mỗi một khắc, đều có vô số anh linh, thần sứ đổ xuống, đây là một trận không có đường lui, không cách nào tránh né chiến tranh, ưu nhã tinh linh võ kỹ không như điên bạo dã tính cùng bản năng chiến đấu, ma pháp sẽ chỉ sớm dẫn bạo những này điên cuồng chiến thú, tại vô tận pháo hôi trước mặt, những cái kia các tinh linh truyền kỳ cường giả bị Thâm Uyên chiến nô xé nát, nổ nát vụn.
+
+	Nhưng tinh linh chư thần không có lùi bước không gian cùng dư lực, vô số thời đại tích lũy, giống như cược đỏ mắt dân cờ bạc, bị nện tiến thấy thế nào đều không có hi vọng cối xay thịt, gây nên, chỉ là tranh thủ thêm một chút thời gian.
+
+	Tại bọn hắn phía sau, một tòa đen nhánh phù không thành phiêu phù ở Nguyệt Luân Chi Đô bầu trời, nó hướng phía dưới mở ra thông đạo đã chứa đầy, vô số lơ lửng hạm, máy bay chiến đấu ở trong đó xuyên tới xuyên lui, trợ giúp mang theo người sống sót tiến vào toà này lơ lửng thành thị.
+
+	Vĩnh Dạ thành, ở thời điểm này đưa đến rất mấu chốt tác dụng, chờ nó bị đổ đầy, mặc kệ là đem để vào Minh phủ chi địa, vẫn là trực tiếp tốc độ như rùa chuồn đi, đều là rất phòng bị lựa chọn.
+
+	Tiện thể nhấc lên, trước đó nói một chút qua, kia bug chi địa giống nhau là Minh phủ chi địa một bộ phận, trong đó tử vong chi tức mặc dù không bằng Minh phủ bản thân, nhưng cũng là phụ năng lượng một loại, đối người sống vẫn như cũ là có hại thậm chí trí mạng, đây cũng là ta Vĩnh Dạ thành, trường kỳ không có người sống hộ gia đình nguyên nhân căn bản.
+
+	Đối cường giả đến nói, loại này ác ý không đủ "Phụ năng lượng" nếu không xuẩn chủ động hút vào thể nội, là có thể phòng ngự, nhưng đối không có cái gì siêu tự nhiên năng lực người bình thường đến nói, lại là không cách nào phòng ngự trí mạng chi độc.
+
+	Ta làm qua thí nghiệm. Tại dạng này hoàn cảnh bên trong, người bình thường nhiều nhất ba giờ liền vĩnh viễn không cần đi, người sống sẽ trực tiếp chuyển đổi thành người chết, nhưng vẫn như cũ có thể lấy tử linh thân phận sống ở thế gian. Nhưng ta nghĩ, những cái kia tinh linh đại khái sẽ không thích dạng này luôn luôn đen như mực trụ sở.
+
+	Cân nhắc đến tinh linh so với nhân loại còn muốn hơi kém thể chất, tinh linh kỳ an toàn hẳn là chỉ có chừng hai giờ, nếu là tại Vĩnh Dạ chi thành bên trong, mở ra phòng ngự. Giống như là phòng ngự công kích pháp thuật bài trừ tử vong chi tức, thời gian này hẳn là sẽ có thể kéo dài.
+
+	Nhưng cân nhắc đến Pháp Sư tháp, phù không thành ma lực là có hạn, trường kỳ mở ra pháp thuật phòng ngự tương đương tìm đường chết, cái này phòng ngự thời gian cũng sẽ không quá dài. . . . Tốt a, đã có người chú ý tới, ta nói chính là, ta Vĩnh Dạ thành làm sao có thể, hắn nhưng là có "Vô tận ma lực nội hạch".
+
+	Khục, cũng không nên hỏi cái này vô tận ma lực là thế nào đến, nhưng dù cho phòng ngự có thể bảo trì. Vị diện quy tắc vẫn là lại không ngừng ăn mòn trong đó hộ gia đình, cũng chỉ là kéo dài hộ gia đình thời gian, sau khi rời khỏi đây bệnh nặng một trận xem như may mắn, ở lâu, chết bên trong cũng bình thường, cân nhắc đến nào đó bầy xui xẻo sơn tặc tại ngày thứ năm bắt đầu liền có nhân hóa làm vong linh, trong bảy ngày toàn bộ hóa thành vong linh, cá nhân ta cảm thấy, nếu là tinh linh, ba, bốn ngày đại khái còn tính là kỳ an toàn.
+
+	Đương nhiên. Nếu không phải khi lúc cần thiết, ta vẫn là không muốn tiết lộ ta cái này Minh phủ chi địa át chủ bài, nó thế nhưng là chính cống đòn sát thủ, nhưng nhìn hôm nay cái này tình thế. Có một số việc là không thể tránh được.
+
+	Nguyên bản kế hoạch của ta là nếu chỉ mang hài tử đi, những cái kia lơ lửng hạm hẳn là liền đủ, như di chuyển nhân số quá nhiều, liền lấy ra phù không thành, chậm rãi bay.
+
+	Như bị buộc hung ác, cất vào phù không thành lại cất vào Minh phủ chi địa. Ta một người liền có thể chuồn đi, đuổi tại người ở bên trong chết sạch quang chi trước, bay qua bị thế nhân xem như không thể vượt qua dãy núi Heluite núi tuyết, tại đối diện bình nguyên mở ra thế giới, đem người đều phóng xuất, để chính bọn hắn đi.
+
+	Đương nhiên, đây hết thảy tiền đề, là đem tất cả mọi người chuyển di tiến phù không thành, dạng này, chúng ta chỗ trống liền sẽ nhiều rất nhiều.
+
+	"Hài tử cùng lão nhân, nữ nhân ưu tiên. Uy, ngươi một cái đại lão gia, không đi cùng ma triều liều mạng, còn cùng nữ nhân hài tử đoạt vị trí, mất mặt không?"
+
+	Heloise một cước đá bay một cái hướng phía trước cướp tuổi trẻ tinh linh, mà sự xuất hiện của nàng, nhưng cũng yên ổn lòng người.
+
+	Heloise mang theo bốn thượng vị tinh linh toàn lực đầu nhập cứu tế bên trong, hoàng kim tinh linh đặc thù loá mắt tóc vàng da trắng cùng cao gầy dáng người dị thường gây chú ý, tinh linh hoàng quyền ba Thần khí càng là hấp dẫn vô số ánh mắt, không ít nguyệt tinh linh cùng ngân tinh linh nhìn nàng ánh mắt thực tế rất là phức tạp.
+
+	Sở dĩ để các tinh linh đi cứu viện hỗ trợ, trừ bởi vì đồng tộc có thể trấn an lòng người giải trừ phòng bị bên ngoài, càng là bởi vì ta thực tế nghĩ không ra, còn có cái gì so cứu tế hành động tốt hơn xoát danh vọng hành động.
+
+	Chúng ta cứu viện cũng không có vòng qua những cái kia "Tinh Linh đế quốc" thượng vị tinh linh cùng "Hoàng thất", nhưng ít ra từ hiện tại đến xem, bọn hắn còn không có rút lui dự định, cũng không có ngăn cản chúng ta di chuyển hành động, dù cho cái này nói rõ chính là đang đào bọn hắn góc tường. . . Bọn hắn cũng không thể ngăn cản người một nhà dân chạy trốn con đường đi.
+
+	Ân, lúc ấy ném cho các nàng vài khung chiến cơ đi.
+
+	Lúc này, mới Aurora không có di động, cũng vô pháp di động, lấy nó là hạch tâm, vô số hàn băng, băng tuyết, băng sương, bông tuyết đã bao trùm hết thảy, ánh mắt chiếu tới chỗ tuyết lớn đầy trời, trắng lóa như tuyết, tại thiên không cùng đại địa ở giữa, khắp nơi đều là bay múa nguyên tố băng tuyết tinh linh.
+
+	Mà để người kinh ngạc, lại là tại mới Aurora quanh mình cùng chính phía dưới Nguyệt Luân chi thành, mặc dù hàn phong vẫn như cũ, nhưng tuyết lớn lại đình chỉ, tại mắt thường đi tới biên cảnh, đây là duy nhất không đất tuyết.
+
+	Cấm chú cũng là muốn có khu vực an toàn, đó chính là người thi pháp vị trí, mà bây giờ, tất cả phe Thâm Uyên chiến lực, đều lấy cái phương hướng này làm mục tiêu.
+
+	Trừ ta chỗ Aurora, cái khác chiến hạm cùng chiến sĩ đều đã đầu nhập vào chiến trường, nhưng bọn hắn không có đến chiến trường một tuyến cùng tinh linh chư thần kề vai chiến đấu (sung làm pháo hôi), mà là tại Nguyệt Luân Chi Đô tường thành bên ngoài, bắt đầu chặn đường những cái kia lọt lưới ma thú, ác ma.
+
+	Dạng này không chỉ có phong hiểm nhỏ bé, cũng có thể thu được tinh linh cảm kích cùng ân tình, càng thêm thích hợp những phàm nhân này chiến sĩ tích lũy kinh nghiệm chiến đấu cùng thu thập trang bị số liệu, mà không phải vội vã chiến tử.
+
+	Phù Không Chiến Hạm hạm pháo thay phiên phát uy, mỗi một lần bạo tạc, đều thanh không quanh mình mấy chục con, trăm con ác ma, loại này hiệu suất cao cùng thấp nguy hiểm phương thức chiến đấu, để các tinh linh càng phát ra cảm thấy mình đã lạc hậu hơn toàn bộ thời đại.
+
+	Trên bầu trời nhất chói mắt, lại không phải cự hình chiến hạm, mà là kia nho nhỏ chu nho Phượng Hoàng chiến cơ.
+
+	Nó là chu nho máy bay trực thăng một loại cải tiến hình, chu nho máy bay trực thăng kỳ thật cũng không thể tính phát minh mới, nhưng một mực không cách nào trở thành không kỵ sĩ lựa chọn, chủ yếu là trục trặc suất cực cao. Mà một khi phát sinh trục trặc, không kỵ sĩ cùng máy bay trực thăng đều đem quẳng thành khối vụn.
+
+	Cái này Phượng Hoàng chiến cơ cùng trục trặc suất cực cao máy nguyên hình khác biệt, hắn có tương hỗ điệp gia song cánh quạt xuất lực, như vậy. Dù cho ra trục trặc, cũng chỉ là động lực giảm xuống, còn có thể an toàn hạ xuống, mà coi như hai cái cánh quạt đều hư mất, chúng ta còn chuẩn bị dù nhảy. . . Loại này "Khởi tử hoàn sinh" năng lực. Chính là được xưng là Phượng Hoàng nguyên do.
+
+	Bản thân nó không có vũ khí, chính là tinh giản giá kim loại kết cấu, nói là chiến cơ, duy nhất công năng đại khái là mang người bay lên, mà bây giờ, những này thiết kế đơn giản, chi phí rẻ tiền yếu nhất chiến cơ, lại lấy được cực kỳ huy hoàng chiến quả.
+
+	Bọn hắn không ngừng hướng phía dưới rơi vãi một loại đặc thù dược tề, "Sạch sẽ số hai", kia là Olvy trong thí nghiệm sản phẩm phụ, nó nguyên thiết kế là dùng tới làm giặt quần áo dịch. Kết quả đang thí nghiệm về sau, lại phát hiện là một loại hiệu quả cực kỳ tốt thuốc kích thích cùng xuân dược. . . Khụ khụ, loại này khoa học nhỏ phát minh ngoài ý muốn mang tới "Kinh hỉ", chúng ta đều quen thuộc, không phải sao?
+
+	Thích hợp hưng phấn trên chiến trường là một chuyện tốt, sợ hãi cùng phẫn nộ là tốt nhất thuốc kích thích, điều này có thể để các chiến sĩ phát huy toàn lực của mình, nhưng quá độ sục sôi hưng phấn tâm tính cùng cảm xúc, lại ngược lại sẽ ảnh hưởng trên chiến trường phát huy, dùng sức quá sai lầm, cơ bắp quá tải run rẩy, cực độ hưng phấn sau siêu rã rời. Đều là cực kỳ muốn mạng.
+
+	Còn nếu là loại này hiệu quả nhanh thuốc kích thích gặp một khi hưng phấn quá độ liền sẽ tự bạo Thâm Uyên chiến nô, quả thực là hoàn mỹ nhất phối hợp, như vậy, lấy được cái dạng gì chiến quả đều không kỳ quái.
+
+	Bọn hắn chỗ đến. Từng cái cái bình bị mở ra, dược tề cùng bột phấn rơi xuống dưới, phía dưới lại từng đợt tiếng nổ, mà bây giờ bọn hắn vì vây công tường thành, đều lít nha lít nhít tiến đến cùng một chỗ, một cái Thâm Uyên chiến nô tự bạo. Nổ chết mấy cái khác Thâm Uyên chiến nô, trong đó có mấy cái cũng cùng nhau tự bạo. . . Một cái tổng phí tổn không cao hơn mười cái ngân tệ dược tề, thế mà xử lý mấy chục con trung vị ác ma, đây quả thực là không thể tưởng tượng nổi chiến quả.
+
+	Cái này hơn 300 con cực kỳ đơn bạc Phượng Hoàng chiến cơ, trở thành chiến trường tiêu điểm, bọn hắn chỗ đến, chính là từng đợt bạo tạc, nhưng ta biết, dạng này chiến tích tiếp tục không được bao lâu.
+
+	Vì thí nghiệm vũ khí, chúng ta mang đến các loại vũ khí mới trang bị cùng dược tề, mỗi một loại số lượng đều là có hạn, nhưng đã hiệu quả tốt như vậy, quay đầu chúng ta liền sẽ mở rộng sản xuất, mà lại đem xem như quý giá vũ khí mới bán ra.
+
+	"Đem xuân dược cùng thuốc kích thích xem như sinh hóa vũ khí bán ra, thật làm cho người vô pháp đánh giá. . ."
+
+	Nhưng cân nhắc đến ma triều qua đi, lại tiến vào chủ vị diện đều chỉ là phổ thông ác ma, loại thuốc này lượng tiêu thụ đoán chừng cũng liền, ngược lại là gặp được Hỏa thuộc tính ác ma có thể thử nghiệm thêm, chỉ cần có thể dụ làm một con Viêm Ma tự bạo, liền có thể tạo thành thành tấn tổn thương.
+
+	"Được rồi, đừng nghĩ nhiều như vậy, còn có hơn bốn mươi loại dược tề chờ lấy thí nghiệm."
+
+	Băng Hà Thế Kỷ đã tiến vào sau cùng bộc phát kỳ, pháp thuật mô hình đã ổn định, ta ngược lại có thể phân tâm, mặc dù trong miệng còn muốn muốn lẩm bẩm cái này lại thối lại lớn lên chú văn, nhưng lại có rảnh rỗi có thể quan tâm nhiều hơn một chút chiến trường.
+
+	Mặt đất chiến trường đồng dạng lâm vào thế bí, Lam Minh nhân loại chiến sĩ gia nhập, để các tinh linh thở phào, nhưng để người không thích, lại là tại đợt thứ nhất tiếp xúc bên trong, chiến sĩ loài người liền xuất hiện thương vong.
+
+	Nhìn xem những này tinh linh tựa hồ ứng phó rất dễ dàng, nhưng vừa mới tiếp nhận, Lam Minh bộ binh hạng nặng, ma kiếm sĩ liền ăn phải cái lỗ vốn, những này ác ma lực lớn vô cùng không sợ đau đớn, mà lại tùy thời có khả năng bạo tạc, đích thật là nhất làm cho đầu người đau vật lộn đối thủ.
+
+	Dù cho có rất nhiều chuẩn bị, đối mặt đối thủ như vậy, tân binh muốn trở thành lão binh, thương vong vẫn như cũ là không cách nào tránh khỏi, may mắn, Renee các nàng tự thân lên trận, một trận chém giết, ổn định chiến cuộc.
+
+	Mà để ta ngoài ý muốn, lại là nàng hai cái hoàng phi cũng tới chiến trường, một cái là thân thủ cứng rắn khoái kiếm sĩ, một cái là thần thuật, ma pháp song tu xuất thủ người thi pháp, thực lực thật đúng là không tầm thường.
+
+	"Cấm chú còn bao lâu nữa?"
+
+	"Chừng một giờ."
+
+	". . . . Ai nói nửa giờ liền có thể giải quyết, hiện tại đã mười phút đi! Ngươi bây giờ nói cho ta còn muốn một giờ."
+
+	Heloise cùng Renee giao lưu tràn đầy hỏa khí, ta hiện tại không cách nào hành động, tất cả ngôn ngữ vẫn như cũ chỉ có thể dựa vào Heloise thuật lại.
+
+	Vẻn vẹn một cái tiếp xúc, liền tổn thất trên trăm vị chiến sĩ tinh nhuệ, lại âm thầm cảm thán ma triều hoàn toàn chính xác danh bất hư truyền thời điểm, Renee cũng rất là đau lòng, tự nhiên hỏa khí liền lên đến.
+
+	"Hắn nói là ít nhất nửa giờ, nhiều nhất ba giờ. . ."
+
+	Heloise càng nói càng nhỏ âm thanh, tình huống này hoàn toàn chính xác rất không ổn, mỗi một giây đều có vô số chiến sĩ hi sinh, chiến đấu cường độ viễn siêu mong muốn.
+
+	Nhưng đến lúc này, song phương cũng chỉ có thể liều mạng chống đỡ xuống dưới, mở cung không quay đầu lại tiễn, ngõ hẹp gặp nhau dũng giả thắng, ai trước nhịn không được, ai chơi xong.
+
+	"Roland, ngươi không hổ là ngàn năm thứ nhất hố người, ngươi không chỉ có hố đối thủ, còn hố đồng đội!"
+
+	Khục, cái này liên quan ta chuyện gì, ta tại sao lại vô tội trúng đạn.Chương 642: Cứu viện triển khai
+
+	Tuyết lông ngỗng càng rơi xuống càng lớn, bị liên lụy đến phạm vi cũng càng ngày càng rộng, mà cho dù tại mấy chục cây số bên ngoài, vẫn như cũ có ma triều ác ma cảm giác được nguy hiểm, hoặc là quay đầu co cẳng liền chạy, hoặc là, liền chém giết đồng bạn xông ra con đường, đến đây trừ tận gốc kia xuất phát từ bản năng uy hiếp.
+
+	Trật tự thần chi cùng Thâm Uyên ác ma vĩnh hằng Thánh chiến trình diễn vô số lần, nhưng ngay từ đầu đánh thảm liệt như vậy, nhưng như cũ là số ít, chí cao Chủ Thần giống như là nhốt vào sân thi đấu sư tử, không có đường lui tương hỗ giác đấu, chém giết lẫn nhau.
+
+	Mỗi một khắc, đều có vô số anh linh, thần sứ đổ xuống, đây là một trận không có đường lui, không cách nào tránh né chiến tranh, ưu nhã tinh linh võ kỹ không như điên bạo dã tính cùng bản năng chiến đấu, ma pháp sẽ chỉ sớm dẫn bạo những này điên cuồng chiến thú, tại vô tận pháo hôi trước mặt, những cái kia các tinh linh truyền kỳ cường giả bị Thâm Uyên chiến nô xé nát, nổ nát vụn.
+
+	Nhưng tinh linh chư thần không có lùi bước không gian cùng dư lực, vô số thời đại tích lũy, giống như cược đỏ mắt dân cờ bạc, bị nện tiến thấy thế nào đều không có hi vọng cối xay thịt, gây nên, chỉ là tranh thủ thêm một chút thời gian.
+
+	Tại bọn hắn phía sau, một tòa đen nhánh phù không thành phiêu phù ở Nguyệt Luân Chi Đô bầu trời, nó hướng phía dưới mở ra thông đạo đã chứa đầy, vô số lơ lửng hạm, máy bay chiến đấu ở trong đó xuyên tới xuyên lui, trợ giúp mang theo người sống sót tiến vào toà này lơ lửng thành thị.
+
+	Vĩnh Dạ thành, ở thời điểm này đưa đến rất mấu chốt tác dụng, chờ nó bị đổ đầy, mặc kệ là đem để vào Minh phủ chi địa, vẫn là trực tiếp tốc độ như rùa chuồn đi, đều là rất phòng bị lựa chọn.
+
+	Tiện thể nhấc lên, trước đó nói một chút qua, kia bug chi địa giống nhau là Minh phủ chi địa một bộ phận, trong đó tử vong chi tức mặc dù không bằng Minh phủ bản thân, nhưng cũng là phụ năng lượng một loại, đối người sống vẫn như cũ là có hại thậm chí trí mạng, đây cũng là ta Vĩnh Dạ thành, trường kỳ không có người sống hộ gia đình nguyên nhân căn bản.
+
+	Đối cường giả đến nói, loại này ác ý không đủ "Phụ năng lượng" nếu không xuẩn chủ động hút vào thể nội, là có thể phòng ngự, nhưng đối không có cái gì siêu tự nhiên năng lực người bình thường đến nói, lại là không cách nào phòng ngự trí mạng chi độc.
+
+	Ta làm qua thí nghiệm. Tại dạng này hoàn cảnh bên trong, người bình thường nhiều nhất ba giờ liền vĩnh viễn không cần đi, người sống sẽ trực tiếp chuyển đổi thành người chết, nhưng vẫn như cũ có thể lấy tử linh thân phận sống ở thế gian. Nhưng ta nghĩ, những cái kia tinh linh đại khái sẽ không thích dạng này luôn luôn đen như mực trụ sở.
+
+	Cân nhắc đến tinh linh so với nhân loại còn muốn hơi kém thể chất, tinh linh kỳ an toàn hẳn là chỉ có chừng hai giờ, nếu là tại Vĩnh Dạ chi thành bên trong, mở ra phòng ngự. Giống như là phòng ngự công kích pháp thuật bài trừ tử vong chi tức, thời gian này hẳn là sẽ có thể kéo dài.
+
+	Nhưng cân nhắc đến Pháp Sư tháp, phù không thành ma lực là có hạn, trường kỳ mở ra pháp thuật phòng ngự tương đương tìm đường chết, cái này phòng ngự thời gian cũng sẽ không quá dài. . . . Tốt a, đã có người chú ý tới, ta nói chính là, ta Vĩnh Dạ thành làm sao có thể, hắn nhưng là có "Vô tận ma lực nội hạch".
+
+	Khục, cũng không nên hỏi cái này vô tận ma lực là thế nào đến, nhưng dù cho phòng ngự có thể bảo trì. Vị diện quy tắc vẫn là lại không ngừng ăn mòn trong đó hộ gia đình, cũng chỉ là kéo dài hộ gia đình thời gian, sau khi rời khỏi đây bệnh nặng một trận xem như may mắn, ở lâu, chết bên trong cũng bình thường, cân nhắc đến nào đó bầy xui xẻo sơn tặc tại ngày thứ năm bắt đầu liền có nhân hóa làm vong linh, trong bảy ngày toàn bộ hóa thành vong linh, cá nhân ta cảm thấy, nếu là tinh linh, ba, bốn ngày đại khái còn tính là kỳ an toàn.
+
+	Đương nhiên. Nếu không phải khi lúc cần thiết, ta vẫn là không muốn tiết lộ ta cái này Minh phủ chi địa át chủ bài, nó thế nhưng là chính cống đòn sát thủ, nhưng nhìn hôm nay cái này tình thế. Có một số việc là không thể tránh được.
+
+	Nguyên bản kế hoạch của ta là nếu chỉ mang hài tử đi, những cái kia lơ lửng hạm hẳn là liền đủ, như di chuyển nhân số quá nhiều, liền lấy ra phù không thành, chậm rãi bay.
+
+	Như bị buộc hung ác, cất vào phù không thành lại cất vào Minh phủ chi địa. Ta một người liền có thể chuồn đi, đuổi tại người ở bên trong chết sạch quang chi trước, bay qua bị thế nhân xem như không thể vượt qua dãy núi Heluite núi tuyết, tại đối diện bình nguyên mở ra thế giới, đem người đều phóng xuất, để chính bọn hắn đi.
+
+	Đương nhiên, đây hết thảy tiền đề, là đem tất cả mọi người chuyển di tiến phù không thành, dạng này, chúng ta chỗ trống liền sẽ nhiều rất nhiều.
+
+	"Hài tử cùng lão nhân, nữ nhân ưu tiên. Uy, ngươi một cái đại lão gia, không đi cùng ma triều liều mạng, còn cùng nữ nhân hài tử đoạt vị trí, mất mặt không?"
+
+	Heloise một cước đá bay một cái hướng phía trước cướp tuổi trẻ tinh linh, mà sự xuất hiện của nàng, nhưng cũng yên ổn lòng người.
+
+	Heloise mang theo bốn thượng vị tinh linh toàn lực đầu nhập cứu tế bên trong, hoàng kim tinh linh đặc thù loá mắt tóc vàng da trắng cùng cao gầy dáng người dị thường gây chú ý, tinh linh hoàng quyền ba Thần khí càng là hấp dẫn vô số ánh mắt, không ít nguyệt tinh linh cùng ngân tinh linh nhìn nàng ánh mắt thực tế rất là phức tạp.
+
+	Sở dĩ để các tinh linh đi cứu viện hỗ trợ, trừ bởi vì đồng tộc có thể trấn an lòng người giải trừ phòng bị bên ngoài, càng là bởi vì ta thực tế nghĩ không ra, còn có cái gì so cứu tế hành động tốt hơn xoát danh vọng hành động.
+
+	Chúng ta cứu viện cũng không có vòng qua những cái kia "Tinh Linh đế quốc" thượng vị tinh linh cùng "Hoàng thất", nhưng ít ra từ hiện tại đến xem, bọn hắn còn không có rút lui dự định, cũng không có ngăn cản chúng ta di chuyển hành động, dù cho cái này nói rõ chính là đang đào bọn hắn góc tường. . . Bọn hắn cũng không thể ngăn cản người một nhà dân chạy trốn con đường đi.
+
+	Ân, lúc ấy ném cho các nàng vài khung chiến cơ đi.
+
+	Lúc này, mới Aurora không có di động, cũng vô pháp di động, lấy nó là hạch tâm, vô số hàn băng, băng tuyết, băng sương, bông tuyết đã bao trùm hết thảy, ánh mắt chiếu tới chỗ tuyết lớn đầy trời, trắng lóa như tuyết, tại thiên không cùng đại địa ở giữa, khắp nơi đều là bay múa nguyên tố băng tuyết tinh linh.
+
+	Mà để người kinh ngạc, lại là tại mới Aurora quanh mình cùng chính phía dưới Nguyệt Luân chi thành, mặc dù hàn phong vẫn như cũ, nhưng tuyết lớn lại đình chỉ, tại mắt thường đi tới biên cảnh, đây là duy nhất không đất tuyết.
+
+	Cấm chú cũng là muốn có khu vực an toàn, đó chính là người thi pháp vị trí, mà bây giờ, tất cả phe Thâm Uyên chiến lực, đều lấy cái phương hướng này làm mục tiêu.
+
+	Trừ ta chỗ Aurora, cái khác chiến hạm cùng chiến sĩ đều đã đầu nhập vào chiến trường, nhưng bọn hắn không có đến chiến trường một tuyến cùng tinh linh chư thần kề vai chiến đấu (sung làm pháo hôi), mà là tại Nguyệt Luân Chi Đô tường thành bên ngoài, bắt đầu chặn đường những cái kia lọt lưới ma thú, ác ma.
+
+	Dạng này không chỉ có phong hiểm nhỏ bé, cũng có thể thu được tinh linh cảm kích cùng ân tình, càng thêm thích hợp những phàm nhân này chiến sĩ tích lũy kinh nghiệm chiến đấu cùng thu thập trang bị số liệu, mà không phải vội vã chiến tử.
+
+	Phù Không Chiến Hạm hạm pháo thay phiên phát uy, mỗi một lần bạo tạc, đều thanh không quanh mình mấy chục con, trăm con ác ma, loại này hiệu suất cao cùng thấp nguy hiểm phương thức chiến đấu, để các tinh linh càng phát ra cảm thấy mình đã lạc hậu hơn toàn bộ thời đại.
+
+	Trên bầu trời nhất chói mắt, lại không phải cự hình chiến hạm, mà là kia nho nhỏ chu nho Phượng Hoàng chiến cơ.
+
+	Nó là chu nho máy bay trực thăng một loại cải tiến hình, chu nho máy bay trực thăng kỳ thật cũng không thể tính phát minh mới, nhưng một mực không cách nào trở thành không kỵ sĩ lựa chọn, chủ yếu là trục trặc suất cực cao. Mà một khi phát sinh trục trặc, không kỵ sĩ cùng máy bay trực thăng đều đem quẳng thành khối vụn.
+
+	Cái này Phượng Hoàng chiến cơ cùng trục trặc suất cực cao máy nguyên hình khác biệt, hắn có tương hỗ điệp gia song cánh quạt xuất lực, như vậy. Dù cho ra trục trặc, cũng chỉ là động lực giảm xuống, còn có thể an toàn hạ xuống, mà coi như hai cái cánh quạt đều hư mất, chúng ta còn chuẩn bị dù nhảy. . . Loại này "Khởi tử hoàn sinh" năng lực. Chính là được xưng là Phượng Hoàng nguyên do.
+
+	Bản thân nó không có vũ khí, chính là tinh giản giá kim loại kết cấu, nói là chiến cơ, duy nhất công năng đại khái là mang người bay lên, mà bây giờ, những này thiết kế đơn giản, chi phí rẻ tiền yếu nhất chiến cơ, lại lấy được cực kỳ huy hoàng chiến quả.
+
+	Bọn hắn không ngừng hướng phía dưới rơi vãi một loại đặc thù dược tề, "Sạch sẽ số hai", kia là Olvy trong thí nghiệm sản phẩm phụ, nó nguyên thiết kế là dùng tới làm giặt quần áo dịch. Kết quả đang thí nghiệm về sau, lại phát hiện là một loại hiệu quả cực kỳ tốt thuốc kích thích cùng xuân dược. . . Khụ khụ, loại này khoa học nhỏ phát minh ngoài ý muốn mang tới "Kinh hỉ", chúng ta đều quen thuộc, không phải sao?
+
+	Thích hợp hưng phấn trên chiến trường là một chuyện tốt, sợ hãi cùng phẫn nộ là tốt nhất thuốc kích thích, điều này có thể để các chiến sĩ phát huy toàn lực của mình, nhưng quá độ sục sôi hưng phấn tâm tính cùng cảm xúc, lại ngược lại sẽ ảnh hưởng trên chiến trường phát huy, dùng sức quá sai lầm, cơ bắp quá tải run rẩy, cực độ hưng phấn sau siêu rã rời. Đều là cực kỳ muốn mạng.
+
+	Còn nếu là loại này hiệu quả nhanh thuốc kích thích gặp một khi hưng phấn quá độ liền sẽ tự bạo Thâm Uyên chiến nô, quả thực là hoàn mỹ nhất phối hợp, như vậy, lấy được cái dạng gì chiến quả đều không kỳ quái.
+
+	Bọn hắn chỗ đến. Từng cái cái bình bị mở ra, dược tề cùng bột phấn rơi xuống dưới, phía dưới lại từng đợt tiếng nổ, mà bây giờ bọn hắn vì vây công tường thành, đều lít nha lít nhít tiến đến cùng một chỗ, một cái Thâm Uyên chiến nô tự bạo. Nổ chết mấy cái khác Thâm Uyên chiến nô, trong đó có mấy cái cũng cùng nhau tự bạo. . . Một cái tổng phí tổn không cao hơn mười cái ngân tệ dược tề, thế mà xử lý mấy chục con trung vị ác ma, đây quả thực là không thể tưởng tượng nổi chiến quả.
+
+	Cái này hơn 300 con cực kỳ đơn bạc Phượng Hoàng chiến cơ, trở thành chiến trường tiêu điểm, bọn hắn chỗ đến, chính là từng đợt bạo tạc, nhưng ta biết, dạng này chiến tích tiếp tục không được bao lâu.
+
+	Vì thí nghiệm vũ khí, chúng ta mang đến các loại vũ khí mới trang bị cùng dược tề, mỗi một loại số lượng đều là có hạn, nhưng đã hiệu quả tốt như vậy, quay đầu chúng ta liền sẽ mở rộng sản xuất, mà lại đem xem như quý giá vũ khí mới bán ra.
+
+	"Đem xuân dược cùng thuốc kích thích xem như sinh hóa vũ khí bán ra, thật làm cho người vô pháp đánh giá. . ."
+
+	Nhưng cân nhắc đến ma triều qua đi, lại tiến vào chủ vị diện đều chỉ là phổ thông ác ma, loại thuốc này lượng tiêu thụ đoán chừng cũng liền, ngược lại là gặp được Hỏa thuộc tính ác ma có thể thử nghiệm thêm, chỉ cần có thể dụ làm một con Viêm Ma tự bạo, liền có thể tạo thành thành tấn tổn thương.
+
+	"Được rồi, đừng nghĩ nhiều như vậy, còn có hơn bốn mươi loại dược tề chờ lấy thí nghiệm."
+
+	Băng Hà Thế Kỷ đã tiến vào sau cùng bộc phát kỳ, pháp thuật mô hình đã ổn định, ta ngược lại có thể phân tâm, mặc dù trong miệng còn muốn muốn lẩm bẩm cái này lại thối lại lớn lên chú văn, nhưng lại có rảnh rỗi có thể quan tâm nhiều hơn một chút chiến trường.
+
+	Mặt đất chiến trường đồng dạng lâm vào thế bí, Lam Minh nhân loại chiến sĩ gia nhập, để các tinh linh thở phào, nhưng để người không thích, lại là tại đợt thứ nhất tiếp xúc bên trong, chiến sĩ loài người liền xuất hiện thương vong.
+
+	Nhìn xem những này tinh linh tựa hồ ứng phó rất dễ dàng, nhưng vừa mới tiếp nhận, Lam Minh bộ binh hạng nặng, ma kiếm sĩ liền ăn phải cái lỗ vốn, những này ác ma lực lớn vô cùng không sợ đau đớn, mà lại tùy thời có khả năng bạo tạc, đích thật là nhất làm cho đầu người đau vật lộn đối thủ.
+
+	Dù cho có rất nhiều chuẩn bị, đối mặt đối thủ như vậy, tân binh muốn trở thành lão binh, thương vong vẫn như cũ là không cách nào tránh khỏi, may mắn, Renee các nàng tự thân lên trận, một trận chém giết, ổn định chiến cuộc.
+
+	Mà để ta ngoài ý muốn, lại là nàng hai cái hoàng phi cũng tới chiến trường, một cái là thân thủ cứng rắn khoái kiếm sĩ, một cái là thần thuật, ma pháp song tu xuất thủ người thi pháp, thực lực thật đúng là không tầm thường.
+
+	"Cấm chú còn bao lâu nữa?"
+
+	"Chừng một giờ."
+
+	". . . . Ai nói nửa giờ liền có thể giải quyết, hiện tại đã mười phút đi! Ngươi bây giờ nói cho ta còn muốn một giờ."
+
+	Heloise cùng Renee giao lưu tràn đầy hỏa khí, ta hiện tại không cách nào hành động, tất cả ngôn ngữ vẫn như cũ chỉ có thể dựa vào Heloise thuật lại.
+
+	Vẻn vẹn một cái tiếp xúc, liền tổn thất trên trăm vị chiến sĩ tinh nhuệ, lại âm thầm cảm thán ma triều hoàn toàn chính xác danh bất hư truyền thời điểm, Renee cũng rất là đau lòng, tự nhiên hỏa khí liền lên đến.
+
+	"Hắn nói là ít nhất nửa giờ, nhiều nhất ba giờ. . ."
+
+	Heloise càng nói càng nhỏ âm thanh, tình huống này hoàn toàn chính xác rất không ổn, mỗi một giây đều có vô số chiến sĩ hi sinh, chiến đấu cường độ viễn siêu mong muốn.
+
+	Nhưng đến lúc này, song phương cũng chỉ có thể liều mạng chống đỡ xuống dưới, mở cung không quay đầu lại tiễn, ngõ hẹp gặp nhau dũng giả thắng, ai trước nhịn không được, ai chơi xong.
+
+	"Roland, ngươi không hổ là ngàn năm thứ nhất hố người, ngươi không chỉ có hố đối thủ, còn hố đồng đội!"
+
+	Khục, cái này liên quan ta chuyện gì, ta tại sao lại vô tội trúng đạn.Chương 642: Cứu viện triển khai
+
+	Tuyết lông ngỗng càng rơi xuống càng lớn, bị liên lụy đến phạm vi cũng càng ngày càng rộng, mà cho dù tại mấy chục cây số bên ngoài, vẫn như cũ có ma triều ác ma cảm giác được nguy hiểm, hoặc là quay đầu co cẳng liền chạy, hoặc là, liền chém giết đồng bạn xông ra con đường, đến đây trừ tận gốc kia xuất phát từ bản năng uy hiếp.
+
+	Trật tự thần chi cùng Thâm Uyên ác ma vĩnh hằng Thánh chiến trình diễn vô số lần, nhưng ngay từ đầu đánh thảm liệt như vậy, nhưng như cũ là số ít, chí cao Chủ Thần giống như là nhốt vào sân thi đấu sư tử, không có đường lui tương hỗ giác đấu, chém giết lẫn nhau.
+
+	Mỗi một khắc, đều có vô số anh linh, thần sứ đổ xuống, đây là một trận không có đường lui, không cách nào tránh né chiến tranh, ưu nhã tinh linh võ kỹ không như điên bạo dã tính cùng bản năng chiến đấu, ma pháp sẽ chỉ sớm dẫn bạo những này điên cuồng chiến thú, tại vô tận pháo hôi trước mặt, những cái kia các tinh l
